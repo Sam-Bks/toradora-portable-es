@@ -1,0 +1,491 @@
+msgid ""
+msgstr ""
+
+msgid "Taiga「Morning.」"
+msgstr "Taiga「Buenos días.」"
+
+msgid "Ryuuji「Oh!? Where did you come from?」"
+msgstr "Ryuuji「¡¿Eh?! ¿De dónde saliste?」"
+
+msgid "Taiga「What's wrong with me being here?」"
+msgstr "Taiga「¿Qué tiene de malo que esté aquí?」"
+
+msgid "Ryuuji「Well, there is one thing...... Did you＿forget what happened yesterday?」"
+msgstr "Ryuuji「Bueno, hay un detalle...... ¿Se＿te olvidó lo que pasó ayer?」"
+
+msgid "Taiga「You're the one who forgot.」"
+msgstr "Taiga「Tú eres el que lo olvidó.」"
+
+msgid "Ryuuji「Forgot what? Well, it's true I don't＿remember much these days.」"
+msgstr "Ryuuji「¿Olvidé qué? Bueno, es cierto que＿no recuerdo mucho últimamente.」"
+
+msgid "Taiga「That's not what I meant. Hmm, let's＿see. First of all, there's a saying - \"an＿army travels on its stomach.\"」"
+msgstr "Taiga「No me refería a eso. Mmm, a ver.＿Primero, hay un dicho: \"no se puede＿pelear con el estómago vacío\".」"
+
+msgid "Ryuuji「Oh, so you're just hungry.」"
+msgstr "Ryuuji「Ah, así que solo tienes hambre.」"
+
+msgid "Taiga「Let me finish!」"
+msgstr "Taiga「¡Déjame terminar!」"
+
+msgid "Ryuuji「OUCH! Don't yank on my ear! What are＿you trying to do to someone with a＿kitchen knife in his hand!?」"
+msgstr "Ryuuji「¡AY! ¡No me tires de la oreja! ¡¿Qué＿intentas hacerle a alguien que tiene＿un cuchillo de cocina en la mano?!」"
+
+msgid "Taiga「I'm not scared of you and your little＿kitchen knife.」"
+msgstr "Taiga「No me dan miedo ni tú ni tu＿cuchillito de cocina.」"
+
+msgid "Ryuuji「Well, I am! It's cutlery, for Christ's sake!＿It's no joke for either of us!」"
+msgstr "Ryuuji「¡Pues a mí sí! ¡Es un arma blanca,＿por Dios! ¡No es broma para ninguno＿de los dos!」"
+
+msgid "Taiga「Don't change the subject!」"
+msgstr "Taiga「¡No cambies de tema!」"
+
+msgid "Ryuuji「I'm not. Carry on.」"
+msgstr "Ryuuji「No lo hago. Sigue.」"
+
+msgid "Taiga「......Where was I?」"
+msgstr "Taiga「......¿En qué estaba?」"
+
+msgid "Ryuuji「Don't care.」"
+msgstr "Ryuuji「No me importa.」"
+
+msgid "Taiga「......Forget it!」"
+msgstr "Taiga「......¡Olvídalo!」"
+
+msgid "Ryuuji「I don't want to! Just take your coat off＿and sit down! Then we can continue＿the conversation!」"
+msgstr "Ryuuji「¡No quiero! ¡Quítate el abrigo＿y siéntate! ¡Así podemos seguir＿con la conversación!」"
+
+msgid "Taiga「What's with you!? I didn't come here to＿mooch food off you!」"
+msgstr "Taiga「¡¿Qué te pasa?! ¡No vine aquí＿a sacarte comida gratis!」"
+
+msgid "Taiga「Wha!? Yes I could!」"
+msgstr "Taiga「¡¿Qué?! ¡Claro que sí!」"
+
+msgid "Ryuuji「Okay, well, I can't finish listening. I'm＿gonna eat.」"
+msgstr "Ryuuji「Bueno, pues no puedo seguir＿escuchando. Voy a comer.」"
+
+msgid "Taiga「......」"
+msgstr "Taiga「......」"
+
+msgid "Ryuuji「......Mmm, the miso soup is perfect, if I＿do say so myself. Now for the rest.」"
+msgstr "Ryuuji「......Mmm, la sopa de miso quedó＿perfecta, modestia aparte.＿Ahora lo demás.」"
+
+msgid "Taiga「......」"
+msgstr "Taiga「......」"
+
+msgid "Taiga「Damn you......」"
+msgstr "Taiga「Maldito seas......」"
+
+msgid "Ryuuji「Oh, that reminds me. Got any plans for＿today?」"
+msgstr "Ryuuji「Ah, eso me recuerda. ¿Tienes＿planes para hoy?」"
+
+msgid "Taiga「Not really.」"
+msgstr "Taiga「La verdad no.」"
+
+msgid "Ryuuji「Okay. In that case, I'd really appreciate＿it if you'd help me look for memories＿again.」"
+msgstr "Ryuuji「Bien. En ese caso, te agradecería＿mucho si me ayudaras a buscar＿mis recuerdos otra vez.」"
+
+msgid "Taiga「......Excuse me? I ditched you yesterday＿for that reason, and now you think you＿can just ask me for help?」"
+msgstr "Taiga「......¿Perdón? Ayer te dejé plantado＿por eso mismo, ¿y ahora crees que puedes＿venir a pedirme ayuda?」"
+
+msgid "Ryuuji「Alright, I take it back. Go ahead and＿start on the food.」"
+msgstr "Ryuuji「Está bien, me retracto. Adelante,＿empieza a comer.」"
+
+msgid "Taiga「Why?」"
+msgstr "Taiga「¿Por qué?」"
+
+msgid "Ryuuji「Think of it as an advance thank-you＿gift for helping out.」"
+msgstr "Ryuuji「Considéralo un agradecimiento＿por adelantado por ayudarme.」"
+
+msgid "Ryuuji「Oh yeah, that was the arrangement,＿wasn't it? That does sound familiar.」"
+msgstr "Ryuuji「Ah, sí, ese era el trato, ¿verdad?＿Eso sí me suena familiar.」"
+
+msgid "Taiga「......For that matter, you've been acting＿oddly calm, haven't you?」"
+msgstr "Taiga「......Hablando de eso, has estado＿actuando extrañamente tranquilo, ¿no?」"
+
+msgid "Ryuuji「What are you talking about?」"
+msgstr "Ryuuji「¿De qué estás hablando?」"
+
+msgid "Taiga「I mean you're being all understanding＿of me...... Oh, I know, does this come＿naturally to you, too?」"
+msgstr "Taiga「Digo, estás siendo muy comprensivo＿conmigo...... Ah, ya sé, ¿esto también＿te sale así de natural?」"
+
+msgid "Ryuuji「I'm not really sure, but it feels normal＿to me.」"
+msgstr "Ryuuji「No estoy muy seguro, pero para＿mí se siente normal.」"
+
+msgid "Taiga「......Forget it. Thanks for the food.」"
+msgstr "Taiga「......Olvídalo. Gracias por la comida.」"
+
+msgid "Ryuuji「Oh, eat up.」"
+msgstr "Ryuuji「Ah, provecho.」"
+
+msgid "Taiga「Okay, what is it? Have you decided on＿something in particular to do?」"
+msgstr "Taiga「Bien, ¿qué pasa? ¿Ya decidiste＿hacer algo en particular?」"
+
+msgid "Taiga「Good point...... Anyway, wanna head out＿around noon?」"
+msgstr "Taiga「Buen punto...... En fin, ¿quieres＿salir cerca del mediodía?」"
+
+msgid "Ryuuji「And go where?」"
+msgstr "Ryuuji「¿E ir adónde?」"
+
+msgid "Taiga「Where......? Is there anywhere you've＿been wanting to go?」"
+msgstr "Taiga「¿Adónde......? ¿Hay algún lugar＿al que hayas querido ir?」"
+
+msgid "Taiga「Alright. Then I'll come back at noon.」"
+msgstr "Taiga「Bien. Entonces vuelvo al mediodía.」"
+
+msgid "Ryuuji「What, you're going home?」"
+msgstr "Ryuuji「¿Qué, te vas a tu casa?」"
+
+msgid "Taiga「I can't spend all my time on you. I have＿things to do, you know.」"
+msgstr "Taiga「No puedo pasar todo el tiempo contigo.＿Tengo cosas que hacer, ¿sabes?」"
+
+msgid "Taiga「Ryuuujiiii!」"
+msgstr "Taiga「¡Ryuuujiiii!」"
+
+msgid "Ryuuji「Oh? Back so soon?」"
+msgstr "Ryuuji「¿Eh? ¿Ya volviste tan pronto?」"
+
+msgid "Taiga「Ryuuji, Ryuuji, RYUUJIIII～!」"
+msgstr "Taiga「¡Ryuuji, Ryuuji, RYUUJIIII～!」"
+
+msgid "Ryuuji「W-W-What's wrong? What's the＿matter?」"
+msgstr "Ryuuji「¿Q-Q-Qué ocurre? ¿Cuál es el problema?」"
+
+msgid "Taiga「L-Look!」"
+msgstr "Taiga「¡M-Mira!」"
+
+msgid "Ryuuji「Oh, New Year's cards. What about 'em?」"
+msgstr "Ryuuji「Ah, tarjetas de Año Nuevo.＿¿Qué pasa con ellas?」"
+
+msgid "Taiga「T-There's just so many! What do I do?」"
+msgstr "Taiga「¡S-Son demasiadas! ¿Qué hago?」"
+
+msgid "Ryuuji「What should you do......? Well, what do＿you WANT to do?」"
+msgstr "Ryuuji「¿Qué deberías hacer......? Bueno,＿¿qué QUIERES hacer?」"
+
+msgid "Taiga「R-Reply to them! Can I reply to them＿now?」"
+msgstr "Taiga「¡R-Responderlas! ¿Puedo＿responderlas ahora?」"
+
+msgid "Ryuuji「That's totally okay...... Wait, did you only＿just notice them?」"
+msgstr "Ryuuji「Claro que sí...... Espera, ¿apenas＿te diste cuenta de ellas?」"
+
+msgid "Taiga「I accidentally forgot to check the＿mailbox yesterday...... but I never would＿have thought I'd get this many.」"
+msgstr "Taiga「Sin querer olvidé revisar el buzón＿ayer...... pero jamás habría pensado＿que recibiría tantas.」"
+
+msgid "Ryuuji「（Wait, \"this many\"......? That's like, 10 at＿most.）」"
+msgstr "Ryuuji「（Espera, ¿\"tantas\"......? Si acaso＿son unas 10 como mucho.）」"
+
+msgid "Ryuuji「......First of all, you can discard the ones＿you already sent cards to.」"
+msgstr "Ryuuji「......Primero, puedes apartar＿las tarjetas de quienes ya＿recibieron una tuya.」"
+
+msgid "Taiga「Ummm...... Here it is!」"
+msgstr "Taiga「Ehhh...... ¡Aquí está!」"
+
+msgid "Ryuuji「Oh, just one!? It's Kushieda, to boot.」"
+msgstr "Ryuuji「¡¿Ah, solo una?! Y encima＿es de Kushieda.」"
+
+msgid "Taiga「Well, I didn't think anyone else would＿send one......」"
+msgstr "Taiga「Bueno, no pensé que nadie más＿me enviaría una......」"
+
+msgid "Ryuuji「......I gotta say, this is a very＿Kushieda-like New Year's card.」"
+msgstr "Ryuuji「......Debo decir que es una tarjeta de＿Año Nuevo muy al estilo Kushieda.」"
+
+msgid "Taiga「Yup, hers was over-the-top last year＿too. That's my Minorin.」"
+msgstr "Taiga「Sip, la suya del año pasado también＿fue exagerada. Así es mi Minorin.」"
+
+msgid "Ryuuji「......Look, you got one from Kawashima＿too.」"
+msgstr "Ryuuji「......Mira, también recibiste＿una de Kawashima.」"
+
+msgid "Taiga「From StuChi? No way!」"
+msgstr "Taiga「¿De StuChi? ¡No puede ser!」"
+
+msgid "Taiga「Really?」"
+msgstr "Taiga「¿En serio?」"
+
+msgid "Ryuuji「I think so, at least...... Oh, you got one＿from Kitamura, too. Good for you,＿Taiga.」"
+msgstr "Ryuuji「Eso creo, al menos...... Ah,＿también tienes una de Kitamura.＿Qué bien, Taiga.」"
+
+msgid "Taiga「Oh, you're right.」"
+msgstr "Taiga「Ah, tienes razón.」"
+
+msgid "Ryuuji「......What's the matter?」"
+msgstr "Ryuuji「......¿Qué pasa?」"
+
+msgid "Taiga「What do you mean?」"
+msgstr "Taiga「¿A qué te refieres?」"
+
+msgid "Ryuuji「Well, how do I put this......? I thought＿you'd be a little happier about it.」"
+msgstr "Ryuuji「Bueno, ¿cómo decirlo......? Pensé que＿te pondrías un poco más contenta.」"
+
+msgid "Taiga「What, shall I dance a jig for you?」"
+msgstr "Taiga「¿Qué, quieres que te baile una giga?」"
+
+msgid "Ryuuji「That's not what I'm saying. Well, what＿the hell is a \"jig\" in the first place?」"
+msgstr "Ryuuji「No digo eso. Bueno, ¿y qué diablos＿es una \"giga\" para empezar?」"
+
+msgid "Taiga「Not something I made up, that's for＿sure...... Oh, I got one from that stupid＿hippie.」"
+msgstr "Taiga「No es algo que inventé yo, eso＿seguro...... Ah, me llegó una＿de ese hippie estúpido.」"
+
+msgid "Ryuuji「......Please call him Haruta. At least in＿your New Year's greeting.」"
+msgstr "Ryuuji「......Por favor, llámalo Haruta. Al＿menos en tu saludo de Año Nuevo.」"
+
+msgid "Taiga「All that's left...... This one's from that＿first-year who was on the ChrisPar＿committee with us, as I recall.」"
+msgstr "Taiga「Solo queda esta...... Creo que es de＿ese estudiante de primer año que estuvo＿en el comité de la FiesNavi.」"
+
+msgid "Ryuuji「Uhhh...... Sorry, I can't really remember.」"
+msgstr "Ryuuji「Ehhh...... Perdón, no logro recordarlo.」"
+
+msgid "Taiga「Oh, sorry.」"
+msgstr "Taiga「Ah, perdón.」"
+
+msgid "Ryuuji「It's fine. By \"ChrisPar\" do you mean＿Christmas party?」"
+msgstr "Ryuuji「No pasa nada. ¿Con \"FiesNavi\" te＿refieres a la fiesta de Navidad?」"
+
+msgid "Taiga「Yup. It was hosted by the student＿council. You were in the organization＿committee, along with me and StuChi.」"
+msgstr "Taiga「Sip. La organizó el consejo estudiantil.＿Tú estabas en el comité organizador,＿con StuChi y conmigo.」"
+
+msgid "Ryuuji「Now that you mention it...... So you gave＿that first-year your address?」"
+msgstr "Ryuuji「Ahora que lo mencionas...... ¿Entonces＿le diste tu dirección?」"
+
+msgid "Taiga「Yeah, come to think of it, I did. Didn't＿you get one too?」"
+msgstr "Taiga「Sí, pensándolo bien, lo hice. ¿A＿ti no te llegó una también?」"
+
+msgid "Ryuuji「Well, actually, I have yet to go and＿check.」"
+msgstr "Ryuuji「Bueno, la verdad, todavía＿no he ido a revisar.」"
+
+msgid "Taiga「Excuse me? How dare you look down＿on other people's kindness!」"
+msgstr "Taiga「¿Perdón? ¡Cómo te atreves a menospreciar＿la amabilidad ajena!」"
+
+msgid "Ryuuji「I'm not looking down on them! I just＿haven't checked!」"
+msgstr "Ryuuji「¡No la estoy menospreciando!＿¡Solo no he revisado!」"
+
+msgid "Taiga「What do you mean?」"
+msgstr "Taiga「¿Qué quieres decir?」"
+
+msgid "Taiga「......Oh fine I forgive you so help me with＿my New Year's greetings okay let's get＿started.」"
+msgstr "Taiga「......Ah bueno te perdono así que＿ayúdame con mis tarjetas de Año Nuevo＿sí empecemos de una vez.」"
+
+msgid "Ryuuji「O-Ohh? You said all that in one breath.」"
+msgstr "Ryuuji「¿E-Ehh? Dijiste todo eso＿de un solo respiro.」"
+
+msgid "Taiga「Shut up. We don't have much time to＿reply.」"
+msgstr "Taiga「Cállate. No tenemos mucho＿tiempo para responder.」"
+
+msgid "Ryuuji「But help you how......? Want me to＿prepare the envelopes?」"
+msgstr "Ryuuji「¿Pero ayudarte cómo......? ¿Quieres＿que prepare los sobres?」"
+
+msgid "Taiga「I should probably do that, so you＿can...... make some potato stamps, I＿guess?」"
+msgstr "Taiga「Debería hacerlo yo, así que＿tú puedes...... hacer unos sellos＿de papa, ¿supongo?」"
+
+msgid "Ryuuji「Make...... potato stamps?」"
+msgstr "Ryuuji「¿Hacer...... sellos de papa?」"
+
+msgid "Taiga「Oh, i-is that too old-fashioned after all?」"
+msgstr "Taiga「Ah, ¿e-es demasiado anticuado＿después de todo?」"
+
+msgid "Taiga「I thought so. Plus, you seem like you'd＿be good at it.」"
+msgstr "Taiga「Eso pensé. Además, tienes pinta＿de que se te daría bien.」"
+
+msgid "Ryuuji「......Sheesh. Once these are done, I'm＿counting on you to help me with mine.」"
+msgstr "Ryuuji「......Caramba. Cuando terminemos estas,＿cuento contigo para las mías.」"
+
+msgid "Taiga「It's a deal. Come on, I'm gonna start＿tidying up.」"
+msgstr "Taiga「Trato hecho. Anda, voy a＿empezar a ordenar esto.」"
+
+msgid "Ryuuji「......How's it going? Almost done?」"
+msgstr "Ryuuji「......¿Cómo vas? ¿Ya casi terminas?」"
+
+msgid "Taiga「Annnnd...... There. Done!」"
+msgstr "Taiga「Yyy...... Listo. ¡Terminé!」"
+
+msgid "Taiga「What do you think?」"
+msgstr "Taiga「¿Qué te parece?」"
+
+msgid "Ryuuji「Oh, excellent, excellent!」"
+msgstr "Ryuuji「¡Oh, excelente, excelente!」"
+
+msgid "Taiga「Your potato stamps are excellent too.＿What's with this cow? It's so good it's＿hilarious! Like a baby shower gift!」"
+msgstr "Taiga「Tus sellos de papa también quedaron＿geniales. ¿Y esta vaca? ¡Es tan buena＿que da risa! ¡Parece regalo para bebé!」"
+
+msgid "Ryuuji「Oh yeah, I've outdone myself.」"
+msgstr "Ryuuji「Oh sí, me superé a mí mismo.」"
+
+msgid "Taiga「That one...... Wait, what's that list?」"
+msgstr "Taiga「Esa...... Espera, ¿qué es esa lista?」"
+
+msgid "Ryuuji「It was in the desk drawer. Seems like＿it's a list of everyone we sent a card to.＿It's dated December 20th.」"
+msgstr "Ryuuji「Estaba en el cajón. Parece ser una＿lista de todos a quienes enviamos＿tarjeta. Es del 20 de diciembre.」"
+
+msgid "Taiga「Ryuuji, that's thorough...... You＿probably got blisters from writing all＿that. That must have been really dull.」"
+msgstr "Taiga「Ryuuji, qué meticuloso...... Seguro＿te salieron ampollas de tanto escribir.＿Debió de ser muy aburrido.」"
+
+msgid "Ryuuji「Is that supposed to be a compliment?」"
+msgstr "Ryuuji「¿Se supone que eso es un cumplido?」"
+
+msgid "Taiga「Well? Are you done sorting them?」"
+msgstr "Taiga「¿Y bien? ¿Ya terminaste de separarlas?」"
+
+msgid "Ryuuji「Ignored...... Well, these are the ones I＿need to reply to, and those are the＿ones I already sent cards to.」"
+msgstr "Ryuuji「Me ignoró...... Bueno, estas son las＿que debo responder, y esas son de gente＿a la que ya le envié tarjeta.」"
+
+msgid "Taiga「......Hmmm, I see...... The ones you don't＿recognize are practically all from our＿class.」"
+msgstr "Taiga「......Mmm, ya veo...... Las que＿no reconoces son prácticamente＿todas de nuestra clase.」"
+
+msgid "Taiga「So the ones you need to reply to......＿They're all from other ChrisPar＿committee members...... Ah!」"
+msgstr "Taiga「Así que las que debes responder......＿Son todas de otros miembros del comité＿de la FiesNavi...... ¡Ah!」"
+
+msgid "Ryuuji「Oh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Taiga「Did you actually read these?」"
+msgstr "Taiga「¿De verdad leíste estas?」"
+
+msgid "Ryuuji「No, not yet.」"
+msgstr "Ryuuji「No, todavía no.」"
+
+msgid "Taiga「This is...... from Murase, who was in the＿committee and student council...... Hey,＿you can't just skim through these.」"
+msgstr "Taiga「Esta es...... de Murase, del comité＿y del consejo estudiantil...... Oye,＿no puedes leerlas por encima.」"
+
+msgid "Taiga「Hey, can you remember anything?」"
+msgstr "Taiga「Oye, ¿logras recordar algo?」"
+
+msgid "Ryuuji「Hmmm...... It's no use...... Actually......」"
+msgstr "Ryuuji「Mmm...... No hay caso......＿De hecho......」"
+
+msgid "Taiga「What?」"
+msgstr "Taiga「¿Qué?」"
+
+msgid "Ryuuji「Well, how do I put this...... I feel, like,＿strangely uneasy......」"
+msgstr "Ryuuji「Bueno, ¿cómo decirlo......? Me siento＿extrañamente intranquilo......」"
+
+msgid "Taiga「Uneasy?」"
+msgstr "Taiga「¿Intranquilo?」"
+
+msgid "Ryuuji「Hey, Taiga...... Honestly, I have a bad＿feeling about this.」"
+msgstr "Ryuuji「Oye, Taiga...... Sinceramente, tengo＿un mal presentimiento sobre esto.」"
+
+msgid "Taiga「......I see.」"
+msgstr "Taiga「......Ya veo.」"
+
+msgid "Ryuuji「I, I'll just write the reply for now. Look,＿it says \"contact me if you need them＿right away\"! Seems I don't need to rush.」"
+msgstr "Ryuuji「P-Por ahora solo responderé. ¡Mira, dice＿\"avísame si los necesitas de inmediato\"!＿Parece que no hay prisa.」"
+
+msgid "Taiga「......」"
+msgstr "Taiga「......」"
+
+msgid "Ryuuji「......What's wrong?」"
+msgstr "Ryuuji「......¿Qué ocurre?」"
+
+msgid "Taiga「No, it's nothing. Can you hurry up and＿write your replies?」"
+msgstr "Taiga「No, no es nada. ¿Puedes apurarte＿a escribir tus respuestas?」"
+
+msgid "Ryuuji「Oh, uh, right. I'm nearly done, so just＿hang on, please.」"
+msgstr "Ryuuji「Ah, eh, claro. Ya casi termino, así＿que espera un momento, por favor.」"
+
+msgid "Taiga「Hey Ryuuji, can I take a look at this＿New Year's card?」"
+msgstr "Taiga「Oye, Ryuuji, ¿puedo echarle un vistazo＿a esta tarjeta de Año Nuevo?」"
+
+msgid "Ryuuji「Sure, but you realize these are all the＿same as yours, right?」"
+msgstr "Ryuuji「Claro, pero sabes que todas estas son＿iguales a las tuyas, ¿verdad?」"
+
+msgid "Taiga「That's fine.」"
+msgstr "Taiga「No importa.」"
+
+msgid "Ryuuji「Can't say I'm surprised.」"
+msgstr "Ryuuji「No puedo decir que me sorprenda.」"
+
+msgid "Taiga「......Hmmm, that's my Minorin! She made＿sure to write something different in＿yours.」"
+msgstr "Taiga「......Mmm, ¡así es mi Minorin!＿Se aseguró de escribir algo＿distinto en la tuya.」"
+
+msgid "Ryuuji「Oh yeah? That's our girl.」"
+msgstr "Ryuuji「¿Ah, sí? Qué detallazo el suyo.」"
+
+msgid "Taiga「......Yup, that's just like her...... Yup.」"
+msgstr "Taiga「......Sip, muy propio de ella...... Sip.」"
+
+msgid "Ryuuji「......What's wrong?」"
+msgstr "Ryuuji「......¿Qué pasa?」"
+
+msgid "Taiga「Nothing......」"
+msgstr "Taiga「Nada......」"
+
+msgid "Taiga「I know! After we finish sending out＿these New Year's greetings, wanna＿swing by Minorin's diner for lunch?」"
+msgstr "Taiga「¡Ya sé! Cuando terminemos de enviar＿estas tarjetas, ¿vamos a almorzar＿al restaurante de Minorin?」"
+
+msgid "Ryuuji「Sure, let's do that.」"
+msgstr "Ryuuji「Claro, hagamos eso.」"
+
+msgid "Taiga「As for Yacchan...... Should we wake＿her?」"
+msgstr "Taiga「En cuanto a Yacchan......＿¿Deberíamos despertarla?」"
+
+msgid "Taiga「Yeah, let's go. Hurry and get ready.」"
+msgstr "Taiga「Sí, vamos. Date prisa y prepárate.」"
+
+msgid "Ryuuji「（What the hell was that about......?）」"
+msgstr "Ryuuji「（¿Qué diablos fue eso......?）」"
+
+msgid "Ryuuji「Oh, I know. But humans can't think＿straight on an empty stomach. You＿can't even finish your story right now.」"
+msgstr "Ryuuji「Ah, lo sé. Pero nadie puede pensar con＿claridad con el estómago vacío. Ni＿siquiera puedes terminar tu historia.」"
+
+msgid "Ryuuji「So let's just eat first.」"
+msgstr "Ryuuji「Así que comamos primero.」"
+
+msgid "Ryuuji「......What's wrong? Go ahead and＿continue talking about whatever＿brought you here first thing in the」"
+msgstr "Ryuuji「......¿Qué pasa? Sigue hablando de lo＿que te trajo aquí a primera hora de la」"
+
+msgid "Ryuuji「morning.」"
+msgstr "Ryuuji「mañana.」"
+
+msgid "Taiga「......Now that I think about it,＿something's not right here. I'm paying＿you for this food, so I should have a」"
+msgstr "Taiga「......Ahora que lo pienso, algo＿no cuadra. Pago por esta comida,＿así que debería tener」"
+
+msgid "Taiga「right to start on it.」"
+msgstr "Taiga「derecho a empezar a comer.」"
+
+msgid "Ryuuji「I'm not sure of what I should be doing＿in the first place...... I have a faint idea,＿but I can't be sure. Actually, I'd」"
+msgstr "Ryuuji「Para empezar, no sé qué debería＿hacer...... Tengo una vaga idea, pero＿no estoy seguro. De hecho, te」"
+
+msgid "Ryuuji「appreciate your advice.」"
+msgstr "Ryuuji「agradecería tu consejo.」"
+
+msgid "Ryuuji「......Just hanging around somewhere＿should be fine. I might be able to＿remember where my old stomping」"
+msgstr "Ryuuji「......Con pasar el rato por ahí＿bastará. Quizá así logre recordar＿cuál era mi zona」"
+
+msgid "Ryuuji「ground is.」"
+msgstr "Ryuuji「de siempre.」"
+
+msgid "Ryuuji「......W-Well, it feels half-assed like it was＿made on a computer, but it's decent＿for a New Year's greeting. She's a」"
+msgstr "Ryuuji「......B-Bueno, parece hecha a medias＿en computadora, pero está decente para＿ser de Año Nuevo. Es una」"
+
+msgid "Ryuuji「classmate, after all.」"
+msgstr "Ryuuji「compañera de clase, después de todo.」"
+
+msgid "Ryuuji「Well, you see, I don't really remember＿anyone, so I was hoping I could ask you＿to help me. I mean, I didn't have time」"
+msgstr "Ryuuji「Bueno, verás, no recuerdo a nadie,＿así que esperaba pedirte ayuda.＿Digo, no tuve tiempo」"
+
+msgid "Ryuuji「yesterday...... It's true!」"
+msgstr "Ryuuji「ayer...... ¡Es verdad!」"
+
+msgid "Ryuuji「Uhh, well, at this point we could＿probably get them done faster that＿way than if we used a computer. And it」"
+msgstr "Ryuuji「Ehm, bueno, a estas alturas seguro＿terminamos más rápido así que usando＿la computadora. Además,」"
+
+msgid "Ryuuji「might make a statement.」"
+msgstr "Ryuuji「tendría su propio estilo.」"
+
+msgid "Ryuuji「......\"Present in your suit\"......? Umm, this＿Murase person says they have my suit＿and a present...... What are they talking」"
+msgstr "Ryuuji「......¿\"Regalo en tu traje\"......? Ehm,＿un tal Murase dice que tiene mi traje＿y un regalo...... ¿De qué está」"
+
+msgid "Ryuuji「about?」"
+msgstr "Ryuuji「hablando?」"
+
+msgid "Taiga「......Wow, StuChi really did make all of＿hers on a computer. It's exactly the＿same as mine. Not even slightly」"
+msgstr "Taiga「......Vaya, StuChi sí hizo todas＿las suyas en computadora. Es idéntica＿a la mía. Nada」"
+
+msgid "Taiga「artistic.」"
+msgstr "Taiga「artística.」"
+
+msgid "Ryuuji「Hmmm, there's leftovers for her, so we＿don't need to worry about her food,＿and I'd rather not wake her...... Annnd」"
+msgstr "Ryuuji「Mmm, sobró comida para ella, así que＿no hay que preocuparse por eso, y＿prefiero no despertarla...... Yyy」"
+
+msgid "Ryuuji「done. Shall we head out?」"
+msgstr "Ryuuji「listo. ¿Nos vamos?」"

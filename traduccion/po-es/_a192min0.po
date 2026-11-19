@@ -1,0 +1,209 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「（I'm not gonna find Taiga. Should I just＿head out......? Oh, that's--）」"
+msgstr "Ryuuji「（No voy a encontrar a Taiga. ¿Debería＿irme ya......? Ah, esa es--）」"
+
+msgid "Ryuuji「Kushieda!」"
+msgstr "Ryuuji「¡Kushieda!」"
+
+msgid "Minori「Takasu-kun......」"
+msgstr "Minori「Takasu-kun......」"
+
+msgid "Ryuuji「What's with that gloomy face? Did＿something happen at practice?」"
+msgstr "Ryuuji「¿Y esa cara tan triste? ¿Pasó＿algo en el entrenamiento?」"
+
+msgid "Minori「No no, nothing was wrong at＿practice......」"
+msgstr "Minori「No, no, no pasó nada malo en＿el entrenamiento......」"
+
+msgid "Ryuuji「Your face says otherwise...... Oh yeah,＿have you seen Taiga around here? I＿haven't seen her at all since earlier.」"
+msgstr "Ryuuji「Tu cara dice lo contrario...... Ah, sí,＿¿has visto a Taiga por aquí? No la he＿visto para nada desde hace rato.」"
+
+msgid "Minori「No, not here, but--」"
+msgstr "Minori「No, aquí no, pero--」"
+
+msgid "Ryuuji「But what?」"
+msgstr "Ryuuji「¿Pero qué?」"
+
+msgid "Minori「......Takasu-kun, can I borrow you for a＿sec?」"
+msgstr "Minori「......Takasu-kun, ¿te puedo＿robar un segundo?」"
+
+msgid "Ryuuji「Hm? Yeah, sure.」"
+msgstr "Ryuuji「¿Hm? Sí, claro.」"
+
+msgid "Minori「............」"
+msgstr "Minori「............」"
+
+msgid "Ryuuji「......What is it?」"
+msgstr "Ryuuji「......¿Qué pasa?」"
+
+msgid "Minori「............」"
+msgstr "Minori「............」"
+
+msgid "Ryuuji「......If it's something you have trouble＿talking about, wanna go somewhere＿else?」"
+msgstr "Ryuuji「......Si es algo difícil de decir,＿¿quieres que vayamos a otro lado?」"
+
+msgid "Minori「No no, it's fine. Here is fine.」"
+msgstr "Minori「No, no, está bien. Aquí está bien.」"
+
+msgid "Ryuuji「Whatever you say......」"
+msgstr "Ryuuji「Como digas......」"
+
+msgid "Ryuuji「Kushieda, this is one of your team's＿practice balls, right? Wanna play＿catch?」"
+msgstr "Ryuuji「Kushieda, esta es una pelota de＿entrenamiento de tu equipo, ¿no?＿¿Nos la pasamos un rato?」"
+
+msgid "Minori「Huh?」"
+msgstr "Minori「¿Eh?」"
+
+msgid "Ryuuji「You can start talking when you're＿ready. Let's go! Catch!」"
+msgstr "Ryuuji「Puedes empezar a hablar cuando estés＿lista. ¡Allá va! ¡Atrápala!」"
+
+msgid "Minori「Whoa! You gotta give me more warning,＿mister!」"
+msgstr "Minori「¡Uah! ¡Tienes que avisar con＿más tiempo, caballero!」"
+
+msgid "Ryuuji「Ohh, my throwing's rusty. It's hard on＿my shoulders～」"
+msgstr "Ryuuji「Ohh, estoy oxidado para lanzar.＿Me cansa los hombros～」"
+
+msgid "Minori「Hehe, I bet you underestimate softball!＿Take this～!」"
+msgstr "Minori「Jeje, ¡apuesto a que subestimas＿el sóftbol! ¡Toma esto～!」"
+
+msgid "Ryuuji「Gaaah! Go easy on me! I'm bare-handed＿here!」"
+msgstr "Ryuuji「¡Gaaah! ¡Más suave! ¡Estoy＿a mano limpia aquí!」"
+
+msgid "Minori「Gah ha ha ha, you're too naive!! Act＿fast or I'll teach you a lesson!!」"
+msgstr "Minori「¡¡Ga ja ja ja, eres muy ingenuo!!＿¡¡Actúa rápido o te daré una lección!!」"
+
+msgid "Minori「......Yup. Act fast or you'll suffer for it.」"
+msgstr "Minori「......Sí. Actúa rápido＿o sufrirás por ello.」"
+
+msgid "Ryuuji「Kushieda?」"
+msgstr "Ryuuji「¿Kushieda?」"
+
+msgid "Minori「About Taiga -- I ran into her earlier. We＿talked for a bit.」"
+msgstr "Minori「Sobre Taiga -- me la encontré＿hace rato. Hablamos un poco.」"
+
+msgid "Ryuuji「......Oh?」"
+msgstr "Ryuuji「......¿Ah?」"
+
+msgid "Ryuuji「Did Taiga say anything? About me,＿or...... about Kitamura?」"
+msgstr "Ryuuji「¿Taiga dijo algo? ¿Sobre mí,＿o...... sobre Kitamura?」"
+
+msgid "Minori「She did.」"
+msgstr "Minori「Sí dijo.」"
+
+msgid "Ryuuji「What did she say?」"
+msgstr "Ryuuji「¿Qué dijo?」"
+
+msgid "Minori「......」"
+msgstr "Minori「......」"
+
+msgid "Minori「......Takasu-kun, you really gotta give it＿your all.」"
+msgstr "Minori「......Takasu-kun, de verdad＿tienes que darlo todo.」"
+
+msgid "Ryuuji「......Huh?」"
+msgstr "Ryuuji「......¿Eh?」"
+
+msgid "Minori「Notice Taiga more!」"
+msgstr "Minori「¡Fíjate más en Taiga!」"
+
+msgid "Ryuuji「......!?」"
+msgstr "Ryuuji「......!?」"
+
+msgid "Minori「I understand it's hard living with＿amnesia. But everyone around you still＿remembers.」"
+msgstr "Minori「Entiendo que es duro vivir con＿amnesia. Pero todos a tu alrededor＿aún lo recuerdan.」"
+
+msgid "Minori「The things you do, the things you say,＿it's all connected.」"
+msgstr "Minori「Las cosas que haces, las cosas que＿dices, todo está conectado.」"
+
+msgid "Minori「I've gotten this feeling from Taiga so＿many times. Look at her more.」"
+msgstr "Minori「He tenido esa sensación con Taiga＿tantas veces. Mírala más.」"
+
+msgid "Minori「If you don't, then everything I did to＿you on Christmas Eve will be for＿nothing......」"
+msgstr "Minori「Si no lo haces, entonces todo＿lo que te hice en Nochebuena＿habrá sido en vano......」"
+
+msgid "Ryuuji「Christmas Eve......」"
+msgstr "Ryuuji「Nochebuena......」"
+
+msgid "Minori「*Gasp*......」"
+msgstr "Minori「¡Ah......!」"
+
+msgid "Ryuuji「Christmas Eve...... Me and Kushieda......＿Kushieda......?」"
+msgstr "Ryuuji「Nochebuena...... Kushieda y＿yo...... ¿Kushieda......?」"
+
+msgid "Ryuuji「（Crap, what the hell......? My heart......＿aches, and I......）」"
+msgstr "Ryuuji「（Maldición, ¿qué rayos......? Mi＿corazón...... me duele, y yo......）」"
+
+msgid "Minori「STOP!!」"
+msgstr "Minori「¡¡DETENTE!!」"
+
+msgid "Ryuuji「......」"
+msgstr "Ryuuji「......」"
+
+msgid "Minori「No! Stop remembering! Stop! This is a＿good thing. It's good that you forgot＿everything, Takasu-kun.」"
+msgstr "Minori「¡No! ¡Deja de recordar! ¡Detente!＿Esto es bueno. Es bueno que lo hayas＿olvidado todo, Takasu-kun.」"
+
+msgid "Ryuuji「Please be quiet, Kushieda. Right now＿I'm......」"
+msgstr "Ryuuji「Por favor, guarda silencio, Kushieda.＿Ahora mismo estoy......」"
+
+msgid "Minori「I won't be quiet. I can't be quiet!＿Takasu-kun, you don't have to＿remember. Don't remember!」"
+msgstr "Minori「No guardaré silencio. ¡No puedo＿callarme! Takasu-kun, no tienes＿que recordar. ¡No recuerdes!」"
+
+msgid "Ryuuji「How can you say something so selfish?＿All of my memories are important to＿me, no matter what they might be!」"
+msgstr "Ryuuji「¿Cómo puedes decir algo tan egoísta?＿¡Todos mis recuerdos son importantes＿para mí, sean cuales sean!」"
+
+msgid "Minori「............」"
+msgstr "Minori「............」"
+
+msgid "Ryuuji「Uh...... sorry for yelling.」"
+msgstr "Ryuuji「Eh...... perdón por gritar.」"
+
+msgid "Minori「See, we're...... we're all nailed down with＿our pasts and our restraints, if you＿think about it.」"
+msgstr "Minori「Sabes, todos...... todos estamos sujetos＿por nuestro pasado y nuestras ataduras,＿si lo piensas bien.」"
+
+msgid "Ryuuji「Kushieda......」"
+msgstr "Ryuuji「Kushieda......」"
+
+msgid "Minori「Phew. I got it all off my chest! Gee, I'm＿sorry for taking up your time.」"
+msgstr "Minori「Uf. ¡Me quité un peso de encima! Caray,＿perdón por quitarte el tiempo.」"
+
+msgid "Ryuuji「It's fine...... Likewise, well, err, thanks.」"
+msgstr "Ryuuji「Está bien...... Igualmente,＿bueno, ehm, gracias.」"
+
+msgid "Minori「No no, I don't deserve to be thanked.」"
+msgstr "Minori「No, no, no merezco que＿me des las gracias.」"
+
+msgid "Ryuuji「Hm?」"
+msgstr "Ryuuji「¿Hm?」"
+
+msgid "Minori「It's nothing. If you want to know what＿Taiga said, ask her directly, okay?」"
+msgstr "Minori「No es nada. Si quieres saber＿lo que dijo Taiga, pregúntaselo＿directamente, ¿sí?」"
+
+msgid "Ryuuji「Alright.」"
+msgstr "Ryuuji「De acuerdo.」"
+
+msgid "Minori「Well, once again I'm headed off to＿practice!」"
+msgstr "Minori「Bueno, ¡otra vez me voy＿al entrenamiento!」"
+
+msgid "Ryuuji「（*Sigh*...... My chest still feels like it＿hurts...... Anyway, Taiga's the priority＿right now.）」"
+msgstr "Ryuuji「（*Suspiro*...... Todavía siento que＿me duele el pecho...... En fin, Taiga＿es la prioridad ahora mismo.）」"
+
+msgid "Ryuuji「（Restraints, huh......? Kitamura was＿talking about them too.）」"
+msgstr "Ryuuji「（Ataduras, ¿eh......? Kitamura también＿estaba hablando de ellas.）」"
+
+msgid "Ryuuji「（At this rate, I get the feeling I won't＿make any progress. Although she＿seems to have something to say...... Oh,）」"
+msgstr "Ryuuji「（A este ritmo siento que no voy a＿avanzar nada. Aunque parece que tiene＿algo que decir...... Ah,）」"
+
+msgid "Ryuuji「（now here's a nice find.）」"
+msgstr "Ryuuji「（mira qué buen hallazgo.）」"
+
+msgid "Minori「No no...... Likewise, I'm sorry for saying＿those selfish things. But you know,＿right now I want you to follow your」"
+msgstr "Minori「No, no...... Yo también siento haber＿sido egoísta. Pero ahora quiero que＿sigas a tu」"
+
+msgid "Minori「heart.」"
+msgstr "Minori「corazón.」"
+
+msgid "Minori「That's why I want you to follow your＿heart right now, while you're free of＿those things...... I'm sure it's the right」"
+msgstr "Minori「Por eso quiero que sigas a tu corazón,＿libre ahora de esas cosas...... Estoy＿segura de que es lo que debes」"
+
+msgid "Minori「thing to do.」"
+msgstr "Minori「hacer.」"

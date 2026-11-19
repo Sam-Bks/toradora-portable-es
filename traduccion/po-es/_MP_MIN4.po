@@ -1,0 +1,818 @@
+msgid ""
+msgstr ""
+
+msgid "Stare"
+msgstr "Mirar fijamente"
+
+msgid "Stare passionately"
+msgstr "Mirar con pasión"
+
+msgid "Stare calmly"
+msgstr "Mirar con calma"
+
+msgid "Stare blankly"
+msgstr "Mirar distraído"
+
+msgid "About Kushieda"
+msgstr "Sobre Kushieda"
+
+msgid "Don't be so stubborn!"
+msgstr "¡No seas tan terca!"
+
+msgid "You've always been there to confront me!"
+msgstr "¡Siempre estuviste ahí para enfrentarme!"
+
+msgid "About Taiga"
+msgstr "Sobre Taiga"
+
+msgid "Don't coddle Taiga!"
+msgstr "¡No consientas a Taiga!"
+
+msgid "Even I can't bear to leave her alone!"
+msgstr "¡Ni yo puedo soportar dejarla sola!"
+
+msgid "About the Past"
+msgstr "Sobre el pasado"
+
+msgid "I won't just pretend nothing happened!"
+msgstr "¡No fingiré que no pasó nada!"
+
+msgid "Did you come back just to silence me!?"
+msgstr "¡¿Volviste solo para callarme?!"
+
+msgid "Even Taiga's old man......!"
+msgstr "¡Hasta el padre de Taiga......!"
+
+msgid "About Me"
+msgstr "Sobre mí"
+
+msgid "Got the wrong idea about me and Taiga!?"
+msgstr "¡¿Malinterpretaste lo mío con Taiga?!"
+
+msgid "Did you reject me so I'd get with Taiga!?"
+msgstr "¡¿Me rechazaste para que estuviera con Taiga?!"
+
+msgid "Don't take advantage of my amnesia!"
+msgstr "¡No te aproveches de mi amnesia!"
+
+msgid "I Wanted to Say"
+msgstr "Quería decir"
+
+msgid "You're......!"
+msgstr "¡Tú eres......!"
+
+msgid "I'm......!"
+msgstr "¡Yo soy......!"
+
+msgid "I've......"
+msgstr "Yo he......"
+
+msgid "About Kushieda"
+msgstr "Sobre Kushieda"
+
+msgid "Don't be so stubborn!"
+msgstr "¡No seas tan terca!"
+
+msgid "You've always been there to confront me!"
+msgstr "¡Siempre estuviste ahí para enfrentarme!"
+
+msgid "You're the one who should be independent!"
+msgstr "¡Tú eres quien debería ser independiente!"
+
+msgid "About Taiga"
+msgstr "Sobre Taiga"
+
+msgid "Don't coddle Taiga!"
+msgstr "¡No consientas a Taiga!"
+
+msgid "Even I can't bear to leave her alone!"
+msgstr "¡Ni yo puedo soportar dejarla sola!"
+
+msgid "Don't use Taiga as an excuse!"
+msgstr "¡No uses a Taiga como excusa!"
+
+msgid "--A Serious Talk with Minori!--"
+msgstr "--¡Una charla seria con Minori!--"
+
+msgid "Minori「Are you doing that to put pressure on＿me!?」"
+msgstr "Minori「¡¿Lo haces para presionarme?!」"
+
+msgid "Minori「......Think this is a joke?」"
+msgstr "Minori「......¿Crees que es una broma?」"
+
+msgid "Minori「Don't challenge me!!」"
+msgstr "Minori「¡¡No me desafíes!!」"
+
+msgid "Minori「If you're not going to try, then I wish I＿had gone home.」"
+msgstr "Minori「Si no vas a intentarlo, ojalá＿me hubiera ido a casa.」"
+
+msgid "Minori「......Are you done?」"
+msgstr "Minori「......¿Ya terminaste?」"
+
+msgid "Ryuuji「Not even close!」"
+msgstr "Ryuuji「¡Ni de cerca!」"
+
+msgid "Minori「What? Is that all you've got?」"
+msgstr "Minori「¿Qué? ¿Eso es todo lo que tienes?」"
+
+msgid "Ryuuji「I'm not done with you yet!」"
+msgstr "Ryuuji「¡Aún no termino contigo!」"
+
+msgid "Minori「Want to put an end to this!?」"
+msgstr "Minori「¡¿Quieres terminar con esto?!」"
+
+msgid "Minori「............」"
+msgstr "Minori「............」"
+
+msgid "Minori「......」"
+msgstr "Minori「......」"
+
+msgid "Minori「Think what you want.」"
+msgstr "Minori「Piensa lo que quieras.」"
+
+msgid "Minori「What's wrong with thinking of Taiga!?」"
+msgstr "Minori「¡¿Qué tiene de malo pensar en Taiga?!」"
+
+msgid "Minori「I'll get you back for that.」"
+msgstr "Minori「Me las vas a pagar por eso.」"
+
+msgid "Minori「That's not it! Why won't you just＿understand?」"
+msgstr "Minori「¡No es eso! ¿Por qué simplemente＿no lo entiendes?」"
+
+msgid "Minori「So what?」"
+msgstr "Minori「¿Y qué?」"
+
+msgid "Ryuuji「I never thought you'd be prejudiced!＿What's going on!? Why are you so＿actively biased against Taiga!?」"
+msgstr "Ryuuji「¡Nunca pensé que tuvieras prejuicios!＿¡¿Qué pasa?! ¡¿Por qué estás tan＿predispuesta contra Taiga?!」"
+
+msgid "Minori「Am I?」"
+msgstr "Minori「¿Lo estoy?」"
+
+msgid "Ryuuji「Yeah, you are!」"
+msgstr "Ryuuji「¡Sí, lo estás!」"
+
+msgid "Minori「Then I'm fine with that.」"
+msgstr "Minori「Entonces me parece bien.」"
+
+msgid "Minori「What does that have to do with this!?」"
+msgstr "Minori「¡¿Qué tiene que ver eso con esto?!」"
+
+msgid "Ryuuji「Plenty! Why are you of all people trying＿to go against Taiga's wishes!? Won't＿you see her for who she is!?」"
+msgstr "Ryuuji「¡Mucho! ¡¿Por qué precisamente tú＿intentas ir contra los deseos de Taiga?!＿¡¿No puedes verla como realmente es?!」"
+
+msgid "Minori「I do see her!」"
+msgstr "Minori「¡Sí la veo!」"
+
+msgid "Ryuuji「No you don't!」"
+msgstr "Ryuuji「¡No la ves!」"
+
+msgid "Minori「Don't jump to your own conclusions!」"
+msgstr "Minori「¡No saques tus propias conclusiones!」"
+
+msgid "Minori「I don't remember that.」"
+msgstr "Minori「No recuerdo eso.」"
+
+msgid "Minori「I've put it behind me.」"
+msgstr "Minori「Ya lo dejé atrás.」"
+
+msgid "Minori「What are you talking about? Where'd＿you hear that? From who?」"
+msgstr "Minori「¿De qué estás hablando? ¿Dónde＿escuchaste eso? ¿De quién?」"
+
+msgid "Ryuuji「You say you put Taiga first, but you're＿using that as an escape route! You're＿dependent on Taiga!」"
+msgstr "Ryuuji「Dices que pones a Taiga primero,＿¡pero usas eso como vía de escape!＿¡Dependes de Taiga!」"
+
+msgid "Minori「On Taiga?」"
+msgstr "Minori「¿De Taiga?」"
+
+msgid "Minori「............」"
+msgstr "Minori「............」"
+
+msgid "Ryuuji「Don't you understand just how cruel of＿you that is!?」"
+msgstr "Ryuuji「¡¿No entiendes lo cruel que＿es eso de tu parte?!」"
+
+msgid "Minori「If it's for Taiga's sake, then I don't＿consider it coddling.」"
+msgstr "Minori「Si es por el bien de Taiga, no considero＿que sea consentirla.」"
+
+msgid "Ryuuji「Like I said, it's not for her sake!」"
+msgstr "Ryuuji「¡Como dije, no es por su bien!」"
+
+msgid "Minori「Well, I'm not so sure.」"
+msgstr "Minori「Bueno, no estoy tan segura.」"
+
+msgid "Minori「Talk about the pot calling the kettle＿black! How dare you say that!」"
+msgstr "Minori「¡Mira quién habla! ¡Cómo＿te atreves a decir eso!」"
+
+msgid "Ryuuji「I've stopped!」"
+msgstr "Ryuuji「¡Ya dejé de hacerlo!」"
+
+msgid "Minori「Yeah, right! That's impossible for you!」"
+msgstr "Minori「¡Sí, claro! ¡Eso es imposible para ti!」"
+
+msgid "Minori「I'm not.」"
+msgstr "Minori「No lo soy.」"
+
+msgid "Ryuuji「You are!」"
+msgstr "Ryuuji「¡Sí lo eres!」"
+
+msgid "Minori「I'm NOT!」"
+msgstr "Minori「¡Que NO lo soy!」"
+
+msgid "Minori「It's so sad you think that way.」"
+msgstr "Minori「Es muy triste que pienses así.」"
+
+msgid "Ryuuji「Then what is it!?」"
+msgstr "Ryuuji「¡¿Entonces qué es?!」"
+
+msgid "Minori「That's what I want you to think about.」"
+msgstr "Minori「Eso es en lo que quiero que pienses.」"
+
+msgid "Minori「That was obvious from the start.」"
+msgstr "Minori「Eso era obvio desde el principio.」"
+
+msgid "Ryuuji「In that case, do you get what it is I'm＿trying to say!?」"
+msgstr "Ryuuji「En ese caso, ¡¿entiendes lo que＿estoy tratando de decir?!」"
+
+msgid "Minori「Right back at you.」"
+msgstr "Minori「Lo mismo te digo.」"
+
+msgid "Minori「So you're saying I should endure it?＿Don't make me laugh!」"
+msgstr "Minori「¿O sea que debería aguantarlo?＿¡No me hagas reír!」"
+
+msgid "Ryuuji「What's wrong with that!?」"
+msgstr "Ryuuji「¡¿Qué tiene de malo eso?!」"
+
+msgid "Ryuuji「Fuck you......!」"
+msgstr "Ryuuji「¡Jódete......!」"
+
+msgid "Minori「I know.」"
+msgstr "Minori「Lo sé.」"
+
+msgid "Minori「It goes without saying.」"
+msgstr "Minori「No hace falta decirlo.」"
+
+msgid "Minori「An excuse!?」"
+msgstr "Minori「¡¿Una excusa?!」"
+
+msgid "Minori「Where's the excuse in that!? What part＿of that is wrong!?」"
+msgstr "Minori「¡¿Dónde está la excusa en eso?!＿¡¿Qué parte de eso está mal?!」"
+
+msgid "Ryuuji「Nothing you're saying sounds like you!＿What have you done with Kushieda＿Minori!?」"
+msgstr "Ryuuji「¡No suenas para nada como tú! ¡¿Qué＿hiciste con Kushieda Minori?!」"
+
+msgid "Minori「I'm right here! Right in front of Takasu＿Ryuuji!」"
+msgstr "Minori「¡Estoy justo aquí! ¡Justo＿frente a Takasu Ryuuji!」"
+
+msgid "Minori「That's not true!」"
+msgstr "Minori「¡Eso no es cierto!」"
+
+msgid "Ryuuji「You do when you talk about \"Taiga\" or＿\"Takasu-kun\"! It's proof that you don't＿want to get hurt!」"
+msgstr "Ryuuji「¡Sí lo haces cuando hablas de \"Taiga\"＿o \"Takasu-kun\"! ¡Es prueba de que＿no quieres salir lastimada!」"
+
+msgid "Minori「Wha......!?」"
+msgstr "Minori「¡¿Qué......?!」"
+
+msgid "Ryuuji「It's natural for the fist that lashes out＿to feel pain! Even fists can get bloody!＿Am I wrong!?」"
+msgstr "Ryuuji「¡Es normal que el puño que golpea＿sienta dolor! ¡Hasta los puños sangran!＿¡¿Acaso me equivoco?!」"
+
+msgid "Minori「......」"
+msgstr "Minori「......」"
+
+msgid "Ryuuji「LISTEN! Kushieda Minori!」"
+msgstr "Ryuuji「¡ESCUCHA, Kushieda Minori!」"
+
+msgid "Minori「Takasu-kun, all I hear is that you just＿don't want to do it.」"
+msgstr "Minori「Takasu-kun, solo oigo que simplemente＿no quieres hacerlo.」"
+
+msgid "Ryuuji「You trying to say it's my problem!?」"
+msgstr "Ryuuji「¡¿Intentas decir que es problema mío?!」"
+
+msgid "Minori「Exactly.」"
+msgstr "Minori「Exacto.」"
+
+msgid "Ryuuji「Wha......!?」"
+msgstr "Ryuuji「¡¿Qué......?!」"
+
+msgid "Ryuuji「I'm saying I CAN'T!」"
+msgstr "Ryuuji「¡Digo que NO PUEDO!」"
+
+msgid "Minori「Then you're just wasting your breath! I＿don't give a fuck!」"
+msgstr "Minori「¡Entonces pierdes el tiempo!＿¡Me importa una mierda!」"
+
+msgid "Ryuuji「What'd you say!?」"
+msgstr "Ryuuji「¡¿Qué dijiste?!」"
+
+msgid "Minori「You will.」"
+msgstr "Minori「Lo harás.」"
+
+msgid "Ryuuji「No, I won't!」"
+msgstr "Ryuuji「¡No lo haré!」"
+
+msgid "Minori「Just do it!」"
+msgstr "Minori「¡Solo hazlo!」"
+
+msgid "Ryuuji「I said, I WON'T!」"
+msgstr "Ryuuji「¡Dije que NO lo haré!」"
+
+msgid "Minori「That depends on you.」"
+msgstr "Minori「Eso depende de ti.」"
+
+msgid "Ryuuji「Then don't go out of your way!」"
+msgstr "Ryuuji「¡Entonces no te molestes en hacerlo!」"
+
+msgid "Minori「......Yeah.」"
+msgstr "Minori「......Sí.」"
+
+msgid "Minori「Is that what you think?」"
+msgstr "Minori「¿Eso es lo que piensas?」"
+
+msgid "Ryuuji「Answer the question!」"
+msgstr "Ryuuji「¡Responde la pregunta!」"
+
+msgid "Minori「I don't feel like it.」"
+msgstr "Minori「No tengo ganas.」"
+
+msgid "Minori「Go ahead and think what you want!」"
+msgstr "Minori「¡Adelante, piensa lo que quieras!」"
+
+msgid "Ryuuji「If I'm wrong, then say something!」"
+msgstr "Ryuuji「¡Si me equivoco, entonces di algo!」"
+
+msgid "Minori「It doesn't matter!!」"
+msgstr "Minori「¡¡No importa!!」"
+
+msgid "Minori「Feel free to think that.」"
+msgstr "Minori「Eres libre de pensar eso.」"
+
+msgid "Ryuuji「If I'm wrong, then say something!」"
+msgstr "Ryuuji「¡Si me equivoco, entonces di algo!」"
+
+msgid "Minori「There's nothing much to say.」"
+msgstr "Minori「No hay mucho que decir.」"
+
+msgid "Minori「......What's wrong with that?」"
+msgstr "Minori「......¿Qué tiene de malo eso?」"
+
+msgid "Ryuuji「That's not an answer!」"
+msgstr "Ryuuji「¡Eso no es una respuesta!」"
+
+msgid "Minori「I don't feel like answering.」"
+msgstr "Minori「No tengo ganas de responder.」"
+
+msgid "Minori「What the hell!? Beating a dead horse,＿are you!?」"
+msgstr "Minori「¡¿Qué diablos?! ¡¿Vas a seguir＿insistiendo en lo mismo?!」"
+
+msgid "Minori「So!?」"
+msgstr "Minori「¡¿Y qué?!」"
+
+msgid "Ryuuji「So you let me think that you believed＿that Taiga was the one trying to keep＿you away from her house! Am I wrong!?」"
+msgstr "Ryuuji「¡Me dejaste pensar que creías que＿Taiga era quien quería alejarte de＿su casa! ¡¿Acaso me equivoco?!」"
+
+msgid "Minori「So what!?」"
+msgstr "Minori「¡¿Y qué?!」"
+
+msgid "Ryuuji「Don't change the subject! We're talking＿about YOU!」"
+msgstr "Ryuuji「¡No cambies de tema! ¡Hablamos de TI!」"
+
+msgid "Minori「If you don't feel like listening to me,＿then don't bring it up in the first place!」"
+msgstr "Minori「Si no quieres oírme, ¡entonces ni＿saques el tema para empezar!」"
+
+msgid "Ryuuji「You're the one that doesn't feel like＿listening!」"
+msgstr "Ryuuji「¡Tú eres quien no tiene＿ganas de escuchar!」"
+
+msgid "Minori「I won't take part in this stupid＿argument!」"
+msgstr "Minori「¡No voy a participar en esta＿estúpida discusión!」"
+
+msgid "Ryuuji「Me either!」"
+msgstr "Ryuuji「¡Yo tampoco!」"
+
+msgid "Minori「......」"
+msgstr "Minori「......」"
+
+msgid "Minori「Even if I did have the wrong idea,＿would it really hurt anything?」"
+msgstr "Minori「Aunque me hubiera hecho una idea＿equivocada, ¿en qué afectaría?」"
+
+msgid "Ryuuji「It would hurt Taiga, at the least!!」"
+msgstr "Ryuuji「¡¡Al menos lastimaría a Taiga!!」"
+
+msgid "Minori「I'm not so sure about that.」"
+msgstr "Minori「No estoy tan segura de eso.」"
+
+msgid "Minori「She's the one who doesn't understand!」"
+msgstr "Minori「¡Ella es quien no lo entiende!」"
+
+msgid "Ryuuji「Excuse me!?」"
+msgstr "Ryuuji「¡¿Disculpa?!」"
+
+msgid "Minori「Takasu-kun, it's your own problem. I＿don't give a rat's ass!」"
+msgstr "Minori「Takasu-kun, es tu problema.＿¡Me importa un carajo!」"
+
+msgid "Minori「I don't think it's the wrong idea,＿though.」"
+msgstr "Minori「Aunque no creo que sea＿una idea equivocada.」"
+
+msgid "Ryuuji「Well, it is!」"
+msgstr "Ryuuji「¡Pues lo es!」"
+
+msgid "Minori「......Fine, I give up. You're ridiculous.」"
+msgstr "Minori「......Bien, me rindo. Eres ridículo.」"
+
+msgid "Minori「So you say......」"
+msgstr "Minori「Eso dices tú......」"
+
+msgid "Ryuuji「What's that supposed to mean!?」"
+msgstr "Ryuuji「¡¿Qué se supone que significa eso?!」"
+
+msgid "Minori「Nothing.」"
+msgstr "Minori「Nada.」"
+
+msgid "Ryuuji「Don't dodge the question!」"
+msgstr "Ryuuji「¡No evadas la pregunta!」"
+
+msgid "Minori「I don't know.」"
+msgstr "Minori「No lo sé.」"
+
+msgid "Ryuuji「......Good lord!」"
+msgstr "Ryuuji「......¡Por Dios!」"
+
+msgid "Minori「I don't give a flying fuck!」"
+msgstr "Minori「¡Me importa una maldita mierda!」"
+
+msgid "Ryuuji「This is about you!」"
+msgstr "Ryuuji「¡Esto se trata de ti!」"
+
+msgid "Minori「Think what you want, Takasu-kun! But＿if you get Taiga to think that, I'll be＿pissed!」"
+msgstr "Minori「¡Piensa lo que quieras, Takasu-kun!＿Pero si haces que Taiga piense＿eso, ¡me voy a enojar!」"
+
+msgid "Minori「If you try to push Taiga away because＿of that, I won't forgive you! I won't＿EVER forgive you!!」"
+msgstr "Minori「¡Si intentas alejar a Taiga por＿eso, no te lo perdonaré! ¡¡No＿te lo perdonaré JAMÁS!!」"
+
+msgid "Ryuuji「Why would you get that idea!? Answer＿the question!」"
+msgstr "Ryuuji「¡¿Por qué tendrías esa idea?!＿¡Responde la pregunta!」"
+
+msgid "Minori「I don't care! I don't CARE what you＿think of me!」"
+msgstr "Minori「¡No me importa! ¡No me IMPORTA＿lo que pienses de mí!」"
+
+msgid "Minori「Feel free to think that.」"
+msgstr "Minori「Eres libre de pensar eso.」"
+
+msgid "Ryuuji「What's that supposed to mean!?」"
+msgstr "Ryuuji「¡¿Qué se supone que significa eso?!」"
+
+msgid "Minori「I mean, even if you thought that, it＿wouldn't drive you to do anything.」"
+msgstr "Minori「Quiero decir que, aunque pensaras eso,＿no te llevaría a hacer nada.」"
+
+msgid "Ryuuji「I don't understand what you're saying!」"
+msgstr "Ryuuji「¡No entiendo lo que dices!」"
+
+msgid "Minori「You don't have to understand. No big＿deal.」"
+msgstr "Minori「No tienes que entenderlo.＿No es gran cosa.」"
+
+msgid "Minori「......That's enough.」"
+msgstr "Minori「......Ya es suficiente.」"
+
+msgid "Ryuuji「What's your problem!?」"
+msgstr "Ryuuji「¡¿Cuál es tu problema?!」"
+
+msgid "Minori「I didn't mean anything in particular.」"
+msgstr "Minori「No quise decir nada en especial.」"
+
+msgid "Minori「I'd do anything for Taiga! That's who I＿am! Got a problem with that!?」"
+msgstr "Minori「¡Haría lo que fuera por Taiga!＿¡Así soy yo! ¡¿Tienes algún＿problema con eso?!」"
+
+msgid "Ryuuji「So you don't give a fuck about me!?」"
+msgstr "Ryuuji「¡¿Entonces yo te importo una mierda?!」"
+
+msgid "Minori「When did I say that!? But go ahead and＿think that if you like! No big deal for＿me!」"
+msgstr "Minori「¡¿Cuándo dije eso?! ¡Adelante,＿piénsalo si quieres! ¡Para＿mí no es gran cosa!」"
+
+msgid "Ryuuji「What's that supposed to mean!?」"
+msgstr "Ryuuji「¡¿Qué se supone que significa eso?!」"
+
+msgid "Minori「I mean I don't take issue with Taiga or＿you!」"
+msgstr "Minori「¡Digo que no tengo problemas＿ni con Taiga ni contigo!」"
+
+msgid "Ryuuji「We're talking about YOU!」"
+msgstr "Ryuuji「¡Estamos hablando de TI!」"
+
+msgid "Minori「That's unrelated!」"
+msgstr "Minori「¡Eso no tiene nada que ver!」"
+
+msgid "Ryuuji「You're going to end this with that!?」"
+msgstr "Ryuuji「¡¿Vas a terminar esto así?!」"
+
+msgid "Minori「That's my answer! Got a problem!?」"
+msgstr "Minori「¡Esa es mi respuesta! ¡¿Algún problema?!」"
+
+msgid "Ryuuji「You clearly have no intention of＿answering me seriously!」"
+msgstr "Ryuuji「¡Claramente no tienes intención＿de responderme en serio!」"
+
+msgid "Minori「Like I said, that's fine by me!」"
+msgstr "Minori「¡Como dije, por mí está bien!」"
+
+msgid "Ryuuji「Y-You bitch......!」"
+msgstr "Ryuuji「¡M-Maldita......!」"
+
+msgid "Minori「......」"
+msgstr "Minori「......」"
+
+msgid "Minori「You intend to keep talking this late in＿the game? Give up already!」"
+msgstr "Minori「¿Piensas seguir hablando a estas＿alturas? ¡Ríndete de una vez!」"
+
+msgid "Minori「I told you not to say that! Don't fuck＿with me!!」"
+msgstr "Minori「¡Te dije que no dijeras＿eso! ¡¡No me jodas!!」"
+
+msgid "Minori「Don't say it.」"
+msgstr "Minori「No lo digas.」"
+
+msgid "Minori「Stop!」"
+msgstr "Minori「¡Detente!」"
+
+msgid "Minori「There's no point in saying it now. And I＿don't want to hear it.」"
+msgstr "Minori「No tiene caso decirlo ahora.＿Y no quiero escucharlo.」"
+
+msgid "Minori「Don't force me to listen to that!!」"
+msgstr "Minori「¡¡No me obligues a escuchar eso!!」"
+
+msgid "Minori「I don't wanna hear it.」"
+msgstr "Minori「No quiero escucharlo.」"
+
+msgid "Minori「I'm not listening.」"
+msgstr "Minori「No te escucho.」"
+
+msgid "Minori「AAARRRRGGGHHHH!! Quit FUCKING＿WITH ME! Takasu-kun, do you seriously＿want to talk about that right now!?」"
+msgstr "Minori「¡¡AAARRRRGGGHHHH!! ¡Deja de JODERME!＿Takasu-kun, ¡¿en serio quieres hablar＿de eso ahora mismo?!」"
+
+msgid "Ryuuji「Then listen to what I have to say!」"
+msgstr "Ryuuji「¡Entonces escucha lo que voy a decir!」"
+
+msgid "Minori「I AM listening! So don't just blurt out＿the same things over and over!」"
+msgstr "Minori「¡SÍ te escucho! ¡Así que no sueltes＿lo mismo una y otra vez!」"
+
+msgid "HAP_A1_LV1:"
+msgstr "HAP_A1_LV1:"
+
+msgid "HAP_A1_LV2:"
+msgstr "HAP_A1_LV2:"
+
+msgid "SAD_A1_LV1:"
+msgstr "SAD_A1_LV1:"
+
+msgid "SAD_A1_LV2:"
+msgstr "SAD_A1_LV2:"
+
+msgid "FUN_A1_LV1:"
+msgstr "FUN_A1_LV1:"
+
+msgid "FUN_A1_LV2:"
+msgstr "FUN_A1_LV2:"
+
+msgid "HAP_A2_LV1:"
+msgstr "HAP_A2_LV1:"
+
+msgid "HAP_A2_LV2:"
+msgstr "HAP_A2_LV2:"
+
+msgid "FUN_A2_LV1:"
+msgstr "FUN_A2_LV1:"
+
+msgid "FUN_A2_LV2:"
+msgstr "FUN_A2_LV2:"
+
+msgid "HAP_A3_LV1:"
+msgstr "HAP_A3_LV1:"
+
+msgid "HAP_A3_LV2:"
+msgstr "HAP_A3_LV2:"
+
+msgid "FUN_A3_LV1:"
+msgstr "FUN_A3_LV1:"
+
+msgid "FUN_A3_LV2:"
+msgstr "FUN_A3_LV2:"
+
+msgid "HAP_B1_LV1:"
+msgstr "HAP_B1_LV1:"
+
+msgid "HAP_B1_LV2:"
+msgstr "HAP_B1_LV2:"
+
+msgid "FUN_B1_LV1:"
+msgstr "FUN_B1_LV1:"
+
+msgid "FUN_B1_LV2:"
+msgstr "FUN_B1_LV2:"
+
+msgid "HAP_B2_LV1:"
+msgstr "HAP_B2_LV1:"
+
+msgid "HAP_B2_LV2:"
+msgstr "HAP_B2_LV2:"
+
+msgid "FUN_B2_LV1:"
+msgstr "FUN_B2_LV1:"
+
+msgid "FUN_B2_LV2:"
+msgstr "FUN_B2_LV2:"
+
+msgid "HAP_C1_LV1:"
+msgstr "HAP_C1_LV1:"
+
+msgid "HAP_C1_LV2:"
+msgstr "HAP_C1_LV2:"
+
+msgid "FUN_C1_LV1:"
+msgstr "FUN_C1_LV1:"
+
+msgid "FUN_C1_LV2:"
+msgstr "FUN_C1_LV2:"
+
+msgid "HAP_C2_LV1:"
+msgstr "HAP_C2_LV1:"
+
+msgid "HAP_C2_LV2:"
+msgstr "HAP_C2_LV2:"
+
+msgid "FUN_C2_LV1:"
+msgstr "FUN_C2_LV1:"
+
+msgid "FUN_C2_LV2:"
+msgstr "FUN_C2_LV2:"
+
+msgid "HAP_D1_LV1:"
+msgstr "HAP_D1_LV1:"
+
+msgid "HAP_D1_LV2:"
+msgstr "HAP_D1_LV2:"
+
+msgid "FUN_D1_LV1:"
+msgstr "FUN_D1_LV1:"
+
+msgid "FUN_D1_LV2:"
+msgstr "FUN_D1_LV2:"
+
+msgid "HAP_D2_LV1:"
+msgstr "HAP_D2_LV1:"
+
+msgid "HAP_D2_LV2:"
+msgstr "HAP_D2_LV2:"
+
+msgid "FUN_D2_LV1:"
+msgstr "FUN_D2_LV1:"
+
+msgid "FUN_D2_LV2:"
+msgstr "FUN_D2_LV2:"
+
+msgid "HAP_D3_LV1:"
+msgstr "HAP_D3_LV1:"
+
+msgid "HAP_D3_LV2:"
+msgstr "HAP_D3_LV2:"
+
+msgid "SAD_D3_LV1:"
+msgstr "SAD_D3_LV1:"
+
+msgid "SAD_D3_LV2:"
+msgstr "SAD_D3_LV2:"
+
+msgid "FUN_D3_LV1:"
+msgstr "FUN_D3_LV1:"
+
+msgid "FUN_D3_LV2:"
+msgstr "FUN_D3_LV2:"
+
+msgid "HAP_E1_LV1:"
+msgstr "HAP_E1_LV1:"
+
+msgid "HAP_E1_LV2:"
+msgstr "HAP_E1_LV2:"
+
+msgid "FUN_E1_LV1:"
+msgstr "FUN_E1_LV1:"
+
+msgid "FUN_E1_LV2:"
+msgstr "FUN_E1_LV2:"
+
+msgid "HAP_E2_LV1:"
+msgstr "HAP_E2_LV1:"
+
+msgid "HAP_E2_LV2:"
+msgstr "HAP_E2_LV2:"
+
+msgid "FUN_E2_LV1:"
+msgstr "FUN_E2_LV1:"
+
+msgid "FUN_E2_LV2:"
+msgstr "FUN_E2_LV2:"
+
+msgid "HAP_E3_LV1:"
+msgstr "HAP_E3_LV1:"
+
+msgid "HAP_E3_LV2:"
+msgstr "HAP_E3_LV2:"
+
+msgid "SAD_E3_LV1:"
+msgstr "SAD_E3_LV1:"
+
+msgid "SAD_E3_LV2:"
+msgstr "SAD_E3_LV2:"
+
+msgid "FUN_E3_LV1:"
+msgstr "FUN_E3_LV1:"
+
+msgid "FUN_E3_LV2:"
+msgstr "FUN_E3_LV2:"
+
+msgid "HAP_F1_LV1:"
+msgstr "HAP_F1_LV1:"
+
+msgid "HAP_F1_LV2:"
+msgstr "HAP_F1_LV2:"
+
+msgid "FUN_F1_LV1:"
+msgstr "FUN_F1_LV1:"
+
+msgid "FUN_F1_LV2:"
+msgstr "FUN_F1_LV2:"
+
+msgid "HAP_F2_LV1:"
+msgstr "HAP_F2_LV1:"
+
+msgid "HAP_F2_LV2:"
+msgstr "HAP_F2_LV2:"
+
+msgid "FUN_F2_LV1:"
+msgstr "FUN_F2_LV1:"
+
+msgid "FUN_F2_LV2:"
+msgstr "FUN_F2_LV2:"
+
+msgid "HAP_F3_LV1:"
+msgstr "HAP_F3_LV1:"
+
+msgid "HAP_F3_LV2:"
+msgstr "HAP_F3_LV2:"
+
+msgid "SAD_F3_LV1:"
+msgstr "SAD_F3_LV1:"
+
+msgid "SAD_F3_LV2:"
+msgstr "SAD_F3_LV2:"
+
+msgid "FUN_F3_LV1:"
+msgstr "FUN_F3_LV1:"
+
+msgid "FUN_F3_LV2:"
+msgstr "FUN_F3_LV2:"
+
+msgid "Ryuuji「Is it hard to watch? Of course it is! It＿hurts! But, if you're her best friend,＿you have to endure it and stay out of」"
+msgstr "Ryuuji「¿Es duro verlo? ¡Claro que sí!＿¡Duele! Pero, si eres su mejor amiga,＿¡debes aguantar y no meterte en」"
+
+msgid "Ryuuji「it! You have to accept it!」"
+msgstr "Ryuuji「eso! ¡Tienes que aceptarlo!」"
+
+msgid "Ryuuji「Listen, Kushieda! By refusing to accept＿it, you're treating it like it doesn't exist!＿It's like Taiga's efforts and feelings」"
+msgstr "Ryuuji「¡Escucha, Kushieda! ¡Si no lo aceptas,＿actúas como si no existiera! ¡Como si＿los esfuerzos y sentimientos de Taiga」"
+
+msgid "Ryuuji「don't exist!」"
+msgstr "Ryuuji「no existieran!」"
+
+msgid "Minori「You and I have two different＿standpoints! By the way, you definitely＿won't be able to leave her alone!」"
+msgstr "Minori「¡Tú y yo tenemos dos posturas distintas!＿Por cierto, ¡definitivamente no vas＿a poder dejarla sola!」"
+
+msgid "Minori「Definitely!」"
+msgstr "Minori「¡Definitivamente!」"
+
+msgid "Ryuuji「Yeah, that's right! That's all I've heard＿out of you! Taiga this! Taiga that! Oh,＿and nothing but telling me who I am」"
+msgstr "Ryuuji「¡Sí, así es! ¡Es todo lo que te he＿oído! ¡Taiga esto! ¡Taiga aquello!＿¡Ah, y solo me dices quién soy」"
+
+msgid "Ryuuji「and what to do!」"
+msgstr "Ryuuji「y qué hacer!」"
+
+msgid "Ryuuji「Well, your true feelings aren't! Behind＿that wall you've built yourself, in that＿little world no one else can touch, you」"
+msgstr "Ryuuji「¡Pues tus verdaderos sentimientos no!＿¡Tras ese muro que tú levantaste, en＿ese mundito que nadie más toca, tú」"
+
+msgid "Ryuuji「never commit to anything!」"
+msgstr "Ryuuji「nunca te comprometes con nada!」"
+
+msgid "Minori「It's not a matter of will or won't. It's a＿matter of can or can't! If it's for Taiga's＿sake, I can! And you should be able to」"
+msgstr "Minori「No es cuestión de querer, ¡sino＿de poder! ¡Por Taiga, yo puedo!＿¡Y tú deberías poder hacerlo」"
+
+msgid "Minori「as well!」"
+msgstr "Minori「también!」"
+
+msgid "Ryuuji「You said it yourself, didn't you? The＿reason Taiga doesn't tell you about her＿personal life is because her dad」"
+msgstr "Ryuuji「Tú lo dijiste, ¿no? ¡La razón＿por la que Taiga no te cuenta＿su vida personal es que su padre」"
+
+msgid "Ryuuji「upsets you!」"
+msgstr "Ryuuji「te molesta!」"
+
+msgid "Ryuuji「But you were the one pushing Taiga＿away! That's why you wouldn't set foot＿in her house! In the end, you're just a」"
+msgstr "Ryuuji「¡Pero tú eras quien alejaba a Taiga!＿¡Por eso no entrabas en su casa!＿Al final, ¡no eres más que una」"
+
+msgid "Ryuuji「fair-weather friend!」"
+msgstr "Ryuuji「amiga solo en las buenas!」"
+
+msgid "Minori「Oh fuck you!! Don't you understand＿how Taiga feels!? If you do, then why,＿why, WHY would you bring up that」"
+msgstr "Minori「¡¡Oh, jódete!! ¡¿No entiendes cómo＿se siente Taiga?! Si lo sabes, ¡¿por＿qué, por qué, POR QUÉ hablas de ese」"
+
+msgid "Minori「deadbeat dad!?」"
+msgstr "Minori「bueno para nada de su padre?!」"

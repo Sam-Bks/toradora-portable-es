@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+
+msgid "Ami「............」"
+msgstr "Ami「............」"
+
+msgid "Ryuuji「Hm? Why'd you fall silent all of a＿sudden?」"
+msgstr "Ryuuji「¿Mm? ¿Por qué te quedaste＿callada tan de repente?」"
+
+msgid "Ami「......It's nothing.」"
+msgstr "Ami「......No es nada.」"
+
+msgid "Ryuuji「Isn't your face flushed? If you're not＿feeling well, want to rest at my place＿for a bit?」"
+msgstr "Ryuuji「¿No tienes la cara sonrojada? Si＿no te sientes bien, ¿quieres descansar＿un rato en mi casa?」"
+
+msgid "Ami「Don't touch me casually!」"
+msgstr "Ami「¡No me toques así como así!」"
+
+msgid "Ryuuji「Ouch! Why you～」"
+msgstr "Ryuuji「¡Ay! Pero qué te pasa～」"
+
+msgid "Ami「......I'm going home!」"
+msgstr "Ami「......¡Me voy a casa!」"
+
+msgid "Ryuuji「Hey, what are you mad about?」"
+msgstr "Ryuuji「Oye, ¿por qué te enojas?」"
+
+msgid "Ami「......Slow on the uptake.」"
+msgstr "Ami「......Qué lento eres para captar.」"
+
+msgid "Ryuuji「Hm?」"
+msgstr "Ryuuji「¿Mm?」"
+
+msgid "Ami「Anyway, you better have your decision＿ready by tomorrow!」"
+msgstr "Ami「¡Como sea, más te vale tener lista＿tu decisión para mañana!」"
+
+msgid "Ryuuji「Women are so confusing.」"
+msgstr "Ryuuji「Las mujeres son tan confusas.」"
+
+msgid "Ryuuji「（I'll think it over carefully on the way＿home......）」"
+msgstr "Ryuuji「（Lo pensaré con cuidado de＿camino a casa......）」"

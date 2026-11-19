@@ -1,0 +1,677 @@
+msgid ""
+msgstr ""
+
+msgid "???「Oh, it's Tiger! What nice timing you＿have!」"
+msgstr "???「¡Ah, es Tigre! ¡Qué oportuna llegas!」"
+
+msgid "Ami「Seriously. It's almost as if she planned＿it～」"
+msgstr "Ami「En serio. Casi parece que＿lo hubiera planeado～」"
+
+msgid "???「Yes, yes, what a coincidence.」"
+msgstr "???「Sí, sí, qué coincidencia.」"
+
+msgid "Taiga「......The hell are you plotting?」"
+msgstr "Taiga「......¿Qué demonios traman?」"
+
+msgid "Ami「Gack!」"
+msgstr "Ami「¡Agh!」"
+
+msgid "???「Oh no! Is your liver okay, Ami-chan?」"
+msgstr "???「¡Oh, no! ¿Tu hígado está bien, Ami-chan?」"
+
+msgid "Taiga「No way I'm gonna familiarize myself＿with StuChi.」"
+msgstr "Taiga「Ni loca me voy a hacer amiga de StuChi.」"
+
+msgid "Ami「Q-Quite the greeting you have...... Ngh.」"
+msgstr "Ami「Q-Qué saludo el tuyo...... Ngh.」"
+
+msgid "???「Now now, both Ami-chan and＿Tiger-chan should calm down.」"
+msgstr "???「Ya, ya, tanto Ami-chan como Tigre-chan＿deberían calmarse.」"
+
+msgid "Taiga「I'm quite calm, I assure you.」"
+msgstr "Taiga「Te aseguro que estoy muy tranquila.」"
+
+msgid "???「That's right. We were all worked up,＿like, \"Why isn't Tiger here??\"」"
+msgstr "???「Así es. Estábamos todas alteradas,＿diciendo: \"¿Por qué no está Tigre?\"」"
+
+msgid "Taiga「W-What? What's this about?」"
+msgstr "Taiga「¿Q-Qué? ¿De qué se trata esto?」"
+
+msgid "???「Oh, well, we might as well go one more＿time, right? We GOTTA go!」"
+msgstr "???「Ay, bueno, podríamos ir una vez＿más, ¿no? ¡TENEMOS que ir!」"
+
+msgid "???「I'm sure we were fated to meet here.＿Right, Ami-chan?」"
+msgstr "???「Seguro que el destino nos reunió＿aquí. ¿Verdad, Ami-chan?」"
+
+msgid "Ami「That's right. Let's go one more time.」"
+msgstr "Ami「Así es. Vamos una vez más.」"
+
+msgid "Taiga「I don't know where this conversation is＿going......」"
+msgstr "Taiga「No sé adónde va esta conversación......」"
+
+msgid "Ami「Anyway, just come with us...... Oh, didn't＿see you there, Takasu-kun.」"
+msgstr "Ami「En fin, solo ven con nosotras......＿Ah, no te había visto, Takasu-kun.」"
+
+msgid "Ryuuji「Oh, you only just noticed me?」"
+msgstr "Ryuuji「Ah, ¿acabas de notar que estoy aquí?」"
+
+msgid "Ami「Sowwy～ Ami-chan couldn't think of＿anything but Tiger.」"
+msgstr "Ami「Perdóoon～ Ami-chan no podía pensar＿en nada más que en Tigre.」"
+
+msgid "Taiga「Creepy.」"
+msgstr "Taiga「Das miedo.」"
+
+msgid "Ami「Even I get goosebumps normally, but＿right now is a different story. I mean......＿Riiiight?」"
+msgstr "Ami「Normalmente hasta a mí me dan＿escalofríos, pero ahora es otra＿historia. Digo...... ¿verdaaad?」"
+
+msgid "???「Right～」"
+msgstr "???「Cierto～」"
+
+msgid "???「Ufufu.」"
+msgstr "???「Ujuju.」"
+
+msgid "Taiga「......Plotting something for sure! Scary!」"
+msgstr "Taiga「......¡Seguro traman algo! ¡Qué miedo!」"
+
+msgid "???「We really aren't at all!」"
+msgstr "???「¡De verdad que no!」"
+
+msgid "Ami「I'm sure you're free right now anyway,＿so just come with us for a bit...... Oh,＿are you coming too, Takasu-kun?」"
+msgstr "Ami「Seguro estás libre ahora, así que＿ven un momento...... Ah, ¿tú también＿vienes, Takasu-kun?」"
+
+msgid "Ryuuji「I don't mind, but I really feel like the＿fifth wheel here.」"
+msgstr "Ryuuji「No me importa, pero siento que＿aquí estoy totalmente de más.」"
+
+msgid "Ami「But this time Tiger's the main＿character, not Ami-chan.」"
+msgstr "Ami「Pero esta vez Tigre es la protagonista,＿no Ami-chan.」"
+
+msgid "Taiga「\"Main character\"? What the hell?」"
+msgstr "Taiga「¿\"Protagonista\"? ¿Qué demonios?」"
+
+msgid "???「Look forward to the full story later～ ☆＿But it's nothing bad at all, so come on.」"
+msgstr "???「Espera la historia completa luego～ ☆＿Pero no es nada malo, así que vamos.」"
+
+msgid "Taiga「Don't touch me! Let go! Arrrgh, fine～!＿I'll go! So let go of me!」"
+msgstr "Taiga「¡No me toques! ¡Suéltame! ¡Aaagh,＿bien～! ¡Iré! ¡Así que suéltame!」"
+
+msgid "Ryuuji「Haha...... It's almost like we caught an＿alien.」"
+msgstr "Ryuuji「Jaja...... Es casi como si hubiéramos＿atrapado a un extraterrestre.」"
+
+msgid "???「Come on, Takasu-kun, let's go.」"
+msgstr "???「Vamos, Takasu-kun, andando.」"
+
+msgid "Ryuuji「Oh, okay.」"
+msgstr "Ryuuji「Ah, está bien.」"
+
+msgid "???「Come to think of it, Happy New Year.」"
+msgstr "???「Ahora que lo pienso, feliz Año Nuevo.」"
+
+msgid "Ryuuji「Oh, that's very thoughtful of you.＿Happy New Year.」"
+msgstr "Ryuuji「Ah, qué amable de tu parte.＿Feliz Año Nuevo.」"
+
+msgid "???「Ufufu.」"
+msgstr "???「Ujuju.」"
+
+msgid "Ryuuji「......Wait, the arcade?」"
+msgstr "Ryuuji「......Espera, ¿el arcade?」"
+
+msgid "Ami「Where else would we go?」"
+msgstr "Ami「¿Adónde más íbamos a ir?」"
+
+msgid "Ryuuji「How should I know? Like, somewhere＿that isn't so loud?」"
+msgstr "Ryuuji「¿Cómo voy a saberlo? No sé, ¿un＿sitio que no sea tan ruidoso?」"
+
+msgid "Ami「It isn't so loud here. Fufu①」"
+msgstr "Ami「Aquí no hay tanto ruido. Juju①」"
+
+msgid "Taiga「Quit your grinning. It's creepy.」"
+msgstr "Taiga「Deja de sonreír así. Das miedo.」"
+
+msgid "Ryuuji「More importantly, where did the other＿two go?」"
+msgstr "Ryuuji「Más importante, ¿adónde＿fueron las otras dos?」"
+
+msgid "Ami「Wait and see～ Fufufu.」"
+msgstr "Ami「Espera y verás～ Jujuju.」"
+
+msgid "Ryuuji「......Hey, come to think of it, they're our＿classmates, right? They seemed to＿know me.」"
+msgstr "Ryuuji「......Oye, pensándolo bien, son＿nuestras compañeras de clase,＿¿no? Parecían conocerme.」"
+
+msgid "Taiga「Was that your first time seeing them＿since you left the hospital?」"
+msgstr "Taiga「¿Fue la primera vez que las viste＿desde que saliste del hospital?」"
+
+msgid "Ryuuji「Oh, yeah.」"
+msgstr "Ryuuji「Ah, sí.」"
+
+msgid "Ami「Kihara Maya-chan and Kashii＿Nanako-chan. They're our classmates.」"
+msgstr "Ami「Kihara Maya-chan y Kashii Nanako-chan.＿Son nuestras compañeras de clase.」"
+
+msgid "Ryuuji「Now that you mention it, those names＿sound familiar...... Err, which is which?」"
+msgstr "Ryuuji「Ahora que lo dices, esos nombres me＿suenan...... Ehm, ¿quién es quién?」"
+
+msgid "Taiga「Fashion Chick is Kihara, and＿Mole-Mouth is Kashii.」"
+msgstr "Taiga「La Chica Moda es Kihara, y la del＿Lunar en la Boca es Kashii.」"
+
+msgid "Ami「Your mouth is as filthy as ever. Could＿you not talk about Ami-chan's precious＿friends like that?」"
+msgstr "Ami「Tu boca sigue igual de sucia. ¿Podrías＿no hablar así de las queridas amigas＿de Ami-chan?」"
+
+msgid "Taiga「You mean your cronies?」"
+msgstr "Taiga「¿Quieres decir tus secuaces?」"
+
+msgid "Ami「Ugh～ That's no way to talk, even for a＿friendless girl like you～」"
+msgstr "Ami「Agh～ Qué forma de hablar, incluso para＿una chica sin amigos como tú～」"
+
+msgid "Taiga「WHAT? I won't let you dismiss Minorin＿like that!」"
+msgstr "Taiga「¡¿QUÉ?! ¡No dejaré que ignores＿así a Minorin!」"
+
+msgid "Ami「Ohh, that's right, you have＿Minori-chan～ But you know, lately you＿and Minori-chan......」"
+msgstr "Ami「Ahh, cierto, tienes a Minori-chan～＿Pero sabes, últimamente tú y＿Minori-chan......」"
+
+msgid "Taiga「What about us?」"
+msgstr "Taiga「¿Qué pasa con nosotras?」"
+
+msgid "Ami「Oh, nothiiing～①」"
+msgstr "Ami「Ah, nadaaa～①」"
+
+msgid "Taiga「Nggh～! You bitch～!」"
+msgstr "Taiga「¡Ggh～! ¡Maldita～!」"
+
+msgid "Ryuuji「Guys, bear in mind there are little kids＿at this arcade...... Sheesh.」"
+msgstr "Ryuuji「Chicas, recuerden que hay niños pequeños＿en este arcade...... En fin.」"
+
+msgid "Kihara「Ami-chan～ We're ready～」"
+msgstr "Kihara「Ami-chan～ Ya estamos listas～」"
+
+msgid "Kashii「Seems the dressing room is available＿now.」"
+msgstr "Kashii「Parece que el vestidor＿ya está disponible.」"
+
+msgid "Taiga「Dressing room......? I've got a baaad＿feeling about this.」"
+msgstr "Taiga「¿Vestidor......? Tengo un maaal＿presentimiento sobre esto.」"
+
+msgid "Ami「We keep telling you it's nothing bad.＿Come on, let's go, shorty.」"
+msgstr "Ami「Te decimos que no es nada malo.＿Anda, vamos, enana.」"
+
+msgid "Taiga「Ack! HEY! Alright already, don't pull＿me!」"
+msgstr "Taiga「¡Ah! ¡OYE! ¡Está bien,＿deja de tirar de mí!」"
+
+msgid "Ryuuji「......What's going on?」"
+msgstr "Ryuuji「......¿Qué está pasando?」"
+
+msgid "Taiga「F-F-FUCK THIIIIS!!」"
+msgstr "Taiga「¡A-A-A LA MIERDAAA!!」"
+
+msgid "Ryuuji「......Oh!?」"
+msgstr "Ryuuji「......¡¿Eh?!」"
+
+msgid "Taiga「Ryuuji! We're leaving!」"
+msgstr "Taiga「¡Ryuuji! ¡Nos vamos!」"
+
+msgid "Ryuuji「W-What happened?」"
+msgstr "Ryuuji「¿Q-Qué pasó?」"
+
+msgid "Ami「Now just hold on! You've got the wrong＿idea here!」"
+msgstr "Ami「¡Un momento! ¡Lo malinterpretaste todo!」"
+
+msgid "Taiga「SHUT UP! You all just want to＿humiliate me!」"
+msgstr "Taiga「¡CÁLLATE! ¡Todas solo＿quieren humillarme!」"
+
+msgid "Ryuuji「Guys, knock it off. Look, everyone is＿staring at us! You should be ashamed＿of yourselves!」"
+msgstr "Ryuuji「Chicas, ya basta. ¡Miren, todo el mundo＿nos mira! ¡Debería darles vergüenza!」"
+
+msgid "Taiga「Nggh......」"
+msgstr "Taiga「Ggh......」"
+
+msgid "Ryuuji「First of all, can someone tell me what＿the hell is going on?」"
+msgstr "Ryuuji「Antes que nada, ¿alguien puede decirme＿qué demonios está pasando?」"
+
+msgid "Taiga「Stuchi and her little friends are trying＿to make me put on some costume!」"
+msgstr "Taiga「¡StuChi y sus amiguitas intentan＿obligarme a ponerme un disfraz!」"
+
+msgid "Ryuuji「Huh? A costume? Why?」"
+msgstr "Ryuuji「¿Eh? ¿Un disfraz? ¿Por qué?」"
+
+msgid "Taiga「Would not!」"
+msgstr "Taiga「¡Claro que no!」"
+
+msgid "No, I don't"
+msgstr "No, no lo estoy"
+
+msgid "Taiga can be surprisingly loveable"
+msgstr "Taiga puede ser sorprendentemente＿adorable"
+
+msgid "Can I be in the picture?"
+msgstr "¿Puedo salir en la foto?"
+
+msgid "Ryuuji「No, I don't. What's with you guys＿today? Taiga really doesn't want to do＿this.」"
+msgstr "Ryuuji「No, no lo estoy. ¿Qué les pasa hoy?＿Taiga de verdad no quiere hacer esto.」"
+
+msgid "Taiga「That's right! Learn the meaning of the＿word \"no,\" StuChi!」"
+msgstr "Taiga「¡Exacto! ¡Aprende el significado＿de la palabra \"no\", StuChi!」"
+
+msgid "Ami「Whaaat? Tiger's just being stubborn,＿that's all.」"
+msgstr "Ami「¿Quéee? Tigre solo está siendo＿testaruda, eso es todo.」"
+
+msgid "Ryuuji「No, this is borderline bullying.」"
+msgstr "Ryuuji「No, esto ya parece acoso.」"
+
+msgid "Kihara「N-No it isn't!」"
+msgstr "Kihara「¡N-No es cierto!」"
+
+msgid "Kihara「What? Oh, okay......」"
+msgstr "Kihara「¿Qué? Ah, está bien......」"
+
+msgid "Kihara「W-Well, see you later!」"
+msgstr "Kihara「B-Bueno, ¡nos vemos luego!」"
+
+msgid "Taiga「Hmph! What was up with them?」"
+msgstr "Taiga「¡Jum! ¿Qué les pasaba?」"
+
+msgid "Ryuuji「......Uh, did I perhaps say too much just＿now?」"
+msgstr "Ryuuji「......Eh, ¿acaso dije demasiado＿hace un momento?」"
+
+msgid "Taiga「No, not at all. If you hadn't said all that,＿it never would have gotten though＿StuChi's thick skull...... Let's go home.」"
+msgstr "Taiga「No, para nada. Sin todo lo que dijiste,＿jamás se le habría ocurrido a＿StuChi...... Vámonos a casa.」"
+
+msgid "Ryuuji「Oh, okay.」"
+msgstr "Ryuuji「Ah, está bien.」"
+
+msgid "Ryuuji「You're right. Taiga can be surprisingly＿loveable.」"
+msgstr "Ryuuji「Tienes razón. Taiga puede ser＿sorprendentemente adorable.」"
+
+msgid "Taiga「Huh? What's that supposed to mean?」"
+msgstr "Taiga「¿Eh? ¿Qué se supone que significa eso?」"
+
+msgid "Taiga「What does that have to do with this?」"
+msgstr "Taiga「¿Qué tiene que ver eso con esto?」"
+
+msgid "Ryuuji「Well, putting Kawashima aside......」"
+msgstr "Ryuuji「Bueno, dejando a Kawashima aparte......」"
+
+msgid "Ami「Excuse me? What do you mean?」"
+msgstr "Ami「¿Disculpa? ¿Qué quieres decir?」"
+
+msgid "Ryuuji「Don't worry about it...... Anyway, as＿Kihara and Kashii have said, I think it's＿a good idea to try them on just once.」"
+msgstr "Ryuuji「No le des importancia...... Como dijeron＿Kihara y Kashii, creo que es buena＿idea probárselos una vez.」"
+
+msgid "Kihara「Ohh, Takasu-kun really gets it. Come＿on now, even your buddy agrees, so＿let's try 'em on real fast.」"
+msgstr "Kihara「Ohh, Takasu-kun sí que entiende.＿Anda, hasta tu amigo está de acuerdo,＿así que probémonoslos.」"
+
+msgid "Kihara「After that, if you really don't like it,＿we'll stop pestering you. Right,＿Ami-chan?」"
+msgstr "Kihara「Si después de eso de verdad＿no te gusta, dejamos de insistir.＿¿Verdad, Ami-chan?」"
+
+msgid "Ami「Yup yup. Don't worry, I'll be cosplaying＿with you.」"
+msgstr "Ami「Sip, sip. Tranquila, yo también＿haré cosplay contigo.」"
+
+msgid "Taiga「Et tu, Ryuuji......? Jeez. I guess I'll try it.」"
+msgstr "Taiga「¿Hasta tú, Ryuuji......? Cielos.＿Supongo que me lo probaré.」"
+
+msgid "Kihara「Alright, it's a plan～! Let's go get ready!」"
+msgstr "Kihara「¡Bien, trato hecho～! ¡Vamos＿a prepararnos!」"
+
+msgid "Kihara「Kyaaaa, this is bad! Super bad! Crazy＿cute!」"
+msgstr "Kihara「¡Kiaaaa, qué locura! ¡Superlinda!＿¡Tiernísima!」"
+
+msgid "Kashii「Oh my, that's amazing! Even cuter than＿I imagined①」"
+msgstr "Kashii「¡Ay, qué increíble! ¡Aún más＿linda de lo que imaginé!①」"
+
+msgid "Ryuuji「（W-What's going on?）」"
+msgstr "Ryuuji「（¿Q-Qué está pasando?）」"
+
+msgid "Kihara「Come on, Takasu-kun, come see!」"
+msgstr "Kihara「¡Vamos, Takasu-kun, ven a ver!」"
+
+msgid "Ryuuji「......Oh!」"
+msgstr "Ryuuji「......¡Oh!」"
+
+msgid "Taiga「............」"
+msgstr "Taiga「............」"
+
+msgid "Ryuuji「T-Taiga, you...... Man, you're really＿rocking that.」"
+msgstr "Ryuuji「T-Taiga, tú...... Vaya, de＿verdad te queda genial.」"
+
+msgid "Taiga「I'm none too happy about it.」"
+msgstr "Taiga「No estoy nada contenta con esto.」"
+
+msgid "Kihara「What are you saying? You're the best!」"
+msgstr "Kihara「¿Qué estás diciendo? ¡Eres la mejor!」"
+
+msgid "Kashii「Yes, yes! I want you to hug me①」"
+msgstr "Kashii「¡Sí, sí! Quiero que me abraces①」"
+
+msgid "Taiga「Calm your tits.」"
+msgstr "Taiga「Cálmense de una vez.」"
+
+msgid "Kihara「There's no way we could stay calm～」"
+msgstr "Kihara「No hay forma de calmarse～」"
+
+msgid "Kashii「I can't take it! Hey, can I pet you?」"
+msgstr "Kashii「¡No aguanto más! Oye,＿¿puedo acariciarte?」"
+
+msgid "Taiga「Go find a stray cat to cuddle.」"
+msgstr "Taiga「Ve a buscar un gato callejero＿para abrazar.」"
+
+msgid "Ryuuji「Haha...... Wait, come to think of it,＿where's Kawashima?」"
+msgstr "Ryuuji「Jaja...... Espera, ahora que lo＿pienso, ¿dónde está Kawashima?」"
+
+msgid "Kihara「Oh, she's still changing.」"
+msgstr "Kihara「Ah, todavía se está cambiando.」"
+
+msgid "Taiga「Isn't this great, Ryuuji? We get another＿chance to laugh at the dirty＿Chihuahua's folly.」"
+msgstr "Taiga「¿No es genial, Ryuuji? Tendremos＿otra oportunidad de reírnos de la＿torpeza de la Chihuahua.」"
+
+msgid "Ryuuji「Folly? What's that?」"
+msgstr "Ryuuji「¿Torpeza? ¿A qué te refieres?」"
+
+msgid "Ami「Sorry I took so long～」"
+msgstr "Ami「Perdón por tardar tanto～」"
+
+msgid "Ryuuji「Oh...... Ohh!?」"
+msgstr "Ryuuji「Oh...... ¡¿Ohh?!」"
+
+msgid "Ryuuji「K-Kawashima, you......」"
+msgstr "Ryuuji「K-Kawashima, tú......」"
+
+msgid "Taiga「You exhibitionist.」"
+msgstr "Taiga「Exhibicionista.」"
+
+msgid "Ami「Shut up～ You're one to talk, wearing＿THAT getup.」"
+msgstr "Ami「Cállate～ Mira quién lo dice,＿con ESE traje puesto.」"
+
+msgid "Kashii「Oh my, Ami-chan's super cute too①」"
+msgstr "Kashii「Ay, Ami-chan también está superlinda①」"
+
+msgid "Kihara「That's our girl! She can bare it all, even＿in the middle of winter!」"
+msgstr "Kihara「¡Esa es nuestra chica! ¡Puede mostrarlo＿todo hasta en pleno invierno!」"
+
+msgid "Ami「Thanks～! How do I look, Takasu-kun?」"
+msgstr "Ami「¡Gracias～! ¿Qué tal me veo, Takasu-kun?」"
+
+msgid "Ryuuji「......Aren't you cold?」"
+msgstr "Ryuuji「......¿No tienes frío?」"
+
+msgid "Taiga「I'm hot!」"
+msgstr "Taiga「¡Yo tengo calor!」"
+
+msgid "Ami「Ahaha, you would be. As you guessed, I＿am a little cold, so let's hurry and take＿pics.」"
+msgstr "Ami「Ajaja, claro que sí. Como adivinaste,＿tengo un poco de frío, así que démonos＿prisa y tomemos fotos.」"
+
+msgid "Kihara「......Annnd we're all set. Come on, it's＿starting. Get in here, Takasu-kun!」"
+msgstr "Kihara「......Yyy listo. ¡Vamos, ya empieza!＿¡Métete aquí, Takasu-kun!」"
+
+msgid "Ryuuji「O-Oh? Me too!?」"
+msgstr "Ryuuji「¿E-Eh? ¡¿Yo también?!」"
+
+msgid "Taiga「......Biggest mistake of my whole life.」"
+msgstr "Taiga「......El peor error de toda mi vida.」"
+
+msgid "Taiga「......Hmph.」"
+msgstr "Taiga「......Jum.」"
+
+msgid "Ryuuji「Can I be in the picture?」"
+msgstr "Ryuuji「¿Puedo salir en la foto?」"
+
+msgid "Kihara「Ohh, Takasu-kun really gets it! Great,＿great! What if we took some of just the＿two of you?」"
+msgstr "Kihara「¡Ohh, Takasu-kun sí que entiende!＿¡Genial, genial! ¿Y si tomamos algunas＿de ustedes dos solos?」"
+
+msgid "Taiga「......Ryuuji, what is the meaning of this?」"
+msgstr "Taiga「......Ryuuji, ¿qué significa esto?」"
+
+msgid "Taiga「Well, it's a little late for...... Wait, so then＿why the hell do I have to wear a＿costume!?」"
+msgstr "Taiga「Es un poco tarde para...... Espera,＿¡¿entonces por qué demonios tengo＿que ponerme un disfraz?!」"
+
+msgid "Ryuuji「Well, everyone's been insisting this＿much, so I kinda want to see what all＿the fuss is about.」"
+msgstr "Ryuuji「Bueno, todas han insistido tanto＿que me dio curiosidad ver por＿qué tanto alboroto.」"
+
+msgid "Taiga「E-Et tu, Ryuuji......」"
+msgstr "Taiga「H-Hasta tú, Ryuuji......」"
+
+msgid "Ryuuji「Kawashima aside, they don't look like＿they mean any harm.」"
+msgstr "Ryuuji「Dejando a Kawashima aparte, no parece＿que tengan malas intenciones.」"
+
+msgid "Ami「T-Takasu-kun, umm......」"
+msgstr "Ami「T-Takasu-kun, ehm......」"
+
+msgid "Kihara「Now now, come on, Tiger. Even your＿buddy agrees, so let's try 'em on real＿fast.」"
+msgstr "Kihara「Ya, ya, vamos, Tigre. Hasta tu＿amigo está de acuerdo, así que＿probémonoslos rapidito.」"
+
+msgid "Ami「......Well, if you want nothing to do with＿it afterwards, we'll forget it.」"
+msgstr "Ami「......Bueno, si después no quieres saber＿nada más del asunto, lo olvidamos.」"
+
+msgid "Taiga「Jeez...... I guess I'll try it.」"
+msgstr "Taiga「Cielos...... Supongo que me lo probaré.」"
+
+msgid "Kihara「Alright, it's a plan～! Let's go get ready!」"
+msgstr "Kihara「¡Bien, trato hecho～! ¡Vamos＿a prepararnos!」"
+
+msgid "Kihara「Kyaaaa, this is bad! Super bad! Crazy＿cute!」"
+msgstr "Kihara「¡Kiaaaa, qué locura! ¡Superlinda!＿¡Tiernísima!」"
+
+msgid "Kashii「Oh my, that's amazing! Even cuter than＿I imagined①」"
+msgstr "Kashii「¡Ay, qué increíble! ¡Aún más＿linda de lo que imaginé!①」"
+
+msgid "Ryuuji「（W-What's going on?）」"
+msgstr "Ryuuji「（¿Q-Qué está pasando?）」"
+
+msgid "Kihara「Come on, Takasu-kun, come see!」"
+msgstr "Kihara「¡Vamos, Takasu-kun, ven a ver!」"
+
+msgid "Ryuuji「......Oh!」"
+msgstr "Ryuuji「......¡Oh!」"
+
+msgid "Taiga「............」"
+msgstr "Taiga「............」"
+
+msgid "Ryuuji「T-Taiga, you...... Man, you're really＿rocking that.」"
+msgstr "Ryuuji「T-Taiga, tú...... Vaya, de＿verdad te queda genial.」"
+
+msgid "Taiga「I'm none too happy about it.」"
+msgstr "Taiga「No estoy nada contenta con esto.」"
+
+msgid "Kihara「What are you saying? You're the best!」"
+msgstr "Kihara「¿Qué estás diciendo? ¡Eres la mejor!」"
+
+msgid "Kashii「Yes, yes! I want you to hug me①」"
+msgstr "Kashii「¡Sí, sí! Quiero que me abraces①」"
+
+msgid "Taiga「Calm your tits.」"
+msgstr "Taiga「Cálmense de una vez.」"
+
+msgid "Kihara「There's no way we could stay calm～」"
+msgstr "Kihara「No hay forma de calmarse～」"
+
+msgid "Kashii「I can't take it! Hey, can I pet you?」"
+msgstr "Kashii「¡No aguanto más! Oye,＿¿puedo acariciarte?」"
+
+msgid "Taiga「Go find a stray cat to cuddle.」"
+msgstr "Taiga「Ve a buscar un gato callejero＿para abrazar.」"
+
+msgid "Ryuuji「（Wow, Taiga's actually pretty loveable in＿that...... Wait.）」"
+msgstr "Ryuuji「（Vaya, Taiga en realidad se ve muy＿adorable con eso...... Espera.）」"
+
+msgid "Ryuuji「Come to think of it, where's＿Kawashima......?」"
+msgstr "Ryuuji「Ahora que lo pienso, ¿dónde＿está Kawashima......?」"
+
+msgid "Ami「Right here......」"
+msgstr "Ami「Aquí mismo......」"
+
+msgid "Ryuuji「Oh? What's wrong? It's not like you to＿blend in so much. Am I seeing things,＿or are you pale as a ghost?」"
+msgstr "Ryuuji「¿Eh? ¿Qué pasa? No es propio de＿ti pasar tan desapercibida. ¿Estás＿pálida como un fantasma?」"
+
+msgid "Ryuuji「A sense of defeat?」"
+msgstr "Ryuuji「¿Sensación de derrota?」"
+
+msgid "Ryuuji「Ah, this is about Taiga. In that case,＿why don't you put on a costume too?」"
+msgstr "Ryuuji「Ah, es por Taiga. En ese caso, ¿por qué＿no te pones un disfraz tú también?」"
+
+msgid "Ami「I can't. It's not my thing. Plus...... On the＿off, OFF chance that I were to lose to＿that shorty......」"
+msgstr "Ami「No puedo. No es lo mío. En el＿remoto caso de que perdiera＿contra esa enana......」"
+
+msgid "Ami「If those two got all worked up over＿that midget Tiger......」"
+msgstr "Ami「Si esas dos se emocionaran tanto＿por esa Tigre enana......」"
+
+msgid "Ryuuji「I kinda feel like that's not something＿that should spark a rivalry.」"
+msgstr "Ryuuji「Siento que eso no es algo que＿deba desatar una rivalidad.」"
+
+msgid "Ami「Hey, Takasu-kun! I'm a pro, right? A＿professional model?」"
+msgstr "Ami「¡Oye, Takasu-kun! Soy una profesional,＿¿verdad? ¿Una modelo profesional?」"
+
+msgid "Ryuuji「Oh, yeah. I don't know how successful＿you are, but you're indisputably a＿model.」"
+msgstr "Ryuuji「Ah, sí. No sé qué tanto éxito＿tengas, pero eres indiscutiblemente＿una modelo.」"
+
+msgid "Ami「T-That's right...... That's right,＿Ami-chan's a pro, a model...... Aha,＿ahaha......」"
+msgstr "Ami「E-Exacto...... Así es, Ami-chan＿es una profesional, una modelo......＿Aja, ajaja......」"
+
+msgid "Ryuuji「......Uh, errr...... H-Hey Kawashima, you＿should be in the picture too, if you＿want. For bragging purposes.」"
+msgstr "Ryuuji「......Eh, ehm...... O-Oye, Kawashima,＿sal en la foto también, si quieres.＿Para presumir.」"
+
+msgid "Ami「......Bragging?」"
+msgstr "Ami「......¿Presumir?」"
+
+msgid "Ami「What's with that blatant flattery? I＿must be losing my touch if I need your＿reassurance.」"
+msgstr "Ami「¿Y ese halago tan descarado? Debo＿estar perdiendo el toque si necesito＿que tú me des ánimos.」"
+
+msgid "Ryuuji「（Oh? All of a sudden...... What's this＿overwhelming presence!?）」"
+msgstr "Ryuuji「（¿Eh? De repente...... ¡¿Qué es＿esta presencia abrumadora?!）」"
+
+msgid "Ami「Well, I'd feel bad letting those two toy＿with the shorty all day, so let's take＿some pictures already. Let's go.」"
+msgstr "Ami「Me daría pena dejar que esas dos jueguen＿con la enana todo el día, así que＿tomemos unas fotos. Vamos.」"
+
+msgid "Ryuuji「Oh, okay.」"
+msgstr "Ryuuji「Ah, está bien.」"
+
+msgid "Kihara「......Annnd we're all set. Come on, it's＿starting.」"
+msgstr "Kihara「......Yyy ya está todo listo.＿¡Vamos, ya empieza!」"
+
+msgid "Kihara「Ahaha, look at this～! Tiger's SUPER＿cute!」"
+msgstr "Kihara「¡Ajaja, mira esto～! ¡Tigre＿está SÚPER linda!」"
+
+msgid "Kashii「So good... It's just so good... So cute, so＿cute... Dangerously cute...」"
+msgstr "Kashii「Qué bueno... Es tan bueno... Tan linda,＿tan linda... Peligrosamente linda...」"
+
+msgid "Taiga「Alright already, let go of me! It's hot in＿here!」"
+msgstr "Taiga「¡Ya basta, suéltenme! ¡Hace＿calor aquí dentro!」"
+
+msgid "Ryuuji「Kawashima...... You really are a pro.」"
+msgstr "Ryuuji「Kawashima...... De verdad＿eres una profesional.」"
+
+msgid "Ami「Takasu-kun looks like he just got out＿of prison.」"
+msgstr "Ami「Takasu-kun parece recién＿salido de prisión.」"
+
+msgid "Ryuuji「Excuse you......」"
+msgstr "Ryuuji「Oye, qué dices......」"
+
+msgid "Kihara「Oh, hey! While we're at it, why don't we＿take one of Tiger and Takasu-kun?」"
+msgstr "Kihara「¡Ah, oigan! Ya que estamos, ¿por qué no＿tomamos una de Tigre y Takasu-kun?」"
+
+msgid "Taiga「Huh? W-W-Why?」"
+msgstr "Taiga「¿Eh? ¿P-P-Por qué?」"
+
+msgid "Kihara「Takasu-kun, you said you wanted a＿clear photo of yourself, didn't you?」"
+msgstr "Kihara「Takasu-kun, dijiste que querías una＿foto clara de ti mismo, ¿no?」"
+
+msgid "Ryuuji「Oh, yeah. I don't mind......」"
+msgstr "Ryuuji「Ah, sí. No me importa......」"
+
+msgid "Taiga「......Then sit your ass down. It's HOT IN＿HERE!」"
+msgstr "Taiga「......Entonces siéntate de una＿vez. ¡HACE CALOR AQUÍ DENTRO!」"
+
+msgid "Kihara「There we go, all lined up......」"
+msgstr "Kihara「Ahí estamos, todos listos......」"
+
+msgid "Ami「......Wait, can you relax a little more?＿You're not gonna smile?」"
+msgstr "Ami「......Oye, ¿puedes relajarte un＿poco más? ¿No vas a sonreír?」"
+
+msgid "Taiga「Just get it over with. It's HOT!」"
+msgstr "Taiga「Acaba con esto de una vez. ¡Hace CALOR!」"
+
+msgid "Kihara「O-Okay, here we go～ Wait for it～」"
+msgstr "Kihara「E-Está bien, allá va～ Prepárense～」"
+
+msgid "Ami「Ugh～! What is this, Bonnie and Clyde?」"
+msgstr "Ami「¡Agh～! ¿Qué es esto, Bonnie y Clyde?」"
+
+msgid "Kihara「Ahaha, this one's the best～ In a lot of＿ways!」"
+msgstr "Kihara「¡Ajaja, esta es la mejor～!＿¡En muchos sentidos!」"
+
+msgid "Kashii「Yes, yes. You two look great together.」"
+msgstr "Kashii「Sí, sí. Hacen muy buena pareja.」"
+
+msgid "Taiga「......That's why I didn't want to do this!＿Ryuuji, say something!」"
+msgstr "Taiga「......¡Por eso no quería hacer＿esto! ¡Ryuuji, di algo!」"
+
+msgid "Ryuuji「......Sorry, Taiga.」"
+msgstr "Ryuuji「......Lo siento, Taiga.」"
+
+msgid "Ami「Pffft, ahahaha......」"
+msgstr "Ami「Pffft, ajajaja......」"
+
+msgid "Ami「\"Plotting\" indeed～ What a miserable＿idea, hmm? Seriously, I thought you＿were familiar with human beings～」"
+msgstr "Ami「¡\"Tramar\", claro～! Qué idea tan triste,＿¿eh? Pensé que ya estabas acostumbrada＿a los seres humanos～」"
+
+msgid "Ami「Guess you still long for the wilderness.」"
+msgstr "Ami「Supongo que aún extrañas la selva.」"
+
+msgid "???「You know, we're not trying to pick on＿you or anything. We were all talking＿about you just moments ago,」"
+msgstr "???「Sabes, no intentamos molestarte＿ni nada. Estábamos hablando de＿ti hace apenas un momento,」"
+
+msgid "???「Tiger-chan.」"
+msgstr "???「Tigre-chan.」"
+
+msgid "Ami「Because we want to take pictures in＿that photo booth over there. They're＿renting out cosplay costumes for free」"
+msgstr "Ami「Porque queremos tomarnos fotos＿en esa cabina de allá. Prestan＿trajes de cosplay gratis」"
+
+msgid "Ami「right now, and Tiger would look＿absolutely great in one, no doubt＿about it.」"
+msgstr "Ami「ahora mismo, y a Tigre le quedaría＿increíble uno, sin ninguna duda.」"
+
+msgid "Kihara「Would too! You'd look absolutely＿SUPER great～! And we were only＿gonna take group photos. No harm」"
+msgstr "Kihara「¡Claro que sí! ¡Te verías SÚPER＿genial～! Y solo íbamos a tomar＿fotos en grupo. Sin mala」"
+
+msgid "Kihara「meant, honest.」"
+msgstr "Kihara「intención, en serio.」"
+
+msgid "Ami「Look, Nanako's holding our spot in the＿queue, so don't be stubborn. It's fine!＿We should try them on beforehand.」"
+msgstr "Ami「Mira, Nanako nos guarda el lugar en＿la fila, así que no seas terca. ¡No＿pasa nada! Probémonoslos.」"
+
+msgid "Ami「Right? Don't you agree, Takasu-kun?」"
+msgstr "Ami「¿Verdad? ¿No estás de＿acuerdo, Takasu-kun?」"
+
+msgid "Ami「Actually, I'm the one who gets bullied＿all the time...... Argh～ Forget it.＿Ami-chan just doesn't care anymore.」"
+msgstr "Ami「Yo soy a quien molestan todo el＿tiempo...... Agh～ Olvídalo. A Ami-chan＿ya ni le importa.」"
+
+msgid "Ami「Let's go, Maya-chan.」"
+msgstr "Ami「Vámonos, Maya-chan.」"
+
+msgid "Ryuuji「You know, like how you got a CD from＿one of the Broadcast Club members＿after you came back from suspension.」"
+msgstr "Ryuuji「Ya sabes, como cuando alguien＿del Club de Radiodifusión te＿dio un CD al volver.」"
+
+msgid "Ryuuji「I remember.」"
+msgstr "Ryuuji「Lo recuerdo.」"
+
+msgid "Ryuuji「It's totally FINE. I'm sure Yasuko will be＿happy when we show her...... Then＿again, she might make a fuss, like \"I」"
+msgstr "Ryuuji「Está BIEN. Seguro Yasuko se alegrará＿al verla...... Aunque quizá arme＿un escándalo diciendo: \"Yo」"
+
+msgid "Ryuuji「wanna take one too～\"」"
+msgstr "Ryuuji「también quiero tomarme una～\"」"
+
+msgid "Ryuuji「Well, it doesn't seem like I've taken any＿clear photos of myself...... Feels like I've＿tried in the past, but my face put the」"
+msgstr "Ryuuji「Parece que no tengo foto clara de＿mí mismo...... Creo que lo intenté＿antes, pero mi cara dejó al」"
+
+msgid "Ryuuji「photographer into shock.」"
+msgstr "Ryuuji「fotógrafo en estado de shock.」"
+
+msgid "Ami「Oh, shut up...... The flawless beauty＿Ami-chan is struggling with a＿teeeensy, weeeensy sense of defeat, so」"
+msgstr "Ami「Ay, cállate...... La belleza perfecta＿Ami-chan siente una sensación＿de derrota, así que」"
+
+msgid "Ami「have some consideration.」"
+msgstr "Ami「ten algo de consideración.」"
+
+msgid "Ami「Well, I'm the one who suggested she＿put it on. It's true I thought it would＿look absolutely great on her. But to」"
+msgstr "Ami「Yo sugerí que se lo pusiera. Es＿verdad que pensé que le quedaría＿genial. Pero imaginar que」"
+
+msgid "Ami「think s-s-SHE could pull off something＿so cute......」"
+msgstr "Ami「e-e-ELLA pudiera verse tan＿linda con eso......」"
+
+msgid "Ryuuji「I have to admit it'd be just for＿appearance's sake. As for Taiga......＿Well, frankly, you might not have an」"
+msgstr "Ryuuji「Debo admitir que sería solo por guardar＿las apariencias. En cuanto a Taiga......＿Quizá no tengas」"
+
+msgid "Ryuuji「understanding of men. Being in a＿picture with you would make me＿proud.」"
+msgstr "Ryuuji「idea de cómo son los hombres.＿Salir en una foto contigo me haría＿sentir muy orgulloso.」"

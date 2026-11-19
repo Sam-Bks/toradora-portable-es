@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+
+msgid "Minori「Oooo HAH! Ooo, ooo, HAH!!」"
+msgstr "Minori「¡Uuuu JAH! ¡Uuu, uuu, JAH!!」"
+
+msgid "Ryuuji「Kushieda!?」"
+msgstr "Ryuuji「¡¿Kushieda?!」"
+
+msgid "Minori「OOO HAH! OOO OOO HAH!! OOO HAH!＿OOO OOO HAH!!」"
+msgstr "Minori「¡UUU JAH! ¡UUU UUU JAH!! ¡UUU＿JAH! ¡UUU UUU JAH!!」"
+
+msgid "Ryuuji「Huh!? What's wrong all of a sudden!?」"
+msgstr "Ryuuji「¡¿Eh?! ¡¿Qué te pasa tan de repente?!」"
+
+msgid "Minori「Don't stop me, Takasu-kun!!」"
+msgstr "Minori「¡¡No me detengas, Takasu-kun!!」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Minori「I am presently clearing my mind!!」"
+msgstr "Minori「¡¡Ahora mismo estoy despejando＿mi mente!!」"
+
+msgid "Minori「OOO HAH! OOO OOO HAH!! OOO HAH!＿OOO OOO HAH!!」"
+msgstr "Minori「¡UUU JAH! ¡UUU UUU JAH!! ¡UUU＿JAH! ¡UUU UUU JAH!!」"
+
+msgid "Minori「Begone, idle thoughts!!」"
+msgstr "Minori「¡¡Fuera, pensamientos vanos!!」"
+
+msgid "Ryuuji「......I-Idle thoughts?」"
+msgstr "Ryuuji「......¿P-Pensamientos vanos?」"
+
+msgid "Minori「And now time begins to pass......＿*Siiigh*......」"
+msgstr "Minori「Y ahora el tiempo empieza a correr......＿*Suspiiiro*......」"
+
+msgid "Ryuuji「Uh, Kushieda? You okay......?」"
+msgstr "Ryuuji「Eh, ¿Kushieda? ¿Estás bien......?」"
+
+msgid "Minori「Yup, I'm okay now. Wow～ My brain was＿swelling with idle thoughts so I had to＿hurry and exorcise them.」"
+msgstr "Minori「Sip, ya estoy bien. Uf～ Mi cerebro se＿llenaba de pensamientos vanos, así que＿tuve que exorcizarlos rápido.」"
+
+msgid "Ryuuji「What idle thoughts? From where......?」"
+msgstr "Ryuuji「¿Qué pensamientos vanos?＿¿De dónde......?」"
+
+msgid "Minori「Uhh～ See, about that......」"
+msgstr "Minori「Ehh～ Verás, sobre eso......」"
+
+msgid "Minori「Well, it's all good now!!」"
+msgstr "Minori「¡Bueno, ya está todo bien!!」"
+
+msgid "Minori「C'mon, let's get a move on!」"
+msgstr "Minori「¡Vamos, sigamos avanzando!」"
+
+msgid "Ryuuji「Oh, okay.」"
+msgstr "Ryuuji「Ah, está bien.」"

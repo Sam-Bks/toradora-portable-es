@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+
+msgid "Inko-chan「GIVE」"
+msgstr "Inko-chan「TOMA」"
+
+msgid "Inko-chan「GIVE IT, GIVE IT」"
+msgstr "Inko-chan「TÓMALO, TÓMALO」"
+
+msgid "Ryuuji「Hm......?」"
+msgstr "Ryuuji「¿Hm......?」"
+
+msgid "Inko-chan「GIVE IT, TO YOU」"
+msgstr "Inko-chan「TÓMALO, PARA TI」"
+
+msgid "Ryuuji「（This is......! It's a sunflower seed--＿Inko-chan's favorite food!）」"
+msgstr "Ryuuji「（¡Es...... una semilla de girasol,＿la comida favorita de Inko-chan!）」"
+
+msgid "Ryuuji「（It must really have enjoyed the＿conversation to have given me its＿favorite. Okay, I gladly accept!）」"
+msgstr "Ryuuji「（Debió encantarle la charla para＿darme su comida favorita. ¡Bien,＿la acepto con gusto!）」"
+
+msgid "Ryuuji「Thanks, Inko-chan!」"
+msgstr "Ryuuji「¡Gracias, Inko-chan!」"
+
+msgid "Inko-chan「......」"
+msgstr "Inko-chan「......」"
+
+msgid "Ryuuji「......Oh. It's asleep.」"
+msgstr "Ryuuji「......Ah. Está dormido.」"
+
+msgid "Ryuuji「......Guess it's my bedtime too.」"
+msgstr "Ryuuji「......Supongo que también debo dormir.」"

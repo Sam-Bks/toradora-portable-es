@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「......It'll never end.」"
+msgstr "Ryuuji「......Esto no terminará nunca.」"
+
+msgid "Ryuuji「（Leave it to Taiga to completely wreck a＿room. It's gonna be a long night......＿Wait, I'm getting pretty good at this.）」"
+msgstr "Ryuuji「（Nadie como Taiga para destrozar una＿habitación. Será una noche larga......＿Espera, ya me volví bueno en esto.）」"
+
+msgid "Ryuuji「......Oh, I know.」"
+msgstr "Ryuuji「......Ah, ya sé.」"
+
+msgid "Ryuuji「Inko-chan, it's nearly bedtime, isn't it?」"
+msgstr "Ryuuji「Inko-chan, ya casi es hora＿de ir a la cama, ¿no?」"
+
+msgid "Inko-chan「BE, BED?」"
+msgstr "Inko-chan「¿CA, CAMA?」"
+
+msgid "Ryuuji「What is it, Inko-chan? Not sleepy?」"
+msgstr "Ryuuji「¿Qué pasa, Inko-chan? ¿No tienes sueño?」"
+
+msgid "Inko-chan「NNNN」"
+msgstr "Inko-chan「NNNN」"
+
+msgid "Talk for a bit"
+msgstr "Charlar un rato"
+
+msgid "Back to cleaning......"
+msgstr "Volver a limpiar......"
+
+msgid "Ryuuji「Alright, then let's talk for a bit,＿Inko-chan.」"
+msgstr "Ryuuji「Está bien, charlemos un rato, Inko-chan.」"
+
+msgid "Inko-chan「TA, TALK」"
+msgstr "Inko-chan「CHA, CHARLA」"
+
+msgid "Ryuuji「Sorry, Inko-chan. I still have cleaning＿to do, so be a good bird and go to＿sleep.」"
+msgstr "Ryuuji「Lo siento, Inko-chan. Todavía tengo＿que limpiar, así que sé un buen＿pájaro y vete a dormir.」"
+
+msgid "Inko-chan「BOO, BOO, BOO」"
+msgstr "Inko-chan「BUU, BUU, BUU」"
+
+msgid "Ryuuji「Are you booing me......? Good night,＿Inko-chan.」"
+msgstr "Ryuuji「¿Me estás abucheando......?＿Buenas noches, Inko-chan.」"
+
+msgid "Ryuuji「（Now then...... For now I'll at least＿prepare some space for me to sleep＿in......）」"
+msgstr "Ryuuji「（Bueno...... Por ahora al menos＿haré algo de espacio para poder＿dormir......）」"

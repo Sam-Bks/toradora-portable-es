@@ -1,0 +1,143 @@
+msgid ""
+msgstr ""
+
+msgid "Ami「Oh......」"
+msgstr "Ami「Ah......」"
+
+msgid "Ryuuji「Yo. We meet again.」"
+msgstr "Ryuuji「Hola. Nos volvemos a ver.」"
+
+msgid "Ryuuji「And if that was the case?」"
+msgstr "Ryuuji「¿Y si así fuera?」"
+
+msgid "Ami「You've worn out that joke.」"
+msgstr "Ami「Ya gastaste esa broma.」"
+
+msgid "Ryuuji「Yeah, that was pretty bad.」"
+msgstr "Ryuuji「Sí, estuvo bastante mala.」"
+
+msgid "Ami「Oh, I know. Takasu-kun, you probably＿know about the bakeries and stuff＿around here, right?」"
+msgstr "Ami「Ah, ya sé. Takasu-kun, tú seguro＿sabes de las pastelerías y esas＿cosas por aquí, ¿verdad?」"
+
+msgid "Ryuuji「Don't you think the other girls would＿know more about that?」"
+msgstr "Ryuuji「¿No crees que las otras chicas＿sabrían más sobre eso?」"
+
+msgid "Ami「Well, to an extent, yes. But you see, I＿think I can better rely on someone＿known for good cooking, like you.」"
+msgstr "Ami「Bueno, hasta cierto punto, sí. Pero＿verás, creo que puedo confiar más en＿alguien famoso por cocinar bien como tú.」"
+
+msgid "Ami「Takasu-kun, you seem like just the＿type to get upset after buying＿something that sucks.」"
+msgstr "Ami「Takasu-kun, pareces justo el tipo＿de persona que se enoja tras comprar＿algo que sea un asco.」"
+
+msgid "Ryuuji「Uhh, just what the hell do you think of＿me?」"
+msgstr "Ryuuji「Eh, ¿qué diablos piensas＿exactamente de mí?」"
+
+msgid "Ami「Well? Remember anything?」"
+msgstr "Ami「¿Y bien? ¿Recuerdas algo?」"
+
+msgid "Ami「Hmm, you're doing well.」"
+msgstr "Ami「Mmm, vas bien.」"
+
+msgid "Ryuuji「Did you ask me that on purpose＿because you were worried about how＿I'm doing?」"
+msgstr "Ryuuji「¿Me preguntaste eso a propósito porque＿estabas preocupada por cómo estoy?」"
+
+msgid "Ryuuji「Oh yeah, Taiga mentioned it too. Are＿you going to buy one tonight?」"
+msgstr "Ryuuji「Ah, sí, Taiga también lo mencionó.＿¿Vas a comprar uno esta noche?」"
+
+msgid "Ryuuji「What, are you going to see Taiga?」"
+msgstr "Ryuuji「¿Qué, vas a ver a Taiga?」"
+
+msgid "Ami「I'm not in a rush or anything, but＿tonight's just the most convenient for＿me.」"
+msgstr "Ami「No tengo prisa ni nada, pero＿esta noche es simplemente cuando＿más me conviene.」"
+
+msgid "Ami「......So? What store does the cooking＿freak overlord Takasu-kun＿recommend?」"
+msgstr "Ami「......¿Y bien? ¿Qué tienda recomienda＿el señor supremo de los maniáticos＿de la cocina, Takasu-kun?」"
+
+msgid "Ami「Tarte tatin from Alps? Thanks! Bye.」"
+msgstr "Ami「¿Tarte tatin de Alps? ¡Gracias! Adiós.」"
+
+msgid "Ryuuji「Bye.」"
+msgstr "Ryuuji「Adiós.」"
+
+msgid "Ryuuji「（Well, damn if she isn't bizarrely＿enthusiastic...... Is that part of the＿\"tsundere\" thing?）」"
+msgstr "Ryuuji「（Vaya, sí que está extrañamente＿entusiasmada...... ¿Eso es parte＿de lo \"tsundere\"?）」"
+
+msgid "Ryuuji「Yo.」"
+msgstr "Ryuuji「Hola.」"
+
+msgid "Ami「Oh...... what is it?」"
+msgstr "Ami「Ah...... ¿qué pasa?」"
+
+msgid "Ryuuji「Oh, I'm not on any particular errand.＿You've been staring into that cake＿display pretty intently.」"
+msgstr "Ryuuji「Ah, no vengo por nada en especial.＿Llevas un buen rato mirando esa vitrina＿de pasteles con mucha atención.」"
+
+msgid "Ami「Well, yeah. I have to choose carefully,＿don't I? I can't just eat as many of＿these high-calorie things as I want.」"
+msgstr "Ami「Pues sí. Tengo que elegir con cuidado,＿¿no? No puedo comer tantas cosas altas＿en calorías como quiera.」"
+
+msgid "Ryuuji「Makes sense. Spoiling yourself?」"
+msgstr "Ryuuji「Tiene sentido. ¿Consintiéndote?」"
+
+msgid "Ami「......Hmph, don't make me laugh. That＿phrase sounds like it came out of a＿women's magazine.」"
+msgstr "Ami「......Jum, no me hagas reír. Esa frase＿suena sacada de una revista femenina.」"
+
+msgid "Ryuuji「My mom Yasuko reads them. It's a＿common phrase these days.」"
+msgstr "Ryuuji「Mi mamá Yasuko las lee. Es una＿frase común hoy en día.」"
+
+msgid "Ami「So this is just me scratching an itch.＿I'd be concerned if I got \"spoiled.\"」"
+msgstr "Ami「Esto es solo quitarme un antojo. Me＿preocuparía si me volviera \"consentida\".」"
+
+msgid "Ryuuji「You're pretty serious about this.」"
+msgstr "Ryuuji「Te lo tomas bastante en serio.」"
+
+msgid "Ami「If I wasn't, I couldn't be a model...... See＿ya.」"
+msgstr "Ami「Si no fuera así, no podría ser＿modelo...... Nos vemos.」"
+
+msgid "Ryuuji「What, you're not going to buy anything＿after all?」"
+msgstr "Ryuuji「¿Qué, al final no vas a comprar nada?」"
+
+msgid "Ami「I feel full after looking at your face～」"
+msgstr "Ami「Me llené solo con ver tu cara～」"
+
+msgid "Ryuuji「......The fuck did that mean?」"
+msgstr "Ryuuji「......¿Qué mierda significó eso?」"
+
+msgid "Ami「What? After having the gall to＿abandon Ami-chan earlier, you're just＿so interested in her that you couldn't」"
+msgstr "Ami「¿Qué? Tras el descaro＿de dejar sola a Ami-chan antes,＿¿te interesa tanto que no podías」"
+
+msgid "Ami「stop looking for her?」"
+msgstr "Ami「dejar de buscarla?」"
+
+msgid "Ami「Actually, you'd say you could make＿something better, I know it. Or maybe＿you'd say you'd prove it to yourself～ I」"
+msgstr "Ami「De hecho, dirías que puedes hacer algo＿mejor, lo sé. O tal vez dirías que te＿lo demostrarías a ti mismo～ ¡Me」"
+
+msgid "Ami「can totally see that happening!＿Hilarious～」"
+msgstr "Ami「lo imagino totalmente! ¡Qué risa～」"
+
+msgid "Ryuuji「......Uhhh, let's see. Come to think of it,＿Yasuko's gotten a few decent-tasting＿cakes...... Oh, a good candidate just」"
+msgstr "Ryuuji「......Ehhh, a ver. Pensándolo bien,＿Yasuko ha traído pasteles ricos......＿Ah, un buen candidato acaba de」"
+
+msgid "Ryuuji「came to mind.」"
+msgstr "Ryuuji「venirme a la mente.」"
+
+msgid "Ami「Like hell. I merely figured you'd have＿bought a few for the runt Tiger, and I＿just wanted reliable information with」"
+msgstr "Ami「Ni de broma. Supuse que le habrías＿comprado varios a la enana de Tigre y＿solo quería información fiable」"
+
+msgid "Ami「no complaints.」"
+msgstr "Ami「sin quejas.」"
+
+msgid "Ryuuji「Excuse you...... Well, as I recall, just＿past this shopping mall, there's a＿pastry shop called \"Alps.\" They make a」"
+msgstr "Ryuuji「Más respeto...... Que yo recuerde,＿pasando este centro comercial hay una＿pastelería llamada \"Alps\". Hacen una」"
+
+msgid "Ryuuji「decent tarte tatin.」"
+msgstr "Ryuuji「tarte tatin bastante buena.」"
+
+msgid "Ami「Something like \"spoiling myself①\" is＿just a convenient excuse for people＿who don't want to feel guilty about」"
+msgstr "Ami「¡Algo como \"consentirme①\" es solo una＿excusa conveniente para quienes no＿quieren sentirse culpables por」"
+
+msgid "Ami「overspending or overeating!」"
+msgstr "Ami「gastar o comer de más!」"
+
+msgid "Ami「In short, it's just a way to overlook＿your own weak will. If I hear someone＿say it, it's like, are you really motivated」"
+msgstr "Ami「En resumen, es solo una forma de ignorar＿tu poca fuerza de voluntad. Si alguien＿lo dice, es como: ¡¿de verdad」"
+
+msgid "Ami「to lose weight!?」"
+msgstr "Ami「tienes motivación para bajar de peso?!」"

@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+
+msgid "Taiga「............」"
+msgstr "Taiga「............」"
+
+msgid "Ryuuji「Hm? Was it something I said?」"
+msgstr "Ryuuji「¿Mm? ¿Fue algo que dije?」"
+
+msgid "Taiga「No, no. I was just thinking that you＿really are trustworthy.」"
+msgstr "Taiga「No, no. Solo pensaba que de verdad＿eres alguien de fiar.」"
+
+msgid "Ryuuji「Don't be creepy.」"
+msgstr "Ryuuji「No des miedo.」"
+
+msgid "Taiga「Hmph. If it makes you happy, why not＿openly wag your tail?」"
+msgstr "Taiga「Jum. Si te hace feliz, ¿por qué no＿mueves la cola abiertamente?」"
+
+msgid "Ryuuji「If I let that make me happy, I'd be the＿one getting goosebumps.」"
+msgstr "Ryuuji「Si eso me pusiera feliz, sería a mí al＿que se le pondría la piel de gallina.」"
+
+msgid "Taiga「......I guess you have a point. Oh well.＿Here, you hold on to this.」"
+msgstr "Taiga「......Supongo que tienes razón. En＿fin. Toma, quédate con esto.」"
+
+msgid "Ryuuji「What on earth......? A wooden sword?＿Looks dangerous.」"
+msgstr "Ryuuji「¿Qué demonios......? ¿Una espada＿de madera? Se ve peligrosa.」"
+
+msgid "Taiga「Well, you're holding it wrong. Give it＿here, I'll show you how to hold it.」"
+msgstr "Taiga「Bueno, la estás agarrando mal. Dámela,＿te enseñaré cómo sostenerla.」"
+
+msgid "Ryuuji「You don't have to! I'm begging you,＿please just behave yourself.」"
+msgstr "Ryuuji「¡No hace falta! Te lo ruego,＿por favor compórtate.」"
+
+msgid "Taiga「I'm doing this for you! See? When you＿use it, intend on landing a killing blow.」"
+msgstr "Taiga「¡Hago esto por ti! ¿Ves? Cuando＿la uses, ten la intención de＿dar un golpe mortal.」"
+
+msgid "Ryuuji「Stop it, I've got a bad feeling about＿this. And I'm not gonna be killing＿anyone.」"
+msgstr "Ryuuji「Para ya, tengo un mal presentimiento＿con esto. Y no voy a matar a nadie.」"
+
+msgid "Taiga「Don't ask questions! Aim for the head＿and take one good swing...... Ah!」"
+msgstr "Taiga「¡No hagas preguntas! Apunta a la cabeza＿y da un buen golpe...... ¡Ah!」"
+
+msgid "Ryuuji「Wh...... What's wrong?」"
+msgstr "Ryuuji「¿Q...... Qué pasa?」"
+
+msgid "Taiga「I think the gauze on my foot came＿off......」"
+msgstr "Taiga「Creo que se me soltó la＿gasa del pie......」"
+
+msgid "Ryuuji「That's why I told you to behave＿yourself...... Come on, let me see your＿foot again.」"
+msgstr "Ryuuji「Por eso te dije que te comportaras......＿Vamos, déjame ver tu pie otra vez.」"
+
+msgid "Ryuuji「Why did you bring that wooden sword＿with you?」"
+msgstr "Ryuuji「¿Por qué trajiste esa espada＿de madera contigo?」"
+
+msgid "Taiga「I had this with me on the night that I＿first went to your house. I think it＿could be useful.」"
+msgstr "Taiga「Llevaba esto conmigo la noche que＿fui por primera vez a tu casa.＿Creo que podría ser útil.」"
+
+msgid "Ryuuji「......I dread to think what could have＿happened that night.」"
+msgstr "Ryuuji「......Me da pavor pensar qué pudo＿haber pasado esa noche.」"
+
+msgid "Taiga「Don't you think you might remember＿something if you hold onto it? Plus, it's＿great for self-defense.」"
+msgstr "Taiga「¿No crees que podrías recordar algo＿si la llevas contigo? Además, es genial＿para defensa personal.」"
+
+msgid "Taiga「You should have put it on like this the＿first time around.」"
+msgstr "Taiga「Deberías haberla puesto así＿desde la primera vez.」"
+
+msgid "Ryuuji「Before you start complaining, say＿thank you.」"
+msgstr "Ryuuji「Antes de empezar a quejarte,＿da las gracias.」"
+
+msgid "Ryuuji「Hm? Who's that?」"
+msgstr "Ryuuji「¿Mm? ¿Quién es?」"
+
+msgid "Taiga「You don't need to get that. It's＿probably StuChi anyway.」"
+msgstr "Taiga「No hace falta que atiendas. Seguro＿es StuChi de todos modos.」"
+
+msgid "Ryuuji「But what if it's not? I should go check,＿just in case......」"
+msgstr "Ryuuji「¿Pero y si no lo es? Debería ir＿a ver, por si acaso......」"
+
+msgid "Ryuuji「......Seems it wasn't necessary.＿Definitely Kawashima. Shall we head＿out?」"
+msgstr "Ryuuji「......Parece que no hacía falta. Sin＿duda es Kawashima. ¿Salimos ya?」"
+
+msgid "Taiga「Yeah. My foot feels much better. You＿have my praise, Ryuuji. Now, let's see＿some enthusiasm!」"
+msgstr "Taiga「Sí. Mi pie se siente mucho mejor.＿Tienes mi elogio, Ryuuji. ¡Ahora,＿muestra algo de entusiasmo!」"
+
+msgid "Ryuuji「Don't run around too much or the＿gauze will come off again!」"
+msgstr "Ryuuji「¡No corras demasiado o se te＿volverá a soltar la gasa!」"
+
+msgid "Ryuuji「I'm grateful, but I pray that I never＿need use it for self-defense...... There＿you go.」"
+msgstr "Ryuuji「Te lo agradezco, pero rezo por＿nunca tener que usarla en defensa＿propia...... Listo.」"
+
+msgid "Ryuuji「It should be harder to dislodge this＿time around.」"
+msgstr "Ryuuji「Debería ser más difícil que＿se suelte esta vez.」"

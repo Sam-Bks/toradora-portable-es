@@ -1,0 +1,377 @@
+msgid ""
+msgstr ""
+
+msgid "Ami「Whaaat? What's everyone up to?」"
+msgstr "Ami「¿Quéee? ¿Qué andan haciendo todos?」"
+
+msgid "Haruta「Aaaah! Ami-chan～!」"
+msgstr "Haruta「¡Aaaah! ¡Ami-chan～!」"
+
+msgid "Ami「Happy New Year. Were the four of you＿about to go somewhere?」"
+msgstr "Ami「Feliz Año Nuevo. ¿Ustedes cuatro＿iban a ir a algún lado?」"
+
+msgid "Kitamura「We all just got back from celebrating＿Hatsumode.」"
+msgstr "Kitamura「Acabamos de volver de celebrar＿el Hatsumode.」"
+
+msgid "Ami「Oh, cool. I wish you'd invited me too～」"
+msgstr "Ami「¡Ah! Ojalá me hubieran invitado también～」"
+
+msgid "Noto「Really? I wish you'd have come with us.」"
+msgstr "Noto「¿Sí? Ojalá hubieras venido con nosotros.」"
+
+msgid "Ryuuji「（That girl...... In front of everyone else,＿she's in Innocent Mode.）」"
+msgstr "Ryuuji「（Esa chica...... Delante de los＿demás, está en Modo Inocente.）」"
+
+msgid "Haruta「Where are you headed, Ami-channn～?」"
+msgstr "Haruta「¿A dónde vas, Ami-channn～?」"
+
+msgid "Ami「Oh, I went to return a borrowed DVD＿and now I'm headed home.」"
+msgstr "Ami「Ah, fui a devolver un DVD prestado＿y ahora voy de regreso a casa.」"
+
+msgid "Noto「Is that so! What kinda movies do you＿usually watch, Ami-chan?」"
+msgstr "Noto「¡Conque sí! ¿Qué tipo de películas＿sueles ver, Ami-chan?」"
+
+msgid "Ami「Let's see...... Dramas, I guess? Though I＿cry easily, so they tend to get me＿teared up in a snap.」"
+msgstr "Ami「A ver...... ¿Dramas, supongo? Aunque＿lloro con facilidad, así que se me salen＿las lágrimas en un segundo.」"
+
+msgid "Haruta「Wooow～ Ami-chan, you're so sweet～」"
+msgstr "Haruta「Guaaau～ Ami-chan, eres tan dulce～」"
+
+msgid "Ami「Whaaat～? Oh no, not at all.」"
+msgstr "Ami「¿Quéee～? Ay no, para nada.」"
+
+msgid "Taiga「Hmmm, I had no idea \"Comedy Grand＿Prix Masterpiece Collection\" was so＿touching.」"
+msgstr "Taiga「Mmm, no tenía idea de que \"Colección＿de Obras Maestras del Gran Premio de＿Comedia\" fuera tan conmovedora.」"
+
+msgid "Ami「Y-You...... why do you have that?」"
+msgstr "Ami「T-Tú...... ¿por qué tienes eso?」"
+
+msgid "Taiga「Well, if someone was acting all＿paranoid at the video rental store,＿wouldn't anyone get a little curious?」"
+msgstr "Taiga「Bueno, si alguien actuara toda paranoica＿en la tienda de videos, ¿a cualquiera＿no le daría curiosidad?」"
+
+msgid "Kitamura「Hahaha. So you like comedy so much＿that you borrow comedy DVDs, huh,＿Ami?」"
+msgstr "Kitamura「Jajaja. Así que te gusta tanto＿la comedia que alquilas DVD＿de comedia, ¿eh, Ami?」"
+
+msgid "Ami「Yuusaku!」"
+msgstr "Ami「¡Yuusaku!」"
+
+msgid "Ami「SHUT UP TIGER, YOU RUNT!」"
+msgstr "Ami「¡CÁLLATE, TIGRE ENANA!」"
+
+msgid "Ryuuji「（What is with these two......? They're at＿each other's throats!）」"
+msgstr "Ryuuji「（¿Qué pasa con estas dos......?＿¡Están que se matan!）」"
+
+msgid "Noto「So Ami-chan likes comedy. Didn't see＿that one coming.」"
+msgstr "Noto「Así que a Ami-chan le gusta la comedia.＿Esa no me la esperaba.」"
+
+msgid "Haruta「But, but I LOVE comedy～ I think we'd＿get along, Ami-chan～」"
+msgstr "Haruta「Pero a mí me ENCANTA la comedia～ Creo＿que nos llevaríamos bien, Ami-chan～」"
+
+msgid "Ami「I just happened to rent it this time. It's＿not the kind of thing I usually rent.」"
+msgstr "Ami「Solo dio la casualidad de que＿lo alquilé esta vez. No es lo＿que suelo alquilar.」"
+
+msgid "Ami「More importantly, what were you＿doing, following me around? Are you＿one of my fans?」"
+msgstr "Ami「Más importante aún, ¿qué hacías＿siguiéndome por ahí? ¿Acaso＿eres una de mis fans?」"
+
+msgid "Taiga「This is just the way to my house. Now＿let me ask you, do washed-up models＿even have fans?」"
+msgstr "Taiga「Este solo es el camino a mi casa.＿Ahora dime, ¿las modelos fracasadas＿siquiera tienen fans?」"
+
+msgid "Ami「I AM NOT WASHED UP!」"
+msgstr "Ami「¡NO SOY UNA FRACASADA!」"
+
+msgid "Haruta「I'm a fan of yours, Ami-chan～」"
+msgstr "Haruta「Yo soy tu fan, Ami-chan～」"
+
+msgid "Noto「Me too!」"
+msgstr "Noto「¡Yo también!」"
+
+msgid "Ami「Thanks Haruta-kun～① And＿Noto-kun～①」"
+msgstr "Ami「Gracias, Haruta-kun～① Y Noto-kun～①」"
+
+msgid "Taiga「Tch.」"
+msgstr "Taiga「Tch.」"
+
+msgid "Kitamura「Now now, drop it, you two. If you don't＿have plans, want to do something with＿us?」"
+msgstr "Kitamura「Ya, ya, déjenlo ustedes dos.＿Si no tienen planes, ¿quieren＿hacer algo con nosotros?」"
+
+msgid "Haruta「Yeah! I want to hang out with＿Ami-channn～」"
+msgstr "Haruta「¡Sí! Quiero pasar el rato＿con Ami-channn～」"
+
+msgid "Ami「Ami-chan doesn't mind, but she's busy,＿so just for a little while, okay?」"
+msgstr "Ami「A Ami-chan no le importa, pero está＿ocupada, así que solo un ratito, ¿sí?」"
+
+msgid "Haruta「Yaaay～ Where should we go～?」"
+msgstr "Haruta「¡Yujuuu～! ¿A dónde deberíamos ir～?」"
+
+msgid "Taiga「Let's go to a diner.」"
+msgstr "Taiga「Vamos a un restaurante.」"
+
+msgid "Ami「Why did YOU answer? Haruta-kun was＿asking me!」"
+msgstr "Ami「¿Por qué respondiste TÚ? ¡Haruta-kun＿me estaba preguntando a mí!」"
+
+msgid "Taiga「But Kitamura-kun said \"you two\".」"
+msgstr "Taiga「Pero Kitamura-kun dijo \"ustedes dos\".」"
+
+msgid "Kitamura「I'm feeling a little peckish too. How＿about it? Shall we all go to Jonny's?」"
+msgstr "Kitamura「También tengo un poco de hambre. ¿Qué＿les parece? ¿Vamos todos a Jonny's?」"
+
+msgid "Haruta「Agreed～! The waitresses' uniforms＿there are crazy cute, dude～」"
+msgstr "Haruta「¡De acuerdo～! Los uniformes de las＿camareras ahí son súper lindos, amigo～」"
+
+msgid "Noto「Now that's what I'm talking about. I'm＿also pretty crazy about their fries.」"
+msgstr "Noto「Así se habla. También me encantan＿sus papas fritas.」"
+
+msgid "Ami「Hold on, don't you want Ami-chan's＿opinion?」"
+msgstr "Ami「Esperen, ¿no quieren la＿opinión de Ami-chan?」"
+
+msgid "Taiga「Seems like they like the diner more＿than they like you.」"
+msgstr "Taiga「Parece que les gusta más＿el restaurante que tú.」"
+
+msgid "Taiga「What will you do, StuChi? You coming＿with us? Or going home?」"
+msgstr "Taiga「¿Qué vas a hacer, Chihuatonta? ¿Vienes＿con nosotros o te vas a casa?」"
+
+msgid "Ryuuji「Taiga, drop it and play nice. Let's all go＿together.」"
+msgstr "Ryuuji「Taiga, déjalo ya y pórtate＿bien. Vamos todos juntos.」"
+
+msgid "Ami「Takasu-kun, you're a nice guy. I'm so＿happy.」"
+msgstr "Ami「Takasu-kun, eres un buen＿chico. Estoy tan feliz.」"
+
+msgid "Ryuuji「Kawashima, that won't work on me, so＿cut it out.」"
+msgstr "Ryuuji「Kawashima, eso no funciona＿conmigo, así que ya para.」"
+
+msgid "Ami「Whaaat～? What won't work on you?＿Ami-chan doesn't get ittt.」"
+msgstr "Ami「¿Quéee～? ¿Qué no funciona contigo?＿Ami-chan no entiendeee.」"
+
+msgid "Taiga「Your entire existence, that's what.」"
+msgstr "Taiga「Toda tu existencia, eso.」"
+
+msgid "Ami「You be quiet.」"
+msgstr "Ami「Tú cállate.」"
+
+msgid "Ryuuji「Those two just won't behave.」"
+msgstr "Ryuuji「Esas dos simplemente no se portan bien.」"
+
+msgid "Kitamura「Hahaha! The three of you have great＿chemistry! Come on, let's all get＿moving.」"
+msgstr "Kitamura「¡Jajaja! ¡Ustedes tres tienen una gran＿química! Vamos, pongámonos en marcha.」"
+
+msgid "Haruta「Daaamn! The uniforms here really are＿cuuute～ And the waitresses are＿babes, man～ I looove this place～」"
+msgstr "Haruta「¡Caramba! Los uniformes de aquí sí que＿son liiindos～ Y las camareras son unas＿bellezas～ Me encaaanta este lugar～」"
+
+msgid "Kitamura「Come to think of it, I don't see＿Kushieda. Did she take the day off?」"
+msgstr "Kitamura「Ahora que lo pienso, no veo a Kushieda.＿¿Se tomó el día libre?」"
+
+msgid "Taiga「Minorin is staying at her grandma's＿house.」"
+msgstr "Taiga「Minorin se está quedando＿en casa de su abuela.」"
+
+msgid "Kitamura「I see.」"
+msgstr "Kitamura「Ya veo.」"
+
+msgid "Ryuuji「Is everyone ready to order?」"
+msgstr "Ryuuji「¿Todos están listos para ordenar?」"
+
+msgid "Haruta「What should I pick～? What do I＿want～?」"
+msgstr "Haruta「¿Qué debería elegir～? ¿Qué quiero～?」"
+
+msgid "Noto「I want fries and an all-you-can-drink＿soda.」"
+msgstr "Noto「Quiero papas fritas y refrescos＿ilimitados.」"
+
+msgid "Kitamura「I'll go with...... a BLT sandwich. And an＿all-you-can-drink soda.」"
+msgstr "Kitamura「Yo pediré...... un sándwich BLT.＿Y refrescos ilimitados.」"
+
+msgid "Haruta「Hmmm...... This one? No, maybe that＿one?」"
+msgstr "Haruta「Mmm...... ¿Este? No, ¿tal vez ese?」"
+
+msgid "Ami「I'll just have a drink. I'm not hungry.」"
+msgstr "Ami「Solo beberé algo. No tengo hambre.」"
+
+msgid "Taiga「Hmph. I bet you're on a diet, and＿forcing yourself not to eat, aren't you?」"
+msgstr "Taiga「Jum. Apuesto a que estás a dieta y＿te obligas a no comer, ¿verdad?」"
+
+msgid "Ami「What did you say? I'm skinny enough＿as it is, so I don't need to go on a diet,＿thank you very much!」"
+msgstr "Ami「¿Qué dijiste? Ya estoy bastante delgada＿así como estoy, así que no necesito＿hacer dieta, ¡muchas gracias!」"
+
+msgid "Taiga「Whatever. I'm gonna ask for a yogurt＿parfait. The parfaits here are delicious.」"
+msgstr "Taiga「Como sea. Pediré un parfait de yogur.＿Los de aquí son deliciosos.」"
+
+msgid "Taiga「If you're not on a diet, you should get＿one too. But you won't, will you? Your＿face is looking a little plump.」"
+msgstr "Taiga「Si no estás a dieta, deberías pedir uno＿tú también. Pero no lo harás, ¿cierto?＿Se te ve la cara un poco rellenita.」"
+
+msgid "Ami「It is NOT plump!」"
+msgstr "Ami「¡NO está rellenita!」"
+
+msgid "Ami「Takasu-kun, I'll have a chocolate＿parfait.」"
+msgstr "Ami「Takasu-kun, yo quiero un＿parfait de chocolate.」"
+
+msgid "Ryuuji「You sure, Kawashima?」"
+msgstr "Ryuuji「¿Estás segura, Kawashima?」"
+
+msgid "Ami「It's fine. The chocolate one has more＿calories!」"
+msgstr "Ami「Está bien. ¡El de chocolate＿tiene más calorías!」"
+
+msgid "Ami「If you're jealous, by all means try＿ordering something with even more＿calories.」"
+msgstr "Ami「Si tienes envidia, adelante, intenta＿pedir algo con todavía más calorías.」"
+
+msgid "Taiga「Then, I'll have them add cheesecake to＿my yogurt parfait!」"
+msgstr "Taiga「¡Entonces pediré que le agreguen pastel＿de queso a mi parfait de yogur!」"
+
+msgid "Taiga「How's that? Now mine has way more＿calories.」"
+msgstr "Taiga「¿Qué tal eso? Ahora el mío tiene＿muchas más calorías.」"
+
+msgid "Ryuuji「Don't squabble over this petty stuff!＿We're ordering food here!」"
+msgstr "Ryuuji「¡No discutan por esas tonterías!＿¡Estamos pidiendo comida!」"
+
+msgid "Ami「But～」"
+msgstr "Ami「Pero～」"
+
+msgid "Ryuuji「Kawashima, you're getting an＿all-you-can-drink soda. Taiga, all you're＿getting is a yogurt parfait.」"
+msgstr "Ryuuji「Kawashima, tú vas a pedir refrescos＿ilimitados. Taiga, tú solo vas a＿pedir un parfait de yogur.」"
+
+msgid "Ami「Meanie～ You think I'm on a diet too,＿don't you, Takasu-kun?」"
+msgstr "Ami「Qué malo～ Tú también piensas que estoy＿a dieta, ¿verdad, Takasu-kun?」"
+
+msgid "Ryuuji「It's not that. I mean, do you really want＿to eat a chocolate parfait, Kawashima?」"
+msgstr "Ryuuji「No es eso. ¿Quieres de verdad un parfait＿de chocolate, Kawashima?」"
+
+msgid "Ami「No, I don't really want to, but......」"
+msgstr "Ami「No, la verdad no quiero, pero......」"
+
+msgid "Ryuuji「Then don't order one. It'd be giving＿more trouble to the person who has to＿make them.」"
+msgstr "Ryuuji「Entonces no pidas uno. Solo le＿darías más trabajo a la persona＿que tiene que prepararlos.」"
+
+msgid "Ami「Excuse me. Why exactly am I getting a＿lecture from you, Takasu-kun? Shut＿up already.」"
+msgstr "Ami「Disculpa. ¿Por qué exactamente＿me estás dando un sermón, Takasu-kun?＿Cállate ya.」"
+
+msgid "Kitamura「No, I agree with Takasu.」"
+msgstr "Kitamura「No, estoy de acuerdo con Takasu.」"
+
+msgid "Taiga「Tee hee. StuChi's upset.」"
+msgstr "Taiga「Jiji. Chihuatonta se enojó.」"
+
+msgid "Ryuuji「Taiga, pipe down.」"
+msgstr "Ryuuji「Taiga, baja la voz.」"
+
+msgid "Taiga「I don't need you to tell me. Unlike＿StuChi, I'm quiet and la- lay- ladylike!」"
+msgstr "Taiga「Ya lo sé. ¡Soy callada y to- to- toda＿una dama, a diferencia de Chihuatonta!」"
+
+msgid "Ryuuji「For God's sake, you always have to＿have the last word, don't you?」"
+msgstr "Ryuuji「Por Dios, siempre tienes que tener＿la última palabra, ¿verdad?」"
+
+msgid "Taiga「You shut your rotten mouth.」"
+msgstr "Taiga「Cierra tu boca podrida.」"
+
+msgid "Ryuuji「Uhh...... Were you really not listening at＿all?」"
+msgstr "Ryuuji「Ehh...... ¿De verdad no estabas＿escuchando nada?」"
+
+msgid "Ryuuji「（And after being so indecisive, THAT's＿what he orders?）」"
+msgstr "Ryuuji「（Y después de estar tan indeciso,＿¿ESO es lo que pide?）」"
+
+msgid "Noto「What are you gonna order, Takasu?」"
+msgstr "Noto「¿Qué vas a pedir, Takasu?」"
+
+msgid "Ryuuji「Oh, that's right...... Oh, er, I'm fine with＿just an all-you-can-drink soda.」"
+msgstr "Ryuuji「Ah, es cierto...... Eh, estoy bien＿solo con refrescos ilimitados.」"
+
+msgid "Haruta「Are ya kiddin' me, Taka-chan? Ya took＿the longest to decide, and THAT's all＿you're getting～?」"
+msgstr "Haruta「¿Es en serio, Taka-chan? Tardaste＿más que nadie en decidir, ¡¿y ESO＿es todo lo que vas a pedir～?!」"
+
+msgid "Ryuuji「（I, I, I don't want to hear that from YOU!!）」"
+msgstr "Ryuuji「（¡¡Y-Y-Yo no quiero oír eso de TI!!）」"
+
+msgid "Taiga「Mmmm, this yogurt parfait is so good～」"
+msgstr "Taiga「Mmmm, ¡qué rico este parfait de yogur～!」"
+
+msgid "Ami「Hmph! Ami-chan's iced tea is super＿good too!」"
+msgstr "Ami「¡Jum! ¡El té helado de Ami-chan＿también está súper bueno!」"
+
+msgid "Taiga「What?!」"
+msgstr "Taiga「¡¿Qué?!」"
+
+msgid "Ami「What?!」"
+msgstr "Ami「¡¿Qué?!」"
+
+msgid "Ryuuji「Like I said, don't try to out-petty each＿other, you two.」"
+msgstr "Ryuuji「Como dije, no compitan por＿tonterías, ustedes dos.」"
+
+msgid "Noto「I've been thinking～ This is happiness,＿isn't it?」"
+msgstr "Noto「Estuve pensando～ Esto es＿la felicidad, ¿no?」"
+
+msgid "Kitamura「What's this all of a sudden?」"
+msgstr "Kitamura「¿A qué viene eso tan de repente?」"
+
+msgid "Ryuuji「Really?」"
+msgstr "Ryuuji「¿De verdad?」"
+
+msgid "Noto「But then we came to this diner with＿Ami-chan and Tiger. That's two girls,＿see?」"
+msgstr "Noto「Pero luego vinimos a este restaurante＿con Ami-chan y Tigre. Son dos＿chicas, ¿ves?」"
+
+msgid "Noto「Isn't this what being young is about? I＿don't want to waste my life, after all.」"
+msgstr "Noto「¿No es esto la juventud? No quiero＿malgastar mi vida, después de todo.」"
+
+msgid "Kitamura「Noto, I don't really get what you mean.」"
+msgstr "Kitamura「Noto, no entiendo qué quieres decir.」"
+
+msgid "Haruta「Compared to that, aren't we, ya know,＿SUPER lucky～? Don'tcha agree,＿Taka-chan～?」"
+msgstr "Haruta「Comparado con eso, ¿no tenemos,＿ya sabes, SÚPER buena suerte～?＿¿No crees, Taka-chan～?」"
+
+msgid "Ryuuji「Y-Yeah......」"
+msgstr "Ryuuji「S-Sí......」"
+
+msgid "Ryuuji「（I can understand the joy of being with＿girls, but when the girls are Taiga and＿Kawashima, you'll just get worn out......）」"
+msgstr "Ryuuji「（Entiendo la alegría de estar con＿chicas, pero si son Taiga y Kawashima,＿solo terminas agotado......）」"
+
+msgid "Ami「I'm happy too, just being here with you＿guys①」"
+msgstr "Ami「Yo también estoy feliz, solo＿por estar aquí con ustedes①」"
+
+msgid "Taiga「Pssh! You don't mean that in the＿slightest.」"
+msgstr "Taiga「¡Pff! No lo dices en serio＿ni por un segundo.」"
+
+msgid "Ami「I'd be even happier if you weren't here!」"
+msgstr "Ami「¡Sería aún más feliz sin ti aquí!」"
+
+msgid "Taiga「That's what I should be saying!」"
+msgstr "Taiga「¡Eso debería decirlo yo!」"
+
+msgid "Kitamura「Hey, hey, are you two fighting again?」"
+msgstr "Kitamura「Oigan, oigan, ¿están peleando otra vez?」"
+
+msgid "Haruta「*Sigh*～ I'm so happy～」"
+msgstr "Haruta「*Suspiro*～ Soy tan feliz～」"
+
+msgid "Noto「This is youth～」"
+msgstr "Noto「Esto es la juventud～」"
+
+msgid "Ryuuji「（You guys...... Can you really be happy＿with those two around?）」"
+msgstr "Ryuuji「（Chicos...... ¿De verdad pueden ser＿felices con esas dos cerca?）」"
+
+msgid "Ryuuji「（I want to hurry and flee from this＿place. I'm serious......）」"
+msgstr "Ryuuji「（Quiero huir de este lugar cuanto＿antes. Lo digo en serio......）」"
+
+msgid "Taiga「So I told the clerk I wanted to borrow＿whatever that person just returned.」"
+msgstr "Taiga「Le pedí al empleado alquilar lo que＿esa persona acababa de devolver.」"
+
+msgid "Taiga「Who knew that I'd end up with some＿kind of tear-jerker drama.」"
+msgstr "Taiga「Quién diría que terminaría con una＿especie de drama lacrimógeno.」"
+
+msgid "Taiga「Oh, you were laughing so hard you＿couldn't stop crying? I can see it now:＿you, on the couch, going \"hyuk hyuk!\"」"
+msgstr "Taiga「¿Ah, te reías tanto que no podías＿parar de llorar? Ya te imagino en＿el sofá, haciendo \"¡juk, juk!\"」"
+
+msgid "Taiga「With your mouth wide open, I'll bet! Oh,＿the horror! A true American tragedy!」"
+msgstr "Taiga「¡Y con la boca abierta, seguro! ¡Qué＿horror! ¡Toda una tragedia americana!」"
+
+msgid "Haruta「Alriiiight. I've decided on an＿all-you-can-drink soda! Wait, what?＿Aren't things a little tense?」"
+msgstr "Haruta「¡Muy bieeen! ¡Me decidí por refrescos＿ilimitados! Espera, ¿qué? ¿No está＿tenso el ambiente?」"
+
+msgid "Haruta「Did something happen while I was＿looking at the menu?」"
+msgstr "Haruta「¿Pasó algo mientras estaba＿viendo el menú?」"
+
+msgid "Noto「Today, when us guys celebrated＿Hatsumode, I started thinking......」"
+msgstr "Noto「Hoy, cuando los chicos celebramos el＿Hatsumode, me puse a pensar......」"
+
+msgid "Noto「\"Maybe that's how the rest of our high＿school days will go.\" Kinda bummed me＿out.」"
+msgstr "Noto「\"Tal vez así será el resto de＿nuestros días de preparatoria\".＿Me deprimió un poco.」"
+
+msgid "Haruta「Whaaa? I totally get it, dude～ The way＿the world is, if ya bring a girl to a diner,＿it goes without sayin'～」"
+msgstr "Haruta「¿Quéee? Te entiendo totalmente, amigo～＿Así es el mundo, si traes a una chica＿a un restaurante, ni qué decir～」"
+
+msgid "Haruta「It's a sign you're livin' the dream high＿school life, ya know～?」"
+msgstr "Haruta「Es señal de que estás viviendo la vida＿de preparatoria soñada, ¿sabes～?」"

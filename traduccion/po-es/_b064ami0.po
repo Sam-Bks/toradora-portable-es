@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「Yo, Kawashima!」"
+msgstr "Ryuuji「¡Hola, Kawashima!」"
+
+msgid "Ami「Oh, it's Takasu-kun.」"
+msgstr "Ami「Ah, es Takasu-kun.」"
+
+msgid "Ryuuji「Gee, you sound so HAPPY to see me.」"
+msgstr "Ryuuji「Vaya, qué ALEGRÍA te da verme.」"
+
+msgid "Ami「Aww～ Don't be maddd! C'mon, you＿can't expect Ami-chan to be overjoyed＿just from running into you.」"
+msgstr "Ami「Ay～ ¡No te enojeees! Vamos, no puedes＿esperar que Ami-chan salte de alegría＿solo por cruzarse contigo.」"
+
+msgid "Ami「On the contrary, isn't it amazing that I＿acknowledged your presence?」"
+msgstr "Ami「Al contrario, ¿no te parece increíble＿que haya notado tu presencia?」"
+
+msgid "Ryuuji「Wow, I think I might pass out. Okay, see＿you later.」"
+msgstr "Ryuuji「Vaya, creo que me voy a desmayar.＿Bueno, nos vemos luego.」"
+
+msgid "Ami「Huh?」"
+msgstr "Ami「¿Eh?」"
+
+msgid "Ryuuji「Not like you wanna come with me,＿right? So I'm gonna head over.」"
+msgstr "Ryuuji「Tampoco es que quieras venir conmigo,＿¿verdad? Así que me voy adelantando.」"
+
+msgid "Ami「Hold on!! I can't believe you would just＿abandon Ami-chan!」"
+msgstr "Ami「¡¡Espera!! ¡No puedo creer que dejes＿abandonada a Ami-chan así!」"
+
+msgid "Ryuuji「Okay, wanna come with?」"
+msgstr "Ryuuji「Bueno, ¿quieres venir conmigo?」"
+
+msgid "Ami「Ugh...」"
+msgstr "Ami「Ugh...」"
+
+msgid "Ryuuji「Come on, let's go.」"
+msgstr "Ryuuji「Vamos, andando.」"
+
+msgid "Ami「......Good grief, you're really hard to deal＿with.」"
+msgstr "Ami「......Cielos, eres muy＿difícil de tratar.」"
+
+msgid "Ami「Brrr! Argh, why is it so cold!?」"
+msgstr "Ami「¡Brrr! Agh, ¡¿por qué hace tanto frío?!」"
+
+msgid "Ryuuji「Don't you have a hand warmer or＿anything? Girls always keep 'em in＿their pockets or purses or whatever.」"
+msgstr "Ryuuji「¿No tienes un calentador de manos o＿algo? Las chicas siempre llevan en sus＿bolsillos, bolsos o lo que sea.」"
+
+msgid "Ami「I forgot to bring one. Ugh, of all the＿rotten luck.」"
+msgstr "Ami「Se me olvidó traer uno. Agh,＿qué mala suerte tengo.」"
+
+msgid "Ryuuji「I've got some hot oolong tea. Want＿some?」"
+msgstr "Ryuuji「Tengo té oolong caliente.＿¿Quieres un poco?」"
+
+msgid "Ami「You brought more of that? Didn't you＿bring it to Luxure too?」"
+msgstr "Ami「¿Volviste a traer eso? ¿No lo habías＿llevado también a Luxure?」"
+
+msgid "Ryuuji「It would cost WAY more to just buy＿one every time I feel like having some.」"
+msgstr "Ryuuji「Saldría MUCHO más caro comprar uno cada＿vez que me den ganas de tomar.」"
+
+msgid "Ami「Okay, whatever. But I don't want any＿right now. I can't drink it while walking＿anyways.」"
+msgstr "Ami「Bueno, como sea. Pero ahora no＿quiero. De todas formas no puedo＿tomarlo mientras camino.」"
+
+msgid "Ryuuji「I guess so...... You know, I never would＿have expected you to take part in a＿test of courage.」"
+msgstr "Ryuuji「Supongo que sí...... Sabes, nunca＿habría esperado que participaras＿en una prueba de valor.」"
+
+msgid "Ami「Oh really?」"
+msgstr "Ami「¿Ah, en serio?」"
+
+msgid "Ryuuji「Yeah. I thought you'd roll your eyes＿and decline.」"
+msgstr "Ryuuji「Sí. Pensé que pondrías los ojos＿en blanco y dirías que no.」"
+
+msgid "Ami「And maybe I would have. But......」"
+msgstr "Ami「Y tal vez lo habría hecho. Pero......」"
+
+msgid "Ami「Just wanted to do something different＿for once, that's all.」"
+msgstr "Ami「Solo quería hacer algo diferente＿por una vez, eso es todo.」"
+
+msgid "Ami「Also, I figured it would be a good way＿to get rid of this.」"
+msgstr "Ami「Además, pensé que sería una buena＿forma de deshacerme de esto.」"
+
+msgid "Ryuuji「Get rid of what?」"
+msgstr "Ryuuji「¿Deshacerte de qué?」"
+
+msgid "Ami「This. Here you go.」"
+msgstr "Ami「De esto. Toma.」"
+
+msgid "Ryuuji「What is it? A DVD?」"
+msgstr "Ryuuji「¿Qué es? ¿Un DVD?」"
+
+msgid "Ami「Yep. It's a bonus item from one of my＿magazines. The \"Ami-chan Only\" DVD.」"
+msgstr "Ami「Sí. Es un extra de una de mis revistas.＿El DVD \"Solo Ami-chan\".」"
+
+msgid "Ryuuji「It's of you? What's it about?」"
+msgstr "Ryuuji「¿Es sobre ti? ¿De qué trata?」"
+
+msgid "Ami「Ufu! It's about, like, what it feels like to＿take Ami-chan on a date①」"
+msgstr "Ami「¡Juju! Trata sobre, o sea, cómo se＿siente llevar a Ami-chan de cita①」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Ami「The amusement park, the beach, the＿countryside. Yup, there's tons of cute＿Ami-chan footage.」"
+msgstr "Ami「El parque de diversiones, la playa,＿el campo. Sí, hay montones de escenas＿lindas de Ami-chan.」"
+
+msgid "Ami「So I thought I'd give this masterpiece＿J-U-S-T to you～ Takasu-kun～」"
+msgstr "Ami「Así que pensé en darte esta obra maestra＿S-O-L-O a ti～ Takasu-kun～」"
+
+msgid "Ryuuji「........................」"
+msgstr "Ryuuji「........................」"
+
+msgid "Ami「What's with that skeptical look?」"
+msgstr "Ami「¿Y esa mirada de desconfianza?」"
+
+msgid "Ryuuji「Uh...... Why are you giving this to me?」"
+msgstr "Ryuuji「Eh...... ¿Por qué me das esto?」"
+
+msgid "Ami「As a trade for that other DVD.」"
+msgstr "Ami「A cambio de ese otro DVD.」"
+
+msgid "Ryuuji「The other......? Ohhh, the im......」"
+msgstr "Ryuuji「¿El otro......? Ahhh, el de im......」"
+
+msgid "Ami「Aaaaahh! Okay! You don't need to say＿it!! Let's forget all about it!!」"
+msgstr "Ami「¡Aaaaahh! ¡Ya basta! ¡¡No hace falta que＿lo digas!! ¡¡Olvidemos todo eso!!」"
+
+msgid "Ryuuji「......Forget it?」"
+msgstr "Ryuuji「......¿Olvidarlo?」"
+
+msgid "Ami「Isn't that obvious!? That DVD is＿seriously unbelievable!!＿A-Ami-chan's...... It's just impossible!!」"
+msgstr "Ami「¡¿No es obvio?! ¡¡Ese DVD es en serio＿increíble!! A-Ami-chan...... ¡¡Es＿simplemente imposible!!」"
+
+msgid "Ryuuji「Oh, okay......」"
+msgstr "Ryuuji「Ah, está bien......」"
+
+msgid "Ryuuji「Okay......」"
+msgstr "Ryuuji「Está bien......」"
+
+msgid "Ryuuji「（Thing is, I never even watched that＿DVD...... Hmm, maybe I should have?）」"
+msgstr "Ryuuji「（La cosa es que ni siquiera vi ese＿DVD...... Mmm, ¿debí haberlo visto?）」"
+
+msgid "Ryuuji「......Kawashima?」"
+msgstr "Ryuuji「......¿Kawashima?」"
+
+msgid "Ami「What?」"
+msgstr "Ami「¿Qué?」"
+
+msgid "Ryuuji「Uh...... Is something the matter?」"
+msgstr "Ryuuji「Eh...... ¿Pasa algo?」"
+
+msgid "Ami「......Not really.」"
+msgstr "Ami「......En realidad no.」"
+
+msgid "Ami「Good grief. If we're having a test of＿courage out in the cold, we had better＿see a ghost or two.」"
+msgstr "Ami「Cielos. Si vamos a hacer una prueba＿de valor con este frío, más vale que＿veamos algún que otro fantasma.」"
+
+msgid "Ryuuji「Don't be ridiculous. You sound like＿Taiga.」"
+msgstr "Ryuuji「No digas tonterías. Suenas como Taiga.」"
+
+msgid "Ami「Ugh～ Don't compare me to THAT.」"
+msgstr "Ami「Agh～ No me compares con ESO.」"
+
+msgid "Ami「*Sigh*」"
+msgstr "Ami「*Suspiro*」"
+
+msgid "Ami「So yeah, if you could base your opinion＿of Ami-chan on THIS one, that'd be a＿load off my shoulders. I'll let you have」"
+msgstr "Ami「Así que bueno, si pudieras basar tu＿opinión de Ami-chan en ESTE, me＿quitarías un peso de encima. Te lo」"
+
+msgid "Ami「it for free, so overwrite your memory＿with it.」"
+msgstr "Ami「dejo gratis, así que sobrescribe＿tu memoria con él.」"
+
+msgid "Ryuuji「For now, let's just hurry to the＿rendezvous point. Once we're there,＿we can warm ourselves up with some」"
+msgstr "Ryuuji「Por ahora, apurémonos para llegar al＿punto de encuentro. Allí podremos＿calentarnos con un poco de」"
+
+msgid "Ryuuji「hot oolong tea.」"
+msgstr "Ryuuji「té oolong caliente.」"

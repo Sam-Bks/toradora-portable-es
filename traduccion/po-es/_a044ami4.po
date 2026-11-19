@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+
+msgid "Ami「......I'm going home.」"
+msgstr "Ami「......Me voy a casa.」"
+
+msgid "Ryuuji「What? So soon?」"
+msgstr "Ryuuji「¿Qué? ¿Tan pronto?」"
+
+msgid "Ami「Were you always such a boring man,＿Takasu-kun?」"
+msgstr "Ami「¿Siempre fuiste un hombre tan＿aburrido, Takasu-kun?」"
+
+msgid "Ryuuji「Ngh......」"
+msgstr "Ryuuji「Ngh......」"
+
+msgid "Ami「Make sure you come to a decision by＿tomorrow! ......Not that I'm expecting＿much.」"
+msgstr "Ami「¡Asegúrate de tomar una decisión＿para mañana! ......Aunque tampoco＿espero mucho.」"
+
+msgid "Ryuuji「（For the time being, I'll think it over＿carefully on the way home......）」"
+msgstr "Ryuuji「（Por lo pronto, lo pensaré con cuidado＿de camino a casa......）」"
+
+msgid "Ami「If I keep talking to you, I'll lose＿motivation and it'll be detrimental to＿the plan. I'm going home before that」"
+msgstr "Ami「Si sigo hablando contigo, perderé＿la motivación y eso perjudicará el＿plan. Me voy a casa antes de que eso」"
+
+msgid "Ami「happens.」"
+msgstr "Ami「pase.」"
+
+msgid "Ryuuji「Saying whatever she goddamn likes......＿If she goes and decides to expect＿greatness or disappointment, either」"
+msgstr "Ryuuji「Dice lo que le da la maldita＿gana...... Si decide esperar＿maravillas o decepciones, de cualquier」"
+
+msgid "Ryuuji「way I'm screwed.」"
+msgstr "Ryuuji「modo estoy perdido.」"

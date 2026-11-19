@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+
+msgid "Taiga「Well? Since we've come back here,＿that means you thought of something,＿right?」"
+msgstr "Taiga「¿Y bien? Si volvimos aquí, eso significa＿que se te ocurrió algo, ¿verdad?」"
+
+msgid "Ami「Is there really something we can make＿use of～?」"
+msgstr "Ami「¿De verdad hay algo que＿podamos aprovechar～?」"
+
+msgid "Ryuuji「Yeah, I do have a plan.」"
+msgstr "Ryuuji「Sí, sí tengo un plan.」"
+
+msgid "Ryuuji「Oh, right.」"
+msgstr "Ryuuji「Ah, cierto.」"
+
+msgid "Ami「Isn't that an overexaggerated pose?」"
+msgstr "Ami「¿No es esa una pose demasiado exagerada?」"
+
+msgid "Taiga「Be quiet, StuChi! So, what's your plan?」"
+msgstr "Taiga「¡Cállate, StuChi! Entonces,＿¿cuál es tu plan?」"
+
+msgid "Ryuuji「Oh, you see......」"
+msgstr "Ryuuji「Ah, verás......」"
+
+msgid "Taiga「......This better not be more of your＿bullshit this time, got me......?」"
+msgstr "Taiga「......Más te vale que esta vez no salgas＿con tonterías, ¿me oyes......?」"
+
+msgid "Ryuuji「Oh, right......」"
+msgstr "Ryuuji「Ah, cierto......」"
+
+msgid "Look, I have tickets to a popular date spot"
+msgstr "Tengo entradas para un lugar de citas de moda"
+
+msgid "I'll clean for a bit"
+msgstr "Limpiaré un poco"
+
+msgid "Ryuuji「I know! I'll clean for a bit!」"
+msgstr "Ryuuji「¡Ya sé! ¡Limpiaré un poco!」"
+
+msgid "Ryuuji「Kitamura's luck in love will naturally＿increase if I do......!」"
+msgstr "Ryuuji「¡Si lo hago, la suerte de Kitamura＿en el amor aumentará de forma＿natural......!」"
+
+msgid "Taiga「......」"
+msgstr "Taiga「......」"
+
+msgid "Ami「......」"
+msgstr "Ami「......」"
+
+msgid "Ryuuji「......I, I'm obviously kidding...... Haha......」"
+msgstr "Ryuuji「......O-Obviamente estoy bromeando......＿Jaja......」"
+
+msgid "Both「NOT FUNNY!」"
+msgstr "Ambas「¡NO TIENE GRACIA!」"
+
+msgid "Ryuuji「S-Sorry. I can't really think of anything,＿so I just......」"
+msgstr "Ryuuji「P-Perdón. No se me ocurre＿nada, así que solo......」"
+
+msgid "Taiga「We're gonna look around one more＿time! There's gotta be something we＿can use around here!」"
+msgstr "Taiga「¡Vamos a buscar una vez más!＿¡Tiene que haber algo que podamos＿usar por aquí!」"
+
+msgid "Taiga「You're a dog, so dig something up on＿all fours if you have to! Got it!?」"
+msgstr "Taiga「¡Eres un perro, así que escarba en＿cuatro patas si hace falta! ¿Entendido?!」"
+
+msgid "Ryuuji「G-Got it......」"
+msgstr "Ryuuji「E-Entendido......」"
+
+msgid "Ryuuji「I know! I'll clea......」"
+msgstr "Ryuuji「¡Ya sé! Limpia......」"
+
+msgid "Taiga「If you say \"clean\" I'll break every last＿one of your Takasu Rods and throw＿them in a fire.」"
+msgstr "Taiga「Si dices \"limpiar\", partiré hasta＿el último de tus Bastones Takasu＿y los echaré al fuego.」"
+
+msgid "Ryuuji「Ugh, MOTTAINAI! S-Spare them......!」"
+msgstr "Ryuuji「Uf, ¡QUÉ DESPERDICIO!＿¡P-Perdónalos......!」"
+
+msgid "Taiga「If you're a real dog, quit making me＿repeat myself over and over, you＿bonehead!」"
+msgstr "Taiga「Si de verdad eres un perro, deja＿de hacerme repetir lo mismo una＿y otra vez, ¡cabeza hueca!」"
+
+msgid "Ryuuji「Ngh......」"
+msgstr "Ryuuji「Ngh......」"
+
+msgid "Taiga「Anyway, we won't make any progress＿unless we find something. That said,＿get searching already!」"
+msgstr "Taiga「Como sea, no avanzaremos nada a menos＿que encontremos algo. ¡Así que ponte＿a buscar de una vez!」"
+
+msgid "Ryuuji「G-Got it......」"
+msgstr "Ryuuji「E-Entendido......」"
+
+msgid "Ami「*Yawn*～ ......Ami-chan's so boreddd......」"
+msgstr "Ami「*Bostezo*～ ......Ami-chan está＿tan aburridaaa......」"
+
+msgid "Taiga「I see...... Ryuuji, I'm gonna say this one＿more time. This isn't a game. This is a＿huge burden in Kitamura-kun's heart.」"
+msgstr "Taiga「Ya veo...... Ryuuji, te lo diré una vez＿más. Esto no es un juego. Es un gran＿peso en el corazón de Kitamura-kun.」"
+
+msgid "Taiga「And we're sticking our noses into it. Do＿you understand?」"
+msgstr "Taiga「Y estamos metiendo las narices＿en esto. ¿Lo entiendes?」"
+
+msgid "Ryuuji「The feng shui in any room can be＿improved dramatically just by tidying＿up! So I'll polish every nook and cranny」"
+msgstr "Ryuuji「¡El feng shui de cualquier cuarto mejora＿drásticamente con solo ordenar! ¡Así＿que puliré cada rincón」"
+
+msgid "Ryuuji「of Kitamura's room with my Takasu＿Rod!」"
+msgstr "Ryuuji「del cuarto de Kitamura＿con mi Bastón Takasu!」"
+
+msgid "Ryuuji「Oh, okay...... Something's wrong with me＿today...... Someone must be possessing＿me and forcing me to pick the wrong」"
+msgstr "Ryuuji「Ah, está bien...... Algo me pasa＿hoy...... Alguien debe estar poseyéndome＿y obligándome a elegir las opciones」"
+
+msgid "Ryuuji「choices......」"
+msgstr "Ryuuji「equivocadas......」"
+
+msgid "Taiga「If that was the case, that \"someone\" is＿the biggest bonehead of all. I'll say it as＿many times as you need me to, you」"
+msgstr "Taiga「Si así fuera, ese \"alguien\" es el mayor＿cabeza hueca de todos. Te lo diré las＿veces que haga falta, ¡eres un」"
+
+msgid "Taiga「bonehead, bonehead, BONEHEAD!」"
+msgstr "Taiga「cabeza hueca, cabeza hueca,＿CABEZA HUECA!」"

@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「Alright, the veggie stir-fry is done.」"
+msgstr "Ryuuji「Listo, ya está el salteado de verduras.」"
+
+msgid "Ryuuji「（Veggie stir-fry, onigiri, omelettes and＿pickles. Okay, this should do it for＿Yasuko's lunch.）」"
+msgstr "Ryuuji「（Salteado de verduras, onigiri,＿omelettes y encurtidos. Bien, basta＿para el almuerzo de Yasuko.）」"
+
+msgid "Yasuko「*Yaaawn*～ Ryuu-chaaan～＿Morninggg～」"
+msgstr "Yasuko「*Bostezooo*～ Ryuu-chaaan～ Buenos díasss～」"
+
+msgid "Ryuuji「Morning. I've made your lunch in＿advance.」"
+msgstr "Ryuuji「Buenos días. Preparé tu almuerzo＿por adelantado.」"
+
+msgid "Yasuko「Yaaay...... Huh?」"
+msgstr "Yasuko「Biennn...... ¿Eh?」"
+
+msgid "Ryuuji「What is it?」"
+msgstr "Ryuuji「¿Qué pasa?」"
+
+msgid "Yasuko「There's two portions hereee on the＿table thoughhh. Are we eating＿togetherrr?」"
+msgstr "Yasuko「Pero aquí en la mesaaa hay dos＿porcionesss. ¿Vamos a comer juntosss?」"
+
+msgid "Ryuuji「Yours is the onigiri in plastic wrap. The＿other portion is Taiga's breakfast.」"
+msgstr "Ryuuji「El tuyo es el onigiri envuelto en＿plástico. La otra porción es de Taiga.」"
+
+msgid "Yasuko「Hm? But you're going to Luckster＿today, righttt? Aren't you gonna be＿laaate??」"
+msgstr "Yasuko「¿Mm? Pero hoy vas a Luckster, ¿verdaaad?＿¿No vas a llegar tardeee?」"
+
+msgid "Ryuuji「It's \"Luxure.\" If she's not here in the＿next 10 minutes, I'll go check on her.＿She might have overslept.」"
+msgstr "Ryuuji「Es \"Luxure\". Si no llega en＿10 minutos, iré a buscarla.＿Tal vez se quedó dormida.」"
+
+msgid "Yasuko「Okayyy. Luxure sure sounds nice. Bet＿the hot springs will feel great. Yacchan＿wishes she could gooo.」"
+msgstr "Yasuko「Está biennn. Qué bien suena Luxure.＿Las aguas termales deben ser geniales.＿Yacchan quisiera irrr.」"
+
+msgid "Ryuuji「......Apparently, up to 10 people can go.＿Want me to ask if you can come?」"
+msgstr "Ryuuji「......Al parecer, pueden ir hasta 10＿personas. ¿Quieres que pregunte si vas?」"
+
+msgid "Yasuko「That's okay, Ryuu-channn. Go and＿have funnn. Yacchan's happiest when＿Ryuu-chan is having funnn①」"
+msgstr "Yasuko「No hace falta, Ryuu-channn. Ve＿y diviérteteee. Yacchan es más＿feliz cuando te diviertes①」"
+
+msgid "Yasuko「Besides, gotta work tonight......＿*Yawwwn* Yacchan's ultra-tired,＿gansu...... Back to bed, giza......」"
+msgstr "Yasuko「Además, hoy trabajo de noche......＿*Bostezooo* Yacchan está agotada......＿A la cama, giza......」"
+
+msgid "Ryuuji「Sleep tight.」"
+msgstr "Ryuuji「Que descanses.」"
+
+msgid "Ryuuji「（Although I've gotten used to living with＿her...... What exactly is Yasuko to me?）」"
+msgstr "Ryuuji「（Aunque ya me acostumbré a vivir con＿ella...... ¿Qué es Yasuko para mí?）」"
+
+msgid "Ryuuji「（No, Taiga's the priority right now.）」"
+msgstr "Ryuuji「（No, ahora mismo Taiga es la prioridad.）」"
+
+msgid "Ryuuji「（She never did come over last night......＿Guess I'll go check on her.）」"
+msgstr "Ryuuji「（Al final no vino anoche...... Supongo＿que iré a ver cómo está.）」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Minori「Yoohoo, Takasu-kun! Perfect timing!＿We were just about to come get you～＿Right, Taiga?」"
+msgstr "Minori「¡Yujuu, Takasu-kun! ¡Justo a tiempo! Ya＿íbamos a buscarte～ ¿Verdad, Taiga?」"
+
+msgid "Taiga「Yeah.」"
+msgstr "Taiga「Sí.」"
+
+msgid "Ryuuji「Kushieda? Why are you here?」"
+msgstr "Ryuuji「¿Kushieda? ¿Por qué estás aquí?」"
+
+msgid "Minori「Fufufu. Curious, daddy-o?」"
+msgstr "Minori「Jujuju. ¿Tienes curiosidad, papá?」"
+
+msgid "Ryuuji「I ain't your daddy-o.」"
+msgstr "Ryuuji「No soy tu papá.」"
+
+msgid "Minori「'Tis the name of my eternal rival, bud!」"
+msgstr "Minori「¡Es el nombre de mi eterno rival, amigo!」"
+
+msgid "Ryuuji「（No way in hell that's someone's name.）」"
+msgstr "Ryuuji「（Ni en broma alguien se llama así.）」"
+
+msgid "Minori「Now then, daddy-o, it's the big reveal!＿It's showtime!!」"
+msgstr "Minori「¡Ahora sí, papá, la gran revelación!＿¡Es hora del espectáculo!!」"
+
+msgid "Minori「Drumrollllllllll...... Ta-da!!」"
+msgstr "Minori「Redoble de tambooor...... ¡Ta-dá!!」"
+
+msgid "Minori「Truth is, me and Taiga had breakfast＿together this morning!!」"
+msgstr "Minori「¡La verdad es que Taiga y yo desayunamos＿juntas esta mañana!!」"
+
+msgid "Ryuuji「Huh? Breakfast? With Taiga?」"
+msgstr "Ryuuji「¿Eh? ¿Desayunaste? ¿Con Taiga?」"
+
+msgid "Taiga「Yup. I had Breakfast Combo B at＿Minorin's recommendation. It was＿SOOOO good.」"
+msgstr "Taiga「Sip. Pedí el Combo de Desayuno＿B por recomendación de Minorin.＿Estaba RIQUÍÍÍSIMO.」"
+
+msgid "Minori「Nonsense. Breakfast at the diner can't＿hold a candle to Takasu-kun's fried＿rice.」"
+msgstr "Minori「Qué va. El desayuno de la cafetería＿no se compara con el arroz＿de Takasu-kun.」"
+
+msgid "Taiga「That's not true, Minorin. It was SUPER＿tasty. I can't wait to go back! Let's do it＿again sometime!」"
+msgstr "Taiga「Eso no es cierto, Minorin. Estaba＿SÚPER rico. ¡Muero por volver!＿¡Hagámoslo otra vez!」"
+
+msgid "Minori「Sure. I'd love to. Maybe I won't be so＿broke next time!」"
+msgstr "Minori「Claro. Me encantaría. ¡Tal vez no esté＿tan justa de dinero la próxima vez!」"
+
+msgid "Ryuuji「H-Hey, Taiga, can I talk to you?」"
+msgstr "Ryuuji「O-Oye, Taiga, ¿puedo hablar contigo?」"
+
+msgid "Taiga「What is it?」"
+msgstr "Taiga「¿Qué pasa?」"
+
+msgid "Ryuuji「Hold on......」"
+msgstr "Ryuuji「Espera......」"
+
+msgid "Minori「Whoops. Guess I'll go pick some＿flowers. Taiga, can I use your＿bathroom?」"
+msgstr "Minori「Uy. Creo que iré a recoger unas flores.＿Taiga, ¿puedo usar tu baño?」"
+
+msgid "Taiga「Sure. Here's my house key. You know＿how to get in, right?」"
+msgstr "Taiga「Claro. Toma la llave de mi casa.＿Sabes cómo entrar, ¿verdad?」"
+
+msgid "Minori「I'll be fine, bud.」"
+msgstr "Minori「Sin problema, amigo.」"
+
+msgid "Taiga「Ugh, you had all those calories first＿thing in the morning? You're gonna＿screw up your metabolism.」"
+msgstr "Taiga「Ugh, ¿comiste todas esas calorías＿a primera hora? Vas a arruinar＿tu metabolismo.」"
+
+msgid "Ryuuji「I'll worry about my metabolism later.＿That aside, answer my question. What's＿going on?」"
+msgstr "Ryuuji「Ya me preocuparé por mi metabolismo＿después. Responde mi pregunta.＿¿Qué está pasando?」"
+
+msgid "Taiga「Nothing's \"going on.\" I'm just doing＿what I want, that's all.」"
+msgstr "Taiga「No está \"pasando\" nada. Solo hago＿lo que quiero, eso es todo.」"
+
+msgid "Ryuuji「Doing what you want?」"
+msgstr "Ryuuji「¿Haciendo lo que quieres?」"
+
+msgid "Taiga「That's right.」"
+msgstr "Taiga「Así es.」"
+
+msgid "Taiga「As for this morning, I've been wanting＿to eat with Minorin for a while now, so＿it just happened.」"
+msgstr "Taiga「En cuanto a esta mañana, hace＿tiempo que quería comer con＿Minorin, así que pasó.」"
+
+msgid "Taiga「Well? Got a problem with it?」"
+msgstr "Taiga「¿Y? ¿Tienes algún problema con eso?」"
+
+msgid "Ryuuji「Uh, not really a \"problem\"...... It's just,＿without you around, Yasuko's been＿getting lonely.」"
+msgstr "Ryuuji「Eh, no es realmente un \"problema\"......＿Es que, sin ti por ahí, Yasuko se＿ha estado sintiendo sola.」"
+
+msgid "Taiga「............」"
+msgstr "Taiga「............」"
+
+msgid "Ryuuji「Will you come over tonight?」"
+msgstr "Ryuuji「¿Vendrás esta noche?」"
+
+msgid "Taiga「............」"
+msgstr "Taiga「............」"
+
+msgid "Ryuuji「Taiga?」"
+msgstr "Ryuuji「¿Taiga?」"
+
+msgid "Minori「Sorry for the waiiit! Taiga, here's your＿key back. Oh, and I brought the bag＿with your swimsuit in it. Are we all set?」"
+msgstr "Minori「¡Perdón por la esperaaa! Taiga,＿toma tu llave. Traje el bolso con＿tu traje de baño. ¿Listos?」"
+
+msgid "Taiga「Yeah! Thanks!」"
+msgstr "Taiga「¡Sí! ¡Gracias!」"
+
+msgid "Minori「Why don't you go grab your stuff,＿Takasu-kun? We gotta get going soon＿or we'll be late.」"
+msgstr "Minori「¿Por qué no vas a buscar tus cosas,＿Takasu-kun? Tenemos que irnos pronto＿o llegaremos tarde.」"
+
+msgid "Minori「We're meeting at the station square,＿right?」"
+msgstr "Minori「Nos vemos en la plaza de＿la estación, ¿verdad?」"
+
+msgid "Ryuuji「Yeah. Okay, I'll go grab my stuff.」"
+msgstr "Ryuuji「Sí. Bien, iré a buscar mis cosas.」"
+
+msgid "Minori「Okaaay! We'll be waitinggg!」"
+msgstr "Minori「¡Biennn! ¡Te estaremos esperandooo!」"
+
+msgid "Ryuuji「（My bag, my bag...... Oh! That's right, I＿should put Taiga's food in the fridge＿for now......）」"
+msgstr "Ryuuji「（Mi mochila, mi mochila...... ¡Ah!＿Cierto, debo meter la comida de Taiga＿al refrigerador......）」"
+
+msgid "Ryuuji「Oh, crap, we're going to be late!」"
+msgstr "Ryuuji「¡Oh, rayos, vamos a llegar tarde!」"
+
+msgid "Ryuuji「Sorry for the wait!」"
+msgstr "Ryuuji「¡Perdón por la espera!」"
+
+msgid "Minori「That's okaaay～ You didn't take too＿long.」"
+msgstr "Minori「No pasa nadaaa～ Tampoco tardaste tanto.」"
+
+msgid "Taiga「Let's go.」"
+msgstr "Taiga「Vámonos.」"
+
+msgid "Ryuuji「Hell yeah!」"
+msgstr "Ryuuji「¡Claro que sí!」"
+
+msgid "Yasuko「Huh? So Taiga-chan hasn't come over＿yettt? Nnnnn, not being able to see＿Taiga-chan's face makes Yacchan feel」"
+msgstr "Yasuko「¿Eh? ¿Taiga-chan aún no vinooo?＿Mmmnn, no ver a Taiga-chan hace＿que Yacchan se sienta」"
+
+msgid "Yasuko「so lonely, gansu!」"
+msgstr "Yasuko「¡tan sola, gansu!」"
+
+msgid "Ryuuji「What is up with you? You didn't show＿up for food last night OR this morning.＿I ended up having your dinner for」"
+msgstr "Ryuuji「¿Qué te pasa? No viniste a comer＿ni anoche ni esta mañana. Al final＿me comí tu cena para el」"
+
+msgid "Ryuuji「breakfast.」"
+msgstr "Ryuuji「desayuno.」"
+
+msgid "Taiga「Yesterday...... You see, while I was＿thinking about how to support you and＿Minorin, the time just flew by, and I」"
+msgstr "Taiga「Ayer...... Verás, mientras pensaba＿en apoyarlos a ti y a Minorin, el＿tiempo pasó volando y yo」"
+
+msgid "Taiga「was so tired I passed out.」"
+msgstr "Taiga「estaba tan cansada que caí rendida.」"
+
+msgid "Ryuuji「（I even challenged myself to cook it＿Kansai-style. MOTTAINAI...... Well, I＿could have it for dinner...... But it won't）」"
+msgstr "Ryuuji「（Hasta me reté a cocinarlo estilo＿Kansai. ¡QUÉ DESPERDICIO!...... Podría＿cenarlo hoy...... Pero no）」"
+
+msgid "Ryuuji「（taste as good......）」"
+msgstr "Ryuuji「（sabrá igual de bien......）」"

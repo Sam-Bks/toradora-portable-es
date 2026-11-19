@@ -1,0 +1,161 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「（Hm...... This is a video rental＿membership card.）」"
+msgstr "Ryuuji「（Hm...... Es una tarjeta de＿socio de un videoclub.）」"
+
+msgid "Ryuuji「E-Excuse me, did you drop this?」"
+msgstr "Ryuuji「D-Disculpe, ¿se le cayó esto?」"
+
+msgid "???「......」"
+msgstr "???「......」"
+
+msgid "Ryuuji「Didn't she hear me......? Excuse me!」"
+msgstr "Ryuuji「¿No me escuchó......? ¡Disculpe!」"
+
+msgid "???「......」"
+msgstr "???「......」"
+
+msgid "Ryuuji「（Gah, she keeps dropping stuff. Jeez......＿Her name is...... Koigakubo Yuri.）」"
+msgstr "Ryuuji「（Gah, se le caen cosas. Cielos......＿Se llama...... Koigakubo Yuri.）」"
+
+msgid "Ryuuji「......K-Koigakubo-san!」"
+msgstr "Ryuuji「......¡K-Koigakubo-san!」"
+
+msgid "Yuri「......*Gasp*! Huh? W-What? ......My, if it＿isn't Takasu-kun.」"
+msgstr "Yuri「......¡Ah! ¿Eh? ¿Q-Qué? ......Vaya,＿pero si es Takasu-kun.」"
+
+msgid "Ryuuji「（What the一 she knows me?）」"
+msgstr "Ryuuji「（¿Qué rayos一 me conoce?）」"
+
+msgid "Yuri「I was wondering who was calling my＿name.」"
+msgstr "Yuri「Me preguntaba quién me estaba llamando.」"
+
+msgid "Ryuuji「Oh, er, I'm sorry...... no, forget that!＿You've been dropping stuff left and＿right, you know?」"
+msgstr "Ryuuji「Ah, ehm, lo siento...... ¡no, olvide＿eso! Se le vienen cayendo cosas＿por todos lados, ¿sabe?」"
+
+msgid "Yuri「Oh, aaah! My goodness...... I'm sorry, I＿was a little zoned out.」"
+msgstr "Yuri「¡Oh, aaah! Dios mío...... Lo siento,＿estaba un poco distraída.」"
+
+msgid "Ryuuji「Zoned out......」"
+msgstr "Ryuuji「Distraída......」"
+
+msgid "Ryuuji「（Say what you like, but you were more＿than a little zoned out......）」"
+msgstr "Ryuuji「（Diga lo que quiera, pero estaba mucho＿más que un poco distraída......）」"
+
+msgid "Yuri「Uhh, nothing, it's nothing......」"
+msgstr "Yuri「Ehh, nada, no es nada......」"
+
+msgid "Ryuuji「It doesn't look like nothing. Are you＿really okay?」"
+msgstr "Ryuuji「No parece que no sea nada.＿¿De verdad está bien?」"
+
+msgid "Yuri「......L-Listen to this, Takasu-kunnn!」"
+msgstr "Yuri「......¡E-Escucha esto, Takasu-kunnn!」"
+
+msgid "Ryuuji「Y-Yes?」"
+msgstr "Ryuuji「¿S-Sí?」"
+
+msgid "Yuri「Remember \"The Single Woman's Guide＿to Purchasing Real Estate\" workshop?」"
+msgstr "Yuri「¿Recuerdas el taller \"Guía de compra de＿inmuebles para mujeres solteras\"?」"
+
+msgid "Ryuuji「Ummm......」"
+msgstr "Ryuuji「Mmm......」"
+
+msgid "Ryuuji「I, I see......」"
+msgstr "Ryuuji「Y-Ya veo......」"
+
+msgid "Ryuuji「......Umm, I'm sorry, you lost me.」"
+msgstr "Ryuuji「......Emm, lo siento, me perdí.」"
+
+msgid "Yuri「Oh...... Sorry about that, I launched into＿a tangent there.」"
+msgstr "Yuri「Ah...... Perdón por eso,＿me fui por las ramas.」"
+
+msgid "Ryuuji「That's okay......」"
+msgstr "Ryuuji「Está bien......」"
+
+msgid "Ryuuji「......」"
+msgstr "Ryuuji「......」"
+
+msgid "Yuri「She was gushing about how she's＿getting married to one of the real＿estate agents from the workshop!」"
+msgstr "Yuri「¡Me contó súper emocionada que se＿va a casar con uno de los agentes＿inmobiliarios del taller!」"
+
+msgid "Ryuuji「Whoa......」"
+msgstr "Ryuuji「Guau......」"
+
+msgid "Yuri「Isn't she basically graduating from＿single life? What was the point in her＿taking the workshop, then?」"
+msgstr "Yuri「¿Acaso no se está graduando de la＿soltería? ¿Entonces qué sentido＿tenía que tomara el taller?」"
+
+msgid "Yuri「But I didn't see it! He was aiming right＿at me, but I never noticed! But the girl＿next to me did!」"
+msgstr "Yuri「¡Pero yo no lo vi! ¡Él iba directo＿por mí, pero nunca me di cuenta! ¡Pero＿la chica de al lado sí!」"
+
+msgid "Ryuuji「C-Calm down! Please calm down!」"
+msgstr "Ryuuji「¡C-Cálmese! ¡Por favor, cálmese!」"
+
+msgid "Yuri「*Sigh*...... I, I'm sorry for getting upset.」"
+msgstr "Yuri「*Suspiro*...... P-Perdón por alterarme.」"
+
+msgid "Ryuuji「I-It's fine......」"
+msgstr "Ryuuji「E-Está bien......」"
+
+msgid "Ryuuji「Uh...... Well......」"
+msgstr "Ryuuji「Eh...... Bueno......」"
+
+msgid "Yuri「No, it's fine. Don't say anything. I＿understand. I get it.」"
+msgstr "Yuri「No, está bien. No digas nada.＿Lo entiendo. Ya lo sé.」"
+
+msgid "Ryuuji「W-Well...... At least, please pay attention＿when you drop something.」"
+msgstr "Ryuuji「B-Bueno...... Al menos, por favor preste＿atención cuando se le caiga algo.」"
+
+msgid "Yuri「T-Thank you...... I'll be going,＿Takasu-kun. Happy New Year.」"
+msgstr "Yuri「G-Gracias...... Ya me voy, Takasu-kun.＿Feliz Año Nuevo.」"
+
+msgid "Ryuuji「Oh, okay. Happy New Year.」"
+msgstr "Ryuuji「Ah, está bien. Feliz Año Nuevo.」"
+
+msgid "Ryuuji「（Is she really alright......? Wait, who＿exactly is she? A neighbor or＿something......?）」"
+msgstr "Ryuuji「（¿De verdad estará bien......? Espera,＿¿quién es ella exactamente? ¿Una vecina＿o algo así......?）」"
+
+msgid "Yuri「On Christmas Eve, while you guys were＿reveling in your youth at the party, I＿went to this special workshop for」"
+msgstr "Yuri「En Nochebuena, mientras ustedes＿disfrutaban de su juventud en la fiesta,＿yo fui a este taller especial para」"
+
+msgid "Yuri「single women.」"
+msgstr "Yuri「mujeres solteras.」"
+
+msgid "Yuri「The entrance fee was 1500 yen......」"
+msgstr "Yuri「La entrada costaba 1500 yenes......」"
+
+msgid "Yuri「It was so fantastic. They explained how＿to find property information, applying＿for loans, financing, all that stuff.」"
+msgstr "Yuri「Fue fantástico. Explicaron cómo buscar＿información de propiedades, solicitar＿préstamos, financiamiento y todo eso.」"
+
+msgid "Yuri「It was packed full of useful content.」"
+msgstr "Yuri「Estaba lleno de contenido muy útil.」"
+
+msgid "Yuri「At the workshop, I happened to sit＿next to someone from my hometown.」"
+msgstr "Yuri「En el taller, por casualidad me senté＿junto a alguien de mi ciudad natal.」"
+
+msgid "Yuri「So we exchanged phone numbers......＿Just now, I got a text from her......」"
+msgstr "Yuri「Intercambiamos números...... Acabo＿de recibir un mensaje suyo......」"
+
+msgid "Yuri「When I thought more about it, I＿remembered there was this overly＿friendly employee at the workshop......」"
+msgstr "Yuri「Al pensarlo mejor, recordé que＿había un empleado demasiado amable＿en el taller......」"
+
+msgid "Yuri「I remember talking to him briefly......＿but for them to get married just like＿that......」"
+msgstr "Yuri「Recuerdo haber hablado un poco con＿él...... pero que ellos se vayan＿a casar así como así......」"
+
+msgid "Yuri「A man's a man, you know. At a＿workshop full of women desperate＿enough to show up on Christmas Eve,」"
+msgstr "Yuri「Un hombre es un hombre, ¿sabes?」"
+
+msgid "Yuri「it's like shooting fish in a barrel!」"
+msgstr "Yuri「En un taller lleno de mujeres tan＿desesperadas como para ir en Nochebuena,＿¡son presa fácil!」"
+
+msgid "Yuri「......That text was all I could think＿about...... She chucked 1500 yen in the＿gutter and jumped at the chance to」"
+msgstr "Yuri「......Solo pensaba en ese mensaje......」"
+
+msgid "Yuri「get married.」"
+msgstr "Yuri「Tiró 1500 yenes a la basura y aprovechó＿la oportunidad de casarse.」"
+
+msgid "Yuri「On the other hand, I took the＿workshop seriously and overlooked＿that chance, fated never to encounter」"
+msgstr "Yuri「En cambio, yo me tomé el taller en＿serio y dejé pasar esa oportunidad,＿condenada a no encontrar jamás」"
+
+msgid "Yuri「the man of my dreams. I keep＿wondering if I made the right choice......」"
+msgstr "Yuri「al hombre de mis sueños. Me＿pregunto si habré tomado la＿decisión correcta......」"

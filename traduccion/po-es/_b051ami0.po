@@ -1,0 +1,269 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「Yo, Kawashima.」"
+msgstr "Ryuuji「Hola, Kawashima.」"
+
+msgid "Minori「Good morning, Amin!」"
+msgstr "Minori「¡Buenos días, Amin!」"
+
+msgid "Taiga「..................」"
+msgstr "Taiga「..................」"
+
+msgid "Ami「Hmm. If it isn't the same three people＿from yesterday.」"
+msgstr "Ami「Mmm. Pero si son las mismas＿tres personas de ayer.」"
+
+msgid "Taiga「What?」"
+msgstr "Taiga「¿Qué?」"
+
+msgid "Ami「Nothiiing. So, playing the Three＿Musketeers, are we?」"
+msgstr "Ami「Nadaaa. ¿Así que jugando a＿ser los Tres Mosqueteros?」"
+
+msgid "Ryuuji「No, we're meeting up with some others＿too. Are you by yourself?」"
+msgstr "Ryuuji「No, también nos vamos a reunir＿con otros. ¿Tú estás sola?」"
+
+msgid "Ami「Yeah, right. Oh, they're here!」"
+msgstr "Ami「Sí, claro. ¡Ah, ya llegaron!」"
+
+msgid "???「Thanks for waiting, Ami-chan.」"
+msgstr "???「Gracias por esperar, Ami-chan.」"
+
+msgid "???「Sorry! Been waiting long?」"
+msgstr "???「¡Perdón! ¿Llevas mucho esperando?」"
+
+msgid "Ami「No, not at all. I got here just a little bit＿early, that's all.」"
+msgstr "Ami「No, para nada. Llegué solo un＿poquito antes, eso es todo.」"
+
+msgid "Ryuuji「（Who are they......?）」"
+msgstr "Ryuuji「（¿Quiénes son......?）」"
+
+msgid "Ryuuji「（Aha, that's it! I remember now. Kihara＿Maya and Kashii Nanako. They're close＿with Kawashima.）」"
+msgstr "Ryuuji「（¡Ajá, eso es! Ya recuerdo. Kihara＿Maya y Kashii Nanako. Son amigas＿cercanas de Kawashima.）」"
+
+msgid "Ryuuji「（Feels like my memories are coming＿back more easily somehow. Alright,＿this is a good sign!）」"
+msgstr "Ryuuji「（Siento que mis recuerdos vuelven＿más fácil de algún modo. ¡Bien,＿es una buena señal!）」"
+
+msgid "Minori「Oh, looking great! The three of you are＿quite a feast for the eyes～」"
+msgstr "Minori「¡Oh, qué bien se ven! ¡Ustedes tres son＿todo un deleite para la vista～!」"
+
+msgid "Ami「Aww geez, Minori-chan～ Stop teasing＿us～」"
+msgstr "Ami「Ay, cielos, Minori-chan～ Deja＿de molestarnos así～」"
+
+msgid "Ami「I had too much great food over the＿holidays, so I've gotten a little flabby～」"
+msgstr "Ami「Comí demasiadas cosas ricas en las＿fiestas, y me puse un poco flácida～」"
+
+msgid "Ami「So today we all decided to go to the＿gym～ Right～?」"
+msgstr "Ami「Así que hoy decidimos ir todas＿al gimnasio～ ¿Verdad～?」"
+
+msgid "Kihara「Right! It's my first time using exercise＿equipment. Hope I can figure it out～」"
+msgstr "Kihara「¡Sí! Es mi primera vez usando＿máquinas de ejercicio. Espero＿poder entenderlas～」"
+
+msgid "Ami「Don't worry, it's really easy!」"
+msgstr "Ami「¡No te preocupes, es muy fácil!」"
+
+msgid "Kashii「I'm looking forward to the pool. I'm＿sure a bit of leisurely swimming will＿feel great.」"
+msgstr "Kashii「Me emociona ir a la piscina. Seguro＿que nadar un rato sin prisas se＿va a sentir genial.」"
+
+msgid "Ami「Oh, I know what you mean～ And＿swimming burns calories too, so it's＿awesome～」"
+msgstr "Ami「Ay, sé a qué te refieres～＿Y nadar también quema calorías,＿así que es genial～」"
+
+msgid "Ryuuji「Oh, that sounds kinda like where we're＿going.」"
+msgstr "Ryuuji「Ah, eso suena parecido al＿lugar al que vamos.」"
+
+msgid "Ami「Where are you guys going?」"
+msgstr "Ami「¿A dónde van ustedes?」"
+
+msgid "Ryuuji「We're using Noto's free tickets to get＿into Luxure.」"
+msgstr "Ryuuji「Vamos a usar las entradas gratis＿de Noto para ir a Luxure.」"
+
+msgid "Everyone「Luxure!?」"
+msgstr "Todos「¡¿Luxure?!」"
+
+msgid "Kihara「For real!? What? No way! Doesn't it＿cost a FORTUNE to get in there!?」"
+msgstr "Kihara「¡¿En serio?! ¿Qué? ¡No puede ser! ¡¿No＿cuesta una FORTUNA entrar ahí?!」"
+
+msgid "Ami「Everyone's been raving about the＿aromatherapy massages they offer.」"
+msgstr "Ami「Todo el mundo habla maravillas de los＿masajes de aromaterapia que ofrecen.」"
+
+msgid "Kihara「Sounds great～ I wanna go～!」"
+msgstr "Kihara「Suena genial～ ¡Quiero ir～!」"
+
+msgid "???「Then how about you come with us?」"
+msgstr "???「Entonces, ¿y si vienen con nosotros?」"
+
+msgid "Minori「Whoa, Noto-kun! How long have you＿been behind us!?」"
+msgstr "Minori「¡Vaya, Noto-kun! ¡¿Cuánto tiempo＿llevas detrás de nosotros?!」"
+
+msgid "Noto「I literally just got here. So yeah, I still＿have some unused tickets. It's totally＿no problem.」"
+msgstr "Noto「Literalmente acabo de llegar. Así＿que sí, aún tengo entradas sin usar.＿No hay ningún problema.」"
+
+msgid "Kihara「For real!? YAY! Thank you!」"
+msgstr "Kihara「¡¿En serio?! ¡GENIAL! ¡Gracias!」"
+
+msgid "Ami「Noto-kun, you're a great guy. Thank＿you!」"
+msgstr "Ami「Noto-kun, eres un gran chico. ¡Gracias!」"
+
+msgid "Kashii「Thank you, Noto-kun.」"
+msgstr "Kashii「Gracias, Noto-kun.」"
+
+msgid "Noto「Aww, it's no big deal...... Ehehe!」"
+msgstr "Noto「Ay, no es para tanto...... ¡Jejeje!」"
+
+msgid "Ryuuji「Noto, you're such a sucker for the＿ladies.」"
+msgstr "Ryuuji「Noto, siempre te derrites＿por las chicas.」"
+
+msgid "Noto「This might be the most popular I've＿ever been!」"
+msgstr "Noto「¡Puede que este sea el momento＿más popular de mi vida!」"
+
+msgid "Ryuuji「（In other words, you've never been＿popular, Noto......）」"
+msgstr "Ryuuji「（En otras palabras, nunca has＿sido popular, Noto......）」"
+
+msgid "Minori「Well, that's that. Let's go to the station!＿I'll bet Kitamura-kun and Haruta-kun＿can't wait for us to show up.」"
+msgstr "Minori「Bueno, asunto resuelto. ¡Vamos a la＿estación! Seguro que Kitamura-kun y＿Haruta-kun mueren por vernos llegar.」"
+
+msgid "Ryuuji「Yeah.」"
+msgstr "Ryuuji「Sí.」"
+
+msgid "Kitamura「Oh, now here's an unexpected sight.」"
+msgstr "Kitamura「Oh, pero qué escena tan inesperada.」"
+
+msgid "Ryuuji「Likewise, this is, uh...... an unexpected＿sight for us too.」"
+msgstr "Ryuuji「Igualmente, para nosotros también es,＿eh...... una escena inesperada.」"
+
+msgid "Kitamura「Is that so?」"
+msgstr "Kitamura「¿Ah, sí?」"
+
+msgid "Haruta「Whaaat～? Taka-chan, keep talking like＿that and you'll make Yuri-chan-sensei＿cry.」"
+msgstr "Haruta「¿Quéee～? Taka-chan, si sigues＿hablando así vas a hacer llorar＿a Yuri-chan-sensei.」"
+
+msgid "Yuri「H-Haruta-kun! I think I'll pass after all.」"
+msgstr "Yuri「¡H-Haruta-kun! Creo que después＿de todo mejor paso.」"
+
+msgid "Haruta「Whaaat～? C'mon, c'mon～ Let's all go＿to Texture～!!」"
+msgstr "Haruta「¿Quéee～? Vamos, vamos～ ¡Vayamos＿todos a Texture～!!」"
+
+msgid "Ryuuji「It's LUXURE.」"
+msgstr "Ryuuji「Es LUXURE.」"
+
+msgid "Haruta「That's what I meant～＿Yuri-chan-sensei, haven't you been＿wanting to go?」"
+msgstr "Haruta「Eso quise decir～ Yuri-chan-sensei,＿¿acaso no tenía muchas ganas de ir?」"
+
+msgid "Yuri「That's true, but still......」"
+msgstr "Yuri「Es cierto, pero aun así......」"
+
+msgid "Kitamura「You see, Noto, apparently Haruta＿bumped into Sensei on the way here.」"
+msgstr "Kitamura「Verás, Noto, al parecer Haruta se topó＿con Sensei de camino hacia acá.」"
+
+msgid "Kitamura「Do you mind if she accompanies us?」"
+msgstr "Kitamura「¿Te molesta si nos acompaña?」"
+
+msgid "Noto「Not a problem. I have 10 tickets＿anyways, so Sensei can be our tenth＿person.」"
+msgstr "Noto「No hay problema. De todas formas tengo＿10 entradas, así que Sensei puede ser＿nuestra décima persona.」"
+
+msgid "Yuri「What? You're really sure? Won't I be a＿bother??」"
+msgstr "Yuri「¿Qué? ¿De verdad están seguros?＿¿No seré una molestia??」"
+
+msgid "Noto「Nonsense. The more the merrier,＿right? We might as well go together～!」"
+msgstr "Noto「Para nada. Mientras más seamos, mejor,＿¿no? ¡Igual podemos ir todos juntos～!」"
+
+msgid "Minori「Yep yep! It's more exciting this way～」"
+msgstr "Minori「¡Sip, sip! Así es más emocionante～」"
+
+msgid "Taiga「It's free, so who cares? You're not＿exactly the only freeloader here.」"
+msgstr "Taiga「Es gratis, así que ¿qué importa?＿No es exactamente la única que＿viene sin pagar aquí.」"
+
+msgid "Kashii「Sensei, what about your swimsuit?」"
+msgstr "Kashii「Sensei, ¿y su traje de baño?」"
+
+msgid "Ami「Why don't we go buy you one? I'll find＿one that's perfect for you①」"
+msgstr "Ami「¿Por qué no vamos a comprarle uno? Le＿encontraré uno perfecto para usted①」"
+
+msgid "Kihara「Oh, good idea! I wanna pick out stuff＿for her too～!」"
+msgstr "Kihara「¡Oh, buena idea! ¡Yo también quiero＿elegir cosas para ella～!」"
+
+msgid "Yuri「W-What? But a swimsuit is a bit...... I＿mean, I really should refrain.」"
+msgstr "Yuri「¿Q-Qué? Pero un traje de baño＿es un poco...... O sea, de verdad＿debería abstenerme.」"
+
+msgid "Noto「If it's just for the lounge, it seems they＿provide changes of clothing. It's fine if＿it's nothing too unprofessional, right?」"
+msgstr "Noto「Si es solo para el salón, parece que dan＿ropa de cambio. Está bien mientras no＿sea nada poco profesional, ¿no?」"
+
+msgid "Haruta「Yup yup! You should do that,＿Yuri-chan-sensei. Okay, we're all set～＿Now LET'S GO!!」"
+msgstr "Haruta「¡Sip, sip! Debería hacer eso,＿Yuri-chan-sensei. Bien, ya estamos＿todos listos～ ¡Ahora VÁMONOS!!」"
+
+msgid "Noto「YEAAAH!」"
+msgstr "Noto「¡SÍÍÍÍ!」"
+
+msgid "Yuri「Umm, are you guys really okay with me＿coming?」"
+msgstr "Yuri「Ehm, ¿de verdad están de acuerdo＿con que vaya con ustedes?」"
+
+msgid "Kitamura「Of course we are. Now, let's be off!」"
+msgstr "Kitamura「Por supuesto. ¡Ahora, en marcha!」"
+
+msgid "Yuri「T-Thank you......」"
+msgstr "Yuri「G-Gracias......」"
+
+msgid "Minori「Huh? Takasu-kun, 'sup? You're all＿spaced out.」"
+msgstr "Minori「¿Eh? Takasu-kun, ¿qué pasa?＿Estás muy distraído.」"
+
+msgid "Ryuuji「Well, I remembered that something like＿this happened before.」"
+msgstr "Ryuuji「Bueno, recordé que algo así＿ya había pasado antes.」"
+
+msgid "Minori「Huh? For reals?」"
+msgstr "Minori「¿Eh? ¿De verdad?」"
+
+msgid "Ryuuji「Yeah. I remember it felt just like this.」"
+msgstr "Ryuuji「Sí. Recuerdo que se sentía justo así.」"
+
+msgid "Minori「I see.」"
+msgstr "Minori「Ya veo.」"
+
+msgid "Minori「Oho～ That's deep, bud.」"
+msgstr "Minori「Oho～ Qué profundo, amigo.」"
+
+msgid "Ryuuji「Thinking back, those days were never＿anything special.」"
+msgstr "Ryuuji「Pensándolo bien, esos días nunca＿fueron nada especial.」"
+
+msgid "Minori「True that! Completely, utterly normal.」"
+msgstr "Minori「¡Cierto! Total y completamente normales.」"
+
+msgid "Minori「But still fun!」"
+msgstr "Minori「¡Pero aun así divertidos!」"
+
+msgid "Ryuuji「Yeah, they were still fun.」"
+msgstr "Ryuuji「Sí, aun así eran divertidos.」"
+
+msgid "Minori「I hope things stay like this forever.」"
+msgstr "Minori「Ojalá las cosas sigan así por siempre.」"
+
+msgid "Ryuuji「Hm?」"
+msgstr "Ryuuji「¿Mm?」"
+
+msgid "Minori「Alright, today we're gonna have the＿time of our lives! Right, Takasu-kun!?」"
+msgstr "Minori「¡Muy bien, hoy la vamos a pasar como＿nunca! ¡¿Verdad, Takasu-kun?!」"
+
+msgid "Ryuuji「Hell yeah.」"
+msgstr "Ryuuji「Claro que sí.」"
+
+msgid "Kitamura「Then when he mentioned Luxure,＿Sensei revealed that she's actually＿been wanting to go, so she tagged」"
+msgstr "Kitamura「Luego, cuando mencionó Luxure, Sensei＿reveló que en realidad tenía ganas＿de ir, así que nos」"
+
+msgid "Kitamura「along.」"
+msgstr "Kitamura「acompañó.」"
+
+msgid "Ryuuji「Well, I had no idea who Sensei was the＿entire time, but watching Noto and the＿others talking, somehow it just came」"
+msgstr "Ryuuji「Bueno, no tenía idea de quién era Sensei＿todo el tiempo, pero al ver a Noto y los＿demás hablar, de algún modo」"
+
+msgid "Ryuuji「back to me.」"
+msgstr "Ryuuji「me volvió el recuerdo.」"
+
+msgid "Ryuuji「I was able to remember that the＿conversations and everyday＿happenings at school have always felt」"
+msgstr "Ryuuji「Pude recordar que las conversaciones＿y los momentos cotidianos en la escuela＿siempre se han sentido」"
+
+msgid "Ryuuji「like this.」"
+msgstr "Ryuuji「así.」"
+
+msgid "Ryuuji「（I'm so grateful to be able to live a＿normal high school life, smiling and＿talking with normal people, despite my）」"
+msgstr "Ryuuji「（Agradezco tanto poder llevar una vida＿normal de preparatoria, sonriendo y＿hablando con gente normal, pese a mi）」"
+
+msgid "Ryuuji「（thuggish face.）」"
+msgstr "Ryuuji「（cara de delincuente.）」"

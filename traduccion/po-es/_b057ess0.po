@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「And the dishes are done. *Yaaawn*......」"
+msgstr "Ryuuji「Ya lavé los platos. *Bostezooo*......」"
+
+msgid "Ryuuji「（I got plenty of exercise today, so I'm＿pretty tuckered out...... Guess I'll go to＿bed early......）」"
+msgstr "Ryuuji「（Hoy hice bastante ejercicio, así＿que estoy agotado...... Supongo que＿me acostaré temprano......）」"
+
+msgid "Inko-chan「......」"
+msgstr "Inko-chan「......」"
+
+msgid "Ryuuji「（O-Oh? Inko-chan is looking over at me＿forlornly...... What should I do?）」"
+msgstr "Ryuuji「（¿E-Eh? Inko-chan me está mirando con＿tristeza...... ¿Qué debería hacer?）」"
+
+msgid "Have a sleepy chat"
+msgstr "Charlar con sueño"
+
+msgid "I'm too sleepy. Time for bed"
+msgstr "Tengo mucho sueño. Hora de dormir"
+
+msgid "Ryuuji「（Nah...... I'm too sleepy. Time for bed.＿Sorry, Inko-chan......）」"
+msgstr "Ryuuji「（No...... Tengo mucho sueño. Hora de＿dormir. Perdón, Inko-chan......）」"

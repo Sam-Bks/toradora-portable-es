@@ -1,0 +1,332 @@
+msgid ""
+msgstr ""
+
+msgid "Ami「Thanks for hanging out with me today.＿It was like, SUPER fun.」"
+msgstr "Ami「Gracias por salir conmigo hoy.＿Fue, o sea, SÚPER divertido.」"
+
+msgid "Ryuuji「And thank you for inviting me. It was a＿nice change of pace.」"
+msgstr "Ryuuji「Y gracias por invitarme. Fue＿un buen cambio de aires.」"
+
+msgid "Ami「Really? I'm glad to hear it①」"
+msgstr "Ami「¿En serio? Me alegra oírlo①」"
+
+msgid "Ami「I hated myself for not being able to do＿anything for you while you're suffering.」"
+msgstr "Ami「Me odiaba por no poder hacer nada＿por ti mientras estás sufriendo.」"
+
+msgid "Ami「So I wanted to try and cheer you up, if＿only slightly......」"
+msgstr "Ami「Así que quería intentar animarte,＿aunque fuera un poco......」"
+
+msgid "Ryuuji「So that's why you invited me?」"
+msgstr "Ryuuji「¿Así que por eso me invitaste?」"
+
+msgid "Ami「Yeah...... Was I too nosy?」"
+msgstr "Ami「Sí...... ¿Fui demasiado entrometida?」"
+
+msgid "Ryuuji「W-What are you saying? That's......」"
+msgstr "Ryuuji「¿Q-Qué estás diciendo? Eso......」"
+
+msgid "Ami「I'd do anything if it's for you, Ryuuji.＿Your happiness is my happiness, after＿all.」"
+msgstr "Ami「Haría lo que fuera por ti, Ryuuji.＿Tu felicidad es mi felicidad,＿después de todo.」"
+
+msgid "Ryuuji「Y-You care about me that much......?」"
+msgstr "Ryuuji「¿T-Te preocupas tanto por mí......?」"
+
+msgid "Ryuuji「......Thank you. You care about me more＿than anyone else, Ami-chan.」"
+msgstr "Ryuuji「......Gracias. Te preocupas por＿mí más que nadie, Ami-chan.」"
+
+msgid "Taiga「Ryuuji! What are you doing here?!」"
+msgstr "Taiga「¡Ryuuji! ¡¿Qué haces aquí?!」"
+
+msgid "Ryuuji「T-Taiga? Why are you here?」"
+msgstr "Ryuuji「¿T-Taiga? ¿Por qué estás aquí?」"
+
+msgid "Taiga「That stupid chihuahua asked me to＿come!」"
+msgstr "Taiga「¡Esa chihuahua tonta me＿pidió que viniera!」"
+
+msgid "Ami「Whaaat～? I didn't call you or anything,＿Aisaka-san.」"
+msgstr "Ami「¿Quéee～? Yo no te llamé＿ni nada, Aisaka-san.」"
+
+msgid "Taiga「You said \"I'll show you something＿interesting, so come here\"! StuChi!」"
+msgstr "Taiga「¡Dijiste \"te mostraré algo interesante,＿ven aquí\"! ¡Chihuatonta!」"
+
+msgid "Ami「Don't know what you're talking about～＿......Perhaps you were, like, stalking us,＿Aisaka-san?」"
+msgstr "Ami「No sé de qué hablas～ ......¿Acaso nos＿estabas, o sea, espiando, Aisaka-san?」"
+
+msgid "Taiga「Hmph! So you're gonna keep playing＿innocent...... That aside, Ryuuji, just＿how stupid are you?!」"
+msgstr "Taiga「¡Jum! Así que te vas a seguir＿haciendo la inocente...... Ryuuji,＿¡¿qué tan tonto eres?!」"
+
+msgid "Ryuuji「What......? Why did you have to call me＿stupid?」"
+msgstr "Ryuuji「¿Qué......? ¿Por qué tenías＿que llamarme tonto?」"
+
+msgid "Taiga「I called you stupid because you're an＿idiot!」"
+msgstr "Taiga「¡Te llamé tonto porque eres un idiota!」"
+
+msgid "Ami「You're so cruel, Aisaka-san. Apologize＿to Ryuuji!」"
+msgstr "Ami「Qué cruel eres, Aisaka-san.＿¡Discúlpate con Ryuuji!」"
+
+msgid "Taiga「Ryu- Ryu- \"Ryuuji\"!?」"
+msgstr "Taiga「¡¿Ryu- Ryu- \"Ryuuji\"?!」"
+
+msgid "Taiga「Ryuuji!! Why did you let this evil,＿sex-crazed, rotten chihuahua call you＿Ryuuji?!」"
+msgstr "Taiga「¡¡Ryuuji!! ¡¿Por qué dejaste que＿esta chihuahua malvada, pervertida＿y podrida te llame Ryuuji?!」"
+
+msgid "Taiga「Because her true nature is a stupid＿pure-evil nympho sheep in wolf's＿clothing!」"
+msgstr "Taiga「¡Porque su verdadera naturaleza es＿la de una tonta ninfómana malvada,＿una oveja con piel de lobo!」"
+
+msgid "Ryuuji「Why are you being so cruel!?」"
+msgstr "Ryuuji「¡¿Por qué estás siendo tan cruel?!」"
+
+msgid "Ami「Stop it, Ryuuji. I don't mind being＿insulted at all. I can't forgive anyone＿who insults you, though......」"
+msgstr "Ami「Basta, Ryuuji. No me importa que me＿insulten. Pero no puedo perdonar a＿quien te insulte a ti......」"
+
+msgid "Taiga「Excuse me? Don't make me laugh!＿What do you intend to accomplish by＿toying with Ryuuji?」"
+msgstr "Taiga「¿Disculpa? ¡No me hagas reír! ¿Qué＿pretendes lograr jugando así con Ryuuji?」"
+
+msgid "Ami「I think YOU'RE the one who's toying＿with him. Ryuuji is not your servant,＿okay? Why do you walk all over him?」"
+msgstr "Ami「Creo que TÚ eres la que juega con＿él. Ryuuji no es tu sirviente, ¿sí?＿¿Por qué lo pisoteas tanto?」"
+
+msgid "Taiga「This is none of your business, you＿washed-up model! Ryuuji is my dog!!」"
+msgstr "Taiga「¡Esto no es asunto tuyo, modelo＿fracasada! ¡¡Ryuuji es mi perro!!」"
+
+msgid "Ami「Of course it's my business. Ryuuji is＿special to me.」"
+msgstr "Ami「Claro que es asunto mío. Ryuuji＿es especial para mí.」"
+
+msgid "Taiga「Quit saying that, you terrible person!」"
+msgstr "Taiga「¡Deja de decir eso, eres horrible!」"
+
+msgid "Ryuuji「Taiga, cut it out already!!」"
+msgstr "Ryuuji「¡¡Taiga, ya basta!!」"
+
+msgid "Taiga「How dare you, you rotten mongrel!!」"
+msgstr "Taiga「¡¡Cómo te atreves, perro sarnoso!!」"
+
+msgid "Taiga「Wha!? ......Y-You're saying...... Ryuuji,＿you'd believe StuChi over me?」"
+msgstr "Taiga「¡¿Qué?! ......D-Dices que......＿Ryuuji, ¿le crees a Chihuatonta＿antes que a mí?」"
+
+msgid "Ryuuji「Yeah, that's right!」"
+msgstr "Ryuuji「¡Sí, así es!」"
+
+msgid "Taiga「......Whatever. I won't concern myself＿with you ever again.」"
+msgstr "Taiga「......Como sea. No volveré a＿involucrarme contigo nunca más.」"
+
+msgid "Ryuuji「Suit yourself.」"
+msgstr "Ryuuji「Como quieras.」"
+
+msgid "Ryuuji「Sorry, Ami-chan. Taiga said a lot of＿terrible things......」"
+msgstr "Ryuuji「Perdón, Ami-chan. Taiga dijo muchas＿cosas horribles......」"
+
+msgid "Ami「......Ufufu...... hehehe...... Ahahahahahaha!」"
+msgstr "Ami「......Jujuju...... jeje...... ¡Jajajaja!」"
+
+msgid "Ryuuji「......Huh?」"
+msgstr "Ryuuji「......¿Eh?」"
+
+msgid "Ami「Did you see it? That frustrated look on＿Tiger's face just now! Serves her right!＿So funny～!」"
+msgstr "Ami「¿Viste eso? ¡La cara de frustración＿de Tigre hace un momento! ¡Se lo＿merece! ¡Qué gracioso～!」"
+
+msgid "Ryuuji「Ami-chan?」"
+msgstr "Ryuuji「¿Ami-chan?」"
+
+msgid "Ami「Okay, Takasu-kun. You can go home＿now. You played your part well.」"
+msgstr "Ami「Bueno, Takasu-kun. Ya puedes irte＿a casa. Cumpliste bien tu papel.」"
+
+msgid "Ryuuji「My part......? Ami-chan, what's this all of＿a sudden?」"
+msgstr "Ryuuji「¿Mi papel......? Ami-chan, ¿a qué＿viene esto tan de repente?」"
+
+msgid "Ami「You still don't get it～? I achieved my＿goal, so I'm done with you, Takasu-kun.＿Okay, byebye now～～」"
+msgstr "Ami「¿Todavía no lo entiendes～? Ya logré＿mi objetivo, así que terminé contigo,＿Takasu-kun. Adiós～～」"
+
+msgid "Ryuuji「Wha......?」"
+msgstr "Ryuuji「¿Qué......?」"
+
+msgid "Ryuuji「W-Why would you say that......? Where's＿the kind Ami-chan from before?」"
+msgstr "Ryuuji「¿P-Por qué dices eso......? ¿Dónde quedó＿la amable Ami-chan de antes?」"
+
+msgid "Ami「Whaaat～? Right here①」"
+msgstr "Ami「¿Quéee～? Justo aquí①」"
+
+msgid "Ami「Just kidding. Ahahaha, what's with that＿face? I-D-I-O-T. Hahahahaha...... Aah,＿really, your derp face is good too～」"
+msgstr "Ami「Era broma. Ajajaja, ¿y esa cara?＿I-D-I-O-T-A. Jajaja...... Aah, tu＿cara de bobo es buenísima～」"
+
+msgid "Ryuuji「You're kidding! This isn't the Ami-chan＿I know!」"
+msgstr "Ryuuji「¡Estás bromeando! ¡Esta no es＿la Ami-chan que yo conozco!」"
+
+msgid "Ami「So obstinate～ Did you lose your＿common sense and vocabulary along＿with your memory? How very pitiful.」"
+msgstr "Ami「Qué terco～ ¿Perdiste el sentido＿común y el vocabulario con tu＿memoria? Qué lástima das.」"
+
+msgid "Ami「*Sigh*...... Why are you so convinced?＿It's scary.」"
+msgstr "Ami「*Suspiro*...... ¿Por qué estás＿tan convencido? Da miedo.」"
+
+msgid "Ryuuji「It's alright. I know just how nice of a＿girl Ami-chan truly is.」"
+msgstr "Ryuuji「Está bien. Yo sé lo buena chica＿que es Ami-chan en realidad.」"
+
+msgid "Ami「Ugh, what a pain～ So you just believe＿what you want?」"
+msgstr "Ami「Agh, qué fastidio～ ¿Así que solo＿crees lo que quieres creer?」"
+
+msgid "Ryuuji「......I believe in you, Ami-chan. My＿feelings won't change no matter what＿happens.」"
+msgstr "Ryuuji「......Yo creo en ti, Ami-chan.＿Mis sentimientos no cambiarán＿pase lo que pase.」"
+
+msgid "Ami「............」"
+msgstr "Ami「............」"
+
+msgid "Ryuuji「I, I mean it!」"
+msgstr "Ryuuji「¡L-Lo digo en serio!」"
+
+msgid "Ami「......Hmmm～ You like Ami-chan that＿much?」"
+msgstr "Ami「......Mmm～ ¿Tanto te gusta Ami-chan?」"
+
+msgid "Ryuuji「Oh, yeah.」"
+msgstr "Ryuuji「Ah, sí.」"
+
+msgid "Ami「In that case, like, would you listen to＿anything Ami-chan says?」"
+msgstr "Ami「En ese caso, o sea, ¿obedecerías＿todo lo que diga Ami-chan?」"
+
+msgid "Ryuuji「Of course!」"
+msgstr "Ryuuji「¡Por supuesto!」"
+
+msgid "Ami「Hmmm～...... Then......」"
+msgstr "Ami「Mmm～...... Entonces......」"
+
+msgid "Ryuuji「Ami-chan, here's your lunchbox and＿iced tea for today. Later I'll buy you＿your favorite magazine, too.」"
+msgstr "Ryuuji「Ami-chan, aquí tienes tu almuerzo＿y té helado de hoy. Luego te compraré＿tu revista favorita.」"
+
+msgid "Ami「Oh my, thoughtful as always～」"
+msgstr "Ami「Vaya, tan atento como siempre～」"
+
+msgid "Ryuuji「I'm doing this because I want to. Don't＿worry about it.」"
+msgstr "Ryuuji「Lo hago porque quiero. No＿te preocupes por eso.」"
+
+msgid "Ryuuji「Easy enough.」"
+msgstr "Ryuuji「Pan comido.」"
+
+msgid "Kihara「Are you sure, Takasu-kun?」"
+msgstr "Kihara「¿Estás seguro, Takasu-kun?」"
+
+msgid "Ryuuji「Just leave it to me. You guys are＿Ami-chan's close friends, after all.」"
+msgstr "Ryuuji「Déjenmelo a mí. Después de todo, ustedes＿son amigas cercanas de Ami-chan.」"
+
+msgid "Kashii「But I kinda feel bad.」"
+msgstr "Kashii「Pero me siento un poco mal.」"
+
+msgid "Ami「Ryuuji, why are you making Nanako＿feel the need to apologize?」"
+msgstr "Ami「Ryuuji, ¿por qué haces que Nanako sienta＿que tiene que disculparse?」"
+
+msgid "Ryuuji「S-Sorry! It's fine, absolutely fine!＿Please let me make your lunches!」"
+msgstr "Ryuuji「¡P-Perdón! ¡Está bien, de verdad!＿¡Por favor, déjenme prepararles＿el almuerzo!」"
+
+msgid "Kashii「If you insist, Takasu-kun......」"
+msgstr "Kashii「Si insistes, Takasu-kun......」"
+
+msgid "Ami「Then please do, starting tomorrow. Oh,＿and I wish this iced tea was like, hot＿instead～」"
+msgstr "Ami「Entonces hazlo a partir de mañana.＿Ah, y ojalá este té helado＿estuviera caliente～」"
+
+msgid "Ryuuji「Oh, I'll replace it right now.」"
+msgstr "Ryuuji「Ah, lo cambio ahora mismo.」"
+
+msgid "Ami「G-O-O-D～」"
+msgstr "Ami「B-I-E-N～」"
+
+msgid "Taiga「......Idiot.」"
+msgstr "Taiga「......Idiota.」"
+
+msgid "Ryuuji「What?」"
+msgstr "Ryuuji「¿Qué?」"
+
+msgid "Taiga「Nothing. Minorin, let's eat lunch＿together.」"
+msgstr "Taiga「Nada. Minorin, vamos a almorzar juntas.」"
+
+msgid "Minori「Okay～」"
+msgstr "Minori「Está bien～」"
+
+msgid "Ryuuji「――In the end, my memory didn't come＿back, and the last trimester finally＿arrived.」"
+msgstr "Ryuuji「――Al final, no recuperé la memoria, y＿por fin llegó el último trimestre.」"
+
+msgid "Ryuuji「But I think things are fine this way. I'm＿satisfied with my life.」"
+msgstr "Ryuuji「Pero creo que así están bien las cosas.＿Estoy satisfecho con mi vida.」"
+
+msgid "Ryuuji「The daily life where I take orders from＿my beloved Ami-chan......」"
+msgstr "Ryuuji「La vida diaria en la que sigo las＿órdenes de mi amada Ami-chan......」"
+
+msgid "Ami「Ryuujiii～ Like, come here for a sec①」"
+msgstr "Ami「Ryuujiii～ O sea, ven un segundo①」"
+
+msgid "Ryuuji「Oh, okay!」"
+msgstr "Ryuuji「¡Ah, está bien!」"
+
+msgid "Yuri「Hello. First of all, perhaps I should＿thank you for your hard work,＿Takasu-kun.」"
+msgstr "Yuri「Hola. Antes que nada, quizá debería＿agradecerte por tu esfuerzo, Takasu-kun.」"
+
+msgid "Yuri「Now that you got this ending, the＿reason I brought you here......」"
+msgstr "Yuri「Ahora que llegaste a este final, la＿razón por la que te traje aquí......」"
+
+msgid "Yuri「......is none other than to discuss the＿route you chose. I thought we could＿ponder it together.」"
+msgstr "Yuri「......no es otra que hablar sobre＿tu ruta. Pensé que podríamos＿reflexionar juntos.」"
+
+msgid "Yuri「Well then, let's evaluate the ending you＿just saw.」"
+msgstr "Yuri「Bien, entonces evaluemos el＿final que acabas de ver.」"
+
+msgid "Yuri「Welcome, Takasu-kun.」"
+msgstr "Yuri「Bienvenido, Takasu-kun.」"
+
+msgid "Yuri「Well then, let's begin to evaluate the＿ending you just saw.」"
+msgstr "Yuri「Bien, comencemos a evaluar el＿final que acabas de ver.」"
+
+msgid "Yuri「I see...... So you chose to become＿Kawashima-san's servant, Takasu-kun.＿I'll jot that down...」"
+msgstr "Yuri「Ya veo...... Así que elegiste ser＿el sirviente de Kawashima-san,＿Takasu-kun. Lo anotaré...」"
+
+msgid "Yuri「Well, Kawashima-san is cute. As long＿as you consent to it, it might be its＿own form of happiness, but......」"
+msgstr "Yuri「Bueno, Kawashima-san es linda.＿Si estás de acuerdo, puede que＿sea felicidad, pero......」"
+
+msgid "Yuri「As your teacher, I want you to＿understand much more of＿Kawashima-san.」"
+msgstr "Yuri「Como tu profesora, quiero que comprendas＿mucho mejor a Kawashima-san.」"
+
+msgid "Yuri「With just a shallow understanding of＿her, she's bound to get tired of you in＿no time.」"
+msgstr "Yuri「Si solo la comprendes de forma＿superficial, seguro se cansará＿de ti en poco tiempo.」"
+
+msgid "Yuri「Besides, it seems there are a lot of＿things you haven't remembered. Did＿you forget about the Culture Festival?」"
+msgstr "Yuri「Además, parece que hay muchas cosas＿que no recuerdas. ¿Olvidaste lo＿del Festival Cultural?」"
+
+msgid "Yuri「For more information, you should try＿talking to the friends you spent time＿with at the Culture Festival.」"
+msgstr "Yuri「Para saber más, habla con tus amigos＿del Festival Cultural.」"
+
+msgid "Yuri「Now then. If I were to grade this＿ending, I guess I'd give it 60 points. It＿seems you'll need to try much harder.」"
+msgstr "Yuri「Ahora bien. Si calificara este final,＿le daría 60 puntos. Tendrás que＿esforzarte mucho más.」"
+
+msgid "Yuri「Okay, that's all for today. Until next＿time!」"
+msgstr "Yuri「Bueno, eso es todo por hoy.＿¡Hasta la próxima!」"
+
+msgid "『Music』 is now available in 『Extra』"
+msgstr "『Música』 ya está disponible en 『Extra』"
+
+msgid "『Album』 is now available in 『Extra』"
+msgstr "『Álbum』 ya está disponible en 『Extra』"
+
+msgid "Ryuuji「That's what you call me, too. And why＿do you keep calling her \"stupid＿chihuahua\" or \"evil\" or \"sex-crazed\"?」"
+msgstr "Ryuuji「Así me llamas a mí también. ¿Y por＿qué le dices \"chihuahua tonta\",＿\"malvada\" o \"pervertida\"?」"
+
+msgid "Ryuuji「Cut it out already.」"
+msgstr "Ryuuji「Ya déjalo de una vez.」"
+
+msgid "Ryuuji「Just listen to me! Ami-chan is worried＿about my amnesia from the bottom of＿her heart!」"
+msgstr "Ryuuji「¡Solo escúchame! ¡Ami-chan está＿preocupada por mi amnesia desde＿el fondo de su corazón!」"
+
+msgid "Ryuuji「I won't forgive anyone who insults her,＿even if it's you, Taiga!!」"
+msgstr "Ryuuji「¡No perdonaré a nadie que la insulte,＿aunque seas tú, Taiga!!」"
+
+msgid "Ryuuji「......I see! This is an act, right? You're a＿totally nice girl - you're just pretending＿to be a bad girl right now......」"
+msgstr "Ryuuji「......¡Ya veo! Es una actuación,＿¿verdad? Eres una chica súper buena,＿solo finges ser mala......」"
+
+msgid "Ryuuji「How modest. I'm deeply moved!」"
+msgstr "Ryuuji「Qué modesta. ¡Estoy muy conmovido!」"
+
+msgid "Ami「Oh yeah. Starting tomorrow, will you＿make some for Maya and Nanako?＿They want to eat your cooking.」"
+msgstr "Ami「Ah, sí. A partir de mañana, ¿les＿prepararías a Maya y a Nanako?＿Quieren probar tu comida.」"
+
+msgid "Ami「Okay～?」"
+msgstr "Ami「¿Sí～?」"
+
+msgid "Yuri「I'll come and see you every time you＿reach an ending.」"
+msgstr "Yuri「Vendré a verte cada vez＿que alcances un final.」"
+
+msgid "Yuri「I want you to reflect on the actions you＿made this time and keep them in mind＿for next time.」"
+msgstr "Yuri「Quiero que reflexiones sobre＿tus decisiones y las tengas en＿cuenta para la próxima.」"

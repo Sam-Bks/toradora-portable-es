@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+
+msgid "Kitamura「Oh, Takasu! What would you be doing＿here?」"
+msgstr "Kitamura「¡Ah, Takasu! ¿Qué haces por aquí?」"
+
+msgid "Ryuuji「Well, I saw you rushing out of the＿classroom, so I thought you might＿need help with something.」"
+msgstr "Ryuuji「Bueno, te vi salir apurado del＿salón, así que pensé que quizá＿necesitabas ayuda con algo.」"
+
+msgid "Ryuuji「......I just happened to be passing by. I＿figured, if you were working on＿something, I could lend a hand.」"
+msgstr "Ryuuji「......Solo pasaba por aquí. Pensé＿que, si estabas trabajando en algo,＿podría echarte una mano.」"
+
+msgid "Ryuuji「（I can't just say it's hard to be in that＿classroom......）」"
+msgstr "Ryuuji「（No puedo decir sin más que cuesta＿estar en ese salón......）」"
+
+msgid "Kitamura「Is that so? I just finished my duties as＿the God of Heartbreak. Which means I＿don't have anything I need help with......」"
+msgstr "Kitamura「¿Ah, sí? Acabo de terminar mis labores＿de Dios del Desamor. Así que no necesito＿ayuda con nada......」"
+
+msgid "Ryuuji「Oh, I see. In that case, I'd just get in the＿way by staying here.」"
+msgstr "Ryuuji「Ah, ya veo. En ese caso, solo＿estorbaría si me quedo aquí.」"
+
+msgid "Ryuuji「Okay, I'll take you up on that.」"
+msgstr "Ryuuji「Está bien, te tomo la palabra.」"
+
+msgid "Kitamura「Great. Take a seat wherever you like.」"
+msgstr "Kitamura「Genial. Toma asiento donde gustes.」"
+
+msgid "Ryuuji「Must be rough, having to play the God＿of Heartbreak so soon into the new＿semester.」"
+msgstr "Ryuuji「Debe ser duro hacer de Dios＿del Desamor tan pronto al empezar＿el nuevo semestre.」"
+
+msgid "Kitamura「It's really not. After all, love takes no＿vacations.」"
+msgstr "Kitamura「Para nada. Después de todo, el＿amor no se toma vacaciones.」"
+
+msgid "Ryuuji「I suppose not......」"
+msgstr "Ryuuji「Supongo que no......」"
+
+msgid "Ryuuji「Kitamura...... Isn't it painful being the＿God of Heartbreak?」"
+msgstr "Ryuuji「Kitamura...... ¿No es doloroso＿ser el Dios del Desamor?」"
+
+msgid "Kitamura「Painful?」"
+msgstr "Kitamura「¿Doloroso?」"
+
+msgid "Kitamura「............」"
+msgstr "Kitamura「............」"
+
+msgid "Ryuuji「Oh, sorry! That was kinda rude of me!」"
+msgstr "Ryuuji「¡Ah, perdón! ¡Eso fue algo＿grosero de mi parte!」"
+
+msgid "Kitamura「......Takasu, did something happen?」"
+msgstr "Kitamura「......Takasu, ¿pasó algo?」"
+
+msgid "Ryuuji「N-Not really, no!」"
+msgstr "Ryuuji「¡N-No, en realidad no!」"
+
+msgid "Kitamura「Really? Okay then......」"
+msgstr "Kitamura「¿En serio? Bueno entonces......」"
+
+msgid "Kitamura「Among them, it's true that some have＿more complicated love lives.」"
+msgstr "Kitamura「Entre ellos, es verdad que algunos＿tienen amores más complicados.」"
+
+msgid "Ryuuji「......」"
+msgstr "Ryuuji「......」"
+
+msgid "Kitamura「However, I can't tell them to give up on＿their love.」"
+msgstr "Kitamura「Sin embargo, no puedo decirles＿que renuncien a su amor.」"
+
+msgid "Ryuuji「......You can't?」"
+msgstr "Ryuuji「......¿No puedes?」"
+
+msgid "Kitamura「The outcome of a confession is＿important, but the process of falling in＿love itself is precious, I think.」"
+msgstr "Kitamura「El resultado de una confesión es＿importante, pero el proceso mismo de＿enamorarse es valioso, creo yo.」"
+
+msgid "Kitamura「......Well, in my case, I deeply regret＿Aisaka getting herself suspended in＿my honor.」"
+msgstr "Kitamura「......Bueno, en mi caso, lamento＿mucho que suspendieran a Aisaka＿por defender mi honor.」"
+
+msgid "Ryuuji「Oh yeah...... Taiga did that of her own＿free will, so I don't think you need＿concern yourself about that.」"
+msgstr "Ryuuji「Ah, sí...... Taiga lo hizo por voluntad＿propia, así que no creo que debas＿preocuparte por eso.」"
+
+msgid "Kitamura「Still, Aisaka is a good person. It's＿thanks to her that I became the＿student council president I am today!!」"
+msgstr "Kitamura「Aun así, Aisaka es buena persona.＿¡Gracias a ella me convertí en el＿presidente estudiantil que soy hoy!!」"
+
+msgid "Kitamura「As thanks for her sacrifice, I'll give my＿all as student council president!!」"
+msgstr "Kitamura「En gratitud por su sacrificio,＿¡¡daré todo de mí como presidente＿estudiantil!!」"
+
+msgid "Kitamura「Oh, that's right. I'm supposed to have a＿consultation in the music room!!」"
+msgstr "Kitamura「Ah, es cierto. ¡¡Se supone que tengo una＿consulta en el salón de música!!」"
+
+msgid "Ryuuji「Oh, sorry for holding you up.」"
+msgstr "Ryuuji「Ah, perdón por entretenerte.」"
+
+msgid "Kitamura「Don't sweat it. Well then, the God of＿Heartbreak must take his leave!!」"
+msgstr "Kitamura「No te preocupes. Bueno entonces, ¡¡el＿Dios del Desamor debe retirarse!!」"
+
+msgid "Ryuuji「Oh, okay.」"
+msgstr "Ryuuji「Ah, está bien.」"
+
+msgid "Ryuuji「Oh Kitamura. For a student council＿president, you work the hardest as the＿God of Heartbreak, don't you......?」"
+msgstr "Ryuuji「Ay, Kitamura. Para ser presidente＿estudiantil, en lo que más trabajas es＿como Dios del Desamor, ¿no......?」"
+
+msgid "Ryuuji「（But based on what Kitamura just said,＿he and Taiga might work out even＿better than expected.）」"
+msgstr "Ryuuji「（Pero según lo que acaba de decir＿Kitamura, él y Taiga podrían funcionar＿aún mejor de lo esperado.）」"
+
+msgid "Ryuuji「..................」"
+msgstr "Ryuuji「..................」"
+
+msgid "Ryuuji「\"The process of falling in love itself is＿precious\"......?」"
+msgstr "Ryuuji「¿\"El proceso mismo de enamorarse＿es valioso\"......?」"
+
+msgid "Kitamura「Not at all. This term I aim for everyone＿to get on familiar terms with the＿student council. By all means, take a」"
+msgstr "Kitamura「Para nada. Este trimestre busco que＿todos se familiaricen con el consejo＿estudiantil. ¡Por supuesto, tómate un」"
+
+msgid "Kitamura「break here!」"
+msgstr "Kitamura「descanso aquí!」"
+
+msgid "Ryuuji「Yeah. Out of everyone who comes to＿you for advice, it's not like it'll work out＿for all of 'em, right? Isn't it painful to」"
+msgstr "Ryuuji「Sí. De todos los que te piden consejo,＿no a todos les va a salir bien, ¿verdad?＿¿No es doloroso」"
+
+msgid "Ryuuji「listen to them?」"
+msgstr "Ryuuji「escucharlos?」"
+
+msgid "Kitamura「......Going back to the main topic, most＿of the people who come to talk to me＿want encouragement of some kind. But」"
+msgstr "Kitamura「......Volviendo al tema, la mayoría＿de quienes vienen a hablar conmigo＿quieren algo de ánimo. Pero」"
+
+msgid "Kitamura「some of them give me the details on＿their situations and ask for advice.」"
+msgstr "Kitamura「algunos me cuentan los detalles de＿su situación y me piden consejo.」"
+
+msgid "Kitamura「Even I have...... an impossible crush,＿you know. I understand how they feel.＿That's why, rather than forcing them」"
+msgstr "Kitamura「Incluso yo tengo...... un amor＿imposible, ¿sabes? Entiendo cómo se＿sienten. Por eso, en vez de forzarlos」"
+
+msgid "Kitamura「to give up, I want them to hold on to＿their feelings.」"
+msgstr "Kitamura「a rendirse, quiero que atesoren＿sus sentimientos.」"

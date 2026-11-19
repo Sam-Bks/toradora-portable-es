@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+
+msgid "Haruta「We're heeere～!」"
+msgstr "Haruta「¡Llegaaamos～!」"
+
+msgid "Kitamura「It's as crowded as I would expect on＿New Year's Day.」"
+msgstr "Kitamura「Está tan lleno como esperaba＿en el día de Año Nuevo.」"
+
+msgid "Noto「Hey, look at that girl in the fancy＿kimono. Isn't she cute?」"
+msgstr "Noto「Oye, mira a esa chica del kimono＿elegante. ¿No es linda?」"
+
+msgid "Ryuuji「The one in the pink? She's definitely＿out of my league.」"
+msgstr "Ryuuji「¿La de rosa? Definitivamente＿está fuera de mi alcance.」"
+
+msgid "Kitamura「Oho, so that's your type.」"
+msgstr "Kitamura「Vaya, así que ese es tu tipo.」"
+
+msgid "Noto「What, isn't she your type too?」"
+msgstr "Noto「¿Qué, no es tu tipo también?」"
+
+msgid "Kitamura「Well, I do think she's cute.」"
+msgstr "Kitamura「Bueno, sí me parece linda.」"
+
+msgid "Haruta「Kimonos are nice and all～ but isn't＿that shrine maiden cosplayer pretty＿good too?」"
+msgstr "Haruta「Los kimonos están bien y todo～ ¿pero＿esa cosplayer de sacerdotisa no＿está nada mal tampoco?」"
+
+msgid "Ryuuji「\"Cosplayer\"? That's an actual shrine＿maiden.」"
+msgstr "Ryuuji「¿\"Cosplayer\"? Esa es una＿sacerdotisa de verdad.」"
+
+msgid "Haruta「You serious? I could go for a shrine＿maiden～ She's got this \"prim and＿proper\" thing going on～」"
+msgstr "Haruta「¿En serio? A mí sí me gustaría una＿sacerdotisa～ Tiene ese aire de chica＿\"recatada y formal\"～」"
+
+msgid "Kitamura「Yeah, I think I know what you mean.」"
+msgstr "Kitamura「Sí, creo que sé a qué te refieres.」"
+
+msgid "Noto「I've decided if I get a girlfriend, I'm＿gonna have her wear a shrine maiden＿costume!」"
+msgstr "Noto「¡Decidido! Si consigo novia, ¡haré＿que use un traje de sacerdotisa!」"
+
+msgid "Haruta「I'd prefer a maid costume. Or, instead＿of our blazer-style school uniform, a＿sailor uniform would work too～」"
+msgstr "Haruta「Yo prefiero un traje de sirvienta. O, en＿vez de nuestro uniforme tipo blazer, un＿uniforme de marinero también sirve～」"
+
+msgid "Noto「Oh man, sailor uniforms! Am I the only＿one that finds them strangely sexy?」"
+msgstr "Noto「¡Los uniformes de marinero! ¿Solo a＿mí me parecen extrañamente sexis?」"
+
+msgid "Ryuuji「That's not a good fetish for a high＿school student to have.」"
+msgstr "Ryuuji「Ese no es un buen fetiche para un＿estudiante de preparatoria.」"
+
+msgid "Kitamura「Sorry to kill the mood, but shouldn't we＿should get in line for the prayer＿ceremony?」"
+msgstr "Kitamura「Perdón por arruinar el momento,＿pero ¿no deberíamos hacer fila para＿la ceremonia de oración?」"
+
+msgid "Noto「Whoops. Totally forgot why we came＿here.」"
+msgstr "Noto「Ups. Olvidé por completo＿a qué vinimos aquí.」"
+
+msgid "Haruta「Shall we get goin' then?」"
+msgstr "Haruta「¿Vamos entonces?」"
+
+msgid "Haruta「Hey, hey. Have you guys decided what＿to wish for?」"
+msgstr "Haruta「Oigan, oigan. ¿Ya decidieron＿qué van a pedir?」"
+
+msgid "Kitamura「Well......」"
+msgstr "Kitamura「Bueno......」"
+
+msgid "Noto「I think we know what's best right now.」"
+msgstr "Noto「Ya sabemos qué es lo mejor ahora.」"
+
+msgid "Ryuuji「（Oh, they're looking at me...... Kitamura,＿Noto, thanks for praying for my＿sake......）」"
+msgstr "Ryuuji「（Oh, me están mirando...... Kitamura,＿Noto, gracias por rezar por mí......）」"
+
+msgid "Haruta「You got a point～ We all know we'll be＿wishing for that～」"
+msgstr "Haruta「Tienes razón～ Todos sabemos＿que vamos a pedir eso～」"
+
+msgid "Ryuuji「（......What does he mean by \"that\"?）」"
+msgstr "Ryuuji「（......¿Qué quiere decir con \"eso\"?）」"
+
+msgid "Kitamura「Come on, it's our turn.」"
+msgstr "Kitamura「Vamos, es nuestro turno.」"
+
+msgid "Haruta「Alriiiight～! Let's do this～!」"
+msgstr "Haruta「¡Muy bieeen～! ¡Hagámoslo～!」"
+
+msgid "Ryuuji「（Err, thank you very much for last＿night. I'm really sorry, but please do＿something about my amnesia this time.）」"
+msgstr "Ryuuji「（Eh, muchas gracias por lo de anoche.＿Lo siento mucho, pero por favor haz＿algo con mi amnesia esta vez.）」"
+
+msgid "Ryuuji「（Oh, and as for the mold...... No, never＿mind that. Just the memories! I wish＿for them to return soon!）」"
+msgstr "Ryuuji「（Ah, y en cuanto al moho...... No,＿no importa eso. ¡Solo los recuerdos!＿¡Deseo que vuelvan pronto!）」"
+
+msgid "Ryuuji「（Please let my memories return, God. I＿humbly beg of you.）」"
+msgstr "Ryuuji「（Por favor, Dios, devuélveme mis＿recuerdos. Te lo suplico humildemente.）」"
+
+msgid "Ryuuji「......What did you wish for, Haruta?」"
+msgstr "Ryuuji「......¿Qué pediste, Haruta?」"
+
+msgid "Haruta「What? I wished the same thing as＿everyone else, Taka-channn. \"May we＿be friends 4 EVA!\"」"
+msgstr "Haruta「¿Qué? Pedí lo mismo que todos＿los demás, Taka-channn. \"¡Que＿seamos amigos X SIEMPRE!\"」"
+
+msgid "Noto「Seriously?」"
+msgstr "Noto「¿En serio?」"
+
+msgid "Kitamura「Yep, that's our Haruta.」"
+msgstr "Kitamura「Sí, ese es nuestro Haruta.」"
+
+msgid "Haruta「What? What what? Was I wrooong～?」"
+msgstr "Haruta「¿Qué? ¿Qué, qué? ¿Me equivoquééé～?」"
+
+msgid "Ryuuji「Sorry, but unfortunately, I wished for＿something a little more important.」"
+msgstr "Ryuuji「Lo siento, pero por desgracia, pedí＿algo un poco más importante.」"
+
+msgid "Kitamura「Ditto.」"
+msgstr "Kitamura「Lo mismo.」"
+
+msgid "Noto「Me too.」"
+msgstr "Noto「Yo también.」"
+
+msgid "Haruta「WHAAAT!? Why am I the odd one＿out～?!」"
+msgstr "Haruta「¡¿QUÉEE?! ¡¿Por qué soy＿el único diferente～?!」"
+
+msgid "Kitamura「Nonsense. I'm touched by your＿dedication to our friendship.」"
+msgstr "Kitamura「Tonterías. Me conmueve tu dedicación＿a nuestra amistad.」"
+
+msgid "Haruta「Really～? Then it's all good, yo～」"
+msgstr "Haruta「¿De verdad～? ¡Entonces todo bien～!」"
+
+msgid "Noto「Then wanna go reaffirm our bonds and＿hang out somewhere?」"
+msgstr "Noto「¿Entonces quieren ir a reafirmar＿nuestros lazos y pasar el rato por ahí?」"
+
+msgid "Haruta「Agreeeed～! It's our first kickback of＿the year～!」"
+msgstr "Haruta「¡De acueeerdo～! ¡Es nuestra＿primera salida del año～!」"
+
+msgid "Kitamura「Mmhmm.」"
+msgstr "Kitamura「Ajá.」"
+
+msgid "Ryuuji「Oh, okay.」"
+msgstr "Ryuuji「Ah, está bien.」"

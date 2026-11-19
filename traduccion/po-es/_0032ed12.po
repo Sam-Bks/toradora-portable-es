@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+
+msgid "Ami「Awww...... I wish I could ride this ferris＿wheel with you forever, Ryuuji.」"
+msgstr "Ami「Ayyy...... Ojalá pudiera estar en esta＿rueda contigo para siempre, Ryuuji.」"
+
+msgid "Ryuuji「Don't say things you don't really mean.」"
+msgstr "Ryuuji「No digas cosas que no sientes de verdad.」"
+
+msgid "Ami「You're horrible! I really did mean that.＿If we stay here, we can be together for＿eternity, you know.」"
+msgstr "Ami「¡Qué cruel eres! Lo decía en serio. Si＿nos quedamos aquí, podremos estar juntos＿por toda la eternidad, ¿sabes?」"
+
+msgid "Ryuuji「It would get boring after a few hours.」"
+msgstr "Ryuuji「Tras unas horas sería aburrido.」"
+
+msgid "Ami「Don't worry, I'd keep you entertained,＿Ryuuji.」"
+msgstr "Ami「No te preocupes, yo te mantendría＿entretenido, Ryuuji.」"
+
+msgid "Ryuuji「I didn't mean me. You'd get bored,＿wouldn't you?」"
+msgstr "Ryuuji「No hablaba de mí. Tú te aburrirías,＿¿no es así?」"
+
+msgid "Ami「I definitely wouldn't get bored. Just＿looking at your face make me happy,＿Ryuuji.」"
+msgstr "Ami「Seguro que no me aburriría.＿Con solo mirar tu cara ya me＿pongo feliz, Ryuuji.」"
+
+msgid "Ami「Fufu, until we have to get off, I'll keep＿staaaring at your face, Ryuuji～①」"
+msgstr "Ami「Juju, hasta que tengamos que bajar, me＿quedaré mirááándote la cara, Ryuuji～①」"
+
+msgid "Ryuuji「S-Stop it. No matter what you say, I'd＿feel awkward being stared at!」"
+msgstr "Ryuuji「P-Para ya. ¡Digas lo que digas,＿me incomoda que me miren fijo!」"
+
+msgid "Ami「It's fine ① This is just, like, how we are＿together.」"
+msgstr "Ami「Está bien ① O sea, así somos＿cuando estamos juntos.」"
+
+msgid "Ryuuji「......You're a strange girl, Kawashima.」"
+msgstr "Ryuuji「......Eres una chica rara, Kawashima.」"
+
+msgid "Ami「Grrr～ Didn't I tell you to call me＿Ami-chan～?」"
+msgstr "Ami「Grrr～ ¿No te dije que me＿llamaras Ami-chan～?」"
+
+msgid "Ryuuji「Oh, that's true...... err, Ami-chan.」"
+msgstr "Ryuuji「Ah, es cierto...... eh, Ami-chan.」"
+
+msgid "Ami「Fufu, now then, I'll observe you＿carefully①」"
+msgstr "Ami「Juju, entonces, te observaré＿con mucha atención①」"

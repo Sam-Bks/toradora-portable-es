@@ -1,0 +1,302 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「After that, I didn't show my face to＿anyone......」"
+msgstr "Ryuuji「Después de eso, no me dejé＿ver por nadie......」"
+
+msgid "Ryuuji「......Hey, Inko-chan, do I really have to＿go to school?」"
+msgstr "Ryuuji「......Oye, Inko-chan, ¿de verdad＿tengo que ir a la escuela?」"
+
+msgid "Inko-chan「SCHOO...... SCUBA?」"
+msgstr "Inko-chan「¿ESCUE...... ESCUELA DE BUCEO?」"
+
+msgid "Ryuuji「No, not scuba...... *Sigh*～ I feel like＿crap.」"
+msgstr "Ryuuji「No, de buceo no...... *Suspiro*～＿Me siento fatal.」"
+
+msgid "Yasuko「Huhhh～? Why's Ryuu-chan in＿uniformmm～?」"
+msgstr "Yasuko「¿Ehhh～? ¿Por qué Ryuu-chan＿lleva el uniformeee～?」"
+
+msgid "Ryuuji「What, you're already awake? I told you＿last night that school starts today.」"
+msgstr "Ryuuji「¿Qué, ya despertaste? Anoche te dije＿que hoy empiezan las clases.」"
+
+msgid "Yasuko「Oh reallyyy...... *Yawn*～......」"
+msgstr "Yasuko「Ah, ¿en seriooo......? *Bostezo*～......」"
+
+msgid "Ryuuji「I prepared food for you, like always......＿Oh, I'm out of time. I'm heading out.」"
+msgstr "Ryuuji「Te dejé comida, como siempre......＿Ah, ya se me hace tarde. Me voy.」"
+
+msgid "Yasuko「Okaaay～ Have a good dayyy.」"
+msgstr "Yasuko「Está bieeen～ Que te vaya bieeen.」"
+
+msgid "Ryuuji「......\"Not showing my face to anyone\"＿meant Kushieda (of course), Kitamura＿and the guys, and also Taiga as well.」"
+msgstr "Ryuuji「......\"No me dejé ver por nadie\":＿Kushieda (claro), Kitamura y los＿demás, y también Taiga.」"
+
+msgid "Ryuuji「No matter what I did, I couldn't think of＿what I should say to anyone.」"
+msgstr "Ryuuji「Hiciera lo que hiciera, no se me＿ocurría qué decirle a nadie.」"
+
+msgid "Ryuuji「Yesterday, I got a single email from＿Taiga.」"
+msgstr "Ryuuji「Ayer recibí un solo correo de Taiga.」"
+
+msgid "Ryuuji「Then technically I did speak to＿someone once yesterday...... If you can＿call it that, then yeah.」"
+msgstr "Ryuuji「Técnicamente, ayer sí hablé con＿alguien una vez...... Si se le＿puede llamar así, sí.」"
+
+msgid "Ryuuji「She'd bluntly written \"Starting＿tomorrow, don't come get me in the＿morning.\"」"
+msgstr "Ryuuji「Escribió sin rodeos: \"Desde mañana, no＿vengas a buscarme por la mañana\".」"
+
+msgid "Ryuuji「Here I am...... *Sigh*～」"
+msgstr "Ryuuji「Ya llegué...... *Suspiro*～」"
+
+msgid "Minori「Just then, I saw it!!」"
+msgstr "Minori「¡¡Entonces, lo vi!!」"
+
+msgid "Both「......!」"
+msgstr "Ambos「......!」"
+
+msgid "Minori「......It was a mountain of untouched＿winter break homework!!」"
+msgstr "Minori「......¡¡Era una montaña de tareas de＿vacaciones de invierno sin hacer!!」"
+
+msgid "Haruta「NOOOOOOOOOOOOOOO!!」"
+msgstr "Haruta「¡¡NOOOOOOOOOOOOOOO!!」"
+
+msgid "Taiga「STOOOP!」"
+msgstr "Taiga「¡PARAAA!」"
+
+msgid "Noto「Hey Takasu......」"
+msgstr "Noto「Oye, Takasu......」"
+
+msgid "Noto「You know, doesn't it feel a little too＿\"status quo\" up in here?」"
+msgstr "Noto「Oye, ¿no sientes que aquí todo＿sigue \"igual que siempre\"?」"
+
+msgid "Ryuuji「You think so?」"
+msgstr "Ryuuji「¿Tú crees?」"
+
+msgid "Ryuuji「What do you expect? Of course I＿finished my homework.」"
+msgstr "Ryuuji「¿Qué esperabas? Claro que＿terminé mi tarea.」"
+
+msgid "Ryuuji「......No, frankly, things are a little＿different for me.」"
+msgstr "Ryuuji「......No, la verdad, para mí las＿cosas son algo distintas.」"
+
+msgid "Noto「Hmmm, so that means they're the ones＿maintaining the 'quo.」"
+msgstr "Noto「Hmmm, entonces ellos son＿los que siguen igual.」"
+
+msgid "Ryuuji「Yeah.」"
+msgstr "Ryuuji「Sí.」"
+
+msgid "Noto「So you see, I think we definitely need＿some change up in here, man.」"
+msgstr "Noto「Por eso creo que aquí necesitamos＿un cambio, amigo.」"
+
+msgid "Ryuuji「Nah, I don't want you to do anything＿right now.」"
+msgstr "Ryuuji「No, no quiero que hagas nada por ahora.」"
+
+msgid "Noto「No no no, you're forgetting a critical＿event, Takasu.」"
+msgstr "Noto「No, no, no, olvidas un evento＿crucial, Takasu.」"
+
+msgid "Ryuuji「What?」"
+msgstr "Ryuuji「¿Qué?」"
+
+msgid "Noto「......Are you playing dumb? The biggest＿event we've seen, of course.」"
+msgstr "Noto「......¿Te haces el tonto? El evento más＿grande que hemos tenido, claro.」"
+
+msgid "Haruta「The! School! Trip! In! O-KI-NA-WA!」"
+msgstr "Haruta「¡El! ¡Viaje! ¡Escolar! ¡A! ¡O-KI-NA-WA!」"
+
+msgid "Ryuuji「Oh, it's that time already?」"
+msgstr "Ryuuji「Ah, ¿ya es hora?」"
+
+msgid "Noto「YES, OKINAWA!」"
+msgstr "Noto「¡SÍ, OKINAWA!」"
+
+msgid "Haruta「THAT'S OKINAWA!」"
+msgstr "Haruta「¡ASÍ ES, OKINAWA!」"
+
+msgid "Ryuuji「Of course, Okinawa! Crap, I'd totally＿forgotten about it.」"
+msgstr "Ryuuji「¡Claro, Okinawa! Rayos, lo había＿olvidado por completo.」"
+
+msgid "Haruta「What～? An effect of your amnesia,＿dude?」"
+msgstr "Haruta「¿Qué～? ¿Un efecto de tu amnesia, amigo?」"
+
+msgid "Ryuuji「No, it probably just slipped my mind,＿that's all.」"
+msgstr "Ryuuji「No, seguro se me pasó, nada más.」"
+
+msgid "Noto「What? Don't tell me you don't feel like＿going! Is that it?」"
+msgstr "Noto「¿Qué? ¡No me digas que no tienes＿ganas de ir! ¿Es eso?」"
+
+msgid "Ryuuji「Of course not.」"
+msgstr "Ryuuji「Claro que no.」"
+
+msgid "Haruta「What～? Then why don't you look＿happy?」"
+msgstr "Haruta「¿Qué～? ¿Entonces por qué＿no te ves feliz?」"
+
+msgid "Noto「Come on, that's enough cleaning for＿now.」"
+msgstr "Noto「Vamos, ya basta de limpiar por ahora.」"
+
+msgid "Haruta「Now then, c'mon, let's think about it～」"
+msgstr "Haruta「Bueno, vamos, pensemos en eso～」"
+
+msgid "Noto「Clear skies! Sunshine that never quits!＿The shining blue OCEAN!」"
+msgstr "Noto「¡Cielos despejados! ¡Sol sin fin!＿¡El MAR azul brillante!」"
+
+msgid "Haruta「Mongooses～! Sugarcane! Island＿pickles～!」"
+msgstr "Haruta「¡Mangostas～! ¡Caña de azúcar!＿¡Encurtidos isleños～!」"
+
+msgid "Ryuuji「......Oh, oh, ooh!」"
+msgstr "Ryuuji「......¡Ah, ah, ahh!」"
+
+msgid "Noto「Enveloped in the uninhibited＿atmosphere of traveling, her heart is＿sure to be open!」"
+msgstr "Noto「¡Con el ambiente relajado del viaje,＿seguro que ella abrirá su corazón!」"
+
+msgid "Haruta「Notocchi, I'm not sure about＿encouraging that～」"
+msgstr "Haruta「Notocchi, no sé si deberías＿fomentar eso～」"
+
+msgid "Noto「R-Really? Well anyway, it's gonna be＿awesome!」"
+msgstr "Noto「¿E-En serio? Bueno, ¡será genial!」"
+
+msgid "Ryuuji「......You're right, the school trip is the＿perfect chance!」"
+msgstr "Ryuuji「......¡Tienen razón, el viaje escolar＿es la oportunidad perfecta!」"
+
+msgid "Haruta「Ohh, good～! Okay, let's try this one＿more time～」"
+msgstr "Haruta「¡Ohh, qué bien～! Bueno, una vez más～」"
+
+msgid "Noto「Alright, here we go!」"
+msgstr "Noto「¡Bien, allá vamos!」"
+
+msgid "Noto「YES, OKINAWA!」"
+msgstr "Noto「¡SÍ, OKINAWA!」"
+
+msgid "Haruta「THAT'S OKINAWA!」"
+msgstr "Haruta「¡ASÍ ES, OKINAWA!」"
+
+msgid "Ryuuji「LET'S GO, OKINAWA!」"
+msgstr "Ryuuji「¡ALLÁ VAMOS, OKINAWA!」"
+
+msgid "Everyone「YAY～!」"
+msgstr "Todos「¡SÍÍÍ～!」"
+
+msgid "Ryuuji「My \"perfect chance\" was different from＿what they'd imagined, for sure.」"
+msgstr "Ryuuji「Seguro que mi \"oportunidad perfecta\"＿no era lo que ellos imaginaban.」"
+
+msgid "Ryuuji「When I'm there, I thought, surely I'll＿want to speak honestly from the heart.」"
+msgstr "Ryuuji「Pensé que, una vez allá, querría hablar＿con sinceridad, desde el corazón.」"
+
+msgid "Ryuuji「As for that special southern island＿destination, a faint hope burgeoned in＿me......」"
+msgstr "Ryuuji「Aquel destino tan especial,＿esa isla del sur, me dio una＿leve esperanza......」"
+
+msgid "Ryuuji「Until, with a bitter expression, our＿homeroom teacher brought it up.」"
+msgstr "Ryuuji「Hasta que nuestra profesora lo mencionó＿con una expresión amarga.」"
+
+msgid "Yuri「Hello. First of all, perhaps I should＿thank you for your hard work,＿Takasu-kun.」"
+msgstr "Yuri「Hola. Primero, quizá debería agradecerte＿tu esfuerzo, Takasu-kun.」"
+
+msgid "Yuri「Now that you got this ending, the＿reason I brought you here......」"
+msgstr "Yuri「Ahora que llegaste a este final, la＿razón por la que te traje aquí......」"
+
+msgid "Yuri「......is none other than to discuss the＿route you chose. I thought we could＿ponder it together.」"
+msgstr "Yuri「......es hablar de la ruta que＿elegiste. Pensé que podríamos＿reflexionar juntos.」"
+
+msgid "Yuri「Well then, let's evaluate the ending you＿just saw.」"
+msgstr "Yuri「Bien, evaluemos el final＿que acabas de ver.」"
+
+msgid "Yuri「Welcome, Takasu-kun.」"
+msgstr "Yuri「Bienvenido, Takasu-kun.」"
+
+msgid "Yuri「Well then, let's begin to evaluate the＿ending you just saw.」"
+msgstr "Yuri「Bien, empecemos a evaluar el＿final que acabas de ver.」"
+
+msgid "Yuri「Ah～... I see. It's the same as ever, not a＿care in the world...... Hmm.」"
+msgstr "Yuri「Ah～... Ya veo. Todo sigue igual,＿sin preocupaciones...... Hmm.」"
+
+msgid "Yuri「Well, this kind of unchanging, unending＿everyday life isn't too bad, you know.」"
+msgstr "Yuri「Bueno, esta vida cotidiana que＿nunca cambia ni termina no está＿tan mal, ¿sabes?」"
+
+msgid "Yuri「Maybe after this, we'll have ski class......＿What do you think?」"
+msgstr "Yuri「Tal vez luego tengamos clases de＿esquí...... ¿Qué te parece?」"
+
+msgid "Yuri「Now then. If I were to grade this＿ending, I guess I'd give it 65 points. I＿want you to try just a little bit harder.」"
+msgstr "Yuri「Si tuviera que calificar este final,＿le daría 65 puntos. Quiero que te＿esfuerces un poco más.」"
+
+msgid "Yuri「Okay, that's all for today. Until next＿time!」"
+msgstr "Yuri「Bien, eso es todo por hoy.＿¡Hasta la próxima!」"
+
+msgid "『Music』 is now available in 『Extra』"
+msgstr "『Música』 ya está disponible en 『Extras』"
+
+msgid "『Album』 is now available in 『Extra』"
+msgstr "『Álbum』 ya está disponible en 『Extras』"
+
+msgid "Ryuuji「Taiga's working hard towards＿becoming self-reliant, she didn't give＿out her contact info after getting mine,」"
+msgstr "Ryuuji「Taiga se esfuerza por ser independiente,＿no me dio sus datos de contacto tras＿obtener los míos,」"
+
+msgid "Ryuuji「she's busy right now, she's in the＿middle of something, all of that crap......」"
+msgstr "Ryuuji「está ocupada, está haciendo algo,＿y todas esas tonterías......」"
+
+msgid "Ryuuji「Once, while Yasuko and I were out of＿the house, we came back to find a＿paper bag on the threshold with my」"
+msgstr "Ryuuji「Una vez, Yasuko y yo salimos y, al＿volver, encontramos en la entrada＿una bolsa de papel con mi」"
+
+msgid "Ryuuji「scarf and a scribbled note inside.」"
+msgstr "Ryuuji「bufanda y una nota garabateada dentro.」"
+
+msgid "Ryuuji「Kitamura and the other guys＿sometimes called to ask me how I'm＿doing, but my mind was as cloudy as a」"
+msgstr "Ryuuji「Kitamura y los demás a veces llamaban＿a preguntar cómo estaba, pero mi mente＿estaba nublada como una」"
+
+msgid "Ryuuji「sandstorm. With no way to repay their＿concern, I ended up not doing anything＿at all.」"
+msgstr "Ryuuji「tormenta de arena. Sin poder＿corresponder a su preocupación,＿terminé sin hacer nada.」"
+
+msgid "Minori「......Suddenly, my ears caught the sound＿of the clock's second hand. I had gone＿to bed at 8:52 PM. You could say the」"
+msgstr "Minori「......De pronto, oí el segundero del＿reloj. Me había acostado a las 8:52＿p. m. Se podría decir que la」"
+
+msgid "Minori「night was still young. My family, of＿course, was still awake.」"
+msgstr "Minori「noche apenas empezaba. Mi familia,＿por supuesto, seguía despierta.」"
+
+msgid "Minori「But something was off. Something was＿looming. What was this pressure? My＿body was worn out from working, but」"
+msgstr "Minori「Pero algo iba mal. Algo se acercaba.＿¿Qué era esa presión? Mi cuerpo estaba＿agotado de trabajar, pero」"
+
+msgid "Minori「my mind was pulled back from the＿brink of slumber.」"
+msgstr "Minori「mi mente retrocedió desde＿el borde del sueño.」"
+
+msgid "Minori「A tingling apprehension spread＿throughout my body, and my flushed＿cheeks were drenched in an」"
+msgstr "Minori「Una inquietud punzante me recorrió＿el cuerpo y mis mejillas sonrojadas＿se empaparon de un」"
+
+msgid "Minori「unpleasant sweat. At last, with grim＿determination, I looked in that＿direction.」"
+msgstr "Minori「sudor desagradable. Al fin,＿con sombría determinación,＿miré en esa dirección.」"
+
+msgid "Noto「Kushieda's jokes are lame, Tiger's＿clingy as always, Haruta's a moron, and＿you're straining your ears while you」"
+msgstr "Noto「Las bromas de Kushieda son malas,＿Tigre sigue pegajosa, Haruta es un＿idiota y tú aguzas el oído mientras」"
+
+msgid "Noto「clean. Oh, and did you finish your＿homework?」"
+msgstr "Noto「limpias. Ah, ¿y terminaste tu tarea?」"
+
+msgid "Noto「I'm not expecting anything, man. I was＿all excited, wondering how this school＿year would be different. But you greet」"
+msgstr "Noto「No espero nada, amigo. Estaba＿emocionado, pensando qué cambiaría＿este año escolar. Pero saludas」"
+
+msgid "Noto「everyone the same as always.」"
+msgstr "Noto「a todos como siempre.」"
+
+msgid "Ryuuji「Back then, it wasn't \"her\" heart - but＿mine - that I wished to open. I was＿finally able to tell myself that I was」"
+msgstr "Ryuuji「En ese momento, no quería abrir el＿corazón de \"ella\", sino el mío. Al fin＿pude admitir que estaba」"
+
+msgid "Ryuuji「overthinking things.」"
+msgstr "Ryuuji「pensándolo demasiado.」"
+
+msgid "Ryuuji「Besides, despite my worry, Taiga and＿Kushieda were fine. They were past＿the stage in which I would need to」"
+msgstr "Ryuuji「Además, pese a mi preocupación, Taiga＿y Kushieda estaban bien. Ya habían＿superado la etapa en que debía」"
+
+msgid "Ryuuji「interfere. So there's no rush.」"
+msgstr "Ryuuji「intervenir. Así que no había prisa.」"
+
+msgid "Ryuuji「I imagined myself on the sandy shores＿of Okinawa, like in the ending of some＿movie, the beautiful beach stretching」"
+msgstr "Ryuuji「Me imaginé en la arena de Okinawa,＿como al final de una película, con＿la hermosa playa extendida」"
+
+msgid "Ryuuji「as far as the eye can see.」"
+msgstr "Ryuuji「hasta donde alcanza la vista.」"
+
+msgid "Ryuuji「I don't see Kitamura and Kawashima＿around, but I'm sure they'll get to＿school soon. Before long, the school」"
+msgstr "Ryuuji「No veo a Kitamura ni a Kawashima, pero＿seguro llegarán pronto a clases. En＿poco tiempo, en la escuela」"
+
+msgid "Ryuuji「bells will chime, and my mundane life＿will begin.」"
+msgstr "Ryuuji「sonarán las campanas y empezará＿mi vida cotidiana.」"
+
+msgid "Yuri「I'll come and see you every time you＿reach an ending.」"
+msgstr "Yuri「Vendré a verte cada vez que＿llegues a un final.」"
+
+msgid "Yuri「I want you to reflect on the actions you＿made this time and keep them in mind＿for next time.」"
+msgstr "Yuri「Quiero que reflexiones sobre lo＿que hiciste esta vez y lo tengas＿en cuenta para la próxima.」"

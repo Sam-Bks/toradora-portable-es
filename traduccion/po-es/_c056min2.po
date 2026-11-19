@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Toradora! Portable ES\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Scene: _c056min2\n"
+
+msgid "Ryuuji「*Gasp*...... Oh, that's right...... This has＿happened before......」"
+msgstr "Ryuuji「Ah...... Es cierto...... Esto ya había＿pasado antes......」"
+
+msgid "Minori「What are you talking about?」"
+msgstr "Minori「¿De qué estás hablando?」"
+
+msgid "Ryuuji「I had a big fight with you before, too. It＿was about Taiga's old man.」"
+msgstr "Ryuuji「También tuve una gran pelea contigo＿antes. Fue por el padre de Taiga.」"
+
+msgid "Minori「That's true. But does that have＿anything to do with the conversation＿right now?」"
+msgstr "Minori「Es cierto. ¿Pero eso tiene algo que＿ver con la conversación de ahora?」"
+
+msgid "Minori「So what?」"
+msgstr "Minori「¿Y qué?」"
+
+msgid "Ryuuji「So I believe you're still that same＿person, and I'm going to make you say＿what you need to!」"
+msgstr "Ryuuji「¡Así que creo que sigues siendo esa＿misma persona, y voy a hacer que＿digas lo que tienes que decir!」"
+
+msgid "Minori「Bring it on!」"
+msgstr "Minori「¡Inténtalo!」"
+
+msgid "Ryuuji「Yeah, of course it does. That was a＿godawful fight we had back then, but＿even still, I was able to make up with」"
+msgstr "Ryuuji「Sí, claro que sí. Aquella pelea que＿tuvimos fue espantosa, pero aun así＿logré reconciliarme」"
+
+msgid "Ryuuji「you. On the sports field after the＿Culture Festival, looking at that giant＿bonfire.」"
+msgstr "Ryuuji「contigo. En la cancha tras el＿Festival Cultural, mirando aquella＿enorme fogata.」"

@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+
+msgid "Inko-chan「RED」"
+msgstr "Inko-chan「ROJO」"
+
+msgid "Ryuuji「Oh?!」"
+msgstr "Ryuuji「¡¿Eh?!」"
+
+msgid "Inko-chan「CHALK」"
+msgstr "Inko-chan「TIZA」"
+
+msgid "Inko-chan「REDS」"
+msgstr "Inko-chan「ROJOS」"
+
+msgid "Ryuuji「......Inko-chan, are you interested in the＿annual Red and White Song Contest＿show?」"
+msgstr "Ryuuji「......Inko-chan, ¿te interesa＿el programa anual del Concurso＿de Canto Rojo y Blanco?」"
+
+msgid "Inko-chan「TALK」"
+msgstr "Inko-chan「HABLAR」"
+
+msgid "Inko-chan「LETS」"
+msgstr "Inko-chan「VAMOS A」"
+
+msgid "Inko-chan「TALK」"
+msgstr "Inko-chan「HABLAR」"
+
+msgid "Ryuuji「......What's that? I was wrong? Are you＿saying \"Let's talk\"?」"
+msgstr "Ryuuji「......¿Cómo? ¿Me equivoqué? ¿Estás＿diciendo \"Vamos a hablar\"?」"
+
+msgid "Ryuuji「（Sure...... It wouldn't be so bad to end＿the year talking to Inko-chan......）」"
+msgstr "Ryuuji「（Claro...... No estaría tan＿mal terminar el año hablando＿con Inko-chan......）」"
+
+msgid "Have a chat"
+msgstr "Charlar"
+
+msgid "Don't chat"
+msgstr "No charlar"
+
+msgid "Ryuuji「（No...... That's just a little too pathetic,＿even for me......）」"
+msgstr "Ryuuji「（No...... Eso ya es demasiado patético,＿incluso para mí......）」"
+
+msgid "Ryuuji「（It would be better to just go to bed......）」"
+msgstr "Ryuuji「（Mejor irme a dormir......）」"

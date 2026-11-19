@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+
+msgid "Noto「YO!」"
+msgstr "Noto「¡EY!」"
+
+msgid "Ryuuji「Oh, it's Noto......」"
+msgstr "Ryuuji「Ah, es Noto......」"
+
+msgid "Noto「What a coincidence. What are you up＿to?」"
+msgstr "Noto「Qué coincidencia. ¿Qué andas haciendo?」"
+
+msgid "Ryuuji「Looking for my memories, but I don't＿think I'll find any clues here, so now I＿think I'll just hang out.」"
+msgstr "Ryuuji「Buscando mis recuerdos, pero no creo＿que encuentre pistas aquí, así que＿ahora solo pasaré el rato.」"
+
+msgid "Noto「So in other words, your memories are＿still......」"
+msgstr "Noto「Así que, en otras palabras,＿tus recuerdos siguen......」"
+
+msgid "Ryuuji「Completely gone, yeah.」"
+msgstr "Ryuuji「Borrados por completo, sí.」"
+
+msgid "Noto「I see...... Isn't there something I can do＿to help? Anything at all?」"
+msgstr "Noto「Ya veo...... ¿No hay algo que pueda＿hacer para ayudar? ¿Lo que sea?」"
+
+msgid "Noto「Impossible to predict, huh......」"
+msgstr "Noto「Imposible de predecir, ¿eh......?」"
+
+msgid "Noto「Oh......」"
+msgstr "Noto「Ah......」"
+
+msgid "???「Oh, it's Takasu!」"
+msgstr "???「¡Ah, si es Takasu!」"
+
+msgid "Ryuuji「（Hm? I met this guy earlier......）」"
+msgstr "Ryuuji「（¿Mm? A este chico lo vi antes......）」"
+
+msgid "Ryuuji「（He's...... uh, err...... I can't remember his＿name!）」"
+msgstr "Ryuuji「（Él es...... eh, ehm......＿¡No recuerdo su nombre!）」"
+
+msgid "Ryuuji「（I remember the other guy was Haruta,＿but......）」"
+msgstr "Ryuuji「（Recuerdo que el otro chico＿era Haruta, pero......）」"
+
+msgid "???「What are you furrowing your brow＿about?」"
+msgstr "???「¿Por qué estás frunciendo el ceño?」"
+
+msgid "Ryuuji「Oh...... Nothing much......」"
+msgstr "Ryuuji「Ah...... Nada en especial......」"
+
+msgid "Ryuuji「（I seem to recall...... It's like \"No\" is stuck＿to his head......）」"
+msgstr "Ryuuji「（Creo recordar...... Como que tiene＿un \"No\" pegado en la cabeza......）」"
+
+msgid "Ryuuji「（Noguchi...... That's not it. Nozawa...... no.＿Nose......）」"
+msgstr "Ryuuji「（Noguchi...... Ese no es. Nozawa......＿no. Nose......）」"
+
+msgid "Ryuuji「（Maybe it was Nose...... I get the feeling＿that his surname was short.）」"
+msgstr "Ryuuji「（Quizá era Nose...... Creo que＿su apellido era corto.）」"
+
+msgid "Ryuuji「W-What are you doing here...... Nose?」"
+msgstr "Ryuuji「¿Q-Qué haces aquí...... Nose?」"
+
+msgid "???「Hm? Nose?」"
+msgstr "???「¿Mm? ¿Nose?」"
+
+msgid "Ryuuji「（Shit...... It wasn't Nose!）」"
+msgstr "Ryuuji「（Mierda...... ¡No era Nose!）」"
+
+msgid "Ryuuji「N-No, it's nothing.」"
+msgstr "Ryuuji「N-No, no es nada.」"
+
+msgid "???「Takasu, what's wrong, man?」"
+msgstr "???「Takasu, ¿qué pasa, amigo?」"
+
+msgid "Ryuuji「Wrong?」"
+msgstr "Ryuuji「¿Qué pasa?」"
+
+msgid "???「I've been feeling some weird vibes＿from you since yesterday.」"
+msgstr "???「Desde ayer siento unas＿vibras raras contigo.」"
+
+msgid "Ryuuji「......」"
+msgstr "Ryuuji「......」"
+
+msgid "???「Fess up, did something happen? You＿can tell me, bro.」"
+msgstr "???「Confiesa, ¿pasó algo? Puedes＿decírmelo, amigo.」"
+
+msgid "Ryuuji「Believe it or not......」"
+msgstr "Ryuuji「Aunque no lo creas......」"
+
+msgid "???「......What? Is it pretty serious?」"
+msgstr "???「......¿Qué? ¿Es algo serio?」"
+
+msgid "Ryuuji「The truth is, I...... I have amnesia......」"
+msgstr "Ryuuji「La verdad...... yo tengo amnesia......」"
+
+msgid "???「......」"
+msgstr "???「......」"
+
+msgid "Ryuuji「Are you listening?」"
+msgstr "Ryuuji「¿Me estás escuchando?」"
+
+msgid "Ryuuji「No no, I'm being serious here.」"
+msgstr "Ryuuji「No, no, te lo digo en serio.」"
+
+msgid "???「......You're kidding, right?」"
+msgstr "???「......Estás bromeando, ¿verdad?」"
+
+msgid "Ryuuji「I'm not kidding. I'm serious! Super＿serious!」"
+msgstr "Ryuuji「No estoy bromeando. ¡Lo digo＿en serio! ¡Muy en serio!」"
+
+msgid "???「Seriously! Holy shit!」"
+msgstr "???「¡¿En serio?! ¡Mierda!」"
+
+msgid "Ryuuji「Exactly. It's actually a fairly＿complicated situation.」"
+msgstr "Ryuuji「Exacto. En realidad es una situación＿bastante complicada.」"
+
+msgid "???「Amnesia? What? Like, how bad is it?」"
+msgstr "???「¿Amnesia? ¿Qué? ¿Qué tan grave es?」"
+
+msgid "Ryuuji「I'm pretty much a blank slate.」"
+msgstr "Ryuuji「Tengo la mente prácticamente en blanco.」"
+
+msgid "Ryuuji「I know I'm a guy called Takasu Ryuuji, a＿first-rate house-husband who loves to＿clean.」"
+msgstr "Ryuuji「Sé que soy un chico llamado Takasu＿Ryuuji, un amo de casa de primera＿al que le encanta limpiar.」"
+
+msgid "???「Can't you remember me?」"
+msgstr "???「¿No te acuerdas de mí?」"
+
+msgid "Ryuuji「Sorry, no. Could you tell me your＿name?」"
+msgstr "Ryuuji「Lo siento, no. ¿Me podrías＿decir tu nombre?」"
+
+msgid "Noto「Noto Hisamitsu. As in the Noto＿Peninsula...... Oh, do you know the Noto＿Peninsula?」"
+msgstr "Noto「Noto Hisamitsu. Como la península＿de Noto...... Ah, ¿conoces la＿península de Noto?」"
+
+msgid "Ryuuji「Yeah, I do. I see, so you're Noto......」"
+msgstr "Ryuuji「Sí, la conozco. Así que eres Noto......」"
+
+msgid "Ryuuji「You're my friend...... is that about the＿gist of it?」"
+msgstr "Ryuuji「Eres mi amigo...... ¿ese＿sería el resumen?」"
+
+msgid "Noto「Well, we've been classmates since our＿first year...... But that aside, amnesia＿sounds like quite a pickle......」"
+msgstr "Noto「Bueno, somos compañeros desde primer＿año...... Pero dejando eso de lado, la＿amnesia suena a todo un lío......」"
+
+msgid "Ryuuji「Yeah, no kidding...... But hey, I'm doing＿what I can in the meantime. It really is＿hard to predict these things.」"
+msgstr "Ryuuji「Sí, ni lo digas...... Pero bueno, hago＿lo que puedo mientras tanto. De verdad＿es difícil predecir estas cosas.」"
+
+msgid "Noto「Hard to predict......」"
+msgstr "Noto「Difícil de predecir......」"
+
+msgid "Noto「Oh, that reminds me......!」"
+msgstr "Noto「¡Ah, eso me recuerda......!」"
+
+msgid "Noto「Maybe this will help you remember?」"
+msgstr "Noto「¿Tal vez esto te ayude a recordar?」"
+
+msgid "Ryuuji「......Some kind of magazine?」"
+msgstr "Ryuuji「......¿Algún tipo de revista?」"
+
+msgid "Noto「It's not a magazine, it's a script.」"
+msgstr "Noto「No es una revista, es un guion.」"
+
+msgid "Ryuuji「For what?」"
+msgstr "Ryuuji「¿Para qué?」"
+
+msgid "Noto「For our class performance at the＿Culture Festival. We did a pro＿wrestling show. That's the script.」"
+msgstr "Noto「Para la obra de nuestra clase en el＿Festival Cultural. Hicimos un show de＿lucha libre. Ese es el guion.」"
+
+msgid "Ryuuji「A pro wrestling show for a Culture＿Festival...... Our class is kinda weird,＿huh?」"
+msgstr "Ryuuji「Un show de lucha libre para un＿Festival Cultural...... Nuestra＿clase es un poco rara, ¿no?」"
+
+msgid "Noto「Well, no one in our class actually＿wanted to, but for various reasons, we＿ended up doing it.」"
+msgstr "Noto「Bueno, en realidad nadie de nuestra＿clase quería, pero por varias razones,＿terminamos haciéndolo.」"
+
+msgid "Noto「But in the end, people were pretty into＿it.」"
+msgstr "Noto「Pero al final, la gente se＿entusiasmó bastante.」"
+
+msgid "Ryuuji「I see...... But why were you walking＿around with that script?」"
+msgstr "Ryuuji「Ya veo...... Pero ¿por qué＿andabas con ese guion?」"
+
+msgid "Noto「He gave the script back just now.＿Frankly, I wouldn't have minded if he＿never gave it back.」"
+msgstr "Noto「Me devolvió el guion hace un rato.＿Francamente, no me habría importado＿si no me lo devolviera nunca.」"
+
+msgid "Ryuuji「I see......」"
+msgstr "Ryuuji「Ya veo......」"
+
+msgid "Noto「So that's why I'm giving it to you,＿Takasu.」"
+msgstr "Noto「Así que por eso te lo doy a ti, Takasu.」"
+
+msgid "Ryuuji「......I'm not sure how this will help me,＿but I'll accept it.」"
+msgstr "Ryuuji「......No estoy seguro de cómo me＿ayudará esto, pero lo acepto.」"
+
+msgid "Noto「I pray for your memory's swift return.」"
+msgstr "Noto「Rezo por que tu memoria vuelva pronto.」"
+
+msgid "Ryuuji「Oh, thanks.」"
+msgstr "Ryuuji「Ah, gracias.」"
+
+msgid "Noto「Well, see ya.」"
+msgstr "Noto「Bueno, nos vemos.」"
+
+msgid "Ryuuji「Yeah, see ya.」"
+msgstr "Ryuuji「Sí, nos vemos.」"
+
+msgid "Ryuuji「Something you could do...... Even I'm＿not completely sure what will help＿trigger my memory.」"
+msgstr "Ryuuji「Algo que pudieras hacer...... Ni＿yo mismo estoy del todo seguro de＿qué activará mis recuerdos.」"
+
+msgid "Ryuuji「It's near-impossible to predict.」"
+msgstr "Ryuuji「Es casi imposible de predecir.」"
+
+msgid "???「......Oh, sorry. Is this...... the part where＿I'm supposed to laugh?」"
+msgstr "???「......Ah, perdón. ¿Esta...... es la＿parte donde se supone que debo reírme?」"
+
+msgid "???「You said it with such a straight face＿that I'm not sure how to react.」"
+msgstr "???「Lo dijiste con una cara tan seria＿que no sé bien cómo reaccionar.」"
+
+msgid "Noto「Well, one of the first-years I know saw＿the show and got really into it,＿apparently.」"
+msgstr "Noto「Bueno, uno de primero que conozco＿vio el show y le gustó muchísimo,＿al parecer.」"
+
+msgid "Noto「He was like, \"We wanna do something＿like that too! Please let us use your＿script as a reference!\"」"
+msgstr "Noto「Me dijo: \"¡Nosotros también queremos＿hacer algo así! ¡Por favor, déjanos＿usar su guion de referencia!\"」"

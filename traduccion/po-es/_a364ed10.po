@@ -1,0 +1,491 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「......Like I keep telling you, Inko-chan is＿a member of the family to me. I've＿raised it with love.」"
+msgstr "Ryuuji「......Como le sigo diciendo, Inko-chan＿es un miembro de la familia para mí.＿Lo he criado con amor.」"
+
+msgid "Yuri「You did say you love it.」"
+msgstr "Yuri「Dijiste que lo quieres.」"
+
+msgid "Yuri「But it seems it was much lonelier.」"
+msgstr "Yuri「Pero parece que estaba mucho más solo.」"
+
+msgid "Ryuuji「Inko-chan told you that?」"
+msgstr "Ryuuji「¿Inko-chan le dijo eso?」"
+
+msgid "Ryuuji「No no, please don't connect with it that＿easily.」"
+msgstr "Ryuuji「No, no, por favor no conecte＿con él tan fácilmente.」"
+
+msgid "Yuri「It said something like, it's been feeling＿disillusioned lately, and I've been＿thinking the same thing.」"
+msgstr "Yuri「Dijo algo como que últimamente＿se siente desilusionado, y yo he＿estado pensando lo mismo.」"
+
+msgid "Ryuuji「What are you saying? In my house, it's＿the one that stands out the most,＿though!」"
+msgstr "Ryuuji「¿Qué está diciendo? ¡Pero si en mi casa＿es quien más llama la atención!」"
+
+msgid "Yuri「That may be the case outwardly, but＿on the inside, that's not how it feels.＿I'm the same way......」"
+msgstr "Yuri「Puede que por fuera sea así,＿pero por dentro no es lo que＿siente. Yo soy igual......」"
+
+msgid "Ryuuji「（She has a comeback for everything......＿Argh, what the hell is going on......?）」"
+msgstr "Ryuuji「（Tiene respuesta para todo...... Argh,＿¿qué demonios está pasando......?）」"
+
+msgid "Yuri「......I'm always by myself, and no one's＿there for me when I go home.」"
+msgstr "Yuri「......Siempre estoy sola, y no hay nadie＿para mí cuando vuelvo a casa.」"
+
+msgid "Yuri「Do you understand how it feels to say＿\"I'm home\" to an empty room?」"
+msgstr "Yuri「¿Entiendes lo que se siente decir \"Ya＿llegué\" a una habitación vacía?」"
+
+msgid "Ryuuji「Whether I \"understand\" or not...... Can't＿you just buy your own pet?」"
+msgstr "Ryuuji「Lo \"entienda\" o no...... ¿No puede＿comprarse su propia mascota y ya?」"
+
+msgid "Yuri「I want this one! This one understands＿how I feel......」"
+msgstr "Yuri「¡Quiero a este! Este entiende＿cómo me siento......」"
+
+msgid "Ryuuji「But still, as I've told you over and over,＿Inko-chan is my family's Inko-chan......」"
+msgstr "Ryuuji「Aun así, como le he dicho una＿y otra vez, Inko-chan es el Inko-chan＿de mi familia......」"
+
+msgid "Yuri「......Then it occurred to me. Maybe this＿little one is what I've needed all along.」"
+msgstr "Yuri「......Entonces se me ocurrió.＿Quizá este pequeñín es lo que＿he necesitado siempre.」"
+
+msgid "Ryuuji「But......」"
+msgstr "Ryuuji「Pero......」"
+
+msgid "Ryuuji「No, I don't......」"
+msgstr "Ryuuji「No, no lo entiendo......」"
+
+msgid "Ryuuji「（Jesus, she's been talking for what＿feels like hours...... She's not going to＿compromise with me at all......）」"
+msgstr "Ryuuji「（Dios, lleva hablando lo que＿parecen horas...... No piensa＿ceder ni un poco......）」"
+
+msgid "Yasuko「Whaaat?」"
+msgstr "Yasuko「¿Quéee?」"
+
+msgid "Yasuko「It's Ryuu-chan and Sensei. Hellooo～」"
+msgstr "Yasuko「Son Ryuu-chan y Sensei. Holaaa～」"
+
+msgid "Yuri「Oh, hello.」"
+msgstr "Yuri「Ah, hola.」"
+
+msgid "Ryuuji「You know her, Yasuko?」"
+msgstr "Ryuuji「¿La conoces, Yasuko?」"
+
+msgid "Ryuuji「（\"Sensei\"...... It certainly sounds like＿she's calling her a schoolteacher......）」"
+msgstr "Ryuuji「（\"Sensei\"...... Sin duda suena a que la＿llama profesora de escuela......）」"
+
+msgid "Yasuko「She's your homeroom teacher,＿Ryuu-channn.」"
+msgstr "Yasuko「Es tu profesora titular, Ryuu-channn.」"
+
+msgid "Ryuuji「Homeroom!?」"
+msgstr "Ryuuji「¡¿Profesora titular?!」"
+
+msgid "Yuri「What's so surprising about that,＿Takasu-kun?」"
+msgstr "Yuri「¿Qué tiene eso de sorprendente,＿Takasu-kun?」"
+
+msgid "Ryuuji「Uh, sorry...... I'm kinda going through＿something right now......」"
+msgstr "Ryuuji「Eh, perdón...... Estoy pasando＿por algo ahora mismo......」"
+
+msgid "Yuri「Going through what?」"
+msgstr "Yuri「¿Pasando por qué?」"
+
+msgid "Ryuuji「Umm...... I'll tell you about it some other＿time. It's complicated.」"
+msgstr "Ryuuji「Ehm...... Se lo contaré en otra＿ocasión. Es complicado.」"
+
+msgid "Yasuko「Why are Sensei and Ryuu-chan＿hanging around hereee?」"
+msgstr "Yasuko「¿Qué hacen Sensei y Ryuu-chan＿pasando el rato por aquííí?」"
+
+msgid "Ryuuji「Well......」"
+msgstr "Ryuuji「Bueno......」"
+
+msgid "Yuri「I have a special favor to ask. Please let＿me take Inko-chan off your hands. I'll＿take good care of it!」"
+msgstr "Yuri「Tengo un favor especial que pedirle.＿Por favor, déjeme quedarme con＿Inko-chan. ¡Lo cuidaré muy bien!」"
+
+msgid "Yasuko「Inko-chan?」"
+msgstr "Yasuko「¿Inko-chan?」"
+
+msgid "Ryuuji「I've been telling her to forget about it＿this whole time, but she just won't give＿it back......」"
+msgstr "Ryuuji「Le llevo diciendo todo este rato＿que se olvide de eso, pero no me＿lo quiere devolver......」"
+
+msgid "Yasuko「What does Inko-chan thinkkk?」"
+msgstr "Yasuko「¿Qué opina Inko-channn?」"
+
+msgid "Inko-chan「............」"
+msgstr "Inko-chan「............」"
+
+msgid "Yuri「Oh my, what a cute sleeping face①」"
+msgstr "Yuri「Ay, qué carita tan linda al dormir①」"
+
+msgid "Ryuuji「It's totally playing possum......」"
+msgstr "Ryuuji「Se está haciendo el dormido......」"
+
+msgid "Yasuko「But to ask that of us...... Hmmm～ What＿to dooo.」"
+msgstr "Yasuko「Pero pedirnos eso......＿Mmmm～ Qué hacerrr.」"
+
+msgid "Yuri「I want to be with Inko-chan. Please!」"
+msgstr "Yuri「Quiero estar con Inko-chan. ¡Por favor!」"
+
+msgid "Yuri「T-That...... would be an honor, kinda,＿but civil servants can't take on＿part-time jobs.」"
+msgstr "Yuri「E-Eso...... sería un honor, o algo así,＿pero los funcionarios no pueden tener＿trabajos de medio tiempo.」"
+
+msgid "Yasuko「Huh～?」"
+msgstr "Yasuko「¿Ehh～?」"
+
+msgid "Ryuuji「（W-What the hell is she saying......?）」"
+msgstr "Ryuuji「（¿Q-Qué demonios está diciendo......?）」"
+
+msgid "Yuri「\"Stop by\"......? The bar is open to female＿customers?」"
+msgstr "Yuri「¿\"Pasar\"......? ¿El bar está abierto＿para clientas mujeres?」"
+
+msgid "Yasuko「Yup, it's totally okayyy～」"
+msgstr "Yasuko「Sip, está totalmente biennn～」"
+
+msgid "Yuri「Even in their thirties?」"
+msgstr "Yuri「¿Incluso de treinta y tantos años?」"
+
+msgid "Yasuko「You're very welcome thereee～」"
+msgstr "Yasuko「Eres muy bienvenida allááá～」"
+
+msgid "Yuri「T-Then I guess I'll impose...... I've always＿wanted to see what nightlife is like,＿just the once.」"
+msgstr "Yuri「E-Entonces supongo que aceptaré......＿Siempre quise ver cómo es la vida＿nocturna, aunque sea una vez.」"
+
+msgid "Yasuko「By all means～ Coming with us,＿Ryuu-chan～?」"
+msgstr "Yasuko「Por supuesto～ ¿Vienes con＿nosotras, Ryuu-chan～?」"
+
+msgid "Ryuuji「Oh yeah. I can't go home without＿Inko-chan.」"
+msgstr "Ryuuji「Pues claro. No puedo irme＿a casa sin Inko-chan.」"
+
+msgid "Yasuko「Now thennn, cheers to Ryuu-chan's＿teacher!」"
+msgstr "Yasuko「¡Ahoraaa, un brindis por la＿profesora de Ryuu-chan!」"
+
+msgid "Yuri「CHEERS!」"
+msgstr "Yuri「¡SALUD!」"
+
+msgid "Inko-chan「E...... EARS!」"
+msgstr "Inko-chan「¡A...... ALUD!」"
+
+msgid "Ryuuji「I only have oolong tea, but...... Cheers＿anyway......」"
+msgstr "Ryuuji「Yo solo tengo té oolong, pero......＿Salud de todos modos......」"
+
+msgid "Yuri「Ahhh yeah～～!」"
+msgstr "Yuri「¡Ahhh, sííí～～!」"
+
+msgid "Yasuko「Goodness～! Silly Sensei, you're quite＿the drinker～」"
+msgstr "Yasuko「¡Vaya～! Qué cosas, Sensei, sí＿que aguantas la bebida～」"
+
+msgid "Yuri「I can actually hold my liquor～ I drink＿at home after I get off work～」"
+msgstr "Yuri「La verdad aguanto bien el alcohol～ Tomo＿en casa al salir del trabajo～」"
+
+msgid "Yasuko「Then Sensei really should get a job＿here～ You'd be popular with the＿customerrrs. Right, Ryuu-chan?」"
+msgstr "Yasuko「Entonces Sensei debería trabajar＿aquí～ Sería muy popular con los＿clienteees. ¿Verdad, Ryuu-chan?」"
+
+msgid "Ryuuji「But part-time jobs are forbidden,＿right?」"
+msgstr "Ryuuji「Pero los trabajos extra＿están prohibidos, ¿no?」"
+
+msgid "Yasuko「You could go farrr～! Let's think of a＿stage name for you～」"
+msgstr "Yasuko「¡Llegarías lejooos～! Pensemos en＿un nombre artístico para ti～」"
+
+msgid "Yuri「What about Yuri's English equivalent -＿Lily?」"
+msgstr "Yuri「¿Qué tal el equivalente de＿Yuri en inglés: Lily?」"
+
+msgid "Ryuuji「Umm...... you guys?」"
+msgstr "Ryuuji「Ehm...... ¿oigan?」"
+
+msgid "Yasuko「Lily-chaaan...... Yup, that would be＿cuteee!」"
+msgstr "Yasuko「Lily-chaaan...... ¡Sip,＿eso sería muy lindooo!」"
+
+msgid "Yuri「Thank you for choosing meee. I'm＿Lily①」"
+msgstr "Yuri「Gracias por elegirmeee. Soy Lily①」"
+
+msgid "Yasuko「Not bad, Sensei～ You've taken to it＿alreadyyy～」"
+msgstr "Yasuko「Nada mal, Sensei～ Ya le＿tomaste el gustooo～」"
+
+msgid "Ryuuji「（It's no use...... They're not listening at＿all......）」"
+msgstr "Ryuuji「（Es inútil...... No me están＿escuchando para nada......）」"
+
+msgid "Yuri「Whaaat～!?」"
+msgstr "Yuri「¡¿Quéee～?!」"
+
+msgid "Yuri「Inko-chan soiled that designer suit?」"
+msgstr "Yuri「¿Inko-chan manchó ese traje de marca?」"
+
+msgid "Yasuko「Yup. But Yacchan likes Inko-channn＿and wasn't mad at alll～」"
+msgstr "Yasuko「Sip. Pero Yacchan quiere a Inko-channn＿y no se enojó para nadaaa～」"
+
+msgid "Yuri「Inko-chan really has grown up babied.」"
+msgstr "Yuri「Inko-chan sí que ha crecido muy mimado.」"
+
+msgid "Yasuko「Inko-chan is Yacchan's precious＿familyyy. It's not just a pettt.」"
+msgstr "Yasuko「Inko-chan es parte valiosa de＿la familiaaa de Yacchan. No＿es solo una mascotaaa.」"
+
+msgid "Yasuko「Yacchan and Ryuu-chan raised it from＿a hatchling, after all. So, not having＿Inko-chan around will be really saddd.」"
+msgstr "Yasuko「Al fin y al cabo, Yacchan y Ryuu-chan lo＿criaron desde polluelo. Así que no tener＿a Inko-chan sería muy tristeee.」"
+
+msgid "Yuri「......」"
+msgstr "Yuri「......」"
+
+msgid "Yuri「I understand. You can have Inko-chan＿back.」"
+msgstr "Yuri「Entiendo. Pueden llevarse＿a Inko-chan de vuelta.」"
+
+msgid "Ryuuji「You finally understand!」"
+msgstr "Ryuuji「¡Por fin lo entiende!」"
+
+msgid "Yuri「Yeah...... Inko-chan was yours first,＿after all. I'm sorry for the selfish things＿I said.」"
+msgstr "Yuri「Sí...... Al fin y al cabo, Inko-chan＿fue de ustedes primero. Perdón por＿las cosas egoístas que dije.」"
+
+msgid "Yasuko「Inko-chaaan～ Let's stay together'n.」"
+msgstr "Yasuko「Inko-chaaan～ Sigamos juntitos.」"
+
+msgid "Inko-chan「ST...... STAY!」"
+msgstr "Inko-chan「¡S...... SIGAMOS!」"
+
+msgid "Yuri「Takasu-kun, I truly apologize for all the＿trouble I put you through. Send my＿regards to your mother.」"
+msgstr "Yuri「Takasu-kun, de verdad lamento todas＿las molestias que te causé. Dale＿mis saludos a tu madre.」"
+
+msgid "Ryuuji「I will.」"
+msgstr "Ryuuji「Se los daré.」"
+
+msgid "Yuri「Inko-chan...... byebye......」"
+msgstr "Yuri「Inko-chan...... adiós......」"
+
+msgid "Inko-chan「WAH, AAH, WAAAH, AAAH, WAAAH......＿AAAH」"
+msgstr "Inko-chan「BUA, AAH, BUAAAH, AAAH,＿BUAAAH...... AAAH」"
+
+msgid "Yuri「Don't cry, Inko-chan. You'll make me＿sad too...... Sniffle.」"
+msgstr "Yuri「No llores, Inko-chan. Vas a hacer que yo＿también me ponga triste...... Snif.」"
+
+msgid "Ryuuji「Please don't cry, Sensei.」"
+msgstr "Ryuuji「Por favor, no llore, Sensei.」"
+
+msgid "Yuri「But～ waaah...... aaaah!」"
+msgstr "Yuri「¡Pero～ buaaah...... aaaah!」"
+
+msgid "Ryuuji「You're welcome to come by our house＿and play with it again.」"
+msgstr "Ryuuji「Puede pasar por nuestra casa cuando＿quiera y volver a jugar con él.」"
+
+msgid "Yuri「......Really?」"
+msgstr "Yuri「......¿De verdad?」"
+
+msgid "Ryuuji「Really. It's kind of cramped, but I think＿Inko-chan would like that.」"
+msgstr "Ryuuji「De verdad. Es algo estrecho, pero creo＿que a Inko-chan le gustaría.」"
+
+msgid "Yuri「Ehe...... Thank you, Takasu-kun.」"
+msgstr "Yuri「Eje...... Gracias, Takasu-kun.」"
+
+msgid "Ryuuji「（Huh!? W-What was that just now......?）」"
+msgstr "Ryuuji「（¡¿Eh?! ¿Q-Qué fue eso de＿hace un momento......?）」"
+
+msgid "Taiga「Hey, Ryuuji......」"
+msgstr "Taiga「Oye, Ryuuji......」"
+
+msgid "Taiga「Why is Sensei here? Is it some kind of＿parent-teacher meeting?」"
+msgstr "Taiga「¿Por qué está Sensei aquí? ¿Es alguna＿especie de reunión de padres?」"
+
+msgid "Ryuuji「Seems she wants to talk to Inko-chan.」"
+msgstr "Ryuuji「Parece que quiere hablar con Inko-chan.」"
+
+msgid "Taiga「Huh?」"
+msgstr "Taiga「¿Eh?」"
+
+msgid "Ryuuji「I guess they want to be together.＿\"Happily something something\" or＿whatever.」"
+msgstr "Ryuuji「Supongo que quieren estar juntos.＿\"Felices no sé qué\" o algo así.」"
+
+msgid "Taiga「*Sigh*...... She's finally THAT desperate,＿huh......」"
+msgstr "Taiga「Uff...... Por fin está TAN＿desesperada, eh......」"
+
+msgid "Ryuuji「What? Where are you going?」"
+msgstr "Ryuuji「¿Qué? ¿A dónde vas?」"
+
+msgid "Taiga「Home. Why should I have to revere＿such an irritating face?」"
+msgstr "Taiga「A casa. ¿Por qué tendría que venerar＿una cara tan irritante?」"
+
+msgid "Ryuuji「What about food?」"
+msgstr "Ryuuji「¿Y la comida?」"
+
+msgid "Taiga「I'll go to Minorin's. See you later,＿Yacchan～!」"
+msgstr "Taiga「Iré a casa de Minorin. ¡Nos＿vemos luego, Yacchan～!」"
+
+msgid "Yasuko「See youuu～」"
+msgstr "Yasuko「Nos vemosss～」"
+
+msgid "Ryuuji「What's her problem......?」"
+msgstr "Ryuuji「¿Qué le pasa a esta......?」"
+
+msgid "Yuri「Oh, did Aisaka-san go home?」"
+msgstr "Yuri「Ah, ¿Aisaka-san se fue a casa?」"
+
+msgid "Ryuuji「Pretty much.」"
+msgstr "Ryuuji「Algo así.」"
+
+msgid "Yuri「Was I interrupting something,＿perhaps?」"
+msgstr "Yuri「¿Acaso estaba interrumpiendo algo?」"
+
+msgid "Ryuuji「It's fine. More importantly, Sensei,＿please eat breakfast with us. At this＿rate, it seems I'll have made too much.」"
+msgstr "Ryuuji「No pasa nada. Más importante, Sensei,＿desayune con nosotros, por favor. Así＿como vamos, parece que hice de más.」"
+
+msgid "Yuri「Are you sure? In that case, let me help＿you with something.」"
+msgstr "Yuri「¿Seguro? En ese caso, déjame＿ayudarte con algo.」"
+
+msgid "Ryuuji「Please peel the vegetables, then.」"
+msgstr "Ryuuji「Entonces pele las verduras, por favor.」"
+
+msgid "Yuri「Okaaay～」"
+msgstr "Yuri「Está bieeen～」"
+
+msgid "Yasuko「Wooow～ Looking at it this way, Sensei＿and Ryuu-chan are surprisingly--」"
+msgstr "Yasuko「Vayaaa～ Viéndolo así, Sensei y Ryuu-chan＿se ven sorprendentemente--」"
+
+msgid "Ryuuji「Stop, Yasuko.」"
+msgstr "Ryuuji「Para, Yasuko.」"
+
+msgid "Yuri「Nooo, Mother, please stop that～①」"
+msgstr "Yuri「Nooo, madre, por favor pare con eso～①」"
+
+msgid "Ryuuji「Sensei, why are you happy about this?」"
+msgstr "Ryuuji「Sensei, ¿por qué le alegra esto?」"
+
+msgid "Yasuko「Yacchan's outta here～」"
+msgstr "Yasuko「Yacchan se retiraaa～」"
+
+msgid "Ryuuji「Wha......」"
+msgstr "Ryuuji「Qué......」"
+
+msgid "Yuri「Takasu-kun, you're frozen stiff. Fufu♪」"
+msgstr "Yuri「Takasu-kun, te quedaste helado. Fufu♪」"
+
+msgid "Ryuuji「Thinking back, it was around that time＿that something big was set in motion.」"
+msgstr "Ryuuji「Pensándolo bien, fue por aquella época＿cuando algo grande se puso en marcha.」"
+
+msgid "Yuri「Of course, I could never have imagined＿I'd do something like exchange vows＿with a student. But......」"
+msgstr "Yuri「Claro, nunca habría imaginado hacer＿algo como intercambiar votos con＿un alumno. Pero......」"
+
+msgid "Yuri「Our Inko-chan played Cupid for us!」"
+msgstr "Yuri「¡Nuestro Inko-chan hizo de＿Cupido entre nosotros!」"
+
+msgid "Inko-chan「CU, CUPID!」"
+msgstr "Inko-chan「¡CU, CUPIDO!」"
+
+msgid "Yuri「It's belated, but thank you to Inko-chan＿for helping me to succeed in life! I'm so＿happy now!」"
+msgstr "Yuri「Es algo tarde, pero gracias a Inko-chan＿por ayudarme a triunfar en la vida.＿¡Ahora soy tan feliz!」"
+
+msgid "Yuri「Everyone, thank you so very much for＿coming here today to support me and＿Ryuuji-san!」"
+msgstr "Yuri「¡Muchísimas gracias a todos por venir＿hoy a apoyarnos a Ryuuji-san y a mí!」"
+
+msgid "Ryuuji「As we stood there, I wondered to＿myself how this could have＿happened......」"
+msgstr "Ryuuji「Mientras estábamos ahí de pie,＿me preguntaba cómo pudo haber＿pasado esto......」"
+
+msgid "Yuri「Let's be happy together,＿Ryuuji-san......①」"
+msgstr "Yuri「Seamos felices juntos, Ryuuji-san......①」"
+
+msgid "Yuri「Hello. First of all, perhaps I should＿thank you for your hard work,＿Takasu-kun.」"
+msgstr "Yuri「Hola. Antes que nada, quizá＿debería agradecerte por tu arduo＿trabajo, Takasu-kun.」"
+
+msgid "Yuri「Now that you got this ending, the＿reason I brought you here......」"
+msgstr "Yuri「Ahora que obtuviste este final, la razón＿por la que te traje aquí......」"
+
+msgid "Yuri「......is none other than to discuss the＿route you chose. I thought we could＿ponder it together.」"
+msgstr "Yuri「......no es otra que hablar sobre la＿ruta que elegiste. Pensé que podríamos＿reflexionar al respecto juntos.」"
+
+msgid "Yuri「Well then, let's evaluate the ending you＿just saw.」"
+msgstr "Yuri「Bien, evaluemos el final＿que acabas de ver.」"
+
+msgid "Yuri「Welcome, Takasu-kun.」"
+msgstr "Yuri「Bienvenido, Takasu-kun.」"
+
+msgid "Yuri「Well then, let's begin to evaluate the＿ending you just saw.」"
+msgstr "Yuri「Bien, empecemos a evaluar el＿final que acabas de ver.」"
+
+msgid "Yuri「Well...... This time Takasu-kun was fated＿to be my future husband. That sure＿caught me off guard.」"
+msgstr "Yuri「Bueno...... Esta vez Takasu-kun estaba＿destinado a ser mi futuro esposo. Eso＿sí que me tomó por sorpresa.」"
+
+msgid "Yuri「This might be inappropriate, but＿please take good care of me from now＿on ① Just kidding.」"
+msgstr "Yuri「Puede que sea inapropiado, pero＿por favor cuídame mucho de ahora＿en adelante ① Es broma.」"
+
+msgid "Yuri「Well then, instead of a grade, I'll give＿you some encouraging information, so＿be sure to make note of it.」"
+msgstr "Yuri「Bueno, en vez de calificarte, te＿daré un dato alentador, así que＿asegúrate de tomar nota.」"
+
+msgid "Yuri「Do you perhaps recall the numerous＿times you were able to chat with＿Inko-chan, our little Cupid?」"
+msgstr "Yuri「¿Recuerdas acaso las numerosas veces＿que pudiste charlar con Inko-chan,＿nuestro pequeño Cupido?」"
+
+msgid "Yuri「Okay, that's all for today. Until next＿time!」"
+msgstr "Yuri「Bueno, eso es todo por hoy.＿¡Hasta la próxima!」"
+
+msgid "『Music』 is now available in 『Extra』"
+msgstr "『Música』 ya está disponible en 『Extra』"
+
+msgid "『Album』 is now available in 『Extra』"
+msgstr "『Álbum』 ya está disponible en 『Extra』"
+
+msgid "Yuri「I could feel it emanating from every＿fragmented word. We have our own＿way of connecting to each other, I'm」"
+msgstr "Yuri「Lo sentía en cada palabra＿entrecortada. Tenemos nuestra＿propia forma de conectar, estoy」"
+
+msgid "Yuri「sure of it.」"
+msgstr "Yuri「segura de ello.」"
+
+msgid "Yuri「I'll be able to give the little one＿everything it needs. We'll build an ideal＿relationship where we complement」"
+msgstr "Yuri「Podré darle al pequeñín todo lo que＿necesita. Construiremos una relación＿ideal en la que nos complementemos」"
+
+msgid "Yuri「each other.」"
+msgstr "Yuri「mutuamente.」"
+
+msgid "Yuri「I'm sure we were destined to meet.＿\"Happily married couple,\" \"eternal love\"＿- don't you think those phrases refer」"
+msgstr "Yuri「Seguro era el destino conocernos.＿\"Matrimonio feliz\", \"amor eterno\" - ¿no＿crees que esas frases se refieren」"
+
+msgid "Yuri「to a relationship like ours?」"
+msgstr "Yuri「a una relación como la nuestra?」"
+
+msgid "Yasuko「Yacchan doesn't really have time to＿talk because she's headed to work......＿Ah, would Sensei like to join me at the」"
+msgstr "Yasuko「Yacchan no tiene mucho tiempo para＿hablar porque va al trabajo......＿Ah, ¿quiere Sensei acompañarme al」"
+
+msgid "Yasuko「barrr?」"
+msgstr "Yasuko「barrr?」"
+
+msgid "Yasuko「Aha～! Fufu, nooo, not that kind of＿\"join.\" Would you like to stop byyy? We＿have to talk about Inko-chan, after」"
+msgstr "Yasuko「¡Ajá～! Fufu, nooo, no ese tipo de＿\"acompañar\". ¿Quieres pasar un ratooo?＿Hay que hablar de Inko-chan, después de」"
+
+msgid "Yasuko「allll～」"
+msgstr "Yasuko「todooo～」"
+
+msgid "Yuri「I am a little interested, though. A＿workplace where you put your＿feminine charms to the test...... As a」"
+msgstr "Yuri「Aunque sí me da un poco de curiosidad.＿Un trabajo donde pones a prueba tus＿encantos femeninos...... Como」"
+
+msgid "Yuri「woman, I wonder how far they could＿take me.」"
+msgstr "Yuri「mujer, me pregunto hasta＿dónde me llevarían.」"
+
+msgid "Yuri「......That's true. I only just met it today,＿and I already don't want to part from it.＿But you guys have been with it for」"
+msgstr "Yuri「......Es cierto. Apenas lo conocí＿hoy y ya no quiero separarme de él.＿Pero ustedes han estado con él por」"
+
+msgid "Yuri「much longer......」"
+msgstr "Yuri「mucho más tiempo......」"
+
+msgid "Ryuuji「It wasn't long until Sensei was＿practically family; before I knew it, it＿was as though we had replaced Taiga.」"
+msgstr "Ryuuji「Pronto Sensei fue casi parte de la＿familia; sin darme cuenta, fue como＿si hubiéramos reemplazado a Taiga.」"
+
+msgid "Ryuuji「And then――」"
+msgstr "Ryuuji「Y entonces――」"
+
+msgid "Yuri「......Becoming his homeroom teacher,＿spending 30 years single - when I＿think back on it now, I'm certain it was」"
+msgstr "Yuri「......Convertirme en su profesora＿titular, pasar 30 años soltera - al＿pensarlo ahora, estoy segura de que fue」"
+
+msgid "Yuri「all to bring him and I together.」"
+msgstr "Yuri「todo para unirnos a él y a mí.」"
+
+msgid "Ryuuji「Bit by bit, those thoughts drowned in＿the thunderous applause and the＿unprecedented joyous smile right」"
+msgstr "Ryuuji「Poco a poco, esos pensamientos se＿ahogaron entre los aplausos atronadores＿y la sonrisa radiante sin igual justo」"
+
+msgid "Ryuuji「beside me――」"
+msgstr "Ryuuji「a mi lado――」"
+
+msgid "Yuri「I'll come and see you every time you＿reach an ending.」"
+msgstr "Yuri「Vendré a verte cada vez que＿llegues a un final.」"
+
+msgid "Yuri「I want you to reflect on the actions you＿made this time and keep them in mind＿for next time.」"
+msgstr "Yuri「Quiero que reflexiones sobre las＿decisiones que tomaste esta vez y las＿tengas en cuenta para la próxima.」"
+
+msgid "Yuri「Now then, this ending is just too＿priceless to grade! ......I can't get away＿with that, can I? Ahaha...... Of course」"
+msgstr "Yuri「¡Este final es invaluable, no se puede＿calificar! ......No puedo salirme con＿la mía, ¿no? Ajaja...... Claro que」"
+
+msgid "Yuri「not～」"
+msgstr "Yuri「no～」"
+
+msgid "Yuri「If you collect all the presents you get＿from talking to Inko-chan, it looks like＿you can change this wedding outcome.」"
+msgstr "Yuri「Si juntas todos los regalos que ganas＿al hablar con Inko-chan, parece que＿puedes cambiar este final de boda.」"
+
+msgid "Yuri「Try it out.」"
+msgstr "Yuri「Inténtalo.」"

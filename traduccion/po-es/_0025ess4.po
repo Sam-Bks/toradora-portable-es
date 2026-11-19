@@ -1,0 +1,14 @@
+msgid ""
+msgstr ""
+
+msgid "Inko-chan「......」"
+msgstr "Inko-chan「......」"
+
+msgid "Ryuuji「Ah, it's asleep...... No, maybe it's just＿pretending to sleep to avoid talking to＿me......?」"
+msgstr "Ryuuji「Ah, está dormido...... No, ¿tal＿vez solo finge dormir para evitar＿hablar conmigo......?」"
+
+msgid "Ryuuji「*Sigh*...... If I can't even talk to it, I'm＿hardly fit to be its owner......」"
+msgstr "Ryuuji「*Suspiro*...... Si ni puedo hablar con＿él, no sirvo como su dueño......」"
+
+msgid "Ryuuji「Bedtime......」"
+msgstr "Ryuuji「Hora de dormir......」"

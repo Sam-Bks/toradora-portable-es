@@ -1,0 +1,401 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「......Hm? Kanou-Mart coupons......」"
+msgstr "Ryuuji「......¿Mm? Cupones de Kanou-Mart......」"
+
+msgid "Sumire「Been here long?」"
+msgstr "Sumire「¿Llevas mucho esperando?」"
+
+msgid "Ryuuji「......Wait, why are you in uniform?」"
+msgstr "Ryuuji「......Espera, ¿por qué＿llevas el uniforme?」"
+
+msgid "Sumire「Doesn't it look good on me?」"
+msgstr "Sumire「¿No me queda bien?」"
+
+msgid "Ryuuji「That's not the point.」"
+msgstr "Ryuuji「Ese no es el punto.」"
+
+msgid "Sumire「Hmph. I thought it would help me not＿to stand out...... but alas, a few people＿have already made a fuss.」"
+msgstr "Sumire「Jum. Pensé que así pasaría más＿desapercibida...... pero, por desgracia,＿varios ya armaron un alboroto.」"
+
+msgid "Ryuuji「Well, of course, senpai. Don't you know＿how famous you are?」"
+msgstr "Ryuuji「Pues claro, senpai. ¿Acaso no＿sabes lo famosa que eres?」"
+
+msgid "Ryuuji「Pretty much.」"
+msgstr "Ryuuji「Más o menos.」"
+
+msgid "Sumire「......Takasu, you're one of our regulars＿at the grocery store, right?」"
+msgstr "Sumire「......Takasu, eres cliente frecuente＿de nuestro supermercado, ¿verdad?」"
+
+msgid "Ryuuji「I don't remember much from before＿the amnesia, but since Kanou-Mart has＿such a good selection, it's likely.」"
+msgstr "Ryuuji「No recuerdo mucho de antes de la＿amnesia, pero como Kanou-Mart tiene＿tan buena variedad, es muy probable.」"
+
+msgid "Sumire「Plus, you're a smart shopper when it＿comes to saving money. Kitamura told＿me you're an ideal housewife.」"
+msgstr "Sumire「Además, sabes comprar muy bien para＿ahorrar dinero. Kitamura me dijo que＿eres un ama de casa ideal.」"
+
+msgid "Ryuuji「So it seems.」"
+msgstr "Ryuuji「Eso parece.」"
+
+msgid "Sumire「I'm gonna give you something you've＿wanted so badly you could practically＿taste it.」"
+msgstr "Sumire「Voy a darte algo que has deseado tanto＿que casi puedes saborearlo.」"
+
+msgid "Ryuuji「Like what? I already have coupons.」"
+msgstr "Ryuuji「¿Como qué? Ya tengo cupones.」"
+
+msgid "Sumire「Don't make me laugh. It's much better＿than that. The Kanou-Mart Employee＿Discount Card.」"
+msgstr "Sumire「No me hagas reír. Es mucho mejor＿que eso. La Tarjeta de Descuento＿para Empleados de Kanou-Mart.」"
+
+msgid "Ryuuji「Come again?」"
+msgstr "Ryuuji「¿Cómo dices?」"
+
+msgid "Sumire「Of course, this means you can get an＿additional 20% off the half-price＿closing sales.」"
+msgstr "Sumire「Por supuesto, esto significa un 20% de＿descuento adicional sobre las rebajas a＿mitad de precio antes del cierre.」"
+
+msgid "Ryuuji「Wha...... 20% off half price? S-So the＿total savings...... T-That's 60% off!」"
+msgstr "Ryuuji「¿Q-Qué...... 20% sobre mitad de precio?＿E-Entonces el ahorro total...... ¡E-Es＿un 60% de descuento!」"
+
+msgid "Sumire「Fufufu, precisely. For example, the＿100-gram domestic pork loin for＿¥240......」"
+msgstr "Sumire「Jujuju, exacto. Por ejemplo,＿los 100 gramos de lomo de cerdo＿nacional de ¥240......」"
+
+msgid "Ryuuji「W-Would be ¥96......」"
+msgstr "Ryuuji「Q-Quedarían en ¥96......」"
+
+msgid "Sumire「Well? Want it?」"
+msgstr "Sumire「¿Y bien? ¿La quieres?」"
+
+msgid "Ryuuji「O-Of course I want it!」"
+msgstr "Ryuuji「¡P-Por supuesto que la quiero!」"
+
+msgid "Sumire「Thought so. But I can't just give＿something like this away for free.」"
+msgstr "Sumire「Eso pensé. Pero no puedo simplemente＿dar algo así gratis.」"
+
+msgid "Ryuuji「......What's the catch?」"
+msgstr "Ryuuji「......¿Cuál es el truco?」"
+
+msgid "Sumire「I'll make it clear. I want you.」"
+msgstr "Sumire「Te lo diré claro. Te quiero a ti.」"
+
+msgid "Ryuuji「M-Me!?」"
+msgstr "Ryuuji「¡¿A m-mí?!」"
+
+msgid "Sumire「Don't misunderstand me. I don't mean＿that I like you so much I want to own＿you.」"
+msgstr "Sumire「No lo malinterpretes. No digo que me＿gustes tanto como para hacerte mío.」"
+
+msgid "Sumire「You have to work for the student＿council as our dog and workhorse.＿That's the catch.」"
+msgstr "Sumire「Tienes que trabajar para el consejo＿estudiantil como nuestro perro y bestia＿de carga. Esa es la condición.」"
+
+msgid "Ryuuji「D-Dog......? You've crossed a line,＿senpai.」"
+msgstr "Ryuuji「¿P-Perro......? Te pasaste＿de la raya, senpai.」"
+
+msgid "Sumire「Hmph...... But don't you enjoy being＿bossed around every day as Aisaka's＿dog?」"
+msgstr "Sumire「Jum...... ¿Pero acaso no disfrutas＿que te den órdenes todos los días＿como el perro de Aisaka?」"
+
+msgid "Ryuuji「No, it's not that fun.」"
+msgstr "Ryuuji「No, no es tan divertido.」"
+
+msgid "Sumire「Then why don't you stray from the＿dog's life? If you don't like it, you're not＿obligated to look after her.」"
+msgstr "Sumire「¿Entonces por qué no dejas esa vida＿de perro? Si no te gusta, no tienes＿ninguna obligación de cuidarla.」"
+
+msgid "Sumire「Or are you perhaps in love with her?」"
+msgstr "Sumire「¿O acaso estás enamorado de ella?」"
+
+msgid "Ryuuji「T-That's......」"
+msgstr "Ryuuji「E-Eso es......」"
+
+msgid "Sumire「Deep down in the bottom of your＿heart, don't you wish for someone to＿own you?」"
+msgstr "Sumire「En lo más profundo de tu corazón, ¿no＿deseas que alguien sea tu dueño?」"
+
+msgid "Ryuuji「As if. That's......」"
+msgstr "Ryuuji「Para nada. Eso es......」"
+
+msgid "Sumire「Not true? Honestly?」"
+msgstr "Sumire「¿No es verdad? ¿En serio?」"
+
+msgid "Ryuuji「......」"
+msgstr "Ryuuji「......」"
+
+msgid "Sumire「Regarding the planetarium incident,＿wasn't someone giving you orders?」"
+msgstr "Sumire「Con lo del planetario, ¿no había＿alguien dándote órdenes?」"
+
+msgid "Ryuuji「Well, yeah......」"
+msgstr "Ryuuji「Bueno, sí......」"
+
+msgid "Ryuuji「Is that supposed to be a compliment?」"
+msgstr "Ryuuji「¿Se supone que eso es un cumplido?」"
+
+msgid "Sumire「Of course.」"
+msgstr "Sumire「Por supuesto.」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Sumire「Now, choose! Are you Aisaka's dog, or＿the student council's dog?!」"
+msgstr "Sumire「¡Ahora, elige! ¡¿Eres el perro de Aisaka＿o el del consejo estudiantil?!」"
+
+msgid "Ryuuji「Oh...... I, I'm――」"
+msgstr "Ryuuji「Ah...... Y-Yo soy――」"
+
+msgid "Kitamura「Is everyone here?」"
+msgstr "Kitamura「¿Están todos aquí?」"
+
+msgid "Kota「Is it...... about Takasu-senpai coming＿here?」"
+msgstr "Kota「¿Es...... sobre la llegada＿de Takasu-senpai aquí?」"
+
+msgid "Kitamura「Yeah, it is. It's been decided that＿Takasu will work for the student＿council starting today.」"
+msgstr "Kitamura「Sí, eso es. Se ha decidido que Takasu＿trabajará para el consejo estudiantil＿a partir de hoy.」"
+
+msgid "Sakura「Is it possible my sister recommended＿him?」"
+msgstr "Sakura「¿Es posible que lo recomendara＿mi hermana?」"
+
+msgid "Kitamura「Exactly right. He was personally＿nominated by the Prez.」"
+msgstr "Kitamura「Exactamente. Fue nominado en＿persona por la Presidenta.」"
+
+msgid "Kota「But I don't think there are any＿available seats in student council right＿now......」"
+msgstr "Kota「Pero no creo que haya ningún puesto＿libre en el consejo estudiantil＿ahora mismo......」"
+
+msgid "Kitamura「About that...... I'll have Takasu himself＿explain that.」"
+msgstr "Kitamura「Sobre eso...... Dejaré que el＿mismo Takasu lo explique.」"
+
+msgid "Sakura「Dog? What do you mean, our dog?」"
+msgstr "Sakura「¿Perro? ¿Cómo que nuestro perro?」"
+
+msgid "Kitamura「It means he'll answer directly to us.」"
+msgstr "Kitamura「Significa que responderá directamente＿ante nosotros.」"
+
+msgid "Kota「There's no way we can ask that of＿Takasu-senpai!」"
+msgstr "Kota「¡De ninguna manera podemos pedirle＿eso a Takasu-senpai!」"
+
+msgid "Ryuuji「No, it's fine. Don't hesitate to use me. I＿made a promise to Kanou-senpai.」"
+msgstr "Ryuuji「No, está bien. Úsenme sin dudarlo. Le＿hice una promesa a Kanou-senpai.」"
+
+msgid "Sakura「Senpai...... Is my big sister blackmailing＿you?」"
+msgstr "Sakura「Senpai...... ¿Mi hermana mayor＿te está chantajeando?」"
+
+msgid "Ryuuji「That's not it...... Anyway, please think of＿me as your dog.」"
+msgstr "Ryuuji「No es eso...... En fin, por favor＿considérenme su perro.」"
+
+msgid "Sakura「......」"
+msgstr "Sakura「......」"
+
+msgid "Kota「......」"
+msgstr "Kota「......」"
+
+msgid "Ryuuji「And so, my life as the student council's＿dog had begun.」"
+msgstr "Ryuuji「Y así, mi vida como el perro del consejo＿estudiantil había comenzado.」"
+
+msgid "Kitamura「Takasu. Have you collected all the＿questionnaires from each class?」"
+msgstr "Kitamura「Takasu. ¿Ya recogiste todos los＿cuestionarios de cada clase?」"
+
+msgid "Ryuuji「I entered them all into a spreadsheet＿on the computer.」"
+msgstr "Ryuuji「Ya los pasé todos a una hoja de＿cálculo en la computadora.」"
+
+msgid "Kitamura「Thank you. I'll go over them later.」"
+msgstr "Kitamura「Gracias. Los revisaré más tarde.」"
+
+msgid "Kota「Um, senpai...... Can I ask you to file＿these? There's quite a lot......」"
+msgstr "Kota「Ehm, senpai...... ¿Puedo pedirte que＿archives estos? Son bastantes......」"
+
+msgid "Ryuuji「Oh, leave it to me.」"
+msgstr "Ryuuji「Ah, déjamelo a mí.」"
+
+msgid "Kota「Also, students are complaining that＿Okada from Class 2-A is causing＿trouble in the neighborhood......」"
+msgstr "Kota「Además, hay quejas de que Okada,＿de la clase 2-A, está causando problemas＿en el vecindario......」"
+
+msgid "Ryuuji「Got it. I'll look into that, too.」"
+msgstr "Ryuuji「Entendido. También me encargaré de eso.」"
+
+msgid "Kota「Please do.」"
+msgstr "Kota「Por favor.」"
+
+msgid "Ryuuji「Everyone held back at first, but this is＿how it's been lately.」"
+msgstr "Ryuuji「Al principio todos se contenían, pero＿así han estado las cosas últimamente.」"
+
+msgid "Sakura「Great work, Takasu-senpai.」"
+msgstr "Sakura「Buen trabajo, Takasu-senpai.」"
+
+msgid "Sakura「Are you busy?」"
+msgstr "Sakura「¿Estás ocupado?」"
+
+msgid "Ryuuji「Oh, what's up?」"
+msgstr "Ryuuji「Ah, ¿qué pasa?」"
+
+msgid "Sakura「Here's one of the cupcakes you taught＿me how to make. Try some.」"
+msgstr "Sakura「Aquí tienes uno de los cupcakes que＿me enseñaste a hacer. Pruébalo.」"
+
+msgid "Ryuuji「Oh, thanks. I'll eat it later.」"
+msgstr "Ryuuji「Ah, gracias. Me lo comeré luego.」"
+
+msgid "Ryuuji「In this hectic day-to-day life, she was＿like an oasis in the desert. However――」"
+msgstr "Ryuuji「En este día a día tan agitado, ella era＿como un oasis en el desierto. Pero――」"
+
+msgid "Sakura「Oh, and the sewing club's sewing＿machine is acting up, so they want a＿new one.」"
+msgstr "Sakura「Ah, y la máquina de coser del＿club de costura está fallando,＿así que quieren una nueva.」"
+
+msgid "Ryuuji「It'll work again after some＿maintenance. I'll stop by later.」"
+msgstr "Ryuuji「Volverá a funcionar con algo de＿mantenimiento. Pasaré más tarde.」"
+
+msgid "Sakura「Also, the sports club's meeting room＿needs countermeasures for the odor--」"
+msgstr "Sakura「También, la sala de reuniones＿del club de deportes necesita＿algo para el olor--」"
+
+msgid "Ryuuji「I'll do it.」"
+msgstr "Ryuuji「Yo lo hago.」"
+
+msgid "Sakura「And also...... uhhh--」"
+msgstr "Sakura「Y también...... ehhh--」"
+
+msgid "Ryuuji「......Please write a memo for me.」"
+msgstr "Ryuuji「......Por favor, escríbelo en una nota.」"
+
+msgid "Sakura「Okay!」"
+msgstr "Sakura「¡De acuerdo!」"
+
+msgid "Ryuuji「She's probably the one who gives me＿the most work, but--」"
+msgstr "Ryuuji「Seguramente es ella quien me＿da más trabajo, pero--」"
+
+msgid "Ryuuji「Although, I don't hold any resentment＿for being in this position. I feel＿completely fulfilled every day.」"
+msgstr "Ryuuji「Aunque no guardo ningún rencor por＿estar en esta posición. Me siento＿plenamente realizado cada día.」"
+
+msgid "Ryuuji「Just as Senpai said, I might have been＿wishing for someone to own me.」"
+msgstr "Ryuuji「Tal como dijo Senpai, quizá sí deseaba＿que alguien fuera mi dueño.」"
+
+msgid "Kota「Aaaaahh!」"
+msgstr "Kota「¡Aaaaahh!」"
+
+msgid "Ryuuji「What's wrong!?」"
+msgstr "Ryuuji「¡¿Qué pasa?!」"
+
+msgid "Kota「The computer froze...... I didn't save the＿data I was working on...... aaargh, bad＿luckkk!」"
+msgstr "Kota「Se congeló la computadora...... No＿guardé los datos en los que＿trabajaba...... ¡aaagh, mala suerteee!」"
+
+msgid "Ryuuji「How much of it did you lose?」"
+msgstr "Ryuuji「¿Cuánto trabajo perdiste?」"
+
+msgid "Kota「About 2 hours' worth...... Aaaahh......!」"
+msgstr "Kota「Unas 2 horas...... ¡Aaaahh......!」"
+
+msgid "Ryuuji「Jeez...... Guess I'll have to do it. Don't＿touch the computer anymore. You＿froze it last time, too.」"
+msgstr "Ryuuji「Caray...... Supongo que tendré que＿hacerlo yo. Ya no toques la computadora.＿La vez pasada también la congelaste.」"
+
+msgid "Ryuuji「......Even while spouting that abuse, I＿was still excited at the prospect of＿more work.」"
+msgstr "Ryuuji「......Incluso soltando esos regaños,＿seguía entusiasmado ante la idea＿de tener más trabajo.」"
+
+msgid "Ryuuji「That's my purpose in life――」"
+msgstr "Ryuuji「Ese es mi propósito en la vida――」"
+
+msgid "Yuri「Hello. First of all, perhaps I should＿thank you for your hard work,＿Takasu-kun.」"
+msgstr "Yuri「Hola. Antes que nada, quizá＿debería agradecerte por tu arduo＿trabajo, Takasu-kun.」"
+
+msgid "Yuri「Now that you got this ending, the＿reason I brought you here......」"
+msgstr "Yuri「Ahora que obtuviste este final, la razón＿por la que te traje aquí......」"
+
+msgid "Yuri「......is none other than to discuss the＿route you chose. I thought we could＿ponder it together.」"
+msgstr "Yuri「......no es otra que hablar sobre la＿ruta que elegiste. Pensé que podríamos＿reflexionar al respecto juntos.」"
+
+msgid "Yuri「Well then, let's evaluate the ending you＿just saw.」"
+msgstr "Yuri「Bien, evaluemos el final＿que acabas de ver.」"
+
+msgid "Yuri「Welcome, Takasu-kun.」"
+msgstr "Yuri「Bienvenido, Takasu-kun.」"
+
+msgid "Yuri「Well then, let's begin to evaluate the＿ending you just saw.」"
+msgstr "Yuri「Bien, empecemos a evaluar el＿final que acabas de ver.」"
+
+msgid "Yuri「I see...... Kanou-san talked you into＿joining the student council......＿Hmmm......」"
+msgstr "Yuri「Ya veo...... Kanou-san te convenció＿de unirte al consejo estudiantil......＿Mmmm......」"
+
+msgid "Yuri「Regardless of circumstances, to do＿this to someone like you who loves to＿help people is just wrong.」"
+msgstr "Yuri「Sin importar las circunstancias, hacerle＿esto a alguien como tú, a quien le＿encanta ayudar, está simplemente mal.」"
+
+msgid "Yuri「As your teacher, I'd like you to make＿your own decisions about your＿future......」"
+msgstr "Yuri「Como tu profesora, me gustaría＿que tomaras tus propias decisiones＿sobre tu futuro......」"
+
+msgid "Yuri「Why don't you start over by having a＿serious discussion with Kanou-san?＿Don't get caught up in the thrill of it.」"
+msgstr "Yuri「¿Por qué no empiezas de nuevo hablando＿en serio con Kanou-san? No te dejes＿llevar por la emoción del momento.」"
+
+msgid "Yuri「Now then. If I were to grade this＿ending, I guess I'd give it 75 points.＿Yup, you've put in quite a lot of effort!」"
+msgstr "Yuri「Ahora bien. Si tuviera que calificar＿este final, supongo que le daría 75＿puntos. ¡Sí, te esforzaste bastante!」"
+
+msgid "Yuri「Okay, that's all for today. Until next＿time!」"
+msgstr "Yuri「Bueno, eso es todo por hoy.＿¡Hasta la próxima!」"
+
+msgid "『Music』 is now available in 『Extra』"
+msgstr "『Música』 ya está disponible en 『Extra』"
+
+msgid "『Album』 is now available in 『Extra』"
+msgstr "『Álbum』 ya está disponible en 『Extra』"
+
+msgid "Ryuuji「（I'm kinda curious...... Oh, I bet Senpai's＿still at home. Maybe it's not so easy to＿come back here, so she's taking her）」"
+msgstr "Ryuuji「（Tengo algo de curiosidad...... Seguro＿Senpai sigue en casa. Quizá no sea tan＿fácil volver aquí, así que se toma su）」"
+
+msgid "Ryuuji「（time......）」"
+msgstr "Ryuuji「（tiempo......）」"
+
+msgid "Sumire「I don't care about that. More＿importantly, you're probably＿wondering why I asked you to meet me」"
+msgstr "Sumire「Eso no importa. Más importante＿aún, seguro te preguntas por＿qué te pedí que nos viéramos」"
+
+msgid "Sumire「here, aren't you?」"
+msgstr "Sumire「aquí, ¿verdad?」"
+
+msgid "Sumire「If you give this to the cashier, you'll get＿a full 20% discount at any time. This＿card is something only employees and」"
+msgstr "Sumire「Si se la das al cajero, obtendrás todo＿un 20% de descuento en cualquier＿momento. Es algo que solo empleados y」"
+
+msgid "Sumire「relatives could hope to get their hands＿on.」"
+msgstr "Sumire「familiares podrían aspirar a conseguir.」"
+
+msgid "Sumire「Thought so. You're at your strongest＿when someone is there to direct you.＿You're an errand boy of the highest」"
+msgstr "Sumire「Eso pensé. Das lo mejor de ti cuando＿alguien te dirige. Eres un chico＿de los mandados de la más alta」"
+
+msgid "Sumire「caliber.」"
+msgstr "Sumire「categoría.」"
+
+msgid "Sumire「No need to worry about a thing. Your＿ownership will just be transferred＿from Aisaka to the student council.」"
+msgstr "Sumire「No tienes de qué preocuparte. La＿propiedad sobre ti solo se transferirá＿de Aisaka al consejo estudiantil.」"
+
+msgid "Sumire「Your life will largely remain the same.」"
+msgstr "Sumire「Tu vida seguirá prácticamente igual.」"
+
+msgid "Sumire「Besides, you'll get the Kanou-Mart＿Employee Discount Card. The right＿choice practically speaks for itself. But」"
+msgstr "Sumire「Además, obtendrás la Tarjeta de＿Descuento para Empleados de Kanou-Mart.＿La opción obvia habla por sí sola. Pero」"
+
+msgid "Sumire「it's up to you.」"
+msgstr "Sumire「depende de ti.」"
+
+msgid "Kitamura「Now, I'd like to start today's student＿council meeting...... but first, there's＿something important that I need to tell」"
+msgstr "Kitamura「Bien, quisiera iniciar la reunión de＿hoy del consejo estudiantil...... Pero＿antes, debo decir algo importante a」"
+
+msgid "Kitamura「everyone.」"
+msgstr "Kitamura「todos.」"
+
+msgid "Ryuuji「It has been decided that from now on,＿I'll be working in this student council＿as everyone's dog. Let's all work」"
+msgstr "Ryuuji「Se ha decidido que, de ahora en＿adelante, trabajaré en este consejo＿como el perro de todos. Trabajemos」"
+
+msgid "Ryuuji「together.」"
+msgstr "Ryuuji「juntos.」"
+
+msgid "Sakura「Also, you see, the drama club's storage＿room is full, and they're demanding to＿be allowed to use an empty classroom」"
+msgstr "Sakura「Además, el almacén del club de teatro＿está lleno, y exigen que se les permita＿usar algún salón vacío」"
+
+msgid "Sakura「somewhere.」"
+msgstr "Sakura「por ahí.」"
+
+msgid "Ryuuji「What? That room isn't full. Please tell＿them that I'll show them how to＿organize their storage properly next」"
+msgstr "Ryuuji「¿Qué? Ese cuarto no está lleno.＿Diles que les enseñaré a organizar＿bien su almacén la próxima」"
+
+msgid "Ryuuji「time.」"
+msgstr "Ryuuji「vez.」"
+
+msgid "Ryuuji「Even after Kitamura's term ends, I'm＿sure I'll continue to be the student＿council's dog until I graduate. And then」"
+msgstr "Ryuuji「Aun cuando acabe el mandato de Kitamura,＿seguro que seguiré siendo el perro del＿consejo hasta graduarme. Y luego,」"
+
+msgid "Ryuuji「after that I'll probably look for a new＿owner.」"
+msgstr "Ryuuji「después de eso, probablemente＿busque un nuevo dueño.」"
+
+msgid "Yuri「I'll come and see you every time you＿reach an ending.」"
+msgstr "Yuri「Vendré a verte cada vez que＿llegues a un final.」"
+
+msgid "Yuri「I want you to reflect on the actions you＿made this time and keep them in mind＿for next time.」"
+msgstr "Yuri「Quiero que reflexiones sobre las＿decisiones que tomaste esta vez y las＿tengas en cuenta para la próxima.」"

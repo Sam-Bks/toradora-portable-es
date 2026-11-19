@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「（Good grief, what is with that Taiga＿girl......?）」"
+msgstr "Ryuuji「（Por Dios, ¿qué le pasa a＿esa tal Taiga......?）」"
+
+msgid "Inko-chan「W, WEL......」"
+msgstr "Inko-chan「B, BIEN......」"
+
+msgid "Ryuuji「That's right Inko-chan is always here＿for me! Go on, say \"welcome home\"!」"
+msgstr "Ryuuji「¡Inko-chan siempre está aquí para mí!＿¡Vamos, di \"bienvenido a casa\"!」"
+
+msgid "Inko-chan「WEL......」"
+msgstr "Inko-chan「BIEN......」"
+
+msgid "Inko-chan「WELL BYE!」"
+msgstr "Inko-chan「¡BIEN, ADIÓS!」"
+
+msgid "Ryuuji「......Close enough. Now, let's have a nice＿dinner together!」"
+msgstr "Ryuuji「......Bueno, casi. ¡Ahora tengamos＿una buena cena juntos!」"
+
+msgid "Inko-chan「......Burp.」"
+msgstr "Inko-chan「......Burp.」"
+
+msgid "Ryuuji「Inko-chan...... Are you already full? Did＿you have dinner without waiting for＿me?」"
+msgstr "Ryuuji「Inko-chan...... ¿Ya estás lleno? ¿Acaso＿cenaste sin esperarme a mí?」"
+
+msgid "Inko-chan「......Belch.」"
+msgstr "Inko-chan「......Burp.」"
+
+msgid "Ryuuji「I see...... Oh well. It's my fault for not＿telling you when I'd get home. I'll eat＿these New Year's leftovers by myself.」"
+msgstr "Ryuuji「Ya veo...... Qué se le va a hacer. Es mi＿culpa por no avisarte cuándo llegaría.＿Comeré las sobras de Año Nuevo yo solo.」"
+
+msgid "Inko-chan「......EAT!」"
+msgstr "Inko-chan「......¡COME!」"
+
+msgid "Ryuuji「（There's a note here saying Yasuko＿went to a New Year's party downtown,＿so I guess I'll have dinner by myself）」"
+msgstr "Ryuuji「（Aquí hay una nota que dice que Yasuko＿fue a una fiesta de Año Nuevo en el＿centro, así que supongo que cenaré solo）」"
+
+msgid "Ryuuji「（tonight......）」"
+msgstr "Ryuuji「（esta noche......）」"

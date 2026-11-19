@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+
+msgid "Ami「Ugh...... This sucks.」"
+msgstr "Ami「Ugh...... Esto apesta.」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Ami「Ami-chan's SUPER shocked. Or＿appalled, more like.」"
+msgstr "Ami「Ami-chan está SÚPER impactada.＿O más bien horrorizada.」"
+
+msgid "Ryuuji「What's wrong all of a sudden?」"
+msgstr "Ryuuji「¿Qué te pasa tan de repente?」"
+
+msgid "Ami「Is that really the best conversation＿you can manage with the ultra-cute＿Ami-chan?」"
+msgstr "Ami「¿De verdad esa es la mejor＿charla que puedes mantener＿con la ultralinda Ami-chan?」"
+
+msgid "Ami「I'm done. Bye.」"
+msgstr "Ami「Ya me cansé. Adiós.」"
+
+msgid "Ryuuji「What's your problem? Suit yourself, I＿guess......」"
+msgstr "Ryuuji「¿Qué te pasa? Haz lo que＿quieras, supongo......」"
+
+msgid "Ryuuji「（I'll leave her be...... More importantly,＿the sauna!）」"
+msgstr "Ryuuji「（La dejaré en paz...... Más＿importante, ¡la sauna!）」"
+
+msgid "Ryuuji「（Wow, so this is what a cold sauna's like.）」"
+msgstr "Ryuuji「（Vaya, así que así es una sauna fría.）」"
+
+msgid "Ryuuji「（A guy could really lose track of time in＿here......）」"
+msgstr "Ryuuji「（Uno de verdad podría perder la noción＿del tiempo aquí dentro......）」"
+
+msgid "Ryuuji「*Yawn*......」"
+msgstr "Ryuuji「*Bostezo*......」"
+
+msgid "Ryuuji「........................................................................」"
+msgstr "Ryuuji「....................................＿....................................」"
+
+msgid "Ryuuji「（......Huh? Crap, I totally passed out.）」"
+msgstr "Ryuuji「（......¿Eh? Rayos, me quedé＿totalmente dormido.）」"

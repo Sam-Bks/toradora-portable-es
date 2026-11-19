@@ -1,0 +1,209 @@
+msgid ""
+msgstr ""
+
+msgid "Play Main Story"
+msgstr "Historia Principal"
+
+msgid "Play Bonus Story"
+msgstr "Historia Extra"
+
+msgid "RYUUJI's turn!"
+msgstr "¡Turno de RYUUJI!"
+
+msgid "TAIGA used a death ray!＿BIBIBIBIBIBI......＿but it doesn't affect MINORIN!"
+msgstr "¡TAIGA usó un rayo mortal!＿BIBIBIBIBIBI......＿¡pero no afecta a MINORIN!"
+
+msgid "MINORIN's turn!"
+msgstr "¡Turno de MINORIN!"
+
+msgid "YURI's red string was cut!＿It was a critical hit!＿She's going crazy!"
+msgstr "¡Se cortó el hilo rojo de YURI!＿¡Fue un golpe crítico!＿¡Se está volviendo loca!"
+
+msgid "YURI's turn!"
+msgstr "¡Turno de YURI!"
+
+msgid "YURI bought a condo! But it wasn't＿earthquake resistant!"
+msgstr "¡YURI compró un departamento! ¡Pero no＿era antisísmico!"
+
+msgid "Ryuuji「(Aaaaaaaaagh!!!!)」"
+msgstr "Ryuuji「(¡Aaaaaaaaagh!!!!)」"
+
+msgid "The apartment collapsed!"
+msgstr "¡El departamento se derrumbó!"
+
+msgid "RYUUJI can't move!"
+msgstr "¡RYUUJI no puede moverse!"
+
+msgid "Ryuuji「（Damn it! I can't get out of this debris!）」"
+msgstr "Ryuuji「（¡Maldición! ¡No puedo salir＿de estos escombros!）」"
+
+msgid "RYUUJI can't move!＿RYUUJI can't move!＿RYUUJI can't.............................."
+msgstr "¡RYUUJI no puede moverse!＿¡RYUUJI no puede moverse!＿RYUUJI no puede.............................."
+
+msgid "???「......Ugh!!」"
+msgstr "???「......¡Ugh!!」"
+
+msgid "???「..................Oh?」"
+msgstr "???「..................¿Eh?」"
+
+msgid "???「Where...... Where am I......?」"
+msgstr "???「¿Dónde...... Dónde estoy......?」"
+
+msgid "???「......! Whoa!!」"
+msgstr "???「...... ¡Uah!!」"
+
+msgid "???「D-Don't kill m......eh?」"
+msgstr "???「N-No me mat...... ¿eh?」"
+
+msgid "???「......Oh...... j-just a mirror, nothing to be＿scared...... Ohh!?」"
+msgstr "???「......Ah...... s-solo es un espejo,＿nada de qué asustarse...... ¡¿Ehh?!」"
+
+msgid "???「W-Wait a sec...... I......! I, I'm......」"
+msgstr "???「E-Espera un segundo......＿¡Yo......! Yo, yo soy......」"
+
+msgid "???「......Who am I?」"
+msgstr "???「......¿Quién soy?」"
+
+msgid "???「......*Gasp*! Ryuuji, Ryuujiii!」"
+msgstr "???「......¡Ah! ¡Ryuuji, Ryuujiii!」"
+
+msgid "???「......Oh?」"
+msgstr "???「......¿Eh?」"
+
+msgid "???「Ryuuji, Ryuuji, Ryuuujiiii!」"
+msgstr "???「¡Ryuuji, Ryuuji, Ryuuujiiii!」"
+
+msgid "Ryuuji?「O-O-Ohh......?」"
+msgstr "Ryuuji?「¿E-E-Ehh......?」"
+
+msgid "???「Thank goodness, you're finally＿awake...... What a relief. I'm so glad......」"
+msgstr "???「Menos mal, por fin despertaste......＿Qué alivio. Me alegro tanto......」"
+
+msgid "Ryuuji?「......」"
+msgstr "Ryuuji?「......」"
+
+msgid "???「Are you okay? Are you hurt＿anywhere?」"
+msgstr "???「¿Estás bien? ¿Te duele＿alguna parte?」"
+
+msgid "Ryuuji?「Oh...... Err......」"
+msgstr "Ryuuji?「Ah...... Ehm......」"
+
+msgid "???「Why are you all spaced out......? Well, I＿can't say I blame you. You've been in a＿coma for the past three days.」"
+msgstr "???「¿Por qué estás tan aturdido......?＿Bueno, no puedo culparte. Has estado＿en coma los últimos tres días.」"
+
+msgid "Ryuuji?「......Three days?」"
+msgstr "Ryuuji?「......¿Tres días?」"
+
+msgid "Ryuuji?「The 28th......」"
+msgstr "Ryuuji?「El 28......」"
+
+msgid "???「Yacchan and I have been taking turns＿to look after you...... Oh, she's probably＿resting at home right now.」"
+msgstr "???「Yacchan y yo nos hemos turnado para＿cuidarte...... Ah, ella probablemente＿esté descansando en casa ahora mismo.」"
+
+msgid "Ryuuji?「H-Hold on a minute.」"
+msgstr "Ryuuji?「E-Espera un momento.」"
+
+msgid "???「What is it?」"
+msgstr "???「¿Qué pasa?」"
+
+msgid "Ryuuji?「Er...... \"Ryuuji\"? Is that my name?」"
+msgstr "Ryuuji?「Ehm...... ¿\"Ryuuji\"? ¿Ese es mi nombre?」"
+
+msgid "???「Huh? Don't be stupid. That's your＿name right there.」"
+msgstr "???「¿Eh? No digas tonterías. Es tu＿nombre el que está ahí.」"
+
+msgid "Ryuuji「Oh, I didn't notice...... Takasu, Ryuuji......＿Takasu Ryuuji......」"
+msgstr "Ryuuji「Ah, no me había dado cuenta......＿Takasu, Ryuuji...... Takasu Ryuuji......」"
+
+msgid "???「......Hey, Ryuuji, what's the deal? This＿some kind of joke?」"
+msgstr "???「......Oye, Ryuuji, ¿qué te pasa? ¿Esto＿es algún tipo de broma?」"
+
+msgid "???「Oh my, what a pickle. Your tiny brain＿overheated, and now you've finally＿gone over the deep end.」"
+msgstr "???「Vaya lío. Tu diminuto cerebro＿se sobrecalentó, y ahora por fin＿perdiste la cabeza.」"
+
+msgid "Ryuuji「Yeah, seems like it. I can't remember＿who YOU are, either.」"
+msgstr "Ryuuji「Sí, parece que sí. Tampoco recuerdo＿quién eres TÚ.」"
+
+msgid "???「Hmph. Well, don't call me \"you\".」"
+msgstr "???「Jum. Bueno, no me llames \"tú\".」"
+
+msgid "Ryuuji「S-Sorry...... What should I call you?」"
+msgstr "Ryuuji「P-Perdón...... ¿Cómo debería llamarte?」"
+
+msgid "???「Call me \"Taiga\" like usual, I guess.」"
+msgstr "???「Llámame \"Taiga\" como siempre, supongo.」"
+
+msgid "Ryuuji「\"Tiger\"?」"
+msgstr "Ryuuji「¿\"Tigre\"?」"
+
+msgid "Ryuuji「No, no, I'm quite serious! ......So, you＿write \"Taiga\" with the kanji for 'big' and＿'river'?」"
+msgstr "Ryuuji「¡No, no, lo digo muy en serio!＿......Entonces, ¿\"Taiga\" se escribe＿con los kanji de 'grande' y 'río'?」"
+
+msgid "Taiga「......Well yeah, but...... you're really, really＿not kidding? You can't remember＿anything?」"
+msgstr "Taiga「......Bueno, sí, pero......＿¿de verdad, de verdad no estás＿bromeando? ¿No puedes recordar nada?」"
+
+msgid "Ryuuji「Uh...... Nope, zilch, nada.」"
+msgstr "Ryuuji「Eh...... No, nada de nada.」"
+
+msgid "Taiga「......I, I'm going to call the doctor.」"
+msgstr "Taiga「......V-Voy a llamar al doctor.」"
+
+msgid "Ryuuji「Oh, okay......」"
+msgstr "Ryuuji「Ah, está bien......」"
+
+msgid "Taiga「......Hey, Ryuuji......」"
+msgstr "Taiga「......Oye, Ryuuji......」"
+
+msgid "Ryuuji「Yeah?」"
+msgstr "Ryuuji「¿Sí?」"
+
+msgid "Taiga「Do you remember what happened the＿night of Christmas Eve?」"
+msgstr "Taiga「¿Recuerdas lo que pasó en＿Nochebuena?」"
+
+msgid "Ryuuji「..................I'm sorry, no.」"
+msgstr "Ryuuji「..................Lo siento, no.」"
+
+msgid "Taiga「......I see.」"
+msgstr "Taiga「......Ya veo.」"
+
+msgid "Ryuuji「There's something in this world that＿no one has ever seen.」"
+msgstr "Ryuuji「Hay algo en este mundo que＿nadie ha visto jamás.」"
+
+msgid "Ryuuji「It is soft and very sweet. Were they＿able to see it, everyone would want to＿have it.」"
+msgstr "Ryuuji「Es suave y muy dulce. Si pudieran＿verlo, todos desearían tenerlo.」"
+
+msgid "Taiga「That's why no one has ever seen it.＿The world hid it so as to make it＿difficult to obtain.」"
+msgstr "Taiga「Por eso nadie lo ha visto jamás.＿El mundo lo ocultó para que fuera＿difícil de obtener.」"
+
+msgid "Minori「But there will come a day when it is＿discovered.」"
+msgstr "Minori「Pero llegará el día en que sea＿descubierto.」"
+
+msgid "Ami「And only one who deserves it will be＿able to find it.」"
+msgstr "Ami「Y solo quien lo merezca será＿capaz de encontrarlo.」"
+
+msgid "Everyone「And that's how the story goes.」"
+msgstr "Todos「Y así es la historia.」"
+
+msgid "???「Yeah. On Christmas morning, Yacchan＿found you collapsed in the kitchen.」"
+msgstr "???「Sí. La mañana de Navidad, Yacchan＿te encontró desplomado en la cocina.」"
+
+msgid "???「She rushed you to the hospital and＿you were admitted straight away. And＿now it's the 28th.」"
+msgstr "???「Te llevó de urgencia al hospital y＿te internaron de inmediato. Y＿ahora es 28.」"
+
+msgid "???「She said she had to go to work no＿matter what. It's the end of the year, so＿it's busy. She was worried to death」"
+msgstr "???「Dijo que tenía que ir a trabajar como＿fuera. Es fin de año, así que hay mucho＿trabajo. Estaba muerta de preocupación」"
+
+msgid "???「about you.」"
+msgstr "???「por ti.」"
+
+msgid "Ryuuji「No, actually...... ever since I woke up, I＿haven't been able to remember＿anything. Even my own name feels」"
+msgstr "Ryuuji「No, la verdad...... desde que desperté,＿no he podido recordar nada.＿Hasta mi propio nombre me resulta」"
+
+msgid "Ryuuji「foreign to me.」"
+msgstr "Ryuuji「ajeno.」"
+
+msgid "Tiger?「......Ryuuji, you're doing this on purpose,＿aren't you?」"
+msgstr "Tigre?「......Ryuuji, estás haciendo esto＿a propósito, ¿verdad?」"
+
+msgid "Tiger?「As soon as you get discharged,＿prepare to be beaten to a pulp!」"
+msgstr "Tigre?「En cuanto te den el alta,＿¡prepárate, que te voy a moler a golpes!」"

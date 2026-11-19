@@ -1,0 +1,140 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「（Where did Taiga go......?）」"
+msgstr "Ryuuji「（¿Adónde fue Taiga......?）」"
+
+msgid "Haruta「Inspector Noto, target acquired!」"
+msgstr "Haruta「¡Inspector Noto, objetivo localizado!」"
+
+msgid "Noto「Well done, Constable Haruta! Capture＿him this instant!!」"
+msgstr "Noto「¡Bien hecho, oficial Haruta! ¡¡Captúralo＿en este instante!!」"
+
+msgid "Haruta「Righto!!」"
+msgstr "Haruta「¡¡A la orden!!」"
+
+msgid "Ryuuji「What's going on......? Whoa!!」"
+msgstr "Ryuuji「¿Qué está pasando......? ¡¡Uah!!」"
+
+msgid "Haruta「TARGET ASSURED!」"
+msgstr "Haruta「¡OBJETIVO ATESORADO!」"
+
+msgid "Noto「Don't you mean secured!? Well,＿whichever. Takasu Ryuuji, you're＿under arrest!」"
+msgstr "Noto「¡¿No querrás decir asegurado?!＿Bueno, como sea. ¡Takasu Ryuuji,＿estás bajo arresto!」"
+
+msgid "Ryuuji「I don't recall committing a crime!」"
+msgstr "Ryuuji「¡No recuerdo haber cometido un crimen!」"
+
+msgid "Noto「Don't say you don't remember.＿Constable Haruta, read him the＿charges!」"
+msgstr "Noto「No digas que no te acuerdas. Oficial＿Haruta, ¡léele los cargos!」"
+
+msgid "Haruta「Taka-chan's charges are as follows......＿Getting frisky with an unwilling＿Ami-chan at the planetarium!!」"
+msgstr "Haruta「Los cargos de Taka-chan son estos......＿¡¡Propasarse con Ami-chan contra su＿voluntad en el planetario!!」"
+
+msgid "Ryuuji「WHAT THE FUUUUCK!?」"
+msgstr "Ryuuji「¡¿QUÉ MIERDAAAA?!」"
+
+msgid "Noto「Takasu, you don't know when to give＿up. We have proof that you went to the＿planetarium with Ami-chan.」"
+msgstr "Noto「Takasu, no sabes cuándo rendirte.＿Tenemos pruebas de que fuiste al＿planetario con Ami-chan.」"
+
+msgid "Haruta「Yup yup, so make it easy and start＿talking. Want some katsudon?」"
+msgstr "Haruta「Sip, sip, así que coopera y empieza a＿hablar. ¿Quieres un poco de katsudon?」"
+
+msgid "Ryuuji「No thanks. It's true that we went,＿but...... can I really call that \"going with＿her\"?」"
+msgstr "Ryuuji「No, gracias. Es verdad que fuimos,＿pero...... ¿de verdad se puede decir＿que \"fui con ella\"?」"
+
+msgid "Haruta「AHA!」"
+msgstr "Haruta「¡AJÁ!」"
+
+msgid "Ryuuji「I swear I'm innocent! Wait, who's been＿spreading this?」"
+msgstr "Ryuuji「¡Juro que soy inocente! Espera,＿¿quién anda esparciendo esto?」"
+
+msgid "Noto「While the tears spilled, Ami-chan＿spilled all, see.」"
+msgstr "Noto「Mientras soltaba lágrimas, Ami-chan＿soltó toda la verdad, ¿ves?」"
+
+msgid "Haruta「Yup yup. That poor little thing～ I＿started cryin' too, man.」"
+msgstr "Haruta「Sip, sip. Pobrecita～ Yo también＿me puse a llorar, amigo.」"
+
+msgid "Ryuuji「Wha...... What nonsense did she＿brainwash you with......?」"
+msgstr "Ryuuji「¿Qué...... Con qué tonterías＿les lavó el cerebro......?」"
+
+msgid "Haruta「Then you sidled up to her, taking＿advantage of our kind Ami-chan who＿can't say no, and blew into her ear......」"
+msgstr "Haruta「Luego te acercaste, aprovechando que＿la amable Ami-chan no sabe decir que＿no, y le soplaste al oído......」"
+
+msgid "Noto「Futhermore, while panting into her＿ear, you reached for her waist, and......!＿Aaaahh!」"
+msgstr "Noto「Y además, mientras jadeabas en＿su oído, le agarraste la cintura,＿¡y......! ¡Aaaahh!」"
+
+msgid "Ryuuji「YOU GOTTA BE KIDDING!!」"
+msgstr "Ryuuji「¡¡TIENEN QUE ESTAR BROMEANDO!!」"
+
+msgid "Haruta「Eeekk!! Notocchi, Taka-chan's scary～ I＿feel bad for Ami-chan～!」"
+msgstr "Haruta「¡¡Aaah!! Notocchi, Taka-chan＿da miedo～ ¡Pobre Ami-chan～!」"
+
+msgid "Noto「Molested by a guy with a piercing＿glare, it's no wonder Ami-chan was＿crying!」"
+msgstr "Noto「Acosada por un tipo de mirada＿penetrante, ¡con razón Ami-chan＿estaba llorando!」"
+
+msgid "Ryuuji「（Kawashima...... goddamn you......）」"
+msgstr "Ryuuji「（Kawashima...... maldita seas......）」"
+
+msgid "Haruta「Taka-chan, let me hold the hand you＿touched Ami-chan with! Ah～ It's so＿rough...... Kinda disappointing.」"
+msgstr "Haruta「¡Taka-chan, déjame tomar la mano con la＿que tocaste a Ami-chan! Ah～ Qué áspera＿está...... Algo decepcionante.」"
+
+msgid "Ryuuji「Let go! Sheesh, getting friggin'＿manipulated by that stupid work of＿fiction.」"
+msgstr "Ryuuji「¡Suéltame! Cielos, dejándose manipular＿por esa estúpida ficción.」"
+
+msgid "Noto「Haruta, you idiot. Tiger is Kitamura's.」"
+msgstr "Noto「Haruta, idiota. Tigre es de Kitamura.」"
+
+msgid "Ryuuji「W-What?」"
+msgstr "Ryuuji「¿Q-Qué?」"
+
+msgid "Noto「Well, don't they look good together?＿The Tiger likes how totally＿straightforward Kitamura is.」"
+msgstr "Noto「Bueno, ¿no se ven bien juntos?＿A Tigre le gusta lo totalmente＿directo que es Kitamura.」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Noto「A troublemaking klutz like her should＿be with a guy like Kitamura who's got＿his act together. Common sense.」"
+msgstr "Noto「Una torpe buscapleitos como ella debe＿estar con alguien centrado como＿Kitamura. Es sentido común.」"
+
+msgid "Haruta「Yeah～ Probably～ Maybe～」"
+msgstr "Haruta「Sí～ Seguro～ Tal vez～」"
+
+msgid "Ryuuji「Ridiculous.」"
+msgstr "Ryuuji「Qué ridiculez.」"
+
+msgid "Noto「Huh? What's wrong, Takasu? What's＿got you mad all of a sudden?」"
+msgstr "Noto「¿Eh? ¿Qué pasa, Takasu? ¿Qué te＿hizo enojar tan de repente?」"
+
+msgid "Ryuuji「I, I'm not mad. If you guys are heading＿out for karaoke, then get going＿already.」"
+msgstr "Ryuuji「N-No estoy enojado. Si ya se van al＿karaoke, entonces váyanse de una vez.」"
+
+msgid "Haruta「You're comin' too, right Taka-chan?」"
+msgstr "Haruta「Tú también vienes, ¿verdad, Taka-chan?」"
+
+msgid "Noto「Yeah, that's right. We haven't finished＿our interrogation.」"
+msgstr "Noto「Sí, exacto. Todavía no terminamos＿nuestro interrogatorio.」"
+
+msgid "Ryuuji「......Nah, I'm good. See ya.」"
+msgstr "Ryuuji「......Nah, paso. Nos vemos.」"
+
+msgid "Haruta「Taka-chan......?」"
+msgstr "Haruta「¿Taka-chan......?」"
+
+msgid "Noto「Nonsense? You forced her to go to the＿planetarium, and when they dimmed＿the lights, you suddenly grabbed her」"
+msgstr "Noto「¿Tonterías? La obligaste a ir al＿planetario y, al atenuarse las luces, de＿repente le agarraste la」"
+
+msgid "Noto「hand.」"
+msgstr "Noto「mano.」"
+
+msgid "Haruta「Fiction～? But Taka-chan, you really＿do get along with Ami-chan, dude～＿And you're buds with the Tiger too～」"
+msgstr "Haruta「¿Ficción～? Pero Taka-chan, de verdad te＿llevas bien con Ami-chan, amigo～ ¡Y＿también eres muy cercano a Tigre～!」"
+
+msgid "Haruta「So be grateful～ I object to this＿monopoly!」"
+msgstr "Haruta「Así que agradece～ ¡Me opongo＿a este monopolio!」"
+
+msgid "Noto「Besides, man, wouldn't it be a hoot if＿Kitamura got with the Tiger? They'd be＿the cutest couple in class - unbeatably」"
+msgstr "Noto「Además, ¿no sería genial que Kitamura＿saliera con Tigre? ¡Serían la pareja más＿linda de la clase, sin rival en」"
+
+msgid "Noto「attractive and popular!」"
+msgstr "Noto「atractivo y popularidad!」"

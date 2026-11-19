@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+
+msgid "Ami「Oh, Maya-chan and Nanako-chan are＿back.」"
+msgstr "Ami「Ah, Maya-chan y Nanako-chan＿ya volvieron.」"
+
+msgid "Kihara「Ami-chan, sorry for the wait!」"
+msgstr "Kihara「¡Ami-chan, perdón por la espera!」"
+
+msgid "Kashii「Oh my, Takasu-kun is here as well.」"
+msgstr "Kashii「Vaya, Takasu-kun también está aquí.」"
+
+msgid "Ami「Yep. We just ended up hanging out.＿How was the aromatherapy?」"
+msgstr "Ami「Sip. Terminamos pasando el rato juntos.＿¿Qué tal la aromaterapia?」"
+
+msgid "Kihara「It was the BEST! My face feels like it's＿one size smaller!」"
+msgstr "Kihara「¡Fue lo MÁXIMO! ¡Siento mi cara＿una talla más pequeña!」"
+
+msgid "Kashii「We want you to experience it too,＿Ami-chan.」"
+msgstr "Kashii「Queremos que tú también＿lo pruebes, Ami-chan.」"
+
+msgid "Ami「Sure! Then I'll head in. See ya,＿Takasu-kun.」"
+msgstr "Ami「¡Claro! Entonces voy entrando.＿Nos vemos, Takasu-kun.」"
+
+msgid "Kashii「Takasu-kun, are you by yourself?＿Where's Noto-kun and the others?」"
+msgstr "Kashii「Takasu-kun, ¿estás solo? ¿Dónde＿están Noto-kun y los demás?」"
+
+msgid "Ryuuji「Uhh...... Well, I'm still recovering, so I＿thought I'd take it easy for a while.」"
+msgstr "Ryuuji「Ehh...... Bueno, sigo recuperándome,＿así que pensé en tomármelo con＿calma un rato.」"
+
+msgid "Kihara「Huh? You were sick or something!?」"
+msgstr "Kihara「¿Eh? ¡¿Estuviste enfermo o algo así?!」"
+
+msgid "Ryuuji「Yeah, well, I kinda had the flu. I'm all＿better now, but I figure I should＿probably play it safe for now.」"
+msgstr "Ryuuji「Sí, bueno, me dio algo así como gripe.＿Ya estoy mucho mejor, pero supongo que＿debería ir sobre seguro por ahora.」"
+
+msgid "Kashii「I see. That must have been awful.」"
+msgstr "Kashii「Ya veo. Eso debió ser horrible.」"
+
+msgid "Ryuuji「......Yeah.」"
+msgstr "Ryuuji「......Sí.」"
+
+msgid "Ryuuji「（Sorry for inadvertently making you＿worry, but I'm better off keeping quiet＿about my amnesia.）」"
+msgstr "Ryuuji「（Perdón por preocuparlas sin querer,＿pero es mejor que guarde silencio＿sobre mi amnesia.）」"
+
+msgid "Ryuuji「Well, I'm gonna go check out the cold＿sauna.」"
+msgstr "Ryuuji「Bueno, iré a echarle un vistazo＿a la sauna fría.」"
+
+msgid "Kihara「Yeah? Okay, see you when you get＿back!」"
+msgstr "Kihara「¿Sí? ¡Bien, nos vemos cuando regreses!」"
+
+msgid "Ryuuji「Okay.」"
+msgstr "Ryuuji「Está bien.」"
+
+msgid "Ryuuji「（Wow, so this is what a cold sauna's like.）」"
+msgstr "Ryuuji「（Vaya, así que así es una sauna fría.）」"
+
+msgid "Ryuuji「（A guy could really lose track of time in＿here......）」"
+msgstr "Ryuuji「（Uno de verdad podría perder la noción＿del tiempo aquí dentro......）」"
+
+msgid "Ryuuji「*Sigh*......」"
+msgstr "Ryuuji「*Suspiro*......」"
+
+msgid "Ryuuji「（Talking to girls definitely still makes＿me nervous.）」"
+msgstr "Ryuuji「（Hablar con chicas definitivamente＿me sigue poniendo nervioso.）」"
+
+msgid "Ryuuji「（Though I can talk to Taiga easily＿enough......）」"
+msgstr "Ryuuji「（Aunque con Taiga puedo hablar＿con bastante facilidad......）」"
+
+msgid "Ryuuji「*Yawn*......」"
+msgstr "Ryuuji「*Bostezo*......」"
+
+msgid "Ryuuji「........................................................................」"
+msgstr "Ryuuji「....................................＿....................................」"
+
+msgid "Ryuuji「（......Huh? Crap, I totally passed out.）」"
+msgstr "Ryuuji「（......¿Eh? Rayos, me quedé＿totalmente dormido.）」"
+
+msgid "Ryuuji「（Oh, and Kawashima too, I guess. We＿talked quite a bit just now. With her I＿can chat without getting too worked）」"
+msgstr "Ryuuji「（Ah, y Kawashima también, supongo.＿Hablamos mucho hace un rato. Con ella＿puedo charlar sin ponerme tan）」"
+
+msgid "Ryuuji「（up. Though it does more harm than＿good......）」"
+msgstr "Ryuuji「（nervioso. Aunque hace más＿daño que bien......）」"

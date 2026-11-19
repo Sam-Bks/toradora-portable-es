@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+
+msgid "Yasuko「Sweeeeet～～～」"
+msgstr "Yasuko「Dulceeee～～～」"
+
+msgid "Ryuuji「What is it, Yasuko? Start from the＿beginning.」"
+msgstr "Ryuuji「¿Qué pasa, Yasuko? Empieza＿desde el principio.」"
+
+msgid "Yasuko「I smell something sweeeet～～」"
+msgstr "Yasuko「Huelo algo dulceee～～」"
+
+msgid "Yasuko「Ah, Ryuu-chan, morning～」"
+msgstr "Yasuko「Ah, Ryuu-chan, buenos días～」"
+
+msgid "Ryuuji「Morning. Changing the subject, huh.」"
+msgstr "Ryuuji「Buenos días. Cambiando de tema, ¿eh?」"
+
+msgid "Yasuko「Did you make enough for Yacchan～?」"
+msgstr "Yasuko「¿Hiciste suficiente para Yacchan～?」"
+
+msgid "Ryuuji「And we're back. Yeah, of course I did.」"
+msgstr "Ryuuji「Y volvemos al tema. Sí, claro que sí.」"
+
+msgid "Yasuko「Yaaay...... huh?」"
+msgstr "Yasuko「Siii...... ¿eh?」"
+
+msgid "Ryuuji「What's the matter?」"
+msgstr "Ryuuji「¿Qué ocurre?」"
+
+msgid "Yasuko「Ryuu-chan's wearing his uniformmm～＿Going to school todayyy?」"
+msgstr "Yasuko「Ryuu-chan lleva puesto su uniformeee～＿¿Hoy vas a la escuelaaa?」"
+
+msgid "Ryuuji「......You only just noticed? I told you the＿opening ceremony is today, didn't I?」"
+msgstr "Ryuuji「......¿Apenas te das cuenta?＿Te dije que hoy es la ceremonia＿de apertura, ¿no?」"
+
+msgid "Yasuko「Oh, come to think of it, maybe you＿did～ Hmmm...... Ryuu-chan's going＿back to school today...... *Yawnnnn*」"
+msgstr "Yasuko「Ah, ahora que lo pienso, puede que＿sí～ Mmmm...... Ryuu-chan vuelve hoy＿a la escuela...... *Bostezooo*」"
+
+msgid "Ryuuji「You can go back to sleep. I'll save＿some pancakes for you.」"
+msgstr "Ryuuji「Puedes volver a dormir. Te guardaré＿algunos panqueques.」"
+
+msgid "Yasuko「Yacchan...... wants maple syrup on top,＿please......」"
+msgstr "Yasuko「Yacchan...... quiere jarabe de＿arce encima, por favor......」"
+
+msgid "Ryuuji「Okay, I'll be sure to set some aside.」"
+msgstr "Ryuuji「Bien, me aseguraré de apartar un poco.」"
+
+msgid "Yasuko「Thanks...... Yacchan's going back to＿bed......」"
+msgstr "Yasuko「Gracias...... Yacchan se va＿a volver a acostar......」"
+
+msgid "Ryuuji「Sleep tight.」"
+msgstr "Ryuuji「Que descanses.」"
+
+msgid "Yasuko「Good nighttt......」"
+msgstr "Yasuko「Buenas nochesss......」"
+
+msgid "Ryuuji「（Now then, I guess I'll get the rest done＿now.）」"
+msgstr "Ryuuji「（Bueno, supongo que terminaré＿el resto ahora.）」"
+
+msgid "Taiga「What's for breakfast today? The＿second I came in, I could smell＿something sweet.」"
+msgstr "Taiga「¿Qué hay hoy de desayuno? Apenas＿entré, pude oler algo dulce.」"
+
+msgid "Ryuuji「What, are you guys taking turns?」"
+msgstr "Ryuuji「¿Qué, acaso se turnan?」"
+
+msgid "Taiga「What are you talking about?」"
+msgstr "Taiga「¿De qué estás hablando?」"
+
+msgid "Ryuuji「Nothing. We're having pancakes today.」"
+msgstr "Ryuuji「Nada. Hoy desayunamos panqueques.」"
+
+msgid "Taiga「Wow...... Well, that's not a bad idea.」"
+msgstr "Taiga「Vaya...... Bueno, no es mala idea.」"
+
+msgid "Ryuuji「If you're happy about it, just be honest.＿I can see that big grin on your face.」"
+msgstr "Ryuuji「Si te alegra, solo admítelo. Puedo ver＿esa enorme sonrisa en tu cara.」"
+
+msgid "Ryuuji「Alright, alright, hang on.」"
+msgstr "Ryuuji「Está bien, está bien, espera.」"
+
+msgid "Ryuuji「Taiga, can't you walk a little faster?」"
+msgstr "Ryuuji「Taiga, ¿no puedes caminar＿un poco más rápido?」"
+
+msgid "Taiga「But I'm so full. Let me walk at my own＿pace.」"
+msgstr "Taiga「Pero estoy muy llena. Déjame＿caminar a mi ritmo.」"
+
+msgid "Ryuuji「......Sheesh, don't overeat then, dork.＿You even fuckin' snagged some of＿mine.」"
+msgstr "Ryuuji「......Vaya, entonces no comas de＿más, tonta. Hasta me robaste parte＿de los míos, maldita sea.」"
+
+msgid "Taiga「You weren't eating it fast enough, so I＿was tidying up the plate for you.」"
+msgstr "Taiga「No comías lo bastante rápido, así que＿te estaba limpiando el plato.」"
+
+msgid "Ryuuji「Just admit that you overate because it＿was so good.」"
+msgstr "Ryuuji「Solo admite que comiste de más＿porque estaba delicioso.」"
+
+msgid "Minori「Yoo-hoo～ Taiga! Takasu-kun!」"
+msgstr "Minori「¡Yujuuu～ Taiga! ¡Takasu-kun!」"
+
+msgid "Taiga「Minorin!」"
+msgstr "Taiga「¡Minorin!」"
+
+msgid "Minori「Happy belated new year! Kushieda＿Minori is in your hands for another＿year!」"
+msgstr "Minori「¡Feliz Año Nuevo atrasado! ¡Kushieda＿Minori queda en sus manos un año más!」"
+
+msgid "Ryuuji「Happy New Year. Come to think of it,＿Kushieda, this is the first time I've＿seen you since the start of the year.」"
+msgstr "Ryuuji「Feliz Año Nuevo. Ahora que lo pienso,＿Kushieda, es la primera vez que te＿veo desde que empezó el año.」"
+
+msgid "Taiga「Minorin, you were at your grandma's＿house, right?」"
+msgstr "Taiga「Minorin, estuviste en casa＿de tu abuela, ¿verdad?」"
+
+msgid "Minori「Yup. I got to kick back and relax the＿whole time～」"
+msgstr "Minori「Sip. Pude descansar y relajarme＿todo el tiempo～」"
+
+msgid "Minori「Oh yeah! Did you guys solve the case＿of Takasu-kun's Missing Memories＿while I was gone?」"
+msgstr "Minori「¡Ah, sí! ¿Resolvieron el caso de＿los Recuerdos Perdidos de Takasu-kun＿mientras no estaba?」"
+
+msgid "Ryuuji「No, the culprit's still at large......」"
+msgstr "Ryuuji「No, el culpable sigue suelto......」"
+
+msgid "Minori「Hmmm～ ......Seems like it's not a＿problem that will fix itself. That's not＿good......」"
+msgstr "Minori「Mmmm～ ......Parece que no es un＿problema que vaya a arreglarse＿solo. Eso no es bueno......」"
+
+msgid "Ryuuji「Huh? You've been helping me＿remember? Are you joking!?」"
+msgstr "Ryuuji「¿Eh? ¿Que has estado ayudándome＿a recordar? ¡¿Es broma?!」"
+
+msgid "Ryuuji「So? Even if I don't get help from you,＿Kitamura could probably cover for me＿pretty well, so I'm not worried.」"
+msgstr "Ryuuji「¿Y qué? Aunque no me ayudes, seguro＿que Kitamura puede cubrirme bastante＿bien, así que no me preocupo.」"
+
+msgid "Minori「I plan to lend a hand too, see. If＿anything goes wrong, don't you＿hesitate to tell me.」"
+msgstr "Minori「Yo también pienso echar una＿mano, ¿ves? Si algo sale mal,＿no dudes en decírmelo.」"
+
+msgid "Taiga「Minorin, you can forget about taking＿over. I don't want you at his beck and＿call.」"
+msgstr "Taiga「Minorin, olvídate de tomar el relevo. No＿quiero que estés a su disposición.」"
+
+msgid "Minori「Harsh of you, Taiga. People are＿naturally mutually supportive＿creatures, ya know?」"
+msgstr "Minori「Qué dura eres, Taiga. Las personas＿somos criaturas que se apoyan mutuamente＿por naturaleza, ¿sabes?」"
+
+msgid "Ryuuji「Oh, Kushieda, that's deep!」"
+msgstr "Ryuuji「¡Oh, Kushieda, qué profundo!」"
+
+msgid "Taiga「......No I won't.」"
+msgstr "Taiga「......No lo haré.」"
+
+msgid "Minori「Huh? Where are you going,＿Takasu-kun? The classroom's this way,＿bud.」"
+msgstr "Minori「¿Eh? ¿Adónde vas, Takasu-kun? El＿salón queda por aquí, amigo.」"
+
+msgid "Ryuuji「Uh, I've got a little something to take＿care of......」"
+msgstr "Ryuuji「Eh, tengo un asuntito que resolver......」"
+
+msgid "Taiga「Taking care of what exactly?」"
+msgstr "Taiga「¿Resolver qué exactamente?」"
+
+msgid "\"Don't forget our agreement on the＿morning of the 7th.\""
+msgstr "\"No olvides nuestro acuerdo para la＿mañana del 7.\""
+
+msgid "Ryuuji「（Looks like things will get complicated＿if I tell these two about it......）」"
+msgstr "Ryuuji「（Parece que todo se complicará si les＿cuento de esto a estas dos......）」"
+
+msgid "Ryuuji「I think I should tell Sensei about my＿amnesia. You know, to avoid problems＿in class and all that?」"
+msgstr "Ryuuji「Creo que debería contarle a Sensei lo＿de mi amnesia. Ya sabes, para evitar＿problemas en clase y eso, ¿no?」"
+
+msgid "Ryuuji「No, that's okay! Kitamura agreed to＿come with me.」"
+msgstr "Ryuuji「¡No, está bien! Kitamura＿quedó en ir conmigo.」"
+
+msgid "Ryuuji「（One lie after another......）」"
+msgstr "Ryuuji「（Una mentira tras otra......）」"
+
+msgid "Taiga「Something's fishy...... You're hiding＿something, aren't you?」"
+msgstr "Taiga「Aquí hay gato encerrado...... Estás＿ocultando algo, ¿verdad?」"
+
+msgid "Ryuuji「N-No I'm not.」"
+msgstr "Ryuuji「N-No es verdad.」"
+
+msgid "Minori「Hey now, Taiga. It's bad not to trust＿Takasu-kun, bud.」"
+msgstr "Minori「Vamos, Taiga. Está mal no confiar＿en Takasu-kun, amiga.」"
+
+msgid "Taiga「But Ryuuji's acting kinda weird!」"
+msgstr "Taiga「¡Pero Ryuuji está actuando algo raro!」"
+
+msgid "Minori「Now, now. Even if Takasu-kun was＿hiding something, isn't it our job as his＿friends to respect his privacy, dude?」"
+msgstr "Minori「Calma, calma. Aunque Takasu-kun ocultara＿algo, ¿no es nuestro deber como amigos＿respetar su privacidad, amiga?」"
+
+msgid "Ryuuji「You really are wise, Kushieda. You＿should try to follow her example, Taiga.」"
+msgstr "Ryuuji「De verdad eres sabia, Kushieda. Deberías＿seguir su ejemplo, Taiga.」"
+
+msgid "Taiga「Shut it! Hurry and get lost!」"
+msgstr "Taiga「¡Cállate! ¡Apúrate y lárgate!」"
+
+msgid "Ryuuji「Oh, I'll do just that.」"
+msgstr "Ryuuji「Ah, eso mismo haré.」"
+
+msgid "Minori「Laters～」"
+msgstr "Minori「Nos vemos～」"
+
+msgid "Ryuuji「Oh, I made an attempt at pancakes for＿breakfast today. I thought something＿like this would be nice after all the」"
+msgstr "Ryuuji「Ah, hoy intenté hacer panqueques para＿el desayuno. Pensé que algo así vendría＿bien después de toda la」"
+
+msgid "Ryuuji「Japanese food we've had lately.」"
+msgstr "Ryuuji「comida japonesa que hemos＿comido últimamente.」"
+
+msgid "Taiga「Oh, shut up～ I just happen to be in the＿mood for something sweet this＿morning. More importantly, hurry and」"
+msgstr "Taiga「Ay, cállate～ Justo hoy amanecí＿con antojo de algo dulce. Lo más＿importante, apúrate y」"
+
+msgid "Taiga「make them already. Pancakes are best＿fresh.」"
+msgstr "Taiga「hazlos de una vez. Los panqueques＿son mejores recién hechos.」"
+
+msgid "Taiga「Ryuuji here's forgotten nearly＿everything, so I need you to take over,＿Minorin. I'm tired of jogging his」"
+msgstr "Taiga「Ryuuji olvidó casi todo, así que＿necesito que tomes el relevo,＿Minorin. Ya me cansé de refrescarle la」"
+
+msgid "Taiga「memory.」"
+msgstr "Taiga「memoria.」"
+
+msgid "Taiga「What? If that's how you feel, then I'm＿not helping you if you screw＿something up and the whole class」"
+msgstr "Taiga「¿Qué? Si así piensas, ¡no te ayudaré＿si arruinas algo y toda la clase」"
+
+msgid "Taiga「gives you the cold shoulder!」"
+msgstr "Taiga「te da la espalda!」"
+
+msgid "Minori「Ha ha ha! Well, no matter what she＿says, if push comes to shove, I think＿Taiga would be the first in line to help」"
+msgstr "Minori「¡Ja, ja, ja! Diga lo que diga,＿a la hora de la verdad, creo＿que Taiga sería la primera en」"
+
+msgid "Minori「you.」"
+msgstr "Minori「ayudarte.」"
+
+msgid "Minori「Ohhh. In that case, we can all go and＿explain everything. If you say \"I've got＿amnesia\" out of the blue, they might」"
+msgstr "Minori「Ohhh. Entonces podemos ir todos＿a explicarlo. Si dices \"Tengo＿amnesia\" de repente, podrían」"
+
+msgid "Minori「think you're screwing around.」"
+msgstr "Minori「pensar que estás bromeando.」"

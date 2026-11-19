@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+
+msgid "Taiga「This situation is grave.」"
+msgstr "Taiga「Esta situación es grave.」"
+
+msgid "Ryuuji「......Huh?」"
+msgstr "Ryuuji「......¿Eh?」"
+
+msgid "Taiga「Both your lack of common sense and＿appalling conversational skills are＿straight-up lethal.」"
+msgstr "Taiga「Tanto tu falta de sentido común como＿tu pésima habilidad para conversar＿son francamente letales.」"
+
+msgid "Taiga「Did you lose a bit of brain matter along＿with your memories?」"
+msgstr "Taiga「¿Perdiste algo de masa cerebral＿junto con tus recuerdos?」"
+
+msgid "Ryuuji「W-Wow, that's harsh......」"
+msgstr "Ryuuji「V-Vaya, qué dura......」"
+
+msgid "Taiga「This is the TV remote. This is a pen.＿Here's a piece of paper.」"
+msgstr "Taiga「Este es el control de la tele. Esto es＿un bolígrafo. Aquí tienes papel.」"
+
+msgid "Ryuuji「What do you want me to......?」"
+msgstr "Ryuuji「¿Qué quieres que......?」"
+
+msgid "Taiga「If you have the spare time to talk to＿me, it's better spent learning＿conversation skills by watching TV!」"
+msgstr "Taiga「¡Si tienes tiempo para hablar conmigo,＿mejor úsalo para aprender habilidades＿de conversación viendo la tele!」"
+
+msgid "Taiga「......I'm going to sleep.」"
+msgstr "Taiga「......Me voy a dormir.」"
+
+msgid "Ryuuji「Oh, okay......」"
+msgstr "Ryuuji「Ah, está bien......」"
+
+msgid "Ryuuji「Taiga, someone's here.」"
+msgstr "Ryuuji「Taiga, hay alguien aquí.」"
+
+msgid "Taiga「............」"
+msgstr "Taiga「............」"
+
+msgid "Ryuuji「Hey.」"
+msgstr "Ryuuji「Oye.」"
+
+msgid "Taiga「Yeah, I can tell that someone's here.＿Obviously it's StuChi!」"
+msgstr "Taiga「Sí, ya sé que hay alguien aquí.＿¡Obviamente es StuChi!」"
+
+msgid "Ryuuji「Then answer it.」"
+msgstr "Ryuuji「Entonces atiende.」"
+
+msgid "Taiga「You answer it!」"
+msgstr "Taiga「¡Atiende tú!」"
+
+msgid "Both「SHUT UP!」"
+msgstr "Ambos「¡CÁLLATE!」"
+
+msgid "Ami「W-What's your problem～? Don't take it＿out on me.」"
+msgstr "Ami「¿Q-Qué les pasa～? No se＿desquiten conmigo.」"
+
+msgid "Ryuuji「Sorry, we...... Come on, Taiga, cheer up.＿Let's go.」"
+msgstr "Ryuuji「Perdón, es que...... Vamos,＿Taiga, anímate. Vámonos.」"
+
+msgid "Taiga「Whose fault is it? Sheesh......」"
+msgstr "Taiga「¿Y de quién es la culpa? Cielos......」"

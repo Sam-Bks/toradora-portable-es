@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+
+msgid "Sakura「W-Wait a second...... Whew～」"
+msgstr "Sakura「E-Espera un segundo...... Uf～」"
+
+msgid "Kota「What's wrong?」"
+msgstr "Kota「¿Qué pasa?」"
+
+msgid "Sakura「For some reason, my heart's beating＿really fast...... Oh! I-It's nothing! Nothing＿at all!」"
+msgstr "Sakura「Por algún motivo me late muy rápido＿el corazón...... ¡Ah! ¡N-No es＿nada! ¡Nada de nada!」"
+
+msgid "Kota「You mean......?」"
+msgstr "Kota「¿Quieres decir......?」"
+
+msgid "Kota「（I look like the delinquent Takasu right＿now...... This is getting kinda＿complicated......）」"
+msgstr "Kota「（Ahora parezco ese delincuente＿de Takasu...... Esto se está＿complicando......）」"
+
+msgid "Sakura「Somehow, I get the feeling that＿Kota-kun really is in there...... Oh, I, I'm＿sorry!」"
+msgstr "Sakura「No sé por qué, pero siento que Kota-kun＿está ahí dentro...... ¡Ah, p-perdón!」"
+
+msgid "Kota「I'm in here, Sakura-chan.」"
+msgstr "Kota「Estoy aquí dentro, Sakura-chan.」"
+
+msgid "Sakura「......!」"
+msgstr "Sakura「¡......!」"
+
+msgid "Kota「Uh...... err, so can I call you＿Sakura-chan?」"
+msgstr "Kota「Eh...... ehm, ¿puedo llamarte＿Sakura-chan?」"
+
+msgid "Sakura「S-Sure...... er, okay. But I still...... have＿my suspicions.」"
+msgstr "Sakura「C-Claro...... eh, está bien. Pero＿aún...... tengo mis dudas.」"
+
+msgid "Sakura「What......? B-But we were supposed to＿meet here...... I'm sorry. Half of me just＿can't believe you......」"
+msgstr "Sakura「¿Qué......? P-Pero quedamos en vernos＿aquí...... Lo siento. Una parte de＿mí no puede creerte......」"
+
+msgid "Kota「Then why don't we do it over the＿phone?」"
+msgstr "Kota「¿Y si lo hacemos por teléfono?」"
+
+msgid "Sakura「He hasn't been answering...... I even＿tried calling the house phone.」"
+msgstr "Sakura「No contesta...... Hasta intenté＿llamar a su casa.」"
+
+msgid "Kota「Is he waiting for me to come back......? I＿know he's there. With your consent, I'd＿like to take you to go see...... my body.」"
+msgstr "Kota「¿Espera a que vuelva......? Sé que＿está ahí. Si aceptas, quisiera llevarte＿a ver...... mi cuerpo.」"
+
+msgid "Kota「......I want you to believe me completely,＿so will you talk to Takasu-senpai? He's＿at my house right now, but I'll ask him」"
+msgstr "Kota「......Quiero que me creas del todo.＿¿Hablarías con Takasu-senpai? Está＿en mi casa, pero le pediré」"
+
+msgid "Kota「to come outside.」"
+msgstr "Kota「que salga.」"

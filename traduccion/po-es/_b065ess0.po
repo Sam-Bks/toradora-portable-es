@@ -1,0 +1,734 @@
+msgid ""
+msgstr ""
+
+msgid "Kitamura「One, two, three...... Good, everyone's＿here.」"
+msgstr "Kitamura「Uno, dos, tres...... Bien,＿estamos todos.」"
+
+msgid "Ryuuji「Huh? This is everyone?」"
+msgstr "Ryuuji「¿Eh? ¿Estos son todos?」"
+
+msgid "Kitamura「Hm? Yeah, this is everybody. Not＿enough or what?」"
+msgstr "Kitamura「¿Mm? Sí, estos somos todos.＿¿Falta alguien o qué?」"
+
+msgid "Minori「Whoa, what's this, me old china!? We're＿two minutes in and there's already a＿\"Mystery of The Missing Person\"!?」"
+msgstr "Minori「¡Vaya! ¡¿Qué es esto, estimado colega?!＿¡¿Llevamos dos minutos y ya hay un＿\"Misterio de la Persona Desaparecida\"?!」"
+
+msgid "Ryuuji「\"Me old china\"?」"
+msgstr "Ryuuji「¿\"Estimado colega\"?」"
+
+msgid "Kitamura「Wait, wait, I'll count again. Actually, let's＿just do a roll call. Start counting from＿this side!」"
+msgstr "Kitamura「Esperen, volveré a contar. Mejor＿pasemos lista. ¡Empiecen a contar＿desde este lado!」"
+
+msgid "Minori「One!」"
+msgstr "Minori「¡Uno!」"
+
+msgid "Taiga「Two!」"
+msgstr "Taiga「¡Dos!」"
+
+msgid "Haruta「Three!」"
+msgstr "Haruta「¡Tres!」"
+
+msgid "Ami「Four!」"
+msgstr "Ami「¡Cuatro!」"
+
+msgid "Ryuuji「Five!」"
+msgstr "Ryuuji「¡Cinco!」"
+
+msgid "Kitamura「Six...... Hmm. Yeah, everyone's here.」"
+msgstr "Kitamura「Seis...... Mmm. Sí, estamos todos.」"
+
+msgid "Ryuuji「Noto isn't coming?」"
+msgstr "Ryuuji「¿Noto no va a venir?」"
+
+msgid "Kitamura「Yeah. Apparently something came up.＿Right, Ami?」"
+msgstr "Kitamura「No. Parece que le surgió＿algo. ¿Verdad, Ami?」"
+
+msgid "Ami「Yup. That's what he told me over the＿phone. Can't believe he turned down＿an invite from Ami-chan.」"
+msgstr "Ami「Sí. Eso me dijo por teléfono.＿No puedo creer que rechazara una＿invitación de Ami-chan.」"
+
+msgid "Haruta「But isn't it perfect now? We've got six＿people, so pairing up will be easy～」"
+msgstr "Haruta「¿Pero no es perfecto ahora?＿Somos seis personas, así que＿emparejarnos será fácil～」"
+
+msgid "Kitamura「It's unfortunate Noto couldn't come,＿but pairing up would indeed be a＿cinch.」"
+msgstr "Kitamura「Es una lástima que Noto no pudiera＿venir, pero sin duda emparejarnos＿será pan comido.」"
+
+msgid "Ryuuji「So we're really going in pairs?」"
+msgstr "Ryuuji「¿Así que de verdad iremos en parejas?」"
+
+msgid "Kitamura「Yeah. It's dark, so it's safer to be in＿pairs in case anything should happen.」"
+msgstr "Kitamura「Sí. Está oscuro, así que es más seguro＿ir en parejas por si pasa algo.」"
+
+msgid "Kitamura「Calm down, Kushieda. Let's get this＿under control.」"
+msgstr "Kitamura「Cálmate, Kushieda. Mantengamos＿esto bajo control.」"
+
+msgid "Kitamura「The pairs will leave in 5-minute＿intervals. Once everyone has arrived＿back at the shrine, the test is over.」"
+msgstr "Kitamura「Las parejas saldrán en intervalos de 5＿minutos. Cuando todos hayan vuelto al＿santuario, la prueba habrá terminado.」"
+
+msgid "Haruta「F-F-F-F-F-For reals!? WOOHOOOO!! I'M＿SO STOKED!!」"
+msgstr "Haruta「¡¿E-E-E-E-En serio?! ¡¡YUJUUU!!＿¡¡ESTOY MUY EMOCIONADO!!」"
+
+msgid "Minori「Oooh! Has Haruta-kun finally come to＿understand the appeal of a test of＿courage!?」"
+msgstr "Minori「¡Oooh! ¡¿Por fin Haruta-kun ha＿llegado a comprender el atractivo＿de una prueba de valor?!」"
+
+msgid "Haruta「Come to me, miss hottie ghooost!!」"
+msgstr "Haruta「¡¡Ven a mí, señorita fantasma sexiii!!」"
+
+msgid "Minori「Eeeeek! Is this the part where we hear＿the vengeful cries of a girl attacked by＿a fugitive!?」"
+msgstr "Minori「¡Iiiik! ¡¿Esta es la parte donde oímos＿los gritos vengativos de una chica＿atacada por un fugitivo?!」"
+
+msgid "Minori「The ground rumbles, and then we see＿a skeleton with a little flesh still......＿NOOOO!!」"
+msgstr "Minori「El suelo retumba, y vemos un＿esqueleto que aún tiene algo＿de carne...... ¡¡NOOOO!!」"
+
+msgid "Ryuuji「（Kushieda's a real fan of horror, isn't＿she......）」"
+msgstr "Ryuuji「（Kushieda sí que es fanática＿del terror, ¿eh......?）」"
+
+msgid "Taiga「Kitamura-kun, how are we pairing up?」"
+msgstr "Taiga「Kitamura-kun, ¿cómo nos emparejamos?」"
+
+msgid "Kitamura「Let's see. How about the orthodox way,＿with rock-paper-scissors?」"
+msgstr "Kitamura「Veamos. ¿Qué tal a la manera clásica,＿con piedra, papel o tijera?」"
+
+msgid "Taiga「That's fine, but Minorin is a real＿scaredy-cat, so I think it's best if she＿goes with Ryuuji.」"
+msgstr "Taiga「Está bien, pero Minorin es muy＿miedosa, así que creo que lo mejor＿es que vaya con Ryuuji.」"
+
+msgid "Kitamura「Really? Okay, Kushieda's with Takasu.＿As for the others......」"
+msgstr "Kitamura「¿En serio? Bien, Kushieda va con Takasu.＿En cuanto a los demás......」"
+
+msgid "Taiga「Don't question my immunity to ghosts!＿And I won't be able to depend on＿someone like Ryuuji!」"
+msgstr "Taiga「¡No dudes de mi inmunidad a los＿fantasmas! ¡Y no podría depender＿de alguien como Ryuuji!」"
+
+msgid "Minori「You kidding? Someone as reliable as＿Takasu-kun is hard to come by.」"
+msgstr "Minori「¿Bromeas? Es difícil encontrar a alguien＿tan confiable como Takasu-kun.」"
+
+msgid "Ami「Look, can you guys not decide all the＿pairs by yourselves? Don't force your＿selfish reasons onto everyone else.」"
+msgstr "Ami「Oigan, ¿pueden dejar de decidir las＿parejas entre ustedes? No impongan sus＿razones egoístas a los demás.」"
+
+msgid "Taiga「Shut up, StuChi.」"
+msgstr "Taiga「Cállate, StuChi.」"
+
+msgid "Haruta「Hey～ guys～ I made us a little lottery.＿Let's use this to decide!」"
+msgstr "Haruta「Ey～ chicos～ Hice un pequeño sorteo.＿¡Usemos esto para decidir!」"
+
+msgid "Kitamura「Ohh, that's excellent forethought on＿your part, Haruta.」"
+msgstr "Kitamura「Ohh, qué excelente previsión＿de tu parte, Haruta.」"
+
+msgid "Haruta「Oh yeah! I know, right? I'm, like, really＿thoughtful～」"
+msgstr "Haruta「¡Oh, sí! ¿Verdad? Soy, o＿sea, muy considerado～」"
+
+msgid "Haruta「Plus, I made three different lottery＿types, so's we can pick our favorite～＿Amazing, right?」"
+msgstr "Haruta「Además, hice tres tipos de sorteo＿distintos para elegir nuestro favorito～＿Increíble, ¿no?」"
+
+msgid "Ryuuji「In a sense, yeah, that really is amazing.」"
+msgstr "Ryuuji「En cierto modo, sí, es increíble.」"
+
+msgid "Haruta「Right? Right? Aww, Taka-chan～ I＿knew you'd understand me.」"
+msgstr "Haruta「¿Verdad? ¿Verdad? Ay, Taka-chan～＿Sabía que me entenderías.」"
+
+msgid "Haruta「Alrighty then, Taka-chan, which one?＿There's a red one, a yellow one, and a＿black one.」"
+msgstr "Haruta「Bueno, entonces, Taka-chan, ¿cuál? Hay＿uno rojo, uno amarillo y uno negro.」"
+
+msgid "Ryuuji「How are they different?」"
+msgstr "Ryuuji「¿En qué se diferencian?」"
+
+msgid "Haruta「Ehee, that's a secret～ Dude, haven't＿ya noticed? With these, ya know, even＿the colors are special.」"
+msgstr "Haruta「Jeje, es un secreto～ Amigo, ¿no lo＿notaste? Con estos, ya sabes, hasta＿los colores son especiales.」"
+
+msgid "Kitamura「Colors? Do the colors red, yellow, and＿black hold some kind of significance?」"
+msgstr "Kitamura「¿Colores? ¿El rojo, el amarillo y el＿negro tienen algún significado?」"
+
+msgid "Haruta「That's our Master! He's been paying＿attention! See, these are the same＿colors from that bathroom ghost story.」"
+msgstr "Haruta「¡Ese es nuestro Maestro! ¡Sí prestó＿atención! Miren, son los mismos colores＿de esa historia de fantasmas del baño.」"
+
+msgid "Ryuuji「Bathroom ghost story?」"
+msgstr "Ryuuji「¿Historia de fantasmas del baño?」"
+
+msgid "Kitamura「Haven't heard that one. So, what＿happens?」"
+msgstr "Kitamura「No he oído esa. A ver, ¿qué pasa?」"
+
+msgid "Haruta「If ya answer \"red paper,\" like, blood＿rains down on ya from the ceiling.」"
+msgstr "Haruta「Si respondes \"papel rojo\", pues, te＿llueve sangre desde el techo.」"
+
+msgid "Minori「EEEEEEK! That's SOOO CREEPY!!＿That's one of those ghosts associated＿with elementary schools, right!?」"
+msgstr "Minori「¡IIIIIIK! ¡¡Qué ESCALOFRIANTE!! Es＿de esos fantasmas asociados con las＿escuelas primarias, ¡¿verdad?!」"
+
+msgid "Kitamura「Oh, Kushieda, you've heard of this＿before?」"
+msgstr "Kitamura「Oh, Kushieda, ¿ya habías＿oído esto antes?」"
+
+msgid "Minori「It's hard not to hear a story like that!」"
+msgstr "Minori「¡Es difícil no oír una historia así!」"
+
+msgid "Ryuuji「So what happens if you pick yellow or＿black?」"
+msgstr "Ryuuji「¿Y qué pasa si eliges amarillo o negro?」"
+
+msgid "Haruta「Well, ya see......」"
+msgstr "Haruta「Bueno, verás......」"
+
+msgid "Ryuuji「Yeah?」"
+msgstr "Ryuuji「¿Sí?」"
+
+msgid "Haruta「If ya pick yellow it's pee, and if ya pick＿black it's DOOKIE! Urgh～!」"
+msgstr "Haruta「¡Si eliges amarillo es pis, y si＿eliges negro es CACA! ¡Puaj～!」"
+
+msgid "Ryuuji「UGGGGHH! That's just nasty!!」"
+msgstr "Ryuuji「¡UGGGGHH! ¡¡Eso es asqueroso!!」"
+
+msgid "Kitamura「What a nauseating outcome......!」"
+msgstr "Kitamura「¡Qué desenlace tan nauseabundo......!」"
+
+msgid "Minori「That's scaryyy! Really scaryyy!」"
+msgstr "Minori「¡Qué miedooo! ¡De verdad da miedooo!」"
+
+msgid "Haruta「Well then, Taka-chan, which color will＿you choose?」"
+msgstr "Haruta「Bueno entonces, Taka-chan,＿¿qué color vas a elegir?」"
+
+msgid "Ryuuji「What!? Me?」"
+msgstr "Ryuuji「¡¿Qué?! ¿Yo?」"
+
+msgid "Ami「Red's the only option! No way anybody＿would pick yellow or black.」"
+msgstr "Ami「¡El rojo es la única opción!＿Nadie en su sano juicio elegiría＿amarillo o negro.」"
+
+msgid "Taiga「Every one of them is terrible.」"
+msgstr "Taiga「Todos son terribles.」"
+
+msgid "Ryuuji「......Hey, it's going to be even harder to＿pick now.」"
+msgstr "Ryuuji「......Oigan, así va a ser todavía＿más difícil elegir.」"
+
+msgid "Haruta「C'mon c'mon, which one?」"
+msgstr "Haruta「Vamos, vamos, ¿cuál?」"
+
+msgid "Ryuuji「Hmm......」"
+msgstr "Ryuuji「Mmm......」"
+
+msgid "Ryuuji「（Should I go with red to be safe? But a＿shower of blood is sinister as all hell.）」"
+msgstr "Ryuuji「（¿Voy a lo seguro con el rojo? Pero una＿lluvia de sangre es muy siniestra.）」"
+
+msgid "Ryuuji「Oh, that's a good idea. Alright......」"
+msgstr "Ryuuji「Ah, es una buena idea. Bien......」"
+
+msgid "Ryuuji「（What the colors mean to me......）」"
+msgstr "Ryuuji「（Lo que significan los colores＿para mí......）」"
+
+msgid "It's no use. I can't think of anything"
+msgstr "Es inútil. No se me ocurre nada"
+
+msgid "Yellow makes me think of omelettes!"
+msgstr "¡El amarillo me recuerda los omelettes!"
+
+msgid "Black clothes make any figure slimmer"
+msgstr "La ropa negra estiliza cualquier figura"
+
+msgid "Ryuuji「It's no use......」"
+msgstr "Ryuuji「Es inútil......」"
+
+msgid "Kitamura「Takasu?」"
+msgstr "Kitamura「¿Takasu?」"
+
+msgid "Ryuuji「Haruta, I'll go with red.」"
+msgstr "Ryuuji「Haruta, me quedo con el rojo.」"
+
+msgid "Haruta「The red one? Roger that!」"
+msgstr "Haruta「¿El rojo? ¡Recibido!」"
+
+msgid "Ami「Well, it IS the only logical choice.」"
+msgstr "Ami「Bueno, ES la única elección lógica.」"
+
+msgid "Taiga「Why'd he even make three kinds to＿begin with? Stupid hippie.」"
+msgstr "Taiga「¿Para qué hizo tres tipos en primer＿lugar? Hippie estúpido.」"
+
+msgid "Minori「'Tis fine, 'tis fine! Starting a test of＿courage with blood rain sure is＿dramatic!!」"
+msgstr "Minori「¡Bien está, bien está! ¡Empezar una＿prueba de valor con lluvia de sangre＿sí que es dramático!!」"
+
+msgid "Kitamura「So what do we get for picking red?」"
+msgstr "Kitamura「¿Y qué toca por elegir el rojo?」"
+
+msgid "Haruta「Dun da da dun DUUUN! GHOST LEG!!」"
+msgstr "Haruta「¡Ta ta ta taaan! ¡¡ESCALERA FANTASMA!!」"
+
+msgid "Kitamura「Oh, I see. Alright everyone, choose a＿spot and write your name.」"
+msgstr "Kitamura「Ah, ya veo. Bien, todos elijan un＿lugar y escriban su nombre.」"
+
+msgid "Kitamura「Okay, now I'll reveal the board. It's a＿Ghost Leg～ It's a Ghost Leg～ Where＿will you end up......?」"
+msgstr "Kitamura「Bien, ahora revelaré el tablero. Es＿Escalera Fantasma～ Escalera Fantasma～＿¿Dónde terminarás......?」"
+
+msgid "Ryuuji「......Kitamura, do you have to sing that＿song?」"
+msgstr "Ryuuji「......Kitamura, ¿tienes que＿cantar esa canción?」"
+
+msgid "Kitamura「I don't HAVE to, but it adds to the＿atmosphere, doesn't it?」"
+msgstr "Kitamura「No TENGO que hacerlo, pero le aporta＿al ambiente, ¿no crees?」"
+
+msgid "Ryuuji「Atmosphere......」"
+msgstr "Ryuuji「Al ambiente......」"
+
+msgid "Kitamura「Okay, we're all done. Time for the＿results!」"
+msgstr "Kitamura「Bien, ya terminamos. ¡Hora＿de los resultados!」"
+
+msgid "Ryuuji「Yellow!」"
+msgstr "Ryuuji「¡Amarillo!」"
+
+msgid "Ami「What～!? Yellow!? What the hell is＿wrong with you!?」"
+msgstr "Ami「¡¿Quéee～?! ¡¿Amarillo?! ¡¿Qué＿demonios te pasa?!」"
+
+msgid "Taiga「......Gross.」"
+msgstr "Taiga「......Qué asco.」"
+
+msgid "Minori「Now now, halt, my ladies. We must ask＿Sir Takasu of his view. Why didst thee＿choose yellow?」"
+msgstr "Minori「Alto ahí, mis damas. Debemos pedirle＿su opinión a Sir Takasu. ¿Por qué＿habéis elegido el amarillo?」"
+
+msgid "Everyone「............」"
+msgstr "Todos「............」"
+
+msgid "Kitamura「I see. Omelettes are certainly an＿essential part of a healthy lunch.」"
+msgstr "Kitamura「Ya veo. Los omelettes son sin duda＿esenciales en un almuerzo saludable.」"
+
+msgid "Haruta「So, yellow it is. Dun dun da da＿DUUUUN! A LOTTERY!」"
+msgstr "Haruta「Así que amarillo será. ¡Ta＿ta ta TAAAN! ¡UN SORTEO!」"
+
+msgid "Haruta「I brought some scraps of paper. We'll＿write the names of the guys on them＿and then have the girls draw them.」"
+msgstr "Haruta「Traje unos papelitos. Escribiremos＿los nombres de los chicos y luego＿las chicas sacarán uno.」"
+
+msgid "Kitamura「I see. Then let's hop to it.」"
+msgstr "Kitamura「Ya veo. Entonces manos a la obra.」"
+
+msgid "Ryuuji「Yeah.」"
+msgstr "Ryuuji「Sí.」"
+
+msgid "Kitamura「Okay! Haruta, Takasu, put the scraps＿of paper in this bag.」"
+msgstr "Kitamura「¡Bien! Haruta, Takasu, pongan＿los papelitos en esta bolsa.」"
+
+msgid "Ryuuji「Okay.」"
+msgstr "Ryuuji「De acuerdo.」"
+
+msgid "Haruta「'Kaaay...... Please let me get Ami-chan,＿please let me get Ami-chan!」"
+msgstr "Haruta「Bueeeno...... ¡Que me toque Ami-chan,＿por favor, que me toque Ami-chan!」"
+
+msgid "Kitamura「Haruta, enough praying! Get your＿name in here, please.」"
+msgstr "Kitamura「Haruta, ¡basta de rezar! Mete＿tu nombre aquí, por favor.」"
+
+msgid "Haruta「Ehehe! Okie-dokie.」"
+msgstr "Haruta「¡Ejeje! Oki-doki.」"
+
+msgid "Kitamura「Now then, ladies, kindly draw a scrap＿of paper.」"
+msgstr "Kitamura「Ahora bien, señoritas, tengan la＿amabilidad de sacar un papelito.」"
+
+msgid "Ami「Whaaat? This stuff makes me sooo＿nervous-- Huh?」"
+msgstr "Ami「¿Quéee? Estas cosas me ponen＿taaan nerviosa-- ¿Eh?」"
+
+msgid "Taiga「Minorin, you go first.」"
+msgstr "Taiga「Minorin, ve tú primero.」"
+
+msgid "Minori「Me? Okay, well, here goes nothing!」"
+msgstr "Minori「¿Yo? Bueno, ¡aquí voy!」"
+
+msgid "Taiga「Okay, I get whoever's left.」"
+msgstr "Taiga「Bien, yo me quedo con el que sobre.」"
+
+msgid "Kitamura「Okay, now open them!」"
+msgstr "Kitamura「¡Bien, ahora ábranlos!」"
+
+msgid "Ryuuji「Black!」"
+msgstr "Ryuuji「¡Negro!」"
+
+msgid "Ami「WHAAAT～!? Black!? What the fuck is＿wrong with you!?」"
+msgstr "Ami「¡¿QUÉEE～?! ¡¿Negro?! ¡¿Qué＿mierda te pasa?!」"
+
+msgid "Taiga「......So nasty.」"
+msgstr "Taiga「......Qué asqueroso.」"
+
+msgid "Minori「Now now, halt, my ladies. We must ask＿Sir Takasu of his view. Why didst thee＿choose black?」"
+msgstr "Minori「Alto ahí, mis damas. Debemos pedirle＿su opinión a Sir Takasu. ¿Por qué＿habéis elegido el negro?」"
+
+msgid "Ryuuji「When you wear black, you look and feel＿slimmer. That's why I think black's an＿important color.」"
+msgstr "Ryuuji「Cuando vistes de negro, te ves y te＿sientes más delgado. Por eso creo que＿el negro es un color importante.」"
+
+msgid "Minori「Makes sense～」"
+msgstr "Minori「Tiene sentido～」"
+
+msgid "Ami「I suppose it does. I'm not opposed to＿black clothing.」"
+msgstr "Ami「Supongo que sí. No me opongo＿a la ropa negra.」"
+
+msgid "Taiga「But when YOU wear black, it's＿downright slutty.」"
+msgstr "Taiga「Pero cuando TÚ vistes de negro,＿se ve totalmente indecente.」"
+
+msgid "Ami「Hey, what's THAT supposed to mean?」"
+msgstr "Ami「Oye, ¿qué se supone que significa ESO?」"
+
+msgid "Taiga「Only you would wear a black bikini to＿the school swimming pool.」"
+msgstr "Taiga「Solo tú llevarías un bikini negro＿a la piscina de la escuela.」"
+
+msgid "Ami「Who cares as long as I look good? It'd＿be a waste not to flaunt it.」"
+msgstr "Ami「¿Qué importa mientras me vea bien?＿Sería un desperdicio no lucirlo.」"
+
+msgid "Kitamura「Black's certainly a great color. So,＿Haruta! What do we get for picking＿black?」"
+msgstr "Kitamura「El negro sin duda es un gran color.＿¡Así que, Haruta! ¿Qué nos toca＿por elegir el negro?」"
+
+msgid "Haruta「Hehe! Dun dun da da DUUUN! A＿LOTTERY!」"
+msgstr "Haruta「¡Jeje! ¡Ta ta ta TAAAN! ¡UN SORTEO!」"
+
+msgid "Haruta「I brought three pairs of chopsticks,＿and each pair is a different color.」"
+msgstr "Haruta「Traje tres pares de palillos, y cada＿par es de un color distinto.」"
+
+msgid "Kitamura「I get it. Okay, let's hop to it.」"
+msgstr "Kitamura「Entiendo. Bien, manos a la obra.」"
+
+msgid "Ryuuji「Okay.」"
+msgstr "Ryuuji「De acuerdo.」"
+
+msgid "Kitamura「Alright, on the count of three,＿everyone draw.」"
+msgstr "Kitamura「Muy bien, a la cuenta de＿tres, todos sacan uno.」"
+
+msgid "Ryuuji「Okay!」"
+msgstr "Ryuuji「¡Bien!」"
+
+msgid "Everyone「One, two, THREE!!」"
+msgstr "Todos「¡Uno, dos, TRES!!」"
+
+msgid "Kitamura「Let's see. Kushieda's with Takasu,＿Aisaka's with Haruta, and Ami's with＿me.」"
+msgstr "Kitamura「Veamos. Kushieda va con Takasu, Aisaka＿con Haruta, y Ami va conmigo.」"
+
+msgid "Taiga「Yes!」"
+msgstr "Taiga「¡Sí!」"
+
+msgid "Kitamura「Did you say something, Aisaka?」"
+msgstr "Kitamura「¿Dijiste algo, Aisaka?」"
+
+msgid "Taiga「N-No, I didn't!」"
+msgstr "Taiga「¡N-No, no dije nada!」"
+
+msgid "Haruta「'Kaaay! Tiger～ Let's work hard and＿find us some ghosts～」"
+msgstr "Haruta「¡Bueeeno! Tigre～ ¡Esforcémonos＿y busquemos unos fantasmas～!」"
+
+msgid "Taiga「........................Tch.」"
+msgstr "Taiga「........................Tch.」"
+
+msgid "Haruta「Huh? What was that for?」"
+msgstr "Haruta「¿Eh? ¿Y eso por qué fue?」"
+
+msgid "Taiga「Shut up. Let's just go already.」"
+msgstr "Taiga「Cállate. Vámonos de una vez.」"
+
+msgid "Haruta「Hm? 'Kay.」"
+msgstr "Haruta「¿Mm? Bueno.」"
+
+msgid "Kitamura「Haruta's raring to find the ghost, it＿seems.」"
+msgstr "Kitamura「Parece que Haruta está ansioso＿por encontrar al fantasma.」"
+
+msgid "Ryuuji「He might find something even＿scarier......」"
+msgstr "Ryuuji「Podría encontrarse con algo＿aún más aterrador......」"
+
+msgid "Kitamura「............Okay, five minutes have passed.」"
+msgstr "Kitamura「............Bien, ya pasaron＿cinco minutos.」"
+
+msgid "Kitamura「Ami, it's time for us to leave.」"
+msgstr "Kitamura「Ami, es hora de que salgamos.」"
+
+msgid "Ami「Minori-chan, see you later～」"
+msgstr "Ami「Minori-chan, nos vemos luego～」"
+
+msgid "Minori「Okay! If you do encounter the ghost,＿wait for us to catch up!」"
+msgstr "Minori「¡Bien! Si se encuentran al fantasma,＿¡espérennos a que los alcancemos!」"
+
+msgid "Ami「Sure, uh, IF that happens.」"
+msgstr "Ami「Claro, eh, SI es que eso pasa.」"
+
+msgid "Kitamura「Okay Takasu, see you later.」"
+msgstr "Kitamura「Bueno, Takasu, nos vemos luego.」"
+
+msgid "Ryuuji「Later.」"
+msgstr "Ryuuji「Hasta luego.」"
+
+msgid "Minori「And off they go.」"
+msgstr "Minori「Y allá van.」"
+
+msgid "Ryuuji「Yep. Now we gotta wait for 5 minutes.」"
+msgstr "Ryuuji「Sí. Ahora tenemos que esperar 5 minutos.」"
+
+msgid "Minori「Yep.」"
+msgstr "Minori「Sí.」"
+
+msgid "Minori「......3, 2, 1, okay, time's up～!!」"
+msgstr "Minori「......3, 2, 1, bien, ¡¡se＿acabó el tiempo～!!」"
+
+msgid "Ryuuji「Alright, let's go.」"
+msgstr "Ryuuji「Bien, vámonos.」"
+
+msgid "Minori「Finally! YAY!!」"
+msgstr "Minori「¡Por fin! ¡¡YUJUU!!」"
+
+msgid "Ryuuji「（She is WAY too excited about this......）」"
+msgstr "Ryuuji「（Está DEMASIADO emocionada＿por esto......）」"
+
+msgid "Kitamura「Let's see, the pairs are...... Ami and＿Takasu, Aisaka and Haruta, Kushieda＿and me.」"
+msgstr "Kitamura「Veamos, las parejas son......＿Ami y Takasu, Aisaka y Haruta,＿y Kushieda conmigo.」"
+
+msgid "Taiga「Ugh... Not StuChi...」"
+msgstr "Taiga「Agh... Con StuChi no...」"
+
+msgid "Kitamura「Did you say something, Aisaka?」"
+msgstr "Kitamura「¿Dijiste algo, Aisaka?」"
+
+msgid "Taiga「What!? N-No, I didn't!」"
+msgstr "Taiga「¡¿Qué?! ¡N-No, no dije nada!」"
+
+msgid "Haruta「'Kaaay! Tiger～ Let's work hard and＿find us some ghosts～」"
+msgstr "Haruta「¡Bueeeno! Tigre～ ¡Esforcémonos＿y busquemos unos fantasmas～!」"
+
+msgid "Taiga「........................Tch.」"
+msgstr "Taiga「........................Tch.」"
+
+msgid "Haruta「Huh? What was that for?」"
+msgstr "Haruta「¿Eh? ¿Y eso por qué fue?」"
+
+msgid "Taiga「Shut up. Let's just go already.」"
+msgstr "Taiga「Cállate. Vámonos de una vez.」"
+
+msgid "Haruta「Hm? 'Kay.」"
+msgstr "Haruta「¿Mm? Bueno.」"
+
+msgid "Kitamura「Haruta's raring to find the ghost, it＿seems.」"
+msgstr "Kitamura「Parece que Haruta está ansioso＿por encontrar al fantasma.」"
+
+msgid "Ryuuji「He might find something even＿scarier......」"
+msgstr "Ryuuji「Podría encontrarse con algo＿aún más aterrador......」"
+
+msgid "Kitamura「............Okay, five minutes have passed.」"
+msgstr "Kitamura「............Bien, ya pasaron＿cinco minutos.」"
+
+msgid "Kitamura「Now then, Team Takasu, be on your＿way, please.」"
+msgstr "Kitamura「Ahora bien, Equipo Takasu, pónganse＿en marcha, por favor.」"
+
+msgid "Ami「Oh nooo! Protect me from the ghost,＿Takasu-kun①」"
+msgstr "Ami「¡Oh, nooo! Protégeme del＿fantasma, Takasu-kun①」"
+
+msgid "Ryuuji「Okay.」"
+msgstr "Ryuuji「Está bien.」"
+
+msgid "Ami「Huh?」"
+msgstr "Ami「¿Eh?」"
+
+msgid "Ryuuji「What?」"
+msgstr "Ryuuji「¿Qué?」"
+
+msgid "Ami「Nothing.」"
+msgstr "Ami「Nada.」"
+
+msgid "Ryuuji「What the......?」"
+msgstr "Ryuuji「¿Pero qué......?」"
+
+msgid "Minori「Amin, Amin! If you guys see the ghost,＿give us a holler! We'll be right there!」"
+msgstr "Minori「¡Amin, Amin! Si ven al fantasma, ¡dennos＿un grito! ¡Iremos enseguida!」"
+
+msgid "Kitamura「Yeah, that's a good idea. I'd love to see＿it for myself.」"
+msgstr "Kitamura「Sí, es buena idea. Me encantaría＿verlo por mí mismo.」"
+
+msgid "Ami「Hmm. IF we see it, sure～」"
+msgstr "Ami「Mmm. SI es que lo vemos, claro～」"
+
+msgid "Minori「Takasu-kun, do your damnedest to＿protect Amin! And find that ghost!」"
+msgstr "Minori「¡Takasu-kun, esfuérzate al máximo＿para proteger a Amin! ¡Y encuentra＿ese fantasma!」"
+
+msgid "Ryuuji「I'll do what I can.」"
+msgstr "Ryuuji「Haré lo que pueda.」"
+
+msgid "Ami「..................」"
+msgstr "Ami「..................」"
+
+msgid "Ryuuji「What's wrong, Kawashima?」"
+msgstr "Ryuuji「¿Qué pasa, Kawashima?」"
+
+msgid "Ami「Nothiiing～ Ami-chan's just PEACHY.」"
+msgstr "Ami「Nadaaa～ Ami-chan está DE MARAVILLA.」"
+
+msgid "Ryuuji「...???」"
+msgstr "Ryuuji「...???」"
+
+msgid "Kitamura「The best of luck to you both!」"
+msgstr "Kitamura「¡La mejor de las suertes a ambos!」"
+
+msgid "Ami「Okay, let's go, Takasu-kun①」"
+msgstr "Ami「Bien, vámonos, Takasu-kun①」"
+
+msgid "Ryuuji「......Okay.」"
+msgstr "Ryuuji「......Bien.」"
+
+msgid "Kitamura「The first team is Takasu and Haruta!」"
+msgstr "Kitamura「¡El primer equipo es Takasu y Haruta!」"
+
+msgid "Haruta「Oooh～ Taka-chan's with me～」"
+msgstr "Haruta「Oooh～ Taka-chan va conmigo～」"
+
+msgid "Ryuuji「Oh, okay.」"
+msgstr "Ryuuji「Ah, está bien.」"
+
+msgid "Haruta「......Huh? Taka-chan's with me?」"
+msgstr "Haruta「......¿Eh? ¿Taka-chan va conmigo?」"
+
+msgid "Haruta「WHAAAT～!? HOW DID THIS HAPPEN!?」"
+msgstr "Haruta「¡¿QUÉEE～?! ¡¿CÓMO PASÓ ESTO?!」"
+
+msgid "Ryuuji「Talk about a delayed reaction!」"
+msgstr "Ryuuji「¡Eso sí que es reaccionar tarde!」"
+
+msgid "Kitamura「Well, it's a Ghost Leg. You could end up＿with literally anyone.」"
+msgstr "Kitamura「Bueno, es una Escalera Fantasma. Te＿puede tocar literalmente cualquiera.」"
+
+msgid "Haruta「CRAP～! I didn't know!!」"
+msgstr "Haruta「¡RAYOS～! ¡¡No lo sabía!!」"
+
+msgid "Ryuuji「Says the guy who MADE the thing......＿Put some thought into it, damn you.」"
+msgstr "Ryuuji「Lo dice el tipo que LA HIZO...... Piensa＿un poco las cosas, maldición.」"
+
+msgid "Haruta「Waaaah......」"
+msgstr "Haruta「Buaaaah......」"
+
+msgid "Kitamura「The second team is Kushieda and＿Aisaka, and the last team is Ami and＿myself.」"
+msgstr "Kitamura「El segundo equipo es Kushieda y Aisaka,＿y el último equipo somos Ami y yo.」"
+
+msgid "Minori「Oooh～! Taiga, we're a team!!」"
+msgstr "Minori「¡Oooh～! ¡¡Taiga, somos equipo!!」"
+
+msgid "Taiga「Yay...... I guess......」"
+msgstr "Taiga「Viva...... supongo......」"
+
+msgid "Haruta「Hey hey hey, Kushieda～ Let's you and＿I trade team members～ It's no fun＿unless it's a boy-girl pair～」"
+msgstr "Haruta「Oye, oye, Kushieda～ Cambiemos de＿compañero～ No es divertido si no＿es pareja chico-chica～」"
+
+msgid "Minori「What didst you say, Haruta-dono? Hah!」"
+msgstr "Minori「¿Qué habéis dicho, Haruta-dono? ¡Ja!」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Minori「Now we're ALL boy-girl pairs!」"
+msgstr "Minori「¡Ahora TODAS son parejas chico-chica!」"
+
+msgid "Ryuuji「Kushieda...... Where the heck did you＿get that bald cap?」"
+msgstr "Ryuuji「Kushieda...... ¿De dónde rayos＿sacaste ese gorro de calvo?」"
+
+msgid "Minori「Fufufu! Don't sweat the petty stuff,＿bro! Or you'll end up bald like me!」"
+msgstr "Minori「¡Jujuju! ¡No te preocupes por tonterías,＿hermano! ¡O acabarás calvo como yo!」"
+
+msgid "Haruta「Eeegh～ I don't wanna go bald～ I'm＿done thinking!!」"
+msgstr "Haruta「Iiiigh～ No quiero quedarme＿calvo～ ¡¡Dejo de pensar!!」"
+
+msgid "Ryuuji「No, you should START thinking.」"
+msgstr "Ryuuji「No, deberías EMPEZAR a pensar.」"
+
+msgid "Minori「Come, Taiga! Tonight you can count on＿me as a man-- no, as your bro!」"
+msgstr "Minori「¡Ven, Taiga! ¡Esta noche puedes＿contar conmigo como hombre--＿no, como hermano!」"
+
+msgid "Taiga「Okay! You got it, Big Brother!」"
+msgstr "Taiga「¡Sí! ¡Por supuesto, Hermano Mayor!」"
+
+msgid "Minori「Together, there's nothing to fear from＿this test of courage! I'd prefer to be＿scared though!!」"
+msgstr "Minori「¡Juntas no hay nada que temer＿en esta prueba de valor! ¡¡Aunque＿preferiría asustarme!!」"
+
+msgid "Taiga「Minorin!」"
+msgstr "Taiga「¡Minorin!」"
+
+msgid "Minori「Taiga!」"
+msgstr "Minori「¡Taiga!」"
+
+msgid "Taiga「Minorin!」"
+msgstr "Taiga「¡Minorin!」"
+
+msgid "Minori「Taiga!」"
+msgstr "Minori「¡Taiga!」"
+
+msgid "Both「*Glomp*!!」"
+msgstr "Ambas「*Abrazo*!!」"
+
+msgid "Ami「Look, can we start already?」"
+msgstr "Ami「Oigan, ¿podemos empezar ya?」"
+
+msgid "Kitamura「Yeah. Okay, Team 1, please be on your＿way. The next team will depart in 5＿minutes.」"
+msgstr "Kitamura「Sí. Bien, Equipo 1, adelante,＿por favor. El siguiente equipo＿saldrá en 5 minutos.」"
+
+msgid "Ryuuji「Alright, then let's go.」"
+msgstr "Ryuuji「Bueno, entonces vámonos.」"
+
+msgid "Haruta「'Kaaay.」"
+msgstr "Haruta「Bueeeno.」"
+
+msgid "Minori「Come on, Kitamura-kun...... Ehehehehe!＿Come on! Why, why don't we get＿GOING!? The Terror Show has」"
+msgstr "Minori「¡Vamos, Kitamura-kun...... Ejejejeje!＿¡Vamos! ¡¿Por, por qué no nos APURAMOS!?＿¡El espectáculo del terror ha」"
+
+msgid "Minori「BEGUUUUN!」"
+msgstr "Minori「COMENZADOOO!」"
+
+msgid "Kitamura「Well then, let's start over by explaining＿the rules. Actually, it's quite simple.＿From this point on we'll split up into」"
+msgstr "Kitamura「Bien, empecemos de nuevo explicando las＿reglas. En realidad es muy simple. A＿partir de aquí nos dividiremos en」"
+
+msgid "Kitamura「pairs, leave the shrine and head for＿the observatory.」"
+msgstr "Kitamura「parejas, saldremos del santuario＿e iremos hacia el observatorio.」"
+
+msgid "Kitamura「There are two routes to the＿observatory from this shrine, one on＿the right and one on the left. Let's take」"
+msgstr "Kitamura「Hay dos rutas hacia el observatorio＿desde este santuario, una a la derecha＿y otra a la izquierda. Tomaremos」"
+
+msgid "Kitamura「the right path there, and the left path＿back.」"
+msgstr "Kitamura「el camino derecho para ir, y＿el izquierdo para volver.」"
+
+msgid "Kitamura「By the way, my investigation revealed＿that the sightings were predominantly＿on the eastern side of the observatory.」"
+msgstr "Kitamura「Por cierto, mi investigación reveló que＿los avistamientos ocurrieron sobre todo＿en el lado este del observatorio.」"
+
+msgid "Kitamura「Chances are that we'll encounter it on＿the way back.」"
+msgstr "Kitamura「Es muy probable que nos lo topemos＿en el camino de regreso.」"
+
+msgid "Minori「Whoa there! This is a democracy, guys!＿Taiga's not immune to ghosts either,＿so let's leave her in Takasu-kun's」"
+msgstr "Minori「¡Alto! ¡Esto es una democracia! Taiga＿tampoco es inmune a los fantasmas;＿dejémosla en manos de Takasu-kun,」"
+
+msgid "Minori「dependable hands.」"
+msgstr "Minori「que son muy confiables.」"
+
+msgid "Kitamura「Everybody please calm down. It's not＿fitting of high school students to get＿into a fight over this. Well, in a sense」"
+msgstr "Kitamura「Todos cálmense, por favor. No es propio＿de estudiantes de preparatoria pelear＿por esto. Bueno, en cierto sentido」"
+
+msgid "Kitamura「you could say it's all too fitting.」"
+msgstr "Kitamura「se podría decir que sí es muy propio.」"
+
+msgid "Haruta「Yep yep! Ya know, in the school＿bathroom, when ya run out of TP,＿shout \"Give me paper～!\" and you'll」"
+msgstr "Haruta「¡Sí, sí! Ya sabes, en el baño de la＿escuela, cuando te quedas sin papel,＿gritas \"¡Dame papel～!\" y entonces」"
+
+msgid "Haruta「hear \"Would you like red paper, yellow＿paper or black paper?\" That story.」"
+msgstr "Haruta「oyes \"¿Quieres papel rojo, papel＿amarillo o papel negro?\". Esa historia.」"
+
+msgid "Kitamura「Takasu, why don't you disregard those＿preconceived notions and choose＿based on what those colors mean to」"
+msgstr "Kitamura「Takasu, ¿por qué no dejas de lado esos＿prejuicios y eliges según lo que esos＿colores significan para」"
+
+msgid "Kitamura「you?」"
+msgstr "Kitamura「ti?」"
+
+msgid "Ryuuji「Yellow is the color of eggs. Eggs are＿full of protein and there's an endless＿variety of ways to cook them. No lunch」"
+msgstr "Ryuuji「El amarillo es el color de los huevos.＿Tienen mucha proteína y mil formas de＿cocinarlos. Ningún almuerzo」"
+
+msgid "Ryuuji「is complete without them.」"
+msgstr "Ryuuji「está completo sin huevos.」"
+
+msgid "Ryuuji「Plus, the light yellow hue of omelettes,＿when arranged in a lunchbox, makes＿the perfect centerpiece. It's impossible」"
+msgstr "Ryuuji「Además, el amarillo claro de los＿omelettes en la caja de almuerzo es el＿centro ideal. Es imposible」"
+
+msgid "Ryuuji「to overlook.」"
+msgstr "Ryuuji「pasarlo por alto.」"
+
+msgid "Ryuuji「Black is a \"contractive\" color, meaning＿it makes you look slimmer. Especially＿true for swimsuits. And it's a fairly」"
+msgstr "Ryuuji「El negro es un color \"reductor\", o sea＿que te hace ver más delgado. Sobre todo＿en trajes de baño. Y es un color muy」"
+
+msgid "Ryuuji「refined color, so you often see black＿formal wear and uniforms.」"
+msgstr "Ryuuji「refinado, por eso ves mucha ropa＿formal y uniformes negros.」"
+
+msgid "Haruta「The girls will draw one of the three＿colors, then we'll draw one of the three＿colors, and the matching colors pair」"
+msgstr "Haruta「Las chicas sacan uno de los tres＿colores, luego nosotros sacamos uno de＿los tres colores, y los iguales hacen」"
+
+msgid "Haruta「up.」"
+msgstr "Haruta「pareja.」"
+
+msgid "Kitamura「Now then, the pairs will depart in＿alphabetical order, going by the girls'＿names. That means Aisaka and Haruta」"
+msgstr "Kitamura「Las parejas saldrán en orden alfabético＿por el apellido de las chicas. Así que＿Aisaka y Haruta」"
+
+msgid "Kitamura「are first up.」"
+msgstr "Kitamura「van primero.」"
+
+msgid "Kitamura「Really? Okay then. The pairs will＿depart in alphabetical order, going by＿the girls' names. Aisaka and Haruta」"
+msgstr "Kitamura「¿En serio? Bien. Saldrán por orden＿alfabético de apellido de las chicas.＿Aisaka y Haruta」"
+
+msgid "Kitamura「are first up.」"
+msgstr "Kitamura「van primero.」"

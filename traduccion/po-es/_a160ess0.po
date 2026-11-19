@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+
+msgid "Taiga「Morning, Ryuuji. Foo......」"
+msgstr "Taiga「Buenos días, Ryuuji. Comi......」"
+
+msgid "Ryuuji「Taiga! Watch your step!」"
+msgstr "Ryuuji「¡Taiga! ¡Cuidado donde pisas!」"
+
+msgid "Taiga「Huh? Gaahh!!」"
+msgstr "Taiga「¿Eh? ¡¡Gaaah!!」"
+
+msgid "Ryuuji「Whew, that was close. You nearly＿landed in the pot of ganmo...... Morning,＿Taiga.」"
+msgstr "Ryuuji「Uf, estuvo cerca. Casi aterrizas＿en la olla de ganmo...... Buenos＿días, Taiga.」"
+
+msgid "Taiga「You should be concerned about me,＿not the food! What's the big deal!? Why＿is it so slippery!?」"
+msgstr "Taiga「¡Deberías preocuparte por mí, no＿por la comida! ¡¿Qué te pasa?! ¡¿Por＿qué está tan resbaladizo?!」"
+
+msgid "Ryuuji「Well, I couldn't sleep last night......＿Before I knew it, I was cleaning the＿tatami mats and waxing the floor.」"
+msgstr "Ryuuji「Bueno, anoche no pude dormir...... Sin＿darme cuenta, ya estaba limpiando el＿tatami y encerando el piso.」"
+
+msgid "Ryuuji「Look, the floorboards are so spotless＿you could eat off of it.」"
+msgstr "Ryuuji「Mira, las tablas del piso quedaron tan＿impecables que podrías comer encima.」"
+
+msgid "Taiga「That's nothing to brag about. You're＿just a scaredy-cat that couldn't sleep,＿that's all.」"
+msgstr "Taiga「No es nada de qué presumir.＿Solo eres un gallina que no＿pudo dormir, eso es todo.」"
+
+msgid "Ryuuji「Look who's talking. Your face is puffy.＿From lack of sleep, I'll wager.」"
+msgstr "Ryuuji「Mira quién habla. Tienes la cara＿hinchada. Por falta de sueño, apuesto.」"
+
+msgid "Taiga「Shut up. Unless you want me to＿accuse you of sexual harassment, you＿better get me my food!」"
+msgstr "Taiga「Cállate. ¡A menos que quieras que＿te acuse de acoso sexual, más te＿vale traerme mi comida!」"
+
+msgid "Ryuuji「Wait. We'll eat after I call Kitamura.」"
+msgstr "Ryuuji「Espera. Comemos después de＿que llame a Kitamura.」"
+
+msgid "Taiga「Breakfast is the most important meal＿of the day. We can't face the enemy on＿an empty stomach.」"
+msgstr "Taiga「El desayuno es lo más importante＿del día. No podemos enfrentar al＿enemigo con el estómago vacío.」"
+
+msgid "Taiga「......Fine, I get it. You're the one who has＿to call him, so we have to do it your＿way.」"
+msgstr "Taiga「......Bien, entiendo. Tú eres quien＿tiene que llamarlo, así que hay＿que hacerlo a tu manera.」"
+
+msgid "Ryuuji「Sorry. Ahem! Nnn. Nnnn.」"
+msgstr "Ryuuji「Perdón. ¡Ejem! Mmm. Mmmm.」"
+
+msgid "Ryuuji「\"Sorry, Kitamura...... Today's impossible＿for me. My stomach hurts......\"」"
+msgstr "Ryuuji「\"Perdón, Kitamura...... Hoy me es＿imposible. Me duele el estómago......\"」"
+
+msgid "Ryuuji「So, how was that? Did I sound sick to＿you?」"
+msgstr "Ryuuji「¿Y bien, qué tal? ¿Te soné enfermo?」"
+
+msgid "Taiga「............」"
+msgstr "Taiga「............」"
+
+msgid "Ryuuji「Gaaahh!! M-My foot...... You don't have＿to crush it......」"
+msgstr "Ryuuji「¡¡Gaaah!! M-Mi pie...... No tienes＿que aplastármelo......」"
+
+msgid "Taiga「Call him. Right now.」"
+msgstr "Taiga「Llámalo. Ahora mismo.」"
+
+msgid "Ryuuji「（You...... ogre......）」"
+msgstr "Ryuuji「（Eres un...... ogro......）」"
+
+msgid "Kitamura「Yes, hello?」"
+msgstr "Kitamura「¿Sí, hola?」"
+
+msgid "Ryuuji「Hello? Kitamura...... It's me......」"
+msgstr "Ryuuji「¿Hola? Kitamura...... Soy yo......」"
+
+msgid "Kitamura「Takasu!? What's wrong? You sound＿like you're on your deathbed.」"
+msgstr "Kitamura「¡¿Takasu?! ¿Qué pasa? Suenas como si＿estuvieras en tu lecho de muerte.」"
+
+msgid "Ryuuji「Well...... I'm in a lot of pain right now......」"
+msgstr "Ryuuji「Bueno...... Me duele muchísimo＿ahora mismo......」"
+
+msgid "Kitamura「Is it severe? Like diarrhea or＿something?」"
+msgstr "Kitamura「¿Es grave? ¿Como diarrea o algo así?」"
+
+msgid "Ryuuji「It's...... a little further down......」"
+msgstr "Ryuuji「Está...... un poco más abajo......」"
+
+msgid "Kitamura「Hm? Lower than your bowels? Then......」"
+msgstr "Kitamura「¿Mmm? ¿Más abajo que los intestinos?＿Entonces......」"
+
+msgid "Taiga「Get to the point already!」"
+msgstr "Taiga「¡Ve al grano de una vez!」"
+
+msgid "Ryuuji「......So I was thinking I'd ask Taiga to go＿with you in my place.」"
+msgstr "Ryuuji「......Así que pensaba pedirle a Taiga＿que vaya contigo en mi lugar.」"
+
+msgid "Ryuuji「That won't WORK!!」"
+msgstr "Ryuuji「¡¡Eso no FUNCIONARÁ!!」"
+
+msgid "Kitamura「Huh?」"
+msgstr "Kitamura「¿Eh?」"
+
+msgid "Taiga「You idiot!」"
+msgstr "Taiga「¡Idiota!」"
+
+msgid "Ryuuji「Owwwww...... T-Taiga's been dying to go,＿too...... I'm begging you, please just go＿with her, before I suffer any more......!」"
+msgstr "Ryuuji「Ayyyyy...... T-Taiga también se muere＿por ir...... ¡Te lo ruego, ve con ella＿antes de que siga sufriendo......!」"
+
+msgid "Kitamura「Somehow I don't really understand, but＿I can tell that you're desperate. The＿meeting time hasn't changed, right?」"
+msgstr "Kitamura「No termino de entenderlo, pero noto＿que estás desesperado. La hora acordada＿no cambió, ¿verdad?」"
+
+msgid "Ryuuji「Thanks. I'm in your debt......!」"
+msgstr "Ryuuji「Gracias. ¡Estoy en deuda contigo......!」"
+
+msgid "Taiga「Well done, Ryuuji. That was a pretty＿convincing performance. You can＿thank me later.」"
+msgstr "Taiga「Bien hecho, Ryuuji. Fue una actuación＿bastante convincente. Puedes darme＿las gracias después.」"
+
+msgid "Ryuuji「Uggggh......」"
+msgstr "Ryuuji「Uggggh......」"
+
+msgid "Taiga「Now, let's eat our hearts out ♪＿......What are you waiting for? Hurry and＿prepare the food.」"
+msgstr "Taiga「Ahora comamos hasta hartarnos＿♪ ......¿Qué esperas? Apresúrate＿y prepara la comida.」"
+
+msgid "Taiga「It's nearly time for me to go and meet＿up with Kitamura, so I need to eat＿quickly or I'll be late!」"
+msgstr "Taiga「¡Ya casi es hora de ir a verme＿con Kitamura, así que debo comer＿rápido o llegaré tarde!」"
+
+msgid "Ryuuji「（Ogre...... An ogre stands before me......＿No, more like a tiger......）」"
+msgstr "Ryuuji「（Ogro...... Hay un ogro ante mí......＿No, más bien un tigre......）」"
+
+msgid "Taiga「......Crap, I was trying not to think about＿the plan, but now I'm nervous again.」"
+msgstr "Taiga「......Rayos, intentaba no pensar en el＿plan, pero me volví a poner nerviosa.」"
+
+msgid "Ryuuji「（Ugh...... With her like this first thing in＿the morning, is today's plan really＿going to work out......?）」"
+msgstr "Ryuuji「（Ugh...... Con ella así a primera＿hora de la mañana, ¿de verdad funcionará＿el plan de hoy......?）」"
+
+msgid "Ryuuji「No. I'm calling him first. If I don't, we'll＿both be on tenterhooks while we eat.」"
+msgstr "Ryuuji「No. Lo llamo primero. Si no, ambos＿estaremos en vilo mientras comemos.」"
+
+msgid "Ryuuji「The carefully crafted flavor will go to＿waste.」"
+msgstr "Ryuuji「Se echará a perder todo el sabor＿que preparé con tanto esmero.」"
+
+msgid "Ryuuji「N-No, it's my stomach. You're right, my＿stomach hurts. So...... I'm sorry,＿Kitamura.」"
+msgstr "Ryuuji「N-No, es mi estómago. Tienes razón,＿me duele el estómago. Así que......＿perdón, Kitamura.」"
+
+msgid "Ryuuji「It doesn't look like I can go to Luxure＿with you today.」"
+msgstr "Ryuuji「No parece que pueda ir＿a Luxure contigo hoy.」"
+
+msgid "Kitamura「Aisaka? But you're the one who＿wanted to go to the planetarium,＿Takasu.」"
+msgstr "Kitamura「¿Aisaka? Pero si fuiste tú quien＿quiso ir al planetario, Takasu.」"
+
+msgid "Kitamura「I can hang out with you anytime, so＿just hit me up again some other time.」"
+msgstr "Kitamura「Puedo salir contigo cualquier día,＿así que avísame en otra ocasión.」"

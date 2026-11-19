@@ -1,0 +1,173 @@
+msgid ""
+msgstr ""
+
+msgid "Minori「We're already halfway there...... There's＿been nothing out of the ordinary so＿far.」"
+msgstr "Minori「Ya vamos a mitad de camino......＿No ha pasado nada fuera de lo＿común hasta ahora.」"
+
+msgid "Ryuuji「Yeah. If what Kitamura said is true,＿then the path back will be the \"main＿event,\" so to speak.」"
+msgstr "Ryuuji「Sí. Si lo que dijo Kitamura es cierto,＿entonces el camino de vuelta será el＿\"plato fuerte\", por así decirlo.」"
+
+msgid "Ryuuji「......You really like ghosts, huh?」"
+msgstr "Ryuuji「......De verdad te gustan＿los fantasmas, ¿eh?」"
+
+msgid "Minori「I do! But I have zero intuition, so I＿haven't seen a single ghost at all～ So I＿wanna try to see as many as I can, bud.」"
+msgstr "Minori「¡Sí! Pero tengo cero intuición y no he＿visto ni un fantasma～ Quiero intentar＿ver tantos como pueda, amigo.」"
+
+msgid "Ryuuji「Oh, I see.」"
+msgstr "Ryuuji「Ah, ya veo.」"
+
+msgid "Ryuuji「（Hm? We've had this conversation＿before......）」"
+msgstr "Ryuuji「（¿Hm? Ya hemos tenido esta＿conversación antes......）」"
+
+msgid "Minori「Personally, I believe in ghosts.」"
+msgstr "Minori「En lo personal, yo creo＿en los fantasmas.」"
+
+msgid "Minori「But as it happens, I've never seen one.＿And I don't believe anyone who says＿they have.」"
+msgstr "Minori「Pero resulta que nunca he visto＿uno. Y tampoco le creo a nadie que＿diga que sí los ha visto.」"
+
+msgid "Minori「The same goes for...... people who have＿felt love. I just feel so distant from＿them.」"
+msgstr "Minori「Lo mismo pasa con...... la gente＿que ha sentido el amor. Siento＿que está muy lejos de mí.」"
+
+msgid "Minori「Because I can't \"see\" it.」"
+msgstr "Minori「Porque no puedo \"verlo\".」"
+
+msgid "Minori「Since I haven't seen any ghosts, I think＿to myself \"I'll never see them\" and give＿up......」"
+msgstr "Minori「Como no he visto ningún fantasma,＿pienso \"nunca los veré\" y me＿doy por vencida......」"
+
+msgid "Ryuuji「--!!」"
+msgstr "Ryuuji「--!!」"
+
+msgid "Minori「Huh? Takasu-kun, is something＿wrong?」"
+msgstr "Minori「¿Eh? Takasu-kun, ¿pasa algo?」"
+
+msgid "Ryuuji「Uh, well......」"
+msgstr "Ryuuji「Eh, bueno......」"
+
+msgid "Ryuuji「（That's right...... I remember.）」"
+msgstr "Ryuuji「（Es cierto...... Lo recuerdo.）」"
+
+msgid "Ryuuji「（To her, romance is the same as a＿ghost......）」"
+msgstr "Ryuuji「（Para ella, el romance es igual＿que un fantasma......）」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Minori「......?」"
+msgstr "Minori「......?」"
+
+msgid "Ryuuji「（Wait, I can't clam up now. I gotta talk to＿Kushieda, just like Taiga told me to......）」"
+msgstr "Ryuuji「（Espera, no puedo quedarme callado＿ahora. Tengo que hablar con Kushieda,＿tal como me dijo Taiga......）」"
+
+msgid "Ryuuji「（No, that's not it. I want to know how I＿feel about Kushieda right now.）」"
+msgstr "Ryuuji「（No, no es eso. Quiero saber lo que＿siento por Kushieda ahora mismo.）」"
+
+msgid "Gaze at Kushieda"
+msgstr "Mirar fijamente a Kushieda"
+
+msgid "Talk to Kushieda"
+msgstr "Hablar con Kushieda"
+
+msgid "Hug Kushieda"
+msgstr "Abrazar a Kushieda"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Minori「............」"
+msgstr "Minori「............」"
+
+msgid "Ryuuji「..............................」"
+msgstr "Ryuuji「..............................」"
+
+msgid "Minori「..............................」"
+msgstr "Minori「..............................」"
+
+msgid "Minori「Umm, Takasu-kun, 'sup?」"
+msgstr "Minori「Ehm, Takasu-kun, ¿qué pasa?」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Minori「Whatever it is, you're making this＿reeeally serious face.」"
+msgstr "Minori「Sea lo que sea, estás poniendo＿una cara muuuy seria.」"
+
+msgid "Minori「*Gasp* Were you possessed by an evil＿spirit!?」"
+msgstr "Minori「¡Ah! ¡¿Te poseyó un espíritu maligno?!」"
+
+msgid "Ryuuji「N-No, it's nothing......」"
+msgstr "Ryuuji「N-No, no es nada......」"
+
+msgid "Ryuuji「（Kushieda...... I wasn't possessed. This is＿just how my face looks......）」"
+msgstr "Ryuuji「（Kushieda...... No estoy poseído.＿Así es mi cara nada más......）」"
+
+msgid "Minori「Oooh!! Takasu-kun, that's a nice idea!＿Yessss! In that case, wanna tell ghost＿stories?」"
+msgstr "Minori「¡¡Oooh!! ¡Takasu-kun, esa es una gran＿idea! ¡Siiii! En ese caso, ¿contamos＿historias de fantasmas?」"
+
+msgid "Ryuuji「No, just a normal conversation,＿please......」"
+msgstr "Ryuuji「No, solo una conversación＿normal, por favor......」"
+
+msgid "Ryuuji「Kushieda......!」"
+msgstr "Ryuuji「¡Kushieda......!」"
+
+msgid "Minori「Huh?」"
+msgstr "Minori「¿Eh?」"
+
+msgid "Ryuuji「（She's gone!?）」"
+msgstr "Ryuuji「（¡¿Desapareció?!）」"
+
+msgid "Ryuuji「Owww～」"
+msgstr "Ryuuji「Ayyy～」"
+
+msgid "Minori「Y-You okay, Takasu-kun!? It was all so＿sudden that I dodged without thinking!＿Sorry, I should have caught you!」"
+msgstr "Minori「¡¿E-Estás bien, Takasu-kun?! ¡Fue＿tan repentino que te esquivé sin pensar!＿¡Perdón, debí atraparte!」"
+
+msgid "Ryuuji「I-It's okay... Umm... It's my fault for＿startling you......」"
+msgstr "Ryuuji「E-Está bien... Ehm... Es culpa＿mía por asustarte......」"
+
+msgid "Minori「But still, that was like whoa! How come＿you collapsed all of a sudden, bud?」"
+msgstr "Minori「¡Pero qué susto! ¿Cómo es que te＿desplomaste tan de repente, amigo?」"
+
+msgid "Ryuuji「（I can't say \"because I was trying to hug＿you\"......!）」"
+msgstr "Ryuuji「（¡No puedo decirle \"porque intentaba＿abrazarte\"......!）」"
+
+msgid "Ryuuji「Uh, well, umm...... I was feeling cold so I＿was shifting my weight...... Lost my＿balance......」"
+msgstr "Ryuuji「Eh, bueno, ehm...... Tenía frío y＿pasaba el peso de un pie al otro......＿Perdí el equilibrio......」"
+
+msgid "Ryuuji「No, I'm okay.」"
+msgstr "Ryuuji「No, estoy bien.」"
+
+msgid "Minori「Really? Don't overdo it, 'kay?」"
+msgstr "Minori「¿De verdad? No te esfuerces, ¿sí?」"
+
+msgid "Ryuuji「Okay.」"
+msgstr "Ryuuji「Está bien.」"
+
+msgid "Minori「Come on! Let's hurry to the main area!」"
+msgstr "Minori「¡Vamos! ¡Apurémonos a ir＿al área principal!」"
+
+msgid "Ryuuji「Okay!」"
+msgstr "Ryuuji「¡Sí!」"
+
+msgid "Minori「I wonder where Taiga and Haruta are＿right now～ Maybe they saw the ghost＿already. I wonder what it looks like......」"
+msgstr "Minori「¿Dónde estarán Taiga y Haruta ahora＿mismo～? Tal vez ya vieron al fantasma.＿Me pregunto cómo será......」"
+
+msgid "Minori「Eee hee hee hee hee!」"
+msgstr "Minori「¡Ji, ji, ji, ji, ji!」"
+
+msgid "Ryuuji「Kushieda, while we're at it, shall we＿take a little break? That way we can＿put some distance between ourselves」"
+msgstr "Ryuuji「Kushieda, ya que estamos, ¿tomamos un＿pequeño descanso? Así podremos dejar＿algo de distancia entre nosotros」"
+
+msgid "Ryuuji「and Kitamura's team. It'll make it even＿scarier.」"
+msgstr "Ryuuji「y el equipo de Kitamura.＿Así dará aún más miedo.」"
+
+msgid "Ryuuji「（If she takes control of the＿conversation, we'll get steered into＿ghost stories. I gotta change the）」"
+msgstr "Ryuuji「（Si ella toma las riendas de la charla,＿acabaremos hablando de fantasmas.＿Tengo que cambiar el）」"
+
+msgid "Ryuuji「（subject......）」"
+msgstr "Ryuuji「（tema......）」"
+
+msgid "Minori「So that's what happened～＿Takasu-kun, you only just had the flu,＿too. Maybe you should go home for the」"
+msgstr "Minori「Así que eso pasó～ Takasu-kun, además＿acabas de salir de la gripe. Quizá＿deberías irte a casa por」"
+
+msgid "Minori「day.」"
+msgstr "Minori「hoy.」"

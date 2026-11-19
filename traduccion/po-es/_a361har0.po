@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「HEEEEY, INKO-CHAAAAN! COME＿OUTTT～!」"
+msgstr "Ryuuji「¡EEEEY, INKO-CHAAAAN! ¡SAL DE AHÍÍÍ～!」"
+
+msgid "Haruta「Wassup, Taka-chan～?」"
+msgstr "Haruta「¿Qué hay, Taka-chan～?」"
+
+msgid "Ryuuji「Not you. I'm looking for Inko-chan,＿have you seen it?」"
+msgstr "Ryuuji「Tú no. Estoy buscando a Inko-chan,＿¿lo has visto?」"
+
+msgid "Haruta「\"Inko-chan\"? You mean your pet＿parakeet? I heard it's butt-ugly.」"
+msgstr "Haruta「¿\"Inko-chan\"? ¿Tu periquito mascota?＿Escuché que es feo de remate.」"
+
+msgid "Ryuuji「Watch your mouth! Sheesh, right when＿I try to seriously search......」"
+msgstr "Ryuuji「¡Cuida tu boca! Cielos, justo cuando＿intento buscar en serio......」"
+
+msgid "Haruta「Don't get mad, bro～ So, your＿Inko-chan is missing～?」"
+msgstr "Haruta「No te enojes, amigo～ ¿Entonces＿se perdió tu Inko-chan～?」"
+
+msgid "Ryuuji「Yeah. It wasn't in its cage this＿morning...... I wonder where it could＿have gone......」"
+msgstr "Ryuuji「Sí. Esta mañana no estaba en su＿jaula...... ¿A dónde se habrá ido......?」"
+
+msgid "Haruta「For reals? They say parakeets hide＿from people when they're near death～」"
+msgstr "Haruta「¿De veras? Dicen que los periquitos se＿esconden de la gente antes de morir～」"
+
+msgid "Ryuuji「Don't jinx me! Also, that's more of a cat＿thing.」"
+msgstr "Ryuuji「¡No llames a la mala suerte! Además,＿eso es más bien cosa de gatos.」"
+
+msgid "Haruta「Whaaa～? It is?」"
+msgstr "Haruta「¿Quéee～? ¿En serio?」"
+
+msgid "Ryuuji「Anyway, if you happen to see a＿parakeet, will you please call me?」"
+msgstr "Ryuuji「Como sea, si llegas a ver un periquito,＿¿me llamas, por favor?」"
+
+msgid "Haruta「Sure thing～ I'll catch it in one try.」"
+msgstr "Haruta「Por supuesto～ Lo atraparé＿al primer intento.」"
+
+msgid "Ryuuji「Oh, come to think of it, weren't you＿going to meet up with Noto?」"
+msgstr "Ryuuji「Ah, ahora que lo pienso, ¿no＿ibas a reunirte con Noto?」"
+
+msgid "Haruta「Righto. How'd ya know, Taka-chan?」"
+msgstr "Haruta「Cierto. ¿Cómo lo supiste, Taka-chan?」"
+
+msgid "Ryuuji「Earlier, I ran into Noto at the school＿gates and he said he was waiting for＿you.」"
+msgstr "Ryuuji「Antes me crucé con Noto en la＿entrada de la escuela y me dijo＿que te estaba esperando.」"
+
+msgid "Haruta「Whaaa!? The gates?」"
+msgstr "Haruta「¡¿Quéee?! ¿En la entrada?」"
+
+msgid "Ryuuji「Did one of you guys get the meeting＿place wrong?」"
+msgstr "Ryuuji「¿Alguno de los dos se equivocó＿de lugar de encuentro?」"
+
+msgid "Ryuuji「Get going, then. He was pissed you＿weren't answering your cell phone.」"
+msgstr "Ryuuji「Ve yendo, entonces. Estaba molesto＿porque no contestabas el celular.」"
+
+msgid "Haruta「Actually, I forgot my cell back at home,＿man...... Ahaha.」"
+msgstr "Haruta「La verdad, olvidé mi celular＿en casa, amigo...... Ajaja.」"
+
+msgid "Ryuuji「Oh, you......」"
+msgstr "Ryuuji「Ah, tú......」"
+
+msgid "Haruta「Thanks for tellin' me～ I'm gonna go＿stop by the school.」"
+msgstr "Haruta「Gracias por avisarme～ Voy a＿pasarme por la escuela.」"
+
+msgid "Ryuuji「Alright, tell Noto I said hi.」"
+msgstr "Ryuuji「Bien, salúdame a Noto.」"
+
+msgid "Ryuuji「（Guess I'll go look somewhere else......）」"
+msgstr "Ryuuji「（Supongo que buscaré en otro lado......）」"
+
+msgid "Ryuuji「What are you doing here, anyway?」"
+msgstr "Ryuuji「¿Y qué haces aquí, de todos modos?」"
+
+msgid "Haruta「Well, ya see～ I'm supposed to meet＿Noto here, but I ain't seen him at all～」"
+msgstr "Haruta「Pues verás～ Se supone que me vería＿con Noto aquí, pero no lo he visto＿por ningún lado～」"
+
+msgid "Ryuuji「Have you tried calling his cell phone?」"
+msgstr "Ryuuji「¿Ya intentaste llamarlo al celular?」"
+
+msgid "Haruta「Ah, good idea! You're smart,＿Taka-chan～」"
+msgstr "Haruta「¡Ah, buena idea! Eres listo, Taka-chan～」"
+
+msgid "Ryuuji「I think most people would have＿thought to try that straight away.」"
+msgstr "Ryuuji「Creo que a casi cualquiera se le habría＿ocurrido eso de inmediato.」"
+
+msgid "Haruta「Aah!」"
+msgstr "Haruta「¡Aah!」"
+
+msgid "Ryuuji「What's the matter?」"
+msgstr "Ryuuji「¿Qué ocurre?」"
+
+msgid "Haruta「I musta forgot my cell back at home......」"
+msgstr "Haruta「Seguro olvidé mi celular en casa......」"
+
+msgid "Ryuuji「You're hopeless......」"
+msgstr "Ryuuji「No tienes remedio......」"
+
+msgid "Haruta「Oh well～ I'll try waitin' for Noto a little＿longer.」"
+msgstr "Haruta「Qué se le va a hacer～ Esperaré＿a Noto un poco más.」"
+
+msgid "Ryuuji「Alright. Well, I'm gonna keep looking＿for Inko-chan.」"
+msgstr "Ryuuji「Está bien. Bueno, seguiré＿buscando a Inko-chan.」"
+
+msgid "Haruta「Have a good day～ Hope you find ugly＿ol' Inko-chan～」"
+msgstr "Haruta「Que te vaya bien～ Ojalá encuentres＿al feo de Inko-chan～」"
+
+msgid "Ryuuji「Stop with the \"ugly\" crap!」"
+msgstr "Ryuuji「¡Deja ya de llamarlo \"feo\"!」"
+
+msgid "Haruta「Hmmm, the one who messed up was＿probably...... me, dude. We were＿supposed to meet in front of」"
+msgstr "Haruta「Mmm, el que se equivocó seguro＿fui...... yo, amigo. Se suponía＿que nos veríamos frente a」"
+
+msgid "Haruta「Sudoh-Bucks originally, but I changed＿it to the school......」"
+msgstr "Haruta「Sudoh-Bucks al principio, pero＿lo cambié a la escuela......」"

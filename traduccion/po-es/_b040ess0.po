@@ -1,0 +1,233 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「（Is it about done......?）」"
+msgstr "Ryuuji「（¿Ya casi está listo......?）」"
+
+msgid "Yasuko「Funyaa～ Something smells good～」"
+msgstr "Yasuko「Funyaa～ Algo huele muy bien～」"
+
+msgid "Ryuuji「Awake already? Morning.」"
+msgstr "Ryuuji「¿Ya estás despierta? Buenos días.」"
+
+msgid "Yasuko「Morning, Ryuu-chan ☆ What is it～?＿Rice cakes? Huh? Isn't something＿off～?」"
+msgstr "Yasuko「Buenos días, Ryuu-chan ☆ ¿Qué＿es～? ¿Pasteles de arroz? ¿Eh?＿¿No hay algo raro～?」"
+
+msgid "Ryuuji「Yeah. I dunno why, but this morning I＿just felt like making rice cakes for a＿change.」"
+msgstr "Ryuuji「Sí. No sé por qué, pero esta mañana＿me dieron ganas de hacer pasteles＿de arroz para variar.」"
+
+msgid "Ryuuji「Did I?」"
+msgstr "Ryuuji「¿Eso dije?」"
+
+msgid "Ryuuji「（I'm a little old to be patted on the＿head...... I feel so conflicted......）」"
+msgstr "Ryuuji「（Ya no tengo edad para que me den＿palmaditas en la cabeza...... Tengo＿sentimientos encontrados......）」"
+
+msgid "Yasuko「Huh? Come to think of it, where's＿Taiga-chan? She's late todayyy.」"
+msgstr "Yasuko「¿Eh? Ahora que lo pienso, ¿dónde está＿Taiga-chan? Hoy llega tardeee.」"
+
+msgid "Ryuuji「Hmm, you're right......」"
+msgstr "Ryuuji「Hmm, tienes razón......」"
+
+msgid "Ryuuji「Hey, Taiga! It's morning already!」"
+msgstr "Ryuuji「¡Oye, Taiga! ¡Ya es de día!」"
+
+msgid "Ryuuji「（No response...... Is she still asleep?）」"
+msgstr "Ryuuji「（Sin respuesta...... ¿Seguirá dormida?）」"
+
+msgid "Ryuuji「Taiga, you asleep? Time to get up! The＿rice cakes are ready!」"
+msgstr "Ryuuji「Taiga, ¿estás dormida? ¡A levantarse!＿¡Los pasteles de arroz ya están listos!」"
+
+msgid "Ryuuji「（Damn, I have no choice. As a last＿resort, I'll use the broom......）」"
+msgstr "Ryuuji「（Maldición, no tengo opción. Como último＿recurso, usaré la escoba......）」"
+
+msgid "Ryuuji「TAIGA! GET UP! WAKE! THE FUCK! UP!」"
+msgstr "Ryuuji「¡TAIGA! ¡ARRIBA! ¡DESPIERTA!＿¡DE! ¡UNA! ¡MALDITA! ¡VEZ!」"
+
+msgid "Taiga「......What the hell......?」"
+msgstr "Taiga「......¿Qué demonios......?」"
+
+msgid "Ryuuji「Aagh!!」"
+msgstr "Ryuuji「¡¡Aagh!!」"
+
+msgid "Taiga「Gack!」"
+msgstr "Taiga「¡Gack!」"
+
+msgid "Ryuuji「Gaahhh!! T-Taiga, pull yourself＿together!!」"
+msgstr "Ryuuji「¡¡Gaahhh!! ¡¡T-Taiga, reacciona!!」"
+
+msgid "Ryuuji「（I hit her right in the face, of all places!）」"
+msgstr "Ryuuji「（¡Justo en la cara tenía que darle!）」"
+
+msgid "Ryuuji「（Huh? Feels like this happened＿before...... but when?）」"
+msgstr "Ryuuji「（¿Eh? Siento que esto ya pasó＿antes...... ¿pero cuándo?）」"
+
+msgid "Yasuko「Pain, pain, go away～! How's it feel,＿Taiga-chan? Did it stop hurtinggg?」"
+msgstr "Yasuko「¡Sana, sana, colita de rana～!＿¿Cómo te sientes, Taiga-chan?＿¿Dejó de dolerrr?」"
+
+msgid "Taiga「......A little.」"
+msgstr "Taiga「......Un poco.」"
+
+msgid "Yasuko「Ehehe～ Yacchan's customers often＿say her \"pain, pain, go away～\" helps a＿bit～」"
+msgstr "Yasuko「Ejeje～ Los clientes de Yacchan suelen＿decir que su \"sana, sana, colita＿de rana～\" ayuda un poco～」"
+
+msgid "Ryuuji「Your forehead is only slightly red, so it＿doesn't look like it'll bruise.」"
+msgstr "Ryuuji「Solo tienes la frente un poco roja, así＿que no parece que te salga moretón.」"
+
+msgid "Taiga「\"Doesn't look like it'll bruise\"? Fuck＿you!」"
+msgstr "Taiga「¿\"No parece que te salga＿moretón\"? ¡Jódete!」"
+
+msgid "Ryuuji「I said I'm sorry. I didn't think your＿window-opening timing was still so＿bad.」"
+msgstr "Ryuuji「Ya te pedí perdón. No pensé＿que siguieras abriendo la ventana＿en tan mal momento.」"
+
+msgid "Taiga「Hmph, this is proof that worms never＿learn...... Hm? \"Still\"?」"
+msgstr "Taiga「Jum, esto prueba que los gusanos nunca＿aprenden...... ¿Hmm? ¿\"Siguieras\"?」"
+
+msgid "Yasuko「Oh, Ryuu-chan, did you perhaps＿remember something again～?」"
+msgstr "Yasuko「Ah, Ryuu-chan, ¿acaso volviste＿a recordar algo～?」"
+
+msgid "Ryuuji「Yeah. I remembered I had woken Taiga＿up like this before.」"
+msgstr "Ryuuji「Sí. Recordé que ya había despertado＿a Taiga así antes.」"
+
+msgid "Yasuko「Great job～ You're remembering so＿much this morning～ Yacchan so＿happeh～」"
+msgstr "Yasuko「¡Muy bien～! Estás recordando＿muchas cosas esta mañana～ Yacchan＿está tan feliiiz～」"
+
+msgid "Taiga「\"So much\"? What else did you＿remember!?」"
+msgstr "Taiga「¿\"Muchas cosas\"? ¡¿Qué más recordaste?!」"
+
+msgid "Taiga「..................」"
+msgstr "Taiga「..................」"
+
+msgid "Ryuuji「Taiga?」"
+msgstr "Ryuuji「¿Taiga?」"
+
+msgid "Ryuuji「..................」"
+msgstr "Ryuuji「..................」"
+
+msgid "Taiga「Besides, I'm not obligated to eat＿breakfast here every day. Good grief,＿don't you get that!?」"
+msgstr "Taiga「Además, no tengo la obligación de＿desayunar aquí todos los días. Cielos,＿¡¿no lo entiendes?!」"
+
+msgid "Ryuuji「（Big words for someone who ALWAYS＿comes over for breakfast every day.）」"
+msgstr "Ryuuji「（Mucho hablar para alguien que SIEMPRE＿viene a desayunar todos los días.）」"
+
+msgid "Taiga「What's with that look?」"
+msgstr "Taiga「¿Por qué me miras así?」"
+
+msgid "Taiga「Jeez, you slavedriver.」"
+msgstr "Taiga「Cielos, qué explotador eres.」"
+
+msgid "Ryuuji「You're one to talk.」"
+msgstr "Ryuuji「Mira quién lo dice.」"
+
+msgid "Yasuko「Yaaay, rice cakes, rice cakes～」"
+msgstr "Yasuko「Siiií, pasteles de arroz,＿pasteles de arroz～」"
+
+msgid "Ryuuji「Now I'll see the merit of the Tosa-style＿flavor. Taiga, pass the bonito flakes.」"
+msgstr "Ryuuji「Ahora veré qué tal el sabor＿al estilo Tosa. Taiga, pásame＿las hojuelas de bonito.」"
+
+msgid "Taiga「Hey, this is where you normally keep＿the bonito flakes, right? It's empty.」"
+msgstr "Taiga「Oye, aquí es donde normalmente＿guardas las hojuelas de bonito,＿¿no? Está vacío.」"
+
+msgid "Ryuuji「What!?」"
+msgstr "Ryuuji「¡¿Qué?!」"
+
+msgid "Taiga「See? Totally empty in here.」"
+msgstr "Taiga「¿Ves? Está completamente vacío.」"
+
+msgid "Ryuuji「W-What the fuck......!?」"
+msgstr "Ryuuji「¡¿Q-Qué mierda......?!」"
+
+msgid "Ryuuji「......Fuuuck! I'll never forgive myself!!＿Not sure why, but I'm extremely＿frustrated!! And pathetic!!」"
+msgstr "Ryuuji「......¡Mierdaaa! ¡¡No me lo perdonaré!!＿¡¡No sé por qué, pero siento una enorme＿frustración!! ¡¡Y soy patético!!」"
+
+msgid "Taiga「......Pfft.」"
+msgstr "Taiga「......Pff.」"
+
+msgid "Ryuuji「What's so funny?」"
+msgstr "Ryuuji「¿Qué te da tanta risa?」"
+
+msgid "Ryuuji「This is no laughing matter! Guess I'll＿have to go to the store.」"
+msgstr "Ryuuji「¡No es cosa de risa! Supongo que＿tendré que ir a la tienda.」"
+
+msgid "Taiga「The store? Aren't they all closed＿today?」"
+msgstr "Taiga「¿La tienda? ¿Acaso no están＿todas cerradas hoy?」"
+
+msgid "Taiga「Kanou-Mart......? Oh, fine. It's an＿emergency, after all.」"
+msgstr "Taiga「¿Kanou-Mart......? Ah, está bien.＿Después de todo, es una emergencia.」"
+
+msgid "Ryuuji「Okay, Yasuko, watch the house while＿I'm gone.」"
+msgstr "Ryuuji「Bien, Yasuko, cuida la casa＿mientras no estoy.」"
+
+msgid "Yasuko「Okaaay～ Take care～」"
+msgstr "Yasuko「Está bieeen～ Cuídense～」"
+
+msgid "Taiga「Come on, Ryuuji, hurry!」"
+msgstr "Taiga「¡Vamos, Ryuuji, date prisa!」"
+
+msgid "Ryuuji「Alright, alright. Let's go.」"
+msgstr "Ryuuji「Ya voy, ya voy. Vámonos.」"
+
+msgid "Ryuuji「So I thought I'd try making 'em＿Tosa-style. After you take them out of＿the bowl, the trick is to save the」"
+msgstr "Ryuuji「Pensé en hacerlos al estilo Tosa.＿Tras sacarlos del tazón, el truco＿es dejar el toque de」"
+
+msgid "Ryuuji「splash of bonito flakes for last.」"
+msgstr "Ryuuji「hojuelas de bonito para el final.」"
+
+msgid "Yasuko「Yaaay～ Looks yummy～! Come to think＿of it～ Ryuu-chan said since＿Taiga-chan will be with us this New」"
+msgstr "Yasuko「¡Siiií～ Qué rico se ve～! Ahora que lo＿pienso～ Ryuu-chan dijo que como＿Taiga-chan nos acompañará este Año」"
+
+msgid "Yasuko「Year's, you'll make lots of New Year's＿dishes～」"
+msgstr "Yasuko「Nuevo, prepararías mucha＿comida de Año Nuevo～」"
+
+msgid "Yasuko「Yep! Wow, even though your brain＿forgot, your body still remembers～＿Ryuu-chan's amazinggg! That's a good」"
+msgstr "Yasuko「¡Sí! Guau, aunque tu mente lo olvidó,＿tu cuerpo aún lo recuerda～ ¡Ryuu-chan＿es increíbleee! Eres un muy buen」"
+
+msgid "Yasuko「boy～ *pet pet*～」"
+msgstr "Yasuko「chico～ *palmadita, palmadita*～」"
+
+msgid "Ryuuji「（I'll put my right foot here... and my left＿foot against the wall... Yikes, that's＿scary! No, I mustn't look down. Don't）」"
+msgstr "Ryuuji「（Pondré el pie derecho aquí... y el＿izquierdo contra la pared... ¡Uy, qué＿miedo! No, no debo mirar abajo. No）」"
+
+msgid "Ryuuji「（look......）」"
+msgstr "Ryuuji「（mires......）」"
+
+msgid "Taiga「Good lord, can't a mongrel just be＿satisfied that he woke someone!?＿You're lower than a dog! LOWER! Go」"
+msgstr "Taiga「Dios mío, ¡¿un perro no puede＿conformarse con despertar a alguien?!＿¡Eres peor que un perro! ¡PEOR! ¡Ve a」"
+
+msgid "Taiga「reincarnate yourself, you stupid worm!」"
+msgstr "Taiga「reencarnar, tonto gusano!」"
+
+msgid "Ryuuji「Nothing important. Just that I was＿going to try and make different styles＿of New Year's dishes this year since」"
+msgstr "Ryuuji「Nada importante. Solo que iba a＿intentar preparar distintos tipos de＿platos de Año Nuevo este año, ya que」"
+
+msgid "Ryuuji「you'll be joining us.」"
+msgstr "Ryuuji「nos acompañarás.」"
+
+msgid "Taiga「Hmph. The nerve, trying to use me as＿an excuse. Why don't you just be＿honest with yourself and admit you」"
+msgstr "Taiga「Jum. Qué descaro, usarme de＿excusa. ¿Por qué no eres honesto＿contigo mismo y admites que」"
+
+msgid "Taiga「wanted to make them for yourself?」"
+msgstr "Taiga「querías hacerlos para ti?」"
+
+msgid "Ryuuji「No, it's nothing. More importantly, let's＿eat some rice cakes. I'll warm them＿back up, so you get the bonito flakes,」"
+msgstr "Ryuuji「No es nada. Mejor comamos pasteles＿de arroz. Yo los recaliento;＿tú saca las hojuelas de bonito,」"
+
+msgid "Ryuuji「Taiga.」"
+msgstr "Ryuuji「Taiga.」"
+
+msgid "Ryuuji「（I forgot the most crucial part, the＿bonito flakes! What a fiasco...... Oh,＿what the? What's this rush of）」"
+msgstr "Ryuuji「（¡Olvidé lo más crucial, las hojuelas＿de bonito! Qué fiasco...... Oh, ¿qué＿pasa? ¡¿Qué es esta oleada de）」"
+
+msgid "Ryuuji「（indignation!?）」"
+msgstr "Ryuuji「（indignación?!）」"
+
+msgid "Taiga「W-Well, pfft, you have amnesia, but you＿still sound exactly the same. You really＿are a househusband through and」"
+msgstr "Taiga「B-Bueno, pff, tienes amnesia,＿pero sigues sonando igualito.＿Eres un amo de casa de pies a」"
+
+msgid "Taiga「through. Hahahaha!」"
+msgstr "Taiga「cabeza. ¡Jajajaja!」"
+
+msgid "Ryuuji「No, as I recall, Kanou-Mart should be＿having their New Year's sale. Plus, it'll＿be on sale at a great price. No way I'm」"
+msgstr "Ryuuji「No, Kanou-Mart debe tener su venta＿de Año Nuevo, si mal no recuerdo. Y＿estará a muy buen precio. No pienso」"
+
+msgid "Ryuuji「missing this opportunity.」"
+msgstr "Ryuuji「perder esta oportunidad.」"

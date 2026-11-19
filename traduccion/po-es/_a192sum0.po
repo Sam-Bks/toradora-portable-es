@@ -1,0 +1,236 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「（I couldn't find her around the school＿anywhere, so I came all the way here......）」"
+msgstr "Ryuuji「（No la encontré por ningún＿lado de la escuela, así que＿vine hasta aquí......）」"
+
+msgid "Sumire「Takasu!」"
+msgstr "Sumire「¡Takasu!」"
+
+msgid "Ryuuji「Kanou-senpai...... What's with the＿suitcase?」"
+msgstr "Ryuuji「Kanou-senpai...... ¿Y esa maleta?」"
+
+msgid "Sumire「I'm about to go back to America.」"
+msgstr "Sumire「Estoy por regresar a Estados Unidos.」"
+
+msgid "Ryuuji「Already?」"
+msgstr "Ryuuji「¿Ya?」"
+
+msgid "Sumire「Don't be stupid. You guys are back in＿school, yet you think I'm gonna＿dilly-dally in Japan forever?」"
+msgstr "Sumire「No seas tonto. Ya están de vuelta en＿clases, ¿crees que voy a perder el＿tiempo en Japón para siempre?」"
+
+msgid "Sumire「Even if I did, my language skills would＿start to slip. I've got mountains of work＿waiting for me back in America.」"
+msgstr "Sumire「Aunque lo hiciera, perdería práctica＿con el idioma. Tengo montañas de trabajo＿esperándome en Estados Unidos.」"
+
+msgid "Sumire「Fufu. What, did you fall for me too?」"
+msgstr "Sumire「Juju. ¿Qué, también te enamoraste de mí?」"
+
+msgid "Ryuuji「For that Big Bro attitude, yeah.」"
+msgstr "Ryuuji「Por esa actitud de Hermano Mayor, sí.」"
+
+msgid "Sumire「You admit it.」"
+msgstr "Sumire「Lo admites.」"
+
+msgid "Ryuuji「When you go back to America, you＿won't be able to see Kitamura＿anymore. But you're okay with that.」"
+msgstr "Ryuuji「Cuando regreses a Estados Unidos,＿ya no podrás ver a Kitamura. Pero＿estás bien con eso.」"
+
+msgid "Sumire「Why should I want to see Kitamura?」"
+msgstr "Sumire「¿Por qué querría ver a Kitamura?」"
+
+msgid "Ryuuji「Huh? But......」"
+msgstr "Ryuuji「¿Eh? Pero......」"
+
+msgid "Sumire「Maybe you have the wrong idea? The＿plans you had in store for us that day＿all came to nothing.」"
+msgstr "Sumire「¿No te habrás equivocado? Los planes＿que tenías para nosotros ese día＿no sirvieron de nada.」"
+
+msgid "Ryuuji「Wha......?」"
+msgstr "Ryuuji「¿Qué......?」"
+
+msgid "Sumire「I believe that's the best answer I can＿give right now - no matter how many＿people revile me for it.」"
+msgstr "Sumire「Creo que es la mejor respuesta que＿puedo dar ahora, sin importar cuánta＿gente me desprecie por ello.」"
+
+msgid "Ryuuji「That can't be...... Then, Kitamura......」"
+msgstr "Ryuuji「No puede ser...... Entonces,＿Kitamura......」"
+
+msgid "Sumire「You don't need to worry about＿Kitamura. To him, I'm already part of＿the past.」"
+msgstr "Sumire「No tienes que preocuparte por Kitamura.＿Para él, ya soy parte del pasado.」"
+
+msgid "Ryuuji「The past?」"
+msgstr "Ryuuji「¿El pasado?」"
+
+msgid "Sumire「He said, \"For me, you're already in the＿past. And I have someone with whom I＿want to face the future.\"」"
+msgstr "Sumire「Dijo: \"Para mí, ya estás en el pasado.＿Y tengo a alguien con quien quiero＿enfrentar el futuro\".」"
+
+msgid "Ryuuji「Wha......?」"
+msgstr "Ryuuji「¿Qué......?」"
+
+msgid "Sumire「Of course, it seems he's reluctant to＿talk about that.」"
+msgstr "Sumire「Claro, parece que es reacio＿a hablar de eso.」"
+
+msgid "Ryuuji「Then what......?」"
+msgstr "Ryuuji「¿Entonces qué......?」"
+
+msgid "Sumire「He said he's way too self-centered.＿Seems a lot has happened in the past,＿even with his friendships.」"
+msgstr "Sumire「Dijo que es demasiado egoísta. Parece＿que pasaron muchas cosas antes, incluso＿con sus amistades.」"
+
+msgid "Ryuuji「Incident?」"
+msgstr "Ryuuji「¿Incidente?」"
+
+msgid "Sumire「\"I want you to be happy with the＿person you love, Kitamura-kun.\"」"
+msgstr "Sumire「\"Quiero que seas feliz con la persona＿que amas, Kitamura-kun\".」"
+
+msgid "Ryuuji「......!」"
+msgstr "Ryuuji「......!」"
+
+msgid "Sumire「......Do you understand who Kitamura＿sees his future with?」"
+msgstr "Sumire「......¿Entiendes con quién＿ve Kitamura su futuro?」"
+
+msgid "Ryuuji「Kitamura likes Taiga? That means＿their feelings are mutual.」"
+msgstr "Ryuuji「¿A Kitamura le gusta Taiga?＿Eso quiere decir que sus sentimientos＿son mutuos.」"
+
+msgid "Ryuuji「I...... I......」"
+msgstr "Ryuuji「Yo...... Yo......」"
+
+msgid "Sumire「............」"
+msgstr "Sumire「............」"
+
+msgid "Ryuuji「If Kitamura and Taiga can be happy＿together...... then that's--」"
+msgstr "Ryuuji「Si Kitamura y Taiga pueden ser felices＿juntos...... entonces eso--」"
+
+msgid "Ryuuji「......!?」"
+msgstr "Ryuuji「......!?」"
+
+msgid "Sumire「If you're on the verge of tears, you＿don't have to put on a brave face.」"
+msgstr "Sumire「Si estás al borde de las lágrimas, no＿tienes por qué fingir valentía.」"
+
+msgid "Ryuuji「Kanou-senpai?」"
+msgstr "Ryuuji「¿Kanou-senpai?」"
+
+msgid "Sumire「I can say that because I put on a brave＿face just like you.」"
+msgstr "Sumire「Puedo decirlo porque yo también＿fingí valentía, igual que tú.」"
+
+msgid "Sumire「I was able to withstand that pain by＿keeping myself busy. Being in America＿helped me scrape by.」"
+msgstr "Sumire「Pude soportar ese dolor manteniéndome＿ocupada. Estar en Estados Unidos me＿ayudó a salir adelante.」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Sumire「Can YOU withstand it? Can you accept＿it?」"
+msgstr "Sumire「¿TÚ puedes soportarlo?＿¿Puedes aceptarlo?」"
+
+msgid "Ryuuji「......」"
+msgstr "Ryuuji「......」"
+
+msgid "Ryuuji「With Taiga......!?」"
+msgstr "Ryuuji「¡¿Con Taiga......?!」"
+
+msgid "Sumire「Go.」"
+msgstr "Sumire「Ve.」"
+
+msgid "Ryuuji「......I'm sorry, please excuse me.」"
+msgstr "Ryuuji「......Lo siento, con permiso.」"
+
+msgid "Sumire「Oh, and Takasu?」"
+msgstr "Sumire「Ah, oye, ¿Takasu?」"
+
+msgid "Ryuuji「Huh!?」"
+msgstr "Ryuuji「¡¿Eh?!」"
+
+msgid "Sumire「God bless you......」"
+msgstr "Sumire「Dios te bendiga......」"
+
+msgid "Ryuuji「......Come again?」"
+msgstr "Ryuuji「......¿Cómo dices?」"
+
+msgid "Ryuuji「Senpai, what did you just......?」"
+msgstr "Ryuuji「Senpai, ¿qué acabas de......?」"
+
+msgid "Sumire「You couldn't hear three words clearly?＿Are you gonna be okay on your exams＿next year?」"
+msgstr "Sumire「¿No pudiste oír bien tres palabras?＿¿Vas a poder con tus exámenes＿el año que viene?」"
+
+msgid "Ryuuji「Well, just now, your lips grazed m-my＿earlobe......」"
+msgstr "Ryuuji「Bueno, hace un momento tus labios＿rozaron el l-lóbulo de mi oreja......」"
+
+msgid "Sumire「Ah ha ha ha, it's part of Western＿culture. Don't get any weird ideas.」"
+msgstr "Sumire「Ja, ja, ja, es parte de la cultura＿occidental. No te hagas ideas raras.」"
+
+msgid "Ryuuji「......Says the one who asked for＿Kitamura and then rejected him.」"
+msgstr "Ryuuji「......Lo dice quien mandó llamar＿a Kitamura y luego lo rechazó.」"
+
+msgid "Sumire「Every time that old wound happens to＿ache, I'm forced to think of him. In a＿sense, Kitamura's won.」"
+msgstr "Sumire「Cada vez que me duele esa vieja herida,＿no puedo evitar pensar en él. En cierto＿modo, Kitamura ganó.」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Sumire「Come on, get going already! Before it's＿all too late!」"
+msgstr "Sumire「Vamos, ¡vete de una vez! ¡Antes＿de que sea demasiado tarde!」"
+
+msgid "Ryuuji「R-Right......!」"
+msgstr "Ryuuji「¡S-Sí......!」"
+
+msgid "Ryuuji「......」"
+msgstr "Ryuuji「......」"
+
+msgid "Ryuuji「......I'm going......!」"
+msgstr "Ryuuji「......¡Me voy......!」"
+
+msgid "Ryuuji「......You're amazing, senpai. It's like you＿live in a completely different world＿from the rest of us or something...... I」"
+msgstr "Ryuuji「......Eres increíble, senpai. Es como si＿vivieras en un mundo completamente＿distinto al nuestro o algo así...... Yo」"
+
+msgid "Ryuuji「feel like I understand why Kitamura fell＿for you.」"
+msgstr "Ryuuji「siento que entiendo por qué＿Kitamura se enamoró de ti.」"
+
+msgid "Sumire「The choice I made on the day of the＿student council election? I don't think I＿chose wrong. No matter how many」"
+msgstr "Sumire「¿La decisión que tomé el día de la＿elección del consejo estudiantil? No＿creo haberme equivocado. No importa」"
+
+msgid "Sumire「times Kitamura were to confess to me,＿I can't accept him at this point.」"
+msgstr "Sumire「cuántas veces se me declare Kitamura,＿no puedo aceptarlo a estas alturas.」"
+
+msgid "Sumire「I'm sincerely grateful for the＿opportunity you gave me to speak with＿Kitamura, Takasu. He made it clear to」"
+msgstr "Sumire「Te agradezco de verdad que me dieras la＿ocasión de hablar con Kitamura, Takasu.＿Él fue muy claro」"
+
+msgid "Sumire「me.」"
+msgstr "Sumire「conmigo.」"
+
+msgid "Sumire「However! Though Kitamura was＿unwilling to discuss his feelings at the＿planetarium, that later incident」"
+msgstr "Sumire「¡Sin embargo! Aunque Kitamura no quiso＿hablar de sus sentimientos en el＿planetario, ese incidente posterior」"
+
+msgid "Sumire「seemed to have changed his mind.」"
+msgstr "Sumire「parece haberlo hecho cambiar de opinión.」"
+
+msgid "Sumire「Yes. Aisaka's words must have＿touched his heart. The person＿Kitamura likes right now isn't me - it's」"
+msgstr "Sumire「Sí. Las palabras de Aisaka debieron＿tocarle el corazón. Ahora, quien le＿gusta a Kitamura no soy yo, es」"
+
+msgid "Sumire「Aisaka.」"
+msgstr "Sumire「Aisaka.」"
+
+msgid "Sumire「For Aisaka to have wished for＿Kitamura to be happy with the one he＿loves, while loving him herself...... Even」"
+msgstr "Sumire「Que Aisaka haya deseado que Kitamura＿sea feliz con quien ama, amándolo＿ella misma...... Hasta」"
+
+msgid "Sumire「a first-grader could put two and two＿together.」"
+msgstr "Sumire「un niño de primaria podría＿sumar dos más dos.」"
+
+msgid "Sumire「The person you love is moving on＿before your eyes - are you just gonna＿stand there and watch? Hurting,」"
+msgstr "Sumire「La persona que amas sigue adelante＿ante tus ojos, ¿y te vas a quedar＿ahí mirando? ¿Sufriendo,」"
+
+msgid "Sumire「regretting, crying yourself to death?」"
+msgstr "Sumire「arrepintiéndote, llorando hasta morir?」"
+
+msgid "Sumire「You don't need to tell me your answer.＿Do what you want to do. Kitamura＿should still be at school...... with Aisaka,」"
+msgstr "Sumire「No hace falta que respondas. Haz lo que＿quieras. Kitamura aún debe estar en la＿escuela...... con Aisaka,」"
+
+msgid "Sumire「presumably.」"
+msgstr "Sumire「supongo.」"
+
+msgid "Sumire「God bless you...... Takasu, God is＿carried in your heart, as are those you＿hold dear. If you ask for something」"
+msgstr "Sumire「Dios te bendiga...... Takasu, a Dios＿lo llevas en el corazón, igual que a＿tus seres queridos. Si pides algo」"
+
+msgid "Sumire「with every fiber of your being, I'm sure＿your prayers will be answered.」"
+msgstr "Sumire「con cada fibra de tu ser, seguro＿tus plegarias serán escuchadas.」"
+
+msgid "Sumire「Yeah. From this outcome where we＿clashed...... Kitamura has left a wound＿in my heart that I will bear for the rest」"
+msgstr "Sumire「Sí. Tras este choque nuestro......＿Kitamura me dejó una herida en el＿corazón que llevaré por el resto」"
+
+msgid "Sumire「of my life.」"
+msgstr "Sumire「de mi vida.」"

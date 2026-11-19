@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+
+msgid "Yasuko「Ufufu, glad Ryuu-chan came along,＿definitelyyy.」"
+msgstr "Yasuko「Ujuju, me alegra que Ryuu-chan haya＿venido, definitivamenteee.」"
+
+msgid "Ryuuji「What's this all of a sudden?」"
+msgstr "Ryuuji「¿Y eso a qué viene tan de repente?」"
+
+msgid "Yasuko「Yacchan's happy we could have this＿talk.」"
+msgstr "Yasuko「Yacchan está feliz de que pudiéramos＿tener esta charla.」"
+
+msgid "Ryuuji「......Sorry. Seems like we didn't really＿talk and stuff usually.」"
+msgstr "Ryuuji「......Perdón. Parece que normalmente＿no hablábamos mucho ni nada de eso.」"
+
+msgid "Yasuko「Oh, no no, Yacchan never once＿thought that, but......」"
+msgstr "Yasuko「Ah, no, no, Yacchan jamás＿pensó eso, pero......」"
+
+msgid "Yasuko「Did Ryuu-chan think thattt? Yacchan's＿sorry too, for not making time for ittt.」"
+msgstr "Yasuko「¿Ryuu-chan pensaba esooo? Yacchan＿lamenta no haber tenido tiempooo.」"
+
+msgid "Ryuuji「......You work hard at your job, so I＿understand.」"
+msgstr "Ryuuji「......Te esfuerzas mucho en tu＿trabajo, así que lo entiendo.」"
+
+msgid "Yasuko「Ehehe, thanks, Ryuu-chan☆」"
+msgstr "Yasuko「Ejeje, gracias, Ryuu-chan☆」"

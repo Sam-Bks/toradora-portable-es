@@ -1,0 +1,833 @@
+msgid ""
+msgstr ""
+
+msgid "Stare"
+msgstr "Mirar fijamente"
+
+msgid "Stare passionately"
+msgstr "Mirar con pasión"
+
+msgid "Stare calmly"
+msgstr "Mirar con calma"
+
+msgid "Stare blankly"
+msgstr "Mirar distraído"
+
+msgid "About the Plan"
+msgstr "Sobre el plan"
+
+msgid "I hope things go well for Kitamura"
+msgstr "Espero que todo le salga bien a Kitamura"
+
+msgid "Tomiie and Sakura will be fine, right?"
+msgstr "Tomiie y Sakura estarán bien, ¿no?"
+
+msgid "Kanou-senpai seems stubborn"
+msgstr "Kanou-senpai parece terca"
+
+msgid "About Kanou Sisters"
+msgstr "Sobre las hermanas Kanou"
+
+msgid "You fought with the older sister......"
+msgstr "Te peleaste con la hermana mayor......"
+
+msgid "The younger sister is ridiculously sexy"
+msgstr "La hermana menor es absurdamente sexy"
+
+msgid "For sisters, they're not much alike"
+msgstr "Para ser hermanas, no se parecen mucho"
+
+msgid "About Kawashima"
+msgstr "Sobre Kawashima"
+
+msgid "She put on quite the performance"
+msgstr "Hizo una gran actuación"
+
+msgid "Did you hate her right from the start?"
+msgstr "¿La odiaste desde el principio?"
+
+msgid "She seems very curious about my amnesia"
+msgstr "Le da mucha curiosidad mi amnesia"
+
+msgid "About Kitamura"
+msgstr "Sobre Kitamura"
+
+msgid "He's a good guy, so I want to repay him"
+msgstr "Es buen tipo, quiero devolverle el favor"
+
+msgid "Was he an exhibitionist, perhaps?"
+msgstr "¿Acaso era exhibicionista?"
+
+msgid "Kitamura and Kanou-senpai......"
+msgstr "Kitamura y Kanou-senpai......"
+
+msgid "About Yasuko"
+msgstr "Sobre Yasuko"
+
+msgid "Seems she has some generous customers"
+msgstr "Parece que tiene clientes generosos"
+
+msgid "Never woulda thought she was my mother"
+msgstr "Nunca habría pensado que era mi madre"
+
+msgid "Why does she love my old man so much?"
+msgstr "¿Por qué ama tanto a mi padre?"
+
+msgid "--Let's Get Info For Tomorrow's Plan!--"
+msgstr "--¡Consigamos datos para el plan de mañana!--"
+
+msgid "Taiga「With a good expression like that, the＿plan is sure to go well.」"
+msgstr "Taiga「Con una buena expresión como esa,＿seguro que el plan saldrá bien.」"
+
+msgid "Ryuuji「Oh yeah, leave it to me.」"
+msgstr "Ryuuji「Sí, claro, déjamelo a mí.」"
+
+msgid "Taiga「Didn't know you could make that＿expression.」"
+msgstr "Taiga「No sabía que podías poner esa expresión.」"
+
+msgid "Ryuuji「You can count on me tomorrow!」"
+msgstr "Ryuuji「¡Puedes contar conmigo mañana!」"
+
+msgid "Taiga「We'd be in trouble if we couldn't.」"
+msgstr "Taiga「Estaríamos en problemas si no.」"
+
+msgid "Taiga「They say \"the weaker the dog, the＿more it barks,\" and your eyes are a＿testament to that.」"
+msgstr "Taiga「Dicen que \"cuanto más débil el＿perro, más ladra\", y tus ojos＿son la prueba de ello.」"
+
+msgid "Ryuuji「Well, excuse me!」"
+msgstr "Ryuuji「¡Bueno, disculpa!」"
+
+msgid "Taiga「It's fine, really. Everyone needs to act＿tough sometimes.」"
+msgstr "Taiga「Está bien, en serio. Todo el mundo＿necesita hacerse el duro a veces.」"
+
+msgid "Taiga「Save that fighting spirit for tomorrow.」"
+msgstr "Taiga「Guarda ese ánimo de lucha para mañana.」"
+
+msgid "Ryuuji「Oh, okay.」"
+msgstr "Ryuuji「Ah, está bien.」"
+
+msgid "Taiga「If you try to condescend to Kanou＿Sumire, you'll be beaten at your own＿game.」"
+msgstr "Taiga「Si intentas mirar por encima del＿hombro a Kanou Sumire, te vencerá＿en tu propio juego.」"
+
+msgid "Ryuuji「I, I see......」"
+msgstr "Ryuuji「Y-Ya veo......」"
+
+msgid "Taiga「This is no time for games!」"
+msgstr "Taiga「¡No es momento para juegos!」"
+
+msgid "Ryuuji「Jeez, I'm sorry.」"
+msgstr "Ryuuji「Ay, lo siento.」"
+
+msgid "Taiga「What's with that look? Gonna mug me?」"
+msgstr "Taiga「¿Y esa cara? ¿Me vas a asaltar?」"
+
+msgid "Ryuuji「No, I'm not!」"
+msgstr "Ryuuji「¡Claro que no!」"
+
+msgid "Taiga「Your face is really...... pitiful......」"
+msgstr "Taiga「Tu cara es muy...... lamentable......」"
+
+msgid "Ryuuji「That really hurts, you know.」"
+msgstr "Ryuuji「Eso sí que duele, ¿sabes?」"
+
+msgid "Taiga「Don't you go see Kanou Sumire with＿that expression tomorrow. You look＿like a psycho.」"
+msgstr "Taiga「No vayas a ver a Kanou Sumire con esa＿cara mañana. Pareces un psicópata.」"
+
+msgid "Ryuuji「Mind your own business.」"
+msgstr "Ryuuji「Ocúpate de tus asuntos.」"
+
+msgid "Taiga「What, has the mongrel gone senile?＿Are you motivated at all?」"
+msgstr "Taiga「¿Qué, el perro se volvió senil? ¿Tienes＿siquiera algo de motivación?」"
+
+msgid "Ryuuji「I'm not senile......」"
+msgstr "Ryuuji「No estoy senil......」"
+
+msgid "Ryuuji「I, I'm okay! I'm motivated!」"
+msgstr "Ryuuji「¡E-Estoy bien! ¡Estoy motivado!」"
+
+msgid "Taiga「We'll make it go well for sure. I want＿Kitamura-kun to be happy.」"
+msgstr "Taiga「Seguro que haremos que salga bien.＿Quiero que Kitamura-kun sea feliz.」"
+
+msgid "Ryuuji「You're really passionate about this,＿Taiga. It's awesome.」"
+msgstr "Ryuuji「De verdad le pones pasión a＿esto, Taiga. Es genial.」"
+
+msgid "Taiga「Frankly, I acknowledge that you've put＿in some hard work yourself.」"
+msgstr "Taiga「Francamente, reconozco que tú también＿te has esforzado bastante.」"
+
+msgid "Ryuuji「Well, I think I did the best I could.」"
+msgstr "Ryuuji「Bueno, creo que hice lo mejor que pude.」"
+
+msgid "Taiga「Don't get ahead of yourself.＿Tomorrow's the real deal.」"
+msgstr "Taiga「No te adelantes tanto.＿Mañana va en serio.」"
+
+msgid "Ryuuji「Oh yeah.」"
+msgstr "Ryuuji「Ah, sí.」"
+
+msgid "Taiga「In order for things to go well for＿Kitamura, you need to do your job well.＿Understand, Ryuuji?」"
+msgstr "Taiga「Para que las cosas le salgan bien＿a Kitamura, tienes que hacer bien＿tu parte. ¿Entendido, Ryuuji?」"
+
+msgid "Ryuuji「Right back at you.」"
+msgstr "Ryuuji「Lo mismo digo.」"
+
+msgid "Taiga「Let's put 110% into everything we＿can do for Kitamura-kun.」"
+msgstr "Taiga「Demos el 110% en todo lo que podamos＿hacer por Kitamura-kun.」"
+
+msgid "Ryuuji「Yeah, I agree.」"
+msgstr "Ryuuji「Sí, estoy de acuerdo.」"
+
+msgid "Ryuuji「He shouldn't be a problem anymore.」"
+msgstr "Ryuuji「Él ya no debería ser un problema.」"
+
+msgid "Taiga「\"Will it be okay\"!? We went through all＿that trouble of setting the stage, so of＿course it'll be okay!」"
+msgstr "Taiga「¡¿\"Estarán bien\"?! Nos tomamos toda＿la molestia de preparar el terreno,＿¡así que claro que estarán bien!」"
+
+msgid "Ryuuji「Well, I mean, what with Tomiie's little＿idiosyncracy, we should prepare for＿the worst case scenario......」"
+msgstr "Ryuuji「Bueno, digo, con esa peculiaridad＿de Tomiie, deberíamos prepararnos＿para el peor de los casos......」"
+
+msgid "Ryuuji「Oh, I don't wanna picture it.」"
+msgstr "Ryuuji「Ay, ni me lo quiero imaginar.」"
+
+msgid "Ryuuji「You do have a point there......」"
+msgstr "Ryuuji「En eso sí tienes razón......」"
+
+msgid "Ryuuji「......N-No, let's drop it. If we start＿worrying about that, we'll never stop.」"
+msgstr "Ryuuji「......N-No, dejémoslo. Si nos preocupa＿eso, no acabaremos nunca.」"
+
+msgid "Taiga「You're the one who brought it up.」"
+msgstr "Taiga「Tú fuiste quien sacó el tema.」"
+
+msgid "Ryuuji「I'm not too sure about that......」"
+msgstr "Ryuuji「No estoy muy seguro de eso......」"
+
+msgid "Ryuuji「Don't say that. That's dangerous.」"
+msgstr "Ryuuji「No digas eso. Es peligroso.」"
+
+msgid "Taiga「Aren't you the one who's supposed to＿do something about it?! Don't throw a＿tantrum!!」"
+msgstr "Taiga「¡¿No se supone que tú eres quien＿debe hacer algo al respecto?! ¡¡No＿hagas un berrinche!!」"
+
+msgid "Ryuuji「A-Alright already! Calm down!」"
+msgstr "Ryuuji「¡B-Bueno, ya! ¡Cálmate!」"
+
+msgid "Taiga「I won't answer that.」"
+msgstr "Taiga「No voy a responder a eso.」"
+
+msgid "Ryuuji「I, I see.」"
+msgstr "Ryuuji「Y-Ya veo.」"
+
+msgid "Taiga「............」"
+msgstr "Taiga「............」"
+
+msgid "Ryuuji「Alright, I won't ask about her anymore!」"
+msgstr "Ryuuji「¡Bien, ya no preguntaré más por ella!」"
+
+msgid "Taiga「My apologies for lacking in sex appeal＿and bustline.」"
+msgstr "Taiga「Disculpa por carecer de atractivo＿sexual y de busto.」"
+
+msgid "Ryuuji「No, between the two of you, she's the＿abnormal one.」"
+msgstr "Ryuuji「No, entre ustedes dos,＿ella es la anormal.」"
+
+msgid "Taiga「That girl's got it easy! She's a＿revoltingly fat, clumsy nuisance, but all＿is forgiven because of her big tits!」"
+msgstr "Taiga「¡Qué fácil la tiene! Es una molestia＿torpe y asquerosamente gorda, ¡pero se＿lo perdonan todo por sus tetas grandes!」"
+
+msgid "Ryuuji「......I don't think that's the case.」"
+msgstr "Ryuuji「......No creo que sea por eso.」"
+
+msgid "Taiga「Is it that strange for siblings to be＿different?」"
+msgstr "Taiga「¿Es tan raro que los hermanos＿sean diferentes?」"
+
+msgid "Ryuuji「Well, doesn't it make it hard to believe＿they're related?」"
+msgstr "Ryuuji「Bueno, ¿no cuesta creer que＿estén emparentadas?」"
+
+msgid "Taiga「Not for me.」"
+msgstr "Taiga「Para mí no.」"
+
+msgid "Ryuuji「Oh really......」"
+msgstr "Ryuuji「Ah, en serio......」"
+
+msgid "Ryuuji「Why are you so upset? I'm sorry for＿mentioning it.」"
+msgstr "Ryuuji「¿Por qué te enojas tanto?＿Perdón por mencionarlo.」"
+
+msgid "Taiga「Hmph!」"
+msgstr "Taiga「¡Jum!」"
+
+msgid "Taiga「Tomorrow's the showdown, and yet＿you're daydreaming about THAT? You＿horndog.」"
+msgstr "Taiga「Mañana es el día decisivo, ¿y tú estás＿fantaseando con ESO? Qué pervertido.」"
+
+msgid "Ryuuji「Ngh......」"
+msgstr "Ryuuji「Ngh......」"
+
+msgid "Taiga「I guess. I don't have any siblings, so I＿don't know the first thing about＿familial resemblance.」"
+msgstr "Taiga「Supongo. No tengo hermanos,＿así que no sé nada sobre los＿parecidos de familia.」"
+
+msgid "Ryuuji「It's the same for me. I have no idea.」"
+msgstr "Ryuuji「Me pasa igual. No tengo ni idea.」"
+
+msgid "Taiga「Sure they are.」"
+msgstr "Taiga「Claro que se parecen.」"
+
+msgid "Ryuuji「In what way?」"
+msgstr "Ryuuji「¿En qué sentido?」"
+
+msgid "Taiga「They're both repugnant.」"
+msgstr "Taiga「Las dos son repugnantes.」"
+
+msgid "Ryuuji「Now I get it......」"
+msgstr "Ryuuji「Ahora lo entiendo......」"
+
+msgid "Taiga「I already knew StuChi was good at＿acting.」"
+msgstr "Taiga「Ya sabía que StuChi era buena actuando.」"
+
+msgid "Ryuuji「Because she's the daughter of an＿actress, right?」"
+msgstr "Ryuuji「Porque es hija de una actriz, ¿verdad?」"
+
+msgid "Taiga「I've seen it for myself, 150 times in＿one long rapid-fire burst...... That was＿so much fun. Fufufu......」"
+msgstr "Taiga「Lo vi con mis propios ojos, 150＿veces seguidas de golpe...... Fue＿muy divertido. Jujuju......」"
+
+msgid "Ryuuji「What are you talking about......?」"
+msgstr "Ryuuji「¿De qué estás hablando......?」"
+
+msgid "Taiga「You should be grateful to me.」"
+msgstr "Taiga「Deberías estarme agradecido.」"
+
+msgid "Ryuuji「And why exactly would you say that?」"
+msgstr "Ryuuji「¿Y por qué exactamente dices eso?」"
+
+msgid "Ryuuji「......I can't begin to picture that.」"
+msgstr "Ryuuji「......Ni siquiera me lo imagino.」"
+
+msgid "Taiga「It'd be weird if an actress's daughter＿couldn't manage that much.」"
+msgstr "Taiga「Sería raro que la hija de una actriz＿no pudiera lograr al menos eso.」"
+
+msgid "Ryuuji「An actress's daughter...... Never mind.＿She saved our asses, so let's just be＿grateful.」"
+msgstr "Ryuuji「La hija de una actriz...... Olvídalo.＿Nos salvó el pellejo, así que solo＿agradezcámoslo.」"
+
+msgid "Taiga「She always pretends to be cute and＿friendly, so of course she's good at＿acting.」"
+msgstr "Taiga「Siempre finge ser linda y amigable, así＿que claro que es buena actuando.」"
+
+msgid "Ryuuji「......Oh, I get it.」"
+msgstr "Ryuuji「......Ah, ya entiendo.」"
+
+msgid "Taiga「Want to hear the story of how StuChi＿and I first met?」"
+msgstr "Taiga「¿Quieres oír la historia de cómo＿StuChi y yo nos conocimos?」"
+
+msgid "Ryuuji「......Nah, I can get the gist of it just from＿the look on your face, so I'll pass.」"
+msgstr "Ryuuji「......Nah, me hago una idea solo＿con ver tu cara, así que paso.」"
+
+msgid "Taiga「Just thinking back on it makes me SO＿MAAAAAD!!」"
+msgstr "Taiga「¡¡Solo de recordarlo me＿da TANTA RABIAAAA!!」"
+
+msgid "Ryuuji「Wait, Taiga, calm down! It's my fault for＿asking!」"
+msgstr "Ryuuji「¡Espera, Taiga, cálmate! ¡Fue＿culpa mía por preguntar!」"
+
+msgid "Taiga「She tricked you right when she first＿met your humble mongrel self.」"
+msgstr "Taiga「Te engañó en cuanto conoció a＿un humilde perro como tú.」"
+
+msgid "Ryuuji「I'm not asking about me.」"
+msgstr "Ryuuji「No pregunto por mí.」"
+
+msgid "Taiga「I kinda regret that time when we first＿met.」"
+msgstr "Taiga「Me arrepiento un poco de aquella＿vez que nos conocimos.」"
+
+msgid "Ryuuji「What, did you guys get into a fight?」"
+msgstr "Ryuuji「¿Qué, acaso se pelearon?」"
+
+msgid "Taiga「Yup. Looking back on it, instead of＿slapping her, I really should have＿slapped her twice.」"
+msgstr "Taiga「Sip. Pensándolo bien, en vez＿de darle una bofetada, en realidad＿debí darle dos.」"
+
+msgid "Ryuuji「......That kind of regret, huh.」"
+msgstr "Ryuuji「......Ese tipo de arrepentimiento, eh.」"
+
+msgid "Taiga「Yeah. As I recall, I slapped her when＿we first met.」"
+msgstr "Taiga「Sí. Si mal no recuerdo, la abofeteé＿cuando nos conocimos.」"
+
+msgid "Ryuuji「Okay, that's enough. I don't want to＿know any more than that.」"
+msgstr "Ryuuji「Bueno, ya es suficiente. No＿quiero saber más que eso.」"
+
+msgid "Taiga「She's probably up to no good again.」"
+msgstr "Taiga「Seguro trama algo malo otra vez.」"
+
+msgid "Ryuuji「I dunno...... She dodges all the＿important questions, so I can't be sure.」"
+msgstr "Ryuuji「No sé...... Esquiva todas las＿preguntas importantes, así＿que no estoy seguro.」"
+
+msgid "Taiga「Excuse me? What, so it amuses her?＿Your memories are not that stupid＿woman's playthings!」"
+msgstr "Taiga「¿Perdón? ¿Qué, le divierte? ¡Tus＿recuerdos no son el juguete de＿esa mujer estúpida!」"
+
+msgid "Ryuuji「Oh, that was kinda nice of you to say.」"
+msgstr "Ryuuji「Ah, eso fue algo amable de tu parte.」"
+
+msgid "Taiga「Of course it was! Being nice is my＿livelihood!」"
+msgstr "Taiga「¡Pues claro! ¡Ser amable＿es mi pan de cada día!」"
+
+msgid "Ryuuji「What kind of joke is that?」"
+msgstr "Ryuuji「¿Qué clase de chiste es ese?」"
+
+msgid "Taiga「Keep up that attitude and everything＿will go well for sure tomorrow.」"
+msgstr "Taiga「Mantén esa actitud y mañana seguro＿que todo saldrá bien.」"
+
+msgid "Ryuuji「Oh, okay.」"
+msgstr "Ryuuji「Ah, está bien.」"
+
+msgid "Taiga「Well, that's sweet of you, Ryuuji.」"
+msgstr "Taiga「Bueno, qué lindo de tu parte, Ryuuji.」"
+
+msgid "Ryuuji「Really? I think it's just common＿decency.」"
+msgstr "Ryuuji「¿En serio? Creo que es simple decencia.」"
+
+msgid "Ryuuji「Don't be absurd.」"
+msgstr "Ryuuji「No seas absurda.」"
+
+msgid "Taiga「If you had even a tenth of＿Kitamura-kun's good qualities......」"
+msgstr "Taiga「Si tuvieras siquiera una décima parte de＿las virtudes de Kitamura-kun......」"
+
+msgid "Ryuuji「Don't say that. With this ugly mug, I'm＿already in last place.」"
+msgstr "Ryuuji「No digas eso. Con esta cara fea,＿ya estoy en último lugar.」"
+
+msgid "Ryuuji「Yeah, that's the plan.」"
+msgstr "Ryuuji「Sí, ese es el plan.」"
+
+msgid "Taiga「Even if he was, it couldn't have been as＿mentally scarring as your face.」"
+msgstr "Taiga「Aunque lo fuera, no habría sido＿tan traumático como tu cara.」"
+
+msgid "Ryuuji「Say what you like, but exhibitionism is＿still bad!」"
+msgstr "Ryuuji「¡Di lo que quieras, pero el＿exhibicionismo sigue estando mal!」"
+
+msgid "Taiga「He isn't bothering anyone, so what's＿the harm in it?!」"
+msgstr "Taiga「No molesta a nadie, así que＿¡¿qué tiene de malo?!」"
+
+msgid "Ryuuji「No, I think it does bother people......」"
+msgstr "Ryuuji「No, yo creo que sí molesta......」"
+
+msgid "Taiga「You got a problem with that?」"
+msgstr "Taiga「¿Tienes algún problema con eso?」"
+
+msgid "Ryuuji「It's not a problem, but it could spell＿trouble for him in certain＿circumstances.」"
+msgstr "Ryuuji「No es un problema, pero podría traerle＿líos en ciertas circunstancias.」"
+
+msgid "Taiga「Sounds like you're just jealous. If it＿bothers you so much, why don't you＿try to get a six-pack too?」"
+msgstr "Taiga「Parece que solo tienes envidia. Si tanto＿te molesta, ¿por qué no intentas sacar＿abdominales marcados tú también?」"
+
+msgid "Ryuuji「Goddammit......」"
+msgstr "Ryuuji「Maldita sea......」"
+
+msgid "Taiga「......I'd prefer not to comment.」"
+msgstr "Taiga「......Prefiero no hacer comentarios.」"
+
+msgid "Ryuuji「So he is, then......」"
+msgstr "Ryuuji「Entonces sí lo es......」"
+
+msgid "Taiga「You remembered something else,＿huh? That's what's important.」"
+msgstr "Taiga「Recordaste algo más, ¿eh?＿Eso es lo que importa.」"
+
+msgid "Ryuuji「So you're saying you have no problems＿with exhibitionism?」"
+msgstr "Ryuuji「¿O sea que no tienes ningún problema＿con el exhibicionismo?」"
+
+msgid "Taiga「I can let it slide!」"
+msgstr "Taiga「¡Puedo dejarlo pasar!」"
+
+msgid "Ryuuji「Well, don't!」"
+msgstr "Ryuuji「¡Pues no lo hagas!」"
+
+msgid "Taiga「Didn't you hear what I said?」"
+msgstr "Taiga「¿No escuchaste lo que dije?」"
+
+msgid "Ryuuji「Alright...... I won't ask about it.」"
+msgstr "Ryuuji「Bien...... No preguntaré por eso.」"
+
+msgid "Taiga「GIVE UP ALREADY!!」"
+msgstr "Taiga「¡¡YA RÍNDETE!!」"
+
+msgid "Ryuuji「Sorry! Calm down!」"
+msgstr "Ryuuji「¡Perdón! ¡Cálmate!」"
+
+msgid "Taiga「Shrimp, caviar, foie gras, abalone......」"
+msgstr "Taiga「Camarón, caviar, foie gras, abulón......」"
+
+msgid "Ryuuji「......We certainly had some delicacies＿this New Year's. Though I barely got to＿try anything.」"
+msgstr "Ryuuji「......Sin duda comimos manjares＿este Año Nuevo. Aunque apenas＿pude probar nada.」"
+
+msgid "Ryuuji「I don't have a grudge or anything,＿but...... not gonna lie, hearing that＿makes me happy.」"
+msgstr "Ryuuji「No guardo rencor ni nada, pero...... no＿voy a mentir, oír eso me hace feliz.」"
+
+msgid "Taiga「\"Magnanimous\" is right. Thanks to＿those sugar daddies, I got to eat to my＿heart's content.」"
+msgstr "Taiga「Tienes razón con lo de \"generosos\".＿Gracias a esos patrocinadores, pude＿comer hasta reventar.」"
+
+msgid "Ryuuji「Hey. Don't call Yasuko's beloved＿customers \"sugar daddies\".」"
+msgstr "Ryuuji「Oye. No llames \"patrocinadores\" a＿los queridos clientes de Yasuko.」"
+
+msgid "Taiga「You had the hots for Yacchan before＿you found out, didn't you?」"
+msgstr "Taiga「Te atraía Yacchan antes de que＿lo descubrieras, ¿verdad?」"
+
+msgid "Ryuuji「N-No I didn't!」"
+msgstr "Ryuuji「¡N-No es cierto!」"
+
+msgid "Taiga「Ohhh? Hmmm? You sure about＿that～?」"
+msgstr "Taiga「¿Ohhh? ¿Mmmm? ¿Estás seguro de eso～?」"
+
+msgid "Ryuuji「Sh...... Shut up!」"
+msgstr "Ryuuji「¡Cá...... Cállate!」"
+
+msgid "Ryuuji「Oh, okay.」"
+msgstr "Ryuuji「Ah, está bien.」"
+
+msgid "Taiga「You didn't know she was your mom?＿Even a puppy can recognize its＿mother.」"
+msgstr "Taiga「¿No sabías que era tu mamá? Hasta＿un cachorro reconoce a su madre.」"
+
+msgid "Ryuuji「Yasuko's a special case!」"
+msgstr "Ryuuji「¡Yasuko es un caso especial!」"
+
+msgid "Taiga「I guess so. Your faces aren't very＿much alike. That's unfortunate.」"
+msgstr "Taiga「Supongo que sí. Sus caras no se＿parecen mucho. Qué lástima.」"
+
+msgid "Ryuuji「I'd be concerned if I looked like＿Yasuko.」"
+msgstr "Ryuuji「Me preocuparía si me pareciera a Yasuko.」"
+
+msgid "Taiga「Did you just scoff at Yacchan and your＿father?」"
+msgstr "Taiga「¿Acabas de burlarte de Yacchan＿y de tu padre?」"
+
+msgid "Ryuuji「N-No I didn't.」"
+msgstr "Ryuuji「N-No lo hice.」"
+
+msgid "Taiga「Don't poke fun at the things Yacchan＿holds dear!」"
+msgstr "Taiga「¡No te burles de las cosas＿que Yacchan aprecia!」"
+
+msgid "Ryuuji「Sorry, that wasn't my intention......＿Forget it, please.」"
+msgstr "Ryuuji「Perdón, no era mi intención......＿Olvídalo, por favor.」"
+
+msgid "Taiga「Not able to stomach the fact that＿Yacchan loves your father? You're a＿mama's boy.」"
+msgstr "Taiga「¿No puedes digerir el hecho＿de que Yacchan ame a tu padre?＿Eres un niño de mamá.」"
+
+msgid "Ryuuji「I'll admit I'm a mama's boy, but that's＿not how I meant it.」"
+msgstr "Ryuuji「Admito que soy un niño de mamá,＿pero no lo decía por eso.」"
+
+msgid "Taiga「So you admit it......」"
+msgstr "Taiga「Así que lo admites......」"
+
+msgid "Taiga「I'm sure she's had a lot to think about＿during their time apart.」"
+msgstr "Taiga「Seguro que ha tenido mucho en＿qué pensar durante el tiempo＿que pasaron separados.」"
+
+msgid "Ryuuji「Probably......」"
+msgstr "Ryuuji「Probablemente......」"
+
+msgid "Taiga「It's a good thing. What's the harm in it?」"
+msgstr "Taiga「Es algo bueno. ¿Qué tiene de malo?」"
+
+msgid "Ryuuji「I didn't say there was harm in it. In a＿sense, I'm jealous that she can be so＿open about it.」"
+msgstr "Ryuuji「No dije que tuviera nada de malo. En＿cierto sentido, me da envidia que pueda＿ser tan abierta al respecto.」"
+
+msgid "ANG_A1_LV1:"
+msgstr "ANG_A1_LV1:"
+
+msgid "ANG_A1_LV2:"
+msgstr "ANG_A1_LV2:"
+
+msgid "SAD_A1_LV2:"
+msgstr "SAD_A1_LV2:"
+
+msgid "FUN_A1_LV2:"
+msgstr "FUN_A1_LV2:"
+
+msgid "HAP_A2_LV1:"
+msgstr "HAP_A2_LV1:"
+
+msgid "HAP_A2_LV2:"
+msgstr "HAP_A2_LV2:"
+
+msgid "FUN_A2_LV2:"
+msgstr "FUN_A2_LV2:"
+
+msgid "HAP_A3_LV1:"
+msgstr "HAP_A3_LV1:"
+
+msgid "HAP_A3_LV2:"
+msgstr "HAP_A3_LV2:"
+
+msgid "SAD_A3_LV1:"
+msgstr "SAD_A3_LV1:"
+
+msgid "SAD_A3_LV2:"
+msgstr "SAD_A3_LV2:"
+
+msgid "FUN_A3_LV1:"
+msgstr "FUN_A3_LV1:"
+
+msgid "FUN_A3_LV2:"
+msgstr "FUN_A3_LV2:"
+
+msgid "ANG_B1_LV1:"
+msgstr "ANG_B1_LV1:"
+
+msgid "ANG_B1_LV2:"
+msgstr "ANG_B1_LV2:"
+
+msgid "SAD_B1_LV2:"
+msgstr "SAD_B1_LV2:"
+
+msgid "FUN_B1_LV2:"
+msgstr "FUN_B1_LV2:"
+
+msgid "HAP_B2_LV1:"
+msgstr "HAP_B2_LV1:"
+
+msgid "HAP_B2_LV2:"
+msgstr "HAP_B2_LV2:"
+
+msgid "FUN_B2_LV2:"
+msgstr "FUN_B2_LV2:"
+
+msgid "HAP_B3_LV1:"
+msgstr "HAP_B3_LV1:"
+
+msgid "HAP_B3_LV2:"
+msgstr "HAP_B3_LV2:"
+
+msgid "SAD_B3_LV1:"
+msgstr "SAD_B3_LV1:"
+
+msgid "SAD_B3_LV2:"
+msgstr "SAD_B3_LV2:"
+
+msgid "FUN_B3_LV1:"
+msgstr "FUN_B3_LV1:"
+
+msgid "FUN_B3_LV2:"
+msgstr "FUN_B3_LV2:"
+
+msgid "HAP_C1_LV1:"
+msgstr "HAP_C1_LV1:"
+
+msgid "HAP_C1_LV2:"
+msgstr "HAP_C1_LV2:"
+
+msgid "SAD_C1_LV1:"
+msgstr "SAD_C1_LV1:"
+
+msgid "SAD_C1_LV2:"
+msgstr "SAD_C1_LV2:"
+
+msgid "FUN_C1_LV1:"
+msgstr "FUN_C1_LV1:"
+
+msgid "FUN_C1_LV2:"
+msgstr "FUN_C1_LV2:"
+
+msgid "HAP_C2_LV1:"
+msgstr "HAP_C2_LV1:"
+
+msgid "HAP_C2_LV2:"
+msgstr "HAP_C2_LV2:"
+
+msgid "SAD_C2_LV1:"
+msgstr "SAD_C2_LV1:"
+
+msgid "SAD_C2_LV2:"
+msgstr "SAD_C2_LV2:"
+
+msgid "FUN_C2_LV1:"
+msgstr "FUN_C2_LV1:"
+
+msgid "FUN_C2_LV2:"
+msgstr "FUN_C2_LV2:"
+
+msgid "HAP_C3_LV1:"
+msgstr "HAP_C3_LV1:"
+
+msgid "HAP_C3_LV2:"
+msgstr "HAP_C3_LV2:"
+
+msgid "FUN_C3_LV2:"
+msgstr "FUN_C3_LV2:"
+
+msgid "ANG_D1_LV1:"
+msgstr "ANG_D1_LV1:"
+
+msgid "ANG_D1_LV2:"
+msgstr "ANG_D1_LV2:"
+
+msgid "SAD_D1_LV2:"
+msgstr "SAD_D1_LV2:"
+
+msgid "FUN_D1_LV2:"
+msgstr "FUN_D1_LV2:"
+
+msgid "HAP_D2_LV1:"
+msgstr "HAP_D2_LV1:"
+
+msgid "HAP_D2_LV2:"
+msgstr "HAP_D2_LV2:"
+
+msgid "FUN_D2_LV2:"
+msgstr "FUN_D2_LV2:"
+
+msgid "HAP_D3_LV1:"
+msgstr "HAP_D3_LV1:"
+
+msgid "HAP_D3_LV2:"
+msgstr "HAP_D3_LV2:"
+
+msgid "SAD_D3_LV1:"
+msgstr "SAD_D3_LV1:"
+
+msgid "SAD_D3_LV2:"
+msgstr "SAD_D3_LV2:"
+
+msgid "FUN_D3_LV1:"
+msgstr "FUN_D3_LV1:"
+
+msgid "FUN_D3_LV2:"
+msgstr "FUN_D3_LV2:"
+
+msgid "ANG_E1_LV1:"
+msgstr "ANG_E1_LV1:"
+
+msgid "ANG_E1_LV2:"
+msgstr "ANG_E1_LV2:"
+
+msgid "SAD_E1_LV2:"
+msgstr "SAD_E1_LV2:"
+
+msgid "FUN_E1_LV2:"
+msgstr "FUN_E1_LV2:"
+
+msgid "HAP_E2_LV1:"
+msgstr "HAP_E2_LV1:"
+
+msgid "HAP_E2_LV2:"
+msgstr "HAP_E2_LV2:"
+
+msgid "FUN_E2_LV2:"
+msgstr "FUN_E2_LV2:"
+
+msgid "HAP_E3_LV1:"
+msgstr "HAP_E3_LV1:"
+
+msgid "HAP_E3_LV2:"
+msgstr "HAP_E3_LV2:"
+
+msgid "SAD_E3_LV1:"
+msgstr "SAD_E3_LV1:"
+
+msgid "SAD_E3_LV2:"
+msgstr "SAD_E3_LV2:"
+
+msgid "FUN_E3_LV1:"
+msgstr "FUN_E3_LV1:"
+
+msgid "FUN_E3_LV2:"
+msgstr "FUN_E3_LV2:"
+
+msgid "HAP_F1_LV1:"
+msgstr "HAP_F1_LV1:"
+
+msgid "ANG_F1_LV1:"
+msgstr "ANG_F1_LV1:"
+
+msgid "ANG_F1_LV2:"
+msgstr "ANG_F1_LV2:"
+
+msgid "SAD_F1_LV1:"
+msgstr "SAD_F1_LV1:"
+
+msgid "SAD_F1_LV2:"
+msgstr "SAD_F1_LV2:"
+
+msgid "FUN_F1_LV2:"
+msgstr "FUN_F1_LV2:"
+
+msgid "ANG_F2_LV1:"
+msgstr "ANG_F2_LV1:"
+
+msgid "ANG_F2_LV2:"
+msgstr "ANG_F2_LV2:"
+
+msgid "SAD_F2_LV2:"
+msgstr "SAD_F2_LV2:"
+
+msgid "FUN_F2_LV2:"
+msgstr "FUN_F2_LV2:"
+
+msgid "HAP_F3_LV1:"
+msgstr "HAP_F3_LV1:"
+
+msgid "HAP_F3_LV2:"
+msgstr "HAP_F3_LV2:"
+
+msgid "FUN_F3_LV2:"
+msgstr "FUN_F3_LV2:"
+
+msgid "Taiga「If you're not enthusiastic about this＿plan, then go into retirement this＿instant. You'll only cause trouble」"
+msgstr "Taiga「Si no te entusiasma este plan,＿retírate de inmediato. ¡Solo＿vas a causar problemas」"
+
+msgid "Taiga「tomorrow if you space out like that!」"
+msgstr "Taiga「mañana si sigues así de distraído!」"
+
+msgid "Taiga「We've come this far, so everything＿should be fine. Well, it SHOULD be, but＿I don't even want to think about Tomiie」"
+msgstr "Taiga「Llegamos hasta aquí; todo debería＿salir bien. Bueno, DEBERÍA, pero＿no quiero ni pensar en Tomiie」"
+
+msgid "Taiga「Kota.」"
+msgstr "Taiga「Kota.」"
+
+msgid "Taiga「We've come this far. He can go ahead＿and try to ruin everything with his bad＿luck powers. I'll take on a lifetime's」"
+msgstr "Taiga「Llegamos hasta aquí. Que intente＿arruinarlo todo con su mala suerte.＿¡Yo soportaré toda una vida」"
+
+msgid "Taiga「supply of misery!」"
+msgstr "Taiga「de desgracias!」"
+
+msgid "Taiga「Rather than that, shouldn't you be＿more concerned about whether or not＿you can outwit Kanou Sumire right」"
+msgstr "Taiga「Más bien, ¿no deberías preocuparte＿más por si podrás superar en astucia＿a Kanou Sumire ahora」"
+
+msgid "Taiga「now?」"
+msgstr "Taiga「mismo?」"
+
+msgid "Taiga「Yeah, if another of his tragedies were＿to strike and the planetarium tickets＿went missing, I couldn't bring myself to」"
+msgstr "Taiga「Sí, si ocurriera otra de sus tragedias＿y se perdieran las entradas del＿planetario, no sería capaz de」"
+
+msgid "Taiga「watch......」"
+msgstr "Taiga「mirar......」"
+
+msgid "Taiga「It's impossible not to worry about that.＿Well, no matter how much bad luck he＿brings to the table, they should at」"
+msgstr "Taiga「Es imposible no preocuparse por eso.＿Bueno, por mucha mala suerte que traiga＿consigo, deberían al」"
+
+msgid "Taiga「least be able to make it to the＿planetarium.」"
+msgstr "Taiga「menos poder llegar hasta el planetario.」"
+
+msgid "Taiga「No matter what happens, get her to＿Kitamura-kun. If we can't make things＿go as planned, then I'll just have to」"
+msgstr "Taiga「Pase lo que pase, llévala con＿Kitamura-kun. Si no sale según＿lo planeado, tendré que」"
+
+msgid "Taiga「drag her by the hair.」"
+msgstr "Taiga「arrastrarla del pelo.」"
+
+msgid "Taiga「So what if they aren't!? Gonna make＿them take a DNA test to see if they＿have the same mom? How is that」"
+msgstr "Taiga「¡¿Y qué si no se parecen?! ¿Les vas a＿hacer una prueba de ADN para ver si＿tienen la misma mamá? ¡¿En qué va a」"
+
+msgid "Taiga「going to help the plan tomorrow!?＿Why'd you say it!? Are you stupid!?」"
+msgstr "Taiga「ayudar eso al plan de mañana?! ¡¿Por＿qué lo dijiste?! ¡¿Eres estúpido?!」"
+
+msgid "Taiga「I'm the one that nurtured that talent.」"
+msgstr "Taiga「Yo fui quien cultivó ese talento.」"
+
+msgid "Taiga「\"Passionate Wrestler Plays＿Rock-Paper-Scissors With Customers＿At A Maid Cafe\" was most exquisite.」"
+msgstr "Taiga「\"Luchador apasionado juega piedra, papel＿o tijera con clientes en un café de＿sirvientas\" fue exquisito.」"
+
+msgid "Taiga「I'm sure a single, perfectly ordinary＿remark can make a small improvement＿on your reputation.」"
+msgstr "Taiga「Seguro que un simple comentario＿común y corriente puede mejorar＿un poco tu reputación.」"
+
+msgid "Taiga「For a useless mutt with a heinous＿expression, at least.」"
+msgstr "Taiga「Al menos para un perro inútil＿con una expresión espantosa.」"
+
+msgid "Taiga「Yeah. Not just this once, but for＿everything he's done...... Maybe you＿can't remember it all too well.」"
+msgstr "Taiga「Sí. No solo por esta vez, sino por＿todo lo que ha hecho...... Quizá no＿lo recuerdes demasiado bien.」"
+
+msgid "Taiga「But anyway, we'll definitely return the＿favor.」"
+msgstr "Taiga「Pero bueno, sin duda le＿devolveremos el favor.」"
+
+msgid "Taiga「Are you still holding a grudge against＿us for not making your rice cakes a＿priority?」"
+msgstr "Taiga「¿Todavía nos guardas rencor＿por no darles prioridad＿a tus pasteles de arroz?」"
+
+msgid "Taiga「Rest assured, the New Year's cuisine＿wouldn't have been complete without＿them.」"
+msgstr "Taiga「Ten por seguro que la comida＿de Año Nuevo no habría estado＿completa sin ellos.」"
+
+msgid "Taiga「Yacchan was REALLY worried about＿you when you were in the hospital.」"
+msgstr "Taiga「Yacchan estuvo MUY preocupada por ti＿cuando estabas en el hospital.」"
+
+msgid "Taiga「If you don't cherish your mom, God will＿punish you.」"
+msgstr "Taiga「Si no valoras a tu mamá,＿Dios te va a castigar.」"

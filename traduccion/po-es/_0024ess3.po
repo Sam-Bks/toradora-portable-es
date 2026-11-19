@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+
+msgid "Taiga「......」"
+msgstr "Taiga「......」"
+
+msgid "Ryuuji「What's wrong, Taiga?」"
+msgstr "Ryuuji「¿Qué pasa, Taiga?」"
+
+msgid "Taiga「Let's go home.」"
+msgstr "Taiga「Vámonos a casa.」"
+
+msgid "Ryuuji「Glad you can walk again, above all.」"
+msgstr "Ryuuji「Lo bueno es que ya puedes caminar.」"
+
+msgid "Taiga「I want to go home, but I can't walk, so＿hail that taxi cab. I don't mind if you＿ride with me.」"
+msgstr "Taiga「Quiero ir a casa, pero no puedo caminar,＿así que para ese taxi. No me importa＿si vienes conmigo.」"
+
+msgid "Ryuuji「Th...... That's a bit of a splurge.」"
+msgstr "Ryuuji「E...... Eso es un pequeño derroche.」"
+
+msgid "Taiga「So you're just going to walk home?＿Fine by me if you want to freeze your＿face off.」"
+msgstr "Taiga「¿Entonces te irás caminando a＿casa? Por mí bien si quieres que＿se te congele la cara.」"
+
+msgid "Ryuuji「What are you saying?」"
+msgstr "Ryuuji「¿Qué estás diciendo?」"
+
+msgid "Taiga「Make your choice. Take the taxi or＿walk.」"
+msgstr "Taiga「Elige de una vez. Tomar＿el taxi o caminar.」"
+
+msgid "Ryuuji「Fine, fine, hold your horses...... Sheesh.」"
+msgstr "Ryuuji「Bien, bien, ten calma...... Cielos.」"

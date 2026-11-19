@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「Hey Kushieda, do you have any idea＿what's going on? Taiga was acting＿strange today, wasn't she?」"
+msgstr "Ryuuji「Oye, Kushieda, ¿tienes alguna＿idea de qué pasa? Taiga actuaba＿raro hoy, ¿no crees?」"
+
+msgid "Minori「......Oh, yeah...... Come to think of it, she＿was.」"
+msgstr "Minori「......Ah, sí...... Ahora＿que lo pienso, sí.」"
+
+msgid "Ryuuji「When she came over this morning she＿was fine, but then her attitude＿suddenly changed......」"
+msgstr "Ryuuji「Cuando vino esta mañana estaba＿bien, pero luego su actitud cambió＿de repente......」"
+
+msgid "Minori「......」"
+msgstr "Minori「......」"
+
+msgid "Minori「......I'm not sure. As far as I know,＿everything was normal, I think.」"
+msgstr "Minori「......No estoy segura. Que yo sepa,＿todo estaba normal, creo.」"
+
+msgid "Ryuuji「I see......」"
+msgstr "Ryuuji「Ya veo......」"
+
+msgid "Minori「That aside, shouldn't you hurry and go＿after her?」"
+msgstr "Minori「Dejando eso de lado, ¿no deberías＿darte prisa e ir tras ella?」"
+
+msgid "Ryuuji「Y-You're right. I'm on it.」"
+msgstr "Ryuuji「T-Tienes razón. Ahora mismo voy.」"
+
+msgid "Minori「If anything happens, let me know.」"
+msgstr "Minori「Si pasa algo, avísame.」"
+
+msgid "Ryuuji「Oh, okay.」"
+msgstr "Ryuuji「Ah, está bien.」"
+
+msgid "Ryuuji「......That reminds me, you two were＿talking about something at＿Sudoh-Bucks earlier, right? Did you」"
+msgstr "Ryuuji「......Eso me recuerda, ustedes＿dos hablaban de algo en Sudoh-Bucks＿hace rato, ¿no?」"
+
+msgid "Ryuuji「notice anything then?」"
+msgstr "Ryuuji「¿Notaste algo entonces?」"

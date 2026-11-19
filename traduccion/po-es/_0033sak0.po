@@ -1,0 +1,167 @@
+msgid ""
+msgstr ""
+
+msgid "Kitamura「Okay, so we made it to the station＿square, but what now?」"
+msgstr "Kitamura「Muy bien, ya llegamos a la plaza de＿la estación, ¿pero ahora qué?」"
+
+msgid "Ryuuji「Hey, that's money you should be＿saving, not spending indiscriminately.」"
+msgstr "Ryuuji「Oye, ese dinero deberías ahorrarlo,＿no gastarlo a lo loco.」"
+
+msgid "Haruta「Taka-chan sure is responsible with＿money～」"
+msgstr "Haruta「Taka-chan sí que es responsable＿con el dinero～」"
+
+msgid "Haruta「But we can still go, right? I'm pretty＿good at the crane game!」"
+msgstr "Haruta「Pero igual podemos ir, ¿no? ¡Se me da＿bastante bien la máquina de garra!」"
+
+msgid "Kitamura「This is the first time in quite a while＿that I've wanted to go. How about it,＿Takasu?」"
+msgstr "Kitamura「Es la primera vez en bastante＿tiempo que me dan ganas de ir.＿¿Qué dices, Takasu?」"
+
+msgid "Ryuuji「......Well, moderation is fine.」"
+msgstr "Ryuuji「......Bueno, con moderación está bien.」"
+
+msgid "Noto「Cool. It's a plan, then.」"
+msgstr "Noto「Genial. Entonces está decidido.」"
+
+msgid "Noto「What should we do? A four-man＿showdown at the racing game?」"
+msgstr "Noto「¿Qué hacemos? ¿Un duelo de cuatro＿en el juego de carreras?」"
+
+msgid "Haruta「AHA! I just thought of a great idea～」"
+msgstr "Haruta「¡AJÁ! Se me ocurrió una gran idea～」"
+
+msgid "Kitamura「What is this \"great idea\"?」"
+msgstr "Kitamura「¿Cuál es esa \"gran idea\"?」"
+
+msgid "Haruta「To commemorate the new year, let's go＿do shots at \"Printo-chan\"～」"
+msgstr "Haruta「Para conmemorar el año nuevo, vamos＿a sacarnos unas en \"Printo-chan\"～」"
+
+msgid "Ryuuji「Do shots at Printo-chan? Ohh, you＿mean take pictures in a photo booth.＿Can they fit four people......?」"
+msgstr "Ryuuji「¿Sacarnos unas en Printo-chan? Ahh, te＿refieres a tomarnos fotos en una cabina.＿¿Caben cuatro personas......?」"
+
+msgid "Haruta「Who cares, it's fine. We're making＿memories～」"
+msgstr "Haruta「Qué más da, no pasa nada. Estamos＿creando recuerdos～」"
+
+msgid "Noto「In that case, why don't we think of＿some funny poses?」"
+msgstr "Noto「En ese caso, ¿por qué no pensamos＿en algunas poses divertidas?」"
+
+msgid "Kitamura「Like what?」"
+msgstr "Kitamura「¿Como cuáles?」"
+
+msgid "Haruta「Let's see～ How about you put your＿chin in your hands and look up all＿innocent?」"
+msgstr "Haruta「Veamos～ ¿Qué tal si apoyas la barbilla＿en las manos y miras hacia arriba＿con cara inocente?」"
+
+msgid "Noto「That's hilarious! If Takasu did that, it＿would be awesome for sure.」"
+msgstr "Noto「¡Qué gracioso! Si Takasu hiciera＿eso, sería genial sin duda.」"
+
+msgid "Ryuuji「Don't make creepy suggestions.」"
+msgstr "Ryuuji「No hagan sugerencias tan raras.」"
+
+msgid "???「Kota-kun, the stickers are done.」"
+msgstr "???「Kota-kun, ya están las calcomanías.」"
+
+msgid "???「Really? Show me, show me.」"
+msgstr "???「¿En serio? Muéstrame, muéstrame.」"
+
+msgid "Ryuuji「（Hm? That voice......）」"
+msgstr "Ryuuji「（¿Mm? Esa voz......）」"
+
+msgid "Kota「Sakura-chan, your expression is great＿in these.」"
+msgstr "Kota「Sakura-chan, saliste con una＿gran expresión en estas.」"
+
+msgid "Sakura「Ehehe. Because I'm with you①」"
+msgstr "Sakura「Jejeje. Es porque estoy contigo①」"
+
+msgid "Kota「But you're not allowed to show these＿to anyone else.」"
+msgstr "Kota「Pero tienes prohibido enseñárselas＿a nadie más.」"
+
+msgid "Sakura「Why not?」"
+msgstr "Sakura「¿Por qué no?」"
+
+msgid "Kota「Well, because they have embarrassing＿words like \"Love\" and \"Romance\" all＿over them.」"
+msgstr "Kota「Bueno, porque tienen palabras que＿dan vergüenza como \"Amor\" y \"Romance\"＿por todas partes.」"
+
+msgid "Sakura「What's wrong with that? It's true, after＿all.」"
+msgstr "Sakura「¿Qué tiene de malo? Es la＿verdad, después de todo.」"
+
+msgid "Kota「Yeah, but don't you think it's so＿lovey-dovey that it could make people＿jealous?」"
+msgstr "Kota「Sí, ¿pero no crees que es＿tan acaramelado que podría＿darle celos a la gente?」"
+
+msgid "Sakura「Really～? Anyway, wanna take one＿more?」"
+msgstr "Sakura「¿De verdad～? En fin, ¿quieres＿tomarte una más?」"
+
+msgid "Kota「Sure. Then let's try a different frame.＿That heart frame is SO rad.」"
+msgstr "Kota「Claro. Entonces probemos otro marco.＿Ese marco de corazones está GENIAL.」"
+
+msgid "Sakura「Oh, silly Kota-kun～①」"
+msgstr "Sakura「Ay, qué tontito, Kota-kun～①」"
+
+msgid "Kota「Ehehe.」"
+msgstr "Kota「Jejeje.」"
+
+msgid "Sakura「Ufufu!」"
+msgstr "Sakura「¡Jujuju!」"
+
+msgid "Ryuuji「......Guys, can we forget the photo＿booth?」"
+msgstr "Ryuuji「......Chicos, ¿podemos olvidarnos＿de la cabina de fotos?」"
+
+msgid "Noto「Agreed......」"
+msgstr "Noto「De acuerdo......」"
+
+msgid "Kitamura「I concur.」"
+msgstr "Kitamura「Concuerdo.」"
+
+msgid "Haruta「FUUUUUCK! I'm jealous! I'm CRAZY＿JEALOUSSS!」"
+msgstr "Haruta「¡MIEEEERDA! ¡Qué envidia!＿¡Tengo MUCHA ENVIDIAAA!」"
+
+msgid "Ryuuji「Hey! Pipe down, Haruta!」"
+msgstr "Ryuuji「¡Oye! ¡Baja la voz, Haruta!」"
+
+msgid "Haruta「I want to take pictures with a cute girl,＿not this sausage festttt!」"
+msgstr "Haruta「¡Quiero fotos con una chica linda, no＿con este grupo de puros hombreees!」"
+
+msgid "Kitamura「Weren't you the one who suggested＿this in the first place?」"
+msgstr "Kitamura「¿No fuiste tú quien lo sugirió＿en primer lugar?」"
+
+msgid "Noto「Even I want to take pics with a girl!＿And get along together and doodle and＿stuff!」"
+msgstr "Noto「¡Hasta yo quiero tomarme fotos＿con una chica! ¡Y llevarnos bien,＿dibujar cosas y todo eso!」"
+
+msgid "Ryuuji「Chill the fuck out, Noto.」"
+msgstr "Ryuuji「Cálmate de una maldita vez, Noto.」"
+
+msgid "Kitamura「I'm sure anyone to witness this could＿understand their feelings here.」"
+msgstr "Kitamura「Seguro que cualquiera que presenciara＿esto entendería cómo se sienten.」"
+
+msgid "Noto「HAVE YOU NOTICED?　The customers＿here ARE ALMOST ALL COUPLES!」"
+msgstr "Noto「¿SE DIERON CUENTA?　¡Los clientes＿de aquí SON CASI PURAS PAREJAS!」"
+
+msgid "Haruta「Uwaah～ Why do I have to be single at＿the worst possible time～?! Ain't it just＿pitiful?」"
+msgstr "Haruta「¡Uaaah～ ¿Por qué tengo que estar＿soltero en el peor momento posible～?!＿¿No da lástima?」"
+
+msgid "Ryuuji「Kitamura, at this rate, it won't end well＿for Haruta and Noto.」"
+msgstr "Ryuuji「Kitamura, a este paso, esto no va a＿terminar bien para Haruta y Noto.」"
+
+msgid "Kitamura「Mhm. I'm actually on the verge of tears＿myself.」"
+msgstr "Kitamura「Ajá. La verdad es que yo mismo＿estoy a punto de llorar.」"
+
+msgid "Ryuuji「Not you too! We're leaving now!」"
+msgstr "Ryuuji「¡No empieces tú también! ¡Nos vamos ya!」"
+
+msgid "Kitamura「Alright. Noto, Haruta, take a look＿around. There's plenty of bachelors＿and families here.」"
+msgstr "Kitamura「Está bien. Noto, Haruta, miren＿a su alrededor. Hay muchos solteros＿y familias por aquí.」"
+
+msgid "Noto「Ahahaha, it's true～ Our brothers in＿arms are all around～」"
+msgstr "Noto「Ajajaja, es verdad～ Nuestros hermanos＿de armas están por todas partes～」"
+
+msgid "Ryuuji「It's no use. Noto's past the point of no＿return.」"
+msgstr "Ryuuji「Es inútil. Noto ya pasó el＿punto de no retorno.」"
+
+msgid "Haruta「Then let's, like, go to a place where＿there's hardly any couples～」"
+msgstr "Haruta「Entonces vamos, o sea, a un lugar＿donde casi no haya parejas～」"
+
+msgid "Kitamura「Oho, you're surprisingly tough, Haruta.＿Alright, let's get moving.」"
+msgstr "Kitamura「Jojo, eres sorprendentemente fuerte,＿Haruta. Muy bien, en marcha.」"
+
+msgid "Noto「How about we go to the arcade? This＿New Years' money from my parents is＿burning a hole in my pocket, so let's go」"
+msgstr "Noto「¿Vamos al salón de juegos?」"
+
+msgid "Noto「play some games.」"
+msgstr "Noto「Me urge gastar el dinero de Año＿Nuevo de mis padres, así que vayamos＿a jugar un rato.」"

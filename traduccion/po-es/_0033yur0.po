@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+
+msgid "Haruta「Wait, hold onnn!」"
+msgstr "Haruta「¡Esperen un momentooo!」"
+
+msgid "Ryuuji「What's up, Haruta?」"
+msgstr "Ryuuji「¿Qué pasa, Haruta?」"
+
+msgid "Haruta「I forgot to wish for something＿important～ Can we go to the shrine＿one more time?」"
+msgstr "Haruta「Olvidé pedir un deseo importante～＿¿Podemos ir al santuario una vez más?」"
+
+msgid "Noto「Ugh...... Stand in that line AGAIN?」"
+msgstr "Noto「Ugh...... ¿Hacer esa fila OTRA VEZ?」"
+
+msgid "Haruta「It's SO, SO important I GOTTA wish for＿it. Please please PLEASE～!」"
+msgstr "Haruta「Es TAN, TAN importante: ¡DEBO pedirlo!＿¡Por favor, por favor, POR FAVOR～!」"
+
+msgid "Ryuuji「If it's \"so, so important\" then how did＿you forget it?」"
+msgstr "Ryuuji「Si es \"tan, tan importante\", ¿entonces＿cómo se te olvidó?」"
+
+msgid "Noto「That's our Haruta.」"
+msgstr "Noto「Así es nuestro Haruta.」"
+
+msgid "Ryuuji「Oh, good point.」"
+msgstr "Ryuuji「Ah, buen punto.」"
+
+msgid "Haruta「Guysss～ I'm beggin' yaaa～!」"
+msgstr "Haruta「Chicooos～ ¡Se lo ruegooo～!」"
+
+msgid "Kitamura「If he's begging this much, we have no＿choice. Let's go with him, guys.」"
+msgstr "Kitamura「Si nos ruega tanto, no nos queda otra＿opción. Acompañémoslo, chicos.」"
+
+msgid "Haruta「YAAAY～ Thanks, dudes!」"
+msgstr "Haruta「¡SÍÍÍ～ Gracias, amigos!」"
+
+msgid "Noto「Ah-」"
+msgstr "Noto「Ah-」"
+
+msgid "Ryuuji「What's the matter?」"
+msgstr "Ryuuji「¿Qué pasa?」"
+
+msgid "Noto「Isn't that Yuri-chan in line ahead of＿us?」"
+msgstr "Noto「¿No es Yuri-chan la que está＿en la fila más adelante?」"
+
+msgid "Ryuuji「Yuri-chan......?」"
+msgstr "Ryuuji「¿Yuri-chan......?」"
+
+msgid "Yuri「......」"
+msgstr "Yuri「......」"
+
+msgid "Ryuuji「Ohh, that person...... You guys know＿her, too?」"
+msgstr "Ryuuji「Ahh, esa persona...... ¿Ustedes＿también la conocen?」"
+
+msgid "Haruta「We don't just KNOW her. She's our＿adorable homeroom teacher.」"
+msgstr "Haruta「No solo la CONOCEMOS. Es nuestra＿adorable profesora titular.」"
+
+msgid "Ryuuji「（That person is my teacher......）」"
+msgstr "Ryuuji「（Esa persona es mi profesora......）」"
+
+msgid "Haruta「Poor Yuri-chan～ Even celebrating＿Hatsumode by herself.」"
+msgstr "Haruta「Pobre Yuri-chan～ Celebrando hasta＿el Hatsumode ella sola.」"
+
+msgid "Noto「Since she's here, wanna talk to her?」"
+msgstr "Noto「Ya que está aquí, ¿le hablamos?」"
+
+msgid "Kitamura「No, don't. There's no way she'd want＿her students to see her celebrating＿alone.」"
+msgstr "Kitamura「No, mejor no. De ninguna manera＿querría que sus alumnos la vieran＿celebrando sola.」"
+
+msgid "Ryuuji「I agree.」"
+msgstr "Ryuuji「Estoy de acuerdo.」"
+
+msgid "Noto「Ah, it's her turn.」"
+msgstr "Noto「Ah, es su turno.」"
+
+msgid "Yuri「I'm already 30. Understand? How do＿you think society views an unmarried＿woman in her 30s?」"
+msgstr "Yuri「Ya tengo 30. ¿Entiendes? ¿Cómo＿crees que ve la sociedad a una＿soltera de treinta y tantos?」"
+
+msgid "Yuri「In the end, men like cute young girls. I＿get that, I really do.」"
+msgstr "Yuri「Los hombres prefieren chicas jóvenes＿y lindas. Lo entiendo, de verdad.」"
+
+msgid "Yuri「So I won't ask for a lot. I won't be＿asking for a fairytale.」"
+msgstr "Yuri「Así que no pediré mucho. No voy＿a pedir un cuento de hadas.」"
+
+msgid "Yuri「Personality is the most important, but＿I'm a tolerant person, so I can more or＿less turn a blind eye to it.」"
+msgstr "Yuri「La personalidad es lo más importante,＿pero soy una persona tolerante, así que＿más o menos puedo pasarla por alto.」"
+
+msgid "Yuri「......You can work with these conditions,＿right?」"
+msgstr "Yuri「......Puedes arreglártelas con＿estas condiciones, ¿verdad?」"
+
+msgid "Yuri「Therefore, I wish to find my prince this＿year!」"
+msgstr "Yuri「¡Por lo tanto, deseo encontrar＿a mi príncipe este año!」"
+
+msgid "Haruta「Yuri-chan's wish took FOREVER!」"
+msgstr "Haruta「¡El deseo de Yuri-chan fue ETERNO!」"
+
+msgid "Noto「And it was one long tantrum.」"
+msgstr "Noto「Y fue todo un berrinche larguísimo.」"
+
+msgid "Ryuuji「The first half was more complaining＿than wishing.」"
+msgstr "Ryuuji「La primera mitad fue más＿una queja que un deseo.」"
+
+msgid "Kitamura「Seriously, she's been overly＿disappointed, or something......」"
+msgstr "Kitamura「En serio, se ha llevado demasiadas＿decepciones, o algo así......」"
+
+msgid "Haruta「I've decided! Forget about my wish.＿This time I'm going to pray for＿Yuri-chan's wish to come true.」"
+msgstr "Haruta「¡Ya lo decidí! Olviden mi deseo. Esta＿vez voy a rezar para que el deseo de＿Yuri-chan se haga realidad.」"
+
+msgid "Noto「WHAT? We came here for you to make＿your \"important wish\"!」"
+msgstr "Noto「¡¿QUÉ?! ¡Vinimos aquí para que pidieras＿tu \"deseo importante\"!」"
+
+msgid "Ryuuji「Your heart's in the right place, but do＿you realize you're looking down on our＿teacher?」"
+msgstr "Ryuuji「Tienes buenas intenciones, ¿pero＿te das cuenta de que estás＿menospreciando a nuestra profesora?」"
+
+msgid "Haruta「Whatever, let's all pray～! For＿Yuri-chan's happiness!」"
+msgstr "Haruta「¡Como sea, recemos todos～! ¡Por＿la felicidad de Yuri-chan!」"
+
+msgid "Kitamura「If Haruta's fine with it, I'm fine with it.」"
+msgstr "Kitamura「Si a Haruta le parece bien, a mí igual.」"
+
+msgid "Noto「Yeah. Yuri-chan's always looking out＿for us.」"
+msgstr "Noto「Sí. Yuri-chan siempre está＿cuidando de nosotros.」"
+
+msgid "Haruta「'Kay, it's decided.」"
+msgstr "Haruta「Bien, está decidido.」"
+
+msgid "Haruta「Nooow～ I've wished for Yuri-chan's＿happiness, so let's get going～」"
+msgstr "Haruta「Bueeeno～ Ya pedí por la felicidad＿de Yuri-chan, así que vámonos～」"
+
+msgid "Kitamura「Haruta, what was your \"important＿wish\" going to be, anyway?」"
+msgstr "Kitamura「Haruta, por cierto, ¿cuál iba＿a ser tu \"deseo importante\"?」"
+
+msgid "Haruta「Huh? My wish?」"
+msgstr "Haruta「¿Eh? ¿Mi deseo?」"
+
+msgid "Haruta「Wellll～ Ehyahyahyahya～」"
+msgstr "Haruta「Bueeenooo～ Ehyahyahyahya～」"
+
+msgid "Ryuuji「Creepy.」"
+msgstr "Ryuuji「Qué miedo.」"
+
+msgid "Haruta「Sorry. It's kinda awkward to say～」"
+msgstr "Haruta「Perdón. Da algo de vergüenza decirlo～」"
+
+msgid "Noto「Whatever, just tell us already.」"
+msgstr "Noto「Como sea, ya dínoslo de una vez.」"
+
+msgid "Haruta「My important wish was for my favorite＿person to be happy.」"
+msgstr "Haruta「Mi deseo importante era que mi＿persona favorita fuera feliz.」"
+
+msgid "Haruta「But it's no biggie. It's better if I can＿make them happy myself. I don't really＿need to pray for it, right?」"
+msgstr "Haruta「Pero no pasa nada. Es mejor si puedo＿hacerla feliz yo mismo. En realidad no＿hace falta rezar por eso, ¿no?」"
+
+msgid "Kitamura「Oho, well said. You're a good man,＿Haruta.」"
+msgstr "Kitamura「Jojo, bien dicho. Eres un＿buen hombre, Haruta.」"
+
+msgid "Noto「But who's this \"favorite person\"......?＿Y-You're kidding, right Haruta!? No, no,＿don't tell me......」"
+msgstr "Noto「¿Pero quién es esa \"persona＿favorita\"......? ¡¿B-Bromeas, Haruta?!＿No, no, no me digas que......」"
+
+msgid "Haruta「More importantly, after the four of us＿prayed for it, I sure hope Yuri-chan's＿wish comes true～」"
+msgstr "Haruta「Más importante aún, después de que＿los cuatro rezamos por ello, ojalá＿se cumpla el deseo de Yuri-chan～」"
+
+msgid "Ryuuji「Yeah.」"
+msgstr "Ryuuji「Sí.」"
+
+msgid "Yuri「There are men who say age doesn't＿matter, but if you asked them to＿choose between me and a 20-year-old,」"
+msgstr "Yuri「Hay hombres que dicen que la edad no＿importa, pero si les dieras a elegir＿entre una joven de 20 años y yo,」"
+
+msgid "Yuri「they wouldn't choose me, would they?」"
+msgstr "Yuri「no me elegirían a mí, ¿verdad?」"
+
+msgid "Yuri「First, appearance. I don't care＿anymore. I won't worry about him＿being attractive or popular; I'm fine」"
+msgstr "Yuri「Primero, la apariencia. Ya no importa.」"
+
+msgid "Yuri「with him being uncool.」"
+msgstr "Yuri「No me fijaré en si es guapo o popular;＿me da igual que sea poco atractivo.」"
+
+msgid "Yuri「Next, as for income, I have no qualms＿as long as it's at least average. We can＿both bring home the bacon. As a civil」"
+msgstr "Yuri「Después, en cuanto a ingresos, no me＿quejo mientras sean al menos promedio.＿Ambos podemos aportar a la casa. Como」"
+
+msgid "Yuri「servant, my salary is stable.」"
+msgstr "Yuri「funcionaria, mi sueldo es estable.」"
+
+msgid "Haruta「I can make that important wish come＿true on my own. More importantly, this＿time around, let's all pray for dear」"
+msgstr "Haruta「Puedo cumplir ese deseo importante por＿mi cuenta. Más importante aún, ¡esta vez＿recemos todos para que los deseos」"
+
+msgid "Haruta「Yuri-chan's desires to be granted＿somehow!」"
+msgstr "Haruta「de la querida Yuri-chan se＿cumplan de alguna manera!」"

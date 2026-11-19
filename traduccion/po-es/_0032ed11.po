@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+
+msgid "Ami「Hey, Ryuuji...... Can I sit next to you?」"
+msgstr "Ami「Ryuuji...... ¿Me siento a tu lado?」"
+
+msgid "Ryuuji「Seriously?」"
+msgstr "Ryuuji「¿En serio?」"
+
+msgid "Ryuuji「K-Kawashima!?」"
+msgstr "Ryuuji「¡¿K-Kawashima?!」"
+
+msgid "Ami「You mean Ami-chan?」"
+msgstr "Ami「¿Querrás decir Ami-chan?」"
+
+msgid "Ryuuji「Oh, sorry...... Wait, that doesn't matter＿right now!」"
+msgstr "Ryuuji「Ah, perdón...... ¡Espera,＿eso no importa ahora!」"
+
+msgid "Ami「Ryuuji, are you nervous, by chance?」"
+msgstr "Ami「Ryuuji, ¿por casualidad estás nervioso?」"
+
+msgid "Ryuuji「That's...... uh, of course I am.」"
+msgstr "Ryuuji「Pues...... eh, claro que sí.」"
+
+msgid "Ami「I'm so happy ① It's because you like＿me, right?」"
+msgstr "Ami「Estoy tan feliz ① Es porque＿te gusto, ¿verdad?」"
+
+msgid "Ryuuji「That...... Maybe I...... will......」"
+msgstr "Ryuuji「Eso...... Tal vez yo...... sí......」"
+
+msgid "Ami「Me too. My heart's beating so fast. And＿you're so close to me......」"
+msgstr "Ami「Yo también. Mi corazón late muy rápido.＿Y estás tan cerca de mí......」"
+
+msgid "Ami「But I want to stay like this. Just for a＿little longer, until we have to get off......＿Is that okay?」"
+msgstr "Ami「Pero quiero quedarme así. Solo＿un poco más, hasta que tengamos＿que bajar...... ¿Está bien?」"
+
+msgid "Ryuuji「......I-If that's what you want.」"
+msgstr "Ryuuji「......S-Si eso es lo que quieres.」"
+
+msgid "Ami「Thank you, Ryuuji①」"
+msgstr "Ami「Gracias, Ryuuji①」"

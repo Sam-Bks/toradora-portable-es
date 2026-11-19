@@ -1,0 +1,170 @@
+msgid ""
+msgstr ""
+
+msgid "Kota「Aww, what should I do......? Where is it?」"
+msgstr "Kota「Ay, ¿qué hago......? ¿Dónde está?」"
+
+msgid "Ryuuji「（What the? What's he doing, pacing＿here?）」"
+msgstr "Ryuuji「（¿Y eso? ¿Qué hace dando＿vueltas por aquí?）」"
+
+msgid "Ryuuji「Hey, what's wrong?」"
+msgstr "Ryuuji「Oye, ¿qué pasa?」"
+
+msgid "Kota「T-T-T-T-T-Takasu-senpai!! I, I'm sorry,＿so sorry! I didn't mean any harm! That＿was an accident! I'm so sorry!!」"
+msgstr "Kota「¡¡T-T-T-T-T-Takasu-senpai!! ¡L-Lo siento＿muchísimo! ¡No fue mi intención! ¡Fue un＿accidente! ¡¡Lo siento mucho!!」"
+
+msgid "Ryuuji「Calm down. What do you mean, \"that\"?」"
+msgstr "Ryuuji「Cálmate. ¿A qué te refieres con \"eso\"?」"
+
+msgid "Kota「W-What? D-D-Didn't Aisaka-senpai tell＿you? You're not here to avenge her?」"
+msgstr "Kota「¿Q-Qué? ¿N-N-No te lo dijo＿Aisaka-senpai? ¿No vienes a vengarla?」"
+
+msgid "Ryuuji「Like hell I would. So what happened?」"
+msgstr "Ryuuji「Ni loco. Entonces, ¿qué pasó?」"
+
+msgid "Kota「U-Umm...... The truth is, a little while＿ago I ran into Aisaka-senpai.」"
+msgstr "Kota「E-Ehm...... La verdad es que hace un＿rato choqué con Aisaka-senpai.」"
+
+msgid "Ryuuji「Taiga!?」"
+msgstr "Ryuuji「¡¿Taiga?!」"
+
+msgid "Kota「I, I, I, I, I, I'm sorry!! It's my fault for not＿watching where I was going!!」"
+msgstr "Kota「¡¡L-L-L-L-L-Lo siento!! ¡¡Es mi culpa＿por no fijarme por dónde iba!!」"
+
+msgid "Ryuuji「Oh, uh, I'm not mad at you or anything.＿Then what happened?」"
+msgstr "Ryuuji「Ah, eh, no estoy enojado contigo＿ni nada. ¿Y luego qué pasó?」"
+
+msgid "Kota「Well, Aisaka-senpai was running so＿fast that we crashed full-force into＿each other. She was bleeding......!」"
+msgstr "Kota「Bueno, Aisaka-senpai venía corriendo＿tan rápido que chocamos de lleno.＿¡Estaba sangrando......!」"
+
+msgid "Ryuuji「How bad was it?」"
+msgstr "Ryuuji「¿Qué tan grave fue?」"
+
+msgid "Kota「Just a little scratch......」"
+msgstr "Kota「Solo un rasguñito......」"
+
+msgid "Ryuuji「Oh, that happens all the time. You＿don't need to feel guilty over it.」"
+msgstr "Ryuuji「Ah, eso pasa todo el tiempo. No hace＿falta que te sientas culpable por eso.」"
+
+msgid "Kota「Okay. Despite her injury, she took off＿running at full speed again.」"
+msgstr "Kota「Bien. A pesar de su herida, salió＿corriendo de nuevo a toda velocidad.」"
+
+msgid "Ryuuji「......Oh, did she? Then what's got you in＿such a tizzy?」"
+msgstr "Ryuuji「......Ah, ¿en serio? ¿Entonces＿por qué estás tan alterado?」"
+
+msgid "Kota「Huh?」"
+msgstr "Kota「¿Eh?」"
+
+msgid "Ryuuji「Weren't you just pacing around looking＿worried in front of those condos?」"
+msgstr "Ryuuji「¿No estabas dando vueltas preocupado＿frente a esos departamentos?」"
+
+msgid "Kota「You saw me!? Oh, okay, then I'll get to＿the point.」"
+msgstr "Kota「¡¿Me viste?! Ah, bueno,＿entonces iré al grano.」"
+
+msgid "Kota「The truth is, when we ran into each＿other, she said \"If you're so desperate＿to apologize, then be of use to me!!\"」"
+msgstr "Kota「La verdad es que, cuando chocamos, me＿dijo: \"¡¡Si tantas ganas tienes de＿disculparte, entonces seme útil!!\"」"
+
+msgid "Kota「Then she gave me this.」"
+msgstr "Kota「Y luego me dio esto.」"
+
+msgid "Ryuuji「What's that?」"
+msgstr "Ryuuji「¿Qué es eso?」"
+
+msgid "Kota「I think it's the thing they put on the＿top of the Christmas tree at the party＿last year......」"
+msgstr "Kota「Creo que es lo que pusieron en la＿punta del árbol de Navidad en la＿fiesta del año pasado......」"
+
+msgid "Ryuuji「At the Christmas party?」"
+msgstr "Ryuuji「¿En la fiesta de Navidad?」"
+
+msgid "Ryuuji「Softball captain? You mean Kushieda?」"
+msgstr "Ryuuji「¿La capitana de sóftbol? ¿Te＿refieres a Kushieda?」"
+
+msgid "Kota「Yes...... U-Umm, you helped put the＿crystal back together, didn't you......?」"
+msgstr "Kota「Sí...... E-Ehm, tú ayudaste a armar el＿cristal de nuevo, ¿verdad......?」"
+
+msgid "Ryuuji「Uh...... err...... Did I?」"
+msgstr "Ryuuji「Eh...... ehm...... ¿Lo hice?」"
+
+msgid "Kota「Huh? As I recall, you and the girls'＿softball captain fixed it together,＿right?」"
+msgstr "Kota「¿Eh? Según recuerdo, tú y la capitana＿del equipo de sóftbol lo arreglaron＿juntos, ¿no?」"
+
+msgid "Ryuuji「........................」"
+msgstr "Ryuuji「........................」"
+
+msgid "Kota「U-Umm, I might be mis-remembering it.＿I was helping set the tree back up at＿the time.」"
+msgstr "Kota「E-Ehm, tal vez lo esté recordando mal.＿En ese momento yo estaba ayudando a＿levantar el árbol de nuevo.」"
+
+msgid "Ryuuji「（Kushieda and I fixed this crystal＿together......? It's no use. I can't＿remember.）」"
+msgstr "Ryuuji「（¿Kushieda y yo arreglamos este＿cristal juntos......? Es inútil.＿No puedo recordarlo.）」"
+
+msgid "Ryuuji「（I remember Kitamura was planning a＿Christmas party, but...... how did it turn＿out?）」"
+msgstr "Ryuuji「（Recuerdo que Kitamura planeaba＿una fiesta de Navidad, pero......＿¿cómo terminó todo?）」"
+
+msgid "Kota「Uh, ummmmm, Takasu-senpai? What's＿the matter?」"
+msgstr "Kota「Eh, ehmmmm, ¿Takasu-senpai? ¿Qué sucede?」"
+
+msgid "Ryuuji「Oh, it's nothing.」"
+msgstr "Ryuuji「Ah, no es nada.」"
+
+msgid "Kota「Your face says it isn't nothing. You've＿maxed out your evil gauge......」"
+msgstr "Kota「Tu cara dice lo contrario. Llenaste al＿máximo tu medidor de maldad......」"
+
+msgid "Ryuuji「Huh? Did you say something?」"
+msgstr "Ryuuji「¿Eh? ¿Dijiste algo?」"
+
+msgid "Kota「N-N-N-N-N-Nothing at all!」"
+msgstr "Kota「¡N-N-N-N-N-Nada en absoluto!」"
+
+msgid "Ryuuji「So you got this crystal as a gift from＿Taiga?」"
+msgstr "Ryuuji「¿Así que Taiga te regaló este cristal?」"
+
+msgid "Kota「No, she said to give it to \"that dog.\"」"
+msgstr "Kota「No, dijo que se lo diera a \"ese perro\".」"
+
+msgid "Ryuuji「......That dog?」"
+msgstr "Ryuuji「......¿Ese perro?」"
+
+msgid "Kota「Yes. Umm, do you know where I can＿find this pet of Aisaka-senpai's?」"
+msgstr "Kota「Sí. Ehm, ¿sabes dónde puedo encontrar＿a esa mascota de Aisaka-senpai?」"
+
+msgid "Ryuuji「........................」"
+msgstr "Ryuuji「........................」"
+
+msgid "Kota「U-Umm, Takasu-senpai?」"
+msgstr "Kota「E-Ehm, ¿Takasu-senpai?」"
+
+msgid "Ryuuji「Taiga said \"give it to that dog,\" right?」"
+msgstr "Ryuuji「Taiga dijo \"dáselo a ese perro\", ¿no?」"
+
+msgid "Kota「Yes......」"
+msgstr "Kota「Sí......」"
+
+msgid "Ryuuji「I see...... Okay then. I'll do that in your＿place.」"
+msgstr "Ryuuji「Ya veo...... Está bien.＿Lo haré en tu lugar.」"
+
+msgid "Kota「You mean it!? That'd be a huge help!」"
+msgstr "Kota「¡¿En serio?! ¡Eso sería de gran ayuda!」"
+
+msgid "Kota「Well, I'll be going then!」"
+msgstr "Kota「¡Bueno, entonces me voy!」"
+
+msgid "Ryuuji「Goddammit, Taiga......」"
+msgstr "Ryuuji「Maldita sea, Taiga......」"
+
+msgid "Ryuuji「（Going out of her way to...... Hm? Is this＿supposed to be a hint for my＿memories?）」"
+msgstr "Ryuuji「（Tomarse la molestia de...... ¿Mm?＿¿Se supone que esto es una pista＿para mis recuerdos?）」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Ryuuji「（Can't remember a thing...... The＿Christmas party? Oh man, there's a＿huge gap in my memory...... but why?）」"
+msgstr "Ryuuji「（No recuerdo nada...... ¿La fiesta de＿Navidad? Rayos, tengo un enorme vacío＿en la memoria...... ¿por qué?）」"
+
+msgid "Ryuuji「（Now then......）」"
+msgstr "Ryuuji「（Ahora bien......）」"
+
+msgid "Kota「I think so...... It's been repaired with＿insta-glue. I think it's the one that got＿broken by the captain of the girls'」"
+msgstr "Kota「Creo que sí...... Lo repararon con＿pegamento instantáneo. Lo habrá roto la＿capitana del equipo femenino de」"
+
+msgid "Kota「softball team.」"
+msgstr "Kota「sóftbol.」"

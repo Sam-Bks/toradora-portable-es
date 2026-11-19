@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+
+msgid "Taiga「O-Oh nooo, I, I forgot!」"
+msgstr "Taiga「¡O-Oh nooo, s-se me olvidó!」"
+
+msgid "Ryuuji「What's the matter?」"
+msgstr "Ryuuji「¿Qué pasa?」"
+
+msgid "Taiga「I, I promised Minorin we'd go have＿dessert together! I gotta go!!」"
+msgstr "Taiga「¡L-Le prometí a Minorin que＿iríamos a comer postre juntas!＿¡¡Me tengo que ir!!」"
+
+msgid "Ryuuji「Hey, are you okay? Your face is kinda＿red.」"
+msgstr "Ryuuji「Oye, ¿estás bien? Tienes＿la cara algo roja.」"
+
+msgid "Taiga「It's nothing! I'm fine! Totally fine!＿Nothing a little ice cream couldn't fix!」"
+msgstr "Taiga「¡No es nada! ¡Estoy bien! ¡Muy bien!＿¡Nada que un poco de helado no cure!」"
+
+msgid "Ryuuji「Really? Be careful not to overeat＿though.」"
+msgstr "Ryuuji「¿En serio? Ten cuidado de＿no comer de más, eso sí.」"
+
+msgid "Taiga「Okay, okay!」"
+msgstr "Taiga「¡Bien, bien!」"
+
+msgid "Ryuuji「（Is she really okay? She was nothing＿like her normal self just now......）」"
+msgstr "Ryuuji「（¿De verdad está bien? No parecía la＿de siempre hace un momento......）」"
+
+msgid "Ryuuji「（Well, she'll be fine on her own...... Now＿then, I think I'll kick back and relax.）」"
+msgstr "Ryuuji「（Bueno, estará bien por su cuenta......＿Ahora bien, creo que me relajaré.）」"

@@ -1,0 +1,17 @@
+msgid ""
+msgstr ""
+
+msgid "Yasuko「*Yawnnn*...... Yacchan's kiiinda sooorta＿sleeeepy～」"
+msgstr "Yasuko「*Bostezooo*...... Yacchan tiene＿uuuun poquiiito de sueeeño～」"
+
+msgid "Ryuuji「......Sorry, our conversation must have＿bored you.」"
+msgstr "Ryuuji「......Perdón, nuestra conversación＿te habrá aburrido.」"
+
+msgid "Yasuko「No no. See, Yacchan had a biiit to＿drinkkk～」"
+msgstr "Yasuko「No, no. Es que Yacchan＿bebió un poquiiito～」"
+
+msgid "Ryuuji「But......」"
+msgstr "Ryuuji「Pero......」"
+
+msgid "Yasuko「It's fiiine, ehehe☆」"
+msgstr "Yasuko「Está biiien, ejeje☆」"

@@ -1,0 +1,299 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「I know, what about this?」"
+msgstr "Ryuuji「Ya sé, ¿qué tal esto?」"
+
+msgid "Taiga「Hm?」"
+msgstr "Taiga「¿Mmm?」"
+
+msgid "Ryuuji「A pair of tickets to the planetarium.＿Apparently it's a popular date spot......」"
+msgstr "Ryuuji「Un par de entradas para el planetario.＿Al parecer es un lugar de citas＿muy popular......」"
+
+msgid "Ami「Ooh, Luxure!!」"
+msgstr "Ami「¡¡Ohh, Luxure!!」"
+
+msgid "Ryuuji「You know about it, Kawashima?」"
+msgstr "Ryuuji「¿Lo conoces, Kawashima?」"
+
+msgid "Ami「Are you saying you guys DON'T? It's＿the brand-new amusement park＿featured in all the magazines!」"
+msgstr "Ami「¿Me dicen que ustedes NO? ¡Es el＿flamante parque de diversiones que＿sale en todas las revistas!」"
+
+msgid "Ami「And these tickets are for the super＿popular planetarium there～＿Takasu-kun, gimme gimme①」"
+msgstr "Ami「Y estas entradas son para su＿súper popular planetario～ Takasu-kun,＿dámelas, dámelas①」"
+
+msgid "Ryuuji「As if, dummy.」"
+msgstr "Ryuuji「Ni loco, tonta.」"
+
+msgid "Ami「Whatever. Then I'll just get some＿through Mama's connections.」"
+msgstr "Ami「Como sea. Entonces conseguiré unas＿con los contactos de mamá.」"
+
+msgid "Taiga「Ugh. That all sounds like a hassle.」"
+msgstr "Taiga「Agh. Todo eso suena muy fastidioso.」"
+
+msgid "Ryuuji「But, it would set the mood for a high＿school couple just perfectly.」"
+msgstr "Ryuuji「Pero sería el ambiente perfecto para＿una pareja de preparatoria.」"
+
+msgid "Ami「Exactly. Kanou Sumire says she likes＿space, so the planetarium might work!＿Not bad, Takasu-kun①」"
+msgstr "Ami「Exacto. Kanou Sumire dice que le gusta＿el espacio, ¡así que el planetario＿podría servir! Nada mal, Takasu-kun①」"
+
+msgid "Taiga「The planetarium's good, but how do we＿get them to go? If we can't manage＿that, it's all for nothing.」"
+msgstr "Taiga「El planetario está bien, pero ¿cómo＿hacemos que vayan? Si no logramos＿eso, no sirve de nada.」"
+
+msgid "Ami「That's a good point. Hasn't it been＿impossible to get them to go together＿from the start?」"
+msgstr "Ami「Buen punto. ¿No ha sido imposible hacer＿que vayan juntos desde el principio?」"
+
+msgid "Taiga「Then we lure them to the planetarium＿and have them bump into each other?＿Something like that?」"
+msgstr "Taiga「¿Entonces los atraemos al planetario y＿hacemos que se topen ahí? ¿Algo así?」"
+
+msgid "Ryuuji「That's the only way. We can get＿Kitamura to show up easily enough,＿but...... the problem is Kanou-senpai.」"
+msgstr "Ryuuji「Es la única forma. Podemos hacer que＿Kitamura vaya fácilmente, pero......＿el problema es Kanou-senpai.」"
+
+msgid "Ami「......*Gasp*!」"
+msgstr "Ami「......¡Ah!」"
+
+msgid "Ryuuji「Hm? What is it......? Oh! You've got quite＿the glint in your eye.」"
+msgstr "Ryuuji「¿Mmm? ¿Qué pasa......? ¡Oh! Vaya＿brillo tienes en los ojos.」"
+
+msgid "Ami「Ami-chan just remembered that＿woman's weak point.」"
+msgstr "Ami「Ami-chan acaba de recordar el＿punto débil de esa mujer.」"
+
+msgid "Ryuuji「Weak point? It's hard to imagine she＿has one.」"
+msgstr "Ryuuji「¿Punto débil? Cuesta imaginar＿que tenga uno.」"
+
+msgid "Ami「She does! Her little sister. S-I-S-T-E-R.＿Kanou Sakura!」"
+msgstr "Ami「¡Sí tiene! Su hermanita. H-E-R-M-A-N-A.＿¡Kanou Sakura!」"
+
+msgid "Taiga「Kanou Sakura...... That stupid, fatty,＿wasteful wasteful wasteful WASTEFUL＿melon-chest girl.」"
+msgstr "Taiga「Kanou Sakura...... Esa tonta y gorda de＿los pechos de melón. Qué desperdicio,＿desperdicio, desperdicio, ¡DESPERDICIO!」"
+
+msgid "Ryuuji「That's a lot of wasteful's, Taiga......」"
+msgstr "Ryuuji「Repites mucho desperdicio, Taiga......」"
+
+msgid "Ryuuji「Where is this going?」"
+msgstr "Ryuuji「¿A dónde va esto?」"
+
+msgid "Ryuuji「I get it! If we set up a similar incident,＿we can make them follow her sister.」"
+msgstr "Ryuuji「¡Ya entiendo! Si armamos un＿incidente similar, haremos＿que sigan a su hermana.」"
+
+msgid "Taiga「......*Gasp*! No no no no no! NOOO＿WAYYYY!!!!」"
+msgstr "Taiga「......¡Ah! ¡No, no, no, no, no!＿¡¡DE NINGUNA MANERAAAA!!」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Ryuuji「We don't have time for this.」"
+msgstr "Ryuuji「No tenemos tiempo para esto.」"
+
+msgid "Ami「Look here, you've come too far to start＿throwing a crazy tantrum.」"
+msgstr "Ami「Oye, ya llegaste demasiado lejos para＿empezar a hacer un berrinche.」"
+
+msgid "Taiga「Then you can go interact with him,＿StuChi!!」"
+msgstr "Taiga「¡¡Entonces ve tú a tratar＿con él, StuChi!!」"
+
+msgid "Ami「No can do, 'cause Lady Luck loooves＿Ami-chan. In fact, Ami-chan is＿practically Lady Luck herself.」"
+msgstr "Ami「No se puede, porque la Diosa Fortuna＿amaa a Ami-chan. De hecho, Ami-chan es＿prácticamente la Fortuna misma.」"
+
+msgid "Taiga「......Hmph.」"
+msgstr "Taiga「......Jum.」"
+
+msgid "Ryuuji「That's a good girl.」"
+msgstr "Ryuuji「Así se hace, buena chica.」"
+
+msgid "Taiga「Shut up.」"
+msgstr "Taiga「Cállate.」"
+
+msgid "Ami「............」"
+msgstr "Ami「............」"
+
+msgid "Ryuuji「All that's left is to give these tickets to＿Tomiie Kota......」"
+msgstr "Ryuuji「Solo queda darle estas entradas＿a Tomiie Kota......」"
+
+msgid "Ami「Oh, that won't work. There's no way＿you can casually hand them over.」"
+msgstr "Ami「Ah, eso no funcionará. No hay forma de＿que puedas dárselas así como así.」"
+
+msgid "Ami「It's like Tiger said. Tomiie Kota is＿Misfortune Incarnate.」"
+msgstr "Ami「Es como dijo Tigre. Tomiie Kota＿es la Desgracia Encarnada.」"
+
+msgid "Ryuuji「......What are you trying to say?」"
+msgstr "Ryuuji「......¿Qué intentas decir?」"
+
+msgid "Taiga「That's his fate, that miserable＿first-year.」"
+msgstr "Taiga「Ese es su destino, el de ese＿miserable de primer año.」"
+
+msgid "Ryuuji「Talk about issues, man! This plan's no＿good, then...... Any other suggestions?」"
+msgstr "Ryuuji「¡Vaya problemas! Entonces este plan no＿sirve...... ¿Alguna otra sugerencia?」"
+
+msgid "Ami「No worries!」"
+msgstr "Ami「¡No te preocupes!」"
+
+msgid "Ryuuji「Hm?」"
+msgstr "Ryuuji「¿Mmm?」"
+
+msgid "Ami「Ami-chan has a GREAT idea.」"
+msgstr "Ami「Ami-chan tiene una GRAN idea.」"
+
+msgid "Ryuuji「W-Will it work?」"
+msgstr "Ryuuji「¿F-Funcionará?」"
+
+msgid "Ami「Believe in the goddess of love ① Ufu.」"
+msgstr "Ami「Confía en la diosa del amor ① Juju.」"
+
+msgid "Taiga「Whoa, a mash-up of StuChi and Tomiie＿Kota...... Look, Ryuuji, I've got＿goosebumps!!」"
+msgstr "Taiga「Uah, una mezcla de StuChi y Tomiie＿Kota...... ¡¡Mira, Ryuuji, tengo＿la piel de gallina!!」"
+
+msgid "Ami「Maybe you should back out if you're so＿against it? Stress is your skin's worst＿enemy～」"
+msgstr "Ami「¿Quizás deberías retirarte si estás＿tan en contra? El estrés es el peor＿enemigo de tu piel～」"
+
+msgid "Ryuuji「I need to use the restroom before we＿head out.」"
+msgstr "Ryuuji「Necesito ir al baño antes de salir.」"
+
+msgid "Taiga「Oh. Polish the floor while you're in＿there.」"
+msgstr "Taiga「Ah. Pule el suelo mientras＿estás adentro.」"
+
+msgid "Ryuuji「Oh!? Can I?」"
+msgstr "Ryuuji「¡¿Ah?! ¿Puedo?」"
+
+msgid "Taiga「......Freak.」"
+msgstr "Taiga「......Rarito.」"
+
+msgid "Ryuuji「（*Sigh*...... I got taken in by Kawashima's＿energy and ended up agreeing to this.＿It's probably fine, right......?）」"
+msgstr "Ryuuji「（*Suspiro*...... Me dejé llevar por el＿entusiasmo de Kawashima y terminé＿aceptando esto. Estará bien, ¿no......?）」"
+
+msgid "Ryuuji「（Regardless, it's too late to back out＿now......）」"
+msgstr "Ryuuji「（De todos modos, ya es muy tarde＿para echarse atrás......）」"
+
+msgid "Ami「......Hey, Tiger.」"
+msgstr "Ami「......Oye, Tigre.」"
+
+msgid "Ryuuji「（Hm......?）」"
+msgstr "Ryuuji「（¿Mmm......?）」"
+
+msgid "Ami「Why are you being so cooperative with＿this? Ami-chan was looking forward to＿alone time with Takasu-kun.」"
+msgstr "Ami「¿Por qué estás cooperando tanto con＿esto? Ami-chan esperaba pasar tiempo＿a solas con Takasu-kun.」"
+
+msgid "Taiga「............」"
+msgstr "Taiga「............」"
+
+msgid "Taiga「............」"
+msgstr "Taiga「............」"
+
+msgid "Ami「Welllll? Even though you...... Yuusaku＿so much? Just what are you thi......＿Ngahh!!」"
+msgstr "Ami「¿Y biennn? ¿Aunque tú......＿tanto a Yuusaku? ¿En qué estás＿pen...... ¡¡Ngaaah!!」"
+
+msgid "Taiga「Whoops, my finger slipped!」"
+msgstr "Taiga「¡Ups, se me resbaló el dedo!」"
+
+msgid "Ami「OOOOWWWWWWWWWWWW!!!!」"
+msgstr "Ami「¡¡¡¡AUUUUUUUUUUUCH!!!!」"
+
+msgid "Taiga「Sorry, I only meant to flick your＿forehead. It's your fault for being＿behind me, StuChi.」"
+msgstr "Taiga「Perdón, solo quería darte un golpe＿en la frente. Es tu culpa por estar＿detrás de mí, StuChi.」"
+
+msgid "Ami「W-Why do you keep trying to mess with＿a model's nose?! You could ruin it!」"
+msgstr "Ami「¡¿P-Por qué sigues intentando＿meterte con la nariz de una modelo?!＿¡Podrías arruinarla!」"
+
+msgid "Taiga「Yucky, yucky. Come on, after I wash my＿hands, let's go catch ourselves a＿Tomiie Kota.」"
+msgstr "Taiga「Qué asco, qué asco. Vamos, cuando＿me lave las manos, vayamos a atrapar＿a un Tomiie Kota.」"
+
+msgid "Ami「That's it! Ami-chan's getting nose＿insurance! A hundred-million-yen＿policy!」"
+msgstr "Ami「¡Se acabó! ¡Ami-chan va a contratar＿un seguro para la nariz! ¡Una póliza＿de cien millones de yenes!」"
+
+msgid "Ryuuji「（Will those two be able to work with＿each other? I'm concerned......）」"
+msgstr "Ryuuji「（¿Podrán esas dos trabajar juntas?＿Me preocupa......）」"
+
+msgid "Ryuuji「Then you should've used that method＿to begin with...... But if Kawashima's＿chomping at the bit for these......」"
+msgstr "Ryuuji「Entonces debiste usar ese método desde＿el principio...... Pero si Kawashima＿está ansiosa por estas......」"
+
+msgid "Ryuuji「Must be quite the place.」"
+msgstr "Ryuuji「Debe ser un lugar increíble.」"
+
+msgid "Ami「Well, it's like, when you're sitting in the＿comfortable memory foam loveseat,＿looking quietly at the stars......」"
+msgstr "Ami「Bueno, es que cuando te sientas en el＿cómodo sofá doble viscoelástico, mirando＿en silencio las estrellas......」"
+
+msgid "Ami「Your mind and body gets revitalized＿from the soothing aroma～①」"
+msgstr "Ami「Tu mente y cuerpo se revitalizan＿con el aroma relajante～①」"
+
+msgid "Ryuuji「They're rejecter and rejectee, after all.＿They're probably holding back from＿each other.」"
+msgstr "Ryuuji「Son quien rechazó y quien fue rechazado,＿después de todo. Seguro se contienen＿el uno frente al otro.」"
+
+msgid "Ryuuji「It would sure be tough to convince＿them by normal means.」"
+msgstr "Ryuuji「Sin duda sería difícil convencerlos＿por medios normales.」"
+
+msgid "Ami「This one time, Yuusaku went for a rare＿motorcycle ride and came home all＿worn out.」"
+msgstr "Ami「Una vez, Yuusaku salió en moto,＿algo raro en él, y volvió a＿casa todo agotado.」"
+
+msgid "Ami「I started to crack up at the sight of＿him and he was like \"I was helping＿Prez.\"」"
+msgstr "Ami「Me empecé a reír al verlo y me dijo:＿\"Estaba ayudando a la Presidenta\".」"
+
+msgid "Ami「Well you see, he said they'd been＿following her little sister on her first＿date! God, how funny～」"
+msgstr "Ami「Pues verás, ¡dijo que habían estado＿siguiendo a su hermanita en su primera＿cita! Dios, qué gracioso～」"
+
+msgid "Ami「It's just like Yuusaku to casually go＿along with something like that.」"
+msgstr "Ami「Es tan propio de Yuusaku seguir la＿corriente en algo así sin más.」"
+
+msgid "Ami「Exactly. We could try putting some＿exaggerated idea like \"Sister Chastity＿Crisis\" into their heads!」"
+msgstr "Ami「Exacto. ¡Podríamos meterles en la cabeza＿una idea exagerada como \"Crisis de＿Castidad de la Hermana\"!」"
+
+msgid "Ami「Great idea, right? Mhmm, Ami-chan's＿the best①」"
+msgstr "Ami「Gran idea, ¿verdad? Mjm,＿Ami-chan es la mejor①」"
+
+msgid "Ryuuji「I get the feeling it's a diversion＿strategy, but...... As the old saying goes,＿\"Slow and steady wins the race.\"」"
+msgstr "Ryuuji「Siento que es una táctica de desvío,＿pero...... Como dice el dicho: \"Poco＿a poco se llega lejos\".」"
+
+msgid "Ryuuji「This could work. So, who's going on the＿date with Kanou Sakura......?」"
+msgstr "Ryuuji「Esto podría funcionar. Entonces, ¿quién＿va a la cita con Kanou Sakura......?」"
+
+msgid "Taiga「Well, Kanou Sakura's boyfriend is that＿Tomiie Kota guy, right? No way!」"
+msgstr "Taiga「Bueno, el novio de Kanou Sakura es ese＿tal Tomiie Kota, ¿no? ¡Ni hablar!」"
+
+msgid "Taiga「Absolutely nothing good will happen＿with that guy around!」"
+msgstr "Taiga「¡No va a pasar absolutamente nada＿bueno con ese tipo cerca!」"
+
+msgid "Taiga「I'll cooperate to the fullest to achieve＿our goal. I'm even prepared to reopen＿Kitamura-kun's old wounds. I mean it.」"
+msgstr "Taiga「Cooperaré al máximo para lograr la meta.＿Hasta estoy lista para reabrir viejas＿heridas de Kitamura-kun. Va en serio.」"
+
+msgid "Taiga「But as for Tomiie Kota, I'm putting my＿foot down!!」"
+msgstr "Taiga「¡¡Pero en cuanto a Tomiie Kota,＿me niego en redondo!!」"
+
+msgid "Taiga「You don't know what his misfortune is＿capable of! That recent mystery bag＿juice incident?」"
+msgstr "Taiga「¡No sabes de lo que es capaz su mala＿suerte! ¿El incidente reciente del＿jugo y la bolsa sorpresa?」"
+
+msgid "Taiga「It happened because I associated＿myself with that Misfortune Incarnate!!」"
+msgstr "Taiga「¡¡Pasó porque me junté con＿esa Desgracia Encarnada!!」"
+
+msgid "Ryuuji「I'm begging you, work with me here. It's＿for the sake of hooking up Kitamura＿and Kanou Sumire.」"
+msgstr "Ryuuji「Te lo ruego, colabora conmigo. Es para＿juntar a Kitamura y a Kanou Sumire.」"
+
+msgid "Ryuuji「For the sake of Kitamura's happiness!」"
+msgstr "Ryuuji「¡Por la felicidad de Kitamura!」"
+
+msgid "Ryuuji「Why not? Can't I just give them＿straight to him and have him take＿Kanou Sakura along?」"
+msgstr "Ryuuji「¿Por qué no? ¿No puedo dárselas＿directamente y que lleve a Kanou Sakura?」"
+
+msgid "Ryuuji「Then all we'd need is to let slip to her＿big sister Sumire and it's Mission＿Complete.」"
+msgstr "Ryuuji「Luego solo tendríamos que soltárselo＿a su hermana mayor Sumire y listo,＿Misión Cumplida.」"
+
+msgid "Ami「When he's happy, first everyone＿around him becomes miserable, then＿misery befalls Tomiie Kota himself.」"
+msgstr "Ami「Cuando es feliz, primero los demás＿se vuelven desdichados, y luego la＿desgracia cae sobre Tomiie Kota.」"
+
+msgid "Ami「Yuusaku has said it can't be a＿coincidence.」"
+msgstr "Ami「Yuusaku ha dicho que no puede＿ser una coincidencia.」"
+
+msgid "Ami「Seems he knows all too well, and is＿abnormally wary of his own luck.」"
+msgstr "Ami「Parece que lo sabe muy bien, y desconfía＿demasiado de su propia suerte.」"
+
+msgid "Ami「There's no way he'd willingly accept＿such an unbelievable gift.」"
+msgstr "Ami「No hay forma de que acepte de buena＿gana un regalo tan increíble.」"
+
+msgid "Taiga「Don't you worry. Besides, unlike a＿certain fickle SOMEONE, when I＿commit to something, I COMMIT......」"
+msgstr "Taiga「No te preocupes. Además, a diferencia de＿CIERTA persona caprichosa, cuando me＿comprometo a algo, ME COMPROMETO......」"
+
+msgid "Taiga「Ryuuji, where do you think you're＿going?」"
+msgstr "Taiga「Ryuuji, ¿a dónde crees que vas?」"
+
+msgid "Ami「Well, since you said you'd come, I'm＿sure that'll be its own form of＿entertainment.」"
+msgstr "Ami「Bueno, ya que dijiste que vendrías,＿seguro que eso será entretenido＿a su manera.」"
+
+msgid "Ami「But are you sure you want Yuusaku＿and Kanou Sumire together?」"
+msgstr "Ami「Pero ¿segura que quieres a Yuusaku＿y a Kanou Sumire juntos?」"

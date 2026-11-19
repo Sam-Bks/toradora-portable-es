@@ -1,0 +1,281 @@
+msgid ""
+msgstr ""
+
+msgid "Inko-chan「HEE...... HEE, HEEHEE......」"
+msgstr "Inko-chan「JI...... JI, JIJI......」"
+
+msgid "Taiga「Ryuuji, this is bad. Inko-chan is＿seriously spazzing out!」"
+msgstr "Taiga「Ryuuji, esto es grave. ¡Inko-chan＿está totalmente descontrolado!」"
+
+msgid "Taiga「Will StuChi's plan work out?」"
+msgstr "Taiga「¿Funcionará el plan de StuChi?」"
+
+msgid "Ryuuji「I think she's got a good handle on＿things.」"
+msgstr "Ryuuji「Creo que tiene la situación＿bien controlada.」"
+
+msgid "Ryuuji「I'm hurt we're using Inko-chan as our＿\"bird of misfortune\".」"
+msgstr "Ryuuji「Me duele que usemos a Inko-chan como＿nuestro \"pájaro de la mala suerte\".」"
+
+msgid "Inko-chan「FU, FUFUFU, HEEHEE, HEE」"
+msgstr "Inko-chan「FU, FUFUFU, JIJI, JI」"
+
+msgid "Taiga「......There's no other option.」"
+msgstr "Taiga「......No hay otra opción.」"
+
+msgid "Taiga「We let him pick up the planetarium＿tickets and urge him to use them＿tomorrow...... I'm a little nervous still.」"
+msgstr "Taiga「Dejaremos que recoja las entradas para＿el planetario y lo animaremos a usarlas＿mañana...... Aún estoy algo nerviosa.」"
+
+msgid "Taiga「Of course I do. Leave it to me...... Oh,＿Tomiie Kota's here!」"
+msgstr "Taiga「¡Claro que sí! Déjamelo a mí......＿¡Oh, ahí viene Tomiie Kota!」"
+
+msgid "Ryuuji「......Yeah.」"
+msgstr "Ryuuji「......Sí.」"
+
+msgid "Ami「Excuse me, young one.」"
+msgstr "Ami「Disculpa, joven.」"
+
+msgid "Kota「............」"
+msgstr "Kota「............」"
+
+msgid "Ami「HEY! Don't you ignore me!」"
+msgstr "Ami「¡OYE! ¡No me ignores!」"
+
+msgid "Kota「Huh?」"
+msgstr "Kota「¿Eh?」"
+
+msgid "Kota「......You're talking to me?」"
+msgstr "Kota「......¿Hablas conmigo?」"
+
+msgid "Ami「Y-Yes, yourself. I'm offering a free,＿special......」"
+msgstr "Ami「S-Sí, contigo. Estoy ofreciendo＿algo especial y gratis......」"
+
+msgid "Kota「Oh, I choose not to believe in tarot＿stuff. Bye.」"
+msgstr "Kota「Ah, prefiero no creer en＿cosas de tarot. Adiós.」"
+
+msgid "Ami「D-Do not flee!」"
+msgstr "Ami「¡N-No huyas!」"
+
+msgid "Kota「Jeez, what do you want? My flowers＿will die if I don't hurry home and water＿them.」"
+msgstr "Kota「Cielos, ¿qué quieres? Mis flores＿se morirán si no me apresuro a＿volver a casa y regarlas.」"
+
+msgid "Ami「A star of misfortune follows you, young＿one.」"
+msgstr "Ami「Una estrella de infortunio＿te sigue, joven.」"
+
+msgid "Kota「......!」"
+msgstr "Kota「......!」"
+
+msgid "Ami「It is true. I can see it...... You shall be＿visited by three Misfortunes, young＿one.」"
+msgstr "Ami「Es verdad. Puedo verlo...... Tres＿Desgracias te visitarán, joven.」"
+
+msgid "Kota「Oh, is that all? Three is nothing＿compared to the rest of my life. Bye.」"
+msgstr "Kota「Ah, ¿eso es todo? Tres no son＿nada comparadas con el resto＿de mi vida. Adiós.」"
+
+msgid "Kota「\"She who...... is most precious\"?」"
+msgstr "Kota「¿\"Aquella que...... es más preciada\"?」"
+
+msgid "Ami「I see her, I see her...... A maiden of＿spring with big breasts and＿shoulder-length hair......」"
+msgstr "Ami「La veo, la veo...... Una doncella＿de primavera de pechos grandes y cabello＿hasta los hombros......」"
+
+msgid "Kota「H-How did you......?」"
+msgstr "Kota「¿C-Cómo lo......?」"
+
+msgid "Ami「Let me ask, did you perhaps obtain＿that bouquet from her?」"
+msgstr "Ami「Dime, ¿acaso obtuviste ese ramo de ella?」"
+
+msgid "Kota「I did. She gave them to me after I＿walked her home. She said she had a＿surplus of them.」"
+msgstr "Kota「Sí. Me lo dio después de que＿la acompañé a su casa. Dijo＿que le sobraban flores.」"
+
+msgid "Ami「You appear to be pleased.」"
+msgstr "Ami「Pareces estar complacido.」"
+
+msgid "Kota「Is it obvious? She's so girly, not to＿mention cute, cute, CUTE! Just the＿CUTEST girl!!」"
+msgstr "Kota「¿Se nota? ¡Es tan femenina, y ni hablar＿de lo linda, linda, LINDA que es!＿¡¡Simplemente la chica MÁS LINDA!!」"
+
+msgid "Kota「Ugh......!」"
+msgstr "Kota「¡Agh......!」"
+
+msgid "Ami「Fret not, for I predict that a treasure＿lies beyond the three Misfortunes......＿Would you care to hear the details?」"
+msgstr "Ami「No temas, pues predigo que un tesoro＿aguarda tras las tres Desgracias......＿¿Te gustaría escuchar los detalles?」"
+
+msgid "Ryuuji「Kawashima's not bad! I gotta say, she＿certainly is the daughter of an actress.」"
+msgstr "Ryuuji「¡Kawashima no lo hace nada＿mal! Debo decir que sin duda＿es hija de una actriz.」"
+
+msgid "Taiga「H-Hey, Ryuuji......」"
+msgstr "Taiga「O-Oye, Ryuuji......」"
+
+msgid "Ryuuji「Hm? What's up?」"
+msgstr "Ryuuji「¿Mmm? ¿Qué pasa?」"
+
+msgid "Taiga「Do you hear that weird noise?」"
+msgstr "Taiga「¿Oyes ese ruido raro?」"
+
+msgid "Ryuuji「Noise?」"
+msgstr "Ryuuji「¿Ruido?」"
+
+msgid "Ryuuji「Now that you mention it......」"
+msgstr "Ryuuji「Ahora que lo mencionas......」"
+
+msgid "Taiga「AAAAAAHHHH!! B-Bee! A BEE!」"
+msgstr "Taiga「¡¡AAAAAAHHHH!! ¡U-Una abeja! ¡UNA ABEJA!」"
+
+msgid "Ryuuji「A bee!? It's the middle of winter!」"
+msgstr "Ryuuji「¡¿Una abeja?! ¡Estamos＿en pleno invierno!」"
+
+msgid "Taiga「There, right there! I know, it's because＿of Tomiie Kota's bouquet, I'm sure of it!＿Aaah, it's back! Go away!」"
+msgstr "Taiga「¡Ahí, justo ahí! ¡Ya sé, es por el ramo＿de Tomiie Kota, estoy segura! ¡Aaah,＿ahí vuelve! ¡Fuera de aquí!」"
+
+msgid "Ryuuji「Don't attack it, dummy! You'll just get it＿worked up!」"
+msgstr "Ryuuji「¡No la ataques, tonta! ¡Solo＿la vas a alterar más!」"
+
+msgid "Taiga「AAAAAAAHHH!! It went up my skirt!＿GET IT RYUUJI! GET IT, GET IT!」"
+msgstr "Taiga「¡¡AAAAAAAHHH!! ¡Se metió bajo mi falda!＿¡QUÍTALA, RYUUJI! ¡QUÍTALA, QUÍTALA!」"
+
+msgid "Ryuuji「Taiga, just chill...... Aah!」"
+msgstr "Ryuuji「Taiga, cálmate...... ¡Aah!」"
+
+msgid "Taiga「T-The tickets!」"
+msgstr "Taiga「¡L-Las entradas!」"
+
+msgid "Ryuuji「Oh wow, they're really high up......!」"
+msgstr "Ryuuji「¡Vaya, están altísimas......!」"
+
+msgid "Inko-chan「TICKEEEEHH!!」"
+msgstr "Inko-chan「¡¡ENTRADAAAAS!!」"
+
+msgid "Ryuuji「Inko-chan!? Oh, don't tell me it can＿grab them with its little beak......!」"
+msgstr "Ryuuji「¡¿Inko-chan?! ¡Oh, no me digas que puede＿atraparlas con su piquito......!」"
+
+msgid "Taiga「Incredible! Nice catch! Wait...... Wrong＿way, Inko-chan! Come back!」"
+msgstr "Taiga「¡Increíble! ¡Bien atrapadas!＿Espera...... ¡Por ahí no,＿Inko-chan! ¡Vuelve!」"
+
+msgid "Ryuuji「Aaaaahh......!」"
+msgstr "Ryuuji「¡Aaaaahh......!」"
+
+msgid "Ami「Wha......!」"
+msgstr "Ami「¡Qu......!」"
+
+msgid "Kota「What's this bird doi...... WOW it's ugly!!」"
+msgstr "Kota「¿Qué hace este pája......＿¡¡UAU, qué feo es!!」"
+
+msgid "Ami「Goddammit Tiger......! Grrr.」"
+msgstr "Ami「¡Maldita sea, Tigre......! Grrr.」"
+
+msgid "Ami「OHHHH!! Something beyond my＿predictions has occurred!!」"
+msgstr "Ami「¡¡OHHHH!! ¡¡Algo más allá de mis＿predicciones ha ocurrido!!」"
+
+msgid "Kota「Huh?」"
+msgstr "Kota「¿Eh?」"
+
+msgid "Ami「You are lucky! This bird is the fabled＿\"Fortune Bird\"! Behold, the item in its＿beak!!」"
+msgstr "Ami「¡Eres afortunado! ¡Este pájaro es el＿legendario \"Pájaro de la Fortuna\"!＿¡¡Mira el objeto en su pico!!」"
+
+msgid "Kota「Umm, planetarium tickets......?」"
+msgstr "Kota「Ehm, ¿entradas para el planetario......?」"
+
+msgid "Kota「Huh? What?」"
+msgstr "Kota「¿Eh? ¿Qué?」"
+
+msgid "Kota「R-Really!?」"
+msgstr "Kota「¡¿D-De verdad?!」"
+
+msgid "Ami「It is real. It must be tomorrow! And＿only tomorrow! Begone!」"
+msgstr "Ami「Es real. ¡Debe ser mañana! ¡Y＿solo mañana! ¡Márchate!」"
+
+msgid "Kota「T-Thank you so much!」"
+msgstr "Kota「¡M-Muchas gracias!」"
+
+msgid "Ami「What. The. HELL! What were you＿DOING?!」"
+msgstr "Ami「¡Qué. DEMONIOS! ¡¿Qué estaban HACIENDO?!」"
+
+msgid "Ryuuji「S-Sorry. It was an inevitable accident.」"
+msgstr "Ryuuji「P-Perdón. Fue un accidente inevitable.」"
+
+msgid "Taiga「B-But there was a bee! Tomiie Kota's＿bouquet......!」"
+msgstr "Taiga「¡P-Pero había una abeja! ¡El＿ramo de Tomiie Kota......!」"
+
+msgid "Ami「No excuses!!」"
+msgstr "Ami「¡¡Sin excusas!!」"
+
+msgid "Ryuuji「Sorry.」"
+msgstr "Ryuuji「Perdón.」"
+
+msgid "Taiga「......Tch.」"
+msgstr "Taiga「......Tch.」"
+
+msgid "Ami「Arrrgh, I can't believe it! Ami-chan's＿performance was going so well, and＿you guys single-handedly destroyed it!!」"
+msgstr "Ami「¡Aaaagh, no lo puedo creer! La actuación＿de Ami-chan iba tan bien, ¡¡y ustedes＿solos la arruinaron!!」"
+
+msgid "Ryuuji「We apologize......」"
+msgstr "Ryuuji「Nos disculpamos......」"
+
+msgid "Taiga「Ngh...... How humiliating......」"
+msgstr "Taiga「Ngh...... Qué humillante......」"
+
+msgid "Ryuuji「Nicely done, Inko-chan. You got＿upgraded from Misfortune Bird to＿Fortune Bird, isn't that great?」"
+msgstr "Ryuuji「Bien hecho, Inko-chan. Te ascendieron＿de Pájaro de la Mala Suerte a Pájaro＿de la Fortuna, ¿no es genial?」"
+
+msgid "Inko-chan「KUKUKU......」"
+msgstr "Inko-chan「KUKUKU......」"
+
+msgid "Ryuuji「Oh, how fearless......」"
+msgstr "Ryuuji「Vaya, qué valiente......」"
+
+msgid "Ryuuji「Oh, its face is even more contorted＿now, poor thing...... It's not used to＿being around lots of people.」"
+msgstr "Ryuuji「Ay, ahora su cara está aún más＿retorcida, pobrecito...... No está＿acostumbrado a tanta gente.」"
+
+msgid "Ryuuji「It's probably just excited.」"
+msgstr "Ryuuji「Seguro solo está emocionado.」"
+
+msgid "Ryuuji「Disguised as a fortune-teller,＿Kawashima will \"predict\" three of＿Tomiie's misfortunes.」"
+msgstr "Ryuuji「Disfrazada de adivina, Kawashima＿\"predecirá\" tres de las desgracias＿de Tomiie.」"
+
+msgid "Ryuuji「Then we'll set them up.」"
+msgstr "Ryuuji「Luego nosotros las provocaremos.」"
+
+msgid "Taiga「Let's see...... First Tomiie will fall into a＿manhole, then he'll be covered in itchy＿grated yam......」"
+msgstr "Taiga「Veamos...... Primero Tomiie caerá en＿una alcantarilla, luego quedará cubierto＿de ñame rallado que pica......」"
+
+msgid "Taiga「Lastly, a \"bird of misfortune\" will land＿on his head...... Right?」"
+msgstr "Taiga「Por último, un \"pájaro de la＿mala suerte\" se posará en su＿cabeza...... ¿Verdad?」"
+
+msgid "Ryuuji「Using yams for this is kind of a waste,＿but I'll prostrate myself in the general＿direction of the farms later......」"
+msgstr "Ryuuji「Usar ñames para esto es un desperdicio,＿pero luego me postraré en dirección＿a las granjas......」"
+
+msgid "Ryuuji「So, once we get Tomiie to fall for＿Kawashima's predictions--」"
+msgstr "Ryuuji「Así que, una vez que Tomiie caiga en＿las predicciones de Kawashima--」"
+
+msgid "Ryuuji「We've come this far. We can't back＿down now. For now, let's hope＿Kawashima can get Tomiie's attention.」"
+msgstr "Ryuuji「Ya llegamos hasta aquí. No hay vuelta＿atrás. Por ahora, esperemos que＿Kawashima llame la atención de Tomiie.」"
+
+msgid "Ryuuji「Taiga, you've got the tickets, right?」"
+msgstr "Ryuuji「Taiga, tú tienes las entradas, ¿no?」"
+
+msgid "Ami「Wait but a moment! Heed my warning -＿if you cannot overcome the three＿Misfortunes......」"
+msgstr "Ami「¡Espera un momento! Oye mi advertencia:＿si no logras superar las tres＿Desgracias......」"
+
+msgid "Ami「You will lose she who is most precious!」"
+msgstr "Ami「¡Perderás a aquella que es más preciada!」"
+
+msgid "Ami「......But, if you do not heed me, a tragedy＿will split the two of you apart.」"
+msgstr "Ami「......Pero, si no me escuchas, una＿tragedia los separará a los dos.」"
+
+msgid "Ami「A tragedy not unlike a former vice＿president's rejection before an entire＿school.」"
+msgstr "Ami「Una tragedia no muy distinta＿al rechazo de un exvicepresidente＿ante toda la escuela.」"
+
+msgid "Ami「Thanks to the Fortune Bird, you have＿obtained the treasure without facing＿the Misfortunes.」"
+msgstr "Ami「Gracias al Pájaro de la Fortuna,＿has obtenido el tesoro sin enfrentar＿las Desgracias.」"
+
+msgid "Ami「This is the miracle of a lifetime!」"
+msgstr "Ami「¡Este es el milagro de tu vida!」"
+
+msgid "Ami「Now, go to your beloved and bestow＿them unto her. Then upon the next＿day may you travel there together.」"
+msgstr "Ami「Ahora, ve con tu amada y entrégaselas.＿Así, al día siguiente podrán＿acudir juntos.」"
+
+msgid "Ami「In doing so, you will be promised an＿eternal bond of love!!」"
+msgstr "Ami「¡¡De ese modo, tendrán asegurado＿un vínculo eterno de amor!!」"
+
+msgid "Ami「Takasu-kun, snap out of it and go get＿your ugly bird!」"
+msgstr "Ami「¡Takasu-kun, reacciona y ve＿a buscar a tu pájaro feo!」"
+
+msgid "Ami「Tiger, your punishment will be to＿praise the smart and beautiful＿Ami-chan!」"
+msgstr "Ami「¡Tigre, tu castigo será elogiar a la＿inteligente y hermosa Ami-chan!」"

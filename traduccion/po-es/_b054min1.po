@@ -1,0 +1,227 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「Kushieda, are you thirsty?」"
+msgstr "Ryuuji「Kushieda, ¿tienes sed?」"
+
+msgid "Minori「Huh?」"
+msgstr "Minori「¿Eh?」"
+
+msgid "Minori「You sure? Okay, I guess I'll take you up＿on it.」"
+msgstr "Minori「¿Seguro? Bueno, entonces＿te tomo la palabra.」"
+
+msgid "Ryuuji「Okay.」"
+msgstr "Ryuuji「Está bien.」"
+
+msgid "Ryuuji「Here.」"
+msgstr "Ryuuji「Toma.」"
+
+msgid "Minori「Thanks～ Oh, but if I drink this, you＿won't have anything for yourself, will＿you?」"
+msgstr "Minori「Gracias～ Ah, pero si me tomo esto, no＿va a quedar nada para ti, ¿verdad?」"
+
+msgid "Ryuuji「Don't worry. The lid to this thermos＿has two cups. See?」"
+msgstr "Ryuuji「No te preocupes. La tapa de este＿termo trae dos tazas. ¿Ves?」"
+
+msgid "Minori「Oh, you're right!」"
+msgstr "Minori「¡Ah, tienes razón!」"
+
+msgid "Ryuuji「This is a family-size thermos. There's＿plenty to go around.」"
+msgstr "Ryuuji「Es un termo de tamaño familiar.＿Hay de sobra para compartir.」"
+
+msgid "Ryuuji「（I was thinking Taiga would drink most＿of it, though.）」"
+msgstr "Ryuuji「（Aunque pensé que Taiga se＿tomaría la mayor parte.）」"
+
+msgid "Minori「That's just like you～ It's crazy how＿prepared you are. Any mother would＿be proud.」"
+msgstr "Minori「Muy propio de ti～ Qué locura lo＿preparado que estás. Cualquier＿madre estaría orgullosa.」"
+
+msgid "Ryuuji「So in other words...... I'll \"make a man＿very happy someday\"?」"
+msgstr "Ryuuji「O sea, en otras palabras...... ¿\"haré＿muy feliz a un hombre algún día\"?」"
+
+msgid "Minori「Huh? Where'd that come from?」"
+msgstr "Minori「¿Eh? ¿Y eso de dónde salió?」"
+
+msgid "Ryuuji「Just something Taiga once said.」"
+msgstr "Ryuuji「Solo algo que dijo Taiga una vez.」"
+
+msgid "Minori「Oh, that Taiga～ Well, that might be＿one way of putting it.」"
+msgstr "Minori「Ay, esa Taiga～ Bueno, esa sería＿una forma de decirlo.」"
+
+msgid "Ryuuji「（So you're not denying it......）」"
+msgstr "Ryuuji「（Así que no lo niegas......）」"
+
+msgid "Minori「In other words, you're more kind and＿gentle than anyone I know, bud.」"
+msgstr "Minori「En otras palabras, eres más amable y＿gentil que nadie que conozca, amigo.」"
+
+msgid "Minori「So about Taiga......」"
+msgstr "Minori「Y sobre Taiga......」"
+
+msgid "Ryuuji「What about Taiga?」"
+msgstr "Ryuuji「¿Qué pasa con Taiga?」"
+
+msgid "Minori「No no, it's nothing. Uhh, hand over the＿cups.」"
+msgstr "Minori「No, no, no es nada. Ehh, dame las tazas.」"
+
+msgid "Ryuuji「Both?」"
+msgstr "Ryuuji「¿Las dos?」"
+
+msgid "Minori「Yep! Gimme, gimme!」"
+msgstr "Minori「¡Sí! ¡Dámelas, dámelas!」"
+
+msgid "Ryuuji「Okay......?」"
+msgstr "Ryuuji「¿Está bien......?」"
+
+msgid "Minori「Ta-daaa!」"
+msgstr "Minori「¡Tacháaan!」"
+
+msgid "Ryuuji「Huh......?」"
+msgstr "Ryuuji「¿Eh......?」"
+
+msgid "Minori「Bear!」"
+msgstr "Minori「¡Oso!」"
+
+msgid "Ryuuji「......」"
+msgstr "Ryuuji「......」"
+
+msgid "Ryuuji「Pfft......」"
+msgstr "Ryuuji「Pfft......」"
+
+msgid "Ryuuji「Ahahahahahaha!」"
+msgstr "Ryuuji「¡Ajajajajajaja!」"
+
+msgid "Minori「Oh, it seems I hit a home run with that＿one.」"
+msgstr "Minori「Oh, parece que conecté＿un jonrón con eso.」"
+
+msgid "Ryuuji「Well, it looks nothing like a bear!」"
+msgstr "Ryuuji「¡Pues no se parece en nada a un oso!」"
+
+msgid "Minori「Mm. 'Tis that thy mind's eye is clouded.＿Open thy mind's eye and unleash her!＿She is human!」"
+msgstr "Minori「Mm. Nublado está el ojo de tu mente.＿¡Abre el ojo de tu mente y libérala!＿¡Ella es humana!」"
+
+msgid "Ryuuji「The hell does that mean?＿Gahahahahahaha!」"
+msgstr "Ryuuji「¿Qué rayos significa eso?＿¡Gajajajajajaja!」"
+
+msgid "Minori「Hehehehehe!」"
+msgstr "Minori「¡Jejejejeje!」"
+
+msgid "Ryuuji「Aww, now I'm thirsty again.」"
+msgstr "Ryuuji「Ay, ahora me dio sed otra vez.」"
+
+msgid "Minori「That's what you get for laughing so＿much. Here's your cup.」"
+msgstr "Minori「Eso te pasa por reírte tanto.＿Aquí tienes tu taza.」"
+
+msgid "Ryuuji「Thanks.」"
+msgstr "Ryuuji「Gracias.」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Minori「What's wrong?」"
+msgstr "Minori「¿Qué pasa?」"
+
+msgid "Ryuuji「The thermos... The handle's cracked.」"
+msgstr "Ryuuji「El termo... El asa está agrietada.」"
+
+msgid "Minori「Huh? Where? Oh, you're right.」"
+msgstr "Minori「¿Eh? ¿Dónde? Ah, tienes razón.」"
+
+msgid "Ryuuji「Might be from when I dropped it by the＿pool earlier. Aww man, I hope it doesn't＿get any bigger.」"
+msgstr "Ryuuji「Será de cuando se me cayó junto a＿la piscina hace rato. Rayos, espero＿que no se haga más grande.」"
+
+msgid "Minori「Hmmm. What if you glued it together to＿keep the crack from growing?」"
+msgstr "Minori「Mmmm. ¿Y si lo pegas para evitar＿que la grieta crezca?」"
+
+msgid "Ryuuji「Glue, huh? I might have some at home.」"
+msgstr "Ryuuji「¿Pegamento, eh? Tal vez＿tenga algo en casa.」"
+
+msgid "Minori「......I'll just give you my insta-glue.」"
+msgstr "Minori「......Mejor te doy mi pegamento＿instantáneo.」"
+
+msgid "Ryuuji「Huh? Are you sure?」"
+msgstr "Ryuuji「¿Eh? ¿Estás segura?」"
+
+msgid "Minori「Yep. I think it's something else you're＿better off holding onto.」"
+msgstr "Minori「Sip. Creo que es otra cosa que＿es mejor que guardes tú.」"
+
+msgid "Ryuuji「Me? Why?」"
+msgstr "Ryuuji「¿Yo? ¿Por qué?」"
+
+msgid "Minori「Who knows～ 'Tis but that my brain＿cells do command it～」"
+msgstr "Minori「Quién sabe～ Es solo que mis＿neuronas así lo ordenan～」"
+
+msgid "Ryuuji「I don't really get it, but are you really＿sure I can have this?」"
+msgstr "Ryuuji「No lo entiendo mucho, pero ¿segura＿que me lo puedo quedar?」"
+
+msgid "Ryuuji「This insta-glue can repair even glass!＿It's a necessity for every household!」"
+msgstr "Ryuuji「¡Este pegamento instantáneo＿repara hasta vidrio! ¡Es indispensable＿en todo hogar!」"
+
+msgid "Minori「It's fine! The insta-glue would be＿happier helping you, bud.」"
+msgstr "Minori「¡Está bien! El pegamento instantáneo＿será más feliz ayudándote, amigo.」"
+
+msgid "Ryuuji「You think so......? I feel like I've been＿getting stuff left and right. If there's＿any way I can repay...... Hm?」"
+msgstr "Ryuuji「¿Tú crees......? Siento que he estado＿recibiendo cosas sin parar. Si hay＿manera de compensártelo...... ¿Mm?」"
+
+msgid "Ryuuji「Why is this in my pocket?」"
+msgstr "Ryuuji「¿Por qué está esto en mi bolsillo?」"
+
+msgid "Minori「Oooh!! That eyepatch brings back＿memories!! Wait, what? Is that mine, by＿chance?」"
+msgstr "Minori「¡¡Oooh!! ¡¡Ese parche para el ojo＿me trae recuerdos!! Espera, ¿qué?＿¿No será mío por casualidad?」"
+
+msgid "Ryuuji「Is it!? I just found it laying around......＿But I have no idea how it ended up in＿the pocket of my trunks.」"
+msgstr "Ryuuji「¡¿Lo es?! Lo encontré por ahí......＿Pero no tengo idea de cómo acabó en＿el bolsillo de mi traje de baño.」"
+
+msgid "Minori「Hand it over and we'll get to the＿bottom of this...... Ohhh, it really is＿mine!」"
+msgstr "Minori「Dámelo y llegaremos al fondo de＿esto...... ¡Ohhh, de verdad es mío!」"
+
+msgid "Ryuuji「I see. Sorry, were you looking for it?」"
+msgstr "Ryuuji「Ya veo. Perdón, ¿lo estabas buscando?」"
+
+msgid "Minori「I'd already given up on finding it! I'm so＿happy! Can I have it?」"
+msgstr "Minori「¡Ya lo había dado por perdido! ¡Qué＿alegría! ¿Me lo puedo quedar?」"
+
+msgid "Ryuuji「Sure.」"
+msgstr "Ryuuji「Claro.」"
+
+msgid "Minori「Thanks! Let's consider it a trade for＿the insta-glue.」"
+msgstr "Minori「¡Gracias! Considerémoslo un cambio＿por el pegamento instantáneo.」"
+
+msgid "Ryuuji「......Whew, what a relief.」"
+msgstr "Ryuuji「......Uf, qué alivio.」"
+
+msgid "Minori「Oh, I gotta get going. I promised Taiga＿we'd have dessert together.」"
+msgstr "Minori「Ah, me tengo que ir. Le prometí a Taiga＿que comeríamos postre juntas.」"
+
+msgid "Minori「Wanna come with?」"
+msgstr "Minori「¿Quieres venir?」"
+
+msgid "Ryuuji「Nah, I'll relax here a little longer.」"
+msgstr "Ryuuji「No, me relajaré aquí un poco más.」"
+
+msgid "Minori「Yeah? Alright, see ya laters!」"
+msgstr "Minori「¿Sí? ¡Bueno, nos vemos luego!」"
+
+msgid "Ryuuji「Later.」"
+msgstr "Ryuuji「Nos vemos.」"
+
+msgid "Ryuuji「（Seriously, what an oddball...... Only she＿would walk around with insta-glue in＿her pocket.）」"
+msgstr "Ryuuji「（En serio, qué chica tan rara......＿Solo ella andaría por ahí con pegamento＿instantáneo en el bolsillo.）」"
+
+msgid "Ryuuji「（......Did it have some sentimental value＿to her, maybe? No, otherwise she＿wouldn't have given it to me.）」"
+msgstr "Ryuuji「（......¿Tendría algún valor sentimental＿para ella, quizá? No, si no, no＿me lo habría dado.）」"
+
+msgid "Ryuuji「（Seriously, what a freakin' oddball......）」"
+msgstr "Ryuuji「（En serio, qué chica tan rara es......）」"
+
+msgid "Ryuuji「Kushieda Minori......」"
+msgstr "Ryuuji「Kushieda Minori......」"
+
+msgid "Ryuuji「You were swimming like crazy, and＿then you talked to me for who knows＿how long. If you don't mind a hot drink,」"
+msgstr "Ryuuji「Estuviste nadando muchísimo, y luego＿charlaste conmigo quién sabe cuánto＿tiempo. Si no te molesta algo caliente,」"
+
+msgid "Ryuuji「I have oolong tea. Want some?」"
+msgstr "Ryuuji「tengo té oolong. ¿Quieres un poco?」"
+
+msgid "Minori「You always think about others first＿before you act. That's not something＿just anyone can do. You're amazing,」"
+msgstr "Minori「Siempre piensas en los demás antes de＿actuar. Eso no lo hace cualquiera. Eres＿increíble,」"
+
+msgid "Minori「Takasu-kun.」"
+msgstr "Minori「Takasu-kun.」"

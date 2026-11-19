@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「（Inko-chan...... doesn't seem to be＿here......）」"
+msgstr "Ryuuji「（Inko-chan...... no parece＿estar aquí......）」"
+
+msgid "Ami「Excuse me. What's the big idea, making＿THE Ami-chan have to wait?」"
+msgstr "Ami「Disculpa. ¿Cómo se te ocurre hacer＿esperar a LA mismísima Ami-chan?」"
+
+msgid "Ryuuji「Oh, didn't see you there, Kawashima.」"
+msgstr "Ryuuji「Ah, no te había visto, Kawashima.」"
+
+msgid "Ami「Don't give me that. Tiger still hasn't＿shown up. What's going on?」"
+msgstr "Ami「No me vengas con eso. Tigre sigue＿sin aparecer. ¿Qué está pasando?」"
+
+msgid "Ryuuji「Sorry, but it turns out I won't be able＿to help with your plan today.」"
+msgstr "Ryuuji「Lo siento, pero resulta que hoy＿no podré ayudarte con tu plan.」"
+
+msgid "Ami「Excuse you? You're canceling on me＿NOW? Who do you think you are?」"
+msgstr "Ami「¿Perdón? ¿Me cancelas AHORA?＿¿Quién te crees que eres?」"
+
+msgid "Ami「Without you, Ami-chan's carefully＿thought-out, PERFECT plan will go＿right down the drain!」"
+msgstr "Ami「¡Sin ti, el plan PERFECTO y tan＿cuidadosamente pensado de Ami-chan＿se irá directo a la basura!」"
+
+msgid "Ryuuji「I don't have a choice. It's an＿emergency.」"
+msgstr "Ryuuji「No tengo opción. Es una emergencia.」"
+
+msgid "Ami「What emergency?」"
+msgstr "Ami「¿Qué emergencia?」"
+
+msgid "Ryuuji「Inko-chan disappeared.」"
+msgstr "Ryuuji「Inko-chan desapareció.」"
+
+msgid "Ryuuji「I won't deny it's ugly, but to me, it's a＿precious family member.」"
+msgstr "Ryuuji「No negaré que es feo, pero para mí, es＿un miembro valioso de la familia.」"
+
+msgid "Taiga「Ryuuji, why are you here? I told you I'd＿explain everything to StuChi.」"
+msgstr "Taiga「Ryuuji, ¿por qué estás aquí? Te dije＿que yo le explicaría todo a StuChi.」"
+
+msgid "Ryuuji「I thought there might be a chance it＿was here.」"
+msgstr "Ryuuji「Pensé que tal vez había alguna＿posibilidad de que estuviera aquí.」"
+
+msgid "Ami「Even if you look for it, I doubt you'll＿find it. You're wasting your time. Why＿don't you just buy a new, cuter pet?」"
+msgstr "Ami「Aunque lo busques, dudo que lo＿encuentres. Pierdes el tiempo. ¿Por qué＿no te compras una mascota más linda?」"
+
+msgid "Taiga「That's our StuChi, as compassionate＿as a gum wrapper.」"
+msgstr "Taiga「Así es StuChi, tan compasiva como＿la envoltura de un chicle.」"
+
+msgid "Ami「Surely you agree. If you're going to＿have a pet, don't you think you should＿have a cute one?」"
+msgstr "Ami「Seguro estás de acuerdo. Si vas＿a tener una mascota, ¿no crees＿que debería ser una linda?」"
+
+msgid "Taiga「After living together for so many＿years, anyone could start to see the＿cuteness in its ugliness.」"
+msgstr "Taiga「Después de vivir juntos tantos＿años, cualquiera empezaría a verle＿lo lindo en su fealdad.」"
+
+msgid "Ami「You'd be used to it after three days?」"
+msgstr "Ami「¿Te acostumbrarías en tres días?」"
+
+msgid "Taiga「You bet.」"
+msgstr "Taiga「Claro que sí.」"
+
+msgid "Ami「Even that thing?」"
+msgstr "Ami「¿Incluso a esa cosa?」"
+
+msgid "Taiga「I don't know about that.」"
+msgstr "Taiga「Eso sí no lo sé.」"
+
+msgid "Ami「Whaa～? Ami-chan's, like, confused～①」"
+msgstr "Ami「¿Quéee～? Como que＿Ami-chan está confundida～①」"
+
+msgid "Ami「A-S I-F! Pfft!」"
+msgstr "Ami「¡N-I L-O-C-A! ¡Pff!」"
+
+msgid "Taiga「Ryuuji, why don't you stop hanging＿around here and get back to looking＿for Inko-chan?」"
+msgstr "Taiga「Ryuuji, ¿por qué no dejas de＿perder el tiempo aquí y vuelves＿a buscar a Inko-chan?」"
+
+msgid "Ryuuji「Oh, you're right. Well then, I'll leave＿Kitamura in your hands.」"
+msgstr "Ryuuji「Ah, tienes razón. Bueno, entonces les＿dejo a Kitamura en sus manos.」"
+
+msgid "Ami「What～? You're REALLY going to back＿out at the last minute!?」"
+msgstr "Ami「¿Quéee～? ¡¿DE VERDAD te vas a echar＿para atrás en el último minuto?!」"
+
+msgid "Ryuuji「Sorry, Kawashima. The rest is up to＿you.」"
+msgstr "Ryuuji「Lo siento, Kawashima. El resto＿queda en tus manos.」"
+
+msgid "Ami「Ah! Hey! WAIT!!」"
+msgstr "Ami「¡Ah! ¡Oye! ¡¡ESPERA!!」"
+
+msgid "Ami「\"Inko-chan\"? You mean that ugly＿parakeet? You saying some butt-ugly＿pet takes precedence over the」"
+msgstr "Ami「¿\"Inko-chan\"? ¿Ese periquito＿feo? ¡¿Dices que una mascota＿horrible tiene prioridad sobre la」"
+
+msgid "Ami「adorable Ami-chan!?」"
+msgstr "Ami「adorable Ami-chan?!」"
+
+msgid "Ryuuji「Don't call it \"that thing.\" Do you guys＿realize that the two of you have been＿saying incredibly rude things about me」"
+msgstr "Ryuuji「No le digan \"esa cosa\". ¿Se dan＿cuenta de las cosas tan groseras＿que las dos han dicho sobre mí」"
+
+msgid "Ryuuji「and Inko-chan?」"
+msgstr "Ryuuji「e Inko-chan?」"

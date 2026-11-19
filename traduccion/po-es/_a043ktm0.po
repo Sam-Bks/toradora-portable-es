@@ -1,0 +1,314 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「Taiga!」"
+msgstr "Ryuuji「¡Taiga!」"
+
+msgid "Taiga「Shut up. Even a mongrel can read＿between the lines. Don't follow me.」"
+msgstr "Taiga「Cállate. Hasta un perro sabe leer＿entre líneas. No me sigas.」"
+
+msgid "Taiga「I'm not upset, just frustrated!」"
+msgstr "Taiga「¡No estoy molesta, solo frustrada!」"
+
+msgid "Ryuuji「About?」"
+msgstr "Ryuuji「¿Por qué?」"
+
+msgid "Taiga「There were heaps of things I've＿wanted to calmly say to her face since＿I last saw her......」"
+msgstr "Taiga「Había montones de cosas que quería＿decirle con calma a la cara desde＿la última vez que la vi......」"
+
+msgid "Taiga「When I saw her despicable straight＿face, my pride got in the way...... So it＿was no different from last time.」"
+msgstr "Taiga「Al ver su cara tan despreciable, mi＿orgullo se interpuso...... Así que＿fue igual que la última vez.」"
+
+msgid "Ryuuji「（What happened between them......?）」"
+msgstr "Ryuuji「（¿Qué habrá pasado entre ellas......?）」"
+
+msgid "Ryuuji「（Plus, there's that uneasiness I felt＿meeting Kanou Sumire for the first＿time......）」"
+msgstr "Ryuuji「（Además, está esa inquietud que＿sentí al conocer a Kanou Sumire＿por primera vez......）」"
+
+msgid "Taiga「So? You called after me, so you must＿want something.」"
+msgstr "Taiga「¿Y? Me llamaste, así que＿algo debes querer.」"
+
+msgid "Ryuuji「Oh yeah. You forgot......」"
+msgstr "Ryuuji「Ah, cierto. Olvidaste......」"
+
+msgid "???「Aaah, what's that? SUPER filthy～①」"
+msgstr "???「Aaah, ¿qué es eso? SÚPER sucio～①」"
+
+msgid "Kitamura「Ha ha ha! You guys having another＿squabble in public? Still best of＿friends, I see.」"
+msgstr "Kitamura「¡Ja, ja, ja! ¿Otra vez peleando＿en público? Veo que siguen siendo＿los mejores amigos.」"
+
+msgid "Taiga「N-No we aren't!」"
+msgstr "Taiga「¡N-No lo somos!」"
+
+msgid "Ryuuji「What part of this looks like \"best＿friends\" to you, Kitamura? And we're＿not squabbling.」"
+msgstr "Ryuuji「¿Qué parte de esto te parece＿de \"mejores amigos\", Kitamura?＿Y no estamos peleando.」"
+
+msgid "Kitamura「Really? Then what's with that＿conspicuous red stain?」"
+msgstr "Kitamura「¿En serio? ¿Entonces qué es esa＿mancha roja tan llamativa?」"
+
+msgid "Ryuuji「Red stain...... Oh, that's right!! The＿blood's dried!」"
+msgstr "Ryuuji「¿Mancha roja......? ¡¡Ah, es cierto!!＿¡La sangre ya se secó!」"
+
+msgid "Ami「Hold it, Tiger! Don't come near me.＿What's that orange color? You reek of＿citrus!」"
+msgstr "Ami「¡Espera, Tigre! No te me acerques.＿¿Qué es ese color naranja? ¡Apestas＿a cítricos!」"
+
+msgid "Taiga「It's better than your alien body stink,＿at least. OHHHH, WHAT NOW!!」"
+msgstr "Taiga「Mejor que tu peste a alienígena,＿al menos. ¡¡OHHHH, TOMA ESA!!」"
+
+msgid "Ami「Aaaaaah! What do you think you're＿doing, you little shit!?」"
+msgstr "Ami「¡Aaaaaah! ¡¿Qué demonios crees＿que haces, maldita mocosa?!」"
+
+msgid "Kitamura「Ha ha ha! Everyone's in high spirits＿this year as well～」"
+msgstr "Kitamura「¡Ja, ja, ja! Todos están llenos＿de energía este año también～」"
+
+msgid "Ryuuji「What are the two of you up to?」"
+msgstr "Ryuuji「¿Qué andan haciendo ustedes dos?」"
+
+msgid "Kitamura「Oh, Ami came to give New Year's＿greetings to my parents. Now I'm＿walking her home.」"
+msgstr "Kitamura「Ah, Ami vino a saludar a mis＿padres por Año Nuevo. Ahora＿la acompaño a su casa.」"
+
+msgid "Taiga「Still playing goody-goody, huh. Must be＿nice to have so much free time.」"
+msgstr "Taiga「Sigues haciéndote la buena, eh. Qué＿suerte tener tanto tiempo libre.」"
+
+msgid "Ami「Unlike YOU, I have common sense! Of＿course I had to play nice in front of＿Yuusaku's folks.」"
+msgstr "Ami「¡A diferencia de TI, tengo sentido＿común! Claro que tenía que portarme＿bien con los padres de Yuusaku.」"
+
+msgid "Taiga「Aren't entertainers normally busy on＿New Year's? Oh yeah, StuChi is an＿exception. Oops.」"
+msgstr "Taiga「¿Los artistas no suelen estar ocupados＿en Año Nuevo? Ah, claro, StuChi＿es una excepción. Ups.」"
+
+msgid "Ami「Excuse me? I'm not some variety show＿host! I'm a model. M-O-D-E-L!」"
+msgstr "Ami「¿Disculpa? ¡No soy presentadora＿de programas de variedades! Soy＿modelo. ¡M-O-D-E-L-O!」"
+
+msgid "Kitamura「Haha, same as usual...... So, may I ask＿why the two of you are wandering＿around soaked in blood and juice?」"
+msgstr "Kitamura「Jaja, como siempre...... Y bien,＿¿puedo saber por qué andan por ahí＿empapados en sangre y jugo?」"
+
+msgid "Ryuuji「Well, I ran into Taiga at Super＿Kanou-Mart.」"
+msgstr "Ryuuji「Bueno, me topé con Taiga＿en el Super Kanou-Mart.」"
+
+msgid "Kitamura「......Kanou-Mart?」"
+msgstr "Kitamura「......¿Kanou-Mart?」"
+
+msgid "Taiga「Ryuuji!!」"
+msgstr "Taiga「¡¡Ryuuji!!」"
+
+msgid "Ryuuji「Oh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Kitamura「Sumire-san...... Prez? You encountered＿her?」"
+msgstr "Kitamura「Sumire-san...... ¿la Presidenta?＿¿Se encontraron con ella?」"
+
+msgid "Ryuuji「Y-Yeah.」"
+msgstr "Ryuuji「S-Sí.」"
+
+msgid "Ami「............」"
+msgstr "Ami「............」"
+
+msgid "Kitamura「I see, so Prez is back......」"
+msgstr "Kitamura「Ya veo, la Presidenta volvió......」"
+
+msgid "Taiga「Kitamura-kun, umm--」"
+msgstr "Taiga「Kitamura-kun, ehm--」"
+
+msgid "Kitamura「......NOOOT!! Did you think I was upset,＿Aisaka?」"
+msgstr "Kitamura「......¡MENTIRAAA! ¿Pensaste que＿estaba afectado, Aisaka?」"
+
+msgid "Taiga「Kitamura-kun......」"
+msgstr "Taiga「Kitamura-kun......」"
+
+msgid "Kitamura「What's that look for? Worried about＿me? No need for that. I'll show you that＿I'm just fine!!」"
+msgstr "Kitamura「¿Y esa cara? ¿Preocupada por mí?＿No hace falta. ¡¡Les demostraré＿que estoy de maravilla!!」"
+
+msgid "Ryuuji「Wait, don't start stripping!」"
+msgstr "Ryuuji「¡Espera, no te empieces a desvestir!」"
+
+msgid "Ryuuji「K-Kitamura?」"
+msgstr "Ryuuji「¿K-Kitamura?」"
+
+msgid "Kitamura「Ah ha ha ha ha...... AAH HA HA HA＿HA......」"
+msgstr "Kitamura「Ah, ja, ja, ja, ja...... ¡AAH,＿JA, JA, JA, JA......!」"
+
+msgid "Ryuuji「Wasn't he walking Kawashima＿home......?」"
+msgstr "Ryuuji「¿No estaba acompañando a Kawashima＿a su casa......?」"
+
+msgid "Taiga「STUPID! Stupid Ryuuji! Why would you＿go and tell Kitamura-kun about that＿woman!?」"
+msgstr "Taiga「¡ESTÚPIDO! ¡Estúpido Ryuuji!＿¡¿Para qué le cuentas a Kitamura-kun＿sobre esa mujer?!」"
+
+msgid "Ryuuji「*Gasp* That reminds me! The younger＿sister was told to keep her mouth shut＿about it......!」"
+msgstr "Ryuuji「¡Ah! ¡Ahora recuerdo! ¡A la hermana＿menor le dijeron que mantuviera la＿boca cerrada sobre eso......!」"
+
+msgid "Taiga「Then you've been promoted to moron,＿idiot!! Stupid trash, stupid trash trash＿TRASH TRASH TRASH!!」"
+msgstr "Taiga「¡¡Entonces ascendiste a imbécil,＿idiota!! ¡¡Basura tonta, basura＿tonta BASURA BASURA BASURA!!」"
+
+msgid "Ryuuji「Owwww, THAT HURTS! Hold on a＿second! Kitamura is more important＿here!」"
+msgstr "Ryuuji「¡Auuu, ESO DUELE! ¡Espera un segundo!＿¡Kitamura es más importante ahora!」"
+
+msgid "Ryuuji「What's going on with him? Obviously＿something was wrong with him, right?」"
+msgstr "Ryuuji「¿Qué le pasa? Es obvio que algo＿anda mal con él, ¿verdad?」"
+
+msgid "Ami「......Yuusaku was rejected by that＿former student council president.」"
+msgstr "Ami「......Esa expresidenta del consejo＿estudiantil rechazó a Yuusaku.」"
+
+msgid "Ryuuji「What did you say!?」"
+msgstr "Ryuuji「¡¿Qué dijiste?!」"
+
+msgid "Taiga「Wait, StuChi!!」"
+msgstr "Taiga「¡¡Espera, StuChi!!」"
+
+msgid "Ami「We shouldn't hide it, right? It's the＿truth, after all.」"
+msgstr "Ami「No deberíamos ocultarlo, ¿no? Es＿la verdad, después de todo.」"
+
+msgid "Taiga「But it's not your place to tell people＿about it!」"
+msgstr "Taiga「¡Pero no te corresponde andar＿contándoselo a la gente!」"
+
+msgid "Ami「Same goes for everyone. But it was a＿flat-out rejection in front of all of us.＿Someone's bound to talk about it.」"
+msgstr "Ami「Lo mismo aplica a todos. Pero fue un＿rechazo rotundo frente a nosotros.＿Alguien iba a hablar de eso.」"
+
+msgid "Taiga「......She's the worst!」"
+msgstr "Taiga「......¡Es lo peor!」"
+
+msgid "Ryuuji「H-Hey!」"
+msgstr "Ryuuji「¡O-Oigan!」"
+
+msgid "Ami「Have you considered leaving her＿alone? If she really wanted it kept＿quiet, she'd shut me up by force.」"
+msgstr "Ami「¿Pensaste en dejarla en paz? Si de＿verdad quisiera mantenerlo en secreto,＿me callaría a la fuerza.」"
+
+msgid "Ami「Maybe she's tricking me into saying＿what she can't? How awful ① Well,＿Ami-chan's nice enough to tell you.」"
+msgstr "Ami「¿Me engaña para que diga lo que ella＿no puede? Qué mala ① Ami-chan es＿tan amable que te lo dirá.」"
+
+msgid "Ryuuji「Is it true that Kitamura was rejected?」"
+msgstr "Ryuuji「¿Es verdad que rechazaron a Kitamura?」"
+
+msgid "Ami「Yup. At the student council election,＿he confessed in front of the whole＿school and was honorably shot down.」"
+msgstr "Ami「Sip. En la elección del consejo＿estudiantil, se declaró ante toda la＿escuela y fue rechazado con honor.」"
+
+msgid "Ryuuji「Th-That's......」"
+msgstr "Ryuuji「E-Eso es......」"
+
+msgid "Ami「Yup, SUPER crushing. And then there＿was that piece of shit, Tiger.」"
+msgstr "Ami「Sip, SÚPER demoledor. Y luego＿estaba esa basura de Tigre.」"
+
+msgid "Ryuuji「W-What about Taiga?」"
+msgstr "Ryuuji「¿Q-Qué hay con Taiga?」"
+
+msgid "Ami「............」"
+msgstr "Ami「............」"
+
+msgid "Ryuuji「What did Taiga do?」"
+msgstr "Ryuuji「¿Qué hizo Taiga?」"
+
+msgid "Ami「Ahaha ① You're funnyyy.」"
+msgstr "Ami「Ajaja ① Qué graciosooo eres.」"
+
+msgid "Ryuuji「......Huh?」"
+msgstr "Ryuuji「......¿Eh?」"
+
+msgid "Ryuuji「Isn't it obvious that I don't? Please tell＿me about this \"turn of events\".」"
+msgstr "Ryuuji「¿No es obvio que no? Por favor, háblame＿de ese \"giro de los hechos\".」"
+
+msgid "Ami「No. Way. ① Say, what's it feel like to＿have amnesia?」"
+msgstr "Ami「Ni. Hablar. ① Oye, ¿qué se＿siente tener amnesia?」"
+
+msgid "Ryuuji「With that attitude of yours, and this＿brain of mine, it's PISSING ME OFF!」"
+msgstr "Ryuuji「¡Con esa actitud tuya y este cerebro＿mío, todo ME ESTÁ SACANDO DE QUICIO!」"
+
+msgid "Ami「Hmmm...... In a way, not knowing is＿practically a crime.」"
+msgstr "Ami「Mmmm...... En cierto modo, no saber＿es prácticamente un crimen.」"
+
+msgid "Ami「......I see, so this is what it means to not＿remember anything.」"
+msgstr "Ami「......Ya veo, así que esto es lo＿que significa no recordar nada.」"
+
+msgid "Ryuuji「Kawashima?」"
+msgstr "Ryuuji「¿Kawashima?」"
+
+msgid "Ami「Ufu①」"
+msgstr "Ami「Juju①」"
+
+msgid "Ryuuji「No, not \"Ufu①\"! If you're not going to＿talk, I'm leaving.」"
+msgstr "Ryuuji「¡No, nada de \"Juju①\"! Si no＿vas a hablar, me voy.」"
+
+msgid "Ami「Okay, bye-byeee.」"
+msgstr "Ami「Está bien, adiooos.」"
+
+msgid "Ryuuji「That was quick.」"
+msgstr "Ryuuji「Qué rápido.」"
+
+msgid "Ami「Ufu①」"
+msgstr "Ami「Juju①」"
+
+msgid "Ryuuji「（Honestly, what is she thinking......?）」"
+msgstr "Ryuuji「（En serio, ¿qué estará pensando......?）」"
+
+msgid "Ryuuji「Wait up, Taiga!」"
+msgstr "Ryuuji「¡Espera, Taiga!」"
+
+msgid "Taiga「......Did StuChi tell you?」"
+msgstr "Taiga「......¿StuChi te lo contó?」"
+
+msgid "Ryuuji「About Kitamura? ......I'm not entirely＿sure if she did or not.」"
+msgstr "Ryuuji「¿Sobre Kitamura? ......No estoy del＿todo seguro de si lo hizo o no.」"
+
+msgid "Taiga「What does THAT mean?」"
+msgstr "Taiga「¿Qué significa ESO?」"
+
+msgid "Ryuuji「She said nothing more than that＿Kitamura was rejected by the former＿student council president.」"
+msgstr "Ryuuji「Solo dijo que Kitamura fue rechazado＿por la expresidenta del consejo＿estudiantil.」"
+
+msgid "Ryuuji「It's hard to answer...... It depends on＿how much I liked them, and what they＿thought of me, and stuff.」"
+msgstr "Ryuuji「Es difícil responder...... Depende＿de cuánto me gustara, de lo que pensara＿de mí, y esas cosas.」"
+
+msgid "Taiga「Look at you, talking about it like it's＿not your problem.」"
+msgstr "Taiga「Mírate, hablando del tema como＿si no fuera tu problema.」"
+
+msgid "Ryuuji「I, I said it's hard to answer......」"
+msgstr "Ryuuji「D-Dije que es difícil responder......」"
+
+msgid "Taiga「I'm the idiot for asking you.」"
+msgstr "Taiga「Soy una idiota por preguntarte.」"
+
+msgid "Ryuuji「What's your problem......?」"
+msgstr "Ryuuji「¿Qué te pasa......?」"
+
+msgid "Ryuuji「（What happened...... between the three＿of them?）」"
+msgstr "Ryuuji「（¿Qué habrá pasado......＿entre ellos tres?）」"
+
+msgid "Ryuuji「Don't purposefully make me say banal＿things like \"my house is this way too.\"＿What's got you upset?」"
+msgstr "Ryuuji「No me hagas decir obviedades como \"mi＿casa también queda por aquí\". ¿Qué es＿lo que te tiene tan molesta?」"
+
+msgid "Ryuuji「And you were so rude to our senpai.」"
+msgstr "Ryuuji「Y fuiste grosera con nuestra senpai.」"
+
+msgid "Ryuuji「A lot of stuff happened, and the＿younger daughter kindly offered to＿wash our clothes, but......」"
+msgstr "Ryuuji「Pasaron muchas cosas, y la hija＿menor se ofreció amablemente a lavarnos＿la ropa, pero......」"
+
+msgid "Ryuuji「As soon as SHE caught sight of the＿older sister Sumire-san......」"
+msgstr "Ryuuji「En cuanto ELLA vio a Sumire-san,＿la hermana mayor......」"
+
+msgid "Kitamura「Mm, I see. Even if I get naked, my＿internal organs won't be proven＿healthy. Me, of all people! Goodness!」"
+msgstr "Kitamura「Mm, ya veo. Aunque me desnude, no se＿demostrará que mis órganos estén sanos.＿¡Justo a mí! ¡Qué cosas!」"
+
+msgid "Kitamura「Rude, rude, rude! Ah ha ha ha!」"
+msgstr "Kitamura「¡Grosero, grosero, grosero!＿¡Ja ja ja ja!」"
+
+msgid "Kitamura「In other words, Aisaka, I don't care in＿the least! As you can see, my body and＿mind are perfectly normal!」"
+msgstr "Kitamura「En otras palabras, Aisaka, ¡no me＿importa nada! Como ves, ¡mi cuerpo＿y mi mente son del todo normales!」"
+
+msgid "Kitamura「With this, I shall take my leave. Peace＿out!」"
+msgstr "Kitamura「Con esto, paso a retirarme. ¡Nos vemos!」"
+
+msgid "Ami「Takasu-kun, after listening to the＿story so far, you REALLY don't＿remember ANYTHING about it?」"
+msgstr "Ami「Takasu-kun, tras escuchar la historia＿hasta aquí, ¿DE VERDAD no recuerdas＿NADA al respecto?」"
+
+msgid "Ami「Even though the turn of events was so＿dramatic?」"
+msgstr "Ami「¿Aunque el giro de los hechos＿fue tan dramático?」"
+
+msgid "Taiga「I see...... Hey Ryuuji, if you got rejected＿by your crush, became separated from＿them......」"
+msgstr "Taiga「Ya veo...... Oye, Ryuuji, si quien te＿gusta te rechazara, se separaran......」"
+
+msgid "Taiga「And then after sorting out your＿feelings in your own way, your crush＿comes back-- what would you do?」"
+msgstr "Taiga「Y tras ordenar tus sentimientos＿a tu manera, esa persona regresa--＿¿tú qué harías?」"
+
+msgid "Ryuuji「（What's with Taiga......? It's not just＿about Kitamura. Ever since we ran into＿Kanou Sumire......）」"
+msgstr "Ryuuji「（¿Qué le pasa a Taiga......? No es＿solo por Kitamura. Desde que nos topamos＿con Kanou Sumire......）」"
+
+msgid "Ryuuji「（Hasn't something obviously been＿wrong with her since then?）」"
+msgstr "Ryuuji「（¿No es obvio que le pasa algo＿raro desde entonces?）」"

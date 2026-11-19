@@ -1,0 +1,278 @@
+msgid ""
+msgstr ""
+
+msgid "Talk to her"
+msgstr "Hablar con ella"
+
+msgid "Leave her be"
+msgstr "Dejarla en paz"
+
+msgid "Attempt to talk to her"
+msgstr "Intentar hablar con ella"
+
+msgid "Ryuuji「Yo, Taiga. Whatcha buying?」"
+msgstr "Ryuuji「Hola, Taiga. ¿Qué compras?」"
+
+msgid "Taiga「Oh...... Nothing much. Leave me alone.」"
+msgstr "Taiga「Ah...... Nada en especial.＿Déjame en paz.」"
+
+msgid "Ryuuji「How could I? What, don't you know how＿to buy these?」"
+msgstr "Ryuuji「¿Cómo podría? ¿Qué, acaso no＿sabes cómo comprar esto?」"
+
+msgid "Taiga「Shut up! This is none of your business!」"
+msgstr "Taiga「¡Cállate! ¡Esto no es asunto tuyo!」"
+
+msgid "Taiga「I'm NOT troubled! You know, I didn't＿ask for your help, and it's annoying. Go＿away!」"
+msgstr "Taiga「¡NO tengo problemas! No te pedí ayuda＿y solo molestas. ¡Lárgate!」"
+
+msgid "Ryuuji「Oh, is that how it is!? Fine!」"
+msgstr "Ryuuji「¡Ah, así que es eso! ¡Está bien!」"
+
+msgid "Ryuuji「（Jeez, what's her problem......? I don't＿care anymore. I'll finish up my＿shopping and go home.）」"
+msgstr "Ryuuji「（Caray, ¿qué le pasa......? Ya＿no me importa. Terminaré mis compras＿y me iré a casa.）」"
+
+msgid "Ryuuji「（......Well, she'll be fine on her own. I＿gotta hurry and finish my shopping.）」"
+msgstr "Ryuuji「（......Bueno, estará bien por＿su cuenta. Debo apurarme y terminar＿mis compras.）」"
+
+msgid "Ryuuji「Thanks.」"
+msgstr "Ryuuji「Gracias.」"
+
+msgid "Ryuuji「Now then...... Hm?」"
+msgstr "Ryuuji「Ahora bien...... ¿Mm?」"
+
+msgid "Ryuuji「（What the? She hasn't moved an inch.＿Don't tell me she doesn't know how to＿buy them?）」"
+msgstr "Ryuuji「（¿Pero qué? No se ha movido ni＿un centímetro. ¿No me digas que＿no sabe cómo comprarlos?）」"
+
+msgid "Ryuuji「（......Nnn, I can't. Taiga said she wants to＿be independent. Ignore it, ignore it!＿Argh, but......! Hm?）」"
+msgstr "Ryuuji「（......Mmm, no puedo. Taiga dijo que＿quiere ser independiente. ¡Ignóralo,＿ignóralo! ¡Argh, pero......! ¿Mm?）」"
+
+msgid "Old Woman「What's the matter? You've been like＿that for quite some time. Not sure how＿to buy them?」"
+msgstr "Anciana「¿Qué ocurre? Llevas un buen rato＿así. ¿No sabes cómo comprarlos?」"
+
+msgid "Taiga「Uhh...... No...... I'm not.」"
+msgstr "Taiga「Eh...... No...... No es eso.」"
+
+msgid "Old Woman「Oh dear, on an errand? How＿responsible. Well then, first, take these＿tongs.」"
+msgstr "Anciana「Vaya, ¿haciendo un mandado?＿Qué responsable. Bueno, primero＿toma estas pinzas.」"
+
+msgid "Taiga「O-Okay......」"
+msgstr "Taiga「E-Está bien......」"
+
+msgid "Ryuuji「（This is too stressful for me...... Jeez, I＿can't stand it. For a lot of reasons.）」"
+msgstr "Ryuuji「（Esto es demasiado estresante＿para mí...... Caray, no lo soporto.＿Por muchas razones.）」"
+
+msgid "Ryuuji「（It's hard to believe......）」"
+msgstr "Ryuuji「（Cuesta creerlo......）」"
+
+msgid "Ryuuji「Yo, Taiga.」"
+msgstr "Ryuuji「Hola, Taiga.」"
+
+msgid "Taiga「......Oh, Ryuuji.」"
+msgstr "Taiga「......Ah, Ryuuji.」"
+
+msgid "Ryuuji「Don't tell me you still don't know how＿to buy these.」"
+msgstr "Ryuuji「No me digas que todavía no＿sabes cómo comprar esto.」"
+
+msgid "Taiga「Uh, o-o-of course I do! Don't you look＿down on me!」"
+msgstr "Taiga「¡Eh, c-c-claro que sí sé!＿¡No me subestimes!」"
+
+msgid "Ryuuji「You're right. You've matured a lot. I'm＿gonna leave.」"
+msgstr "Ryuuji「Tienes razón. Has madurado＿mucho. Me voy yendo.」"
+
+msgid "Taiga「Huh?」"
+msgstr "Taiga「¿Eh?」"
+
+msgid "Ryuuji「I'll wait outside, so let's go home＿together.」"
+msgstr "Ryuuji「Te espero afuera, así nos＿vamos juntos a casa.」"
+
+msgid "Taiga「Oh...... O-Okay......」"
+msgstr "Taiga「Ah...... E-Está bien......」"
+
+msgid "Ryuuji「（Out of nowhere, I'll be damned, she's＿really maturing......）」"
+msgstr "Ryuuji「（De la nada, quién lo diría, de＿verdad está madurando......）」"
+
+msgid "Ryuuji「Yo, Taiga.」"
+msgstr "Ryuuji「Hola, Taiga.」"
+
+msgid "Taiga「Oh, Ryuuji......」"
+msgstr "Taiga「Ah, Ryuuji......」"
+
+msgid "Ryuuji「What? Upset about something?」"
+msgstr "Ryuuji「¿Qué pasa? ¿Molesta por algo?」"
+
+msgid "Taiga「......Thanks for waiting.」"
+msgstr "Taiga「......Gracias por esperar.」"
+
+msgid "Ryuuji「No problem. Hey, are you upset about＿something?」"
+msgstr "Ryuuji「No hay problema. Oye, ¿estás＿molesta por algo?」"
+
+msgid "Taiga「Not really...... It's nothing. I'm just＿peachy.」"
+msgstr "Taiga「En realidad no...... No es＿nada. Estoy de maravilla.」"
+
+msgid "Ryuuji「That's good, but you bought quite a lot＿there. Gonna hibernate for the winter?」"
+msgstr "Ryuuji「Qué bien, pero compraste bastante.＿¿Piensas hibernar todo el invierno?」"
+
+msgid "Taiga「Not in the least. Minorin's coming over＿later today, and we're going to have＿dinner together.」"
+msgstr "Taiga「Para nada. Minorin vendrá más tarde＿hoy, y vamos a cenar juntas.」"
+
+msgid "Taiga「And then, for some unfathomable＿reason, StuChi said she'd come over,＿so I bought a little too much, that's all.」"
+msgstr "Taiga「Y luego, por alguna razón＿incomprensible, StuChi dijo que vendría,＿así que compré un poco de más, es todo.」"
+
+msgid "Ryuuji「It's unusual to see you asking for help.＿What led to that?」"
+msgstr "Ryuuji「Es raro verte pidiendo ayuda.＿¿A qué se debió eso?」"
+
+msgid "Taiga「Didn't I tell you to let me be at fault? If＿I show her I can handle myself, I think＿Minorin will change her mind.」"
+msgstr "Taiga「¿No te dije que me dejaras ser la＿culpable? Si le muestro que puedo sola,＿creo que Minorin cambiará de opinión.」"
+
+msgid "Taiga「So, Ryuuji, this is no time to shy away.」"
+msgstr "Taiga「Así que, Ryuuji, no es momento＿de echarse atrás.」"
+
+msgid "Taiga「I've come this far, so as soon as I snag＿you another chance, you better find＿out Minorin's true intentions.」"
+msgstr "Taiga「Ya llegué hasta aquí, así que en cuanto＿te consiga otra oportunidad, más te vale＿averiguar qué quiere Minorin de verdad.」"
+
+msgid "Ryuuji「......」"
+msgstr "Ryuuji「......」"
+
+msgid "Taiga「Got it? Say something!」"
+msgstr "Taiga「¿Entendido? ¡Di algo!」"
+
+msgid "Ryuuji「Hey Taiga, about that...... Uh, wait, I feel＿like I'm overlooking something＿important...... but what?」"
+msgstr "Ryuuji「Oye, Taiga, sobre eso...... Eh, espera,＿siento que paso por alto algo＿importante...... pero ¿qué será?」"
+
+msgid "Taiga「What is it?」"
+msgstr "Taiga「¿Qué pasa?」"
+
+msgid "Ryuuji「......Oh, I know. Is your house fit to have＿guests?」"
+msgstr "Ryuuji「......Ah, ya sé. ¿Tu casa está en＿condiciones para recibir visitas?」"
+
+msgid "Taiga「There's no way I would forget＿something like that. Of course I＿cleaned up.」"
+msgstr "Taiga「De ninguna manera olvidaría algo＿así. Por supuesto que limpié.」"
+
+msgid "Ryuuji「Did it take you like a whole day?」"
+msgstr "Ryuuji「¿Te tomó como todo un día?」"
+
+msgid "Taiga「A little less than that. I even had＿enough time to spare to finish writing＿those unsent letters.」"
+msgstr "Taiga「Un poco menos. Hasta me sobró＿tiempo para terminar de escribir＿esas cartas sin enviar.」"
+
+msgid "Ryuuji「Unsent letters?」"
+msgstr "Ryuuji「¿Cartas sin enviar?」"
+
+msgid "Taiga「......Did you just mentally sneer at how＿old-fashioned I am?」"
+msgstr "Taiga「......¿Acabas de burlarte mentalmente＿de lo anticuada que soy?」"
+
+msgid "Ryuuji「No, I didn't! That's not it. I was stuck on＿the \"unsent\" part. Why would you write＿letters without sending them?」"
+msgstr "Ryuuji「¡No, claro que no! Me quedé pensando＿en lo de \"sin enviar\". ¿Por qué＿escribirías cartas sin enviarlas?」"
+
+msgid "Ryuuji「Don't tell me -- did you address them＿to yourself?」"
+msgstr "Ryuuji「No me digas -- ¿las dirigiste＿a ti misma?」"
+
+msgid "Taiga「......Hold it right there. I'm not that emo.＿They're properly addressed to Minorin,＿Kitamura-kun, and even StuChi!」"
+msgstr "Taiga「......Alto ahí. Tampoco soy tan emo.＿Están bien dirigidas a Minorin, a＿Kitamura-kun ¡y hasta a StuChi!」"
+
+msgid "Ryuuji「But you're not sending them, right?」"
+msgstr "Ryuuji「Pero no las vas a enviar, ¿cierto?」"
+
+msgid "Taiga「Yeah, they're like little soliloquies......＿Oh, that IS emo.」"
+msgstr "Taiga「Sí, son como pequeños soliloquios......＿Ay, eso SÍ es emo.」"
+
+msgid "Ryuuji「So you admit it. You're hopeless.＿Besides, couldn't you just keep a＿diary?」"
+msgstr "Ryuuji「Así que lo admites. No tienes remedio.＿Además, ¿no podrías llevar un diario?」"
+
+msgid "Taiga「I've never made a habit of writing in＿one...... Sheesh, you're annoying. Drop＿it. How are you holding up?」"
+msgstr "Taiga「Nunca tuve la costumbre de escribir＿en uno...... Caray, qué molesto eres.＿Déjalo. ¿Cómo has estado tú?」"
+
+msgid "Ryuuji「And I don't really feel as impatient＿about remembering things anymore.」"
+msgstr "Ryuuji「Y ya no me siento tan impaciente＿por recordar las cosas.」"
+
+msgid "Taiga「I see...... That's good.」"
+msgstr "Taiga「Ya veo...... Qué bueno.」"
+
+msgid "Ryuuji「I really owe it all to you. Thanks.」"
+msgstr "Ryuuji「En verdad te lo debo todo a ti. Gracias.」"
+
+msgid "Taiga「Oh, nonsense. More importantly, how＿long are we going to keep standing＿here talking?」"
+msgstr "Taiga「Ay, tonterías. Más importante, ¿cuánto＿tiempo más nos vamos a quedar parados＿aquí hablando?」"
+
+msgid "Ryuuji「Good point. Let's go home.」"
+msgstr "Ryuuji「Buen punto. Vámonos a casa.」"
+
+msgid "Taiga「Yeah...... Oh crap. Sorry, but you should＿go on ahead without me.」"
+msgstr "Taiga「Sí...... Ay, rayos. Perdón, pero＿mejor adelántate sin mí.」"
+
+msgid "Ryuuji「What's the matter?」"
+msgstr "Ryuuji「¿Qué ocurre?」"
+
+msgid "Taiga「I still have some other shopping to do.＿Bye.」"
+msgstr "Taiga「Todavía tengo otras compras＿que hacer. Adiós.」"
+
+msgid "Ryuuji「Okay.」"
+msgstr "Ryuuji「Está bien.」"
+
+msgid "Ryuuji「（Wow, she really seems to be handling＿herself just fine......）」"
+msgstr "Ryuuji「（Vaya, de verdad parece que se las＿arregla muy bien sola......）」"
+
+msgid "Ryuuji「（......）」"
+msgstr "Ryuuji「（......）」"
+
+msgid "Ryuuji「（No, I'm not lonely or anything!＿Absolutely not!）」"
+msgstr "Ryuuji「（¡No, no me siento solo＿ni nada! ¡Para nada!）」"
+
+msgid "Ryuuji「（Oh, the high-grade Chinese cabbage is＿pretty cheap. I'm cooking for a bunch＿of guys, so I'll buy a little too much,）」"
+msgstr "Ryuuji「（Ah, la col china de buena calidad está＿barata. Cocinaré para varios chicos, así＿que compraré un poco de más,）」"
+
+msgid "Ryuuji「（then pickle the leftovers...... Hm?）」"
+msgstr "Ryuuji「（y luego encurtiré las＿sobras...... ¿Mm?）」"
+
+msgid "Ryuuji「（It's Taiga. What's got her flustered＿about side dishes? They're sold by＿weight, so just grab however much you）」"
+msgstr "Ryuuji「（Es Taiga. ¿Por qué está tan nerviosa＿con la comida preparada? Se vende por＿peso, solo agarra lo que）」"
+
+msgid "Ryuuji「（want......）」"
+msgstr "Ryuuji「（quieras......）」"
+
+msgid "Ryuuji「Excuse you. You seemed kinda＿troubled, so someone kindly reached＿out to you, and this is how you treat」"
+msgstr "Ryuuji「¡Oye, más respeto! Parecías en apuros,＿así que alguien te tendió la mano con＿amabilidad, ¿y así es como lo」"
+
+msgid "Ryuuji「them?」"
+msgstr "Ryuuji「tratas?」"
+
+msgid "Employee「......Here's your change: 1000 yen in＿bills and 134 yen in coins. Thank you＿very much～ We hope to see you」"
+msgstr "Empleado「......Aquí tiene su cambio: 1000 yenes＿en billetes y 134 yenes en monedas.＿Muchas gracias～ Esperamos verla」"
+
+msgid "Employee「again～」"
+msgstr "Empleado「de nuevo～」"
+
+msgid "Ryuuji「（Seems she'll be fine...... But she＿probably comes off as a＿grade-schooler. Is that okay? Well,）」"
+msgstr "Ryuuji「（Parece que estará bien...... Pero＿seguro parece una niña de primaria.＿¿Estará bien así? Bueno,）」"
+
+msgid "Ryuuji「（more importantly......）」"
+msgstr "Ryuuji「（lo que importa ahora......）」"
+
+msgid "Ryuuji「（Come to think of it, she had Kitamura＿help her with shopping...... Oh yeah, I＿seem to recall a while back he said she）」"
+msgstr "Ryuuji「（Ahora que lo pienso, le pidió a＿Kitamura ayuda con las compras...... Ah,＿sí, recuerdo que hace poco dijo que）」"
+
+msgid "Ryuuji「（doesn't even know how to buy＿packaged food.）」"
+msgstr "Ryuuji「（ni siquiera sabe cómo comprar＿comida empaquetada.）」"
+
+msgid "Ryuuji「（At first, she wasn't the type to ask for＿help buying things...... It seems she's＿started to show her weaknesses, to）」"
+msgstr "Ryuuji「（Al principio, no era de las que piden＿ayuda para comprar...... Parece que ya＿empieza a mostrar sus debilidades, al）」"
+
+msgid "Ryuuji「（Kitamura at least.）」"
+msgstr "Ryuuji「（menos ante Kitamura.）」"
+
+msgid "Taiga「This should be enough to cover any＿situation. Well, I didn't know how to＿gauge how much I'd really need, so I」"
+msgstr "Taiga「Con esto bastará para cualquier caso.＿Bueno, no sabía calcular cuánto iba a＿necesitar en realidad, así que」"
+
+msgid "Taiga「bought a little too much, that's all.」"
+msgstr "Taiga「compré un poco de más, eso es todo.」"
+
+msgid "Taiga「Someone with simple, basic circuitry＿like you wouldn't understand. Complex＿and delicate as I am, I need to make」"
+msgstr "Taiga「Alguien con circuitos simples y básicos＿como tú no lo entendería. Compleja y＿delicada como soy, necesito hacer」"
+
+msgid "Taiga「something to synchronize my heart＿with my mind.」"
+msgstr "Taiga「algo para sincronizar mi＿corazón con mi mente.」"
+
+msgid "Ryuuji「Oh, there are still some holes here and＿there, but it's like, I feel like the past is＿all coming back in sequence, so I'll」"
+msgstr "Ryuuji「Ah, todavía quedan algunos huecos por＿aquí y por allá, pero siento que todo＿el pasado vuelve en orden, así que」"
+
+msgid "Ryuuji「probably be okay.」"
+msgstr "Ryuuji「seguro estaré bien.」"

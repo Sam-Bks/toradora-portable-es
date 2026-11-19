@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+
+msgid "Minori「That's enough, Takasu-kun.」"
+msgstr "Minori「Ya es suficiente, Takasu-kun.」"
+
+msgid "Ryuuji「What's enough?」"
+msgstr "Ryuuji「¿Suficiente de qué?」"
+
+msgid "Minori「I understand what you're trying to say.＿And I fully understand that you're＿speaking out of concern for Taiga.」"
+msgstr "Minori「Entiendo lo que intentas decir. Y＿comprendo del todo que lo dices porque＿te preocupas por Taiga.」"
+
+msgid "Ryuuji「Does that mean you've come around?」"
+msgstr "Ryuuji「¿Eso significa que cambiaste de idea?」"
+
+msgid "Ryuuji「In that case, well, let's leave it at that＿for...... Ugh, I just can't.」"
+msgstr "Ryuuji「En ese caso, bueno, dejémoslo así＿por...... Agh, simplemente no puedo.」"
+
+msgid "Minori「Can't what?」"
+msgstr "Minori「¿No puedes qué?」"
+
+msgid "Minori「............」"
+msgstr "Minori「............」"
+
+msgid "Ryuuji「I won't ask you to rethink your answer.＿Go ahead and shoot me down.」"
+msgstr "Ryuuji「No te pediré que cambies tu respuesta.＿Adelante, recházame.」"
+
+msgid "Minori「......Alright. But first, Takasu-kun, I have＿a favor to ask.」"
+msgstr "Minori「......Está bien. Pero antes, Takasu-kun,＿tengo un favor que pedirte.」"
+
+msgid "Ryuuji「......What is it?」"
+msgstr "Ryuuji「......¿Qué es?」"
+
+msgid "Minori「Takasu-kun, on Christmas Eve, before＿you met with me, you were probably＿with Taiga. Do you remember that?」"
+msgstr "Minori「Takasu-kun, en Nochebuena, antes＿de verte conmigo, seguro estuviste＿con Taiga. ¿Recuerdas eso?」"
+
+msgid "Ryuuji「......No.」"
+msgstr "Ryuuji「......No.」"
+
+msgid "Minori「I see...... Listen, Takasu-kun. Taiga＿really regrets what happened.」"
+msgstr "Minori「Ya veo...... Escucha, Takasu-kun. Taiga＿se arrepiente mucho de lo que pasó.」"
+
+msgid "Ryuuji「Regrets it?」"
+msgstr "Ryuuji「¿Se arrepiente?」"
+
+msgid "Minori「Yeah. I don't know what happened. All I＿know is, it made Taiga a sobbing＿wreck. So......」"
+msgstr "Minori「Sí. No sé qué pasó. Solo sé que＿dejó a Taiga hecha un mar de＿lágrimas. Así que......」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Minori「After that, I'll listen to you.」"
+msgstr "Minori「Después de eso, te escucharé.」"
+
+msgid "Minori「......That's all, folks! Kushieda's going＿home. Ta-ta.」"
+msgstr "Minori「......¡Eso es todo, amigos! Kushieda＿se va a casa. ¡Nos vemos!」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Minori「That's a different story. But I can at＿least understand. That much I'm＿capable of. I'm not sure if I'll change」"
+msgstr "Minori「Eso ya es otra historia. Pero al menos＿puedo entenderlo. De eso sí soy capaz.＿Aunque no estoy segura de cambiar」"
+
+msgid "Minori「my mind, though.」"
+msgstr "Minori「de opinión.」"
+
+msgid "Ryuuji「......If only for appearances, would you＿please let me tell you what I wanted to＿say back then? If I don't, I won't be」"
+msgstr "Ryuuji「......Aunque sea por las apariencias,＿¿me dejas decirte lo que quería decir＿entonces? Si no, no podré mostrarle la」"
+
+msgid "Ryuuji「able to show my face to Taiga.」"
+msgstr "Ryuuji「cara a Taiga.」"
+
+msgid "Minori「Please, Takasu-kun. Do whatever you＿can to remember what happened.＿Then I want you to think about why」"
+msgstr "Minori「Por favor, Takasu-kun. Haz lo que＿puedas por recordar qué pasó. Luego＿quiero que pienses por qué」"
+
+msgid "Minori「Taiga's talking about self-reliance.」"
+msgstr "Minori「Taiga habla de valerse por sí misma.」"

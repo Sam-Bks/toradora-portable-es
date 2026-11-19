@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「（I know! That's it!）」"
+msgstr "Ryuuji「（¡Ya sé! ¡Eso es!）」"
+
+msgid "Ryuuji「（That's what I want to ask＿Kawashima......）」"
+msgstr "Ryuuji「（Eso es lo que quiero pedirle＿a Kawashima......）」"
+
+msgid "Ryuuji「Kawashima, I have a favor to ask.」"
+msgstr "Ryuuji「Kawashima, tengo un favor que pedirte.」"
+
+msgid "Ami「What is it?」"
+msgstr "Ami「¿Qué pasa?」"
+
+msgid "Ryuuji「I want to remember everything about＿you.」"
+msgstr "Ryuuji「Quiero recordar todo sobre ti.」"
+
+msgid "Ryuuji「We've spent time together just the two＿of us, right? Tell me about it before＿you go. Please.」"
+msgstr "Ryuuji「Pasamos tiempo juntos a solas,＿¿verdad? Cuéntame sobre eso antes＿de irte. Por favor.」"
+
+msgid "Ami「......Are you serious?」"
+msgstr "Ami「......¿Hablas en serio?」"
+
+msgid "Ryuuji「Yeah.」"
+msgstr "Ryuuji「Sí.」"
+
+msgid "Ami「I see......」"
+msgstr "Ami「Ya veo......」"
+
+msgid "Ami「Let's see. The first time we met was＿during Golden Week of last year.」"
+msgstr "Ami「Veamos. La primera vez que nos＿vimos fue durante la Semana＿Dorada del año pasado.」"
+
+msgid "Ami「We met through a mutual friend.」"
+msgstr "Ami「Nos conocimos por un amigo en común.」"
+
+msgid "\"Oh jeez～ I'm so embarrassed you＿ruined his first impression of me with＿that～\""
+msgstr "\"Ay, por Dios～ Qué vergüenza que＿arruinaras su primera impresión de mí＿con eso～\""
+
+msgid "\"Hmmm? Airheaded?\""
+msgstr "\"¿Mmmm? ¿Despistada?\""
+
+msgid "\"Yeah. Ami, this is my best friend,＿Takasu Ryuuji. He looks scary, but he's＿a big softy.\""
+msgstr "\"Sí. Ami, él es mi mejor amigo,＿Takasu Ryuuji. Parece dar miedo, pero＿es un buenazo.\""
+
+msgid "\"I don't mind if you're scared. I'm used＿to it.\""
+msgstr "\"No me importa si te asustas. Estoy＿acostumbrado.\""
+
+msgid "\"Huh? Oh, nice to meet you,＿Ryuuji-kun!\""
+msgstr "\"¿Eh? ¡Ah, mucho gusto,＿Ryuuji-kun!\""
+
+msgid "\"......Same.\""
+msgstr "\"......Igualmente.\""
+
+msgid "Ami「That was how we met. Fairly typical for＿a beautiful airhead and a scary-looking＿boy.」"
+msgstr "Ami「Así fue como nos conocimos. Bastante＿típico de una hermosa despistada y＿un chico de aspecto temible.」"
+
+msgid "Ryuuji「I, I see......」"
+msgstr "Ryuuji「Y-Ya veo......」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Ami「Summer break was when their＿relationship changed.」"
+msgstr "Ami「Las vacaciones de verano fueron＿cuando su relación cambió.」"
+
+msgid "\"Ami, you don't have to act so tough.\""
+msgstr "\"Ami, no tienes que hacerte la fuerte.\""
+
+msgid "\"Huh? What are you talking about?\""
+msgstr "\"¿Eh? ¿De qué estás hablando?\""
+
+msgid "\"It's painful to watch you force a smile＿onto your face like that.\""
+msgstr "\"Duele verte forzar así una sonrisa.\""
+
+msgid "\"I can stay by your side. Side by side,＿we can face anything together.\""
+msgstr "\"Puedo quedarme a tu lado. Lado a lado,＿podemos enfrentar lo que sea juntos.\""
+
+msgid "\"Can't you just be yourself around me?\""
+msgstr "\"¿No puedes simplemente ser tú misma＿conmigo?\""
+
+msgid "\"Ryuuji-kun......\""
+msgstr "\"Ryuuji-kun......\""
+
+msgid "Ami「And then the scary-looking boy saw＿through it. No one had ever seen＿through her before.」"
+msgstr "Ami「Y entonces el chico de aspecto temible＿la desenmascaró. Nadie había visto＿antes cómo era en realidad.」"
+
+msgid "Ami「Realizing her true feelings, the girl＿began to avoid him.」"
+msgstr "Ami「Al darse cuenta de sus＿verdaderos sentimientos,＿la chica empezó a evitarlo.」"
+
+msgid "Ryuuji「Why?」"
+msgstr "Ryuuji「¿Por qué?」"
+
+msgid "Ami「Who knows? ......Because she knew she＿was an outsider, perhaps.」"
+msgstr "Ami「¿Quién sabe? ......Porque sabía＿que era una extraña, quizá.」"
+
+msgid "Ryuuji「......An outsider?」"
+msgstr "Ryuuji「......¿Una extraña?」"
+
+msgid "Ami「Still, at the Culture Festival and the＿Christmas party, they gradually＿became closer and closer.」"
+msgstr "Ami「Aun así, en el Festival Cultural y＿la fiesta de Navidad, poco a poco se＿volvieron más y más cercanos.」"
+
+msgid "Ami「Then, on Christmas Eve......」"
+msgstr "Ami「Luego, en Nochebuena......」"
+
+msgid "\"Ami!\""
+msgstr "\"¡Ami!\""
+
+msgid "\"Ryuuji-kun......\""
+msgstr "\"Ryuuji-kun......\""
+
+msgid "\"I want...... to treasure you forever.\""
+msgstr "\"Quiero...... atesorarte para siempre.\""
+
+msgid "\"..................\""
+msgstr "\"..................\""
+
+msgid "\"So please, stay by my side.\""
+msgstr "\"Así que por favor, quédate a mi lado.\""
+
+msgid "\"............Okay!\""
+msgstr "\"............¡Está bien!\""
+
+msgid "Ami「And so they lived happily ever after.」"
+msgstr "Ami「Y así vivieron felices para siempre.」"
+
+msgid "Ami「The End...... I guess that wasn't very＿funny.」"
+msgstr "Ami「Fin...... Supongo que no＿tuvo mucha gracia.」"
+
+msgid "Ryuuji「..................」"
+msgstr "Ryuuji「..................」"
+
+msgid "Ami「Fufu. Now, let's stop reminiscing.」"
+msgstr "Ami「Juju. Bueno, dejemos de recordar.」"
+
+msgid "Ryuuji「You............」"
+msgstr "Ryuuji「Tú............」"
+
+msgid "Ami「What? Have I helped you get a little of＿your memory back?」"
+msgstr "Ami「¿Qué? ¿Te ayudé a recuperar＿un poco de tu memoria?」"
+
+msgid "Ryuuji「（Till the bitter end, you......）」"
+msgstr "Ryuuji「（Hasta el último momento, tú......）」"
+
+msgid "Ryuuji「You lie as much as you frickin'＿breathe......」"
+msgstr "Ryuuji「Mientes tanto como respiras,＿demonios......」"
+
+msgid "Ami「Whaaat～? What are you talking＿about? Ami-chan doesn't get it.」"
+msgstr "Ami「¿Quéee～? ¿De qué estás hablando?＿Ami-chan no entiende.」"
+
+msgid "Ryuuji「......Does that lie contain the \"truth\" you＿want to believe in?」"
+msgstr "Ryuuji「......¿Esa mentira contiene la \"verdad\"＿en la que quieres creer?」"
+
+msgid "Ami「............Who knows? Maybe.」"
+msgstr "Ami「............¿Quién sabe? Tal vez.」"
+
+msgid "Ami「I gotta get going. I'm out of time.」"
+msgstr "Ami「Ya me tengo que ir. Se＿me acabó el tiempo.」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Ami「I know! I'll let you have this DVD. I don't＿feel like keeping it.」"
+msgstr "Ami「¡Ya sé! Te daré este DVD. No＿tengo ganas de quedármelo.」"
+
+msgid "Ryuuji「Are you sure?」"
+msgstr "Ryuuji「¿Estás segura?」"
+
+msgid "Ami「I'm just giving it to you. Don't watch it.」"
+msgstr "Ami「Solo te lo doy. No lo veas.」"
+
+msgid "Ryuuji「What's the point then?」"
+msgstr "Ryuuji「¿Qué sentido tiene entonces?」"
+
+msgid "Ami「Bye, Takasu-kun.」"
+msgstr "Ami「Adiós, Takasu-kun.」"
+
+msgid "Ryuuji「Kawashima! I......」"
+msgstr "Ryuuji「¡Kawashima! Yo......」"
+
+msgid "Ami「......What?」"
+msgstr "Ami「......¿Qué?」"
+
+msgid "Ryuuji「Well...... Take care.」"
+msgstr "Ryuuji「Bueno...... Cuídate.」"
+
+msgid "Ryuuji「......Goodbye.」"
+msgstr "Ryuuji「......Adiós.」"
+
+msgid "Ami「......Goodbye.」"
+msgstr "Ami「......Adiós.」"
+
+msgid "Ryuuji「That said, Kawashima walked away.＿She didn't look back. Not once.」"
+msgstr "Ryuuji「Dicho eso, Kawashima se alejó. No＿miró atrás. Ni una sola vez.」"
+
+msgid "\"Takasu, let me introduce you. This is＿my childhood friend, Kawashima Ami.＿She's airheaded and a little dumb, so\""
+msgstr "\"Takasu, te la presento. Es mi amiga＿de la infancia, Kawashima Ami.＿Es despistada y un poco tonta, así que\""
+
+msgid "please look after her.」"
+msgstr "por favor cuida de ella.」"
+
+msgid "Ami「The reputedly \"scary-looking\" boy was＿actually the nicest guy ever, and he＿handled the beautiful airhead's stalker」"
+msgstr "Ami「El chico de supuesto \"aspecto temible\"＿era en realidad el más amable, y＿resolvió el problema del acosador de」"
+
+msgid "Ami「problem.」"
+msgstr "Ami「la hermosa despistada.」"
+
+msgid "Ami「Behind that smile, the beautiful＿airhead had put up walls between＿herself and the world so she wouldn't」"
+msgstr "Ami「Detrás de esa sonrisa, la hermosa＿despistada había levantado muros entre＿ella y el mundo para no salir」"
+
+msgid "Ami「get hurt.」"
+msgstr "Ami「lastimada.」"
+
+msgid "Ami「But, perhaps unbeknownst to the girl,＿she could be herself around the boy＿because she had learned to forgive」"
+msgstr "Ami「Pero, quizá sin que ella lo supiera,＿podía ser ella misma junto al chico＿porque había aprendido a perdonarse」"
+
+msgid "Ami「herself.」"
+msgstr "Ami「a sí misma.」"

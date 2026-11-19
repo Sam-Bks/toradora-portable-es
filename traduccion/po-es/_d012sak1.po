@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+
+msgid "Sakura「Umm... Are you... really... Kota-kun?」"
+msgstr "Sakura「Ehm... ¿De verdad... eres... Kota-kun?」"
+
+msgid "Kota「Do you believe me?」"
+msgstr "Kota「¿Me crees?」"
+
+msgid "Sakura「...I'm sorry. It's still just so...」"
+msgstr "Sakura「...Lo siento. Es que aún es tan...」"
+
+msgid "Kota「I see......」"
+msgstr "Kota「Ya veo......」"
+
+msgid "Sakura「But......」"
+msgstr "Sakura「Pero......」"
+
+msgid "Kota「......Huh?」"
+msgstr "Kota「......¿Eh?」"
+
+msgid "Sakura「............」"
+msgstr "Sakura「............」"
+
+msgid "Kota「Wh...... What?」"
+msgstr "Kota「¿Qu...... Qué?」"
+
+msgid "Sakura「Wrong face...... wrong voice...... and yet＿you seem just like Kota-kun.＿Strange......」"
+msgstr "Sakura「Otra cara...... otra voz...... y aun así＿pareces Kota-kun. Qué raro......」"
+
+msgid "Kota「I, I see......」"
+msgstr "Kota「Y-Ya veo......」"
+
+msgid "Sakura「I was so sure it was some kind of＿prank...... But, but still, I can't help but＿think it's Kota-kun standing here......」"
+msgstr "Sakura「Estaba segura de que era una broma......＿Pero, pero no puedo evitar pensar＿que eres Kota-kun......」"
+
+msgid "Sakura「......Oh! I, I'm so sorry! That was really＿rude of me!」"
+msgstr "Sakura「......¡Ah! ¡L-Lo siento mucho!＿¡Fui muy grosera!」"
+
+msgid "Kota「\"Rude\"......?」"
+msgstr "Kota「¿\"Grosera\"......?」"
+
+msgid "Sakura「I'm sorry...... Honestly, umm, I'm still not＿completely sure...... I'm sorry.」"
+msgstr "Sakura「Perdón...... La verdad, ehm, aún no＿estoy del todo segura...... Lo siento.」"
+
+msgid "Kota「T-Then I guess that's how it'll have to＿be, Saku...... Er, I CAN call you＿Sakura-chan...... right?」"
+msgstr "Kota「E-Entonces tendrá que ser así,＿Saku...... Eh, PUEDO llamarte＿Sakura-chan...... ¿verdad?」"
+
+msgid "Sakura「W-Well, uhh, that...... feels kinda weird.」"
+msgstr "Sakura「B-Bueno, eh, eso...... se＿siente un poco raro.」"
+
+msgid "Kota「......Should I stop?」"
+msgstr "Kota「......¿Dejo de hacerlo?」"
+
+msgid "Sakura「No, I do believe half of you is＿Kota-kun...... And if that's true, then I'd＿want you to call me that......」"
+msgstr "Sakura「No, sí creo que la mitad de ti es＿Kota-kun...... Y si es cierto, querría＿que me llamaras así......」"
+
+msgid "Kota「It's true, Sakura-chan.」"
+msgstr "Kota「Es cierto, Sakura-chan.」"
+
+msgid "Sakura「......!」"
+msgstr "Sakura「¡......!」"
+
+msgid "Kota「So I'll call you Sakura-chan.」"
+msgstr "Kota「Entonces te llamaré Sakura-chan.」"
+
+msgid "Sakura「O-Okay...... Er, right......」"
+msgstr "Sakura「E-Está bien...... Eh, sí......」"
+
+msgid "Sakura「............」"
+msgstr "Sakura「............」"
+
+msgid "Kota「......Sakura-chan?」"
+msgstr "Kota「......¿Sakura-chan?」"
+
+msgid "Sakura「......O-Okay, sure. I'll go. I want to get rid＿of my lingering suspicions, after all......＿So let's go, K-Kota-kun.」"
+msgstr "Sakura「......B-Bueno, está bien. Iré. Quiero＿despejar mis dudas, después de＿todo...... Así que vamos, K-Kota-kun.」"
+
+msgid "Kota「......Okay, let's go, Sakura-chan!」"
+msgstr "Kota「......¡Bien, vamos, Sakura-chan!」"
+
+msgid "Sakura「When we were talking, you mentioned＿things only the two of us would＿know...... No, I guess it's possible you」"
+msgstr "Sakura「Cuando hablábamos, mencionaste cosas＿que solo sabemos los dos...... No,＿supongo que pudiste」"
+
+msgid "Sakura「got Kota-kun to tell you......」"
+msgstr "Sakura「conseguir que Kota-kun＿te las contara......」"
+
+msgid "Kota「......I want you to believe me completely,＿so will you talk to Takasu-senpai? He's＿at my house right now, but I'll ask him」"
+msgstr "Kota「......Quiero que me creas del todo.＿¿Hablarías con Takasu-senpai? Está＿en mi casa, pero le pediré」"
+
+msgid "Kota「to come outside.」"
+msgstr "Kota「que salga.」"

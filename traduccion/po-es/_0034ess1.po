@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+
+msgid "Minori「Oh man, that was fun～! It's nice to let＿off some steam with everyone at the＿arcade.」"
+msgstr "Minori「¡Vaya, qué divertido fue～! Es＿genial despejarse con todos＿en el salón de juegos.」"
+
+msgid "Kitamura「Alright. Regrettable though it may be,＿let's call it a day.」"
+msgstr "Kitamura「Muy bien. Por lamentable que＿sea, dejémoslo por hoy.」"
+
+msgid "Noto「Sure. Let's hang out again soon.」"
+msgstr "Noto「Claro. Salgamos de nuevo pronto.」"
+
+msgid "Haruta「Laaaterrr～」"
+msgstr "Haruta「Nos veeemos～」"
+
+msgid "Ryuuji「Shall we head home, Taiga?」"
+msgstr "Ryuuji「¿Nos vamos a casa, Taiga?」"
+
+msgid "Taiga「......」"
+msgstr "Taiga「......」"
+
+msgid "Ryuuji「Why are you all quiet?」"
+msgstr "Ryuuji「¿Por qué estás tan callada?」"
+
+msgid "Taiga「No reason......」"
+msgstr "Taiga「Por nada......」"
+
+msgid "Ryuuji「Hey! Come on, don't just walk off＿without me!」"
+msgstr "Ryuuji「¡Oye! ¡Vamos, no te vayas así sin mí!」"
+
+msgid "Ryuuji「Tell me what's wrong. You're totally＿different from when you came over＿this morning.」"
+msgstr "Ryuuji「Dime qué te pasa. Estás totalmente＿distinta a cuando viniste esta mañana.」"
+
+msgid "Taiga「Like I said, no reason.」"
+msgstr "Taiga「Como ya dije, por nada.」"
+
+msgid "Ryuuji「......If you're worried about something,＿just say so.」"
+msgstr "Ryuuji「......Si te preocupa algo, solo dilo.」"
+
+msgid "Taiga「You're the last person I want to tell.」"
+msgstr "Taiga「Eres el último a quien se lo diría.」"
+
+msgid "Ryuuji「\"The last person\"......? What's going＿on......?」"
+msgstr "Ryuuji「¿\"La última persona\"......?＿¿Qué está pasando......?」"
+
+msgid "Minori「Oh, Taiga! Takasu-kun!」"
+msgstr "Minori「¡Ah, Taiga! ¡Takasu-kun!」"
+
+msgid "Minori「We meet again. Will you be dining at＿the diner?」"
+msgstr "Minori「Nos volvemos a encontrar. ¿Vienen＿a comer al restaurante?」"
+
+msgid "Ryuuji「No, we were just passing by...... You＿heading to work?」"
+msgstr "Ryuuji「No, solo íbamos de paso......＿¿Vas camino al trabajo?」"
+
+msgid "Minori「No no, just letting the boss know I'm＿back in town.」"
+msgstr "Minori「No, no, solo voy a avisarle a la＿jefa que ya volví a la ciudad.」"
+
+msgid "Minori「\"When ya comin' back? Our shop's a＿goner without ya～!!\"」"
+msgstr "Minori「\"¿Cuándo vuelves? ¡¡Nuestro local＿está perdido sin ti～!!\"」"
+
+msgid "Minori「After she said all that, I thought I'd＿drop by so she won't worry, see.」"
+msgstr "Minori「Después de que me dijo todo eso, pensé＿en pasar para que no se preocupe.」"
+
+msgid "Taiga「Minorin......」"
+msgstr "Taiga「Minorin......」"
+
+msgid "Ryuuji「H-Hey! Where are you going!?」"
+msgstr "Ryuuji「¡O-Oye! ¡¿A dónde vas?!」"
+
+msgid "Minori「Taiga?」"
+msgstr "Minori「¿Taiga?」"
+
+msgid "Ryuuji「（Just what is going on with that girl......?）」"
+msgstr "Ryuuji「（¿Qué le pasa a esa chica......?）」"

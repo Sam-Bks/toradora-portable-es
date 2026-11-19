@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+
+msgid "Haruta「OHH～! Taka-chan, Taka-chan,＿TAKA-CHAN～!!」"
+msgstr "Haruta「¡OHH～! ¡Taka-chan, Taka-chan,＿TAKA-CHAN～!!」"
+
+msgid "Ryuuji「Oh, it's Haruta Haruta Haruta. 'Sup?」"
+msgstr "Ryuuji「Ah, es Haruta Haruta Haruta. ¿Qué tal?」"
+
+msgid "Haruta「Get this～ I've got some CRAZY news!＿The biggest news of the year～!」"
+msgstr "Haruta「¡Escucha esto～! ¡Traigo una noticia de＿LOCURA! ¡La mayor noticia del año～!」"
+
+msgid "Ryuuji「Are you sure? There are still 360 days＿left to go.」"
+msgstr "Ryuuji「¿Estás seguro? Todavía quedan＿360 días por delante.」"
+
+msgid "Haruta「Oh yeah～ Naw, it's gotta be! That's＿how big of a shock it is!」"
+msgstr "Haruta「Ah, sí～ No, ¡tiene que serlo! ¡Así＿de fuerte es la sorpresa!」"
+
+msgid "Ryuuji「Okay, let's cut to the chase.」"
+msgstr "Ryuuji「Bien, ve al grano.」"
+
+msgid "Haruta「Sorry, sorry. Here we go～ TA-DA!」"
+msgstr "Haruta「Perdón, perdón. Aquí va～ ¡TA-RÁN!」"
+
+msgid "Haruta「That Tiger～ and our very own Master＿Kitamura～ went on, you guessed it, a＿DATE～! Aaaahh! Holy crap!!」"
+msgstr "Haruta「¡Esa Tigre～ y nuestro propio Maestro＿Kitamura～ tuvieron, adivina qué, una＿CITA～! ¡¡Aaaahh! ¡No puede ser!!」"
+
+msgid "Ryuuji「O-Oh, really.」"
+msgstr "Ryuuji「A-Ah, en serio.」"
+
+msgid "Haruta「Huh? What what? Where's your＿reaction, dude? I thought you'd jump＿out of your skin～」"
+msgstr "Haruta「¿Eh? ¿Qué, qué? ¿Dónde está＿tu reacción, amigo? Pensé que＿saltarías del susto～」"
+
+msgid "Ryuuji「Uh, I'm more startled by your＿screaming.」"
+msgstr "Ryuuji「Eh, me asustan más tus gritos.」"
+
+msgid "Haruta「Oh, was I screamin'? Ahaha, whaddya＿know! But I love being loud and happy,＿dude! Like at a siesta!」"
+msgstr "Haruta「Ah, ¿estaba gritando? Ajaja, ¡mira tú!＿¡Pero me encanta ser ruidoso y feliz,＿amigo! ¡Como en una siesta!」"
+
+msgid "Ryuuji「You mean fiesta. \"Festival\" also works.＿But I digress.」"
+msgstr "Ryuuji「Querrás decir fiesta. Hasta \"festival\"＿sirve. Pero me desvío del tema.」"
+
+msgid "Haruta「Oh, so as I was sayin', the MMA＿match～ between Kitamura n' Tiger.＿How nuts is that～!?」"
+msgstr "Haruta「Ah, así que como decía, ¡el combate＿de MMA～ entre Kitamura y Tigre!＿¡¿No es una locura～?!」"
+
+msgid "Ryuuji「Sorry Haruta, but I've already seen this＿dialogue path.」"
+msgstr "Ryuuji「Perdón, Haruta, pero ya vi＿esta ruta de diálogo.」"
+
+msgid "Haruta「WHAAAT～! Are ya shittin' me!? The＿news spread already? I thought it＿would be a big scope for me!」"
+msgstr "Haruta「¡¿QUÉEE～?! ¡¿Me estás tomando el pelo?!＿¿Ya se corrió la voz? ¡Y yo que creía＿que tenía una gran premisa!」"
+
+msgid "Ryuuji「Well, I heard that those two were seen＿together, that's all. Also, it's \"scoop\".」"
+msgstr "Ryuuji「Bueno, solo escuché que los vieron＿juntos, nada más. Además, es \"primicia\".」"
+
+msgid "Haruta「What, so you didn't see them yourself,＿then～」"
+msgstr "Haruta「¿Qué, así que no los viste tú mismo～?」"
+
+msgid "Ryuuji「（......I know he doesn't mean any harm.＿And yet I'm so damn frustrated!）」"
+msgstr "Ryuuji「（......Sé que no tiene mala intención.＿¡Y aun así qué maldita frustración!）」"
+
+msgid "Ryuuji「Yeah. I guess the shock finally hit me.」"
+msgstr "Ryuuji「Sí. Creo que por fin sentí el impacto.」"
+
+msgid "Haruta「Whaaat? Just now～?」"
+msgstr "Haruta「¿Quéee? ¿Apenas ahora～?」"
+
+msgid "Ryuuji「Like I said, I was kinda focused on you＿flipping your shit. Otherwise I would＿totally have been like \"OMG.\"」"
+msgstr "Ryuuji「Como dije, estaba distraído con tu＿escándalo. Si no, seguro habría dicho＿algo como \"Dios mío\".」"
+
+msgid "Haruta「Oh, I getcha. Sorry, dude.」"
+msgstr "Haruta「Ah, ya entiendo. Perdón, amigo.」"
+
+msgid "Ryuuji「Yeah, you've got a point.」"
+msgstr "Ryuuji「Sí, tienes razón.」"
+
+msgid "Ryuuji「（Since when has Taiga......?）」"
+msgstr "Ryuuji「（¿Desde cuándo Taiga......?）」"
+
+msgid "Ryuuji「What am I supposed to agree to?」"
+msgstr "Ryuuji「¿Con qué se supone que esté de acuerdo?」"
+
+msgid "Ryuuji「Huh? Gunma?」"
+msgstr "Ryuuji「¿Eh? ¿Gunma?」"
+
+msgid "Ryuuji「Oh, okay......」"
+msgstr "Ryuuji「Ah, está bien......」"
+
+msgid "Ryuuji「（What did he thank me for, exactly?＿And why Gunma?）」"
+msgstr "Ryuuji「（¿Por qué me dio las gracias,＿exactamente? ¿Y por qué Gunma?）」"
+
+msgid "Haruta「But I guess it's not totally outta＿nowhere～ I've always thought about it,＿but I never woulda thought it'd actually」"
+msgstr "Haruta「Pero supongo que no salió de la nada～＿Siempre lo pensé, aunque nunca habría＿creído que de verdad」"
+
+msgid "Haruta「happen～」"
+msgstr "Haruta「pasaría～」"
+
+msgid "Haruta「By now they're probably...... NOOO, that＿ain't right, Master～! Tiger's so small～!＿You just CAN'T!! Don't you agree,」"
+msgstr "Haruta「Seguro que ahora mismo...... ¡NOOO, eso＿no está bien, Maestro～! ¡Tigre es tan＿pequeña～! ¡¡NO SE PUEDE!! ¡¿No crees,」"
+
+msgid "Haruta「Taka-chan!?」"
+msgstr "Haruta「Taka-chan?!」"
+
+msgid "Haruta「Aww jeez, there's only ONE THING that＿should come to mind～! Aight, I won't＿lose to the Master～! I'll go to Gunma～!」"
+msgstr "Haruta「Ay, vamos, ¡solo UNA COSA debería＿venirte a la mente～! ¡Bien, no perderé＿ante el Maestro～! ¡Iré a Gunma～!」"
+
+msgid "Haruta「OHHH～!!」"
+msgstr "Haruta「¡¡OHHH～!!」"
+
+msgid "Haruta「I know, I'll grab a bunch of pamphlets＿at the train station! Thanks,＿Taka-chan! I'm gonna work hard, too!」"
+msgstr "Haruta「¡Ya sé, tomaré un montón de folletos＿en la estación! ¡Gracias, Taka-chan!＿¡Yo también me esforzaré mucho!」"
+
+msgid "Haruta「See yaaa!」"
+msgstr "Haruta「¡Nos vemosss!」"

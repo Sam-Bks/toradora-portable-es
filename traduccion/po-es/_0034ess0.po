@@ -1,0 +1,167 @@
+msgid ""
+msgstr ""
+
+msgid "Haruta「Gahh～ Think I wore out my throat＿from all that talking～」"
+msgstr "Haruta「Aaah～ Creo que se me gastó la＿garganta de tanto hablar～」"
+
+msgid "Kitamura「Alright. Regrettable though it may be,＿let's call it a day.」"
+msgstr "Kitamura「Muy bien. Por lamentable que＿sea, dejémoslo por hoy.」"
+
+msgid "Ami「It was SUPER fun getting to talk to＿everyone. Invite me again sometime①」"
+msgstr "Ami「Fue SÚPER divertido poder hablar con＿todos. Invítenme de nuevo algún día①」"
+
+msgid "Noto「Of course.」"
+msgstr "Noto「Por supuesto.」"
+
+msgid "Haruta「Laaaterrr～」"
+msgstr "Haruta「Nos veeemos～」"
+
+msgid "Ami「Bye-bye.」"
+msgstr "Ami「Adiós.」"
+
+msgid "Kitamura「Takasu, if anything happens, call me＿anytime.」"
+msgstr "Kitamura「Takasu, si pasa cualquier cosa,＿llámame cuando quieras.」"
+
+msgid "Ryuuji「Sure thing.」"
+msgstr "Ryuuji「Claro que sí.」"
+
+msgid "Noto「Let's hang out again soon.」"
+msgstr "Noto「Salgamos de nuevo pronto.」"
+
+msgid "Ryuuji「Now then......」"
+msgstr "Ryuuji「Ahora bien......」"
+
+msgid "Ryuuji「Shall we head home, Taiga?」"
+msgstr "Ryuuji「¿Nos vamos a casa, Taiga?」"
+
+msgid "Taiga「Yeah.」"
+msgstr "Taiga「Sí.」"
+
+msgid "Ryuuji「I'm home～」"
+msgstr "Ryuuji「Ya llegué～」"
+
+msgid "Taiga「Huh? Yacchan's not here.」"
+msgstr "Taiga「¿Eh? Yacchan no está.」"
+
+msgid "Ryuuji「What, she even works on New Year's＿Day?」"
+msgstr "Ryuuji「¿Qué, trabaja hasta en＿el día de Año Nuevo?」"
+
+msgid "Taiga「I expected she'd have the day off,＿but......」"
+msgstr "Taiga「Esperaba que tuviera el＿día libre, pero......」"
+
+msgid "Taiga「Oh, Ryuuji, she left a note here.」"
+msgstr "Taiga「Ah, Ryuuji, dejó una nota aquí.」"
+
+msgid "Ryuuji「Hm...... Let's see here......」"
+msgstr "Ryuuji「Mm...... A ver......」"
+
+msgid "\"Went to a New Year's party downtown.＿Be back later, gator～ Yacchan\""
+msgstr "\"Fui a una fiesta de Año Nuevo en el＿centro. Vuelvo más tarde～ Yacchan\""
+
+msgid "Taiga「Then it'll be just the two of us for＿dinner. What'll you make tonight?」"
+msgstr "Taiga「Entonces cenaremos solo nosotros dos.＿¿Qué vas a preparar esta noche?」"
+
+msgid "Ryuuji「Why would I need to make anything?＿There's plenty of food here.」"
+msgstr "Ryuuji「¿Para qué tendría que preparar algo?＿Hay un montón de comida aquí.」"
+
+msgid "Taiga「Where is it then?」"
+msgstr "Taiga「¿Y dónde está entonces?」"
+
+msgid "Ryuuji「The leftovers from the New Year's＿meal. There's still leftover rice cakes＿from this morning.」"
+msgstr "Ryuuji「Las sobras de la comida de Año＿Nuevo. Todavía quedan pasteles＿de arroz de esta mañana.」"
+
+msgid "Taiga「Then we'd be eating the same food all＿over again!」"
+msgstr "Taiga「¡Entonces estaríamos comiendo＿lo mismo otra vez!」"
+
+msgid "Ryuuji「Not exactly. After all, thanks to the two＿of you, there won't be any shrimp or＿herring roe this time around.」"
+msgstr "Ryuuji「No exactamente. Después de todo, gracias＿a ustedes dos, esta vez no habrá＿camarones ni huevas de arenque.」"
+
+msgid "Taiga「What the hell? Now it's even more＿disappointing!」"
+msgstr "Taiga「¿Qué diablos? ¡Ahora es todavía＿más decepcionante!」"
+
+msgid "Ryuuji「Disappointing for ME! I didn't get a bite＿of those delicacies since you two＿gobbled them up......」"
+msgstr "Ryuuji「¡Decepcionante para MÍ! No pude probar＿ni un bocado de esas delicias porque＿ustedes dos las devoraron......」"
+
+msgid "Taiga「You didn't get any?」"
+msgstr "Taiga「¿No probaste nada?」"
+
+msgid "Ryuuji「Even black beans and boiled fish paste＿are perfectly good New Year's food.＿But as far as you two are concerned......」"
+msgstr "Ryuuji「Incluso los frijoles negros y la pasta＿de pescado hervida son buena comida de＿Año Nuevo. Pero para ustedes dos......」"
+
+msgid "Taiga「Argh, I get it! I'll eat it, okay? So drop it!」"
+msgstr "Taiga「¡Ya entendí! ¡Me lo comeré! ¡Basta!」"
+
+msgid "Taiga「Thanks for the food.」"
+msgstr "Taiga「Gracias por la comida.」"
+
+msgid "Ryuuji「Let's eat.」"
+msgstr "Ryuuji「A comer.」"
+
+msgid "Taiga「Oh, it's delicious...... The black beans go＿surprisingly well with it.」"
+msgstr "Taiga「Oh, qué rico...... No esperaba que los＿frijoles negros combinaran tan bien.」"
+
+msgid "Ryuuji「I know, right?」"
+msgstr "Ryuuji「¿Verdad que sí?」"
+
+msgid "Taiga「These kelp rolls are good too.」"
+msgstr "Taiga「Qué ricos estos rollitos de alga.」"
+
+msgid "Ryuuji「Try the kurikinton.」"
+msgstr "Ryuuji「Prueba el kurikinton.」"
+
+msgid "Taiga「......That reminds me, about earlier, it＿seems you've noticed StuChi's true＿colors, hmm?」"
+msgstr "Taiga「......Eso me recuerda, sobre lo de＿antes, parece que ya notaste la＿verdadera cara de Chihuatonta, ¿eh?」"
+
+msgid "Ryuuji「\"StuChi\"? You mean Kawashima?」"
+msgstr "Ryuuji「¿\"Chihuatonta\"? ¿Es Kawashima?」"
+
+msgid "Taiga「Yup. Stupid Chihuahua. StuChi for＿short.」"
+msgstr "Taiga「Sip. Chihuahua Tonta. Chihuatonta＿para abreviar.」"
+
+msgid "Ryuuji「Truth is, when I was with her＿yesterday, I was able to remember her＿real self.」"
+msgstr "Ryuuji「La verdad es que, cuando estuve＿con ella ayer, logré recordar su＿verdadera personalidad.」"
+
+msgid "Taiga「Oh really? Good job, Ryuuji!」"
+msgstr "Taiga「¿Ah, sí? ¡Buen trabajo, Ryuuji!」"
+
+msgid "Ryuuji「I gotta admit, that girl's talented～＿Looks like she's got Haruta and Noto＿completely fooled.」"
+msgstr "Ryuuji「Debo admitir que esa chica tiene＿talento～ Parece que tiene a Haruta＿y a Noto completamente engañados.」"
+
+msgid "Ryuuji「Wonder what would have happened if I＿hadn't remembered......」"
+msgstr "Ryuuji「Me pregunto qué habría pasado si＿no lo hubiera recordado......」"
+
+msgid "Taiga「You're one of StuChi's preferred＿targets, so I'd watch out if I were you.」"
+msgstr "Taiga「Eres un blanco favorito de Chihuatonta,＿así que yo que tú tendría cuidado.」"
+
+msgid "Ryuuji「I am? Why?」"
+msgstr "Ryuuji「¿Yo? ¿Por qué?」"
+
+msgid "Taiga「......Because you're stupid.」"
+msgstr "Taiga「......Porque eres estúpido.」"
+
+msgid "Ryuuji「Excuse you.」"
+msgstr "Ryuuji「Oye, más respeto.」"
+
+msgid "Taiga「Well, if you're aware of how she really＿is, then you don't really need my advice＿at this point.」"
+msgstr "Taiga「Bueno, si ya sabes cómo es en realidad,＿entonces a estas alturas ya no necesitas＿mis consejos.」"
+
+msgid "Ryuuji「I gotta say, you two are like oil and＿water. Did something happen?」"
+msgstr "Ryuuji「Debo decir que ustedes dos son como＿el agua y el aceite. ¿Pasó algo?」"
+
+msgid "Taiga「Not really. I just loathe people like her.」"
+msgstr "Taiga「No. Solo detesto a la gente como ella.」"
+
+msgid "Taiga「Awww. After all that talk about StuChi,＿the food tastes worse now.」"
+msgstr "Taiga「Aaah. Después de hablar tanto de＿Chihuatonta, ahora la comida sabe peor.」"
+
+msgid "Ryuuji「For your information, you're the one＿who brought it up.」"
+msgstr "Ryuuji「Para tu información, tú fuiste＿la que sacó el tema.」"
+
+msgid "Taiga「Really? Anyway, let's drop it.」"
+msgstr "Taiga「¿De verdad? En fin, dejemos el tema.」"
+
+msgid "Taiga「Guess I should go home now.」"
+msgstr "Taiga「Supongo que ya debería irme a casa.」"
+
+msgid "Ryuuji「Oh, see you tomorrow.」"
+msgstr "Ryuuji「Ah, nos vemos mañana.」"

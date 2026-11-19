@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+
+msgid "Minori「Thanks for walking with me. I'll be fine＿from here.」"
+msgstr "Minori「Gracias por acompañarme.＿Estaré bien desde aquí.」"
+
+msgid "Taiga「Hey, Minorin, are you gonna be＿working non-stop until next semester?＿No days off?」"
+msgstr "Taiga「Oye, Minorin, ¿vas a trabajar＿sin parar hasta el próximo semestre?＿¿Sin días libres?」"
+
+msgid "Minori「Actually, I took some time off for New＿Year's, so I won't have any shifts for a＿while. I can hang.」"
+msgstr "Minori「De hecho, me pedí días libres por＿Año Nuevo, así que no tendré turnos＿por un tiempo. Podemos salir.」"
+
+msgid "Minori「I'm free tomorrow, even. Wanna do＿something?」"
+msgstr "Minori「Hasta estoy libre mañana.＿¿Quieres hacer algo?」"
+
+msgid "Taiga「Yeah! Thanks, I'll call you later!」"
+msgstr "Taiga「¡Sí! ¡Gracias, te llamo más tarde!」"
+
+msgid "Minori「Well, Takasu-kun, I'm counting on you＿to walk Taiga back!」"
+msgstr "Minori「Bueno, Takasu-kun, ¡cuento contigo para＿que acompañes a Taiga de regreso!」"
+
+msgid "Taiga「Minorin! I'm perfectly fine without him!」"
+msgstr "Taiga「¡Minorin! ¡Estoy perfectamente＿bien sin él!」"
+
+msgid "Ryuuji「Don't point at people.」"
+msgstr "Ryuuji「No señales a la gente.」"
+
+msgid "Minori「Now now, what's the harm? You both＿live in the same direction, right?」"
+msgstr "Minori「Vamos, vamos, ¿qué tiene de malo? Los＿dos viven por el mismo rumbo, ¿no?」"
+
+msgid "Taiga「Yeah, but...... Hmph. Guess I have no＿choice. I'll make sure he doesn't mark＿his territory anywhere.」"
+msgstr "Taiga「Sí, pero...... Jum. Supongo que no＿me queda otra. Vigilaré que no marque＿su territorio por ahí.」"
+
+msgid "Ryuuji「Look here, don't talk about me like＿that......」"
+msgstr "Ryuuji「Oye, no hables de mí de esa manera......」"
+
+msgid "Minori「Ahaha! Well, see ya!」"
+msgstr "Minori「¡Ajaja! Bueno, ¡nos vemos!」"
+
+msgid "Taiga「Oh, Minorin......」"
+msgstr "Taiga「Ah, Minorin......」"
+
+msgid "Ryuuji「Well then, I guess we should head＿home.」"
+msgstr "Ryuuji「Bueno, supongo que deberíamos＿volver a casa.」"
+
+msgid "Taiga「......Yeah.」"
+msgstr "Taiga「......Sí.」"
+
+msgid "Ryuuji「Hey, how about oyakodon for dinner?」"
+msgstr "Ryuuji「Oye, ¿qué tal oyakodon para cenar?」"
+
+msgid "Taiga「..................」"
+msgstr "Taiga「..................」"
+
+msgid "Ryuuji「（Did she not hear me?）」"
+msgstr "Ryuuji「（¿No me habrá oído?）」"
+
+msgid "Ryuuji「Taiga! Hey! Oyakodon!」"
+msgstr "Ryuuji「¡Taiga! ¡Oye! ¡Oyakodon!」"
+
+msgid "Taiga「..................I'll pass.」"
+msgstr "Taiga「..................Paso.」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Taiga「I'll pass on dinner.」"
+msgstr "Taiga「Hoy paso de la cena.」"
+
+msgid "Ryuuji「What's wrong? Does your stomach＿hurt or something?」"
+msgstr "Ryuuji「¿Qué pasa? ¿Te duele el＿estómago o algo así?」"
+
+msgid "Taiga「That's not it. I just want to think about＿something......」"
+msgstr "Taiga「No es eso. Solo quiero＿pensar en algo......」"
+
+msgid "Ryuuji「Think about something? You?」"
+msgstr "Ryuuji「¿Pensar en algo? ¿Tú?」"
+
+msgid "Taiga「Wha--! Don't look down on me!」"
+msgstr "Taiga「¡Qué--! ¡No me subestimes!」"
+
+msgid "Ryuuji「No, that wasn't my intention. It's just, I＿was wondering what you'd think about＿without eating first.」"
+msgstr "Ryuuji「No, esa no era mi intención. Es＿solo que me preguntaba en qué pensarías＿sin comer antes.」"
+
+msgid "Taiga「I have piles of stuff I gotta think about!＿Plus, I gotta figure out the group＿activity with you and Minorin.」"
+msgstr "Taiga「¡Tengo montones de cosas en que pensar!＿Además, debo ver lo de la actividad＿en grupo contigo y Minorin.」"
+
+msgid "Ryuuji「Oh, THAT......」"
+msgstr "Ryuuji「Ah, ESO......」"
+
+msgid "Taiga「\"Oh, that\"!? This involves you, you＿know!!」"
+msgstr "Taiga「¡¿\"Ah, eso\"?! ¡¡Esto también te＿incumbe, por si no lo sabes!!」"
+
+msgid "???「Heeey! Takasuuu! Tigerrr!」"
+msgstr "???「¡Oyeee! ¡Takasuuu! ¡Tigreee!」"
+
+msgid "Ryuuji「Hm?」"
+msgstr "Ryuuji「¿Mm?」"
+
+msgid "Haruta「Taka-chan, Tiger～ It's been a whole＿24 hours～!」"
+msgstr "Haruta「¡Taka-chan, Tigre～! ¡Han pasado＿24 horas enteras～!」"
+
+msgid "Noto「Good timing. Say, are you guys free＿tomorrow?」"
+msgstr "Noto「Justo a tiempo. Oigan,＿¿están libres mañana?」"
+
+msgid "Ryuuji「Tomorrow? I don't have any plans.」"
+msgstr "Ryuuji「¿Mañana? No tengo ningún plan.」"
+
+msgid "Haruta「Okie-dokie, then let's all REFRESH～＿Massage away the exhaustion and＿BOOM ① Relaxation!!」"
+msgstr "Haruta「¡Listooo, entonces a RENOVARNOS～!＿¡Eliminamos el cansancio con masajes＿y BUM ① Relajación!!」"
+
+msgid "Ryuuji「......What?」"
+msgstr "Ryuuji「......¿Qué?」"
+
+msgid "Noto「Takasu, remember Luxure?」"
+msgstr "Noto「Takasu, ¿recuerdas Luxure?」"
+
+msgid "Ryuuji「No......」"
+msgstr "Ryuuji「No......」"
+
+msgid "Ryuuji「That's an impressive assortment of＿attractions...... What about it?」"
+msgstr "Ryuuji「Esa es una gran variedad de＿atracciones...... ¿Qué pasa con eso?」"
+
+msgid "Ryuuji「Oh, good idea. But are you sure I can＿come too?」"
+msgstr "Ryuuji「Ah, buena idea. Pero ¿seguro＿que yo también puedo ir?」"
+
+msgid "Noto「Of course you can! Care to join us,＿Tiger? I'm gonna invite Master＿Kitamura too.」"
+msgstr "Noto「¡Claro que sí! ¿Te nos unes,＿Tigre? También voy a invitar＿al Maestro Kitamura.」"
+
+msgid "Taiga「......If you invite Minorin, I'll go.」"
+msgstr "Taiga「......Si invitan a Minorin, voy.」"
+
+msgid "Noto「Up to 10 people can go, so that's＿totally okay.」"
+msgstr "Noto「Pueden ir hasta 10 personas, así＿que no hay ningún problema.」"
+
+msgid "Haruta「Yaaay! Hot springs with Taka-chan!＿Hot springs～!」"
+msgstr "Haruta「¡Siiií! ¡Aguas termales con Taka-chan!＿¡Aguas termales～!」"
+
+msgid "Ryuuji「（Should you really be that happy about＿going to hot springs with a dude?）」"
+msgstr "Ryuuji「（¿De verdad deberías alegrarte tanto por＿ir a aguas termales con un chico?）」"
+
+msgid "Haruta「At the gym, we can use the equipment＿to get ripped so we can impress＿everybody when school starts! WOOO!!」"
+msgstr "Haruta「¡En el gimnasio podemos usar el equipo＿para ponernos musculosos e impresionar＿a todos al volver a clases! ¡¡WOOO!!」"
+
+msgid "Ryuuji「We're not gonna get ripped in one day.＿All we'll get is sore.」"
+msgstr "Ryuuji「No ganaremos músculo en un solo día.＿Solo terminaremos todos adoloridos.」"
+
+msgid "Noto「Then we'll meet in front of the station＿tomorrow at 10. Don't forget your＿swimsuits.」"
+msgstr "Noto「Entonces nos vemos frente a la＿estación mañana a las 10. No olviden＿sus trajes de baño.」"
+
+msgid "Haruta「Yep yep, don't forget 'em～ Although,＿Tiger could forget hers～ NUDIE TI......」"
+msgstr "Haruta「Sip, sip, no los olviden～ Aunque＿Tigre podría olvidar el suyo～＿TIGRE DESNU......」"
+
+msgid "Noto「Hah!」"
+msgstr "Noto「¡Haa!」"
+
+msgid "Haruta「Nnggahh!」"
+msgstr "Haruta「¡Nnggahh!」"
+
+msgid "Ryuuji「H-Haruta?」"
+msgstr "Ryuuji「¿H-Haruta?」"
+
+msgid "Noto「It's okay, I just hit him in the solar＿plexus.」"
+msgstr "Noto「Está bien, solo le di en el plexo solar.」"
+
+msgid "Ryuuji「How are you so good at that......?」"
+msgstr "Ryuuji「¿Cómo eres tan bueno en eso......?」"
+
+msgid "Taiga「Hey, what was this stupid hippie about＿to say?」"
+msgstr "Taiga「Oye, ¿qué iba a decir este＿hippie estúpido?」"
+
+msgid "Noto「N-Nothing, nothing! Don't you worry!＿Just forget it! Well, see you tomorrow!!」"
+msgstr "Noto「¡N-Nada, nada! ¡No te preocupes!＿¡Olvídalo! Bueno, ¡¡nos vemos mañana!!」"
+
+msgid "Ryuuji「Okay. Thanks again!」"
+msgstr "Ryuuji「De acuerdo. ¡Gracias de nuevo!」"
+
+msgid "Taiga「He's dragging that moron with him......」"
+msgstr "Taiga「Se lleva arrastrando a ese idiota......」"
+
+msgid "Ryuuji「Haha...... W-Well, we sure are lucky to＿get to go to such a well-renowned＿place for free.」"
+msgstr "Ryuuji「Jaja...... B-Bueno, qué suerte＿tenemos de poder ir gratis a＿un lugar tan reconocido.」"
+
+msgid "Taiga「......True that. Plus, it's a perfect group＿activity.」"
+msgstr "Taiga「......Es verdad. Además, es una＿actividad en grupo perfecta.」"
+
+msgid "Ryuuji「Ah, I see.」"
+msgstr "Ryuuji「Ah, ya veo.」"
+
+msgid "Taiga「No way! You only just figured it out?＿Are you even motivated at all!?」"
+msgstr "Taiga「¡No puede ser! ¿Apenas te das cuenta?＿¡¿Acaso tienes algo de motivación?!」"
+
+msgid "Ryuuji「Uh, well......」"
+msgstr "Ryuuji「Eh, bueno......」"
+
+msgid "Taiga「Hmph. Whatever. C'mon, let's get going.＿You have something you gotta do at＿home, right?」"
+msgstr "Taiga「Jum. Como sea. Vamos, sigamos＿andando. Tienes algo que hacer＿en casa, ¿verdad?」"
+
+msgid "Ryuuji「Oh yeah, I gotta make dinner.」"
+msgstr "Ryuuji「Ah, cierto, tengo que hacer la cena.」"
+
+msgid "Taiga「Not THAT!! You need to think of things＿to talk about with Minorin tomorrow!＿Got it!?」"
+msgstr "Taiga「¡¡Eso NO!! ¡Tienes que pensar en＿cosas de las que hablar mañana＿con Minorin! ¡¿Entendido?!」"
+
+msgid "Ryuuji「Okay......」"
+msgstr "Ryuuji「Está bien......」"
+
+msgid "Noto「It's the amusement park across from＿the station. The one with the hot＿springs, the gym, the planetarium, and」"
+msgstr "Noto「Es el parque de diversiones frente a la＿estación. El que tiene las aguas＿termales, el gimnasio, el planetario y」"
+
+msgid "Noto「the Ferris wheel. It opened recently＿and everyone's talking about it.」"
+msgstr "Noto「la rueda de la fortuna. Abrió hace＿poco y todo el mundo habla de él.」"
+
+msgid "Noto「I got some free tickets to Luxure from＿my pops. The hot springs and gym are＿free to use. Whaddya say we turn this」"
+msgstr "Noto「Mi papá me dio entradas gratis para＿Luxure. Aguas termales y gimnasio＿gratis. ¿Qué dicen si convertimos」"
+
+msgid "Noto「into our New Year's party?」"
+msgstr "Noto「esto en nuestra fiesta de Año Nuevo?」"

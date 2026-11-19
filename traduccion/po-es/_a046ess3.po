@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+
+msgid "Inko-chan「NO, NO, NOSE」"
+msgstr "Inko-chan「NA, NA, NARIZ」"
+
+msgid "Ryuuji「Oh, what's wrong? Of course we have＿noses.」"
+msgstr "Ryuuji「Eh, ¿qué pasa? Claro que tenemos nariz.」"
+
+msgid "Inko-chan「NOSEBLEED GUSH!」"
+msgstr "Inko-chan「¡CHORRO DE SANGRE NASAL!」"
+
+msgid "Ryuuji「\"Nosebleed gush\"? Neither of us have＿a nosebleed...... Or are you just that＿horny?」"
+msgstr "Ryuuji「¿\"Chorro de sangre nasal\"? Ninguno＿tiene hemorragia nasal...... ¿O acaso＿estás así de excitado?」"
+
+msgid "Inko-chan「GUSH, GUSH」"
+msgstr "Inko-chan「CHORRO, CHORRO」"
+
+msgid "Ryuuji「First of all, do birds even get＿nosebleeds from arousal? Wait, what's＿got you hot and bothered?」"
+msgstr "Ryuuji「Para empezar, ¿a los pájaros les sangra＿la nariz por excitación? Espera, ¿qué＿te tiene tan alborotado?」"
+
+msgid "Inko-chan「WHAT?」"
+msgstr "Inko-chan「¿QUÉ?」"
+
+msgid "Ryuuji「......I should get to bed. Good night,＿Inko-chan.」"
+msgstr "Ryuuji「......Ya debería irme a dormir.＿Buenas noches, Inko-chan.」"
+
+msgid "Inko-chan「NIGHT!」"
+msgstr "Inko-chan「¡NOCHES!」"
+
+msgid "Ryuuji「（Whew...... I'm so tired and sleepy all of a＿sudden......）」"
+msgstr "Ryuuji「（Uf...... De repente tengo mucho＿sueño y cansancio......）」"

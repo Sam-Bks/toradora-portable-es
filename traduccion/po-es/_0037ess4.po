@@ -1,0 +1,20 @@
+msgid ""
+msgstr ""
+
+msgid "Inko-chan「......」"
+msgstr "Inko-chan「......」"
+
+msgid "Ryuuji「W-What......?」"
+msgstr "Ryuuji「¿Q-Qué......?」"
+
+msgid "Ryuuji「I wasn't able to get Inko-chan into＿\"dere\" mode after all...... I'll need to try＿harder......」"
+msgstr "Ryuuji「Al final no pude poner a Inko-chan＿en modo \"dere\"...... Tendré que＿esforzarme más......」"
+
+msgid "Ryuuji「In any case, I don't even have all my＿memories back, so why do I remember＿an otaku word like \"tsundere\"......?」"
+msgstr "Ryuuji「En fin, si ni siquiera tengo todos mis＿recuerdos, ¿por qué recuerdo una palabra＿otaku como \"tsundere\"......?」"
+
+msgid "Ryuuji「......」"
+msgstr "Ryuuji「......」"
+
+msgid "Ryuuji「......Bedtime.」"
+msgstr "Ryuuji「......Hora de dormir.」"

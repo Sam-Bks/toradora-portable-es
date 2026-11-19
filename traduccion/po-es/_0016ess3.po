@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+
+msgid "Inko-chan「YOU」"
+msgstr "Inko-chan「ERES」"
+
+msgid "Inko-chan「YOU, YOU」"
+msgstr "Inko-chan「ERES, ERES」"
+
+msgid "Ryuuji「Hm......?」"
+msgstr "Ryuuji「¿Hm......?」"
+
+msgid "Inko-chan「YOU PERV」"
+msgstr "Inko-chan「ERES UN PERVERTIDO」"
+
+msgid "Ryuuji「......Huh?」"
+msgstr "Ryuuji「......¿Eh?」"
+
+msgid "Inko-chan「......」"
+msgstr "Inko-chan「......」"
+
+msgid "Ryuuji「......Oh, it fell asleep.」"
+msgstr "Ryuuji「......Ah, se quedó dormido.」"
+
+msgid "Ryuuji「......Oh well. Guess it's my bedtime too......」"
+msgstr "Ryuuji「......En fin, yo también dormiré......」"
+
+msgid "Ryuuji「Is it just me, or was it trying to hide its＿embarrassment......? No, wait, isn't it＿weird for a bird like Inko-chan to be」"
+msgstr "Ryuuji「¿Soy yo o intentaba ocultar＿su vergüenza......?」"
+
+msgid "Ryuuji「shy in the first place?」"
+msgstr "Ryuuji「No, espera, ¿no es raro que＿un pájaro como Inko-chan sea＿tímido para empezar?」"

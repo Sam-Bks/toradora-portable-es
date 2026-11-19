@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+
+msgid "Inko-chan「TA, TA, TA......」"
+msgstr "Inko-chan「CHAO, CHAO, CHAO......」"
+
+msgid "Ryuuji「......Oh, I'm not going anywhere.」"
+msgstr "Ryuuji「......Ah, no me voy a ningún lado.」"
+
+msgid "Inko-chan「TA, TA...... TALL」"
+msgstr "Inko-chan「AL, AL...... ALTO」"
+
+msgid "Ryuuji「Tall? What's tall?」"
+msgstr "Ryuuji「¿Alto? ¿Qué es alto?」"
+
+msgid "Inko-chan「TAL......K?」"
+msgstr "Inko-chan「¿HAB......LAR?」"
+
+msgid "Ryuuji「Ohhh, you want to talk before bedtime,＿Inko-chan?」"
+msgstr "Ryuuji「Ahhh, ¿quieres hablar antes＿de dormir, Inko-chan?」"
+
+msgid "Inko-chan「TAL......K? TALK?」"
+msgstr "Inko-chan「¿HAB......LAR? ¿HABLAR?」"
+
+msgid "Of course, Inko-chan"
+msgstr "Por supuesto, Inko-chan"
+
+msgid "It's sleepy time"
+msgstr "Es hora de dormir"
+
+msgid "Ryuuji「Of course, Inko-chan.」"
+msgstr "Ryuuji「Por supuesto, Inko-chan.」"
+
+msgid "Ryuuji「It's sleepy time.」"
+msgstr "Ryuuji「Es hora de dormir.」"
+
+msgid "Inko-chan「TA......CO」"
+msgstr "Inko-chan「TA......CO」"
+
+msgid "Ryuuji「......Taco? You? You want a taco?」"
+msgstr "Ryuuji「......¿Taco? ¿Tú? ¿Quieres un taco?」"
+
+msgid "Inko-chan「......」"
+msgstr "Inko-chan「......」"
+
+msgid "Ryuuji「Ignoring me...... Good night, Inko-chan.」"
+msgstr "Ryuuji「Ignorándome...... Buenas＿noches, Inko-chan.」"
+
+msgid "Ryuuji「（......Maybe I'll make tacos tomorrow.）」"
+msgstr "Ryuuji「（......Tal vez haga tacos mañana.）」"

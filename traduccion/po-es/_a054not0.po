@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「Isn't that Noto?」"
+msgstr "Ryuuji「¿Ese no es Noto?」"
+
+msgid "Noto「AAAAAAAAAHHH!!」"
+msgstr "Noto「¡¡AAAAAAAAAHHH!!」"
+
+msgid "Ryuuji「EEEGH!!」"
+msgstr "Ryuuji「¡¡AAAGH!!」"
+
+msgid "Ami「That gave me a heart attack～」"
+msgstr "Ami「Casi me da un infarto～」"
+
+msgid "Taiga「What are you screaming for, stupid＿four-eyes?!」"
+msgstr "Taiga「¡¿Por qué gritas, estúpido cuatro ojos?!」"
+
+msgid "Noto「Ahh, it's just you～ Don't scare me like＿that.」"
+msgstr "Noto「Ahh, solo son ustedes～ No＿me den esos sustos.」"
+
+msgid "Taiga「That's my line!!」"
+msgstr "Taiga「¡¡Eso debería decirlo yo!!」"
+
+msgid "Everyone「What?」"
+msgstr "Todos「¿Qué?」"
+
+msgid "Ryuuji「Umm, I haven't heard anything about＿Kanou Sumire dying......」"
+msgstr "Ryuuji「Ehm, no he oído nada de que Kanou＿Sumire haya muerto......」"
+
+msgid "Taiga「Yeah...... No kidding.」"
+msgstr "Taiga「Sí...... Ni que lo digas.」"
+
+msgid "Ami「Noto-kun, like, what are you talking＿about? Sounds fun, so let Ami-chan in＿on it～①」"
+msgstr "Ami「Noto-kun, o sea, ¿de qué hablas?＿Suena divertido, así que deja＿que Ami-chan participe～①」"
+
+msgid "Noto「What, for reals? You want to search＿with me, Ami-chan? You getting my＿hopes up?」"
+msgstr "Noto「¿Qué, en serio? ¿Quieres buscar conmigo,＿Ami-chan? ¿Me estás ilusionando?」"
+
+msgid "Ryuuji「\"Search\"?」"
+msgstr "Ryuuji「¿\"Buscar\"?」"
+
+msgid "Ami「What a load of garbage.」"
+msgstr "Ami「Qué sarta de tonterías.」"
+
+msgid "Noto「Hmm? Did you say something?」"
+msgstr "Noto「¿Mmm? ¿Dijiste algo?」"
+
+msgid "Ami「No no, nothiiing①」"
+msgstr "Ami「No, no, nadaaa①」"
+
+msgid "Taiga「Ridiculous.」"
+msgstr "Taiga「Ridículo.」"
+
+msgid "Noto「Hmm? Did you say something?」"
+msgstr "Noto「¿Mmm? ¿Dijiste algo?」"
+
+msgid "Ryuuji「Don't mind her. Please continue.」"
+msgstr "Ryuuji「No le hagas caso. Por favor, continúa.」"
+
+msgid "Ryuuji「......I see. Well, do your best.」"
+msgstr "Ryuuji「......Ya veo. Bueno, haz lo que puedas.」"
+
+msgid "Noto「Wha-huhhh? You're leaving,＿Takasu-kun? Can't we catch it＿together? What about Ami-chan～?」"
+msgstr "Noto「¡¿Qu-Quéee?! ¿Te vas, Takasu-kun?＿¿No podemos atraparlo juntos? ¿Y＿qué hay de Ami-chan～?」"
+
+msgid "Ami「Well, it's not like we were expecting＿anything useful, I guess～」"
+msgstr "Ami「Bueno, tampoco es que esperáramos＿nada útil, supongo～」"
+
+msgid "Taiga「That was so beyond pointless that it＿surpassed my worst imaginings.」"
+msgstr "Taiga「Eso fue tan inútil que superó＿mis peores expectativas.」"
+
+msgid "Ryuuji「Yeah, I'm out.」"
+msgstr "Ryuuji「Sí, me voy.」"
+
+msgid "Noto「Ah, wait up, Takasu!」"
+msgstr "Noto「¡Ah, espera, Takasu!」"
+
+msgid "Ryuuji「I'm not interested in doppelgangers or＿ghosts.」"
+msgstr "Ryuuji「No me interesan los doppelgangers＿ni los fantasmas.」"
+
+msgid "Noto「No, that's not it, man. Do ya think＿Kitamura knows about the rumors of＿Kanou Sumire's ghost?」"
+msgstr "Noto「No, no es eso. ¿Crees que Kitamura＿sepa de los rumores del fantasma＿de Kanou Sumire?」"
+
+msgid "Ryuuji「M-Maybe......?」"
+msgstr "Ryuuji「¿T-Tal vez......?」"
+
+msgid "Ryuuji「Why him and Taiga?」"
+msgstr "Ryuuji「¿Por qué él y Taiga?」"
+
+msgid "Noto「\"Why\"......? Ohhh, that's right.」"
+msgstr "Noto「¿\"Por qué\"......? Ohhh, es cierto.」"
+
+msgid "Ryuuji「What?」"
+msgstr "Ryuuji「¿Qué?」"
+
+msgid "Noto「Sorry, it's nothing. Forget it, man.」"
+msgstr "Noto「Perdón, no es nada. Olvídalo.」"
+
+msgid "Ryuuji「That ain't gonna work on me. Did you＿think I'd say \"oh okay\"?」"
+msgstr "Ryuuji「Eso no va a funcionar conmigo. ¿Creíste＿que diría \"ah, está bien\"?」"
+
+msgid "Noto「Welp, it's ghost hunting time! You can＿expect some good news later!」"
+msgstr "Noto「¡En fin, es hora de cazar fantasmas!＿¡Espera buenas noticias más tarde!」"
+
+msgid "Ryuuji「（How exactly would Taiga and Kitamura＿look good together? How......?）」"
+msgstr "Ryuuji「（¿Cómo es que Taiga y Kitamura harían＿buena pareja? ¿Cómo......?）」"
+
+msgid "Ryuuji「（............）」"
+msgstr "Ryuuji「（............）」"
+
+msgid "Noto「It's just, you called my name all of a＿sudden, I nearly shit my pants.＿Thought you were the ghost of Kanou」"
+msgstr "Noto「Es que me llamaste tan de repente＿que casi me cago del susto. Creí＿que eras el fantasma de Kanou」"
+
+msgid "Noto「Sumire.」"
+msgstr "Noto「Sumire.」"
+
+msgid "Noto「The past few days, people have been＿seeing a Kanou Sumire lookalike here＿and there, man～ But she's in America,」"
+msgstr "Noto「Estos últimos días se ha visto a alguien＿idéntica a Kanou Sumire por ahí～ Pero＿ella está en Estados Unidos,」"
+
+msgid "Noto「right? Even the folks at Kanou-Mart＿say she hasn't been back.」"
+msgstr "Noto「¿no? Hasta la gente del Kanou-Mart＿dice que no ha vuelto.」"
+
+msgid "Noto「All over the Oohashi High School＿fansite people are spreading shit like＿\"Is it a doppelganger!? Is it a ghost!?\"」"
+msgstr "Noto「En el sitio de fans de la Preparatoria＿Oohashi andan diciendo mierdas como＿\"¡¿Un doppelganger?! ¡¿Un fantasma?!\"」"
+
+msgid "Noto「Did you know?」"
+msgstr "Noto「¿Lo sabías?」"
+
+msgid "Noto「So after that, people on the site＿started to get worked up about finding＿the doppelganger or ghost or」"
+msgstr "Noto「Y después de eso, en el sitio＿se alborotaron por encontrar al＿doppelganger, fantasma o」"
+
+msgid "Noto「whatever.」"
+msgstr "Noto「lo que sea.」"
+
+msgid "Noto「Witnesses claim to have seen her＿around Kanou-Mart, but if you ask me,＿her ghost is WAY more likely to show」"
+msgstr "Noto「Hay testigos que dicen haberla visto por＿el Kanou-Mart, pero si me preguntas, es＿MUCHO más probable que su fantasma」"
+
+msgid "Noto「up around the school.」"
+msgstr "Noto「aparezca por la escuela.」"
+
+msgid "Noto「She was pretty passionate about＿student council, and then THAT＿happened just before she left for」"
+msgstr "Noto「Le apasionaba bastante el consejo＿estudiantil, y justo pasó ESO＿antes de que se fuera a」"
+
+msgid "Noto「America, right? With all that drama, I'm＿sure THIS is where it'll manifest!」"
+msgstr "Noto「Estados Unidos, ¿no? Con todo ese drama,＿¡seguro que AQUÍ se manifiesta!」"
+
+msgid "Noto「Man, I'm psyched! When I catch it, I'll＿become a legend! Rather than try to＿get a girlfriend, I've decided to strive」"
+msgstr "Noto「¡Qué emoción! ¡Cuando lo atrape, me＿volveré una leyenda! En vez de intentar＿conseguir novia, decidí aspirar」"
+
+msgid "Noto「for godhood!」"
+msgstr "Noto「¡a la divinidad!」"
+
+msgid "Noto「Does he still have feelings for her, I＿wonder? Don't you think Kitamura＿would be better off hooking up with」"
+msgstr "Noto「¿Seguirá sintiendo algo por ella?＿¿No crees que a Kitamura le iría＿mejor saliendo con」"
+
+msgid "Noto「Tiger over her?」"
+msgstr "Noto「Tigre en vez de ella?」"
+
+msgid "Noto「Naw, I was just sayin' I think Kitamura＿and the Tiger would look good＿together, man～ But I'm no gossip. You」"
+msgstr "Noto「Nah, solo decía que Kitamura y＿la Tigre harían buena pareja～ Pero＿no soy chismoso. Puedes」"
+
+msgid "Noto「can ask Tiger for the details.」"
+msgstr "Noto「preguntarle los detalles a Tigre.」"

@@ -1,0 +1,275 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「Yo.」"
+msgstr "Ryuuji「Hola.」"
+
+msgid "Noto「Oh. Takasu.」"
+msgstr "Noto「Oh. Takasu.」"
+
+msgid "Haruta「'Sup dude......」"
+msgstr "Haruta「¿Qué hay, amigo......?」"
+
+msgid "Ryuuji「......You guys look pretty depressed.」"
+msgstr "Ryuuji「......Se ven bastante deprimidos.」"
+
+msgid "Ryuuji「Come to think of it, didn't you guys go＿to a mixer today, Noto?」"
+msgstr "Ryuuji「Ahora que lo pienso, ¿hoy no iban＿a una cita grupal, Noto?」"
+
+msgid "Noto「Well, about that, see......」"
+msgstr "Noto「Bueno, sobre eso, verás......」"
+
+msgid "Noto「Well, about that, we did agree to go to＿a mixer today, but......」"
+msgstr "Noto「Bueno, sobre eso, sí quedamos en ir＿a una cita grupal hoy, pero......」"
+
+msgid "Ryuuji「Whoa...... Bitches......」"
+msgstr "Ryuuji「Vaya...... Qué malditas......」"
+
+msgid "Haruta「Notocchi laughed it off and forgave＿'em～ but they're really just the＿WORST!」"
+msgstr "Haruta「Notocchi se rio y las perdonó～,＿¡pero en serio son lo PEOR!」"
+
+msgid "Ryuuji「What, so Haruta was organizing it?」"
+msgstr "Ryuuji「¿Qué, entonces Haruta la organizaba?」"
+
+msgid "Noto「Yeah, apparently they were friends of＿a friend.」"
+msgstr "Noto「Sí, al parecer eran amigas de un amigo.」"
+
+msgid "Haruta「I wanted to do Auld Lang Syne with＿everybody～ The plan's ruined!」"
+msgstr "Haruta「¡Quería cantar Auld Lang Syne con＿todos～! ¡El plan se arruinó!」"
+
+msgid "Noto「So yeah, as we no longer have any＿plans, we were talking about going to＿see a movie.」"
+msgstr "Noto「Así que bueno, como ya no tenemos＿planes, hablábamos de ir a＿ver una película.」"
+
+msgid "Haruta「Oh, I know. If you're free, you should＿come with, Taka-chan～」"
+msgstr "Haruta「Ah, ya sé. Si estás libre, deberías＿venir con nosotros, Taka-chan～」"
+
+msgid "Ryuuji「Nope. Sorry, but I'm gonna pass today.」"
+msgstr "Ryuuji「No. Perdón, pero hoy paso.」"
+
+msgid "Haruta「Whaaat～!?」"
+msgstr "Haruta「¡¿Quééé～?!」"
+
+msgid "Noto「Don't be selfish. Takasu's not back to＿normal quite yet.」"
+msgstr "Noto「No seas egoísta. Takasu aún no vuelve＿a la normalidad del todo.」"
+
+msgid "Noto「Oh well. Then I guess I'll go on a date＿with Haruta.」"
+msgstr "Noto「Qué se le va a hacer. Supongo＿que iré de cita con Haruta.」"
+
+msgid "Haruta「Ugggh～ I don't like the sound of＿that～! Sorry dude, I'm into girls～」"
+msgstr "Haruta「Aaaagh～ ¡No me gusta cómo suena eso～!＿Perdón, amigo, me gustan las chicas～」"
+
+msgid "Noto「Now I really want you to go with me.＿What's wrong with how it sounded?」"
+msgstr "Noto「Ahora sí quiero que vayas conmigo.＿¿Qué tiene de malo cómo sonó?」"
+
+msgid "Haruta「Well～ Isn't it better to take a girl to＿see a movie? Alright, time for drastic＿measures for Notocchi's sake!」"
+msgstr "Haruta「Bueno～ ¿No es mejor llevar a una chica＿a ver una película? ¡Bien, medidas＿drásticas por el bien de Notocchi!」"
+
+msgid "Noto「What are you gonna do?」"
+msgstr "Noto「¿Qué vas a hacer?」"
+
+msgid "Haruta「Lookie there, those two girls look like＿they have nothin' better to do! I'm＿gonna go talk to them. Be right back!」"
+msgstr "Haruta「Mira allá, ¡esas dos chicas parecen＿no tener nada mejor que hacer! Voy＿a hablarles. ¡Ya vuelvo!」"
+
+msgid "Noto「......Gone before I could stop him.」"
+msgstr "Noto「......Se fue antes de poder detenerlo.」"
+
+msgid "Ryuuji「Hey, is it really possible to pick up＿girls around here?」"
+msgstr "Ryuuji「Oye, ¿de verdad se puede＿ligar chicas por aquí?」"
+
+msgid "Noto「It's unheard of. But since we wasted all＿that time waiting, I'll bet Haruta is＿getting desperate, man.」"
+msgstr "Noto「Nunca se ha visto algo así. Pero como＿perdimos tanto tiempo esperando, seguro＿Haruta se está desesperando, hombre.」"
+
+msgid "Ryuuji「I don't follow you.」"
+msgstr "Ryuuji「No te sigo.」"
+
+msgid "Ryuuji「Makes sense...... In that case, wanna eat＿at my place?」"
+msgstr "Ryuuji「Tiene sentido...... En ese caso,＿¿quieren comer en mi casa?」"
+
+msgid "Noto「At your house?」"
+msgstr "Noto「¿En tu casa?」"
+
+msgid "Ryuuji「I'm gonna be cooking something＿anyway, and cooking for three is no＿different from the usual.」"
+msgstr "Ryuuji「Igual voy a cocinar algo, y＿cocinar para tres no es muy＿distinto de lo habitual.」"
+
+msgid "Noto「Your home-cooking, huh? I've heard＿the rumors, so I'm mad curious, but......＿won't we be a bother to your family?」"
+msgstr "Noto「Tu comida casera, ¿eh? Oí los rumores,＿tengo mucha curiosidad, pero...... ¿no＿molestaremos a tu familia?」"
+
+msgid "Noto「Ohh, good idea. Between the four of us,＿we could definitely scrounge up some＿memories for you, man.」"
+msgstr "Noto「Ohh, buena idea. Entre los cuatro,＿seguro desenterramos algunos recuerdos＿para ti, hombre.」"
+
+msgid "Ryuuji「Sorry for making you fuss over me.」"
+msgstr "Ryuuji「Perdón por hacerlos preocuparse por mí.」"
+
+msgid "Noto「No no, you've got that backwards. Let's＿get Haruta back here.」"
+msgstr "Noto「No, no, es al revés. Vamos a＿traer de vuelta a Haruta.」"
+
+msgid "Ryuuji「Oh, he's on his way back...... Whoa,＿check out the look on his face.」"
+msgstr "Ryuuji「Ah, ahí viene de regreso......＿Uau, mira la cara que trae.」"
+
+msgid "Noto「......Well, it goes without saying, right?」"
+msgstr "Noto「......Bueno, sobra decirlo, ¿no?」"
+
+msgid "Haruta「Hey, is this what they mean by the＿word \"heartbreak\"～?」"
+msgstr "Haruta「Oigan, ¿esto es lo que significa＿la palabra \"desamor\"～?」"
+
+msgid "Haruta「No WAY, for REALS～!? I'm THERE!＿Thanks, Taka-chan～! WOW～!」"
+msgstr "Haruta「¡¿EN SERIO, DE VERDAD～?! ¡Ahí estaré!＿¡Gracias, Taka-chan～! ¡UAU～!」"
+
+msgid "Ryuuji「No problem. But come on, it's nothing＿to make a fuss about.」"
+msgstr "Ryuuji「No hay problema. Pero vamos, no＿es para hacer tanto escándalo.」"
+
+msgid "Haruta「My broken brown heart has been＿thrilled and swirled～! I think I'm falling＿for you, Taka-chan!」"
+msgstr "Haruta「¡Mi roto corazón marrón se ha emocionado＿y arremolinado～! ¡Creo que me estoy＿enamorando de ti, Taka-chan!」"
+
+msgid "Ryuuji「There was a lot wrong with what you＿just said, but I get it, so calm down.＿Also, I'm into girls too.」"
+msgstr "Ryuuji「Hubo muchas cosas mal en lo que dijiste,＿pero te entiendo, cálmate. Además,＿también me gustan las chicas.」"
+
+msgid "Haruta「Whoa～! Rejected by Taka-chan～!」"
+msgstr "Haruta「¡Uau～! ¡Rechazado por Taka-chan～!」"
+
+msgid "Ryuuji「Uh...... L-Look......」"
+msgstr "Ryuuji「Eh...... M-Mira......」"
+
+msgid "Noto「Haruta, stop being so frickin' annoying.」"
+msgstr "Noto「Haruta, deja de ser tan molesto.」"
+
+msgid "Haruta「But now I'll never get marrieddd～!!」"
+msgstr "Haruta「¡Pero ahora nunca me casaréee～!!」"
+
+msgid "Haruta「Ngggghh!」"
+msgstr "Haruta「¡Ngggghh!」"
+
+msgid "Noto「Whew, peace and quiet at last.」"
+msgstr "Noto「Uf, por fin paz y tranquilidad.」"
+
+msgid "Ryuuji「Noto, are you some kind of black belt?」"
+msgstr "Ryuuji「Noto, ¿eres cinturón negro o algo así?」"
+
+msgid "Noto「Nope, I'm just used to that treatment,＿that's all. Uhh, so what're we doing?」"
+msgstr "Noto「No, solo estoy acostumbrado＿a ese trato, eso es todo. Eh,＿¿entonces qué hacemos?」"
+
+msgid "Ryuuji「Oh, and if possible I'd like to start＿dinner by 6:30.」"
+msgstr "Ryuuji「Ah, y si se puede, me gustaría＿empezar la cena a las 6:30.」"
+
+msgid "Noto「Roger that. Then we'll go see if we can＿nab Master Kitamura. Shall we bring＿over a cake or something?」"
+msgstr "Noto「Entendido. Vamos a ver si atrapamos＿al Maestro Kitamura. ¿Llevamos＿un pastel o algo así?」"
+
+msgid "Ryuuji「You don't have to.」"
+msgstr "Ryuuji「No hace falta.」"
+
+msgid "Noto「Alright. Then we'll figure something＿out. Later.」"
+msgstr "Noto「Está bien. Ya veremos qué＿llevamos. Nos vemos.」"
+
+msgid "Ryuuji「Bye.」"
+msgstr "Ryuuji「Adiós.」"
+
+msgid "Ryuuji「I'm home.」"
+msgstr "Ryuuji「Estoy en casa.」"
+
+msgid "Inko-chan「HO, HOM, HOM」"
+msgstr "Inko-chan「CA, CAS, CAS」"
+
+msgid "Ryuuji「I'm home, Inko-chan.」"
+msgstr "Ryuuji「Estoy en casa, Inko-chan.」"
+
+msgid "Inko-chan「HO, HOM, HOM......」"
+msgstr "Inko-chan「CA, CAS, CAS......」"
+
+msgid "Ryuuji「Huh? Where's Yasuko?」"
+msgstr "Ryuuji「¿Eh? ¿Dónde está Yasuko?」"
+
+msgid "Inko-chan「HOM, MOM!」"
+msgstr "Inko-chan「¡CAS, MAMÁ!」"
+
+msgid "Ryuuji「......Well, Yasuko certainly is my mom.＿Inko-chan, I really wish you'd told me＿sooner.」"
+msgstr "Ryuuji「......Bueno, Yasuko sin duda es＿mi mamá. Inko-chan, ojalá me lo＿hubieras dicho antes.」"
+
+msgid "Inko-chan「MOM...... MUM?」"
+msgstr "Inko-chan「MAMÁ...... ¿MUM?」"
+
+msgid "Ryuuji「Wait, why the English accent?」"
+msgstr "Ryuuji「Espera, ¿por qué el acento inglés?」"
+
+msgid "Inko-chan「......WHY?」"
+msgstr "Inko-chan「......¿POR QUÉ?」"
+
+msgid "Ryuuji「No, never mind, Inko-chan. Worrying is＿bad for your plumage, okay?」"
+msgstr "Ryuuji「No, olvídalo, Inko-chan. Preocuparse＿es malo para tu plumaje, ¿sí?」"
+
+msgid "Inko-chan「YEAH......」"
+msgstr "Inko-chan「SÍ......」"
+
+msgid "Ryuuji「Now then, first I'll call Yasuko and talk＿to her about the guys. After that......＿cleaning!」"
+msgstr "Ryuuji「Bien, primero llamaré a Yasuko＿para hablarle de los chicos.＿Después...... ¡a limpiar!」"
+
+msgid "Ryuuji「Heh, it's perfect, if I do say so myself!」"
+msgstr "Ryuuji「¡Je, está perfecto, modestia aparte!」"
+
+msgid "Ryuuji「（The gas is off, the door's locked......＿Now, what should I do for tonight's＿menu......? Hehehe!）」"
+msgstr "Ryuuji「（El gas cerrado, puerta con llave......＿Ahora, ¿qué hago de menú＿para hoy......? ¡Jejeje!）」"
+
+msgid "Haruta「Listen, Taka-chan～! Somehow～ The＿girls who were going～ They got hit on＿at Hatsumode and both got boyfriends,」"
+msgstr "Haruta「¡Escucha, Taka-chan～! Por lo visto～ a＿las chicas que venían～ les coquetearon＿en el Hatsumode y ambas tienen novio,」"
+
+msgid "Haruta「so they canceled at the last second～!」"
+msgstr "Haruta「¡así que cancelaron a último momento～!」"
+
+msgid "Haruta「And～ After we'd been waiting forever＿at the meeting spot～ We tried calling＿'em and they said that out of the」"
+msgstr "Haruta「¡Y～ después de esperar muchísimo en＿el punto de encuentro～ las llamamos＿y nos dijeron eso así de la」"
+
+msgid "Haruta「blue～!」"
+msgstr "Haruta「nada～!」"
+
+msgid "Ryuuji「Auld Lang Syne...... Ohh, that New＿Year's song, huh. That's so＿complicated that I could scarcely」"
+msgstr "Ryuuji「Auld Lang Syne...... Ahh, esa canción＿de Año Nuevo, eh. Es tan complicada＿que casi no podía」"
+
+msgid "Ryuuji「believe Haruta was saying it for a＿second there.」"
+msgstr "Ryuuji「creer que Haruta la dijera＿hace un momento.」"
+
+msgid "Ryuuji「Yeah, I want to try and get back to＿normal over winter break if I can......＿Sorry, guys. Invite me again next time,」"
+msgstr "Ryuuji「Sí, quiero recuperarme durante las＿vacaciones de invierno si puedo......＿Perdón, chicos. Invítenme la próxima,」"
+
+msgid "Ryuuji「please.」"
+msgstr "Ryuuji「por favor.」"
+
+msgid "Noto「Well, our plans for the day were to＿hang out with the girls and have＿dinner together. So me and Haruta」"
+msgstr "Noto「Bueno, nuestro plan de hoy era＿salir con las chicas y cenar juntos.＿Así que Haruta y yo」"
+
+msgid "Noto「both told our folks we'd be skipping＿dinner, man.」"
+msgstr "Noto「les dijimos a nuestros padres que＿no cenaríamos en casa, hombre.」"
+
+msgid "Noto「So we're gonna see the flick, eat＿something and go home...... Not always＿the case on a date, right? I got a bad」"
+msgstr "Noto「Veremos la peli, comeremos algo y a＿casa...... Una cita no siempre acaba＿así, ¿no? Tengo un mal」"
+
+msgid "Noto「feeling.」"
+msgstr "Noto「presentimiento.」"
+
+msgid "Ryuuji「On the contrary. My mom is a little＿weird, so she'd probably be happy. Oh,＿while we're at it, shall we talk to」"
+msgstr "Ryuuji「Al contrario. Mi mamá es un poco rara,＿así que seguro se alegrará. Ah, ya que＿estamos, ¿hablamos con」"
+
+msgid "Ryuuji「Kitamura about it?」"
+msgstr "Ryuuji「Kitamura sobre eso?」"
+
+msgid "Noto「I appreciate our friendship from the＿bottom of my heart. That aside, Haruta,＿wanna come and feast on Takasu's」"
+msgstr "Noto「Agradezco nuestra amistad desde el fondo＿del corazón. Aparte de eso, Haruta,＿¿quieres darte un festín con la」"
+
+msgid "Noto「home cooking tonight?」"
+msgstr "Noto「comida casera de Takasu esta noche?」"
+
+msgid "Ryuuji「（......No, I could have had a bigger＿reaction than that...... What's wrong＿with my brown...... I mean, my broken）」"
+msgstr "Ryuuji「（......No, pude haber tenido una＿reacción mayor que esa...... ¿Qué le＿pasa a mi marrón...... digo, a mi roto）」"
+
+msgid "Ryuuji「（heart?）」"
+msgstr "Ryuuji「（corazón?）」"
+
+msgid "Ryuuji「Let's see...... Aw crap, I gotta go back to＿check the fridge. Then tidy up and go＿shopping...... Yeah, sorry, but could you」"
+msgstr "Ryuuji「A ver...... Rayos, debo volver a＿revisar el refrigerador y ordenar.＿Ir de compras...... Sí, perdón, ¿podrían」"
+
+msgid "Ryuuji「hit me up later?」"
+msgstr "Ryuuji「contactarme más tarde?」"
+
+msgid "Ryuuji「（......Dragging Haruta while he's like＿that...... Well, the more I think about it,＿the more I think that might just be）」"
+msgstr "Ryuuji「（......Llevar a Haruta estando así......＿Bueno, cuanto más lo pienso, más creo＿que eso podría ser simplemente）」"
+
+msgid "Ryuuji「（normal.）」"
+msgstr "Ryuuji「（normal.）」"

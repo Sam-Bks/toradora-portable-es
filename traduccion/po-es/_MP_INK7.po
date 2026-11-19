@@ -1,0 +1,707 @@
+msgid ""
+msgstr ""
+
+msgid "Stare"
+msgstr "Mirar fijamente"
+
+msgid "Stare passionately"
+msgstr "Mirar con pasión"
+
+msgid "Stare calmly"
+msgstr "Mirar con calma"
+
+msgid "Stare blankly"
+msgstr "Mirar distraído"
+
+msgid "About Taiga"
+msgstr "Sobre Taiga"
+
+msgid "She says I'll fall for Kushieda again"
+msgstr "Dice: volveré a enamorarme de Kushieda"
+
+msgid "Do you get lonely without Taiga around?"
+msgstr "¿Te sientes solo sin Taiga cerca?"
+
+msgid "In the end she never ate the leftovers"
+msgstr "Al final nunca se comió las sobras"
+
+msgid "About Kushieda"
+msgstr "Sobre Kushieda"
+
+msgid "My heart pounds when I talk to her"
+msgstr "Me late fuerte el corazón al hablarle"
+
+msgid "She said to \"count on her\" tomorrow"
+msgstr "Dijo que \"cuente con ella\" mañana"
+
+msgid "She wants to run a haunted house"
+msgstr "Quiere hacer una casa embrujada"
+
+msgid "About Classmates"
+msgstr "Sobre los compañeros"
+
+msgid "Kitamura's got a ton of muscles"
+msgstr "Kitamura tiene un montón de músculos"
+
+msgid "Haruta's daydreams are alarming sometimes"
+msgstr "Las fantasías de Haruta a veces alarman"
+
+msgid "Is Noto's father rich, maybe?"
+msgstr "¿Será que el padre de Noto es rico?"
+
+msgid "About Sensei"
+msgstr "Sobre Sensei"
+
+msgid "Sensei went with us to Luxure"
+msgstr "Sensei fue con nosotros a Luxure"
+
+msgid "Seems we pressed her berserk button"
+msgstr "Parece que tocamos su botón de furia"
+
+msgid "Must be hard to be 30 and single"
+msgstr "Debe ser duro tener 30 y estar soltera"
+
+msgid "About the Test of Courage"
+msgstr "Sobre la Prueba de Valor"
+
+msgid "You're in charge while I'm gone"
+msgstr "Quedas a cargo mientras no estoy"
+
+msgid "First I've heard of a haunted observatory"
+msgstr "Nunca oí de un observatorio embrujado"
+
+msgid "Is this test of courage...... my first?"
+msgstr "¿Será mi primera prueba de valor......?"
+
+msgid "--Let's Keep Inko-chan Company!--"
+msgstr "--¡Hagámosle compañía a Inko-chan!--"
+
+msgid "Inko-chan「EYES! EYES! CONNECTTTT!!!」"
+msgstr "Inko-chan「¡OJOS! ¡OJOS! ¡¡¡CONECTAAAR!!!」"
+
+msgid "Ryuuji「Oh, that's right, Inko-chan!! We can＿connect through our gaze! That's my＿Inko-chan!!」"
+msgstr "Ryuuji「¡Ah, es verdad, Inko-chan!! ¡Podemos＿conectarnos con la mirada! ¡Ese＿es mi Inko-chan!!」"
+
+msgid "Inko-chan「CONNECT! CON, NECKKK!」"
+msgstr "Inko-chan「¡CONECTAR! ¡CO, CONECAAAR!」"
+
+msgid "Ryuuji「You're missing the \"T\" there......」"
+msgstr "Ryuuji「Te faltó la \"T\" ahí......」"
+
+msgid "Inko-chan「GET...... NAKED?」"
+msgstr "Inko-chan「¿DES...... NUDARSE?」"
+
+msgid "Ryuuji「No, I'm not asking you to do that! And＿technically you're already naked＿anyway!!」"
+msgstr "Ryuuji「¡No, no te estoy pidiendo eso!＿¡Y técnicamente tú ya estás desnudo＿de todos modos!!」"
+
+msgid "Inko-chan「......YOU?」"
+msgstr "Inko-chan「......¿TÚ?」"
+
+msgid "Ryuuji「No, my clothes are staying on, thanks.」"
+msgstr "Ryuuji「No, seguiré con la ropa puesta, gracias.」"
+
+msgid "Inko-chan「HE, HI...... HIT, MAN......!」"
+msgstr "Inko-chan「¡SI, SI...... SICA, RIO......!」"
+
+msgid "Ryuuji「So that's how Inko-chan sees me......?＿I'm crushed.」"
+msgstr "Ryuuji「¿Así es como me ve Inko-chan......?＿Estoy destrozado.」"
+
+msgid "Inko-chan「MI, MIS, MISSING ME?」"
+msgstr "Inko-chan「¿E, ECH, ME ECHAS DE MENOS?」"
+
+msgid "Ryuuji「So close! Inko-chan, past tense is＿\"missed.\" Now, give it one more try.」"
+msgstr "Ryuuji「¡Casi! Inko-chan, en pasado es＿\"echaste\". Ahora, inténtalo otra vez.」"
+
+msgid "Inko-chan「MI, MIS, TAKE!!」"
+msgstr "Inko-chan「¡E, E, ERROR!!」"
+
+msgid "Ryuuji「That's true, Inko-chan, you did make a＿little mistake! Glad you understand＿that!」"
+msgstr "Ryuuji「Es cierto, Inko-chan, ¡cometiste＿un pequeño error! ¡Me alegra＿que lo entiendas!」"
+
+msgid "Inko-chan「......WHAT?」"
+msgstr "Inko-chan「......¿QUÉ?」"
+
+msgid "Ryuuji「Uh, well......」"
+msgstr "Ryuuji「Eh, bueno......」"
+
+msgid "Inko-chan「THAT, IS...... GREAT!」"
+msgstr "Inko-chan「¡ESO, ES...... GENIAL!」"
+
+msgid "Ryuuji「I'm not sure. I have no idea what would＿drive her to say that.」"
+msgstr "Ryuuji「No estoy seguro. No tengo idea de＿qué la llevaría a decir eso.」"
+
+msgid "Inko-chan「FALL...... LOVE?」"
+msgstr "Inko-chan「¿ENA...... MORARSE?」"
+
+msgid "Ryuuji「Yeah. I wonder why she would say＿something like that.」"
+msgstr "Ryuuji「Sí. Me pregunto por qué diría algo así.」"
+
+msgid "Inko-chan「......WI, WILD?」"
+msgstr "Inko-chan「......¿SAL, SALVA?」"
+
+msgid "Inko-chan「......HUH?」"
+msgstr "Inko-chan「......¿EH?」"
+
+msgid "Ryuuji「Well, there's no point in trying to＿explain it.」"
+msgstr "Ryuuji「Bueno, no tiene sentido＿intentar explicarlo.」"
+
+msgid "Inko-chan「......WHA?」"
+msgstr "Inko-chan「......¿QUÉ?」"
+
+msgid "Ryuuji「\"Why\"? Well...... Because Yasuko does, I＿guess.」"
+msgstr "Ryuuji「¿\"Por qué\"? Bueno...... Porque Yasuko＿sí se las come, supongo.」"
+
+msgid "Inko-chan「OH......?」"
+msgstr "Inko-chan「¿OH......?」"
+
+msgid "Ryuuji「......That was pretty cold of you...... What＿are you trying to say, Inko-chan?」"
+msgstr "Ryuuji「......Qué frío de tu parte......＿¿Qué intentas decir, Inko-chan?」"
+
+msgid "Inko-chan「......WHA～?」"
+msgstr "Inko-chan「......¿QUÉ～?」"
+
+msgid "Inko-chan「MOTTANA......」"
+msgstr "Inko-chan「QUÉ DESPERDI......」"
+
+msgid "Ryuuji「That's right! That's it! MOTTAINAI! Now,＿give it one more try! MOTTAINAI!＿MOTTAINAI!!」"
+msgstr "Ryuuji「¡Eso es! ¡QUÉ DESPERDICIO! Ahora,＿¡otra vez! ¡QUÉ DESPERDICIO!＿¡QUÉ DESPERDICIO!」"
+
+msgid "Inko-chan「UGH......」"
+msgstr "Inko-chan「UGH......」"
+
+msgid "Ryuuji「......Sorry.」"
+msgstr "Ryuuji「......Perdón.」"
+
+msgid "Inko-chan「HEART...... POUNDS?」"
+msgstr "Inko-chan「¿EL CORAZÓN...... LATE?」"
+
+msgid "Ryuuji「Yeah. It's like, I'm happy, but at the＿same time it hurts.」"
+msgstr "Ryuuji「Sí. Es como estar feliz, pero＿al mismo tiempo duele.」"
+
+msgid "Inko-chan「POUND? POUND SOUND? SOUND＿FOUND?」"
+msgstr "Inko-chan「¿LATE? ¿LATE BATE? ¿BATE MATE?」"
+
+msgid "Ryuuji「Inko-chan, are you having fun＿rhyming......?」"
+msgstr "Ryuuji「Inko-chan, ¿te estás divirtiendo＿rimando......?」"
+
+msgid "Inko-chan「RIDE...... BIKE?」"
+msgstr "Inko-chan「¿ANDAR...... EN BICI?」"
+
+msgid "Ryuuji「No, it's not the same as accelerating＿your heart rate from exercise......」"
+msgstr "Ryuuji「No, no es lo mismo que acelerar el＿pulso haciendo ejercicio......」"
+
+msgid "Inko-chan「SI...... SICK?」"
+msgstr "Inko-chan「¿EN...... ENFERMO?」"
+
+msgid "Ryuuji「Yeah, it could be that I'm just＿\"lovesick,\" I guess......」"
+msgstr "Ryuuji「Sí, puede que solo esté \"enfermo＿de amor\", supongo......」"
+
+msgid "Inko-chan「IM......PLY?」"
+msgstr "Inko-chan「¿IN...... SINÚA?」"
+
+msgid "Inko-chan「......WHA?」"
+msgstr "Inko-chan「......¿QUÉ?」"
+
+msgid "Ryuuji「Well, if I don't get it, I can't expect you＿to get it either......」"
+msgstr "Ryuuji「Bueno, si ni yo lo entiendo, no puedo＿esperar que tú lo entiendas......」"
+
+msgid "Inko-chan「S-SCARYYYYY! SO SCARYYYYY!」"
+msgstr "Inko-chan「¡Q-QUÉ MIEEEEDO! ¡MUCHO MIEEEEDO!」"
+
+msgid "Ryuuji「I-It's okay, Inko-chan! She'd only be＿doing it for the Culture Festival, so it＿won't be that scary!」"
+msgstr "Ryuuji「¡E-Está bien, Inko-chan! ¡Solo lo＿haría para el Festival Cultural,＿así que no dará tanto miedo!」"
+
+msgid "Inko-chan「FA...... FACE! FAAAACE!!」"
+msgstr "Inko-chan「¡CA...... CARA! ¡¡CAAAARA!!」"
+
+msgid "Ryuuji「My face!?」"
+msgstr "Ryuuji「¡¿Mi cara?!」"
+
+msgid "Inko-chan「OHO! OHOHOHO! OHOOOO!」"
+msgstr "Inko-chan「¡OJO! ¡OJOJOJO! ¡OJOOOO!」"
+
+msgid "Ryuuji「I'm glad you're in a good mood, but why＿are you so into this topic......?」"
+msgstr "Ryuuji「Me alegra tu buen humor, pero ¿por qué＿te entusiasma tanto este tema......?」"
+
+msgid "Inko-chan「M...... MUS? MUSSELS?」"
+msgstr "Inko-chan「M...... ¿MUS? ¿MOLUSCOS?」"
+
+msgid "Ryuuji「\"Mussels\"? I meant muscles, the ones＿on Kitamura's body. No way I'm eating＿those.」"
+msgstr "Ryuuji「¿\"Moluscos\"? Me refería a los músculos,＿los del cuerpo de Kitamura. Ni＿loco me como eso.」"
+
+msgid "Inko-chan「EMER......GENCY?」"
+msgstr "Inko-chan「¿EMER......GENCIA?」"
+
+msgid "Ryuuji「Not even in an emergency.」"
+msgstr "Ryuuji「Ni siquiera en una emergencia.」"
+
+msgid "Inko-chan「HAR...D...」"
+msgstr "Inko-chan「DI...F...」"
+
+msgid "Ryuuji「Huh? Oh, did you mean \"understanding＿him must be hard\"? You sure don't＿sugarcoat things, Inko-chan......」"
+msgstr "Ryuuji「¿Eh? Ah, ¿dices que \"cuesta＿entenderlo\"? No te andas con＿rodeos, Inko-chan......」"
+
+msgid "Inko-chan「MAYBE? BE?」"
+msgstr "Inko-chan「¿SERÁ? ¿RÁ?」"
+
+msgid "Inko-chan「MAYBE? MAY BE? BAY ME?」"
+msgstr "Inko-chan「¿SERÁ? ¿SE RÁ? ¿RA SE?」"
+
+msgid "Ryuuji「Oh, it seems that topic's a little too＿complicated for you.」"
+msgstr "Ryuuji「Ah, parece que este tema es un＿poco complicado para ti.」"
+
+msgid "Inko-chan「WA...... WAA......」"
+msgstr "Inko-chan「BUA...... BUAA......」"
+
+msgid "Ryuuji「Did you want to go too, Inko-chan?＿Sorry, but as you might expect, that'd＿be a little difficult.」"
+msgstr "Ryuuji「¿Tú también querías ir, Inko-chan?＿Perdón, pero como imaginarás, eso＿sería un poco difícil.」"
+
+msgid "Inko-chan「BERSERK......?」"
+msgstr "Inko-chan「¿FURIA......?」"
+
+msgid "Ryuuji「A \"berserk button\" is... Hmm, how do I＿put it? When you find the No Entry＿Zone and go on in.」"
+msgstr "Ryuuji「Un \"botón de furia\" es... Mmm, ¿cómo＿decirlo? Cuando ves una Zona de Paso＿Prohibido y entras de todas formas.」"
+
+msgid "Inko-chan「NAUGHTY......?」"
+msgstr "Inko-chan「¿TRAVIESO......?」"
+
+msgid "Ryuuji「No no no, I wasn't trying to suggest＿anything like that...... Forget it.」"
+msgstr "Ryuuji「No, no, no, no intentaba insinuar＿nada de eso...... Olvídalo.」"
+
+msgid "Inko-chan「THIRTYYY! GOOD, GOODDDD!!」"
+msgstr "Inko-chan「¡TREINTAAA! ¡BUENO, BUENOOO!!」"
+
+msgid "Ryuuji「Oh? Inko-chan, you approve, huh?」"
+msgstr "Ryuuji「¿Lo apruebas, eh, Inko-chan?」"
+
+msgid "Inko-chan「THIRTYYY! FLIRTYYY! MATUREEE!」"
+msgstr "Inko-chan「¡TREINTAAA! ¡COQUETAAA! ¡MADURAAA!」"
+
+msgid "Ryuuji「Uh, no...... Sensei is nothing like that......」"
+msgstr "Ryuuji「No...... Nada que ver con Sensei......」"
+
+msgid "Inko-chan「......WH......」"
+msgstr "Inko-chan「......¿Y......」"
+
+msgid "Ryuuji「Oh?」"
+msgstr "Ryuuji「¿Ah?」"
+
+msgid "Inko-chan「......WHO CARES?」"
+msgstr "Inko-chan「......¿Y A QUIÉN LE IMPORTA?」"
+
+msgid "Ryuuji「Yeah, I guess you're right.」"
+msgstr "Ryuuji「Sí, supongo que tienes razón.」"
+
+msgid "Inko-chan「HOOO! HEEEY! WOOOO!」"
+msgstr "Inko-chan「¡JUUU! ¡EEEY! ¡YUJUUU!」"
+
+msgid "Ryuuji「Inko-chan!? You're weirdly excited＿about this! Are you really that happy＿about getting the house to yourself?」"
+msgstr "Ryuuji「¡¿Inko-chan?! ¡Estás extrañamente＿emocionado por esto! ¿De verdad te＿alegra tanto tener la casa para ti solo?」"
+
+msgid "Inko-chan「HOO HEE HEE!!」"
+msgstr "Inko-chan「¡¡JU JI JIII!!」"
+
+msgid "Ryuuji「You are, huh...... That kinda hurts my＿feelings.」"
+msgstr "Ryuuji「Sí que te alegra, ¿eh?...... Eso＿hiere un poco mis sentimientos.」"
+
+msgid "Inko-chan「TE, TEST...... AGE?」"
+msgstr "Inko-chan「PRU, PRUEBA...... ¿CALOR?」"
+
+msgid "Ryuuji「A test of courage. Can you say all＿that?」"
+msgstr "Ryuuji「Una prueba de valor. ¿Puedes＿decir todo eso?」"
+
+msgid "Inko-chan「TE, TES, TES, TESTO...... RAGE?」"
+msgstr "Inko-chan「PRU, PRUE, PRUE, PRUEBA...... ¿DOLOR?」"
+
+msgid "Ryuuji「......Better luck next time......」"
+msgstr "Ryuuji「......Mejor suerte la próxima......」"
+
+msgid "Inko-chan「OHHH!? GOOOO! GHOOOOST!」"
+msgstr "Inko-chan「¡¿OHHH?! ¡FAAA! ¡FANTAAAASMA!」"
+
+msgid "Ryuuji「O-Oh, sorry. Are you not a fan of＿horror stuff? My bad!」"
+msgstr "Ryuuji「A-Ah, perdón. ¿No te gustan las＿cosas de terror? ¡Disculpa!」"
+
+msgid "Inko-chan「GHOST, GHOOOOOST!」"
+msgstr "Inko-chan「¡FANTASMA, FANTAAAAASMA!」"
+
+msgid "Inko-chan「......DUNNO」"
+msgstr "Inko-chan「......NO SÉ」"
+
+msgid "Ryuuji「Good point. You've been in your cage＿this whole time, so you have no way of＿knowing......」"
+msgstr "Ryuuji「Buen punto. Has estado en tu jaula＿todo este tiempo, así que no tienes＿forma de saberlo......」"
+
+msgid "HAP_A1_LV2:"
+msgstr "HAP_A1_LV2:"
+
+msgid "ANG_A1_LV1:"
+msgstr "ANG_A1_LV1:"
+
+msgid "ANG_A1_LV2:"
+msgstr "ANG_A1_LV2:"
+
+msgid "SAD_A1_LV1:"
+msgstr "SAD_A1_LV1:"
+
+msgid "SAD_A1_LV2:"
+msgstr "SAD_A1_LV2:"
+
+msgid "FUN_A1_LV2:"
+msgstr "FUN_A1_LV2:"
+
+msgid "HAP_A2_LV1:"
+msgstr "HAP_A2_LV1:"
+
+msgid "HAP_A2_LV2:"
+msgstr "HAP_A2_LV2:"
+
+msgid "ANG_A2_LV1:"
+msgstr "ANG_A2_LV1:"
+
+msgid "ANG_A2_LV2:"
+msgstr "ANG_A2_LV2:"
+
+msgid "SAD_A2_LV2:"
+msgstr "SAD_A2_LV2:"
+
+msgid "FUN_A2_LV1:"
+msgstr "FUN_A2_LV1:"
+
+msgid "FUN_A2_LV2:"
+msgstr "FUN_A2_LV2:"
+
+msgid "HAP_A3_LV2:"
+msgstr "HAP_A3_LV2:"
+
+msgid "ANG_A3_LV1:"
+msgstr "ANG_A3_LV1:"
+
+msgid "ANG_A3_LV2:"
+msgstr "ANG_A3_LV2:"
+
+msgid "SAD_A3_LV1:"
+msgstr "SAD_A3_LV1:"
+
+msgid "SAD_A3_LV2:"
+msgstr "SAD_A3_LV2:"
+
+msgid "FUN_A3_LV2:"
+msgstr "FUN_A3_LV2:"
+
+msgid "HAP_B1_LV2:"
+msgstr "HAP_B1_LV2:"
+
+msgid "ANG_B1_LV1:"
+msgstr "ANG_B1_LV1:"
+
+msgid "ANG_B1_LV2:"
+msgstr "ANG_B1_LV2:"
+
+msgid "SAD_B1_LV1:"
+msgstr "SAD_B1_LV1:"
+
+msgid "SAD_B1_LV2:"
+msgstr "SAD_B1_LV2:"
+
+msgid "FUN_B1_LV2:"
+msgstr "FUN_B1_LV2:"
+
+msgid "HAP_B2_LV1:"
+msgstr "HAP_B2_LV1:"
+
+msgid "HAP_B2_LV2:"
+msgstr "HAP_B2_LV2:"
+
+msgid "ANG_B2_LV1:"
+msgstr "ANG_B2_LV1:"
+
+msgid "ANG_B2_LV2:"
+msgstr "ANG_B2_LV2:"
+
+msgid "SAD_B2_LV2:"
+msgstr "SAD_B2_LV2:"
+
+msgid "FUN_B2_LV1:"
+msgstr "FUN_B2_LV1:"
+
+msgid "FUN_B2_LV2:"
+msgstr "FUN_B2_LV2:"
+
+msgid "HAP_B3_LV1:"
+msgstr "HAP_B3_LV1:"
+
+msgid "HAP_B3_LV2:"
+msgstr "HAP_B3_LV2:"
+
+msgid "ANG_B3_LV1:"
+msgstr "ANG_B3_LV1:"
+
+msgid "ANG_B3_LV2:"
+msgstr "ANG_B3_LV2:"
+
+msgid "SAD_B3_LV2:"
+msgstr "SAD_B3_LV2:"
+
+msgid "FUN_B3_LV1:"
+msgstr "FUN_B3_LV1:"
+
+msgid "FUN_B3_LV2:"
+msgstr "FUN_B3_LV2:"
+
+msgid "HAP_C1_LV2:"
+msgstr "HAP_C1_LV2:"
+
+msgid "ANG_C1_LV1:"
+msgstr "ANG_C1_LV1:"
+
+msgid "ANG_C1_LV2:"
+msgstr "ANG_C1_LV2:"
+
+msgid "SAD_C1_LV1:"
+msgstr "SAD_C1_LV1:"
+
+msgid "SAD_C1_LV2:"
+msgstr "SAD_C1_LV2:"
+
+msgid "FUN_C1_LV2:"
+msgstr "FUN_C1_LV2:"
+
+msgid "HAP_C2_LV1:"
+msgstr "HAP_C2_LV1:"
+
+msgid "HAP_C2_LV2:"
+msgstr "HAP_C2_LV2:"
+
+msgid "ANG_C2_LV1:"
+msgstr "ANG_C2_LV1:"
+
+msgid "ANG_C2_LV2:"
+msgstr "ANG_C2_LV2:"
+
+msgid "SAD_C2_LV2:"
+msgstr "SAD_C2_LV2:"
+
+msgid "FUN_C2_LV1:"
+msgstr "FUN_C2_LV1:"
+
+msgid "FUN_C2_LV2:"
+msgstr "FUN_C2_LV2:"
+
+msgid "HAP_C3_LV1:"
+msgstr "HAP_C3_LV1:"
+
+msgid "HAP_C3_LV2:"
+msgstr "HAP_C3_LV2:"
+
+msgid "ANG_C3_LV2:"
+msgstr "ANG_C3_LV2:"
+
+msgid "SAD_C3_LV1:"
+msgstr "SAD_C3_LV1:"
+
+msgid "SAD_C3_LV2:"
+msgstr "SAD_C3_LV2:"
+
+msgid "FUN_C3_LV1:"
+msgstr "FUN_C3_LV1:"
+
+msgid "FUN_C3_LV2:"
+msgstr "FUN_C3_LV2:"
+
+msgid "HAP_D1_LV2:"
+msgstr "HAP_D1_LV2:"
+
+msgid "ANG_D1_LV1:"
+msgstr "ANG_D1_LV1:"
+
+msgid "ANG_D1_LV2:"
+msgstr "ANG_D1_LV2:"
+
+msgid "SAD_D1_LV1:"
+msgstr "SAD_D1_LV1:"
+
+msgid "SAD_D1_LV2:"
+msgstr "SAD_D1_LV2:"
+
+msgid "FUN_D1_LV2:"
+msgstr "FUN_D1_LV2:"
+
+msgid "HAP_D2_LV1:"
+msgstr "HAP_D2_LV1:"
+
+msgid "HAP_D2_LV2:"
+msgstr "HAP_D2_LV2:"
+
+msgid "ANG_D2_LV1:"
+msgstr "ANG_D2_LV1:"
+
+msgid "ANG_D2_LV2:"
+msgstr "ANG_D2_LV2:"
+
+msgid "SAD_D2_LV2:"
+msgstr "SAD_D2_LV2:"
+
+msgid "FUN_D2_LV1:"
+msgstr "FUN_D2_LV1:"
+
+msgid "FUN_D2_LV2:"
+msgstr "FUN_D2_LV2:"
+
+msgid "HAP_D3_LV1:"
+msgstr "HAP_D3_LV1:"
+
+msgid "HAP_D3_LV2:"
+msgstr "HAP_D3_LV2:"
+
+msgid "ANG_D3_LV1:"
+msgstr "ANG_D3_LV1:"
+
+msgid "ANG_D3_LV2:"
+msgstr "ANG_D3_LV2:"
+
+msgid "SAD_D3_LV2:"
+msgstr "SAD_D3_LV2:"
+
+msgid "FUN_D3_LV1:"
+msgstr "FUN_D3_LV1:"
+
+msgid "FUN_D3_LV2:"
+msgstr "FUN_D3_LV2:"
+
+msgid "HAP_E1_LV1:"
+msgstr "HAP_E1_LV1:"
+
+msgid "HAP_E1_LV2:"
+msgstr "HAP_E1_LV2:"
+
+msgid "ANG_E1_LV1:"
+msgstr "ANG_E1_LV1:"
+
+msgid "ANG_E1_LV2:"
+msgstr "ANG_E1_LV2:"
+
+msgid "SAD_E1_LV2:"
+msgstr "SAD_E1_LV2:"
+
+msgid "FUN_E1_LV1:"
+msgstr "FUN_E1_LV1:"
+
+msgid "FUN_E1_LV2:"
+msgstr "FUN_E1_LV2:"
+
+msgid "HAP_E2_LV1:"
+msgstr "HAP_E2_LV1:"
+
+msgid "HAP_E2_LV2:"
+msgstr "HAP_E2_LV2:"
+
+msgid "ANG_E2_LV1:"
+msgstr "ANG_E2_LV1:"
+
+msgid "ANG_E2_LV2:"
+msgstr "ANG_E2_LV2:"
+
+msgid "SAD_E2_LV2:"
+msgstr "SAD_E2_LV2:"
+
+msgid "FUN_E2_LV1:"
+msgstr "FUN_E2_LV1:"
+
+msgid "FUN_E2_LV2:"
+msgstr "FUN_E2_LV2:"
+
+msgid "HAP_E3_LV2:"
+msgstr "HAP_E3_LV2:"
+
+msgid "ANG_E3_LV1:"
+msgstr "ANG_E3_LV1:"
+
+msgid "ANG_E3_LV2:"
+msgstr "ANG_E3_LV2:"
+
+msgid "SAD_E3_LV1:"
+msgstr "SAD_E3_LV1:"
+
+msgid "SAD_E3_LV2:"
+msgstr "SAD_E3_LV2:"
+
+msgid "FUN_E3_LV2:"
+msgstr "FUN_E3_LV2:"
+
+msgid "HAP_F1_LV2:"
+msgstr "HAP_F1_LV2:"
+
+msgid "ANG_F1_LV1:"
+msgstr "ANG_F1_LV1:"
+
+msgid "ANG_F1_LV2:"
+msgstr "ANG_F1_LV2:"
+
+msgid "SAD_F1_LV1:"
+msgstr "SAD_F1_LV1:"
+
+msgid "SAD_F1_LV2:"
+msgstr "SAD_F1_LV2:"
+
+msgid "FUN_F1_LV2:"
+msgstr "FUN_F1_LV2:"
+
+msgid "HAP_F2_LV1:"
+msgstr "HAP_F2_LV1:"
+
+msgid "HAP_F2_LV2:"
+msgstr "HAP_F2_LV2:"
+
+msgid "ANG_F2_LV2:"
+msgstr "ANG_F2_LV2:"
+
+msgid "SAD_F2_LV1:"
+msgstr "SAD_F2_LV1:"
+
+msgid "SAD_F2_LV2:"
+msgstr "SAD_F2_LV2:"
+
+msgid "FUN_F2_LV1:"
+msgstr "FUN_F2_LV1:"
+
+msgid "FUN_F2_LV2:"
+msgstr "FUN_F2_LV2:"
+
+msgid "HAP_F3_LV1:"
+msgstr "HAP_F3_LV1:"
+
+msgid "HAP_F3_LV2:"
+msgstr "HAP_F3_LV2:"
+
+msgid "ANG_F3_LV1:"
+msgstr "ANG_F3_LV1:"
+
+msgid "ANG_F3_LV2:"
+msgstr "ANG_F3_LV2:"
+
+msgid "SAD_F3_LV2:"
+msgstr "SAD_F3_LV2:"
+
+msgid "FUN_F3_LV1:"
+msgstr "FUN_F3_LV1:"
+
+msgid "FUN_F3_LV2:"
+msgstr "FUN_F3_LV2:"
+
+msgid "Ryuuji「Wiles? Ohh, \"wild\"? It's true Taiga＿operates by some kind of wild instinct,＿but I don't think that's to blame for」"
+msgstr "Ryuuji「¿Salva? Ah, \"salvaje\". Es cierto que＿Taiga se guía por un instinto salvaje,＿pero no creo que eso sea la causa de」"
+
+msgid "Ryuuji「this.」"
+msgstr "Ryuuji「esto.」"
+
+msgid "Ryuuji「If she's implying something, then I＿don't get it...... Don't tell me, she's not＿gonna plan the test of courage herself,」"
+msgstr "Ryuuji「Si insinúa algo, no lo entiendo......＿No me digas que va a organizar ella＿misma la prueba de valor,」"
+
+msgid "Ryuuji「is she?」"
+msgstr "Ryuuji「¿o sí?」"
+
+msgid "Ryuuji「Having stocks makes you a＿stockholder, right? But is playing the＿stock market still common these」"
+msgstr "Ryuuji「Tener acciones te hace accionista,＿¿no? Pero ¿todavía es común invertir＿en la bolsa en estos」"
+
+msgid "Ryuuji「days?」"
+msgstr "Ryuuji「días?」"

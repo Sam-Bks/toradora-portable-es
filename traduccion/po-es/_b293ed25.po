@@ -1,0 +1,323 @@
+msgid ""
+msgstr ""
+
+msgid "Kitamura「Dear Takasu Ryuuji-sama...」"
+msgstr "Kitamura「Estimado Takasu Ryuuji-sama...」"
+
+msgid "Kitamura「I'll contact you again once I get more＿details. See you! --Kitamura Yuusaku」"
+msgstr "Kitamura「Te volveré a contactar cuando＿tenga más detalles. ¡Nos vemos!＿--Kitamura Yuusaku」"
+
+msgid "Ryuuji「If you're going to start with \"Dear＿Ryuuji-sama,\" don't end it with \"see＿you\"......」"
+msgstr "Ryuuji「Si vas a empezar con \"Estimado＿Ryuuji-sama\", no lo termines＿con \"nos vemos\"......」"
+
+msgid "Ryuuji「So Kitamura's coming to Italy, huh?」"
+msgstr "Ryuuji「Así que Kitamura viene a Italia, ¿eh?」"
+
+msgid "Ryuuji「（Once Kitamura gets here, I wonder if＿he'd like me to show him around?）」"
+msgstr "Ryuuji「（Cuando llegue Kitamura, ¿le gustaría＿que le diera un recorrido?）」"
+
+msgid "Ryuuji「（I'm sure Kawashima would say \"I want＿to see all the brand-name stores!\"）」"
+msgstr "Ryuuji「（Seguro que Kawashima diría: \"¡Quiero＿ver todas las tiendas de marca!\"）」"
+
+msgid "Ryuuji「\"Kawashima would say,\" huh...... Guess＿it's a force of habit......」"
+msgstr "Ryuuji「\"Kawashima diría\", eh...... Supongo que＿es la fuerza de la costumbre......」"
+
+msgid "Ryuuji「Huh? Kawashima......!?」"
+msgstr "Ryuuji「¿Eh? ¡¿Kawashima......?!」"
+
+msgid "Ami「Huh?」"
+msgstr "Ami「¿Eh?」"
+
+msgid "Ryuuji「Are you Kawashima Ami?」"
+msgstr "Ryuuji「¿Eres Kawashima Ami?」"
+
+msgid "Ami「......Is that...... Takasu-kun?」"
+msgstr "Ami「......¿Eres...... Takasu-kun?」"
+
+msgid "Ryuuji「Yeah!」"
+msgstr "Ryuuji「¡Sí!」"
+
+msgid "Ami「Huh? What!?」"
+msgstr "Ami「¿Eh? ¡¿Qué?!」"
+
+msgid "Ami「How!? Why are you here!?」"
+msgstr "Ami「¡¿Cómo?! ¡¿Por qué estás aquí?!」"
+
+msgid "Ryuuji「I came here for culinary training.」"
+msgstr "Ryuuji「Vine aquí para formarme en cocina.」"
+
+msgid "Ami「Culinary training!? No way! You're a＿real pro now!」"
+msgstr "Ami「¡¿Formación culinaria?! ¡No puede ser!＿¡Ya eres todo un profesional!」"
+
+msgid "Ryuuji「Likewise, what are you doing here?」"
+msgstr "Ryuuji「Igualmente, ¿qué haces tú por aquí?」"
+
+msgid "Ami「I'm here for work. My next movie is＿being filmed here.」"
+msgstr "Ami「Estoy aquí por trabajo. Mi próxima＿película se está rodando aquí.」"
+
+msgid "Ryuuji「......I see. Kawashima Ami is a big-name＿actress now.」"
+msgstr "Ryuuji「......Ya veo. Kawashima Ami＿ya es una actriz famosa.」"
+
+msgid "Ami「Fufu! I guess so.」"
+msgstr "Ami「¡Juju! Supongo que sí.」"
+
+msgid "Ryuuji「Is this your day off?」"
+msgstr "Ryuuji「¿Hoy es tu día libre?」"
+
+msgid "Ami「Yep! So I'm sightseeing. Then I'll do a＿little shopping.」"
+msgstr "Ami「¡Sip! Así que estoy haciendo turismo.＿Luego iré un poco de compras.」"
+
+msgid "Ryuuji「Heh. Going to all the brand-name＿stores?」"
+msgstr "Ryuuji「Je. ¿Vas a ir a todas las＿tiendas de marca?」"
+
+msgid "Ami「Of course...... What's with that weird＿look? Your ugly mug is creepy as ever.」"
+msgstr "Ami「Por supuesto...... ¿Y esa cara＿rara? Tu cara fea da tanto＿miedo como siempre.」"
+
+msgid "Ryuuji「And your rotten mouth is as＿intolerable as ever......」"
+msgstr "Ryuuji「Y esa boca venenosa tuya sigue siendo＿tan insoportable como siempre......」"
+
+msgid "Ryuuji「Actually, I was just thinking how if you＿came to Rome, you'd want to hit up all＿the brand-name stores.」"
+msgstr "Ryuuji「De hecho, justo pensaba que si venías＿a Roma, querrías recorrer todas＿las tiendas de marca.」"
+
+msgid "Ami「Huh? You were thinking about me?＿What a crazy coincidence.」"
+msgstr "Ami「¿Eh? ¿Estabas pensando en mí?＿Qué coincidencia tan loca.」"
+
+msgid "Ryuuji「It wasn't a coincidence.」"
+msgstr "Ryuuji「No fue una coincidencia.」"
+
+msgid "Ami「What do you mean?」"
+msgstr "Ami「¿A qué te refieres?」"
+
+msgid "Ryuuji「That's why I think about you at every＿opportunity so I won't forget you.」"
+msgstr "Ryuuji「Por eso pienso en ti en cada＿oportunidad, para no olvidarte.」"
+
+msgid "Ami「............Are you stupid?」"
+msgstr "Ami「............¿Eres tonto?」"
+
+msgid "Ryuuji「What's the deal!? I was just doing what＿you asked of me!!」"
+msgstr "Ryuuji「¡¿Qué pasa?! ¡¡Solo estaba haciendo＿lo que me pediste!!」"
+
+msgid "Ami「But you're so stupid! That's the＿dumbest way to go about it!」"
+msgstr "Ami「¡Pero eres tan tonto! ¡Esa es la＿forma más absurda de hacerlo!」"
+
+msgid "Ryuuji「Wha!? Were you lying!? But I............ Oh,＿forget it.」"
+msgstr "Ryuuji「¡¿Qué?! ¡¿Estabas mintiendo?! Pero＿yo............ Ah, olvídalo.」"
+
+msgid "Ami「You what?」"
+msgstr "Ami「¿Tú qué?」"
+
+msgid "Ryuuji「Nothing.」"
+msgstr "Ryuuji「Nada.」"
+
+msgid "Ami「..................I'm kidding.」"
+msgstr "Ami「..................Es broma.」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Ami「Thanks for remembering me.」"
+msgstr "Ami「Gracias por recordarme.」"
+
+msgid "Ryuuji「..................I admit, I thought you might＿have lied. But \"there is some truth in＿every lie,\" right?」"
+msgstr "Ryuuji「..................Lo admito, pensé que＿tal vez mentiste. Pero \"en toda mentira＿hay algo de verdad\", ¿cierto?」"
+
+msgid "Ami「You remembered that too......?」"
+msgstr "Ami「¿También recordaste eso......?」"
+
+msgid "Ami「I'm impressed, Takasu-kun.」"
+msgstr "Ami「Me impresionas, Takasu-kun.」"
+
+msgid "Ami「You're still as impressive as ever.＿And...... I'm kinda into that.」"
+msgstr "Ami「Sigues siendo tan increíble como＿siempre. Y...... eso me atrae un poco.」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Ami「You treat me no differently, whether＿I'm two-faced or an actress.」"
+msgstr "Ami「Me tratas igual, ya sea que tenga＿dos caras o que sea actriz.」"
+
+msgid "Ryuuji「Well, you're still you.」"
+msgstr "Ryuuji「Bueno, sigues siendo tú.」"
+
+msgid "Ami「......So you've really always been＿thinking about me?」"
+msgstr "Ami「......¿Entonces de verdad siempre＿estuviste pensando en mí?」"
+
+msgid "Ryuuji「......Yeah.」"
+msgstr "Ryuuji「......Sí.」"
+
+msgid "Ami「Then......」"
+msgstr "Ami「Entonces......」"
+
+msgid "Ami「Have you been holding out for me?」"
+msgstr "Ami「¿Estuviste esperándome?」"
+
+msgid "Ryuuji「..................」"
+msgstr "Ryuuji「..................」"
+
+msgid "Ami「Fufu...... Oh, I know! Since I'm at the＿Trevi Fountain, I gotta toss in a coin.」"
+msgstr "Ami「Juju...... ¡Ah, ya sé! Ya que＿estoy en la Fontana de Trevi,＿debo lanzar una moneda.」"
+
+msgid "Ryuuji「Oh yeah. You're supposed to throw it＿over your shoulder. If it makes it in,＿then you'll return to Rome, they say.」"
+msgstr "Ryuuji「Ah, sí. Se supone que la lanzas＿por encima del hombro. Si entra,＿dicen que volverás a Roma.」"
+
+msgid "Ami「Huh? Don't you know? It depends on＿the number of coins.」"
+msgstr "Ami「¿Eh? ¿No lo sabes? Depende de＿la cantidad de monedas.」"
+
+msgid "Ryuuji「Does it?」"
+msgstr "Ryuuji「¿En serio?」"
+
+msgid "Ryuuji「They thought up three different＿meanings for this......?」"
+msgstr "Ryuuji「¿Inventaron tres significados＿distintos para esto......?」"
+
+msgid "Ami「Okay, Takasu-kun, I'm throwing two.」"
+msgstr "Ami「Bien, Takasu-kun, voy a lanzar dos.」"
+
+msgid "Ryuuji「Huh? Uh, what!?」"
+msgstr "Ryuuji「¿Eh? Eh, ¡¿qué?!」"
+
+msgid "Ami「Come on, make it snappy. Don't get＿mugged.」"
+msgstr "Ami「Vamos, date prisa. Que no te asalten.」"
+
+msgid "Ryuuji「H-Hey!」"
+msgstr "Ryuuji「¡O-Oye!」"
+
+msgid "Ami「One, two!」"
+msgstr "Ami「¡Una, dos!」"
+
+msgid "Ami「Oh, they went in!」"
+msgstr "Ami「¡Oh, entraron!」"
+
+msgid "Ryuuji「Y-You!!」"
+msgstr "Ryuuji「¡¡T-Tú!!」"
+
+msgid "Ryuuji「Today's my day off.」"
+msgstr "Ryuuji「Hoy es mi día libre.」"
+
+msgid "Ami「It is? What a shame. Okay, let's go＿there anyway. I want to see it.」"
+msgstr "Ami「¿Lo es? Qué lástima. Bueno, vamos allí＿de todos modos. Quiero verlo.」"
+
+msgid "Ryuuji「Jeez, fine...... Come on.」"
+msgstr "Ryuuji「Cielos, está bien...... Vamos.」"
+
+msgid "Ami「Huh? What's with your hand?」"
+msgstr "Ami「¿Eh? ¿Y esa mano?」"
+
+msgid "Ryuuji「\"When in Rome, do as the Romans do.\"＿In Italy, you're a gentleman or you're＿trash.」"
+msgstr "Ryuuji「\"En Roma, haz como los romanos\". En＿Italia, eres un caballero o eres basura.」"
+
+msgid "Ami「............Hmmm. Takasu-kun, I'm glad I＿came to Italy.」"
+msgstr "Ami「............Mmm. Takasu-kun, me alegro＿de haber venido a Italia.」"
+
+msgid "Ami「Is the restaurant close by?」"
+msgstr "Ami「¿El restaurante queda cerca?」"
+
+msgid "Ryuuji「It's a short walk, I guess......」"
+msgstr "Ryuuji「Está a unos pasos, supongo......」"
+
+msgid "Ami「Say, how long have you lived here?」"
+msgstr "Ami「Dime, ¿cuánto tiempo llevas aquí?」"
+
+msgid "Ryuuji「I......」"
+msgstr "Ryuuji「Yo......」"
+
+msgid "Yuri「Hello. First of all, perhaps I should＿thank you for your hard work,＿Takasu-kun.」"
+msgstr "Yuri「Hola. Antes que nada, quizá＿debería agradecerte por tu arduo＿trabajo, Takasu-kun.」"
+
+msgid "Yuri「Now that you got this ending, the＿reason I brought you here......」"
+msgstr "Yuri「Ahora que obtuviste este final, la razón＿por la que te traje aquí......」"
+
+msgid "Yuri「......is none other than to discuss the＿route you chose. I thought we could＿ponder it together.」"
+msgstr "Yuri「......no es otra que hablar sobre la＿ruta que elegiste. Pensé que podríamos＿reflexionar al respecto juntos.」"
+
+msgid "Yuri「Well then, let's evaluate the ending you＿just saw.」"
+msgstr "Yuri「Bien, evaluemos el final＿que acabas de ver.」"
+
+msgid "Yuri「Welcome, Takasu-kun.」"
+msgstr "Yuri「Bienvenido, Takasu-kun.」"
+
+msgid "Yuri「Well then, let's begin to evaluate the＿ending you just saw.」"
+msgstr "Yuri「Bien, empecemos a evaluar el＿final que acabas de ver.」"
+
+msgid "Yuri「I'm glad you were able to talk to＿Kawashima-san before she＿transferred, Takasu-kun.」"
+msgstr "Yuri「Me alegro de que pudieras hablar＿con Kawashima-san antes de que se＿transfiriera, Takasu-kun.」"
+
+msgid "Yuri「I don't even have a friend who I can＿grab lunch with...... Awwww～......」"
+msgstr "Yuri「Yo ni siquiera tengo una amiga con quien＿ir a almorzar...... Aaaay～......」"
+
+msgid "Yuri「Setting that aside, you still have that＿parting gift you got from＿Kawashima-san, yes?」"
+msgstr "Yuri「Dejando eso de lado, aún tienes＿ese regalo de despedida que te＿dio Kawashima-san, ¿cierto?」"
+
+msgid "Yuri「If you can make use of that, things＿might turn out much differently next＿time.」"
+msgstr "Yuri「Si logras aprovecharlo, las＿cosas podrían resultar muy distintas＿la próxima vez.」"
+
+msgid "Yuri「Now then, if I graded this ending, I'd＿give it an impressive 90 points! You＿worked hard!」"
+msgstr "Yuri「Ahora bien, si calificara este final,＿¡le daría unos impresionantes 90 puntos!＿¡Te esforzaste mucho!」"
+
+msgid "Yuri「Okay, that's all for today. Until next＿time!」"
+msgstr "Yuri「Bueno, eso es todo por hoy.＿¡Hasta la próxima!」"
+
+msgid "『Music』 is now available in 『Extra』"
+msgstr "『Música』 ya está disponible en 『Extra』"
+
+msgid "『Album』 is now available in 『Extra』"
+msgstr "『Álbum』 ya está disponible en 『Extra』"
+
+msgid "Kitamura「How are you? As always, I'm doing＿great. I just got back to Japan from＿Mexico yesterday, so I thought I'd write」"
+msgstr "Kitamura「¿Cómo estás? Como siempre, estoy＿genial. Ayer volví a Japón desde＿México, así que pensé en」"
+
+msgid "Kitamura「you.」"
+msgstr "Kitamura「escribirte.」"
+
+msgid "Kitamura「I saw Yasuko-san today. She and＿Inko-chan are doing well. She told me＿all about how you send her letters」"
+msgstr "Kitamura「Hoy vi a Yasuko-san. Ella e Inko-chan＿están muy bien. Me contó todo sobre＿las cartas que le mandas」"
+
+msgid "Kitamura「from Italy every day.」"
+msgstr "Kitamura「desde Italia todos los días.」"
+
+msgid "Kitamura「Actually, we're going to stop over in＿Rome on our way to the next dig site. If＿possible, I'd like to meet you. I hope to」"
+msgstr "Kitamura「La verdad es que haremos escala en Roma＿camino a la próxima excavación. Si se＿puede, me gustaría verte. Espero」"
+
+msgid "Kitamura「enjoy the results of your culinary＿training.」"
+msgstr "Kitamura「disfrutar los frutos de tu＿formación culinaria.」"
+
+msgid "Ryuuji「（Haven't seen Kitamura in a long time.＿Not since we graduated high school......＿Well, we did meet once before I left for）」"
+msgstr "Ryuuji「（Hace mucho que no veo a Kitamura. Desde＿que nos graduamos...... Bueno, nos vimos＿una vez antes de irme a）」"
+
+msgid "Ryuuji「（Rome.）」"
+msgstr "Ryuuji「（Roma.）」"
+
+msgid "Ryuuji「（Nah, he's an archaeologist in the＿making, after all. Unlike Taiga, he＿wouldn't want this to turn into a）」"
+msgstr "Ryuuji「（Nah, después de todo es un arqueólogo＿en formación. A diferencia de Taiga,＿no querría convertir esto en un）」"
+
+msgid "Ryuuji「（Roman Holiday remake.）」"
+msgstr "Ryuuji「（remake de Vacaciones en Roma.）」"
+
+msgid "Ryuuji「Remember what you told me in high＿school? \"I don't want to be＿remembered. If you forget something」"
+msgstr "Ryuuji「¿Recuerdas lo que me dijiste en＿la preparatoria? \"No quiero que＿me recuerden. Si olvidas algo」"
+
+msgid "Ryuuji「once, it should stay forgotten.\"」"
+msgstr "Ryuuji「una vez, debe quedar olvidado\".」"
+
+msgid "Ami「Yeah. One coin means \"you'll return to＿Rome,\" two means \"you'll be with the＿one you love forever,\" and three means」"
+msgstr "Ami「Sí. Una moneda: \"volverás a＿Roma\"; dos: \"estarás siempre＿con quien amas\"; y tres:」"
+
+msgid "Ami「\"you'll get divorced.\"」"
+msgstr "Ami「\"te divorciarás\".」"
+
+msgid "Ami「Whaaat～? What are you getting so＿worked up about? Oh, hey, take me to＿the restaurant where you're training. I」"
+msgstr "Ami「¿Quéee～? ¿Por qué te alteras tanto?＿Ah, oye, llévame al restaurante donde＿haces tus prácticas. Quiero」"
+
+msgid "Ami「want to eat your cooking.」"
+msgstr "Ami「probar tu comida.」"
+
+msgid "Yuri「I'll come and see you every time you＿reach an ending.」"
+msgstr "Yuri「Vendré a verte cada vez que＿llegues a un final.」"
+
+msgid "Yuri「I want you to reflect on the actions you＿made this time and keep them in mind＿for next time.」"
+msgstr "Yuri「Quiero que reflexiones sobre las＿decisiones que tomaste esta vez y las＿tengas en cuenta para la próxima.」"
+
+msgid "Yuri「And then you had a fateful reunion in a＿foreign country. *Sigh*...... Oh, to be＿young again. You have so much ahead」"
+msgstr "Yuri「Y tuvieron un reencuentro del destino＿en el extranjero. *Suspiro*...... Ay,＿volver a ser joven. Tienen tanto」"
+
+msgid "Yuri「of you......」"
+msgstr "Yuri「por delante......」"

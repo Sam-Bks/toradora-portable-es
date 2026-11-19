@@ -1,0 +1,137 @@
+msgid ""
+msgstr ""
+
+msgid "???「*Sigh*......」"
+msgstr "???「*Suspiro*......」"
+
+msgid "Ryuuji「（What? That heavy sigh......）」"
+msgstr "Ryuuji「（¿Qué? Ese suspiro tan pesado......）」"
+
+msgid "???「*Siiigh*......」"
+msgstr "???「*Suspiiiro*......」"
+
+msgid "Ryuuji「（If I had to guess, only one person＿comes to mind.）」"
+msgstr "Ryuuji「（Si tuviera que adivinar, solo una＿persona me viene a la mente.）」"
+
+msgid "Ryuuji「（I knew it! Without a doubt, it's......）」"
+msgstr "Ryuuji「（¡Lo sabía! Sin duda, es......）」"
+
+msgid "Yuri「Oh, Takasu-kun......」"
+msgstr "Yuri「Ah, Takasu-kun......」"
+
+msgid "Ryuuji「（*Sigh*...... Now that she spotted me......＿there's no getting out of it......）」"
+msgstr "Ryuuji「（*Suspiro*...... Ahora que me vio......＿ya no hay escapatoria......）」"
+
+msgid "Ryuuji「......What's got you sighing for, Sensei?＿Worried about something?」"
+msgstr "Ryuuji「......¿Por qué suspira, Sensei?＿¿Está preocupada por algo?」"
+
+msgid "Yuri「Yeah...... Kitamura-kun's mother was＿here just moments ago.」"
+msgstr "Yuri「Sí...... La madre de Kitamura-kun＿estuvo aquí hace un momento.」"
+
+msgid "Ryuuji「His mom? Did he do something bad?」"
+msgstr "Ryuuji「¿Su mamá? ¿Él hizo algo malo?」"
+
+msgid "Yuri「She was so worried......」"
+msgstr "Yuri「Estaba tan preocupada......」"
+
+msgid "Ryuuji「Okay, what are you talking about?」"
+msgstr "Ryuuji「Bueno, ¿de qué está hablando?」"
+
+msgid "Yuri「Giving me those words of kindness......＿Before I knew it, I was on the verge of＿tears.」"
+msgstr "Yuri「Me dijo esas palabras tan amables......＿Sin darme cuenta, estuve al borde＿de las lágrimas.」"
+
+msgid "Ryuuji「Beg your pardon?」"
+msgstr "Ryuuji「¿Cómo dice?」"
+
+msgid "Yuri「She came because she was worried＿about my age.」"
+msgstr "Yuri「Vino porque estaba preocupada＿por mi edad.」"
+
+msgid "Ryuuji「......*Sigh*」"
+msgstr "Ryuuji「......*Suspiro*」"
+
+msgid "Yuri「Takasu-kun, look at this.」"
+msgstr "Yuri「Takasu-kun, mira esto.」"
+
+msgid "Ryuuji「This is...... an insurance policy?」"
+msgstr "Ryuuji「Esto es...... ¿una póliza de seguro?」"
+
+msgid "Yuri「\"Bachelorette Insurance\"...... Isn't that a＿lovely name? Kitamura-kun's mother is＿an insurance saleswoman.」"
+msgstr "Yuri「\"Seguro para Solteras\"...... ¿No es un＿nombre encantador? La madre de＿Kitamura-kun es vendedora de seguros.」"
+
+msgid "Ryuuji「I, I see......」"
+msgstr "Ryuuji「Y-Ya veo......」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Yuri「Thinking back, just from being single,＿this New Year's was a total disaster.」"
+msgstr "Yuri「Pensándolo bien, solo por estar＿soltera, este Año Nuevo fue＿un desastre total.」"
+
+msgid "Yuri「WELL EXCUSE ME FOR BEING＿ALONE!!」"
+msgstr "Yuri「¡¡PUES PERDÓN POR ESTAR SOLA!!」"
+
+msgid "Ryuuji「（S-Scary......!）」"
+msgstr "Ryuuji「（¡Q-Qué miedo......!）」"
+
+msgid "Yuri「And even Kitamura-kun's mother was＿concerned...... But frankly, even I'm a＿little sick of it!」"
+msgstr "Yuri「Y hasta la madre de Kitamura-kun se＿preocupó...... ¡Pero francamente,＿hasta yo estoy un poco harta!」"
+
+msgid "Ryuuji「So you signed that......」"
+msgstr "Ryuuji「Así que firmó eso......」"
+
+msgid "Ryuuji「P-Please do your best......」"
+msgstr "Ryuuji「P-Por favor, dé lo mejor de usted......」"
+
+msgid "Ryuuji「（Joan of Arc got the death penalty in＿the end, but I'll keep my mouth shut.）」"
+msgstr "Ryuuji「（Al final a Juana de Arco la condenaron＿a muerte, pero mejor me callo.）」"
+
+msgid "Ryuuji「（\"I'll survive on my own,\" huh......? I feel＿like someone else has said that＿before......）」"
+msgstr "Ryuuji「（\"Sobreviviré por mi cuenta\", ¿eh......?＿Siento que alguien más ya dijo＿eso antes......）」"
+
+msgid "Yuri「The premiums are somewhat＿expensive, but it's 60 years' worth of＿life insurance - perfect security for」"
+msgstr "Yuri「Las cuotas son algo caras, pero＿es un seguro de vida de 60 años:＿seguridad perfecta para」"
+
+msgid "Yuri「someone in old age. There's even＿funeral support in case I suddenly die＿from loneliness.」"
+msgstr "Yuri「alguien en la vejez. Incluso incluye＿apoyo funerario por si muero de＿repente por soledad.」"
+
+msgid "Yuri「I went to buy jewelry and the store was＿full of couples, and the employee＿asked \"Who brought you here today?\"」"
+msgstr "Yuri「Fui a comprar joyas y la tienda estaba＿llena de parejas, y el empleado me＿preguntó: \"¿Quién la trajo hoy?\"」"
+
+msgid "Yuri「and the fortune I drew said \"They're＿not coming\"......」"
+msgstr "Yuri「y el papel de la suerte que saqué＿decía: \"No va a venir\"......」"
+
+msgid "Yuri「If I try to treat myself by booking a＿luxury hotel room, I get \"Are you by＿yourself?\" If I go to a diner, I get \"Are」"
+msgstr "Yuri「Si me doy un gusto reservando en un＿hotel de lujo: \"¿Viene sola?\". Si voy a＿una cafetería: \"¿Viene」"
+
+msgid "Yuri「you by yourself?\"」"
+msgstr "Yuri「sola?\"」"
+
+msgid "Yuri「Mind your own business, bitch! You're＿a successful old hag with a healthy＿student council president for a child!」"
+msgstr "Yuri「¡Métete en tus asuntos, maldita! ¡Eres＿una vieja exitosa con un hijo sano que＿es presidente del consejo estudiantil!」"
+
+msgid "Yuri「What do you know about a single civil＿servant like me!?」"
+msgstr "Yuri「¡¿Qué sabes tú de una funcionaria＿pública soltera como yo?!」"
+
+msgid "Yuri「......But you know, everything＿Kitamura-kun's mother said to me was＿understandable. I've pretended not to」"
+msgstr "Yuri「......Pero sabes, todo lo que me＿dijo la madre de Kitamura-kun tenía＿sentido. He fingido no」"
+
+msgid "Yuri「see the reality, but she confronted me＿with it.」"
+msgstr "Yuri「ver la realidad, pero ella＿me enfrentó con ella.」"
+
+msgid "Yuri「Yes. This has taken away about 10%＿of the worries I had about my future.＿Watch me, Takasu-kun. I'll show you I'm」"
+msgstr "Yuri「Sí. Esto me ha quitado como un 10% de＿las preocupaciones por mi futuro. Mira,＿Takasu-kun. Te demostraré que soy」"
+
+msgid "Yuri「a worthy survivor, even on my own......＿Yes!」"
+msgstr "Yuri「una digna sobreviviente, incluso＿por mi cuenta...... ¡Sí!」"
+
+msgid "Yuri「Be strong and keep living, Yuri!＿Become the new Joan of Arc, the＿leader of the Japanese bachelors, and」"
+msgstr "Yuri「¡Sé fuerte y sigue viviendo, Yuri!＿Conviértete en la nueva Juana de Arco,＿líder de los solteros de Japón, y」"
+
+msgid "Yuri「stand up to your archenemy, this＿so-called society!!」"
+msgstr "Yuri「¡¡hazle frente a tu archienemiga,＿esta supuesta sociedad!!」"
+
+msgid "Yuri「Thank you, Takasu-kun. I feel a lot＿better somehow. I'm gonna go say hello＿to Kitamura-kun's mother. See you」"
+msgstr "Yuri「Gracias, Takasu-kun. Ya me siento mucho＿mejor. Voy a saludar a la madre de＿Kitamura-kun. Nos vemos」"
+
+msgid "Yuri「later.」"
+msgstr "Yuri「luego.」"

@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+
+msgid "Minori「U-Uhh, say, Takasu-kun...」"
+msgstr "Minori「E-Ehm, oye, Takasu-kun...」"
+
+msgid "Ryuuji「What is it?」"
+msgstr "Ryuuji「¿Qué pasa?」"
+
+msgid "Minori「Uh, well............ HYA-HAAAA!!!!」"
+msgstr "Minori「Eh, bueno............ ¡JIA-JAAAA!!!!」"
+
+msgid "Ryuuji「She...... flew!?」"
+msgstr "Ryuuji「¡¿Ella...... voló?!」"
+
+msgid "Ryuuji「（She took off like a rocket into the＿water...... and she's already at the other＿side! She could break the world record!）」"
+msgstr "Ryuuji「（Salió disparada como un cohete al＿agua...... ¡y ya está del otro lado!＿¡Podría romper el récord mundial!）」"
+
+msgid "Minori「Takasu-kuuun! I gotta go! I promised＿Taiga we'd meet up!!」"
+msgstr "Minori「¡Takasu-kuuun! ¡Me tengo que ir! ¡Le＿prometí a Taiga que nos veríamos!!」"
+
+msgid "Ryuuji「Oh...... OKAY!」"
+msgstr "Ryuuji「Ah...... ¡ESTÁ BIEN!」"
+
+msgid "Ryuuji「（W-Whoa...... Everyone's staring! O-Oh＿god...... Hm?）」"
+msgstr "Ryuuji「（U-Uau...... ¡Todos están mirando!＿D-Dios mío...... ¿Mm?）」"
+
+msgid "Ryuuji「Insta-glue? Why is something like this＿here? Did Kushieda drop it or＿something? Yeah right......」"
+msgstr "Ryuuji「¿Pegamento instantáneo? ¿Por qué hay＿algo así aquí? ¿Se le cayó a Kushieda＿o qué? Sí, claro......」"
+
+msgid "Ryuuji「（Oh, this insta-glue can repair even＿glass! Sounds like a necessity for＿every household.）」"
+msgstr "Ryuuji「（Oh, ¡este pegamento instantáneo repara＿hasta vidrio! Parece algo indispensable＿para cualquier hogar.）」"
+
+msgid "Ryuuji「（There's not much left, but throwing it＿away is MOTTAINAI. Guess I'll just hold＿onto it for now.）」"
+msgstr "Ryuuji「（Queda poco, pero ¿tirarlo?＿¡QUÉ DESPERDICIO! Supongo que＿lo guardaré por ahora.）」"
+
+msgid "Ryuuji「（That's right, I have my thermos here.＿Think I'll relax and have some tea.）」"
+msgstr "Ryuuji「（Es cierto, traje mi termo. Creo que me＿relajaré y tomaré un poco de té.）」"
+
+msgid "Ryuuji「........................」"
+msgstr "Ryuuji「........................」"
+
+msgid "Ryuuji「Kushieda Minori......」"
+msgstr "Ryuuji「Kushieda Minori......」"

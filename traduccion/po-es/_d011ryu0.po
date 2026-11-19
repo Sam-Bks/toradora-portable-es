@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「......Gah!!」"
+msgstr "Ryuuji「......¡Gah!!」"
+
+msgid "Kota「Aagh!」"
+msgstr "Kota「¡Aagh!」"
+
+msgid "Ryuuji「Owwww......」"
+msgstr "Ryuuji「Ayyyy......」"
+
+msgid "Kota「Ouuuch...... Geez, don't just pop out＿of......」"
+msgstr "Kota「Ayyy...... Cielos, no salgas＿de repente de......」"
+
+msgid "Kota「......Huh?」"
+msgstr "Kota「......¿Eh?」"
+
+msgid "???「......Oh?」"
+msgstr "???「......¿Eh?」"
+
+msgid "Kota「Wh-wh-wh...... No...... Huh? Me? What?」"
+msgstr "Kota「Q-q-q...... No...... ¿Eh? ¿Yo? ¿Qué?」"
+
+msgid "Me???「............Why me?」"
+msgstr "Yo???「............¿Por qué yo?」"
+
+msgid "Kota「............Aaaaahhhhhhhh!!」"
+msgstr "Kota「............¡¡Aaaaahhhhhhhh!!」"
+
+msgid "Me!?「OOOOOOOHHHHHHH!!」"
+msgstr "Yo!?「¡¡OOOOOOOHHHHHHH!!」"
+
+msgid "Kota「W-W-Wait, w-why am I standing over＿there?」"
+msgstr "Kota「E-E-Espera, ¿p-por qué estoy parado ahí?」"
+
+msgid "Me!「That's what I should be asking! You're＿me! Me!?」"
+msgstr "Yo!「¡Eso debería preguntarlo＿yo! ¡Eres yo! ¡¿Yo?!」"
+
+msgid "Kota「Huh? What? What's going on......?＿AAAAHH!!」"
+msgstr "Kota「¿Eh? ¿Qué? ¿Qué está pasando......?＿¡¡AAAAHH!!」"
+
+msgid "Kota「ARGH, WHAT THE HELL?!?!」"
+msgstr "Kota「¡¡ARGH, QUÉ DEMONIOS?!?!」"
+
+msgid "Me!!「......OH!!」"
+msgstr "Yo!!「......¡¡OH!!」"
+
+msgid "Kota「......Huh? What? W-Why did I turn into＿that delinquent Takasu!?」"
+msgstr "Kota「......¿Eh? ¿Qué? ¡¿P-Por qué me convertí＿en ese delincuente de Takasu?!」"
+
+msgid "Who?「You know me?」"
+msgstr "¿Quién?「¿Me conoces?」"
+
+msgid "Kota「Wait, are you MEEEE? WHAAAT!?＿D-Don't tell me...... that delin...... I mean,＿Takasu-senpai is in my body!?」"
+msgstr "Kota「Espera, ¿tú eres YOOO? ¡¿QUÉÉÉ?! N-No＿me digas...... ¡¿Ese delin...... digo,＿Takasu-senpai está en mi cuerpo?!」"
+
+msgid "Me???「Oh, I AM probably Takasu Ryuuji,＿but...... Wait, who ARE you!? That's MY＿body, uh, probably.」"
+msgstr "Yo???「Ah, probablemente SÍ soy Takasu Ryuuji,＿pero...... ¡Espera, ¿quién eres TÚ?!＿Ese es MI cuerpo, eh, creo.」"
+
+msgid "Me???「Well, you see......」"
+msgstr "Yo???「Pues verás......」"
+
+msgid "Kota「WHAAAAT?! A-Amnesiaaa!?」"
+msgstr "Kota「¡¿QUÉÉÉ?! ¡¿A-Amnesiaaa?!」"
+
+msgid "Kota「......Okay, one last time...... Ready?」"
+msgstr "Kota「......Bien, una última vez...... ¿Listo?」"
+
+msgid "Ryuuji「R-Ready! Come at me, bro!」"
+msgstr "Ryuuji「¡L-Listo! ¡Ven con todo, amigo!」"
+
+msgid "Kota「Three, two, one, go!」"
+msgstr "Kota「¡Tres, dos, uno, ya!」"
+
+msgid "Kota「Owwww...... Any luck......?」"
+msgstr "Kota「Ayyyy...... ¿Funcionó......?」"
+
+msgid "Ryuuji「Ouch......」"
+msgstr "Ryuuji「Auch......」"
+
+msgid "Kota「Awww...... Knew it wouldn't work......」"
+msgstr "Kota「Ayyy...... Sabía que no＿funcionaría......」"
+
+msgid "Ryuuji「......Yeah. Seems just running into each＿other won't put us back to normal.」"
+msgstr "Ryuuji「......Sí. Parece que chocar otra vez＿no nos devolverá a la normalidad.」"
+
+msgid "Kota「Umm...... I'm sorry! I, I know the timing's＿bad, but, right now, I need to hurry......」"
+msgstr "Kota「Ehm...... ¡Perdón! Y-Ya sé que＿no es el mejor momento, pero＿ahora tengo prisa......」"
+
+msgid "Kota「W-What should we do......? What should＿I do? Argh, crap, let's see, uhh...... I, I'm＿sorry but could you come with me!?」"
+msgstr "Kota「¿Q-Qué hacemos......? ¿Qué hago? Argh,＿mierda, a ver, eh...... ¡L-Lo siento,＿pero ¿puedes venir conmigo?!」"
+
+msgid "Ryuuji「Shouldn't we tell her?」"
+msgstr "Ryuuji「¿No deberíamos decirle a ella?」"
+
+msgid "Kota「Ain't nobody got time for that! Just＿keep quiet about it, please. My parents＿would panic for sure.」"
+msgstr "Kota「¡No hay tiempo para eso! Por＿favor, no digas nada. Mis padres＿entrarían en pánico.」"
+
+msgid "Ryuuji「Got it.」"
+msgstr "Ryuuji「Entendido.」"
+
+msgid "Kota「......I'll ask you one more time: are you＿really Takasu-senpai?」"
+msgstr "Kota「......Te lo pregunto otra vez: ¿de＿verdad eres Takasu-senpai?」"
+
+msgid "Ryuuji「I think so.」"
+msgstr "Ryuuji「Eso creo.」"
+
+msgid "Kota「You aren't my doppleganger＿pretending to have amnesia, right?」"
+msgstr "Kota「No eres mi doble fingiendo＿tener amnesia, ¿verdad?」"
+
+msgid "Ryuuji「In that case, I'd be the only one with＿the problem here.」"
+msgstr "Ryuuji「En ese caso, el único con＿un problema sería yo.」"
+
+msgid "Kota「That's true...... But still, talking normally＿in this voice is totally uncomfortable.＿What about you? Kinda weird, isn't it?」"
+msgstr "Kota「Es verdad...... Pero hablar normal＿con esta voz se siente rarísimo. ¿Y＿tú? ¿No te parece extraño?」"
+
+msgid "Kota「......So you're saying that because of＿your amnesia, you have no sense of＿identity yet?」"
+msgstr "Kota「......¿Dices que, por tu amnesia, aún＿no tienes un sentido de identidad?」"
+
+msgid "Ryuuji「I'm not too sure, but...... Hey, weren't＿you in a hurry?」"
+msgstr "Ryuuji「No estoy muy seguro, pero......＿Oye, ¿no tenías prisa?」"
+
+msgid "Ryuuji「Okay. Take care.」"
+msgstr "Ryuuji「Está bien. Cuídate.」"
+
+msgid "Kota「You too!」"
+msgstr "Kota「¡Tú también!」"
+
+msgid "Kota「\"Probably\"?! Of course it is! This body!＿Without a doubt! Wait, what do you＿mean, you're \"probably Takasu」"
+msgstr "Kota「¡¿\"Probablemente\"?! ¡Claro! ¡Este＿cuerpo, sin duda! Espera, ¡¿cómo que＿eres \"probablemente Takasu」"
+
+msgid "Kota「Ryuuji\"!?」"
+msgstr "Kota「Ryuuji\"?!」"
+
+msgid "Ryuuji「Yeah, you did say you were supposed＿to meet someone...... but the way things＿are I can't go home either...... What」"
+msgstr "Ryuuji「Sí, dijiste que habías quedado con＿alguien...... pero así tampoco puedo＿volver a casa...... ¿Qué」"
+
+msgid "Ryuuji「should we do?」"
+msgstr "Ryuuji「hacemos?」"
+
+msgid "Kota「......O-Okay, I'll be right back, so please＿just wait here in my room for now. If＿Mom talks to you, just respond」"
+msgstr "Kota「......B-Bien, ya vuelvo, así que＿espera aquí en mi cuarto. Si te＿habla mamá, solo responde」"
+
+msgid "Kota「naturally and you'll be fine.」"
+msgstr "Kota「con naturalidad y todo irá bien.」"
+
+msgid "Ryuuji「Like I said before, since I have＿amnesia, neither this voice nor this＿body actually feel all that strange......」"
+msgstr "Ryuuji「Como ya dije, tengo amnesia, así＿que ni esta voz ni este cuerpo me＿resultan tan extraños......」"
+
+msgid "Ryuuji「Maybe you're just not used to my body＿yet.」"
+msgstr "Ryuuji「Tal vez aún no te acostumbras＿a mi cuerpo.」"
+
+msgid "Kota「Gah, that's right, CRAP!! Please try to＿switch back ASAP! And if your head＿hurts, you can use the ice in the」"
+msgstr "Kota「Gah, es verdad, ¡¡MIERDA!! ¡Por favor,＿intenta volver ya! Y si te duele la＿cabeza, puedes usar el hielo del」"
+
+msgid "Kota「freezer!」"
+msgstr "Kota「congelador!」"

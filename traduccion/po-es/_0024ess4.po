@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+
+msgid "Taiga「Ryuuji, I don't know what you're getting＿at, but could you just keep your mouth＿shut?」"
+msgstr "Taiga「Ryuuji, no sé qué estás＿insinuando, pero ¿podrías＿simplemente cerrar la boca?」"
+
+msgid "Ryuuji「Wha...... What do you mean?」"
+msgstr "Ryuuji「¿Qué...... Qué quieres decir?」"
+
+msgid "Taiga「Thinking of comebacks is just wearing＿me out more.」"
+msgstr "Taiga「Pensar en respuestas solo＿me está agotando más.」"
+
+msgid "Taiga「ARGH, I'm so TIRED! Ryuuji, hail that＿cab for me. I'm going home.」"
+msgstr "Taiga「¡AGH, estoy tan CANSADA! Ryuuji, para＿ese taxi por mí. Me voy a casa.」"
+
+msgid "Ryuuji「That's quite a splurge.」"
+msgstr "Ryuuji「Eso sí que es un derroche.」"
+
+msgid "Taiga「I can do what I like with my money. Got＿a problem with that? Hurry it up!」"
+msgstr "Taiga「Puedo hacer lo que quiera con mi dinero.＿¿Tienes algún problema? ¡Apúrate!」"
+
+msgid "Ryuuji「Alright, alright...... Sheesh.」"
+msgstr "Ryuuji「Está bien, está bien...... Cielos.」"

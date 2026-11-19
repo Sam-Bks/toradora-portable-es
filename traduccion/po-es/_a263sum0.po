@@ -1,0 +1,302 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「Kanou-senpai!」"
+msgstr "Ryuuji「¡Kanou-senpai!」"
+
+msgid "Sumire「Oh, Takasu.」"
+msgstr "Sumire「Ah, Takasu.」"
+
+msgid "Sumire「Likewise, you tried to leave me with＿Kitamura, didn't you? Even though you＿were the one to invite me.」"
+msgstr "Sumire「Igualmente, intentaste dejarme＿con Kitamura, ¿no? Aunque fuiste＿tú quien me invitó.」"
+
+msgid "Ryuuji「Nggh......」"
+msgstr "Ryuuji「Nggg......」"
+
+msgid "Sumire「Fufu. Nice look on your face. Still, you＿certainly knew where to find me.」"
+msgstr "Sumire「Juju. Qué cara pones. Aun así, vaya＿que supiste dónde encontrarme.」"
+
+msgid "Ryuuji「Well, of course. Someone who's trying＿to conceal the fact that she's in town＿wouldn't just wander about aimlessly.」"
+msgstr "Ryuuji「Pues claro. Alguien que intenta ocultar＿que está en la ciudad no andaría vagando＿por ahí sin rumbo.」"
+
+msgid "Sumire「Oho, smart thinking.」"
+msgstr "Sumire「Oho, qué listo.」"
+
+msgid "Ryuuji「......Thanks.」"
+msgstr "Ryuuji「......Gracias.」"
+
+msgid "Sumire「I like guys like you. No sense in＿standing around and talking. Come on＿up.」"
+msgstr "Sumire「Me agradan los chicos como tú. No tiene＿sentido hablar aquí parados. Sube.」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Sumire「Even after exposing your＿machinations, I can't really blame you＿guys.」"
+msgstr "Sumire「Incluso tras descubrir sus＿maquinaciones, en realidad no puedo＿culparlos.」"
+
+msgid "Ryuuji「I didn't really think you would.」"
+msgstr "Ryuuji「Tampoco creí que lo hicieras.」"
+
+msgid "Sumire「Hmph. You've got guts.」"
+msgstr "Sumire「Jum. Tienes agallas.」"
+
+msgid "Ryuuji「Umm...... May I ask you a question?」"
+msgstr "Ryuuji「Ehm...... ¿Puedo hacerte una pregunta?」"
+
+msgid "Sumire「What is it?」"
+msgstr "Sumire「¿Qué pasa?」"
+
+msgid "Ryuuji「Why did we come to your sister's＿room?」"
+msgstr "Ryuuji「¿Por qué vinimos a la habitación＿de tu hermana?」"
+
+msgid "Sumire「My room would just serve to ruin the＿mood. This kind of room is better for＿dates.」"
+msgstr "Sumire「Mi habitación solo arruinaría＿el ambiente. Este tipo de cuarto＿es mejor para citas.」"
+
+msgid "Ryuuji「\"Dates\"!? Actually, what kind of room＿do you--」"
+msgstr "Ryuuji「¡¿\"Citas\"?! De hecho, ¿qué clase＿de habitación tienes--」"
+
+msgid "Sumire「If you're curious, shall I give you a＿tour? That is, if you dare to enter.」"
+msgstr "Sumire「Si tienes curiosidad,＿¿te doy un recorrido? Claro,＿si te atreves a entrar.」"
+
+msgid "Ryuuji「I think I'll refrain...... Also, there's one＿other thing.」"
+msgstr "Ryuuji「Creo que paso...... Además,＿hay otra cosa.」"
+
+msgid "Sumire「What is it?」"
+msgstr "Sumire「¿Qué pasa?」"
+
+msgid "Ryuuji「Ummm, why are we positioned like＿this......!?」"
+msgstr "Ryuuji「Ehhh, ¡¿por qué estamos en＿esta posición......?!」"
+
+msgid "Sumire「So that I can take revenge on you.」"
+msgstr "Sumire「Para poder vengarme de ti.」"
+
+msgid "Ryuuji「Whaaaat!? Wait - you just said you＿wouldn't......」"
+msgstr "Ryuuji「¡¿Quéééé?! Espera, acabas＿de decir que no......」"
+
+msgid "Ryuuji「Nooo! W-W-W-Wait! Stop!」"
+msgstr "Ryuuji「¡Nooo! ¡E-E-E-Espera! ¡Detente!」"
+
+msgid "Ryuuji「......Which one of us wears the pants in＿this relationship?!」"
+msgstr "Ryuuji「......¡¿Quién de los dos lleva los＿pantalones en esta relación?!」"
+
+msgid "Sumire「Ah ha ha ha! I'm just fucking with you,＿stupid!」"
+msgstr "Sumire「¡Ja, ja, ja, ja! ¡Solo te estaba＿tomando el pelo, imbécil!」"
+
+msgid "Ryuuji「Huh? You were lying?」"
+msgstr "Ryuuji「¿Eh? ¿Estabas mintiendo?」"
+
+msgid "Ryuuji「Y-Yes, I'm very sorry!」"
+msgstr "Ryuuji「¡S-Sí, lo siento mucho!」"
+
+msgid "Sumire「......Hey, Takasu. Mind if I ask you a＿question of my own?」"
+msgstr "Sumire「......Oye, Takasu. ¿Te importa si＿yo también te hago una pregunta?」"
+
+msgid "Ryuuji「In this position!?」"
+msgstr "Ryuuji「¡¿En esta posición?!」"
+
+msgid "Sumire「Oh, we're fine as we are. How does it＿feel, having your memories wiped and＿your life reset?」"
+msgstr "Sumire「Ah, así estamos bien. ¿Qué se siente＿que te borren los recuerdos y te＿reinicien la vida?」"
+
+msgid "Ryuuji「......Huh?」"
+msgstr "Ryuuji「......¿Eh?」"
+
+msgid "Ryuuji「Err, well, this is just so sudden, I have＿no way of knowing for sure.」"
+msgstr "Ryuuji「Ehm, bueno, esto fue tan repentino＿que no tengo forma de saberlo＿con certeza.」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Sumire「Or perhaps, \"If I got the chance to do it＿all over again, could I make my＿relationships turn out differently?\"」"
+msgstr "Sumire「O tal vez: \"Si tuviera la oportunidad de＿volver a empezar, ¿podría lograr que mis＿relaciones salieran distinto?\"」"
+
+msgid "Ryuuji「......You think so? I think even a＿flawless Big Bro would have--」"
+msgstr "Ryuuji「......¿Tú crees? Creo que incluso un＿Hermano Mayor perfecto tendría--」"
+
+msgid "Sumire「No regrets?」"
+msgstr "Sumire「¿Sin arrepentimientos?」"
+
+msgid "Ryuuji「......」"
+msgstr "Ryuuji「......」"
+
+msgid "Ryuuji「You really do like him......」"
+msgstr "Ryuuji「De verdad te gusta......」"
+
+msgid "Sumire「Pfft......」"
+msgstr "Sumire「Pff......」"
+
+msgid "Sumire「At this point, it shouldn't surprise you.＿You planned all this knowing that.」"
+msgstr "Sumire「A estas alturas no debería sorprenderte.＿Planearon todo esto sabiéndolo.」"
+
+msgid "Ryuuji「Well......」"
+msgstr "Ryuuji「Bueno......」"
+
+msgid "Sumire「However, no matter what new route I＿take when I rethink the situation, I＿always arrive at the same conclusion.」"
+msgstr "Sumire「Sin embargo, sin importar qué nuevo＿camino tome al repensar la situación,＿siempre llego a la misma conclusión.」"
+
+msgid "Ryuuji「......I'm really sorry for wasting your＿time.」"
+msgstr "Ryuuji「......Siento mucho haberte＿hecho perder el tiempo.」"
+
+msgid "Sumire「No, let's think of what you did as a＿stepping stone to the future. I'm glad I＿could see Kitamura.」"
+msgstr "Sumire「No, veamos lo que hiciste como un＿peldaño hacia el futuro. Me alegra＿haber podido ver a Kitamura.」"
+
+msgid "Ryuuji「What did you and Kitamura talk about?」"
+msgstr "Ryuuji「¿De qué hablaron Kitamura y tú?」"
+
+msgid "Sumire「Nothing much. Just leaving the＿student council in his hands.」"
+msgstr "Sumire「Nada del otro mundo. Solo dejar el＿consejo estudiantil en sus manos.」"
+
+msgid "Ryuuji「Surely you talked about something＿more romantic......」"
+msgstr "Ryuuji「Seguro que hablaron de algo＿más romántico......」"
+
+msgid "Sumire「Hmph...... Oh, would you look at the＿time. Sorry, but I've got an errand to＿run.」"
+msgstr "Sumire「Jum...... Ah, mira la hora que es.＿Perdón, pero tengo＿que atender un asunto.」"
+
+msgid "Ryuuji「Where are you going?」"
+msgstr "Ryuuji「¿A dónde vas?」"
+
+msgid "Ryuuji「Oh, I see.」"
+msgstr "Ryuuji「Ah, ya veo.」"
+
+msgid "Sumire「I'll arrive back in Tokyo at midnight on＿the 6th, and then I leave for America＿at noon on the 7th.」"
+msgstr "Sumire「Regresaré a Tokio a la medianoche＿del 6, y luego parto hacia Estados＿Unidos al mediodía del 7.」"
+
+msgid "Ryuuji「Sounds like a pretty hectic schedule.」"
+msgstr "Ryuuji「Suena a una agenda bastante apretada.」"
+
+msgid "Sumire「Here's the deal, Takasu. Can I ask for a＿moment of your time on the morning＿of the 7th?」"
+msgstr "Sumire「Escucha, Takasu. ¿Puedo pedirte un＿momento de tu tiempo la mañana del 7?」"
+
+msgid "Ryuuji「The morning of the 7th? You mean,＿before the opening ceremony? That＿should be fine.」"
+msgstr "Ryuuji「¿La mañana del 7? ¿Quieres decir＿antes de la ceremonia de apertura?＿No debería haber problema.」"
+
+msgid "Sumire「Then, please don't forget. I want to talk＿to you about something important.」"
+msgstr "Sumire「Entonces, por favor no lo olvides.＿Quiero hablar contigo de algo＿importante.」"
+
+msgid "Ryuuji「O-Okay......」"
+msgstr "Ryuuji「E-Está bien......」"
+
+msgid "Sumire「Now then. I'm running out of time to＿pack, so let's get straight to the point.」"
+msgstr "Sumire「Ahora bien. Me queda poco tiempo＿para empacar, así que vayamos＿directo al grano.」"
+
+msgid "Ryuuji「The point?」"
+msgstr "Ryuuji「¿Al grano?」"
+
+msgid "Sumire「You fool, take responsibility for your＿fuckin' words. Wasn't the point of＿asking me out to regain your memory!?」"
+msgstr "Sumire「Tonto, hazte cargo de tus malditas＿palabras. ¡¿No me invitaste para＿recuperar tu memoria?!」"
+
+msgid "Ryuuji「Yes, that's right, that was the point!」"
+msgstr "Ryuuji「¡Sí, es verdad, ese era el objetivo!」"
+
+msgid "Sumire「However, I can't guarantee it will be＿positive stimuli. What will you do?＿Want to try talking to me?」"
+msgstr "Sumire「Sin embargo, no te garantizo que sea＿un estímulo positivo. ¿Qué harás?＿¿Quieres intentar hablar conmigo?」"
+
+msgid "Try talking to her"
+msgstr "Intentar hablar con ella"
+
+msgid "Decline"
+msgstr "Rechazar"
+
+msgid "Ryuuji「......I'll decline.」"
+msgstr "Ryuuji「......Paso.」"
+
+msgid "Sumire「Well, aren't YOU boring. I was kind of＿excited about it.」"
+msgstr "Sumire「Vaya que ERES aburrido. Yo estaba＿algo emocionada por esto.」"
+
+msgid "Ryuuji「Deepening my relationship with you＿would make me, well, you know.」"
+msgstr "Ryuuji「Profundizar mi relación contigo me＿haría sentir, bueno, ya sabes.」"
+
+msgid "Sumire「You'd feel guilty in front of Kitamura, is＿that it?」"
+msgstr "Sumire「Te sentirías culpable frente＿a Kitamura, ¿es eso?」"
+
+msgid "Ryuuji「Yeah, that. I'm going back to Luxure.＿Uh, also, can I have my cell phone back＿already?」"
+msgstr "Ryuuji「Sí, eso. Voy a regresar a Luxure.＿Eh, además, ¿ya me puedes devolver＿mi teléfono?」"
+
+msgid "Sumire「What, so you remembered? You're＿even more boring now.」"
+msgstr "Sumire「¿Qué, sí te acordaste? Ahora＿eres todavía más aburrido.」"
+
+msgid "Ryuuji「I'm not THAT forgetful...... Want me to＿give Kitamura a message or anything?」"
+msgstr "Ryuuji「No soy TAN olvidadizo...... ¿Quieres＿que le dé algún mensaje a Kitamura?」"
+
+msgid "Sumire「No.」"
+msgstr "Sumire「No.」"
+
+msgid "Ryuuji「......Alright then.」"
+msgstr "Ryuuji「......Está bien entonces.」"
+
+msgid "Sumire「Don't forget our agreement on the＿morning of the 7th.」"
+msgstr "Sumire「No olvides nuestro acuerdo＿para la mañana del 7.」"
+
+msgid "Ryuuji「I'll remember.」"
+msgstr "Ryuuji「Lo recordaré.」"
+
+msgid "Ryuuji「Don't give me that. Asking someone to＿come outside with you and then＿disappearing on them - what'd you do」"
+msgstr "Ryuuji「No me vengas con eso.＿Me pides que salga contigo y luego＿desapareces. ¿Por qué hiciste」"
+
+msgid "Ryuuji「that for?」"
+msgstr "Ryuuji「eso?」"
+
+msgid "Sumire「Did you take me at my word? You're＿surprisingly cute, Takasu. It's okay,＿just grit your teeth and shut your eyes,」"
+msgstr "Sumire「¿Me creíste? Eres más lindo de lo que＿pensé, Takasu. Tranquilo, aprieta los＿dientes y cierra los ojos,」"
+
+msgid "Sumire「and it'll all be over soon.」"
+msgstr "Sumire「y todo acabará pronto.」"
+
+msgid "Sumire「Why do you resist? We're on a date,＿right? And you took me to a reputedly＿shady planetarium. This is the next」"
+msgstr "Sumire「¿Por qué te resistes? Estamos en una＿cita, ¿no? Me llevaste a un planetario＿de mala fama. El siguiente paso」"
+
+msgid "Sumire「logical step. Come on, relax......」"
+msgstr "Sumire「lógico es este. Vamos, relájate......」"
+
+msgid "Sumire「It's punishment for dragging me into＿this. I believe in giving three times as＿much as I receive. How'd you like that」"
+msgstr "Sumire「Es tu castigo por arrastrarme a esto.＿Creo en devolver el triple de lo que＿recibo. ¿Qué te pareció esa pequeña」"
+
+msgid "Sumire「little surprise? Learned your lesson,＿hmm?」"
+msgstr "Sumire「sorpresa? ¿Aprendiste la lección, eh?」"
+
+msgid "Sumire「For example, if you found yourself in a＿situation like this with me, but didn't＿know the relationship between」"
+msgstr "Sumire「Por ejemplo, si te vieras en una＿situación así conmigo, pero no supieras＿qué relación hay entre」"
+
+msgid "Sumire「Kitamura and myself...... do you think＿you would accept me?」"
+msgstr "Sumire「Kitamura y yo...... ¿crees＿que me aceptarías?」"
+
+msgid "Sumire「I'm sure everyone in the whole world＿has thought about it once or twice......＿\"What if I had made a different choice」"
+msgstr "Sumire「Todos lo habrán pensado una o dos＿veces...... \"¿Y si hubiera tomado una＿decisión distinta」"
+
+msgid "Sumire「back then?\"」"
+msgstr "Sumire「en aquel entonces?\"」"
+
+msgid "Sumire「Even if I restarted my life a hundred＿times, I'm sure I would make the same＿choices. That's the foundation for my」"
+msgstr "Sumire「Aunque reiniciara mi vida cien veces,＿seguro tomaría las mismas decisiones.＿Esa es la base de mi」"
+
+msgid "Sumire「way of thinking. My choices make me＿the person I am.」"
+msgstr "Sumire「forma de pensar. Mis decisiones＿me hacen la persona que soy.」"
+
+msgid "Sumire「That's why I won't accept Kitamura at＿this point in time. I can't give up on my＿dream. No matter how many times they」"
+msgstr "Sumire「Por eso no aceptaré a Kitamura ahora. No＿puedo renunciar a mi sueño. No importa＿cuántas veces」"
+
+msgid "Sumire「call me a coward.」"
+msgstr "Sumire「me llamen cobarde.」"
+
+msgid "Sumire「My relatives' wedding is tomorrow. We＿decided we'd leave tonight. If I don't＿start packing soon, I won't be done in」"
+msgstr "Sumire「Mañana es la boda de unos parientes. Nos＿vamos esta noche. Si no empiezo a＿empacar pronto, no acabaré a」"
+
+msgid "Sumire「time.」"
+msgstr "Sumire「tiempo.」"
+
+msgid "Sumire「Yeah, and to make matters worse, I'm＿deficient in the language department. I＿can't put off my studies for too much」"
+msgstr "Sumire「Sí, y para colmo, no soy muy buena con＿los idiomas. No puedo seguir aplazando＿mis estudios por mucho」"
+
+msgid "Sumire「longer.」"
+msgstr "Sumire「más tiempo.」"
+
+msgid "Sumire「Good. As you said, if you talk to＿someone you don't see often, it's＿possible it might help stimulate your」"
+msgstr "Sumire「Bien. Como dijiste, si hablas con＿alguien a quien no ves a menudo, es＿posible que ayude a estimular tu」"
+
+msgid "Sumire「brain.」"
+msgstr "Sumire「cerebro.」"
+
+msgid "Ryuuji「（I'm happy with this outcome......＿Actually, I'm sure this would have＿happened no matter what. Just like）」"
+msgstr "Ryuuji「（Estoy contento con este resultado......＿De hecho, seguro habría pasado de＿todos modos. Tal como）」"
+
+msgid "Ryuuji「（she said......）」"
+msgstr "Ryuuji「（ella dijo......）」"

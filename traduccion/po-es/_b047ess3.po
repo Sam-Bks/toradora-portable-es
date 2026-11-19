@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+
+msgid "Inko-chan「DO......」"
+msgstr "Inko-chan「HAZ......」"
+
+msgid "Inko-chan「WHAT......」"
+msgstr "Inko-chan「LO QUE......」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Inko-chan「YOU, WANT......」"
+msgstr "Inko-chan「TÚ, QUIERAS......」"
+
+msgid "Ryuuji「\"Do what you want\"......? You mean I can＿make oyakodon out of you? No, there's＿no way...... which means......」"
+msgstr "Ryuuji「¿\"Haz lo que quieras\"......? ¿O sea que＿puedo hacer oyakodon contigo? No, no＿puede ser...... lo que significa......」"
+
+msgid "Inko-chan「*POSE*......」"
+msgstr "Inko-chan「*POSE*......」"
+
+msgid "Ryuuji「N-No, no way...... You're a bird, and I'm a＿human...... Even if I wanted to, it's＿just......」"
+msgstr "Ryuuji「N-No, de ninguna manera...... Tú eres＿un pájaro y yo un humano...... Aunque＿quisiera, simplemente......」"
+
+msgid "Inko-chan「IT'S, FINE......」"
+msgstr "Inko-chan「ESTÁ, BIEN......」"
+
+msgid "Ryuuji「......A-Anyway, now that you've calmed＿down, let's go to sleep. Good night!」"
+msgstr "Ryuuji「......E-En fin, ahora que te calmaste,＿vamos a dormir. ¡Buenas noches!」"

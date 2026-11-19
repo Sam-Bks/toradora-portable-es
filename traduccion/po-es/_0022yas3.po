@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+
+msgid "Yasuko「R-Ryuu-chan......」"
+msgstr "Yasuko「R-Ryuu-chan......」"
+
+msgid "Ryuuji「What's the matter?」"
+msgstr "Ryuuji「¿Qué sucede?」"
+
+msgid "Yasuko「Yacchan's heart is pounding～」"
+msgstr "Yasuko「El corazón de Yacchan late con fuerza～」"
+
+msgid "Yasuko「You two look so much alike. Hard not＿to remember～」"
+msgstr "Yasuko「Se parecen tanto los dos.＿Difícil no recordar～」"
+
+msgid "Ryuuji「\"You two\"? Who do I look like?」"
+msgstr "Ryuuji「¿\"Los dos\"? ¿A quién me parezco?」"
+
+msgid "Yasuko「Well...... Oh, gotta go. It's time to＿prepare for business hours!」"
+msgstr "Yasuko「Bueno...... Ah, tengo que irme. ¡Es＿hora de prepararse para abrir!」"
+
+msgid "Ryuuji「Wait, we aren't done talking yet......」"
+msgstr "Ryuuji「Espera, no terminamos de hablar......」"
+
+msgid "Ryuuji「......Oh well. She's busy making＿preparations. I shouldn't stay here, so I＿guess I'll go home.」"
+msgstr "Ryuuji「......Bueno. Está ocupada haciendo los＿preparativos. No debería quedarme aquí,＿así que supongo que me iré a casa.」"

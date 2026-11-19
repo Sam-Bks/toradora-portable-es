@@ -1,0 +1,203 @@
+msgid ""
+msgstr ""
+
+msgid "???「Heyo～ Taka-chan～!」"
+msgstr "???「¡Buenas～ Taka-chan～!」"
+
+msgid "Ryuuji「Oh, hey.」"
+msgstr "Ryuuji「Ah, hola.」"
+
+msgid "Ryuuji「（This is...... Haruta.）」"
+msgstr "Ryuuji「（Este es...... Haruta.）」"
+
+msgid "Haruta「What ya doin' here～?」"
+msgstr "Haruta「¿Qué andas haciendo aquí～?」"
+
+msgid "Ryuuji「Oh, nothing much...... What about you?」"
+msgstr "Ryuuji「Ah, nada en especial...... ¿Y tú?」"
+
+msgid "Haruta「I'm in the middle of housecleaning, ya＿know～ We're outta glass cleaner, so＿the folks asked me to buy some more.」"
+msgstr "Haruta「Estoy en plena limpieza de la casa,＿¿sabes～? Se acabó el limpiavidrios, así＿que mis papás me mandaron por más.」"
+
+msgid "Haruta「Then, on the way home after buying it,＿I ran into you, Taka-chan ① ya dig?」"
+msgstr "Haruta「Y de camino a casa tras comprarlo, me＿topé contigo, Taka-chan ① ¿captas?」"
+
+msgid "Ryuuji「The way you talk creeps me out.」"
+msgstr "Ryuuji「Tu forma de hablar me da escalofríos.」"
+
+msgid "Haruta「Ya done with cleanin', Taka-chan～?」"
+msgstr "Haruta「¿Ya acabaste de limpiar, Taka-chan～?」"
+
+msgid "Ryuuji「Yeah, my house is spotless.」"
+msgstr "Ryuuji「Sí, mi casa quedó impecable.」"
+
+msgid "Haruta「I knew ittt～! Think ya could do my＿house too～?」"
+msgstr "Haruta「¡Lo sabíaaa～! ¿Crees que podrías＿limpiar mi casa también～?」"
+
+msgid "Ryuuji「Oh, sure. Bathroom? Kitchen? Your＿room?」"
+msgstr "Ryuuji「Ah, claro. ¿El baño? ¿La＿cocina? ¿Tu cuarto?」"
+
+msgid "Ryuuji「Oh...... By the way, next time you're out＿of glass cleaner, use wet newspaper＿instead. Works like a charm.」"
+msgstr "Ryuuji「Ah...... Por cierto, la próxima vez que＿te quedes sin limpiavidrios, usa＿periódico mojado. Funciona de maravilla.」"
+
+msgid "Haruta「For reals!? Aw, man, I just bought more＿cleaner～」"
+msgstr "Haruta「¡¿De veras?! Rayos, hombre, acabo＿de comprar más limpiador～」"
+
+msgid "Ryuuji「Might as well use it, since you have it.」"
+msgstr "Ryuuji「Igual úsalo, ya que lo tienes.」"
+
+msgid "Haruta「Oh yeah～ Got some time to spare?＿Since you're done with your cleanin'～」"
+msgstr "Haruta「Ah, sí～ ¿Tienes algo de tiempo libre?＿Ya que terminaste con tu limpieza～」"
+
+msgid "Ryuuji「Oh god, that's some tacky colors.」"
+msgstr "Ryuuji「Por Dios, qué colores de tan mal gusto.」"
+
+msgid "Ryuuji「（That Taiga girl...... She doesn't strike＿me as the student council type......）」"
+msgstr "Ryuuji「（Taiga...... No me parece del tipo que＿entra al consejo estudiantil......）」"
+
+msgid "Haruta「\"Tacky\"? Dude, weren't you and Tiger＿the ones who made this poster?」"
+msgstr "Haruta「¿\"De mal gusto\"? Amigo, ¿acaso tú＿y Tigre no hicieron este póster?」"
+
+msgid "Ryuuji「（I don't get it...... No one would vote for＿this......）」"
+msgstr "Ryuuji「（No lo entiendo...... Nadie＿votaría por esto......）」"
+
+msgid "Ryuuji「......So, why are you walking around with＿that poster? Warding off evil spirits?」"
+msgstr "Ryuuji「......¿Por qué llevas ese póster?＿¿Para ahuyentar malos espíritus?」"
+
+msgid "Haruta「Wellll, if I threw it out with the trash,＿it'd prolly curse me, so I was thinkin'＿like, I'd burn it while I'm out～」"
+msgstr "Haruta「Bueeeno, si lo tiraba a la basura seguro＿me caía una maldición, así que pensé en＿quemarlo aprovechando que salí～」"
+
+msgid "Ryuuji「Hold on, do you think you can wipe＿glass with that?」"
+msgstr "Ryuuji「Espera, ¿crees que puedas＿limpiar vidrios con eso?」"
+
+msgid "Haruta「It can rest in peace after serving its＿purpose, right?」"
+msgstr "Haruta「Así podrá descansar en paz tras＿cumplir su propósito, ¿no?」"
+
+msgid "Ryuuji「Unfortunately, that won't work well at＿all.」"
+msgstr "Ryuuji「Por desgracia, eso no servirá para nada.」"
+
+msgid "Haruta「Then I guess I'll burn it～」"
+msgstr "Haruta「Entonces supongo que lo quemaré～」"
+
+msgid "Ryuuji「Is it alright to randomly start a fire＿here?」"
+msgstr "Ryuuji「¿Está bien prender fuego＿aquí así como así?」"
+
+msgid "Haruta「Huh～? Why not?」"
+msgstr "Haruta「¿Eh～? ¿Por qué no?」"
+
+msgid "Ryuuji「Well, if even one piece of that poster＿found its way to the dry grass, the＿whole levee would go up in flames......」"
+msgstr "Ryuuji「Bueno, si aunque sea un pedazo de ese＿póster cae en el pasto seco, todo el＿terraplén ardería en llamas......」"
+
+msgid "Haruta「AAAAHH～～! T-Taka-chan, that's crazy＿dangerous!」"
+msgstr "Haruta「¡AAAAHH～～! ¡T-Taka-chan,＿eso es súper peligroso!」"
+
+msgid "Ryuuji「Yeah, crazy dangerous.」"
+msgstr "Ryuuji「Sí, súper peligroso.」"
+
+msgid "Haruta「Wooow～ Then what should I do～?＿Taka-chan, you want it?」"
+msgstr "Haruta「Guaaau～ ¿Entonces qué hago～?＿Taka-chan, ¿lo quieres?」"
+
+msgid "Ryuuji「Can't you just throw it away?」"
+msgstr "Ryuuji「¿No puedes simplemente tirarlo?」"
+
+msgid "Haruta「But it's one of our glorious memories＿of high school～」"
+msgstr "Haruta「Pero es uno de nuestros gloriosos＿recuerdos de la preparatoria～」"
+
+msgid "Ryuuji「But it's garbage.」"
+msgstr "Ryuuji「Pero es basura.」"
+
+msgid "Haruta「Taka-chaaan～!」"
+msgstr "Haruta「¡Taka-chaaan～!」"
+
+msgid "Ryuuji「Aargh, fine, I get it. Hand it over.」"
+msgstr "Ryuuji「Aargh, está bien, ya entendí. Dámelo.」"
+
+msgid "Ryuuji「（Even this thing might serve as a clue＿to a lost memory......）」"
+msgstr "Ryuuji「（Incluso esta cosa podría servir como＿pista de algún recuerdo perdido......）」"
+
+msgid "Haruta「Thanks bro～! I like nice guys like you①」"
+msgstr "Haruta「¡Gracias～! ¡Me caes bien, buen amigo①」"
+
+msgid "Ryuuji「I got quite the bargain.」"
+msgstr "Ryuuji「Me llevé toda una ganga.」"
+
+msgid "Haruta「That's a weight off my shoulders,＿literally～ Alriiight, I'm gonna run＿home～! See yaaa! Happy New Yearrr～!」"
+msgstr "Haruta「Qué peso me quité de encima,＿literalmente～ ¡Bieeen, corro a casa～!＿¡Nos vemooos! ¡Feliz Año Nuevooo～!」"
+
+msgid "Ryuuji「Oh, see ya.」"
+msgstr "Ryuuji「Ah, nos vemos.」"
+
+msgid "Ryuuji「（The boisterous, long-haired Haruta...... I＿feel like I faintly remember him.）」"
+msgstr "Ryuuji「（El escandaloso y pelilargo Haruta......＿Siento que lo recuerdo vagamente.）」"
+
+msgid "Leave"
+msgstr "Irse"
+
+msgid "Pick up trash"
+msgstr "Recoger basura"
+
+msgid "Ryuuji「（Well, even if I complained, no one＿would do anything...... I'll put a request＿in the suggestion box at city hall.）」"
+msgstr "Ryuuji「（Bueno, aunque me quejara, nadie haría＿nada...... Pondré una solicitud en el＿buzón de sugerencias del ayuntamiento.）」"
+
+msgid "Ryuuji「（......Complaining won't change anything.＿I should take action! Alright, I'll make it＿spotless!）」"
+msgstr "Ryuuji「（......Quejarse no cambiará＿nada. ¡Debo actuar! ¡Muy bien,＿lo dejaré impecable!）」"
+
+msgid "Ryuuji「（Ohh? What's this?）」"
+msgstr "Ryuuji「（¿Ehh? ¿Qué es esto?）」"
+
+msgid "Ryuuji「（A b-bikini......? Why is it in a place like＿this......?）」"
+msgstr "Ryuuji「（¿Un b-bikini......? ¿Por qué está＿en un lugar como este......?）」"
+
+msgid "Ryuuji「（Hmm, I feel like someone I know wore a＿bikini like this one...... Who was that......?）」"
+msgstr "Ryuuji「（Hmm, creo que alguien que＿conozco usó un bikini así......＿¿Quién era......?）」"
+
+msgid "Ryuuji「（......Incidentally, the fabric's really soft.＿Probably even softer when dry...... I＿wonder what material this is.）」"
+msgstr "Ryuuji「（......La tela es muy suave. Lo＿será aún más cuando esté seca......＿¿De qué material será?）」"
+
+msgid "Ryuuji「（Wait! If Taiga were to see me here,＿stroking this thing, she'd call me a＿horndog until the end of time!）」"
+msgstr "Ryuuji「（¡Espera! ¡Si Taiga me viera acariciando＿esto, me llamaría pervertido por＿el resto de mi vida!）」"
+
+msgid "Ryuuji「（MOTTAINAI! Pick it up!）」"
+msgstr "Ryuuji「（¡MOTTAINAI! ¡Recógelo!）」"
+
+msgid "Ryuuji「（Ohh? What's this?）」"
+msgstr "Ryuuji「（¿Ehh? ¿Qué es esto?）」"
+
+msgid "Ryuuji「（A nudie mag! It's brand new...... The＿pages aren't stuck together......）」"
+msgstr "Ryuuji「（¡Una revista porno nueva......! Las＿páginas no están pegadas......）」"
+
+msgid "Ryuuji「（Wait! If Taiga were to see me here,＿looking at this thing, she might even＿engrave \"Horndog\" on my tombstone!）」"
+msgstr "Ryuuji「（¡Espera! ¡Si Taiga me viera mirando＿esto, sería capaz de grabar \"Pervertido\"＿en mi lápida!）」"
+
+msgid "Ryuuji「（MOTTAINA...... NO! I'll throw it away＿properly!）」"
+msgstr "Ryuuji「（MOTTAINA...... ¡NO! ¡La tiraré＿a la basura como es debido!）」"
+
+msgid "Ryuuji「（Couldn't find anything......）」"
+msgstr "Ryuuji「（No pude encontrar nada......）」"
+
+msgid "Ryuuji「（Guess I'll leave it at that.）」"
+msgstr "Ryuuji「（Supongo que lo dejaré así.）」"
+
+msgid "Haruta「W-Wait, whaddya gettin' all worked up＿for～? It was a joke, dude!」"
+msgstr "Haruta「E-Espera, ¿por qué te entusiasmas＿tanto～? ¡Era broma, amigo!」"
+
+msgid "Haruta「My parents would kill me. I can't have＿someone else do it～」"
+msgstr "Haruta「Mis papás me matarían. No puedo＿dejar que alguien más lo haga～」"
+
+msgid "Haruta「Ta-da! Phantom Tiger Candidate＿Poster～! Same one used in the＿student council presidential election～」"
+msgstr "Haruta「¡Tarán! ¡El póster fantasma de Tigre＿candidata～! ¡El de la elección a la＿presidencia del consejo estudiantil～!」"
+
+msgid "Haruta「How nostalgic～」"
+msgstr "Haruta「Qué nostalgia～」"
+
+msgid "Ryuuji「（In any case, this riverbed is full of＿litter. It might be inevitable due to its＿location, but......）」"
+msgstr "Ryuuji「（En todo caso, esta ribera está llena＿de basura. Quizá sea inevitable por＿su ubicación, pero......）」"
+
+msgid "Ryuuji「（It looks like a problem for the local＿government that manages it.）」"
+msgstr "Ryuuji「（Parece un problema para el gobierno＿local que la administra.）」"
+
+msgid "Ryuuji「（Should I throw it away? It could be＿reused...... But whose is it......? Times＿like this...... Hm...... Gotta trust my）」"
+msgstr "Ryuuji「（¿Lo tiro? Podría reusarse...... ¿Pero＿de quién es......? En momentos así......＿Hm...... ¡Debo confiar en mi）」"
+
+msgid "Ryuuji「（instincts!）」"
+msgstr "Ryuuji「（instinto!）」"

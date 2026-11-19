@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+
+msgid "Minori「Well, if it isn't Takasu-kun!」"
+msgstr "Minori「¡Vaya, pero si es Takasu-kun!」"
+
+msgid "Ryuuji「You're...... Kushieda...... right?」"
+msgstr "Ryuuji「Tú eres...... Kushieda...... ¿verdad?」"
+
+msgid "Minori「Verily! I am the humble Kushieda＿Minori.」"
+msgstr "Minori「¡En efecto! Soy la humilde＿Kushieda Minori.」"
+
+msgid "Minori「Your memories have yet to return, I＿take it?」"
+msgstr "Minori「Supongo que tus recuerdos aún＿no han regresado, ¿no?」"
+
+msgid "Ryuuji「Not yet, no.」"
+msgstr "Ryuuji「Todavía no.」"
+
+msgid "Minori「I see, I see. Well, no need to rush...... OR＿IS THERE? HMM? Which is it?」"
+msgstr "Minori「Ya veo, ya veo. No hay prisa......＿¿O SÍ? ¿HMM? ¿En qué quedamos?」"
+
+msgid "Ryuuji「Haha, you're so weird...... Oh?」"
+msgstr "Ryuuji「Jaja, eres tan rara...... ¿Eh?」"
+
+msgid "Ryuuji「（What the? This feeling deep in my＿chest...... Pain?）」"
+msgstr "Ryuuji「（¿Qué pasa? Esta sensación en el fondo＿de mi pecho...... ¿Dolor?）」"
+
+msgid "Minori「Hm? What's eatin' ya?」"
+msgstr "Minori「¿Hm? ¿Qué te pasa?」"
+
+msgid "Ryuuji「Nothing...... That's a lot of luggage. Are＿you going on a trip or something?」"
+msgstr "Ryuuji「Nada...... Llevas mucho equipaje.＿¿Te vas de viaje o algo así?」"
+
+msgid "Ryuuji「You're going by yourself?」"
+msgstr "Ryuuji「¿Vas tú sola?」"
+
+msgid "Minori「Well you see, I was supposed to leave＿yesterday with my family, but my boss＿BEGGED me to come in to work, see.」"
+msgstr "Minori「Bueno, verás, se suponía que saldría＿ayer con mi familia, pero mi jefe me＿ROGÓ que fuera a trabajar, ¿ves?」"
+
+msgid "Ryuuji「I see. Enjoy your vacation.」"
+msgstr "Ryuuji「Ya veo. Disfruta tus vacaciones.」"
+
+msgid "Minori「Now Kushieda Minori must go! Laters!」"
+msgstr "Minori「¡Kushieda Minori parte! ¡Nos vemos!」"
+
+msgid "Call out to Minori"
+msgstr "Llamar a Minori"
+
+msgid "Let her go"
+msgstr "Dejarla ir"
+
+msgid "Ryuuji「What, is the train here already?」"
+msgstr "Ryuuji「¿Qué, ya llegó el tren?」"
+
+msgid "Minori「No, I still have some time, see.」"
+msgstr "Minori「No, aún tengo tiempo, ¿ves?」"
+
+msgid "Ryuuji「In that case, I'd like to talk a little more.」"
+msgstr "Ryuuji「Entonces me gustaría hablar un poco más.」"
+
+msgid "Minori「I see, I see. In that case, bring it ONNN!」"
+msgstr "Minori「Ya veo, ya veo. ¡Pues dale con TODOOO!」"
+
+msgid "Ryuuji「Take care.」"
+msgstr "Ryuuji「Cuídate.」"
+
+msgid "Minori「Thanks for your concern! Laters!」"
+msgstr "Minori「¡Gracias por preocuparte! ¡Nos vemos!」"
+
+msgid "Ryuuji「（......Oh, I should have asked her when＿she'll be back.）」"
+msgstr "Ryuuji「（......Ah, debí preguntarle＿cuándo volverá.）」"
+
+msgid "Minori「Actually, I'm on my way to my＿grandma's place, bud. This is just＿spare clothes, you know, overnight」"
+msgstr "Minori「En realidad, voy a casa＿de mi abuela, amigo.」"
+
+msgid "Minori「stuff.」"
+msgstr "Minori「Es ropa de cambio, ya sabes,＿cosas para pasar la noche.」"
+
+msgid "Minori「A true Kushieda would do anything for＿someone in need! Except stripping,＿that is. So yeah, I stayed behind to」"
+msgstr "Minori「¡Una verdadera Kushieda haría＿todo por quien lo necesite! Salvo＿desnudarse, claro.」"
+
+msgid "Minori「work.」"
+msgstr "Minori「Así que me quedé a trabajar.」"

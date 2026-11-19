@@ -1,0 +1,119 @@
+msgid ""
+msgstr ""
+
+msgid "Kota「（......up! At the crack of dawn! All thanks＿to that nightmare!）」"
+msgstr "Kota「（......¡me desperté! ¡Al amanecer!＿¡Todo por esa pesadilla!）」"
+
+msgid "Kota「（No time! No date! NO SAKURA-CHAN!!）」"
+msgstr "Kota「（¡Sin tiempo! ¡Sin cita!＿¡¡SIN SAKURA-CHAN!!）」"
+
+msgid "Kota「......Huh?」"
+msgstr "Kota「......¿Eh?」"
+
+msgid "Kota「（N-No, right now I need to get to＿Sakura-chan!）」"
+msgstr "Kota「（¡N-No, ahora tengo que＿ir con Sakura-chan!）」"
+
+msgid "Kota「（B-But...... for some reason, I just＿know...... when I go around that＿corner......）」"
+msgstr "Kota「（P-Pero...... por alguna razón sé......＿que al doblar esa esquina......）」"
+
+msgid "Ryuuji「......Gah!!」"
+msgstr "Ryuuji「......¡Gah!!」"
+
+msgid "Kota「Aagh!」"
+msgstr "Kota「¡Aagh!」"
+
+msgid "Sumire「Hmm, this is......」"
+msgstr "Sumire「Mmm, esto es......」"
+
+msgid "Kitamura「A prophecy, perhaps? But still, could＿such a farfetched ability exist?」"
+msgstr "Kitamura「¿Una profecía, quizá? Pero ¿puede＿existir una habilidad tan descabellada?」"
+
+msgid "Kitamura「I see. I shall engrave those words into＿my heart.」"
+msgstr "Kitamura「Ya veo. Grabaré esas palabras＿en mi corazón.」"
+
+msgid "Sumire「Bahahaha! Anyway, there's one thing＿we can be sure of.」"
+msgstr "Sumire「¡Jajajaja! En fin, hay algo de＿lo que podemos estar seguros.」"
+
+msgid "Kitamura「What would that be?」"
+msgstr "Kitamura「¿Qué sería?」"
+
+msgid "Sumire「Something Kota will remember for the＿rest of his life. Here we go......」"
+msgstr "Sumire「Algo que Kota recordará toda＿su vida. Ahí va......」"
+
+msgid "Kota「（......they would say! Undoubtedly＿enjoying themselves! I can't help but＿think...!）」"
+msgstr "Kota「（......¡dirían ellos! ¡Sin＿duda, divirtiéndose! ¡No puedo＿evitar pensarlo...!）」"
+
+msgid "Kota「WHAAAAT BAAAAD LUUUUCK!!」"
+msgstr "Kota「¡¡QUÉ MAAAALA SUERTEEEE!!」"
+
+msgid "Yuri「Hello. First of all, perhaps I should＿thank you for your hard work,＿Takasu-kun.」"
+msgstr "Yuri「Hola. Antes que nada, quizá deba＿agradecerte tu esfuerzo, Takasu-kun.」"
+
+msgid "Yuri「Now that you got this ending, the＿reason I brought you here......」"
+msgstr "Yuri「Ahora que llegaste a este final, la＿razón por la que te traje aquí......」"
+
+msgid "Yuri「......is none other than to discuss the＿route you chose. I thought we could＿ponder it together.」"
+msgstr "Yuri「......no es otra que hablar de la＿ruta que elegiste. Pensé que podríamos＿reflexionar juntos.」"
+
+msgid "Yuri「Well then, let's evaluate the ending you＿just saw.」"
+msgstr "Yuri「Bueno, evaluemos el final＿que acabas de ver.」"
+
+msgid "Yuri「Welcome, Takasu-kun.」"
+msgstr "Yuri「Bienvenido, Takasu-kun.」"
+
+msgid "Yuri「Well then, let's begin to evaluate the＿ending you just saw.」"
+msgstr "Yuri「Bueno, empecemos a evaluar el＿final que acabas de ver.」"
+
+msgid "Yuri「Er...... Are you sure you're Takasu-kun?＿Hahaha...... Still, what a disaster this＿was.」"
+msgstr "Yuri「Ehm...... ¿Seguro que eres Takasu-kun?＿Jajaja...... Vaya desastre fue＿todo esto.」"
+
+msgid "Yuri「Body-swapping with Tomiie-kun, of all＿things. Was this caused by＿Tomiie-kun's misfortune, I wonder?」"
+msgstr "Yuri「Intercambiar cuerpos con Tomiie-kun,＿nada menos. ¿Habrá sido por＿su mala suerte?」"
+
+msgid "Yuri「Well, the ability to see things from a＿different perspective might have been＿worth it.」"
+msgstr "Yuri「Bueno, quizá valió la pena poder ver＿las cosas desde otra perspectiva.」"
+
+msgid "Yuri「Well then, it's time to announce your＿final score! *Drumroll*! Ta-da!!」"
+msgstr "Yuri「Bueno, ¡es hora de anunciar tu＿puntuación final! ¡*Redoble de＿tambores*! ¡¡Tarán!!」"
+
+msgid "Yuri「For this ending, as congratulations for＿returning safely to your original body,＿you receive 100 POINTS!」"
+msgstr "Yuri「En este final, ¡recibes 100 PUNTOS＿por volver sano y salvo a tu cuerpo＿original! ¡Felicidades!」"
+
+msgid "Yuri「May you never go through another＿out-of-body experience again①」"
+msgstr "Yuri「Que nunca vuelvas a tener una＿experiencia extracorporal①」"
+
+msgid "Yuri「Now, let us meet again someday!＿FAREWELLLL～!」"
+msgstr "Yuri「¡Nos veremos de nuevo algún＿día! ¡ADIOOOÓS～!」"
+
+msgid "Yuri「Okay, that's all for today. Until next＿time!」"
+msgstr "Yuri「Bien, eso es todo por hoy.＿¡Hasta la próxima!」"
+
+msgid "『Music』 is now available in 『Extra』"
+msgstr "『Música』 ya está disponible en 『Extras』"
+
+msgid "『Album』 is now available in 『Extra』"
+msgstr "『Álbum』 ya está disponible en 『Extras』"
+
+msgid "Kota「（But it's so weird...... I found my wallet＿where I left it in the student council＿room...... And for a dream, I sure didn't）」"
+msgstr "Kota「（Pero es tan raro...... Encontré mi＿billetera donde la dejé en el salón del＿consejo...... Y para ser un sueño, no）」"
+
+msgid "Kota「（recognize anyone or anywhere......）」"
+msgstr "Kota「（reconocía a nadie ni＿ningún lugar......）」"
+
+msgid "Sumire「Who knows. Might be similar to his＿penchant for misfortune. They say＿that the human mind is more vast than」"
+msgstr "Sumire「Quién sabe. Quizá sea como su tendencia＿a la mala suerte. Dicen que la mente＿humana es más vasta que」"
+
+msgid "Sumire「the universe itself.」"
+msgstr "Sumire「el propio universo.」"
+
+msgid "Yuri「I'll come and see you every time you＿reach an ending.」"
+msgstr "Yuri「Vendré a verte cada vez que＿llegues a un final.」"
+
+msgid "Yuri「I want you to reflect on the actions you＿made this time and keep them in mind＿for next time.」"
+msgstr "Yuri「Quiero que reflexiones sobre lo＿que hiciste esta vez y lo tengas＿en cuenta para la próxima.」"
+
+msgid "Yuri「Now then! Have you seen all the＿endings?! If you're missing any CGs,＿please try to get them in a new」"
+msgstr "Yuri「¡Y bien! ¡¿Ya viste todos los finales?!＿Si te falta alguna CG, ¡intenta＿conseguirla en una nueva」"
+
+msgid "Yuri「playthrough!」"
+msgstr "Yuri「partida!」"

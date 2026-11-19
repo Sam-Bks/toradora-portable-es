@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+
+msgid "???「Huh? Ain't that Taka-chan?」"
+msgstr "???「¿Eh? ¿Ese no es Taka-chan?」"
+
+msgid "Ryuuji「......Oh?」"
+msgstr "Ryuuji「......¿Eh?」"
+
+msgid "???「Aha! It really is Taka-chan! Almost＿didn't recognize ya when ya walked＿past us～ Right, Notocchi?」"
+msgstr "???「¡Ajá! ¡De verdad es Taka-chan! Casi＿no te reconozco cuando pasaste a nuestro＿lado～ ¿Verdad, Notocchi?」"
+
+msgid "Ryuuji「Oh, uh, yeah......」"
+msgstr "Ryuuji「Ah, eh, sí......」"
+
+msgid "Ryuuji「(It seems like they know me......)」"
+msgstr "Ryuuji「(Parece que me conocen......)」"
+
+msgid "Ryuuji「Uh, well, truth be told, I was in the＿hospital for the past week.」"
+msgstr "Ryuuji「Eh, bueno, a decir verdad, estuve＿en el hospital la última semana.」"
+
+msgid "Noto「The hospital?」"
+msgstr "Noto「¿El hospital?」"
+
+msgid "Haruta「No waaay, ya serious～?」"
+msgstr "Haruta「No puede seeer, ¿en serio～?」"
+
+msgid "Noto「What happened?」"
+msgstr "Noto「¿Qué pasó?」"
+
+msgid "Ryuuji「Apparently, I collapsed all of a＿sudden...... I can't really remember＿though......」"
+msgstr "Ryuuji「Al parecer, me desplomé de repente......＿Aunque en realidad no lo recuerdo......」"
+
+msgid "Haruta「Whaaat～!? Oh my god! You okay,＿dude?」"
+msgstr "Haruta「¡¿Quééé～?! ¡Por Dios!＿¿Estás bien, amigo?」"
+
+msgid "Noto「He was discharged, so he must be.」"
+msgstr "Noto「Si le dieron el alta, debe estar bien.」"
+
+msgid "Haruta「Aha～ I see. That makes sense～＿Hahaha!」"
+msgstr "Haruta「Ajá～ Ya veo. Tiene sentido～ ¡Jajaja!」"
+
+msgid "Ryuuji「Yeah, they didn't find anything wrong＿with my body, at least.」"
+msgstr "Ryuuji「Sí, al menos no encontraron＿nada malo en mi cuerpo.」"
+
+msgid "Ryuuji「（On the outside, that is......）」"
+msgstr "Ryuuji「（Por fuera, claro......）」"
+
+msgid "Noto「So you're saying you've wasted＿practically half of winter break laying＿in bed?」"
+msgstr "Noto「¿O sea que desperdiciaste casi＿la mitad de las vacaciones＿de invierno en cama?」"
+
+msgid "Ryuuji「Well... I suppose I have.」"
+msgstr "Ryuuji「Bueno... Supongo que sí.」"
+
+msgid "Haruta「Whaaat? That's no good, bro～! In that＿case, ya gotta have lots of fun to make＿up for it～!」"
+msgstr "Haruta「¿Quééé? ¡Eso está mal, amigo～! ¡En＿ese caso, tienes que divertirte＿mucho para compensarlo～!」"
+
+msgid "Ryuuji「(\"Master Kitamura\"? I've never heard＿that name before......)」"
+msgstr "Ryuuji「(¿\"Maestro Kitamura\"? Nunca antes había＿escuchado ese nombre......)」"
+
+msgid "Haruta「Oho, no chicks? That's harsh, man～!」"
+msgstr "Haruta「¿Oh, sin chicas? ¡Qué duro, hombre～!」"
+
+msgid "Noto「Nonsense! We can invite the Tiger too,＿y'know.」"
+msgstr "Noto「¡Tonterías! También podemos＿invitar a Tigre, ¿sabes?」"
+
+msgid "Haruta「That reminds me, Taka-chan, you're＿not hangin' with Tiger today?」"
+msgstr "Haruta「Ahora que lo pienso, Taka-chan,＿¿hoy no andas con Tigre?」"
+
+msgid "Ryuuji「Uh, well......」"
+msgstr "Ryuuji「Eh, bueno......」"
+
+msgid "Ryuuji「（\"Tiger\"? As in the animal......?）」"
+msgstr "Ryuuji「（¿\"Tigre\"? ¿Como el animal......?）」"
+
+msgid "Noto「......What's up?」"
+msgstr "Noto「......¿Qué pasa?」"
+
+msgid "Ryuuji「Nothing...... Anyway, I'm flying solo＿today.」"
+msgstr "Ryuuji「Nada...... En fin, hoy＿ando por mi cuenta.」"
+
+msgid "Ryuuji「（......Does he mean Taiga?）」"
+msgstr "Ryuuji「（......¿Se referirá a Taiga?）」"
+
+msgid "Haruta「Yeah, sounds good! What to do, what to＿do? Throw a year-end party?」"
+msgstr "Haruta「¡Sí, suena bien! ¿Qué hacemos, qué＿hacemos? ¿Una fiesta de fin de año?」"
+
+msgid "Noto「Haruta, you moron～ Where would we＿hold a last minute year-end party? I＿bet everywhere's fully booked by now.」"
+msgstr "Noto「Haruta, no seas tonto～ ¿Dónde haríamos＿una fiesta de fin de año a última hora?＿Seguro todo está lleno a estas alturas.」"
+
+msgid "Haruta「Then a New Year's party would work,＿riiight～? Let's do it! New Year's party!」"
+msgstr "Haruta「Entonces una fiesta de Año＿Nuevo sirve, ¿verdaaad～? ¡Sí!＿¡Fiesta de Año Nuevo!」"
+
+msgid "Noto「But what do you want to do＿specifically?」"
+msgstr "Noto「¿Pero qué quieres hacer específicamente?」"
+
+msgid "Haruta「Huh～? Let's see～ For now, let's plan＿on eating food, doing some karaoke,＿maybe go bowling after that?」"
+msgstr "Haruta「¿Eh～? A ver～ Por ahora, planeemos ir a＿comer algo, cantar en el karaoke, ¿y tal＿vez jugar a los bolos después?」"
+
+msgid "Noto「Isn't that what we always do?」"
+msgstr "Noto「¿No es eso lo que hacemos siempre?」"
+
+msgid "Haruta「True. Hahaha～」"
+msgstr "Haruta「Es cierto. Jajaja～」"
+
+msgid "Noto「Well, anyway, let's keep thinking about＿it. See you later, Takasu.」"
+msgstr "Noto「Bueno, en fin, sigamos pensándolo.＿Nos vemos luego, Takasu.」"
+
+msgid "Haruta「See yaaa, Taka-chaaan～～」"
+msgstr "Haruta「Nos vemooos, Taka-chaaan～～」"
+
+msgid "Ryuuji「Oh, yeah. See you......」"
+msgstr "Ryuuji「Ah, sí. Nos vemos......」"
+
+msgid "Ryuuji「（Noto and Haruta...... Seems like they're＿very close friends......）」"
+msgstr "Ryuuji「（Noto y Haruta...... Parecen＿amigos muy cercanos......）」"
+
+msgid "Ryuuji「（......Hm? This whole time I've been＿strolling by without noticing, but now I＿can see this riverbed is full of trash......）」"
+msgstr "Ryuuji「（......¿Hm? Pasé por aquí sin fijarme,＿pero ahora veo que esta ribera está＿llena de basura......）」"
+
+msgid "Ryuuji「（Maybe I'll tidy it up a bit.）」"
+msgstr "Ryuuji「（Tal vez la limpie un poco.）」"
+
+msgid "Leave it"
+msgstr "Dejarlo así"
+
+msgid "Tidy up"
+msgstr "Limpiar"
+
+msgid "Ryuuji「（No, this isn't the time for that. I'll clean＿it up next time.）」"
+msgstr "Ryuuji「（No es momento para eso. Lo＿limpiaré la próxima vez.）」"
+
+msgid "Ryuuji「（Alright! I'll make it spotless!）」"
+msgstr "Ryuuji「（¡Muy bien! ¡Lo dejaré impecable!）」"
+
+msgid "Ryuuji「（Hmm?）」"
+msgstr "Ryuuji「（¿Hmm?）」"
+
+msgid "Ryuuji「（Is this...... an empty plastic bottle?）」"
+msgstr "Ryuuji「（¿Es...... una botella plástica vacía?）」"
+
+msgid "Ryuuji「（Plastic bottles have to be recycled.＿And the label and cap should be＿removed!）」"
+msgstr "Ryuuji「（Las botellas de plástico deben＿reciclarse. ¡Y hay que quitarles＿la etiqueta y la tapa!）」"
+
+msgid "Ryuuji「（Hmm?）」"
+msgstr "Ryuuji「（¿Hmm?）」"
+
+msgid "Ryuuji「（Is this...... a wrapper from convenience＿store food?）」"
+msgstr "Ryuuji「（¿Esto es...... una envoltura de comida＿de tienda de conveniencia?）」"
+
+msgid "Ryuuji「（I'll take it home, clean it, and put it into＿a separate trash bag.）」"
+msgstr "Ryuuji「（Me la llevaré a casa, la limpiaré＿y la pondré en una bolsa de＿basura aparte.）」"
+
+msgid "Ryuuji「（Couldn't find anything......）」"
+msgstr "Ryuuji「（No pude encontrar nada......）」"
+
+msgid "Ryuuji「（Guess I'll leave it at that.）」"
+msgstr "Ryuuji「（Supongo que lo dejaré así.）」"
+
+msgid "Noto「Yeah, really. I was looking at my cell＿phone, so if Haruta hadn't recognized＿you, we would have just kept on」"
+msgstr "Noto「Sí, de verdad.」"
+
+msgid "Noto「walking.」"
+msgstr "Noto「Miraba mi celular, así que, si Haruta＿no te hubiera reconocido, habríamos＿seguido caminando.」"
+
+msgid "Haruta「Come to think of it～ Taka-chan, what＿happened to ya～?」"
+msgstr "Haruta「Ahora que lo pienso～ Taka-chan,＿¿qué te pasó～?」"
+
+msgid "Haruta「I been tryna ask you to hang out, but＿you ain't been answerin' your phone～!」"
+msgstr "Haruta「¡He intentado invitarte a salir, pero＿no has contestado tu teléfono～!」"
+
+msgid "Noto「True that. I mean, the two of us ended＿up just walking around aimlessly all＿day.」"
+msgstr "Noto「Es verdad. O sea, nosotros dos＿terminamos caminando＿sin rumbo todo el día.」"
+
+msgid "Noto「Let's make plans to hang out and＿invite Master Kitamura to join us.」"
+msgstr "Noto「Hagamos planes para salir e invitemos＿al Maestro Kitamura.」"
+
+msgid "Haruta「That so? Well, there ain't nothin' wrong＿with that～」"
+msgstr "Haruta「¿Ah, sí? Bueno, no tiene nada de malo～」"
+
+msgid "Haruta「It'd be kinda weird for two people who＿ain't dating to be together all the＿time～」"
+msgstr "Haruta「Sería un poco raro que dos personas＿que no son novios estén juntas＿todo el tiempo～」"
+
+msgid "Noto「No, no, when you put it that way, then＿we...... Uhhh, actually, forget I said＿anything.」"
+msgstr "Noto「No, no, si lo pones así, entonces＿nosotros...... Ehhh, mejor olvida＿lo que dije.」"
+
+msgid "Noto「More importantly, let's make plans! It's＿a little late to go on a trip or anything,＿but let's figure something out.」"
+msgstr "Noto「¡Más importante aún, hagamos planes! Es＿algo tarde para ir de viaje o algo así,＿pero ya se nos ocurrirá algo.」"

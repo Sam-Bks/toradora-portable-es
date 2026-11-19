@@ -1,0 +1,173 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「Kawashima's outside making a phone＿call. Apparently she's calling her mom.＿She didn't have to go outside though.」"
+msgstr "Ryuuji「Kawashima salió a hacer una llamada.＿Al parecer está llamando a su mamá.＿Aunque no hacía falta que saliera.」"
+
+msgid "Taiga「Let her do what she wants. It's＿probably something she doesn't want＿you to overhear.」"
+msgstr "Taiga「Déjala hacer lo que quiera. Seguro es＿algo que no quiere que escuches.」"
+
+msgid "Ryuuji「Maybe so. Oh well. In any case......」"
+msgstr "Ryuuji「Puede ser. En fin. De todos modos......」"
+
+msgid "Both「*Sigh*～」"
+msgstr "Ambos「*Suspiro*～」"
+
+msgid "Ryuuji「Jeez～ I'm beat.」"
+msgstr "Ryuuji「Caray～ Estoy agotado.」"
+
+msgid "Taiga「When that bee flew up my skirt, I＿thought my heart was going to stop......」"
+msgstr "Taiga「Cuando esa abeja se metió bajo＿mi falda, pensé que se me paraba＿el corazón......」"
+
+msgid "Taiga「Yeah......」"
+msgstr "Taiga「Sí......」"
+
+msgid "Ryuuji「What? You should be happy. We're one＿step closer to Kitamura's happiness.＿Oh, that reminds me--」"
+msgstr "Ryuuji「¿Qué? Deberías estar feliz. Estamos＿un paso más cerca de la felicidad de＿Kitamura. Ah, eso me recuerda--」"
+
+msgid "Taiga「What?」"
+msgstr "Taiga「¿Qué?」"
+
+msgid "Ryuuji「I've always wanted to ask you...... Did＿something happen between you and＿Kanou Sumire?」"
+msgstr "Ryuuji「Siempre quise preguntarte...... ¿Pasó＿algo entre tú y Kanou Sumire?」"
+
+msgid "Taiga「......!」"
+msgstr "Taiga「......!」"
+
+msgid "Ryuuji「You got all grumpy as soon as you laid＿eyes on her, and Kawashima wouldn't＿tell me anything about it.」"
+msgstr "Ryuuji「Te pusiste de mal humor en cuanto＿la viste, y Kawashima no quiso contarme＿nada al respecto.」"
+
+msgid "Taiga「It's fine. You don't have to force＿yourself to remember.」"
+msgstr "Taiga「No importa. No tienes que＿forzarte a recordar.」"
+
+msgid "Ryuuji「What if I compromise the plan by＿unwittingly stepping on a land mine?」"
+msgstr "Ryuuji「¿Y si arruino el plan por pisar una＿mina terrestre sin darme cuenta?」"
+
+msgid "Taiga「You'd compromise it more if you knew.」"
+msgstr "Taiga「Lo arruinarías más si lo supieras.」"
+
+msgid "Ryuuji「Huh? I don't see how I would.」"
+msgstr "Ryuuji「¿Eh? No veo cómo.」"
+
+msgid "Taiga「Figure it out, stupid dog...... Ouch!」"
+msgstr "Taiga「Piénsalo, perro tonto...... ¡Ay!」"
+
+msgid "Ryuuji「Hm? What happened?」"
+msgstr "Ryuuji「¿Mm? ¿Qué pasó?」"
+
+msgid "Taiga「......My feet kinda hurt.」"
+msgstr "Taiga「......Me duelen un poco los pies.」"
+
+msgid "Ryuuji「Lemme take a look...... Aww, you're all＿scraped up. When did this happen?」"
+msgstr "Ryuuji「Déjame ver...... Ay, estás toda＿raspada. ¿Cuándo pasó esto?」"
+
+msgid "Taiga「I dunno. Might have been when I was＿freaking out about that bee in my＿skirt.」"
+msgstr "Taiga「No sé. Puede que haya sido cuando me＿asusté con esa abeja en mi falda.」"
+
+msgid "Ryuuji「Now where is that first aid kit......?」"
+msgstr "Ryuuji「Ahora, ¿dónde está el botiquín......?」"
+
+msgid "Ryuuji「Come on, lemme take a closer look......＿Wait, you didn't notice this until just＿now? Just how slow are you?」"
+msgstr "Ryuuji「Ven, déjame ver más de cerca......＿Espera, ¿no te diste cuenta hasta ahora?＿¿Qué tan distraída eres?」"
+
+msgid "Taiga「Oh, shut it......! Crap, it hurts more just＿from looking at it.」"
+msgstr "Taiga「¡Ah, cállate......! Rayos, duele＿más con solo mirarlo.」"
+
+msgid "Ryuuji「Just pretend you didn't see it then. I'll＿put gauze on it for you. Come on, hold＿still so I can do this.」"
+msgstr "Ryuuji「Entonces haz como si no lo vieras.＿Te pondré una gasa. Vamos, quédate＿quieta para que pueda hacerlo.」"
+
+msgid "Taiga「......The first aid kit.」"
+msgstr "Taiga「......El botiquín.」"
+
+msgid "Ryuuji「Hm?」"
+msgstr "Ryuuji「¿Mm?」"
+
+msgid "Taiga「You knew where it was without even＿having to ask.」"
+msgstr "Taiga「Sabías dónde estaba sin siquiera＿tener que preguntar.」"
+
+msgid "Ryuuji「It's like it's ingrained in me, the same＿way housework is. Jeez, you've pushed＿me around a lot, haven't you?」"
+msgstr "Ryuuji「Es como si lo tuviera grabado, igual＿que las tareas del hogar. Vaya que＿me has dado órdenes, ¿eh?」"
+
+msgid "Taiga「You're a paragon of a loyal dog. You＿have my praise.」"
+msgstr "Taiga「Eres todo un ejemplo de perro＿leal. Tienes mi elogio.」"
+
+msgid "Ryuuji「Gee, thanks...... There, all done.」"
+msgstr "Ryuuji「Vaya, gracias...... Listo, ya quedó.」"
+
+msgid "Taiga「......I picked a fight with Kanou Sumire.」"
+msgstr "Taiga「......Busqué pelea con Kanou Sumire.」"
+
+msgid "Ryuuji「Oh?」"
+msgstr "Ryuuji「¿Ah, sí?」"
+
+msgid "Ryuuji「Why?」"
+msgstr "Ryuuji「¿Por qué?」"
+
+msgid "Taiga「Shut up already. Learn the small＿details on your own!」"
+msgstr "Taiga「Cállate ya. ¡Averigua los pequeños＿detalles por tu cuenta!」"
+
+msgid "Ryuuji「I would if I could.」"
+msgstr "Ryuuji「Lo haría si pudiera.」"
+
+msgid "Taiga「Ugh, there's no getting around it......＿And StuChi is taking her sweet time,＿so tell me what you want to know.」"
+msgstr "Taiga「Ugh, no hay más remedio...... Y StuChi＿se está tomando todo su tiempo, así＿que dime qué quieres saber.」"
+
+msgid "Taiga「However, you're not allowed to ask＿about the reason behind the fight!」"
+msgstr "Taiga「¡Sin embargo, no tienes permitido＿preguntar el motivo de la pelea!」"
+
+msgid "Ryuuji「Then what's the point......?」"
+msgstr "Ryuuji「¿Entonces qué sentido tiene......?」"
+
+msgid "Ryuuji「（That's what I'm most curious about,＿but...... Maybe I should try to carefully＿prod it out of her?）」"
+msgstr "Ryuuji「（Eso es lo que más curiosidad me＿da, pero...... ¿Tal vez deba intentar＿sacárselo con cuidado?）」"
+
+msgid "Talk to her"
+msgstr "Hablar con ella"
+
+msgid "Don't talk to her"
+msgstr "No hablar con ella"
+
+msgid "Ryuuji「Nah, it's all good. Seems like it'd be＿best not to distract myself with＿unnecessary information.」"
+msgstr "Ryuuji「Nah, no hace falta. Parece que＿es mejor no distraerme con información＿innecesaria.」"
+
+msgid "Taiga「Whatever. Make some tea then, Ryuuji.＿I'd like apple tea.」"
+msgstr "Taiga「Como sea. Prepara té entonces,＿Ryuuji. Quiero té de manzana.」"
+
+msgid "Ryuuji「......I don't see how you could go from＿not talking to making tea.」"
+msgstr "Ryuuji「......No entiendo cómo pasaste＿de no hablar a preparar té.」"
+
+msgid "Taiga「Ah, never mind on that apple tea! I'm＿gonna go buy some yogurt!」"
+msgstr "Taiga「¡Ah, olvida ese té de manzana!＿¡Voy a ir a comprar yogur!」"
+
+msgid "Ryuuji「（Kawashima, please come back soon......）」"
+msgstr "Ryuuji「（Kawashima, por favor＿vuelve pronto......）」"
+
+msgid "Ryuuji「Oh! Nice timing, Kawashima!」"
+msgstr "Ryuuji「¡Oh! ¡Justo a tiempo, Kawashima!」"
+
+msgid "Ryuuji「I knew it. I can't think of anyone else＿who would get so disgruntled from＿having to wait!」"
+msgstr "Ryuuji「Lo sabía. ¡No se me ocurre nadie＿más que se ponga tan de mal humor＿por tener que esperar!」"
+
+msgid "Taiga「......Tch.」"
+msgstr "Taiga「......Tch.」"
+
+msgid "Ryuuji「Come on, Taiga. Break time's over.＿Let's go.」"
+msgstr "Ryuuji「Vamos, Taiga. Se acabó＿el descanso. Vámonos.」"
+
+msgid "Ryuuji「Yeah, I jumped out of my skin a couple＿times myself! I wasn't sure what to do＿when Kitamura was grilling me, but......」"
+msgstr "Ryuuji「¡Sí, yo también me llevé un par de＿sustos! No sabía qué hacer cuando＿Kitamura me interrogaba, pero......」"
+
+msgid "Ryuuji「At any rate, I'm glad it worked out okay.」"
+msgstr "Ryuuji「En todo caso, me alegra＿que saliera bien.」"
+
+msgid "Taiga「On the day of the student council＿election, I ran into her third-year＿classroom, and......」"
+msgstr "Taiga「El día de las elecciones del consejo＿estudiantil, entré corriendo a su＿salón de tercer año, y......」"
+
+msgid "Taiga「We got into a big fight in front of＿everyone. Good enough for you?」"
+msgstr "Taiga「Tuvimos una gran pelea delante＿de todos. ¿Contento con eso?」"
+
+msgid "Taiga「There's nothing to talk about, and＿there's nothing much else to do. I've＿deigned to assign a task to those idle」"
+msgstr "Taiga「No hay nada de qué hablar, y tampoco hay＿mucho más que hacer. Me he dignado a＿asignarle una tarea a esas ociosas」"
+
+msgid "Taiga「hands of yours.」"
+msgstr "Taiga「manos tuyas.」"

@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「......When it rains, it pours...... No, third＿time's the charm!」"
+msgstr "Ryuuji「......Llueve sobre mojado......＿¡No, la tercera es la vencida!」"
+
+msgid "Ryuuji「（Crap. What am I so afraid of......?）」"
+msgstr "Ryuuji「（Rayos. ¿Por qué tengo＿tanto miedo......?）」"
+
+msgid "Minori「Huh? Takasu-kun?」"
+msgstr "Minori「¿Eh? ¿Takasu-kun?」"
+
+msgid "Ryuuji「Oh, hey!」"
+msgstr "Ryuuji「¡Ah, hola!」"
+
+msgid "Minori「What are you doing here?」"
+msgstr "Minori「¿Qué haces aquí?」"
+
+msgid "Ryuuji「Waiting for you, Kushieda.」"
+msgstr "Ryuuji「Te estoy esperando, Kushieda.」"
+
+msgid "Minori「......Oh, I see. Been waiting long?」"
+msgstr "Minori「......Ah, ya veo. ¿Llevas＿mucho esperando?」"
+
+msgid "Ryuuji「Well, kinda.」"
+msgstr "Ryuuji「Bueno, un poco.」"
+
+msgid "Minori「I see...... So, what is it?」"
+msgstr "Minori「Ya veo...... Entonces, ¿qué pasa?」"
+
+msgid "Ryuuji「I need to talk to you. I want to pick up＿where we left off a couple nights ago.＿Can I borrow you for a while?」"
+msgstr "Ryuuji「Necesito hablar contigo. Quiero＿retomar lo de hace un par de noches.＿¿Tienes un momento?」"
+
+msgid "Minori「......Do I have to hear you out?」"
+msgstr "Minori「......¿Tengo que escucharte?」"
+
+msgid "Ryuuji「..................Huh?」"
+msgstr "Ryuuji「..................¿Eh?」"
+
+msgid "Minori「Takasu-kun, you're saying let's＿continue, but you're starting a whole＿new topic, aren't you?」"
+msgstr "Minori「Takasu-kun, dices que quieres＿retomar el tema, pero vas a empezar＿otro distinto, ¿no?」"
+
+msgid "Minori「That's against the rules.」"
+msgstr "Minori「Eso va contra las reglas.」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Minori「I understand that much...... Takasu-kun,＿your expression is totally different＿from usual.」"
+msgstr "Minori「Eso sí lo entiendo...... Takasu-kun,＿tu expresión es muy distinta＿a la de siempre.」"
+
+msgid "Ryuuji「You're...... right, I guess.」"
+msgstr "Ryuuji「Supongo...... que tienes razón.」"
+
+msgid "Minori「Yup, you look crazy fired up. But also＿somewhat sad. You follow me?」"
+msgstr "Minori「Sí, pareces muy decidido. Pero también＿algo triste. ¿Me entiendes?」"
+
+msgid "Ryuuji「......I don't follow what you're trying to＿say.」"
+msgstr "Ryuuji「......No entiendo qué intentas decir.」"
+
+msgid "Minori「Alright. Then, until you get it...... Nah, I＿thought of asking you to consider it,＿but I won't.」"
+msgstr "Minori「Bien. Entonces, hasta que＿entiendas...... No, iba a pedirte＿que lo pensaras, pero no lo haré.」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Minori「Just for your information, I'm sticking＿to my convictions. And I'm sure they＿won't ever change.」"
+msgstr "Minori「Para que lo sepas, me mantengo＿firme en mis convicciones. Y＿sé que nunca cambiarán.」"
+
+msgid "Minori「I know I'm being arrogant and it's＿unfair. So――」"
+msgstr "Minori「Sé que soy arrogante y que＿es injusto. Así que――」"
+
+msgid "\"I can't hear you out, Takasu-kun.\""
+msgstr "\"No puedo escucharte, Takasu-kun.\""
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Ryuuji「Oh, it's already so late......」"
+msgstr "Ryuuji「Ah, ya es muy tarde......」"
+
+msgid "Ryuuji「（Crap...... Yasuko's already about to＿leave......）」"
+msgstr "Ryuuji「（Rayos...... Yasuko ya＿está por salir......）」"
+
+msgid "Ryuuji「......Hm?」"
+msgstr "Ryuuji「......¿Hm?」"
+
+msgid "Ryuuji「Wh...... What's all the commotion......?＿Huh?」"
+msgstr "Ryuuji「¿Qu...... Qué es todo este＿alboroto......? ¿Eh?」"
+
+msgid "Ryuuji「Taiga had already been taken to the＿hospital in an ambulance.」"
+msgstr "Ryuuji「Ya se habían llevado a Taiga＿al hospital en ambulancia.」"
+
+msgid "Ryuuji「（I came this far on my own two feet......＿Sure, I needed some encouragement,＿but no one told me to go this time. I）」"
+msgstr "Ryuuji「（Llegué hasta aquí por mi cuenta......＿Sí, necesité algo de ánimo, pero nadie＿me mandó esta vez. Yo）」"
+
+msgid "Ryuuji「（came of my own volition. Can't lose my＿nerve here!）」"
+msgstr "Ryuuji「（vine por voluntad propia. ¡No＿puedo acobardarme ahora!）」"
+
+msgid "Ryuuji「（But the third time...... Well, technically＿it's the second time, but I'm still not＿used to it...... Wait, no one could get）」"
+msgstr "Ryuuji「（Pero la tercera vez...... Bueno, en＿realidad es la segunda, pero aún no me＿acostumbro...... ¡No, nadie podría）」"
+
+msgid "Ryuuji「（used to this! Am I retarded!?）」"
+msgstr "Ryuuji「（acostumbrarse a esto! ¡¿Soy idiota?!）」"
+
+msgid "Minori「Even if I had you consider it, I'm not＿sure I'd be satisfied. Besides, if you＿think about it, I'm sure there's」"
+msgstr "Minori「Aunque lo pensaras, no sé si quedaría＿satisfecha. Además, si lo piensas＿bien, seguro hay」"
+
+msgid "Minori「someone you need to talk to more than＿me.」"
+msgstr "Minori「alguien con quien necesitas＿hablar más que conmigo.」"
+
+msgid "Ryuuji「Wading through the crowd of＿onlookers, I caught the evacuated＿landlady and learned that the cause of」"
+msgstr "Ryuuji「Me abrí paso entre los curiosos＿y encontré a la casera, ya evacuada.＿Me dijo que la causa del」"
+
+msgid "Ryuuji「the commotion was a small fire that＿had started on the second floor. In＿other words, in Taiga's house.」"
+msgstr "Ryuuji「alboroto era un pequeño incendio＿en el segundo piso. Es decir,＿en casa de Taiga.」"
+
+msgid "Ryuuji「Then, I learned from the firefighters＿that Taiga was confirmed to be＿unharmed. Yet she wasn't at the」"
+msgstr "Ryuuji「Luego, los bomberos me＿confirmaron que Taiga estaba ilesa. Pero＿ella no estaba en el」"
+
+msgid "Ryuuji「scene――」"
+msgstr "Ryuuji「lugar――」"

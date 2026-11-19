@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+
+msgid "Inko-chan「HAP」"
+msgstr "Inko-chan「FELI」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Inko-chan「PINOO」"
+msgstr "Inko-chan「ZAÑO」"
+
+msgid "Ryuuji「Hap pinoo......?」"
+msgstr "Ryuuji「¿Feli zaño......?」"
+
+msgid "Ryuuji「......! Are you trying to say \"Happy New＿Year\"? Inko-chan, keep trying! Don't＿give up!」"
+msgstr "Ryuuji「......¡¿Intentas decir \"Feliz＿Año Nuevo\"?! ¡Inko-chan, sigue＿intentando! ¡No te rindas!」"
+
+msgid "Inko-chan「HAP PINOO......」"
+msgstr "Inko-chan「FELI ZAÑO......」"
+
+msgid "Inko-chan「GO......」"
+msgstr "Inko-chan「VAMOS......」"
+
+msgid "Ryuuji「Whaa......?」"
+msgstr "Ryuuji「¿Quéé......?」"
+
+msgid "Inko-chan「HEE HEEEEE①」"
+msgstr "Inko-chan「JI JIIIII①」"
+
+msgid "Ryuuji「Ugh...... It felt like there was a heart＿icon at the end of Inko-chan's＿sentence......」"
+msgstr "Ryuuji「Ugh...... Sentí como si hubiera＿un icono de corazón al final de＿la frase de Inko-chan......」"
+
+msgid "Ryuuji「J-Just a figment of my imagination......＿I'm going to bed......」"
+msgstr "Ryuuji「S-Solo fue producto de mi＿imaginación...... Me voy a dormir......」"

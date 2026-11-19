@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+
+msgid "Ami「Oh my, Ryuuji's surprisingly B-O-L-D ①」"
+msgstr "Ami「Vaya, Ryuuji, todo un A-T-R-E-V-I-D-O ①」"
+
+msgid "Ryuuji「What do you mean, I'm bold?」"
+msgstr "Ryuuji「¿Cómo que soy atrevido?」"
+
+msgid "Ami「Right now...... After what you said, my＿heart's beating super fast.」"
+msgstr "Ami「Ahora mismo...... Después de lo que＿dijiste, mi corazón late súper rápido.」"
+
+msgid "Ryuuji「Did I say something weird?」"
+msgstr "Ryuuji「¿Dije algo raro?」"
+
+msgid "Ami「You didn't notice? Perhaps you, like,＿have the makings of a playboy, Ryuuji.」"
+msgstr "Ami「¿No te diste cuenta? O sea, tal vez＿tienes madera de donjuán, Ryuuji.」"
+
+msgid "Ami「Hey, why not make my heart beat even＿faster?」"
+msgstr "Ami「Oye, ¿por qué no haces que mi＿corazón lata aún más rápido?」"
+
+msgid "Ryuuji「Ka-Kawashima!?」"
+msgstr "Ryuuji「¡¿Ka-Kawashima?!」"
+
+msgid "Ami「Heehee...... Wrooong～ It's Ami-chan,＿remember?」"
+msgstr "Ami「Jiji...... Incorreeecto～ Es＿Ami-chan, ¿recuerdas?」"
+
+msgid "Ryuuji「Ami-chan......」"
+msgstr "Ryuuji「Ami-chan......」"
+
+msgid "Ami「Come on, say something even more＿exciting. In here no one else can hear＿you.」"
+msgstr "Ami「Vamos, di algo todavía más emocionante.＿Aquí dentro nadie más puede oírte.」"
+
+msgid "Ryuuji「Even if you ask, I can't......」"
+msgstr "Ryuuji「Aunque me lo pidas, no puedo......」"
+
+msgid "Ami「In that case...... Fufu ① This time I'll＿make YOUR heart beat faster, Ryuuji①」"
+msgstr "Ami「En ese caso...... Juju ① Esta＿vez haré que TU corazón lata＿más rápido, Ryuuji①」"
+
+msgid "Ryuuji「Come again?」"
+msgstr "Ryuuji「¿Cómo dices?」"
+
+msgid "Ami「Like, what do you prefer, Ryuuji? Shall＿I express myself in words, or like, in＿actions......? Pick one.」"
+msgstr "Ami「O sea, ¿qué prefieres, Ryuuji? ¿Me＿expreso con palabras o, bueno, con＿acciones......? Elige una.」"
+
+msgid "Ryuuji「My...... My heart's already pounding as＿it is......」"
+msgstr "Ryuuji「Mi...... Mi corazón ya está latiendo＿con fuerza así como estamos......」"
+
+msgid "Ami「Really? Oh my～ I'm so happy～①」"
+msgstr "Ami「¿En serio? Vaya～ Estoy tan feliz～①」"
+
+msgid "Ryuuji「Th-that's why...... W-We don't need any＿more than this!」"
+msgstr "Ryuuji「P-Por eso...... ¡N-No hace＿falta más que esto!」"
+
+msgid "Ami「But you, like, started it～ Well, I＿wouldn't want you to, like, get a＿nosebleed here...... Fufu, fine, I'll」"
+msgstr "Ami「Pero tú, o sea, empezaste～ Bueno,＿no quiero que, o sea, te sangre＿la nariz aquí......」"
+
+msgid "Ami「behave①」"
+msgstr "Ami「Juju, está bien, me portaré bien①」"

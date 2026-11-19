@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+
+msgid "Yuri「*Gasp*...... It, it's Takasu-kun......」"
+msgstr "Yuri「¡Ah......! E-Es Takasu-kun......」"
+
+msgid "Ryuuji「Happy New Year, sensei.」"
+msgstr "Ryuuji「Feliz Año Nuevo, sensei.」"
+
+msgid "Ryuuji「（Ah...... This is the person I met before,＿Koigakubo-san......）」"
+msgstr "Ryuuji「（Ah...... Es la persona que conocí＿antes, Koigakubo-san......）」"
+
+msgid "Yuri「......I understand. I know what you're＿thinking right now.」"
+msgstr "Yuri「......Lo entiendo. Sé lo que＿estás pensando ahora mismo.」"
+
+msgid "Ryuuji「Come again?」"
+msgstr "Ryuuji「¿Cómo dice?」"
+
+msgid "Yuri「You thought, \"Alone in a diner on New＿Year's? You're the poster child for＿single women,\" didn't you?」"
+msgstr "Yuri「Pensaste: \"¿Sola en un restaurante＿en Año Nuevo? Eres el retrato perfecto＿de las solteras\", ¿verdad?」"
+
+msgid "Ryuuji「No, not really......」"
+msgstr "Ryuuji「No, para nada......」"
+
+msgid "Yuri「\"No one will want a wife that can barely＿even cook, you old maid!\" ......That's＿what you were thinking, right?」"
+msgstr "Yuri「\"¡Nadie querrá una esposa que apenas＿sabe cocinar, solterona!\" ......Eso es＿lo que estabas pensando, ¿verdad?」"
+
+msgid "Ryuuji「I was thinking nothing of the sort......」"
+msgstr "Ryuuji「No pensaba nada de eso......」"
+
+msgid "Yuri「Well, you're wrong. WRONG! Even I＿have some cooking ability!」"
+msgstr "Yuri「Pues te equivocas. ¡TE EQUIVOCAS!＿¡Hasta yo sé cocinar un poco!」"
+
+msgid "Yuri「But to bother cooking for one person＿is a big waste of money! It's wasteful to＿have a surplus of ingredients, right?」"
+msgstr "Yuri「Pero cocinar para una sola persona es＿un gran gasto. Es un desperdicio que＿sobren ingredientes, ¿verdad?」"
+
+msgid "Ryuuji「Er, um...... Right.」"
+msgstr "Ryuuji「Ehm, ah...... Sí, claro.」"
+
+msgid "Yuri「If I just had someone to eat with, I＿would gladly cook. But I don't. No one's＿waiting for me when I come home!」"
+msgstr "Yuri「Si tan solo tuviera con quién comer,＿cocinaría con gusto. Pero no. ¡Nadie＿me espera cuando llego a casa!」"
+
+msgid "Yuri「The diner can take away my heartache.＿I'm welcomed with warm food and＿warm smiles from the employees!」"
+msgstr "Yuri「El restaurante alivia mi dolor. ¡Aquí＿me reciben con comida caliente y las＿cálidas sonrisas de los empleados!」"
+
+msgid "Ryuuji「Good for you...... I'm gonna go now......」"
+msgstr "Ryuuji「Qué bien por usted...... Ya me voy......」"
+
+msgid "Yuri「......It's not good! Not good at ALL! Why＿am I alone even on New Year's?」"
+msgstr "Yuri「......¡No está bien! ¡Para NADA＿bien! ¿Por qué estoy sola incluso＿en Año Nuevo?」"
+
+msgid "Ryuuji「Well, I don't have the answers...... It's a＿mystery......」"
+msgstr "Ryuuji「Bueno, no tengo las respuestas......＿Es un misterio......」"
+
+msgid "Yuri「You don't understand...... As if a high＿school boy could understand an old＿maid's loneliness!」"
+msgstr "Yuri「Tú no lo entiendes...... ¡Como si un＿chico de preparatoria pudiera entender＿la soledad de una solterona!」"
+
+msgid "Ryuuji「......Umm, I don't know about your＿loneliness, but I don't think it's weird to＿go to a diner by yourself.」"
+msgstr "Ryuuji「......Ehm, no sé sobre su soledad,＿pero no creo que sea raro ir sola＿a un restaurante.」"
+
+msgid "Yuri「What......?」"
+msgstr "Yuri「¿Qué......?」"
+
+msgid "Ryuuji「It's not all that uncommon to see＿people coming here alone. I often see＿girls coming in by themselves......」"
+msgstr "Ryuuji「No es tan raro ver gente venir＿sola. A menudo veo a chicas entrando＿por su cuenta......」"
+
+msgid "Yuri「Really? They don't seem lonely to you?」"
+msgstr "Yuri「¿En serio? ¿No parecen sentirse solas?」"
+
+msgid "Ryuuji「No one would think that. Humans don't＿actually care about other people all＿that much.」"
+msgstr "Ryuuji「Nadie pensaría eso. A los humanos＿en realidad no les importan tanto＿las demás personas.」"
+
+msgid "Yuri「Even on New Year's?」"
+msgstr "Yuri「¿Incluso en Año Nuevo?」"
+
+msgid "Ryuuji「Yes. No one cares, be it on Christmas＿or Valentine's.」"
+msgstr "Ryuuji「Sí. A nadie le importa, ni en＿Navidad ni en San Valentín.」"
+
+msgid "Yuri「......I see. You're right...... Maybe I was＿just being self-conscious......」"
+msgstr "Yuri「......Ya veo. Tienes razón...... Tal＿vez solo me sentía cohibida......」"
+
+msgid "Ryuuji「Are you okay now?」"
+msgstr "Ryuuji「¿Ya está bien?」"
+
+msgid "Yuri「Yeah...... I'm sorry I got so distraught.」"
+msgstr "Yuri「Sí...... Perdón por alterarme tanto.」"
+
+msgid "Ryuuji「No worries. Please cheer up.」"
+msgstr "Ryuuji「No se preocupe. Por favor, anímese.」"
+
+msgid "Yuri「Thank you...... Well, see you later,＿Takasu-kun.」"
+msgstr "Yuri「Gracias...... Bueno, nos vemos＿luego, Takasu-kun.」"
+
+msgid "Ryuuji「（*Sigh*...... She can be quite the＿handful......）」"
+msgstr "Ryuuji「（*Suspiro*...... Sí que puede＿ser difícil de tratar......）」"
+
+msgid "Yuri「I was alone on Christmas, on New＿Year's Eve, and at Hatsumode! And I'll＿probably be alone on Valentine's and」"
+msgstr "Yuri「¡Estuve sola en Navidad, en Nochevieja＿y en el Hatsumode! ¡Y probablemente＿esté sola en San Valentín y」"
+
+msgid "Yuri「White Day too! Why?」"
+msgstr "Yuri「en White Day también! ¿Por qué?」"

@@ -1,0 +1,617 @@
+msgid ""
+msgstr ""
+
+msgid "Kitamura「Takasu!」"
+msgstr "Kitamura「¡Takasu!」"
+
+msgid "Ryuuji「K-Kitamura!?」"
+msgstr "Ryuuji「¡¿K-Kitamura?!」"
+
+msgid "Kitamura「Perfect timing. I was about to head＿over to your place.」"
+msgstr "Kitamura「Justo a tiempo. Estaba a＿punto de ir a tu casa.」"
+
+msgid "Ryuuji「Don't act like nothing's different! What＿happened to your hair!?」"
+msgstr "Ryuuji「¡No actúes como si no pasara nada!＿¡¿Qué le pasó a tu cabello?!」"
+
+msgid "Kitamura「Surprised?」"
+msgstr "Kitamura「¿Sorprendido?」"
+
+msgid "Ryuuji「Of course I am! Just yesterday you had＿normal black hair! What happened?」"
+msgstr "Ryuuji「¡Claro que sí! ¡Apenas ayer tenías el＿cabello negro normal! ¿Qué pasó?」"
+
+msgid "Kitamura「Fufufu...... This is my true form.」"
+msgstr "Kitamura「Jujuju...... Esta es mi verdadera forma.」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Kitamura「Do you know what they call me in the＿underworld?」"
+msgstr "Kitamura「¿Sabes cómo me llaman en el inframundo?」"
+
+msgid "Ryuuji「What underworld? And don't ask your＿weird questions while I have amnesia!」"
+msgstr "Ryuuji「¿Qué inframundo? ¡Y no me hagas tus＿preguntas raras mientras tengo amnesia!」"
+
+msgid "Kitamura「Oops, pardon me. Then I shall tell you! I＿am the Evil Student Council President!」"
+msgstr "Kitamura「Ups, perdón. ¡Soy el Presidente Malvado＿del Consejo Estudiantil!」"
+
+msgid "Ryuuji「......Huh?」"
+msgstr "Ryuuji「......¿Eh?」"
+
+msgid "Kitamura「Truth be told, I've been carrying out＿my misdeeds in secret, to spread fear＿of the Evil Student Council President.」"
+msgstr "Kitamura「La verdad, he hecho fechorías en secreto＿para sembrar el terror del Presidente＿Malvado del Consejo Estudiantil.」"
+
+msgid "Ryuuji「............No, I'm not even gonna ask. So?＿Did you come here to pick a fight, Mr.＿Evil Student Council President?」"
+msgstr "Ryuuji「............No, ni preguntaré. ¿Y bien?＿¿Viniste a buscar pelea, Sr. Presidente＿Malvado del Consejo Estudiantil?」"
+
+msgid "Ryuuji「That's true, but......」"
+msgstr "Ryuuji「Eso es cierto, pero......」"
+
+msgid "Kitamura「More importantly, how do you feel＿when you look at me?」"
+msgstr "Kitamura「Más importante aún, ¿cómo te＿sientes cuando me miras?」"
+
+msgid "Ryuuji「......I feel like running away.」"
+msgstr "Ryuuji「......Me dan ganas de salir corriendo.」"
+
+msgid "Kitamura「I, I see......」"
+msgstr "Kitamura「Y-Ya veo......」"
+
+msgid "Ryuuji「......Well, since you're here, come on in.」"
+msgstr "Ryuuji「......Bueno, ya que estás aquí, pasa.」"
+
+msgid "Kitamura「I'd appreciate that very much.」"
+msgstr "Kitamura「Te lo agradecería mucho.」"
+
+msgid "Ryuuji「Is that really a problem for the Evil＿Student Council President?」"
+msgstr "Ryuuji「¿Eso es un problema para el Presidente＿Malvado del Consejo Estudiantil?」"
+
+msgid "Kitamura「It worries me that you would accept＿this story so readily...... In any case,＿guess I'll impose myself on you.」"
+msgstr "Kitamura「Me preocupa que aceptes esta historia＿tan fácilmente...... En fin, supongo＿que abusaré de tu hospitalidad.」"
+
+msgid "Kitamura「I haven't been to your house since that＿one time.」"
+msgstr "Kitamura「No había venido a tu casa＿desde aquella vez.」"
+
+msgid "Ryuuji「\"That one time\"?」"
+msgstr "Ryuuji「¿\"Aquella vez\"?」"
+
+msgid "Kitamura「Yeah, I stayed over at your place＿sometime in autumn. Doesn't my hair＿remind you of it?」"
+msgstr "Kitamura「Sí, me quedé a dormir en tu casa en＿otoño. ¿Mi cabello no te lo recuerda?」"
+
+msgid "Ryuuji「Not at all. What does your hair have to＿do with it?」"
+msgstr "Ryuuji「Para nada. ¿Qué tiene que＿ver tu cabello con eso?」"
+
+msgid "Kitamura「Well......」"
+msgstr "Kitamura「Bueno......」"
+
+msgid "Taiga「Kitamura-kun!?」"
+msgstr "Taiga「¡¿Kitamura-kun?!」"
+
+msgid "Taiga「W-What happened!?」"
+msgstr "Taiga「¡¿Q-Qué pasó?!」"
+
+msgid "Taiga「Don't tell me it was her again......!?」"
+msgstr "Taiga「¡¿Fue ella otra vez......?!」"
+
+msgid "Kitamura「No, it has nothing to do with Prez this＿time. That is to say, nothing bad has＿happened to me, so please don't fret.」"
+msgstr "Kitamura「No, esta vez no tiene nada que ver con＿la presidenta. Es decir, no me ha pasado＿nada malo, así que no te preocupes.」"
+
+msgid "Taiga「I see...... So you did it for Ryuuji?」"
+msgstr "Taiga「Ya veo...... ¿Lo hiciste por Ryuuji?」"
+
+msgid "Kitamura「Basically.」"
+msgstr "Kitamura「Básicamente.」"
+
+msgid "Ryuuji「（......What are they talking about?）」"
+msgstr "Ryuuji「（......¿De qué están hablando?）」"
+
+msgid "Kitamura「......Mmm, this is a robust flavor indeed.＿Nothing beats black coffee.」"
+msgstr "Kitamura「......Mmm, sin duda es un sabor intenso.＿Nada supera al café negro.」"
+
+msgid "Ryuuji「Even though it's plain old instant＿coffee?」"
+msgstr "Ryuuji「¿Aunque sea simple café instantáneo?」"
+
+msgid "Kitamura「It's fitting enough. And yet...... THAT＿surely would have gone perfectly with＿this coffee. Truly a pity.」"
+msgstr "Kitamura「Es bastante adecuado. Y aun así......＿ESO sin duda habría ido a la perfección＿con este café. Una verdadera lástima.」"
+
+msgid "Ryuuji「What would?」"
+msgstr "Ryuuji「¿Qué cosa?」"
+
+msgid "Kitamura「I'll start from the beginning. Do you＿remember a store by the name of＿\"Alps\"?」"
+msgstr "Kitamura「Empezaré desde el principio. ¿Recuerdas＿una tienda llamada \"Alps\"?」"
+
+msgid "Ryuuji「Uhhh...... Is this information important＿to me?」"
+msgstr "Ryuuji「Ehhh...... ¿Esta información＿es importante para mí?」"
+
+msgid "Kitamura「No, probably not.」"
+msgstr "Kitamura「No, probablemente no.」"
+
+msgid "Taiga「Alps is a bakery in the station square＿shopping center. I don't know much＿about it, but Minorin's been there.」"
+msgstr "Taiga「Alps es una pastelería en el centro＿comercial de la plaza de la estación. No＿sé mucho de ella, pero Minorin ha ido.」"
+
+msgid "Ryuuji「I see...... Have I eaten cake from there?」"
+msgstr "Ryuuji「Ya veo...... ¿He comido pastel de ahí?」"
+
+msgid "Taiga「Maybe? It's possible Yacchan bought＿some before, but you were always too＿stingy to pay for something like that.」"
+msgstr "Taiga「¿Tal vez? Es posible que Yacchan haya＿comprado antes, pero tú siempre fuiste＿muy tacaño como para pagar por algo así.」"
+
+msgid "Ryuuji「I prefer the term \"frugal\"...... So, what's＿the deal with the bakery, Kitamura?」"
+msgstr "Ryuuji「Prefiero \"ahorrativo\"...... ¿Qué pasa＿con la pastelería, Kitamura?」"
+
+msgid "Kitamura「Actually, I bought one of their cakes to＿bring with me as a gift, but......」"
+msgstr "Kitamura「De hecho, compré uno de sus pasteles＿para traerlo de regalo, pero......」"
+
+msgid "Taiga「Really!?」"
+msgstr "Taiga「¡¿En serio?!」"
+
+msgid "Ryuuji「But you weren't carrying anything.」"
+msgstr "Ryuuji「Pero no traías nada contigo.」"
+
+msgid "Kitamura「Yes, well, on the way here, I carelessly＿tripped and fell, and I dropped the＿cake in the street.」"
+msgstr "Kitamura「Sí, bueno, de camino aquí me tropecé＿y me caí por descuido, y se me cayó＿el pastel a la calle.」"
+
+msgid "Kitamura「Just as I was about to pick it up, a＿passing bicyclist crushed the box......」"
+msgstr "Kitamura「Cuando iba a recogerlo, un ciclista＿que pasaba aplastó la caja......」"
+
+msgid "Taiga「Aaagh! That's horrible!」"
+msgstr "Taiga「¡Aaagh! ¡Qué horrible!」"
+
+msgid "Kitamura「The cake...... well, I could see it was＿done for.」"
+msgstr "Kitamura「El pastel...... bueno, vi que＿ya no tenía salvación.」"
+
+msgid "Ryuuji「So that's what happened...... That's a＿shame.」"
+msgstr "Ryuuji「Así que eso pasó...... Qué lástima.」"
+
+msgid "Kitamura「Hey, Takasu. Wouldn't you say it was＿quite a WASTE?」"
+msgstr "Kitamura「Oye, Takasu. ¿No dirías que＿fue un gran DESPERDICIO?」"
+
+msgid "Ryuuji「Yeah.」"
+msgstr "Ryuuji「Sí.」"
+
+msgid "Kitamura「Hmmm. It's still not enough, I see......」"
+msgstr "Kitamura「Mmmm. Veo que aún no es suficiente......」"
+
+msgid "Kitamura「There's more to the story.」"
+msgstr "Kitamura「La historia no termina ahí.」"
+
+msgid "Ryuuji「Oh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Kitamura「I felt sorry for the crushed cake, since＿the accident was caused by an＿oversight on my part.」"
+msgstr "Kitamura「Me dio lástima el pastel aplastado,＿ya que el accidente fue causado por＿un descuido de mi parte.」"
+
+msgid "Kitamura「I ran up and reached inside the box＿with my bare hands. Then......」"
+msgstr "Kitamura「Corrí y metí las manos directamente＿en la caja. Y entonces......」"
+
+msgid "Ryuuji「You ate it?」"
+msgstr "Ryuuji「¿Te lo comiste?」"
+
+msgid "Kitamura「Yes.」"
+msgstr "Kitamura「Sí.」"
+
+msgid "Ryuuji「You would go that far?」"
+msgstr "Ryuuji「¿Fuiste capaz de llegar tan lejos?」"
+
+msgid "Kitamura「This is the good part. I came straight＿here without washing my hands. So＿they're sticky with cream and butter.」"
+msgstr "Kitamura「Aquí viene lo bueno. Vine directo hacia＿acá sin lavarme las manos. Así que están＿pegajosas de crema y mantequilla.」"
+
+msgid "Kitamura「What would happen if I touched that＿perfectly polished window?」"
+msgstr "Kitamura「¿Qué pasaría si tocara esa ventana＿perfectamente reluciente?」"
+
+msgid "Kitamura「What if I wiped my hand on the floor or＿the wall?」"
+msgstr "Kitamura「¿Y si me limpiara la mano en＿el piso o en la pared?」"
+
+msgid "Kitamura「By the way, this coffee cup is already＿sticky with cream.」"
+msgstr "Kitamura「Por cierto, esta taza de café＿ya está pegajosa de crema.」"
+
+msgid "Ryuuji「Kitamura......」"
+msgstr "Ryuuji「Kitamura......」"
+
+msgid "Kitamura「Well, Takasu? Makes you want to＿clean, doesn't it? You want to wipe off＿the grime, don't you? Fufufu......」"
+msgstr "Kitamura「¿Y bien, Takasu? Te dan ganas de＿limpiar, ¿verdad? Quieres quitar toda＿esa suciedad, ¿no es así? Jujuju......」"
+
+msgid "Ryuuji「Enough. Go wash your hands. My＿house aside, I'm sure you feel gross.」"
+msgstr "Ryuuji「Basta. Lávate las manos. Aparte de mi＿casa, seguro te sientes asqueroso.」"
+
+msgid "Kitamura「Not good...... Dirty talk doesn't work＿either.」"
+msgstr "Kitamura「No sirve...... Hablar de suciedad＿tampoco funciona.」"
+
+msgid "Taiga「Kitamura-kun, are you trying to evoke＿Ryuuji's memories?」"
+msgstr "Taiga「Kitamura-kun, ¿estás intentando＿despertar los recuerdos de Ryuuji?」"
+
+msgid "Kitamura「Yeah. Seems I'm not having any luck,＿however......」"
+msgstr "Kitamura「Sí. Aunque parece que no estoy＿teniendo suerte......」"
+
+msgid "Ryuuji「（Well, I've already remembered my love＿of cleaning and \"MOTTAINAI\"......）」"
+msgstr "Ryuuji「（Bueno, ya recordé mi afán de limpiar＿y el \"¡QUÉ DESPERDICIO!\"......）」"
+
+msgid "Kitamura「Takasu, does looking at me remind you＿of anything? Anything at all?」"
+msgstr "Kitamura「Takasu, ¿mirarme te recuerda＿algo? ¿Lo que sea?」"
+
+msgid "Ryuuji「（Something I recall by looking at＿Kitamura......）」"
+msgstr "Ryuuji「（Algo que recuerde al mirar＿a Kitamura......）」"
+
+msgid "Did something happen in the past......?"
+msgstr "¿Pasó algo en el pasado......?"
+
+msgid "The spirit of seaweed......?"
+msgstr "¿El espíritu del alga......?"
+
+msgid "The candidate poster......"
+msgstr "El póster de candidato......"
+
+msgid "Ryuuji「（Did something happen in the past......?）」"
+msgstr "Ryuuji「（¿Pasó algo en el pasado......?）」"
+
+msgid "Taiga「Ryuuji, Kitamura-kun has put a lot of＿effort into this for you, so remember at＿least one thing.」"
+msgstr "Taiga「Ryuuji, Kitamura-kun se ha esforzado＿mucho en esto por ti, así que recuerda＿al menos una cosa.」"
+
+msgid "Ryuuji「（Telling me to remember isn't＿helping...... Kitamura...... Bleached＿hair...... Uhh......）」"
+msgstr "Ryuuji「（Decirme que recuerde no está＿ayudando...... Kitamura...... Cabello＿decolorado...... Ehh......）」"
+
+msgid "Ryuuji「......Kitamura, are you, umm, a＿cosplayer?」"
+msgstr "Ryuuji「......Kitamura, ¿eres,＿ehm, un cosplayer?」"
+
+msgid "Taiga「Excuse me? What the hell?」"
+msgstr "Taiga「¿Disculpa? ¿Qué demonios?」"
+
+msgid "Ryuuji「Well, maybe he actually bleached his＿hair to look like some anime＿character......」"
+msgstr "Ryuuji「Bueno, tal vez se decoloró el＿cabello para parecerse a algún＿personaje de anime......」"
+
+msgid "Kitamura「Wrong, Takasu. Like I said, I'm the Evil＿Student Council President......」"
+msgstr "Kitamura「No, Takasu. Soy el Presidente＿Malvado del Consejo Estudiantil,＿como dije......」"
+
+msgid "Taiga「Kitamura-kun, don't make this＿complicated...... wait, how'd I get＿dragged into this comedy routine?」"
+msgstr "Taiga「Kitamura-kun, no compliques las＿cosas...... espera, ¿cómo terminé＿metida en este número cómico?」"
+
+msgid "Taiga「Anyway, Kitamura-kun is neither a＿cosplayer nor an Evil Student Council＿President.」"
+msgstr "Taiga「Como sea, Kitamura-kun no es ni un＿cosplayer ni un Presidente Malvado＿del Consejo Estudiantil.」"
+
+msgid "Ryuuji「I see.」"
+msgstr "Ryuuji「Ya veo.」"
+
+msgid "Kitamura「For the time being, I'm keeping this＿hair until you regain your memory,＿Takasu.」"
+msgstr "Kitamura「Por lo pronto, conservaré este＿cabello hasta que recuperes＿la memoria, Takasu.」"
+
+msgid "Ryuuji「That's right, you're the student council＿president! You're not \"evil\", you're the＿ideal!」"
+msgstr "Ryuuji「¡Es cierto, eres el presidente＿del consejo estudiantil! ¡No eres＿\"malvado\", eres el ideal!」"
+
+msgid "Taiga「That's right, Ryuuji!」"
+msgstr "Taiga「¡Así es, Ryuuji!」"
+
+msgid "Kitamura「Though it was no fun to hear you say＿that, at least you remembered.」"
+msgstr "Kitamura「Aunque no fue nada divertido oírte decir＿eso, al menos lo recordaste.」"
+
+msgid "???「Waa...... Waaaaaaah～」"
+msgstr "???「Uaa...... Uaaaaaaah～」"
+
+msgid "Ryuuji「Oh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Yasuko「Kitamura-kun's blond againnn～～ He's＿run away from hooome～～」"
+msgstr "Yasuko「Kitamura-kun está rubio otra veeez～～＿Se escapó de casaaa～～」"
+
+msgid "Kitamura「I-It's okay! This time I'm doing it for a＿good reason.」"
+msgstr "Kitamura「¡E-Está bien! Esta vez lo hago＿por una buena razón.」"
+
+msgid "Yasuko「But you're blond againnn～! Gotta call＿Kitamura-kun's parents!」"
+msgstr "Yasuko「¡Pero estás rubio otra veeez～! ¡Llamaré＿a los padres de Kitamura-kun!」"
+
+msgid "Ryuuji「Kitamura, please dye your hair back.」"
+msgstr "Ryuuji「Kitamura, vuelve a teñirte, por favor.」"
+
+msgid "Taiga「I think you should, too. Otherwise＿they'll make a fuss like last time.」"
+msgstr "Taiga「Yo también creo que deberías. Si no,＿harán un escándalo como la última vez.」"
+
+msgid "Kitamura「Hmmm, I have no choice.」"
+msgstr "Kitamura「Mmmm, no me queda otra opción.」"
+
+msgid "Kitamura「Yasuko-san, I'll dye it back straight＿away, so please don't fret.」"
+msgstr "Kitamura「Yasuko-san, me lo volveré a teñir de＿inmediato, así que no se preocupe.」"
+
+msgid "Yasuko「Really......? Can Yacchan help?」"
+msgstr "Yasuko「¿En serio......? ¿Yacchan puede ayudar?」"
+
+msgid "Kitamura「Not to worry! I'll go right home and dye＿it black. Therefore, I must take my＿leave, Takasu.」"
+msgstr "Kitamura「¡No se preocupe! Iré directo a casa＿y me lo teñiré de negro. Por lo tanto,＿debo retirarme, Takasu.」"
+
+msgid "Taiga「Oh, I have errands to run anyway, so I＿can walk you home.」"
+msgstr "Taiga「Ah, tengo que hacer unos mandados,＿así que puedo acompañarte a casa.」"
+
+msgid "Ryuuji「Thanks for everything, you two.」"
+msgstr "Ryuuji「Gracias por todo a los dos.」"
+
+msgid "Yasuko「Come back soon☆」"
+msgstr "Yasuko「Vuelve pronto☆」"
+
+msgid "Kitamura「Thanks for having me over!」"
+msgstr "Kitamura「¡Gracias por recibirme!」"
+
+msgid "Yasuko「Will Kitamura-kun be okayyy～?」"
+msgstr "Yasuko「¿Kitamura-kun estará bieeen～?」"
+
+msgid "Ryuuji「He had his reasons. I'm sure he'll be＿fine.」"
+msgstr "Ryuuji「Tenía sus razones. Estoy seguro＿de que estará bien.」"
+
+msgid "Yasuko「Well, gotta go to work, so see you＿later～」"
+msgstr "Yasuko「Bueno, tengo que ir a trabajar,＿así que nos vemos luego～」"
+
+msgid "Ryuuji「Oh, sure.」"
+msgstr "Ryuuji「Ah, claro.」"
+
+msgid "Ryuuji「（......Whoa, everyone left much earlier＿than yesterday.）」"
+msgstr "Ryuuji「（......Vaya, todos se fueron mucho＿más temprano que ayer.）」"
+
+msgid "Ryuuji「（............）」"
+msgstr "Ryuuji「（............）」"
+
+msgid "Ryuuji「（Yikes, I've been sitting around too＿much...... Guess I'll head out too.）」"
+msgstr "Ryuuji「（Uy, llevo mucho sin hacer nada......＿Supongo que también saldré.）」"
+
+msgid "Ryuuji「（The spirit of seaweed......?）」"
+msgstr "Ryuuji「（¿El espíritu del alga......?）」"
+
+msgid "Ryuuji「（Seaweedseaweedseaweedseaweed......）」"
+msgstr "Ryuuji「（Algaalgaalgaalga......）」"
+
+msgid "Ryuuji「Eek......!」"
+msgstr "Ryuuji「¡Uah......!」"
+
+msgid "Taiga「What's wrong?」"
+msgstr "Taiga「¿Qué pasa?」"
+
+msgid "Kitamura「Did you remember something?」"
+msgstr "Kitamura「¿Recordaste algo?」"
+
+msgid "Ryuuji「N-No......」"
+msgstr "Ryuuji「N-No......」"
+
+msgid "Ryuuji「（W-What the? For a moment, an image＿of Kitamura butt-naked......）」"
+msgstr "Ryuuji「（¿Q-Qué? Por un momento, vi a Kitamura＿totalmente desnudo......）」"
+
+msgid "Ryuuji「（Was I interested in seeing Kitamura＿naked? No, that's not it! Absolutely＿not!）」"
+msgstr "Ryuuji「（¿Me interesaba ver a Kitamura＿desnudo? ¡No, no es eso! ¡Por＿supuesto que no!）」"
+
+msgid "Ryuuji「（Fuck! This is a really stupid memory!）」"
+msgstr "Ryuuji「（¡Maldición! ¡Qué recuerdo tan tonto!）」"
+
+msgid "Taiga「Ryuuji?」"
+msgstr "Taiga「¿Ryuuji?」"
+
+msgid "Ryuuji「Uh, well...... I remembered something I＿really didn't want to.」"
+msgstr "Ryuuji「Eh, bueno...... Recordé algo que＿de verdad no quería recordar.」"
+
+msgid "Taiga「What?」"
+msgstr "Taiga「¿Qué cosa?」"
+
+msgid "Ryuuji「Kitamura's seaweed spirit.」"
+msgstr "Ryuuji「El espíritu del alga de Kitamura.」"
+
+msgid "Taiga「......his what?」"
+msgstr "Taiga「......¿su qué?」"
+
+msgid "Kitamura「Oh, sorry about that.」"
+msgstr "Kitamura「Ah, perdón por eso.」"
+
+msgid "Taiga「Sorry about what?」"
+msgstr "Taiga「¿Perdón por qué?」"
+
+msgid "Ryuuji「Guess you weren't there. Trust me,＿you're better off not knowing.」"
+msgstr "Ryuuji「Supongo que no estabas ahí. Créeme,＿es mejor que no lo sepas.」"
+
+msgid "Kitamura「Probably. Let's just say it was＿mortifying for me.」"
+msgstr "Kitamura「Probablemente. Digamos que＿fue mortificante para mí.」"
+
+msgid "Taiga「......I'll just leave it to my imagination. I＿won't pry any further.」"
+msgstr "Taiga「......Lo dejaré a mi imaginación.＿No indagaré más.」"
+
+msgid "Ryuuji「Aren't you the student council＿president? It'll cause trouble again......＿Hm? Student council president?」"
+msgstr "Ryuuji「¿No eres el presidente del consejo＿estudiantil? Causará otro lío...... ¿Eh?＿¿Presidente del consejo estudiantil?」"
+
+msgid "Ryuuji「That's right! You're the student council＿president!」"
+msgstr "Ryuuji「¡Es cierto! ¡Eres el presidente＿del consejo estudiantil!」"
+
+msgid "Kitamura「Yeah, like I said, I'm the Evil Student＿Council President.」"
+msgstr "Kitamura「Sí, como dije, soy el Presidente Malvado＿del Consejo Estudiantil.」"
+
+msgid "Ryuuji「Don't confuse me more. You're a＿regular student council president!」"
+msgstr "Ryuuji「No me confundas. ¡Eres un presidente＿del consejo estudiantil normal!」"
+
+msgid "Taiga「Yep, that's right. You remembered?」"
+msgstr "Taiga「Sí, así es. ¿Lo recordaste?」"
+
+msgid "Ryuuji「Yeah. I already knew Kitamura was in＿the student council, but...... that's right,＿he's a run-of-the-mill president.」"
+msgstr "Ryuuji「Sí. Ya sabía que Kitamura estaba en el＿consejo estudiantil, pero...... cierto,＿es un presidente común y corriente.」"
+
+msgid "Kitamura「......It's no fun if you put it like that.」"
+msgstr "Kitamura「......No tiene gracia si lo dices así.」"
+
+msgid "Ryuuji「This isn't about fun. Turn that hair＿back to normal.」"
+msgstr "Ryuuji「Esto no se trata de divertirse. Devuelve＿ese cabello a la normalidad.」"
+
+msgid "Kitamura「But still......」"
+msgstr "Kitamura「Pero aun así......」"
+
+msgid "Ryuuji「I appreciate you wanting to keep it for＿my sake, but it's not a good look for＿you. Also, you don't look \"evil\" at all.」"
+msgstr "Ryuuji「Agradezco que quieras dejarlo así por＿mí, pero no te queda nada bien. Además,＿no te ves \"malvado\" para nada.」"
+
+msgid "Kitamura「Hmm...... If you're that against it, I guess＿I'll change it back.」"
+msgstr "Kitamura「Mmm...... Si tanto te opones,＿supongo que me lo cambiaré.」"
+
+msgid "Taiga「Kitamura-kun, shouldn't you get＿going? It'll be a pain if Yacchan sees＿you like that.」"
+msgstr "Taiga「Kitamura-kun, ¿no deberías irte ya? Será＿un problema si Yacchan te ve así.」"
+
+msgid "Kitamura「......This hair certainly worried＿Yasuko-san half to death last time＿around. Alright, I'll head out.」"
+msgstr "Kitamura「......Es cierto que este cabello casi＿mata de preocupación a Yasuko-san la＿última vez. Está bien, me voy.」"
+
+msgid "Taiga「Oh, I have errands to run anyway, so I＿can walk you home.」"
+msgstr "Taiga「Ah, tengo que hacer unos mandados,＿así que puedo acompañarte a casa.」"
+
+msgid "Ryuuji「Thanks for everything, you two.」"
+msgstr "Ryuuji「Gracias por todo a los dos.」"
+
+msgid "Kitamura「Thanks for having me over.」"
+msgstr "Kitamura「Gracias por recibirme.」"
+
+msgid "Ryuuji「（Now then...... Guess I'll see what I can＿find in here......）」"
+msgstr "Ryuuji「（Ahora bien...... Supongo que veré＿qué puedo encontrar aquí......）」"
+
+msgid "Yasuko「Well, gotta go to work, so see you＿later～」"
+msgstr "Yasuko「Bueno, tengo que ir a trabajar,＿así que nos vemos luego～」"
+
+msgid "Ryuuji「Oh, right.」"
+msgstr "Ryuuji「Ah, cierto.」"
+
+msgid "Ryuuji「（......Whoa, everyone left much earlier＿than yesterday.）」"
+msgstr "Ryuuji「（......Vaya, todos se fueron mucho＿más temprano que ayer.）」"
+
+msgid "Ryuuji「（............）」"
+msgstr "Ryuuji「（............）」"
+
+msgid "Ryuuji「（I'm not going to remember anything if I＿just blindly rummage around...... Guess＿I'll head out too.）」"
+msgstr "Ryuuji「（No voy a recordar nada si solo＿rebusco a ciegas...... Supongo＿que yo también saldré.）」"
+
+msgid "Ryuuji「（I feel like the candidate poster has＿something to do with...... Oh, that's it!）」"
+msgstr "Ryuuji「（El póster de candidato me suena＿de algo...... ¡Ah, eso es!）」"
+
+msgid "Ryuuji「Kitamura, you're the student council＿president, right?」"
+msgstr "Ryuuji「Kitamura, eres el presidente del＿consejo estudiantil, ¿verdad?」"
+
+msgid "Kitamura「Yeah, the Evil Student Council＿President......」"
+msgstr "Kitamura「Sí, el Presidente Malvado del＿Consejo Estudiantil......」"
+
+msgid "Ryuuji「Enough with that gag. You're an＿ordinary student council president.」"
+msgstr "Ryuuji「Basta de bromas. Eres un presidente＿del consejo estudiantil normal.」"
+
+msgid "Taiga「You remembered, huh, Ryuuji?」"
+msgstr "Taiga「Lo recordaste, ¿eh, Ryuuji?」"
+
+msgid "Ryuuji「Well, that Haruta guy gave me a poster＿of you running for student council＿president.」"
+msgstr "Ryuuji「Bueno, ese tal Haruta me dio un póster＿tuyo de cuando te postulaste para＿presidente del consejo estudiantil.」"
+
+msgid "Taiga「That stupid hippie...... I wonder why he＿had it in the first place.」"
+msgstr "Taiga「Ese hippie estúpido...... Me pregunto＿por qué lo tenía en primer lugar.」"
+
+msgid "Ryuuji「More importantly, let's talk about your＿unbelievable campaign. Why'd you do＿it?」"
+msgstr "Ryuuji「Más importante aún, hablemos de tu＿increíble campaña. ¿Por qué lo hiciste?」"
+
+msgid "Taiga「Well, that was back when, you know......＿wait, you remembered that too?」"
+msgstr "Taiga「Bueno, eso fue cuando, ya sabes......＿espera, ¿también recordaste eso?」"
+
+msgid "Ryuuji「Yeah, somehow...... Kitamura, you really＿didn't want to be the student council＿president, huh?」"
+msgstr "Ryuuji「Sí, de alguna forma...... Kitamura,＿de verdad no querías ser el presidente＿del consejo estudiantil, ¿eh?」"
+
+msgid "Kitamura「Oh, yes. That's correct.」"
+msgstr "Kitamura「Ah, sí. Es correcto.」"
+
+msgid "Ryuuji「......Hm? Come to think of it, why were＿you so against it, Kitamura?」"
+msgstr "Ryuuji「......¿Eh? Ahora que lo pienso, ¿por＿qué te oponías tanto, Kitamura?」"
+
+msgid "Kitamura「W-Well......」"
+msgstr "Kitamura「B-Bueno......」"
+
+msgid "Taiga「It's fine, no need to remember it. This＿is enough for today...... right,＿Kitamura-kun?」"
+msgstr "Taiga「Está bien, no hace falta recordarlo.＿Es suficiente por hoy...... ¿verdad,＿Kitamura-kun?」"
+
+msgid "Ryuuji「Yep. You should change your hair＿back. Honestly, it doesn't suit you.」"
+msgstr "Ryuuji「Sí. Deberías volver a cambiarte el＿cabello. Sinceramente, no te queda bien.」"
+
+msgid "Kitamura「I see...... Understood. I'll go straight＿home and dye it black.」"
+msgstr "Kitamura「Ya veo...... Entendido. Iré directo＿a casa y me lo teñiré de negro.」"
+
+msgid "Taiga「It's for the best.」"
+msgstr "Taiga「Es lo mejor.」"
+
+msgid "Kitamura「......Oh yeah. If that poster was able to＿help you remember, perhaps you＿should use this too.」"
+msgstr "Kitamura「......Ah, cierto. Si ese póster＿te ayudó a recordar, tal vez deberías＿usar esto también.」"
+
+msgid "Ryuuji「These glasses are all smudged with＿fingerprints. I'm gonna clean them off.」"
+msgstr "Ryuuji「Estos lentes están todos manchados＿de huellas. Los voy a limpiar.」"
+
+msgid "Kitamura「No, I gave them to you like that on＿purpose. If they're cleaned, they'll lose＿their significance.」"
+msgstr "Kitamura「No, te los di así a propósito. Si los＿limpias, perderán su significado.」"
+
+msgid "Kitamura「That's why I want you to leave them as＿they are. Take them with you.」"
+msgstr "Kitamura「Por eso quiero que los dejes tal＿como están. Llévatelos contigo.」"
+
+msgid "Ryuuji「Huh? But......」"
+msgstr "Ryuuji「¿Eh? Pero......」"
+
+msgid "Kitamura「They're my spare pair, so I hardly need＿them. Here, take them.」"
+msgstr "Kitamura「Son mi par de repuesto, así que casi＿no los necesito. Toma, llévatelos.」"
+
+msgid "Ryuuji「......I don't get it, but...... in any case, I'll＿take good care of them.」"
+msgstr "Ryuuji「......No lo entiendo, pero......＿en todo caso, los cuidaré bien.」"
+
+msgid "Kitamura「Alright, I'm heading out now. Seems I＿can avoid a lot of hassle if I fix my hair＿quickly.」"
+msgstr "Kitamura「Bueno, ya me voy. Parece que puedo＿ahorrarme muchos problemas si me＿arreglo el cabello rápido.」"
+
+msgid "Ryuuji「Oh, I think it's for the best.」"
+msgstr "Ryuuji「Ah, creo que es lo mejor.」"
+
+msgid "Taiga「Oh, I have errands to run anyway, so I＿can walk you home.」"
+msgstr "Taiga「Ah, tengo que hacer unos mandados,＿así que puedo acompañarte a casa.」"
+
+msgid "Ryuuji「Thanks for everything, you two.」"
+msgstr "Ryuuji「Gracias por todo a los dos.」"
+
+msgid "Kitamura「Thanks for having me over.」"
+msgstr "Kitamura「Gracias por recibirme.」"
+
+msgid "Ryuuji「（Now then...... Guess I'll see what I can＿find in here......）」"
+msgstr "Ryuuji「（Ahora bien...... Supongo que veré＿qué puedo encontrar aquí......）」"
+
+msgid "Yasuko「Well, gotta go to work, so see you＿later～」"
+msgstr "Yasuko「Bueno, tengo que ir a trabajar,＿así que nos vemos luego～」"
+
+msgid "Ryuuji「Oh, okay.」"
+msgstr "Ryuuji「Ah, está bien.」"
+
+msgid "Ryuuji「（......Whoa, everyone left much earlier＿than yesterday.）」"
+msgstr "Ryuuji「（......Vaya, todos se fueron mucho＿más temprano que ayer.）」"
+
+msgid "Ryuuji「（............）」"
+msgstr "Ryuuji「（............）」"
+
+msgid "Ryuuji「（I'm not going to remember anything if I＿just blindly rummage around...... Guess＿I'll head out too.）」"
+msgstr "Ryuuji「（No voy a recordar nada si solo＿rebusco a ciegas...... Supongo＿que yo también saldré.）」"
+
+msgid "Kitamura「I may be the Evil Student Council＿President, but I don't pick fights with＿my friends on principle.」"
+msgstr "Kitamura「Puede que sea el Presidente Malvado del＿Consejo Estudiantil, pero por principio＿no busco pelea con mis amigos.」"
+
+msgid "Kitamura「We agreed yesterday that I'd come to＿your house.」"
+msgstr "Kitamura「Ayer quedamos en que vendría a tu casa.」"
+
+msgid "Kitamura「With this hair, I run the risk of＿encountering a teacher from our＿school and getting chased down, I」"
+msgstr "Kitamura「Con este cabello, corro el riesgo＿de toparme con un profesor de nuestra＿escuela y que me persiga,」"
+
+msgid "Kitamura「expect.」"
+msgstr "Kitamura「supongo.」"
+
+msgid "Ryuuji「No, you don't have to do that for me. If＿they see the student council president＿like this, they'll freak out......」"
+msgstr "Ryuuji「No, no tienes que hacer eso por mí. Si＿ven al presidente del consejo＿estudiantil así, van a enloquecer......」"
+
+msgid "Ryuuji「Hm? Student council president?」"
+msgstr "Ryuuji「¿Presidente del consejo estudiantil?」"
+
+msgid "Ryuuji「（Oh yeah, seaweed! I remember＿Kitamura appeared with a towel, but it＿slipped off, and I used a plate to hide）」"
+msgstr "Ryuuji「（¡Ah, sí, el alga! Recuerdo que Kitamura＿apareció con una toalla, pero se le cayó＿y usé un plato para tapar）」"
+
+msgid "Ryuuji「（his, er, seaweed......）」"
+msgstr "Ryuuji「（su, ehm, alga......）」"
+
+msgid "Kitamura「Still...... Hmmm, that wasn't an＿important memory. I'll keep this hair＿until Takasu remembers perfectly if I」"
+msgstr "Kitamura「Aun así...... Mmmm, no era＿un recuerdo importante.」"
+
+msgid "Kitamura「have to.」"
+msgstr "Kitamura「Conservaré este cabello hasta que Takasu＿recuerde todo si es necesario.」"
+
+msgid "Ryuuji「Taiga started her campaign to force＿you to run against her, right? And for＿that purpose, we made creepy posters」"
+msgstr "Ryuuji「Taiga inició su campaña para obligarte＿a postularte contra ella, ¿no?」"
+
+msgid "Ryuuji「and that godawful manifesto.」"
+msgstr "Ryuuji「Para eso, hicimos pósteres espeluznantes＿y ese manifiesto espantoso.」"
+
+msgid "Kitamura「If you say so, Aisaka...... Hmmm, but＿then the story of the Evil Student＿Council President will end utterly in」"
+msgstr "Kitamura「Si tú lo dices, Aisaka......」"
+
+msgid "Kitamura「vain.」"
+msgstr "Kitamura「Mmmm, pero la historia del Presidente＿Malvado del Consejo Estudiantil＿acabará en vano.」"

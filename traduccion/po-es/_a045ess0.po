@@ -1,0 +1,254 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「I'm home......」"
+msgstr "Ryuuji「Ya llegué......」"
+
+msgid "Ryuuji「（I gotta do something about the＿bloodstains...... Gotta hurry and take off＿these clothes......）」"
+msgstr "Ryuuji「（Tengo que hacer algo con las manchas＿de sangre...... Debo darme prisa y＿quitarme esta ropa......）」"
+
+msgid "Ryuuji「Yasuko! I'm gonna use ammonia, so it＿might start to reek. Pinch your nose＿with a towel.」"
+msgstr "Ryuuji「¡Yasuko! Voy a usar amoníaco, así＿que puede empezar a apestar. Tápate＿la nariz con una toalla.」"
+
+msgid "Ryuuji「......Hm? Yasuko's not here?」"
+msgstr "Ryuuji「......¿Mm? ¿Yasuko no está?」"
+
+msgid "Ryuuji「（......She doesn't have to be at work yet＿though.）」"
+msgstr "Ryuuji「（......Aunque todavía no tiene＿que estar en el trabajo.）」"
+
+msgid "Ryuuji「Yasuko? Taking a bath? On the toilet?＿Or...... Whoa!」"
+msgstr "Ryuuji「¿Yasuko? ¿Tomando un baño? ¿En＿el inodoro? O...... ¡Uah!」"
+
+msgid "Ryuuji「Owwww...... Taiga!」"
+msgstr "Ryuuji「Ayyyy...... ¡Taiga!」"
+
+msgid "Ryuuji「Don't look! It's not like I took it off for＿fun! And don't start attacking my little＿nipples either!」"
+msgstr "Ryuuji「¡No mires! ¡No es que me la quitara＿por gusto! ¡Y tampoco te pongas a＿atacar mis pobres pezones!」"
+
+msgid "Taiga「............」"
+msgstr "Taiga「............」"
+
+msgid "Ryuuji「......Taiga? Are you listening?」"
+msgstr "Ryuuji「......¿Taiga? ¿Me estás escuchando?」"
+
+msgid "Taiga「............」"
+msgstr "Taiga「............」"
+
+msgid "Taiga「I'm thinking. Don't talk to me.」"
+msgstr "Taiga「Estoy pensando. No me hables.」"
+
+msgid "Ryuuji「Did you not consider doing the＿thinking in your own house?」"
+msgstr "Ryuuji「¿No consideraste ponerte a＿pensar en tu propia casa?」"
+
+msgid "Taiga「Be quiet.」"
+msgstr "Taiga「Cállate.」"
+
+msgid "Ryuuji「You little...... Oh, come to think of it,＿have you seen Yasuko?」"
+msgstr "Ryuuji「Mocosa...... Ah, ahora que lo＿pienso, ¿has visto a Yasuko?」"
+
+msgid "Taiga「Yacchan already left.」"
+msgstr "Taiga「Yacchan ya se fue.」"
+
+msgid "Ryuuji「Already? Isn't it kinda early? She＿doesn't start work until later.」"
+msgstr "Ryuuji「¿Ya? ¿No es algo temprano? No entra＿a trabajar hasta más tarde.」"
+
+msgid "Taiga「She said today would be busy with＿preparations for the New Year's party.」"
+msgstr "Taiga「Dijo que hoy estaría ocupada＿con los preparativos para la＿fiesta de Año Nuevo.」"
+
+msgid "Ryuuji「I see. She didn't tell me.」"
+msgstr "Ryuuji「Ya veo. No me dijo nada.」"
+
+msgid "Taiga「Yacchan said it's an annual event. Well,＿I'm sure you forgot that in the first＿place.」"
+msgstr "Taiga「Yacchan dijo que es un evento＿anual. Bueno, seguro que de todas＿formas lo olvidaste.」"
+
+msgid "Ryuuji「Wha......」"
+msgstr "Ryuuji「Qué......」"
+
+msgid "Taiga「The world keeps turning, round and＿round. But not for the stupid dog that＿got left behind.」"
+msgstr "Taiga「El mundo sigue girando y girando.＿Pero no para el perro tonto＿que se quedó atrás.」"
+
+msgid "Ryuuji「Hey, I didn't ask to be left behind.」"
+msgstr "Ryuuji「Oye, yo no pedí quedarme atrás.」"
+
+msgid "Taiga「Hmph.」"
+msgstr "Taiga「Jum.」"
+
+msgid "Ryuuji「（I wanted to tell her about my talk with＿Kawashima, but...... now's not the time.）」"
+msgstr "Ryuuji「（Quería contarle sobre mi charla＿con Kawashima, pero...... no＿es el momento.）」"
+
+msgid "Ryuuji「Anyway, take off that citrusy coat.＿That's the top priority right now. Oh,＿and one more thing.」"
+msgstr "Ryuuji「En fin, quítate ese abrigo con olor＿a cítricos. Es la mayor prioridad ahora＿mismo. Ah, y una cosa más.」"
+
+msgid "Ryuuji「I've been meaning to give this to you＿all day.」"
+msgstr "Ryuuji「Llevo todo el día queriendo darte esto.」"
+
+msgid "Taiga「Th-That......!!」"
+msgstr "Taiga「¡E-Eso......!!」"
+
+msgid "Ryuuji「This is a mystery bag from＿Kanou-Mart, isn't it? You woke up＿early today in order to get it.」"
+msgstr "Ryuuji「Es una bolsa sorpresa de Kanou-Mart,＿¿verdad? Hoy te despertaste temprano＿para conseguirla.」"
+
+msgid "Taiga「G-Give it back! Give it, give it, GIVE IT!!」"
+msgstr "Taiga「¡D-Devuélvemela! ¡Dámela,＿dámela, DÁMELA!!」"
+
+msgid "Ryuuji「I am! I was carrying this around for＿you!」"
+msgstr "Ryuuji「¡Eso hago! ¡La estuve cargando por ti!」"
+
+msgid "Taiga「Did you...... l-l-l-l-l-look inside......?」"
+msgstr "Taiga「¿Tú...... m-m-m-m-m-miraste＿dentro......?」"
+
+msgid "Ryuuji「I didn't \"look\" so much as you pelted＿various things at me in the younger＿Kanou sister's room.」"
+msgstr "Ryuuji「No es que \"mirara\", más bien me lanzaste＿varias cosas en el cuarto de la hermana＿menor de Kanou.」"
+
+msgid "Taiga「You didn't see anything else!?」"
+msgstr "Taiga「¡¿No viste nada más?!」"
+
+msgid "Ryuuji「Nope. I just put stuff back in.」"
+msgstr "Ryuuji「No. Solo volví a meter todo adentro.」"
+
+msgid "Taiga「That's fine then.」"
+msgstr "Taiga「Entonces está bien.」"
+
+msgid "Ryuuji「So why were you so desperate for a＿Kanou-Mart mystery bag?」"
+msgstr "Ryuuji「¿Y por qué estabas tan desesperada por＿una bolsa sorpresa de Kanou-Mart?」"
+
+msgid "Taiga「............I'm giving it to you.」"
+msgstr "Taiga「............Te la doy.」"
+
+msgid "Ryuuji「What?」"
+msgstr "Ryuuji「¿Qué?」"
+
+msgid "Taiga「What? You look like you were just shot＿with a BB gun. Be happier about it!」"
+msgstr "Taiga「¿Qué? Parece que te dispararon con una＿pistola de balines. ¡Alégrate más!」"
+
+msgid "Ryuuji「Taiga...... don't tell me, you really got up＿early just for my sake?」"
+msgstr "Ryuuji「Taiga...... ¿no me digas que de verdad＿te levantaste temprano solo por mí?」"
+
+msgid "Taiga「............」"
+msgstr "Taiga「............」"
+
+msgid "Ryuuji「You waited in that huge line, fought＿with Tomiie Kota, and even got juice＿poured on you, all for my sake......?」"
+msgstr "Ryuuji「¿Hiciste esa fila enorme, peleaste＿con Tomiie Kota y hasta te echaron＿jugo encima, todo por mí......?」"
+
+msgid "Taiga「It's fine if you don't want it!」"
+msgstr "Taiga「¡Si no la quieres, da igual!」"
+
+msgid "Ryuuji「I-I, I do, I do!」"
+msgstr "Ryuuji「¡S-Sí, sí la quiero, sí la quiero!」"
+
+msgid "Taiga「You can thank me by making some＿tasty food.」"
+msgstr "Taiga「Puedes agradecérmelo preparando＿algo rico de comer.」"
+
+msgid "Ryuuji「Oh...... Sure! Leave it to me!」"
+msgstr "Ryuuji「Ah...... ¡Claro! ¡Déjamelo a mí!」"
+
+msgid "Taiga「H-O-W-E-V-E-R! For now, let me take＿this home today.」"
+msgstr "Taiga「¡S-I-N E-M-B-A-R-G-O! Por ahora, déjame＿llevarme esto a casa hoy.」"
+
+msgid "Ryuuji「Huh? Why? It's heavy, so just put it＿down somewhere.」"
+msgstr "Ryuuji「¿Eh? ¿Por qué? Pesa mucho, así＿que déjala en algún lado.」"
+
+msgid "Taiga「Absolutely not.」"
+msgstr "Taiga「Ni hablar.」"
+
+msgid "Ryuuji「Now you lost me.」"
+msgstr "Ryuuji「Ya no te entiendo.」"
+
+msgid "Taiga「A-A girl's mind is complex. Listen, I＿swear to God I'll give you the contents,＿so don't ask any more questions!」"
+msgstr "Taiga「L-La mente de una chica es compleja.＿¡Oye, te juro por Dios que te daré el＿contenido, así que no preguntes más!」"
+
+msgid "Ryuuji「（......It'll happen. Any moment now.）」"
+msgstr "Ryuuji「（......Va a pasar en cualquier momento.）」"
+
+msgid "Taiga「S-See ya! I'll come back later!」"
+msgstr "Taiga「¡N-Nos vemos! ¡Vuelvo más tarde!」"
+
+msgid "Ryuuji「（I know all too well. Whenever she's＿unsettled, it'll happen without fail!）」"
+msgstr "Ryuuji「（Lo sé demasiado bien. ¡Siempre que＿está nerviosa, pasa sin falta!）」"
+
+msgid "Taiga「I'll come back in time for dinner!＿......Aaah!!」"
+msgstr "Taiga「¡Volveré a tiempo para la＿cena! ......¡¡Aaah!!」"
+
+msgid "Ryuuji「Behold!」"
+msgstr "Ryuuji「¡Contempla!」"
+
+msgid "Taiga「Th-That hurt......」"
+msgstr "Taiga「E-Eso dolió......」"
+
+msgid "Ryuuji「You're way too predictable. Sheesh......＿Aww, the canned crab is dented!」"
+msgstr "Ryuuji「Eres demasiado predecible. Cielos......＿¡Ay, la lata de cangrejo se abolló!」"
+
+msgid "Taiga「Th-That's--!!」"
+msgstr "Taiga「¡E-Eso es--!!」"
+
+msgid "Ryuuji「\"Overnight Breast Enhancement＿Supplement\"......?」"
+msgstr "Ryuuji「¿\"Suplemento para aumentar el＿pecho en una noche\"......?」"
+
+msgid "Taiga「AAAAAAAAAAHHHH!!」"
+msgstr "Taiga「¡¡AAAAAAAAAAHHHH!!」"
+
+msgid "Ryuuji「Taiga, don't tell me......」"
+msgstr "Ryuuji「Taiga, no me digas que......」"
+
+msgid "Ryuuji「......Now I get it.」"
+msgstr "Ryuuji「......Ahora lo entiendo.」"
+
+msgid "Ryuuji「Calm down, Taiga.」"
+msgstr "Ryuuji「Cálmate, Taiga.」"
+
+msgid "Ryuuji「Hey! Taiga! Take that off!」"
+msgstr "Ryuuji「¡Oye! ¡Taiga! ¡Quítate eso!」"
+
+msgid "Taiga「Be quiet, raisins!!」"
+msgstr "Taiga「¡¡Cállate, pasas!!」"
+
+msgid "Ryuuji「（R-Raisins...... again......!）」"
+msgstr "Ryuuji「（¡P-Pasas...... otra vez......!）」"
+
+msgid "Ryuuji「（I wasn't really going to comment on the＿supplement...... and I failed to tell her＿about Kawashima.）」"
+msgstr "Ryuuji「（En realidad no iba a decir nada＿del suplemento...... y no alcancé＿a contarle lo de Kawashima.）」"
+
+msgid "Ryuuji「（......She's going to bring back that spice＿set, right?）」"
+msgstr "Ryuuji「（......Sí va a traer de vuelta ese＿set de especias, ¿verdad?）」"
+
+msgid "Ryuuji「（Aww, the blood's completely dried. No＿choice but to soak it in bleach and＿ammonia before washing......）」"
+msgstr "Ryuuji「（Ay, la sangre se secó por completo.＿Habrá que remojarla en blanqueador y＿amoníaco antes de lavarla......）」"
+
+msgid "Ryuuji「（And even then it might not come out＿completely.）」"
+msgstr "Ryuuji「（Y aun así puede que no＿salga por completo.）」"
+
+msgid "Ryuuji「（Furthermore, in this stain removal＿assault, there's still the pitfall of＿discoloration to worry about......）」"
+msgstr "Ryuuji「（Además, en esta ofensiva contra las＿manchas, aún debo cuidarme del peligro＿de que la ropa se decolore......）」"
+
+msgid "Ryuuji「（But I'll succeed. In this battle, I'll surely＿be the proven victor!!）」"
+msgstr "Ryuuji「（Pero lo lograré. ¡En esta batalla,＿sin duda saldré victorioso!!）」"
+
+msgid "Ryuuji「F-For now, it's dangerous to stand＿around here. Oh, you haven't changed＿clothes!」"
+msgstr "Ryuuji「P-Por ahora, es peligroso quedarse＿de pie aquí. ¡Ah, no te has＿cambiado de ropa!」"
+
+msgid "Ryuuji「Take off that coat right now so I can＿wash it!」"
+msgstr "Ryuuji「¡Quítate ese abrigo ahora mismo＿para que pueda lavarlo!」"
+
+msgid "Ryuuji「......Oh, this is Gourmet Pavilion's golden＿spice set! I would expect no less from＿Kanou-Mart!」"
+msgstr "Ryuuji「......¡Oh, este es el set dorado de＿especias de Gourmet Pavilion! ¡No＿esperaba menos de Kanou-Mart!」"
+
+msgid "Ryuuji「......Jeez, I've done nothing but pick＿stuff up all day. Oh, what's this?」"
+msgstr "Ryuuji「......Cielos, no he hecho más＿que recoger cosas todo el día.＿¿Eh, qué es esto?」"
+
+msgid "Taiga「Shut up, shut up, SHUT UP! It's always＿sold out in stores and through＿mail-order!」"
+msgstr "Taiga「¡Cállate, cállate, CÁLLATE!＿¡Siempre está agotado en tiendas＿y por pedido postal!」"
+
+msgid "Taiga「And it was the featured product in this＿year's Kanou-Mart mystery bag!」"
+msgstr "Taiga「¡Y era el producto estrella en la bolsa＿sorpresa de Kanou-Mart de este año!」"
+
+msgid "Taiga「What's that look for?! Hmph. I bet＿you're thinking that a cutting-board＿chest shouldn't bother trying!」"
+msgstr "Taiga「¡¿Qué es esa mirada?! Jum. ¡Seguro estás＿pensando que un pecho de tabla de picar＿ni debería intentarlo!」"
+
+msgid "Taiga「Even cutting boards yearn for chicken＿cutlets!」"
+msgstr "Taiga「¡Hasta las tablas de picar anhelan＿chuletas de pollo!」"
+
+msgid "Taiga「I even have to put breast pads in my＿clothes. When I imagine my future, fear＿slowly creeps into me.」"
+msgstr "Taiga「Hasta tengo que ponerme relleno en la＿ropa. Cuando imagino mi futuro, el miedo＿se apodera poco a poco de mí.」"
+
+msgid "Taiga「As if you could understand how I feel!!」"
+msgstr "Taiga「¡¡Como si entendieras cómo me siento!!」"

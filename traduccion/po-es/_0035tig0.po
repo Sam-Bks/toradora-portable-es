@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「*Gasp*...... Taiga! I...... found you!」"
+msgstr "Ryuuji「*Jadeo*...... ¡Taiga, te...... encontré!」"
+
+msgid "Taiga「*Gasp*...... *Gasp*...... Argh, give up＿already!」"
+msgstr "Taiga「*Jadeo*...... *Jadeo*......＿¡Argh, ríndete de una vez!」"
+
+msgid "Ryuuji「Watch where you're going! Look out!」"
+msgstr "Ryuuji「¡Fíjate por dónde vas! ¡Cuidado!」"
+
+msgid "Taiga「Huh!? AAAHH!」"
+msgstr "Taiga「¡¿Eh?! ¡AAAHH!」"
+
+msgid "Ryuuji「See, I told you so...... You okay?」"
+msgstr "Ryuuji「¿Ves?, te lo dije...... ¿Estás bien?」"
+
+msgid "Taiga「Idiot! Why are you following me?!」"
+msgstr "Taiga「¡Idiota! ¡¿Por qué me estás siguiendo?!」"
+
+msgid "Ryuuji「Why? Because you ran off, that's why!」"
+msgstr "Ryuuji「¿Por qué? ¡Porque saliste corriendo!」"
+
+msgid "Ryuuji「Now explain to me what's going on!」"
+msgstr "Ryuuji「¡Ahora explícame qué está pasando!」"
+
+msgid "Taiga「IT'S! NOTHING!」"
+msgstr "Taiga「¡NO ES! ¡NADA!」"
+
+msgid "Ryuuji「It's not \"nothing\"!」"
+msgstr "Ryuuji「¡No es \"nada\"!」"
+
+msgid "Taiga「Ah......」"
+msgstr "Taiga「Ah......」"
+
+msgid "Taiga「......」"
+msgstr "Taiga「......」"
+
+msgid "Ryuuji「Not going to have the last word?＿That's rare for you...... Hm?」"
+msgstr "Ryuuji「¿No vas a tener la última palabra?＿Eso es raro en ti...... ¿Mm?」"
+
+msgid "Ryuuji「（A bear costume......?）」"
+msgstr "Ryuuji「（¿Un disfraz de oso......?）」"
+
+msgid "Ryuuji「（I feel like I've worn a costume like that＿before......）」"
+msgstr "Ryuuji「（Siento que ya he usado un＿disfraz así antes......）」"
+
+msgid "Ryuuji「（It was a bear, but the costume was a＿little different......）」"
+msgstr "Ryuuji「（Era un oso, pero el disfraz era＿un poco diferente......）」"
+
+msgid "Ryuuji「（......! That's it! It was a Santa Claus bear!）」"
+msgstr "Ryuuji「（......¡Sí! ¡Era un oso de Santa Claus!）」"
+
+msgid "Ryuuji「（As a Santa Claus bear, on Christmas＿Eve......）」"
+msgstr "Ryuuji「（Como un oso de Santa Claus,＿en Nochebuena......）」"
+
+msgid "Ryuuji「（That's right! I was here on Christmas＿Eve in that bear costume!）」"
+msgstr "Ryuuji「（¡Así es! ¡Estuve aquí en Nochebuena＿con ese disfraz de oso!）」"
+
+msgid "Ryuuji「（But why on earth......? It must have＿served some purpose......）」"
+msgstr "Ryuuji「（¿Pero por qué demonios......? Debió＿de tener algún propósito......）」"
+
+msgid "Ryuuji「（Shit! Can't remember......）」"
+msgstr "Ryuuji「（¡Mierda! No logro recordarlo......）」"
+
+msgid "Taiga「......Ryuuji?」"
+msgstr "Taiga「......¿Ryuuji?」"
+
+msgid "Ryuuji「Taiga...... I feel like I was here on＿Christmas Eve...... in a bear costume＿like that.」"
+msgstr "Ryuuji「Taiga...... Siento que estuve＿aquí en Nochebuena...... con un＿disfraz de oso como ese.」"
+
+msgid "Taiga「......」"
+msgstr "Taiga「......」"
+
+msgid "Ryuuji「But why......? What was I doing dressed＿like that in a place like this......? Do you＿know?」"
+msgstr "Ryuuji「¿Pero por qué......? ¿Qué hacía＿vestido así en un lugar como este......?＿¿Tú lo sabes?」"
+
+msgid "Taiga「......」"
+msgstr "Taiga「......」"
+
+msgid "Taiga「......I remember you wearing the bear＿costume. As for why you were here, I＿didn't see you, so I don't know.」"
+msgstr "Taiga「......Recuerdo que llevabas el disfraz＿de oso. En cuanto a por qué estabas＿aquí, no te vi, así que no lo sé.」"
+
+msgid "Ryuuji「So I remembered correctly, then. But＿what the hell was I doing here......?」"
+msgstr "Ryuuji「Entonces recordé bien. ¿Pero qué＿demonios estaba haciendo aquí......?」"
+
+msgid "Taiga「......」"
+msgstr "Taiga「......」"
+
+msgid "Taiga「Ryuuji, I'm going home. If I stay out＿here much longer, I'll catch a cold.」"
+msgstr "Taiga「Ryuuji, me voy a casa. Si me quedo aquí＿fuera mucho más, me resfriaré.」"
+
+msgid "Ryuuji「......Oh, okay.」"
+msgstr "Ryuuji「......Ah, está bien.」"
+
+msgid "Taiga「See you later.」"
+msgstr "Taiga「Nos vemos luego.」"
+
+msgid "Ryuuji「Taiga, what about dinner? Eat at my＿place.」"
+msgstr "Ryuuji「Taiga, ¿qué hay de la cena?＿Come en mi casa.」"
+
+msgid "Taiga「No thanks. I'm not hungry.」"
+msgstr "Taiga「No, gracias. No tengo hambre.」"
+
+msgid "Ryuuji「But you should still eat a little......」"
+msgstr "Ryuuji「Pero deberías comer un poco......」"
+
+msgid "Taiga「Bye-bye.」"
+msgstr "Taiga「Adiós.」"
+
+msgid "Ryuuji「Taiga......」"
+msgstr "Ryuuji「Taiga......」"

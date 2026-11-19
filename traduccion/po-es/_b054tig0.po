@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「（Interesting. In addition to a normal＿pool, the fourth floor also has a kiddie＿pool.）」"
+msgstr "Ryuuji「（Qué interesante. Además de una piscina＿normal, el cuarto piso también tiene＿una piscina infantil.）」"
+
+msgid "Ryuuji「（Guess I'll relax on one of these deck＿chairs by the pool.）」"
+msgstr "Ryuuji「（Creo que me relajaré en una＿de estas sillas reclinables＿junto a la piscina.）」"
+
+msgid "Ryuuji「Oh......」"
+msgstr "Ryuuji「Ah......」"
+
+msgid "Ryuuji「（That's Taiga...... What is she up to? Just＿sitting there with her legs dangling in＿the water......）」"
+msgstr "Ryuuji「（Esa es Taiga...... ¿Qué estará＿haciendo? Sentada ahí con las piernas＿colgando en el agua......）」"
+
+msgid "Call out to her"
+msgstr "Llamarla"
+
+msgid "Leave her be"
+msgstr "Dejarla tranquila"
+
+msgid "Ryuuji「Taiga!」"
+msgstr "Ryuuji「¡Taiga!」"
+
+msgid "Taiga「Why are you here?」"
+msgstr "Taiga「¿Por qué estás aquí?」"
+
+msgid "Ryuuji「Why? I wanted to relax for a bit. I am＿recovering, after all.」"
+msgstr "Ryuuji「¿Por qué? Quería relajarme un poco.＿Después de todo, me estoy recuperando.」"
+
+msgid "Taiga「That's true. You're recovering......」"
+msgstr "Taiga「Es verdad. Te estás recuperando......」"
+
+msgid "Ryuuji「Say, Taiga...」"
+msgstr "Ryuuji「Oye, Taiga...」"
+
+msgid "Taiga「What is it?」"
+msgstr "Taiga「¿Qué pasa?」"
+
+msgid "Ryuuji「Mind if I sit here?」"
+msgstr "Ryuuji「¿Te molesta si me siento aquí?」"
+
+msgid "Taiga「Suit yourself.」"
+msgstr "Taiga「Como quieras.」"
+
+msgid "Ryuuji「（The weirdness continues.）」"
+msgstr "Ryuuji「（Sigue con esa actitud tan rara.）」"
+
+msgid "Ryuuji「（It'd be easy to just ask her \"what's＿wrong?\" but I don't think she'd be so＿quick to talk about it.）」"
+msgstr "Ryuuji「（Sería fácil preguntarle \"¿qué＿te pasa?\", pero no creo que me＿lo cuente tan fácilmente.）」"
+
+msgid "Ryuuji「（For now I'll mention a different topic＿and slowly try to figure it out.）」"
+msgstr "Ryuuji「（Por ahora sacaré otro tema e intentaré＿averiguarlo poco a poco.）」"
+
+msgid "Ryuuji「（She's got this serious look on her face.＿Feels like she'll get pissy if I call out to＿her.）」"
+msgstr "Ryuuji「（Tiene una expresión muy seria.＿Siento que se pondrá de mal＿humor si le hablo.）」"
+
+msgid "Ryuuji「（......Yep, I'll do my own thing and take it＿easy.）」"
+msgstr "Ryuuji「（......Sí, haré lo mío y me＿lo tomaré con calma.）」"
+
+msgid "Ryuuji「（That's weird. Normally she'd be saying＿\"Hyuk hyuk hyuk! Health is a dog's only＿benefit, but you don't even have that!）」"
+msgstr "Ryuuji「（Qué raro. Normalmente diría: \"¡Jujuju!＿¡La única ventaja de un perro es su＿salud, pero tú ni eso tienes!）」"
+
+msgid "Ryuuji「（You're utterly useless!\" by now.）」"
+msgstr "Ryuuji「（¡Eres un completo inútil!\"＿a estas alturas.）」"

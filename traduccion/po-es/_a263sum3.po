@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+
+msgid "Sumire「............」"
+msgstr "Sumire「............」"
+
+msgid "Ryuuji「Is something wrong?」"
+msgstr "Ryuuji「¿Pasa algo?」"
+
+msgid "Sumire「Sorry, I'm gonna go cool down...... I＿mean, wash my face.」"
+msgstr "Sumire「Perdón, voy a refrescarme......＿digo, a lavarme la cara.」"
+
+msgid "Ryuuji「Uh, I'll......」"
+msgstr "Ryuuji「Eh, yo......」"
+
+msgid "Sumire「Kyaa!」"
+msgstr "Sumire「¡Kyaa!」"
+
+msgid "Ryuuji「......\"Kyaa\"?」"
+msgstr "Ryuuji「......¿\"Kyaa\"?」"
+
+msgid "Sumire「D-Dumbass, don't creep up on me like＿that! You're too close! Back up!」"
+msgstr "Sumire「¡I-Idiota, no te me acerques así sin＿hacer ruido! ¡Estás muy cerca! ¡Atrás!」"
+
+msgid "Ryuuji「Well, since you were going to the＿restroom, I thought I'd ask you where it＿is.」"
+msgstr "Ryuuji「Bueno, como ibas al baño, pensé＿en preguntarte dónde está.」"
+
+msgid "Sumire「I'll tell you later! Just leave me alone＿right now, please.」"
+msgstr "Sumire「¡Te lo digo luego! Solo déjame en＿paz ahora mismo, por favor.」"
+
+msgid "Ryuuji「......Even someone like Big Bro screams＿like a girl.」"
+msgstr "Ryuuji「......Hasta alguien como el Hermano＿Mayor grita como chica.」"
+
+msgid "Sumire「S-Shut up! I haven't screamed like that＿since I saw that fuckin' snake......＿Snake? That's it, you look like a snake.」"
+msgstr "Sumire「¡C-Cállate! No gritaba así desde que＿vi esa maldita serpiente......＿¿Serpiente? Sí, pareces una serpiente.」"
+
+msgid "Ryuuji「......Huh?」"
+msgstr "Ryuuji「......¿Eh?」"
+
+msgid "Sumire「Rrrrgh, it's nothing! We're done here!＿Go home!」"
+msgstr "Sumire「¡Grrr, no es nada! ¡Terminamos＿aquí! ¡Vete a casa!」"
+
+msgid "Ryuuji「But where's the bathr--」"
+msgstr "Ryuuji「Pero ¿dónde está el bañ--」"
+
+msgid "Ryuuji「（What's wrong all of a sudden? I really＿don't get her......）」"
+msgstr "Ryuuji「（¿Qué le pasa de repente? En verdad＿no la entiendo......）」"
+
+msgid "Ryuuji「（For now, I guess I'll go back to＿Luxure...... I'm concerned about Taiga＿and Kitamura.）」"
+msgstr "Ryuuji「（Por ahora supongo que volveré＿a Luxure...... Me preocupan＿Taiga y Kitamura.）」"
+
+msgid "Sumire「You've sure got an ugly mug, with＿stupid fuckin' snake eyes! T-That's why＿my heart randomly started pounding」"
+msgstr "Sumire「¡Qué cara horrible y qué malditos ojos＿de serpiente tienes! P-Por eso mi＿corazón empezó a latir de la nada」"
+
+msgid "Sumire「so hard......」"
+msgstr "Sumire「tan fuerte......」"
+
+msgid "Sumire「Shut up! You're a man, so do it on the＿side of the road! Here's your cell phone＿back. Now get out already! Oh, but」"
+msgstr "Sumire「¡Cállate! ¡Eres hombre, así que hazlo＿al lado del camino! Toma tu teléfono.＿¡Y lárgate de una vez! Ah, pero」"
+
+msgid "Sumire「don't forget our agreement on the＿morning of the 7th.」"
+msgstr "Sumire「no olvides nuestro acuerdo＿para la mañana del 7.」"

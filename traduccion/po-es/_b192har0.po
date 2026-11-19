@@ -1,0 +1,209 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「Morning, Haruta. What are you doing,＿standing around in the middle of the＿hallway?」"
+msgstr "Ryuuji「Buenos días, Haruta. ¿Qué haces ahí＿parado en medio del pasillo?」"
+
+msgid "Haruta「Takasu Ryuuji!!」"
+msgstr "Haruta「¡¡Takasu Ryuuji!!」"
+
+msgid "Ryuuji「Y-Yeah?」"
+msgstr "Ryuuji「¿S-Sí?」"
+
+msgid "Haruta「If you wish to pass, say the password!」"
+msgstr "Haruta「Si deseas pasar, ¡di la contraseña!」"
+
+msgid "Ryuuji「P-Password?」"
+msgstr "Ryuuji「¿C-Contraseña?」"
+
+msgid "Haruta「Now!!」"
+msgstr "Haruta「¡¡Ahora!!」"
+
+msgid "Ryuuji「What's the password?」"
+msgstr "Ryuuji「¿Cuál es la contraseña?」"
+
+msgid "Haruta「I can't just tell you that. If we're＿comrades, you should know what to＿say today!!」"
+msgstr "Haruta「No te la puedo decir sin más.＿Si somos camaradas, ¡¡deberías＿saber qué decir hoy!!」"
+
+msgid "Ryuuji「What to say today......? No idea.」"
+msgstr "Ryuuji「¿Qué decir hoy......? Ni idea.」"
+
+msgid "Haruta「TAKA-CHAN～!! Ya sayin' we ain't＿comrades～!?」"
+msgstr "Haruta「¡¡TAKA-CHAN～!! ¿Dices que＿no somos camaradas～?!」"
+
+msgid "Haruta「Well, you're the one being a meanie～」"
+msgstr "Haruta「Bueno, tú eres el que está siendo malo～」"
+
+msgid "Ryuuji「......Who cares.」"
+msgstr "Ryuuji「......Qué más da.」"
+
+msgid "Haruta「HOW CRUEL～ Taka-chan's ignoring＿meee!! TRAITORRR!!」"
+msgstr "Haruta「QUÉ CRUEL～ ¡¡Taka-chan me está＿ignorandooo!! ¡¡TRAIDOOOR!!」"
+
+msgid "Ryuuji「How does that make me a traitor?」"
+msgstr "Ryuuji「¿Y por qué eso me hace un traidor?」"
+
+msgid "Noto「Mornin', Takasu. First thing in the＿morning and Haruta's already got you.」"
+msgstr "Noto「Buenos días, Takasu. Apenas empieza＿la mañana y Haruta ya te atrapó.」"
+
+msgid "Ryuuji「Yeah. What on earth is wrong with＿him?」"
+msgstr "Ryuuji「Sí. ¿Qué diablos le pasa?」"
+
+msgid "Noto「What? Takasu, you haven't figured it＿out? You know what it is!」"
+msgstr "Noto「¿Qué? Takasu, ¿no te has dado cuenta?＿¡Tú sabes de qué se trata!」"
+
+msgid "Ryuuji「I do?」"
+msgstr "Ryuuji「¿Lo sé?」"
+
+msgid "Noto「It's the school field trip! 6 days and 5＿nights in Okinawa!!」"
+msgstr "Noto「¡Es el viaje escolar! ¡¡6 días＿y 5 noches en Okinawa!!」"
+
+msgid "Ryuuji「Ohhh, the field trip! I see. Today's the＿day our permission slips are due.」"
+msgstr "Ryuuji「¡Aaah, el viaje escolar! Ya veo. Hoy＿se entregan las autorizaciones.」"
+
+msgid "Noto「Did you remember to bring yours?」"
+msgstr "Noto「¿Te acordaste de traer la tuya?」"
+
+msgid "Ryuuji「Yeah.」"
+msgstr "Ryuuji「Sí.」"
+
+msgid "Noto「I'd wager Haruta's little password is＿\"OKINAWA!\"」"
+msgstr "Noto「Apuesto a que la contraseña＿de Haruta es \"¡OKINAWA!\"」"
+
+msgid "Ryuuji「Is he really THAT excited about it?」"
+msgstr "Ryuuji「¿De verdad está TAN emocionado por eso?」"
+
+msgid "Haruta「OF COURSE I AM!!」"
+msgstr "Haruta「¡¡POR SUPUESTO QUE SÍ!!」"
+
+msgid "Both「Whoa!」"
+msgstr "Ambos「¡Uah!」"
+
+msgid "Noto「Don't jump in like that!!」"
+msgstr "Noto「¡¡No saltes así de la nada!!」"
+
+msgid "Ryuuji「That was bad for my heart...」"
+msgstr "Ryuuji「Eso fue malo para mi corazón...」"
+
+msgid "Haruta「It's Okinawa! Okinawa!! It's WORTH＿getting excited over!」"
+msgstr "Haruta「¡Es Okinawa! ¡¡Okinawa!! ¡VALE＿la pena emocionarse!」"
+
+msgid "Noto「I'll say! The beach! The sunshine!＿Okinawa!」"
+msgstr "Noto「¡Ya lo creo! ¡La playa!＿¡El sol! ¡Okinawa!」"
+
+msgid "Haruta「Snakes! Kotou! Okinawa!」"
+msgstr "Haruta「¡Serpientes! ¡Kotou! ¡Okinawa!」"
+
+msgid "Ryuuji「..................」"
+msgstr "Ryuuji「..................」"
+
+msgid "Haruta「Huh? What's wrong, Taka-chan? You＿should be stoked, bro!」"
+msgstr "Haruta「¿Eh? ¿Qué pasa, Taka-chan? ¡Deberías＿estar entusiasmado, amigo!」"
+
+msgid "Noto「He's right, Takasu! It's Okinawa!＿Okinawa! We're damn lucky to go there＿for a field trip!」"
+msgstr "Noto「¡Tiene razón, Takasu! ¡Es Okinawa!＿¡Okinawa! ¡Qué suerte tenemos de＿ir allá de viaje escolar!」"
+
+msgid "Haruta「Nee hee hee～ The place I wanna see＿more than anything is Manza Cape!!」"
+msgstr "Haruta「Jiji～ ¡¡El lugar que más quiero ver＿en el mundo es Manza Cabo!!」"
+
+msgid "Ryuuji「（You mean Cape Manza......）」"
+msgstr "Ryuuji「（Querrás decir Cabo Manza......）」"
+
+msgid "Haruta「Oh, and I wanna see the American＿military base!! Wouldn't that be＿awesome!? Mariners are the best!」"
+msgstr "Haruta「¡Ah, y quiero ver la base militar＿estadounidense!! ¿No sería genial!?＿¡Los Marineros son lo máximo!」"
+
+msgid "Ryuuji「（It's \"Marines\"......）」"
+msgstr "Ryuuji「（Se dice \"Marines\"......）」"
+
+msgid "Ryuuji「......Yeah, Okinawa might be nice.」"
+msgstr "Ryuuji「......Sí, Okinawa podría estar bien.」"
+
+msgid "Ryuuji「（Might be good to test my resolve, and＿to change up my surroundings for＿once.）」"
+msgstr "Ryuuji「（Sería bueno poner a prueba＿mi determinación y cambiar＿de aires por una vez.）」"
+
+msgid "Noto「Oho! You're finally on board, Takasu!!」"
+msgstr "Noto「¡Oho! ¡¡Por fin te animaste, Takasu!!」"
+
+msgid "Haruta「WOOHOO～ Let's liven things up in＿here～!」"
+msgstr "Haruta「¡YUJUUU～ Vamos a animar esto por aquí～!」"
+
+msgid "Noto「The beach! The sunshine! Okinawa!」"
+msgstr "Noto「¡La playa! ¡El sol! ¡Okinawa!」"
+
+msgid "Haruta「Chinsuko! Pineapple! Okinawa!」"
+msgstr "Haruta「¡Chinsuko! ¡Piña! ¡Okinawa!」"
+
+msgid "Ryuuji「Change of pace! In the south! Okinawa!」"
+msgstr "Ryuuji「¡Cambio de aires! ¡Al sur! ¡Okinawa!」"
+
+msgid "Everyone「YAAAY～～!」"
+msgstr "Todos「¡SIII～～!」"
+
+msgid "Haruta「Oh yeah, I brought an Okinawa＿guidebook～ Wanna see? Do ya? Of＿course ya do!」"
+msgstr "Haruta「¡Ah, sí, traje una guía turística＿de Okinawa～ ¿Quieren ver? ¿Sí?＿¡Claro que sí!」"
+
+msgid "Noto「Yeah! Let's check it out!」"
+msgstr "Noto「¡Sí! ¡Vamos a verla!」"
+
+msgid "Kitamura「Morning, Takasu! You're quite lively＿today.」"
+msgstr "Kitamura「¡Buenos días, Takasu! Hoy＿estás bastante animado.」"
+
+msgid "Ryuuji「Morning! Yeah, I'm starting to look＿forward to this Okinawa trip. Did you＿just get here?」"
+msgstr "Ryuuji「¡Buenos días! Sí, ya me está＿ilusionando este viaje a Okinawa.＿¿Acabas de llegar?」"
+
+msgid "Kitamura「............」"
+msgstr "Kitamura「............」"
+
+msgid "Ryuuji「What's the matter?」"
+msgstr "Ryuuji「¿Qué ocurre?」"
+
+msgid "Kitamura「Umm, about Okinawa......」"
+msgstr "Kitamura「Ehm, sobre Okinawa......」"
+
+msgid "Ryuuji「Hm?」"
+msgstr "Ryuuji「¿Hm?」"
+
+msgid "Ryuuji「W-What did you just say!?」"
+msgstr "Ryuuji「¡¿Q-Qué acabas de decir?!」"
+
+msgid "Kitamura「Shhh! Not so loud! They're keeping it＿under wraps.」"
+msgstr "Kitamura「¡Shhh! ¡No hables tan alto! Lo＿están manteniendo en secreto.」"
+
+msgid "Ryuuji「Oh, right...... But the guys were really＿looking forward to it......」"
+msgstr "Ryuuji「Ah, cierto...... Pero los chicos＿tenían muchas ganas de ir......」"
+
+msgid "Kitamura「If only they weren't so＿forward-looking......」"
+msgstr "Kitamura「Ojalá no tuvieran tantas ganas......」"
+
+msgid "Ryuuji「If only......?」"
+msgstr "Ryuuji「¿Ojalá......?」"
+
+msgid "Noto「Ugh, what have you done, Haruta?＿This book is covered in notes! It's too＿hard to read it!」"
+msgstr "Noto「Agh, ¿qué hiciste, Haruta? ¡Este＿libro está lleno de apuntes! ¡Cuesta＿demasiado leerlo!」"
+
+msgid "Haruta「Whaaat～? But it's the book's fault for＿puttin' all the places I wanna see right＿next to each other like that!」"
+msgstr "Haruta「¿Quéee～? ¡Pero es culpa del libro por＿poner todos los lugares que quiero＿ver tan pegados unos a otros!」"
+
+msgid "Ryuuji「（With Okinawa out of the picture, those＿guys are going to cry blood......）」"
+msgstr "Ryuuji「（Sin Okinawa en el panorama, estos＿chicos van a llorar sangre......）」"
+
+msgid "Ryuuji「*Sigh*......」"
+msgstr "Ryuuji「*Suspiro*......」"
+
+msgid "Ryuuji「H-Hey! Keep your voice down. You're＿already being a damn nuisance by＿standing in the middle of the hall. Now」"
+msgstr "Ryuuji「¡O-Oigan! Bajen la voz. Ya estorban＿bastante parados en medio del＿pasillo. ¡Ahora」"
+
+msgid "Ryuuji「you're attracting way too much＿attention!」"
+msgstr "Ryuuji「están llamando demasiado la atención!」"
+
+msgid "Noto「But it's OKINAWA!! My friends from＿middle school are going to Kyoto or＿Nara. The same places we went to IN」"
+msgstr "Noto「¡¡Pero es OKINAWA!! Mis amigos de la＿secundaria van a Kioto o Nara. Los＿mismos sitios a los que fuimos EN」"
+
+msgid "Noto「middle school! Just how many shrines＿ARE there!?」"
+msgstr "Noto「secundaria! ¡¿Cuántos santuarios＿HAY allí?!」"
+
+msgid "Kitamura「I overheard someone in the staff room＿saying that all of the hotels are fully＿booked, so they're changing it to a」"
+msgstr "Kitamura「Oí en la sala de profesores que＿todos los hoteles están llenos,＿así que lo cambiarán por un」"
+
+msgid "Kitamura「mountain ski trip.」"
+msgstr "Kitamura「viaje de esquí en la montaña.」"

@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「Taiga seriously isn't coming, is she?＿The oyakodon will go to waste.」"
+msgstr "Ryuuji「Taiga en serio no va a venir, ¿verdad?＿El oyakodon se va a desperdiciar.」"
+
+msgid "Ryuuji「（Without her around, the room feels＿empty somehow......）」"
+msgstr "Ryuuji「（Sin ella por aquí, la habitación＿se siente algo vacía......）」"
+
+msgid "Ryuuji「..............................」"
+msgstr "Ryuuji「..............................」"
+
+msgid "Ryuuji「（Why did she randomly say she won't＿come over for food anymore? Is she＿seriously \"thinking about something\"?）」"
+msgstr "Ryuuji「（¿Por qué dijo de la nada que ya＿no vendría a comer? ¿De verdad estará＿\"pensando en algo\"?）」"
+
+msgid "Ryuuji「Actually, I'm the one who needs to＿think about stuff......」"
+msgstr "Ryuuji「En realidad, soy yo quien necesita＿pensar en cosas......」"
+
+msgid "\"Oh, you're Takasu-kun, right? Do you＿remember me? I've seen you around＿hanging out with Kitamura.\""
+msgstr "\"Ah, tú eres Takasu-kun, ¿verdad? ¿Me＿recuerdas? Te he visto por ahí＿pasando el rato con Kitamura.\""
+
+msgid "\"Uhh...... K-Ku...... Kushieda Minori,＿right?\""
+msgstr "\"Ehh...... K-Ku...... Kushieda Minori,＿¿verdad?\""
+
+msgid "\"Oh wow! You remembered my full＿name! I'm flattered!!\""
+msgstr "\"¡Oh, vaya! ¡Recordaste mi nombre＿completo! ¡¡Qué halago!!\""
+
+msgid "Ryuuji「（The first time we talked, I was so＿happy I could have broken into song＿and dance......）」"
+msgstr "Ryuuji「（La primera vez que hablamos, estaba＿tan feliz que habría podido ponerme＿a cantar y bailar......）」"
+
+msgid "Ryuuji「（And yet, why is it that I don't feel that＿way now?）」"
+msgstr "Ryuuji「（Y aun así, ¿por qué ahora no＿me siento de esa manera?）」"
+
+msgid "Ryuuji「（Isn't loving someone something that＿just happens naturally?）」"
+msgstr "Ryuuji「（¿Acaso amar a alguien no es algo que＿simplemente surge de forma natural?）」"
+
+msgid "Ryuuji「（I know I had feelings for Kushieda. But＿now......?）」"
+msgstr "Ryuuji「（Sé que sentía algo por Kushieda.＿Pero ¿y ahora......?）」"
+
+msgid "Ryuuji「*Sigh*......」"
+msgstr "Ryuuji「*Suspiro*......」"
+
+msgid "Ryuuji「（Under these circumstances, should I＿really have Taiga support me......?）」"
+msgstr "Ryuuji「（En estas circunstancias, ¿de＿verdad debería dejar que Taiga＿me apoye......?）」"
+
+msgid "Ryuuji「（......That's right, it's nearly been two＿years...... since I fell for Kushieda at＿first sight when I saw her chatting with）」"
+msgstr "Ryuuji「（......Sí, ya hace casi dos años......＿desde que me enamoré de Kushieda a＿primera vista al verla charlando con）」"
+
+msgid "Ryuuji「（Kitamura.）」"
+msgstr "Ryuuji「（Kitamura.）」"
+
+msgid "Ryuuji「（I don't feel anything beyond friendship＿for her. When the memories suddenly＿came back, I freaked out, but right now）」"
+msgstr "Ryuuji「（No siento nada más allá de amistad por＿ella. Cuando los recuerdos volvieron de＿golpe, me asusté, pero ahora mismo）」"
+
+msgid "Ryuuji「（I can't imagine Kushieda as anything＿more.）」"
+msgstr "Ryuuji「（no puedo imaginar a Kushieda＿como algo más.）」"
+
+msgid "Ryuuji「（Is it because I haven't remembered＿everything? Or is loving someone＿something you can \"remember\" in the）」"
+msgstr "Ryuuji「（¿Será porque no lo he recordado todo?＿¿O acaso amar a alguien es algo que＿se puede \"recordar\" en）」"
+
+msgid "Ryuuji「（first place?）」"
+msgstr "Ryuuji「（primer lugar?）」"

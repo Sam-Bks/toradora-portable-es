@@ -1,0 +1,305 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「......Nnn～」"
+msgstr "Ryuuji「......Nnn～」"
+
+msgid "Ryuuji「（Where am I......?）」"
+msgstr "Ryuuji「（¿Dónde estoy......?）」"
+
+msgid "Ryuuji「（......No, wait, calm down. It's alright, it's＿my room.）」"
+msgstr "Ryuuji「（......No, espera, cálmate. Está＿bien, es mi habitación.）」"
+
+msgid "Taiga「Ryuuji!」"
+msgstr "Taiga「¡Ryuuji!」"
+
+msgid "Ryuuji「Oh!?」"
+msgstr "Ryuuji「¡¿Eh?!」"
+
+msgid "Taiga「Stop wasting time. Get up and get＿changed!＿Lazy dog!」"
+msgstr "Taiga「Deja de perder el tiempo. ¡Levántate＿y cámbiate! ¡Perro flojo!」"
+
+msgid "Ryuuji「You didn't even knock! You can't just＿barge into another person's room!」"
+msgstr "Ryuuji「¡Ni siquiera tocaste! ¡No puedes＿entrar así como así al cuarto＿de otra persona!」"
+
+msgid "Taiga「What? After your master came in＿person to see her pet dog, how dare＿you!」"
+msgstr "Taiga「¿Qué? Después de que tu ama＿vino en persona a ver a su perro,＿¡cómo te atreves!」"
+
+msgid "Ryuuji「（How is this girl at full power so early in＿the morning......?）」"
+msgstr "Ryuuji「（¿Cómo puede tener tanta energía tan＿temprano en la mañana......?）」"
+
+msgid "Taiga「Well, how are you? After a night's＿sleep, have you remembered＿anything?」"
+msgstr "Taiga「Bueno, ¿cómo estás? Después de dormir＿toda la noche, ¿has recordado algo?」"
+
+msgid "Ryuuji「No...... No different than yesterday.」"
+msgstr "Ryuuji「No...... Todo sigue igual que ayer.」"
+
+msgid "Taiga「I see......」"
+msgstr "Taiga「Ya veo......」"
+
+msgid "Ryuuji「Oh, but......」"
+msgstr "Ryuuji「Ah, pero......」"
+
+msgid "Taiga「What?」"
+msgstr "Taiga「¿Qué?」"
+
+msgid "Ryuuji「For some reason, today I feel fidgety,＿like my soul is screaming......」"
+msgstr "Ryuuji「Hoy me siento inquieto sin razón,＿como si mi alma gritara......」"
+
+msgid "Taiga「Does that mean that you're starting to＿remember something?」"
+msgstr "Taiga「¿Eso significa que estás empezando＿a recordar algo?」"
+
+msgid "Ryuuji「Hmm...... Maybe.」"
+msgstr "Ryuuji「Hmm...... Tal vez.」"
+
+msgid "Ryuuji「You don't seem too worried.」"
+msgstr "Ryuuji「No pareces muy preocupada.」"
+
+msgid "Taiga「Shut it. I haven't had breakfast yet.」"
+msgstr "Taiga「Cállate. Todavía no he desayunado.」"
+
+msgid "Ryuuji「Okay, let me get dressed.」"
+msgstr "Ryuuji「Está bien, déjame vestirme.」"
+
+msgid "Taiga「You'll make breakfast?」"
+msgstr "Taiga「¿Prepararás el desayuno?」"
+
+msgid "Ryuuji「I'm a top-notch househusband, right?」"
+msgstr "Ryuuji「Soy un amo de casa de primera, ¿no?」"
+
+msgid "Taiga「Yeah, but you might have forgotten＿how to cook.」"
+msgstr "Taiga「Sí, pero podrías haber olvidado＿cómo cocinar.」"
+
+msgid "Ryuuji「I won't attempt anything too＿complicated. Plus, I might remember＿something while I cook.」"
+msgstr "Ryuuji「No intentaré nada demasiado complicado.＿Además, tal vez recuerde algo＿mientras cocino.」"
+
+msgid "Taiga「Okay. You did say something like＿\"chores helped me remember,\" after＿all.」"
+msgstr "Taiga「Está bien. Después de todo, dijiste＿algo como que \"los quehaceres me＿ayudaron a recordar\".」"
+
+msgid "Taiga「Wow, your skills haven't changed a bit.」"
+msgstr "Taiga「Guau, tu habilidad no ha cambiado nada.」"
+
+msgid "Ryuuji「Yeah. Being in the kitchen has＿instantly revived my senses.」"
+msgstr "Ryuuji「Sí. Estar en la cocina ha revivido＿mis sentidos al instante.」"
+
+msgid "Taiga「Hmmm. Your memory for chores is＿perfectly intact......」"
+msgstr "Taiga「Hmmm. Tu memoria para los quehaceres＿está perfectamente intacta......」"
+
+msgid "Taiga「So, have you remembered anything＿else?」"
+msgstr "Taiga「Entonces, ¿has recordado＿alguna otra cosa?」"
+
+msgid "Ryuuji「No, not really......」"
+msgstr "Ryuuji「No, la verdad no......」"
+
+msgid "Ryuuji「（Crap, I got completely engrossed in＿cooking......）」"
+msgstr "Ryuuji「（Rayos, me concentré por completo＿en cocinar......）」"
+
+msgid "Ryuuji「Oh, actually, food's almost ready, so＿could you wake Yasuko?」"
+msgstr "Ryuuji「Ah, por cierto, la comida ya casi está,＿¿podrías despertar a Yasuko?」"
+
+msgid "Taiga「Oh, don't worry about Yacchan. She＿only just got home, and she needs her＿sleep.」"
+msgstr "Taiga「Ah, no te preocupes por Yacchan. Acaba＿de llegar a casa y necesita dormir.」"
+
+msgid "Ryuuji「Really? What an unhealthy lifestyle.」"
+msgstr "Ryuuji「¿En serio? Qué vida tan poco sana.」"
+
+msgid "Taiga「She'll be up around midday, I think.」"
+msgstr "Taiga「Se levantará hacia el mediodía, creo.」"
+
+msgid "Ryuuji「Hmm, I took the time to make＿breakfast, but...... Oh well, I'll save her＿some leftovers.」"
+msgstr "Ryuuji「Hmm, me tomé el tiempo de hacer＿el desayuno, pero...... En fin,＿le guardaré un poco.」"
+
+msgid "Taiga「Mmm, this is the first decent breakfast＿I've had in quite some time.」"
+msgstr "Taiga「Mmm, este es el primer desayuno decente＿que pruebo en bastante tiempo.」"
+
+msgid "Ryuuji「What did you eat while I was in the＿hospital?」"
+msgstr "Ryuuji「¿Qué comiste mientras yo＿estaba en el hospital?」"
+
+msgid "Taiga「Oh, like, onigiri and bread from the＿convenience store......」"
+msgstr "Taiga「Ah, pues onigiri y pan de la tienda＿de conveniencia......」"
+
+msgid "Ryuuji「......You did say my absence was a life or＿death crisis, huh.」"
+msgstr "Ryuuji「......Cierto que dijiste que＿mi ausencia era una crisis＿de vida o muerte, ¿eh?」"
+
+msgid "Taiga「It is. Normal people got to pig out and＿put on the holiday pounds, but without＿you around, I lived on scraps.」"
+msgstr "Taiga「Lo es. La gente normal pudo atiborrarse＿y subir de peso por las fiestas, pero＿sin ti cerca, sobreviví con sobras.」"
+
+msgid "Ryuuji「......Wait, what did you just say?＿Holiday?」"
+msgstr "Ryuuji「......Espera, ¿qué acabas＿de decir? ¿Fiestas?」"
+
+msgid "Taiga「You...... Don't tell me you forgot what＿day it is?」"
+msgstr "Taiga「Tú...... ¿No me digas que olvidaste＿qué día es hoy?」"
+
+msgid "Ryuuji「I'm a little vague on dates...... Let's see, I＿woke up in the hospital on December＿28th......」"
+msgstr "Ryuuji「Ando un poco perdido con las＿fechas...... A ver, desperté en el＿hospital el 28 de diciembre......」"
+
+msgid "Taiga「It's December 31st. New Year's Eve.」"
+msgstr "Taiga「Es 31 de diciembre. Nochevieja.」"
+
+msgid "Ryuuji「New Year's Eve!? That's traditionally a＿day of cleaning!! That's why I'm＿fidgeting!」"
+msgstr "Ryuuji「¡¿Nochevieja?! ¡¡Por tradición＿es un día de limpieza!! ¡Por＿eso estoy tan inquieto!」"
+
+msgid "Taiga「Ugh～ Here we go.」"
+msgstr "Taiga「Ugh～ Aquí vamos de nuevo.」"
+
+msgid "Ryuuji「Why are you backing away?」"
+msgstr "Ryuuji「¿Por qué estás retrocediendo?」"
+
+msgid "Taiga「No reason. It's great to see you back to＿normal, but you probably want to start＿cleaning straight away, right?」"
+msgstr "Taiga「Por nada. Qué bueno verte volver a la＿normalidad, pero seguro quieres ponerte＿a limpiar de inmediato, ¿verdad?」"
+
+msgid "Ryuuji「Is that bad?」"
+msgstr "Ryuuji「¿Tiene algo de malo?」"
+
+msgid "Taiga「Aren't you going to finish your＿breakfast?」"
+msgstr "Taiga「¿No vas a terminarte el desayuno?」"
+
+msgid "Ryuuji「......Oh yeah, I got distracted.」"
+msgstr "Ryuuji「......Ah, cierto, me distraje.」"
+
+msgid "Taiga「Thanks for the food. Well, have fun＿housecleaning by yourself. I'll be at＿home, so call me if anything happens.」"
+msgstr "Taiga「Gracias por la comida. Bueno, diviértete＿limpiando la casa tú solo. Estaré en＿casa, así que llámame si pasa algo.」"
+
+msgid "Ryuuji「Taiga--」"
+msgstr "Ryuuji「Taiga--」"
+
+msgid "Taiga「What?」"
+msgstr "Taiga「¿Qué?」"
+
+msgid "Ryuuji「There's ketchup on your chin.」"
+msgstr "Ryuuji「Tienes kétchup en la barbilla.」"
+
+msgid "Taiga「Quit nagging me!」"
+msgstr "Taiga「¡Deja de fastidiarme!」"
+
+msgid "Ryuuji「（She just fuckin' leaves as soon as the＿food's gone......）」"
+msgstr "Ryuuji「（La muy maldita se va en cuanto＿se acaba la comida......）」"
+
+msgid "Ryuuji「（No, forget it! I'll hurry and tidy up the＿dishes! It's cleaning day!）」"
+msgstr "Ryuuji「（¡No, olvídalo! ¡Me daré prisa en lavar＿los platos! ¡Es día de limpieza!）」"
+
+msgid "Ryuuji「（......Alright, cleaning time at last.）」"
+msgstr "Ryuuji「（......¡Bien, por fin toca limpiar!）」"
+
+msgid "Ryuuji「（But wait, didn't I just clean this room＿yesterday......?）」"
+msgstr "Ryuuji「（Pero espera, ¿no limpié esta habitación＿ayer mismo......?）」"
+
+msgid "Go to a different room"
+msgstr "Ir a otra habitación"
+
+msgid "Clean this room"
+msgstr "Limpiar esta habitación"
+
+msgid "Ryuuji「（It'd be more time-efficient to clean a＿different room, so......）」"
+msgstr "Ryuuji「（Aprovecharía mejor el tiempo limpiando＿otra habitación, así que......）」"
+
+msgid "Ryuuji「（It's surprising how much dust can＿accumulate in the span of a single day.＿Alright! I'll make it spotless today!）」"
+msgstr "Ryuuji「（Sorprende cuánto polvo se acumula＿en un solo día. ¡Muy bien! ¡Hoy＿la dejaré impecable!）」"
+
+msgid "Ryuuji「（Hmm?）」"
+msgstr "Ryuuji「（¿Hmm?）」"
+
+msgid "Ryuuji「（I bet Taiga drank it before breakfast＿and just left it laying here. Don't leave＿your trash in my house, dammit......）」"
+msgstr "Ryuuji「（Seguro Taiga se la tomó antes del＿desayuno y la dejó aquí. No dejes tu＿basura en mi casa, maldición......）」"
+
+msgid "Ryuuji「（Hm......?）」"
+msgstr "Ryuuji「（¿Hm......?）」"
+
+msgid "Ryuuji「（An empty can, huh. If you're going to＿leave it, at least try to leave it near the＿wastebasket......）」"
+msgstr "Ryuuji「（Una lata vacía, ¿eh? Si vas a dejarla＿por ahí, al menos procura dejarla cerca＿del cesto de basura......）」"
+
+msgid "Ryuuji「（......*Sigh* I'll throw it away.）」"
+msgstr "Ryuuji「（......*Suspiro* La tiraré.）」"
+
+msgid "Ryuuji「（Couldn't find anything......）」"
+msgstr "Ryuuji「（No pude encontrar nada......）」"
+
+msgid "Ryuuji「（Guess I'll leave it at that. Moving on......）」"
+msgstr "Ryuuji「（Lo dejaré así. Sigamos......）」"
+
+msgid "Ryuuji「（Maybe I'll clean my room.）」"
+msgstr "Ryuuji「（Tal vez limpie mi habitación.）」"
+
+msgid "No thanks"
+msgstr "No, gracias"
+
+msgid "Clean this room"
+msgstr "Limpiar esta habitación"
+
+msgid "Ryuuji「（......For some reason I don't feel like it. I＿guess without getting my memory＿back, I can't be my former self.）」"
+msgstr "Ryuuji「（......Por alguna razón no tengo ganas.＿Supongo que sin recuperar la memoria, no＿puedo volver a ser el de antes.）」"
+
+msgid "Ryuuji「（......Think I'll head out.）」"
+msgstr "Ryuuji「（......Creo que saldré un rato.）」"
+
+msgid "Ryuuji「（Given the number of days I was＿hospitalized, it's been dirty for quite＿some time. It's worth cleaning!）」"
+msgstr "Ryuuji「（Con los días que estuve hospitalizado,＿lleva sucia bastante tiempo. ¡Vale＿la pena limpiarla!）」"
+
+msgid "Ryuuji「（Hmm?）」"
+msgstr "Ryuuji「（¿Hmm?）」"
+
+msgid "Ryuuji「（What's this? \"Big Bro Notebook\"......?）」"
+msgstr "Ryuuji「（¿\"Cuaderno del Hermano Mayor\"......?）」"
+
+msgid "Ryuuji「（I don't think I have an older brother......＿So who is this \"Big Bro\" referring＿to......? Maybe I'll know if I read it......?）」"
+msgstr "Ryuuji「（No creo tener hermano mayor...... ¿A＿quién se refiere \"Hermano Mayor\"......?＿¿Lo sabré si lo leo......?）」"
+
+msgid "Ryuuji「（Whoa! This notebook has the contents＿of every class, plus notes, and as a＿bonus, there's sample tests attached!!）」"
+msgstr "Ryuuji「（¡Guau! ¡¡Este cuaderno tiene el temario＿de cada clase, apuntes y hasta exámenes＿de prueba adjuntos como extra!!）」"
+
+msgid "Ryuuji「（If I hold onto this, I might remember＿something. Pick it up!）」"
+msgstr "Ryuuji「（Si me quedo con esto, tal vez＿recuerde algo. ¡Recógelo!）」"
+
+msgid "Ryuuji「（Hmm?）」"
+msgstr "Ryuuji「（¿Hmm?）」"
+
+msgid "Ryuuji「（Let's see. Isn't this a receipt from a＿boutique near the station? For a......＿hairpin?）」"
+msgstr "Ryuuji「（A ver. ¿Este no es un recibo de una＿boutique cerca de la estación? ¿Por＿un...... broche para el pelo?）」"
+
+msgid "Ryuuji「（Did Yasuko buy it? Wait, the receipt＿was laying in my room, so did I buy＿it?　......I don't know. I don't remember.）」"
+msgstr "Ryuuji「（¿Lo compró Yasuko? Espera, el recibo＿estaba en mi cuarto, ¿así que lo compré＿yo?　......No lo sé. No me acuerdo.）」"
+
+msgid "Ryuuji「（Well regardless, this receipt might be＿important, so it's unthinkable to throw＿it away! Pick it up!）」"
+msgstr "Ryuuji「（Bueno, como sea, ¡este recibo podría＿ser importante, así que es impensable＿tirarlo! ¡Recógelo!）」"
+
+msgid "Ryuuji「（Hmm?）」"
+msgstr "Ryuuji「（¿Hmm?）」"
+
+msgid "Ryuuji「（This is...... strawberry milk. Hasn't even＿been opened. Speaking of which......）」"
+msgstr "Ryuuji「（Es...... leche de fresa sin abrir.＿Hablando de eso......）」"
+
+msgid "Ryuuji「（......I'm sure this is Taiga's too. It's just＿like her to bring it here and end up＿forgetting it.）」"
+msgstr "Ryuuji「（......Seguro que esto también es de＿Taiga. Es muy típico de ella traerla＿aquí y terminar olvidándola.）」"
+
+msgid "Ryuuji「（Just like her to bring it with her and＿then carelessly leave it behind.）」"
+msgstr "Ryuuji「（Es muy típico de ella traerla＿consigo y luego dejarla olvidada＿por descuido.）」"
+
+msgid "Ryuuji「（It hasn't expired yet...... MOTTAINAI!＿Pick it up!）」"
+msgstr "Ryuuji「（Todavía no ha caducado......＿¡MOTTAINAI! ¡Recógelo!）」"
+
+msgid "Ryuuji「（Hmm?）」"
+msgstr "Ryuuji「（¿Hmm?）」"
+
+msgid "Ryuuji「（The final exam from second＿semester...... Not bad. Yep, not bad at＿all.）」"
+msgstr "Ryuuji「（El examen final del segundo＿semestre...... Nada mal. Sí,＿nada mal en absoluto.）」"
+
+msgid "Ryuuji「（I'll put it away in the drawer.）」"
+msgstr "Ryuuji「（Lo guardaré en el cajón.）」"
+
+msgid "Ryuuji「（Couldn't find anything......）」"
+msgstr "Ryuuji「（No pude encontrar nada......）」"
+
+msgid "Ryuuji「（I think I'll leave it at that and head out.＿I gotta make an effort to get my＿memory back.）」"
+msgstr "Ryuuji「（Creo que lo dejaré así y saldré.＿Tengo que esforzarme por recuperar＿la memoria.）」"
+
+msgid "Ryuuji「（It's......! It's a container of strawberry＿milk. I don't remember drinking this......＿Was it Yasuko? No, wait......）」"
+msgstr "Ryuuji「（¡Es......! Es un envase de leche de＿fresa. No recuerdo haberlo tomado......＿¿Fue Yasuko? No, espera......）」"
+
+msgid "Ryuuji「（This is where Taiga was sitting!）」"
+msgstr "Ryuuji「（¡Aquí es donde estaba sentada Taiga!）」"
+
+msgid "Ryuuji「（......Oh! For some reason, an image of＿Taiga gleefully drinking strawberry＿milk came to mind. That's right,）」"
+msgstr "Ryuuji「（......¡Ah! Por alguna razón, me vino a＿la mente la imagen de Taiga tomando＿leche de fresa alegremente. Es cierto,）」"
+
+msgid "Ryuuji「（strawberry milk is her favorite.）」"
+msgstr "Ryuuji「（la leche de fresa es su favorita.）」"

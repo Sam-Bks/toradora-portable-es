@@ -1,0 +1,17 @@
+msgid ""
+msgstr ""
+
+msgid "Taiga「Hey, mongrel! Where do you think＿you're going? Jonny's is over there.＿You're going the wrong way!」"
+msgstr "Taiga「¡Oye, perro! ¿Adónde crees que＿vas? Jonny's está por allá. ¡Vas＿por el camino equivocado!」"
+
+msgid "Ryuuji「Hm? Oh, sorry. I wasn't paying＿attention.」"
+msgstr "Ryuuji「¿Mm? Ah, perdón. No estaba＿prestando atención.」"
+
+msgid "Taiga「C'mon, this way!」"
+msgstr "Taiga「¡Vamos, por aquí!」"
+
+msgid "Ryuuji「Alright, alright.」"
+msgstr "Ryuuji「Ya voy, ya voy.」"
+
+msgid "Ryuuji「I'm back at square one again......」"
+msgstr "Ryuuji「Volví al punto de partida otra vez......」"

@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「......Achoo!」"
+msgstr "Ryuuji「......¡Achís!」"
+
+msgid "Yasuko「You okay, Ryuu-chan?」"
+msgstr "Yasuko「¿Estás bien, Ryuu-chan?」"
+
+msgid "Ryuuji「Yeah. I'm just a little cold, that's all.」"
+msgstr "Ryuuji「Sí. Solo tengo un poco de frío, es todo.」"
+
+msgid "Yasuko「Cold? Put out your hand.」"
+msgstr "Yasuko「¿Frío? Extiende la mano.」"
+
+msgid "Ryuuji「H-Hey!」"
+msgstr "Ryuuji「¡O-Oye!」"
+
+msgid "Yasuko「Whoaaa. Ryuu-chan's hand sure is＿cooold. Poor thing......」"
+msgstr "Yasuko「Guauuu. La mano de Ryuu-chan está＿muy frííía. Pobrecito......」"
+
+msgid "Yasuko「*Exhale*～ *Exhale*～」"
+msgstr "Yasuko「*Sopla*～ *Sopla*～」"
+
+msgid "Ryuuji「......Y-Yasuko, you're definitely＿embarrassing me.」"
+msgstr "Ryuuji「......Y-Yasuko, de verdad＿me estás avergonzando.」"
+
+msgid "Yasuko「Whaaat～? No one will see us so it's＿fine ☆ *Exhale*～」"
+msgstr "Yasuko「¿Quééé～? Nadie nos verá, así＿que está bien ☆ *Sopla*～」"
+
+msgid "Ryuuji「No, that's not it!」"
+msgstr "Ryuuji「¡No, no es eso!」"
+
+msgid "Yasuko「Whaaat? Ryuu-chan's bashful? How＿cuuute～ ① *Exhale*～」"
+msgstr "Yasuko「¿Quééé? ¿Ryuu-chan es tímido?＿Qué lindooo～ ① *Sopla*～」"
+
+msgid "Ryuuji「......」"
+msgstr "Ryuuji「......」"
+
+msgid "Yasuko「*Exhale*～ *Exhale*～」"
+msgstr "Yasuko「*Sopla*～ *Sopla*～」"
+
+msgid "Ryuuji「......Y-Your hands sure are warm,＿Yasuko.」"
+msgstr "Ryuuji「......T-Tus manos sí que＿están cálidas, Yasuko.」"
+
+msgid "Yasuko「Probably from drinking that sake＿earlier. *Exhale*～ And from the power＿of love ☆ *Exhale*～」"
+msgstr "Yasuko「Seguro es por tomar ese sake＿hace rato. *Sopla*～ Y por el＿poder del amor ☆ *Sopla*～」"
+
+msgid "Ryuuji「Oh, uh...... T-T-Thanks. I, I'm good now.」"
+msgstr "Ryuuji「Eh...... G-G-Gracias. Y-Ya estoy bien.」"
+
+msgid "Yasuko「Reallyyy? Maybe Yacchan reeks of＿sake. Fufu.」"
+msgstr "Yasuko「¿De verdaaad? Tal vez Yacchan＿apesta a sake. Juju.」"
+
+msgid "Ryuuji「Don't worry about that. If you're drunk,＿aren't you cold?」"
+msgstr "Ryuuji「No te preocupes por eso. Si＿tomaste, ¿no tienes frío?」"
+
+msgid "Yasuko「Nope, not cold at all～ Yacchan's heart＿and body are toasty warm when she's＿with Ryuu-chan～」"
+msgstr "Yasuko「Nop, nada de frío～ El corazón y el＿cuerpo de Yacchan están calentitos＿cuando está con Ryuu-chan～」"
+
+msgid "Ryuuji「Yasuko......」"
+msgstr "Ryuuji「Yasuko......」"

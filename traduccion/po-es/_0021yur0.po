@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+
+msgid "???「What!? Nishida-kun, you're...... getting＿married? To Miki!? R-Really!?」"
+msgstr "???「¡¿Qué?! Nishida-kun, ¿te...... vas a＿casar? ¡¿Con Miki?! ¡¿D-De verdad?!」"
+
+msgid "Ryuuji「Oh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Ryuuji「（......Who's that shouting in the middle of＿the street......? Seems the voice came＿from over there.）」"
+msgstr "Ryuuji「（......¿Quién está gritando en medio＿de la calle......? Parece que la＿voz viene de por allá.）」"
+
+msgid "???「I, I see～ The wedding? I'll go! Of course＿I'll go...... Yeah, mmhmm.＿Congratulations ① Okay, bye.」"
+msgstr "???「Y-Ya veo～ ¿La boda? ¡Iré! Claro＿que iré...... Sí, ajá. ¡Felicidades!＿① Bueno, adiós.」"
+
+msgid "Ryuuji「（Phone call, huh? Oh, that's......＿Koigakubo Yuri-san, I believe.）」"
+msgstr "Ryuuji「（¿Una llamada, eh? Ah, esa es......＿Koigakubo Yuri-san, creo.）」"
+
+msgid "Yuri「......Uggggh. I'll probably have to talk to＿Miki now too～」"
+msgstr "Yuri「......Aaaagh. Seguro ahora también＿tendré que hablar con Miki～」"
+
+msgid "Yuri「She'll say something like \"Oh,＿Koigakubo got asked out. Seems she＿still doesn't have a man～\"」"
+msgstr "Yuri「Dirá algo como: \"Ah, invitaron＿a salir a Koigakubo. Parece que＿sigue sin tener hombre～\"」"
+
+msgid "Yuri「We're both in our thirties! Why!? Why!?」"
+msgstr "Yuri「¡Treintañeras! ¡¿Por qué?! ¡¿Por qué?!」"
+
+msgid "Ryuuji「（I don't really get it, but life at 30 must＿be complicated......）」"
+msgstr "Ryuuji「（No lo entiendo bien, pero la vida a＿los 30 debe ser complicada......）」"
+
+msgid "Yuri「If you're going to talk to me about＿wedding details, don't ask me how I've＿been, just get right to the point. That」"
+msgstr "Yuri「Si me vas a hablar sobre los detalles＿de la boda, no me preguntes cómo he＿estado, ve directo al grano. Esa」"
+
+msgid "Yuri「\"we decided to get married to＿compromise on our faults\" crap, that's＿just obvious.」"
+msgstr "Yuri「basura de \"decidimos casarnos＿para compensar nuestros defectos\"＿es más que obvia.」"
+
+msgid "Yuri「......*Gasp*! But if marriage is about＿faults, why wasn't I chosen!? I went so＿far as to act like it was some」"
+msgstr "Yuri「......¡Ah! Pero si casarse se trata de＿defectos, ¡¿por qué no me eligieron?!＿Hasta llegué a actuar como si fuera un」"
+
+msgid "Yuri「mouth-watering meal to look forward＿to, so why not me!?」"
+msgstr "Yuri「manjar apetitoso que esperar con ansias,＿¡¿entonces por qué yo no?!」"

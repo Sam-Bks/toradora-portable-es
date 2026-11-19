@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「（Oh? That guy from a little while ago......＿his name is, er, Tomiie Kota.）」"
+msgstr "Ryuuji「（¿Eh? Ese chico de hace un rato......＿se llama, ehm, Tomiie Kota.）」"
+
+msgid "Kota「......Ahaha, aren't you Miss Impatient,＿Sakura-chan!」"
+msgstr "Kota「......¡Ajaja, sí que eres la Señorita＿Impaciente, Sakura-chan!」"
+
+msgid "Sakura「But Kota-kun, of all the days to be late,＿it just had to be the one day I got here＿early, didn't it!」"
+msgstr "Sakura「¡Pero Kota-kun, de todos los días para＿llegar tarde, tenía que ser justo el＿día en que yo llegué temprano!」"
+
+msgid "Kota「Like I said, you shouldn't use your＿phone until the battery dies...... oh,＿sorry. Good thing I didn't forget mine.」"
+msgstr "Kota「Como dije, no deberías usar tu teléfono＿hasta quedarte sin batería...... ah,＿perdón. Menos mal que traje el mío.」"
+
+msgid "Sakura「No, it's fine. Since we arranged a＿meeting place, we were still able to＿find each other.」"
+msgstr "Sakura「No, está bien. Como acordamos＿un lugar de encuentro, igual＿pudimos encontrarnos.」"
+
+msgid "Sakura「More importantly, I thought something＿might have happened to you.」"
+msgstr "Sakura「Sobre todo, pensé que podría＿haberte pasado algo.」"
+
+msgid "Kota「I'm really sorry. I was on the way here＿when it happened.」"
+msgstr "Kota「Lo siento mucho. Venía de camino＿hacia acá cuando pasó.」"
+
+msgid "Sakura「When what happened? What's wrong?」"
+msgstr "Sakura「¿Cuando pasó qué? ¿Qué ocurre?」"
+
+msgid "Kota「No, it's not important. I met with Lady＿Luck and she mugged me, so to＿speak......」"
+msgstr "Kota「No, no es importante. Me topé con＿la Dama de la Fortuna y me asaltó,＿por así decirlo......」"
+
+msgid "Sakura「Mugged? So something did happen!」"
+msgstr "Sakura「¿Te asaltó? ¡Entonces sí te pasó algo!」"
+
+msgid "Kota「But it's really nothing to worry about. I＿just bumped into the wrong person.」"
+msgstr "Kota「Pero en serio no hay de qué＿preocuparse. Solo me topé con＿la persona equivocada.」"
+
+msgid "Sakura「A b-bad person? God, that's scary!」"
+msgstr "Sakura「¿U-Una mala persona? ¡Dios, qué miedo!」"
+
+msgid "Kota「Aah, sorry, I didn't mean to scare you.＿But see, I'm not hurt, am I?」"
+msgstr "Kota「Aah, perdón, no quería asustarte. Pero＿mira, no estoy herido, ¿verdad?」"
+
+msgid "Sakura「N-no......」"
+msgstr "Sakura「N-no......」"
+
+msgid "Kota「He tried to pressure me for money, but＿I stayed strong and he was all like＿\"Fine, I give up.\"」"
+msgstr "Kota「Intentó presionarme para sacarme dinero,＿pero me mantuve firme y me dijo algo＿como \"Está bien, me rindo\".」"
+
+msgid "Sakura「I see. But still, that was dangerous!」"
+msgstr "Sakura「Ya veo. ¡Pero aun así, fue peligroso!」"
+
+msgid "Kota「Yeah, maybe.」"
+msgstr "Kota「Sí, tal vez.」"
+
+msgid "Sakura「Well, standing up to scary people...... If＿you screwed up, you could have been＿stabbed, or something worse......」"
+msgstr "Sakura「Bueno, enfrentarte a gente＿peligrosa...... Si fallabas, podrían＿haberte apuñalado, o algo peor......」"
+
+msgid "Kota「I said I'm fine. Besides......」"
+msgstr "Kota「Ya te dije que estoy bien. Además......」"
+
+msgid "Sakura「Besides?」"
+msgstr "Sakura「¿Además?」"
+
+msgid "Kota「If that ever happens when I'm with＿you...... Yeah, I think I'll need to be even＿more assertive.」"
+msgstr "Kota「Si eso llega a pasar cuando esté＿contigo...... Sí, creo que tendré＿que ser aún más firme.」"
+
+msgid "Sakura「Kota-kun...... Kota-kuuun～......」"
+msgstr "Sakura「Kota-kun...... Kota-kuuun～......」"
+
+msgid "Kota「W-What's wrong, Sakura-chan?」"
+msgstr "Kota「¿Q-Qué pasa, Sakura-chan?」"
+
+msgid "Sakura「......Ehehe! Oh, nothing～」"
+msgstr "Sakura「......¡Jejeje! Oh, nada～」"
+
+msgid "Kota「Whaaat? No secrets allowed!」"
+msgstr "Kota「¿Quéee? ¡Nada de secretos!」"
+
+msgid "Sakura「I'm not hiding anythiiing.」"
+msgstr "Sakura「No estoy ocultando nadaaa.」"
+
+msgid "Kota「Oh, you～」"
+msgstr "Kota「Ay, tú～」"
+
+msgid "Sakura「Ehehe～」"
+msgstr "Sakura「Jejeje～」"
+
+msgid "Kota「Ufufufu～☆」"
+msgstr "Kota「Ufufufu～☆」"
+
+msgid "Sakura「Ahaha～①」"
+msgstr "Sakura「Ajaja～①」"
+
+msgid "Ryuuji「（S-Somehow I've become a crazy＿villain......）」"
+msgstr "Ryuuji「（D-De alguna forma me convertí en＿un villano desquiciado......）」"
+
+msgid "Ryuuji「（Should I tidy up a bit?）」"
+msgstr "Ryuuji「（¿Debería limpiar un poco?）」"
+
+msgid "Leave it"
+msgstr "Dejarlo así"
+
+msgid "Tidy up"
+msgstr "Limpiar"
+
+msgid "Ryuuji「（Nah...... Right now, my top priority is to＿try and regain some memories by＿walking around. I'll tidy up next time.）」"
+msgstr "Ryuuji「（No...... Mi prioridad es recuperar＿recuerdos caminando por ahí. Limpiaré＿la próxima vez.）」"
+
+msgid "Ryuuji「（Alright! I'll make it spotless!）」"
+msgstr "Ryuuji「（¡Muy bien! ¡Lo dejaré impecable!）」"
+
+msgid "Ryuuji「（Hmm?）」"
+msgstr "Ryuuji「（¿Hmm?）」"
+
+msgid "Ryuuji「（It's...... coupons for Super＿Kanou-Mart......?）」"
+msgstr "Ryuuji「（¿Son...... cupones para el＿Super Kanou-Mart......?）」"
+
+msgid "Ryuuji「（MOTTAINAI! Pick it up!）」"
+msgstr "Ryuuji「（¡MOTTAINAI! ¡Recógelo!）」"
+
+msgid "Ryuuji「（Hmmm?）」"
+msgstr "Ryuuji「（¿Hmmm?）」"
+
+msgid "Ryuuji「（Guess I'll take this home.）」"
+msgstr "Ryuuji「（Supongo que me llevaré esto a casa.）」"
+
+msgid "Ryuuji「（Couldn't find anything......）」"
+msgstr "Ryuuji「（No pude encontrar nada......）」"
+
+msgid "Ryuuji「（Guess I'll leave it at that.）」"
+msgstr "Ryuuji「（Supongo que lo dejaré así.）」"
+
+msgid "Ryuuji「（......That aside...... Man, there's a lot of＿litter around here.）」"
+msgstr "Ryuuji「（......Dejando eso de lado...... Vaya,＿hay mucha basura tirada por aquí.）」"
+
+msgid "Ryuuji「（To an extent I suppose it's＿unavoidable, since the station square＿is a natural gathering place for people,）」"
+msgstr "Ryuuji「（Hasta cierto punto supongo que es＿inevitable, pues la plaza de la estación＿es un punto de reunión natural,）」"
+
+msgid "Ryuuji「（but still......）」"
+msgstr "Ryuuji「（pero aun así......）」"
+
+msgid "Ryuuji「（I don't remember Super Kanou-Mart＿very clearly, but...... I feel strangely＿happy...... My heart is pounding......）」"
+msgstr "Ryuuji「（No recuerdo bien el Super Kanou-Mart,＿pero...... me siento extrañamente＿feliz...... Me palpita el corazón......）」"
+
+msgid "Ryuuji「（This must be something precious to＿me.）」"
+msgstr "Ryuuji「（Esto debe de ser algo＿muy valioso para mí.）」"
+
+msgid "Ryuuji「（It's an empty can. Honestly, no matter＿who you are or where you're from, it's＿not that hard to take it home.）」"
+msgstr "Ryuuji「（Una lata vacía. Seas quien seas,＿vengas de donde vengas, no cuesta＿tanto llevártela a casa.）」"
+
+msgid "Ryuuji「（Couldn't you throw it away there?）」"
+msgstr "Ryuuji「（¿No podías tirarla allá?）」"

@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+
+msgid "Taiga「Ryuuji, can I stop you?」"
+msgstr "Taiga「Ryuuji, ¿puedo interrumpirte?」"
+
+msgid "Ryuuji「What is it?」"
+msgstr "Ryuuji「¿Qué pasa?」"
+
+msgid "Taiga「I went out of my way to spend time＿with you, and yet all you have to ask is＿this stupid shit?」"
+msgstr "Taiga「Me tomé la molestia de pasar tiempo＿contigo, ¿y lo único que preguntas＿es esta estúpida mierda?」"
+
+msgid "Ryuuji「I wouldn't call it stupid......」"
+msgstr "Ryuuji「Yo no lo llamaría estúpido......」"
+
+msgid "Taiga「Whatever. I'll assume this means the＿holes in your memory have been filled.＿See ya.」"
+msgstr "Taiga「Como sea. Asumiré que esto significa＿que los huecos de tu memoria se＿llenaron. Nos vemos.」"
+
+msgid "Ryuuji「What? You're not going home?」"
+msgstr "Ryuuji「¿Qué? ¿No te vas a casa?」"
+
+msgid "Taiga「I still have shopping to do. Great.＿Thanks to you, I've wasted a bunch of＿time.」"
+msgstr "Taiga「Todavía tengo compras que hacer.＿Genial. Por tu culpa, perdí＿un montón de tiempo.」"
+
+msgid "Ryuuji「（Even when she's not insulting me,＿she's so harsh......）」"
+msgstr "Ryuuji「（Incluso cuando no me está insultando,＿es tan dura......）」"

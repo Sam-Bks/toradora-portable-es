@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+
+msgid "Kota「（GAAAAAHHHH CRAP CRAP CRAP!!）」"
+msgstr "Kota「（¡GAAAAAHHHH, MIERDA, MIERDA, MIERDA!!）」"
+
+msgid "Kota「（No time! No date! NO＿SAKURA-CHANNN!!）」"
+msgstr "Kota「（¡Sin tiempo! ¡Sin cita!＿¡¡SIN SAKURA-CHAAAN!!）」"
+
+msgid "Sumire「No, even at first glance he isn't normal.＿But first, Kitamura, what's with this＿monologue?」"
+msgstr "Sumire「No, ya a simple vista es anormal.＿Pero antes, Kitamura, ¿a qué＿viene este monólogo?」"
+
+msgid "Kitamura「Just a habit of mine. And Prez...... I＿mean, ex-Prez, please don't call me by＿name right now.」"
+msgstr "Kitamura「Es una costumbre mía. Y presi......＿digo, expresi, por favor, no me llame＿por mi nombre ahora.」"
+
+msgid "Sumire「Why not?」"
+msgstr "Sumire「¿Por qué no?」"
+
+msgid "Kitamura「I'm just the narrator. It's not like I'll get＿introduced.」"
+msgstr "Kitamura「Solo soy el narrador. No es＿que vayan a presentarme.」"
+
+msgid "Sumire「Well, that's lame. And here I was＿thinking the two of us could＿\"chaperone\" another of their dates.」"
+msgstr "Sumire「Qué aburrido. Y yo que pensaba que＿podríamos \"vigilar\" otra de sus citas.」"
+
+msgid "Kitamura「While I'd kill to go with you...... May I＿continue?」"
+msgstr "Kitamura「Aunque daría lo que fuera por ir＿con usted...... ¿Puedo seguir?」"
+
+msgid "Sumire「Sure, I don't mind. Narrate to your＿heart's content.」"
+msgstr "Sumire「Claro, adelante. Narra＿todo lo que quieras.」"
+
+msgid "Kitamura「Ahem...... However, unlike the others,＿this boy had a certain special ability!」"
+msgstr "Kitamura「Ejem...... ¡Pero, a diferencia＿de los demás, este chico tenía＿una habilidad especial!」"
+
+msgid "Sumire「You mean his predisposition?」"
+msgstr "Sumire「¿Te refieres a su predisposición?」"
+
+msgid "Kitamura「Excuse me. Yes, he was irrefutably＿\"Misfortune Incarnate\"!」"
+msgstr "Kitamura「Disculpe. ¡Sí, era sin duda la＿\"Mala Suerte en Persona\"!」"
+
+msgid "Kitamura「......Done.」"
+msgstr "Kitamura「......Listo.」"
+
+msgid "Sumire「Good work.」"
+msgstr "Sumire「Buen trabajo.」"
+
+msgid "Kitamura「Now then, please enjoy the game from＿his perspective.」"
+msgstr "Kitamura「Ahora, disfruten el juego＿desde su perspectiva.」"
+
+msgid "Sumire「Indeed.」"
+msgstr "Sumire「Así es.」"
+
+msgid "Kota「（--they would say, because knowing＿them, they'd find all this very funny!!）」"
+msgstr "Kota「（¡¡--dirían ellos, porque conociéndolos,＿todo esto les parecería muy＿gracioso!!）」"
+
+msgid "Kota「............」"
+msgstr "Kota「............」"
+
+msgid "Kota「NOOOOO WAYYYYYYY!!」"
+msgstr "Kota「¡¡NO PUEDE SEEEEEER!!」"
+
+msgid "Kitamura「Allow me to explain! This is Tomiie＿Kota. A first-year student at Oohashi＿High School, Kota is a student council」"
+msgstr "Kitamura「¡Les explico! Tomiie Kota va a primero＿en la preparatoria Oohashi y en el＿consejo estudiantil es」"
+
+msgid "Kitamura「member and, at first glance, just a＿normal boy.」"
+msgstr "Kitamura「miembro y, a simple vista,＿un chico normal.」"
+
+msgid "Kitamura「Whenever he's looking forward to an＿important event, and some sort of＿good fortune befalls him, he will then」"
+msgstr "Kitamura「Siempre que espera con ilusión＿un evento importante y le ocurre＿algo bueno, luego」"
+
+msgid "Kitamura「suffer twice as much misfortune＿without fail!」"
+msgstr "Kitamura「¡sufre el doble de mala＿suerte sin falta!」"
+
+msgid "Kota「（I thought something was off...... It was a＿date! To buy swimsuits and giggle in＿the middle of winter! \"There's no way）」"
+msgstr "Kota「（¡Creí que algo iba mal......! ¡Era una＿cita! ¡Para comprar trajes de baño y＿reírnos en pleno invierno! \"¡Nada）」"
+
+msgid "Kota「（this could go wrong!\" they said!）」"
+msgstr "Kota「（puede salir mal!\", ¡decían!）」"
+
+msgid "Kota「（......I found my lost wallet safely in the＿student council room, and then I＿happened to be the keyholder, so was I）」"
+msgstr "Kota「（......Encontré mi billetera a salvo＿en el salón del consejo y resultó que＿tenía la llave, así que ¿tuve）」"
+
+msgid "Kota「（a little too lucky? Is that the cause?）」"
+msgstr "Kota「（demasiada suerte? ¿Es por eso?）」"
+
+msgid "Kota「（I overslept way too late! I rushed out of＿the house with a bedhead afro! And as＿a bonus, I forgot my cell phone at）」"
+msgstr "Kota「（¡Me quedé dormido! ¡Salí corriendo＿con el pelo hecho un afro! ¡Y para＿colmo, olvidé mi teléfono en）」"
+
+msgid "Kota「（home! AAAAAAHHH BAAAAD＿LUUUUCK!）」"
+msgstr "Kota「（casa! ¡AAAAAAHHH, MAAAALA SUERTEEEE!）」"

@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+
+msgid "Taiga「*Sigh* I'm thirsty from all this talking.＿Ryuuji, make some tea. Apple tea,＿okay?」"
+msgstr "Taiga「*Suspiro* Tengo sed de tanto hablar.＿Ryuuji, prepara té. Té de manzana, ¿sí?」"
+
+msgid "Ryuuji「I still have things I want to ask you......」"
+msgstr "Ryuuji「Todavía tengo cosas que＿preguntarte......」"
+
+msgid "Taiga「I'm at my limit. Actually, forget about＿the apple tea. I'm gonna go buy some＿yogurt!」"
+msgstr "Taiga「Estoy al límite. De hecho,＿olvida el té de manzana. ¡Voy＿a ir a comprar yogur!」"
+
+msgid "Ryuuji「There's plenty of yogurt in the fridge.＿Same ol' blueberry flavor.」"
+msgstr "Ryuuji「Hay mucho yogur en el refrigerador. El＿mismo sabor a arándano de siempre.」"
+
+msgid "Taiga「Yay♪」"
+msgstr "Taiga「¡Genial!♪」"
+
+msgid "Ryuuji「Hey Taiga, someone's here.」"
+msgstr "Ryuuji「Oye, Taiga, hay alguien aquí.」"
+
+msgid "Taiga「Answer it, Ryuuji～ It's probably＿StuChi, right? Ah, there's strawberry＿flavor in here too! I'm so torn.」"
+msgstr "Taiga「Atiende tú, Ryuuji～ Seguro es StuChi,＿¿no? ¡Ah, también hay de fresa＿aquí! Qué indecisión.」"
+
+msgid "Ryuuji「I'm coming, I'm coming! Taiga, just pick＿one and drink it.」"
+msgstr "Ryuuji「¡Ya voy, ya voy! Taiga, solo＿elige uno y tómatelo.」"
+
+msgid "Ryuuji「Hello......」"
+msgstr "Ryuuji「Hola......」"
+
+msgid "Ryuuji「Hold on, I'll be right......」"
+msgstr "Ryuuji「Espera, enseguida......」"
+
+msgid "Ami「How soon exactly? 3, 2, 1, time's up!」"
+msgstr "Ami「¿Enseguida cuándo? ¡3, 2, 1, tiempo!」"
+
+msgid "Taiga「Arrrgh, all that yapping is so irritating!＿Ryuuji, shut her up!」"
+msgstr "Taiga「¡Aaagh, todo ese parloteo es tan＿irritante! ¡Ryuuji, cállala!」"
+
+msgid "Ryuuji「Hey, don't squeeze the yogurt or it'll＿spill! Kawashima's waiting for us, so＿let's go.」"
+msgstr "Ryuuji「¡Oye, no aprietes el yogur o se＿va a derramar! Kawashima nos espera,＿así que vámonos.」"
+
+msgid "Taiga「Jeez. I was going to savor it. Good＿grief......」"
+msgstr "Taiga「Caray. Iba a saborearlo.＿Qué fastidio......」"
+
+msgid "Ami「Hey, how many times are you going to＿make me call 201!? Where's Tiger?＿Have you no conscience, making」"
+msgstr "Ami「¡Oye! ¡¿Cuántas veces me harás llamar＿al 201?! ¿Dónde está Tigre? ¡¿No tienes＿conciencia, haciendo que」"
+
+msgid "Ami「Ami-chan stand around in the cold!?」"
+msgstr "Ami「Ami-chan espere parada en el frío?!」"

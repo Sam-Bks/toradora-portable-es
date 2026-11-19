@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+
+msgid "Inko-chan「SLEE, SLEEP, SLEEP」"
+msgstr "Inko-chan「DUE, DUERME, DUERME」"
+
+msgid "Ryuuji「Hmm? Are you saying it's bedtime?」"
+msgstr "Ryuuji「¿Mmm? ¿Dices que es hora de dormir?」"
+
+msgid "Inko-chan「EMPER」"
+msgstr "Inko-chan「EMPER」"
+
+msgid "Inko-chan「......」"
+msgstr "Inko-chan「......」"
+
+msgid "Ryuuji「（Now then...... For now I'll at least＿prepare some space for me to sleep＿in......）」"
+msgstr "Ryuuji「（Bueno...... Por ahora al menos＿haré algo de espacio para poder＿dormir......）」"
+
+msgid "Ryuuji「Emper...... Ember? That's quite a big＿word...... *Gasp*! Did you mean＿emperor? Like Nero or something,」"
+msgstr "Ryuuji「Emper...... ¿Empedernido? Qué palabra＿tan rebuscada...... ¡Ah! ¿Emperador?＿¡¿Como Nerón o algo así,」"
+
+msgid "Ryuuji「Inko-chan!?」"
+msgstr "Ryuuji「Inko-chan!?」"
+
+msgid "Ryuuji「......Hmm, even \"ember\" is great for your＿vocabulary. You must have worn＿yourself out thinking about that」"
+msgstr "Ryuuji「......Mmm, hasta \"empedernido\" es mucho＿para tu vocabulario. Seguro te agotaste＿pensando en esas cosas」"
+
+msgid "Ryuuji「complicated stuff. Good night,＿Inko-chan.」"
+msgstr "Ryuuji「tan complicadas. Buenas＿noches, Inko-chan.」"

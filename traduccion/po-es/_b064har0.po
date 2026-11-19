@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+
+msgid "Haruta「Taka-chaaan! Yoo-hooey!」"
+msgstr "Haruta「¡Taka-chaaan! ¡Yujuuu!」"
+
+msgid "Ryuuji「Yo, Haruta. You came too, eh?」"
+msgstr "Ryuuji「Hola, Haruta. ¿Tú también viniste?」"
+
+msgid "Haruta「I'm sure lookin' forward to this haunted＿house～!」"
+msgstr "Haruta「¡Qué ganas tengo de ir a＿esa casa embrujada～!」"
+
+msgid "Ryuuji「It's a test of courage.」"
+msgstr "Ryuuji「Es una prueba de valor.」"
+
+msgid "Ryuuji「H-Haruta, you moron!! D-Don't say that＿in public!!」"
+msgstr "Ryuuji「¡H-Haruta, idiota!! ¡N-No＿digas eso en público!!」"
+
+msgid "Haruta「That huuurt～ Taka-chan, you ain't＿gotta shove me so hard, dude!」"
+msgstr "Haruta「Eso dolióoo～ Taka-chan, ¡no tenías＿que empujarme tan fuerte, amigo!」"
+
+msgid "Ryuuji「You're the one running your mouth!＿What do you even think a test of＿courage is!?」"
+msgstr "Ryuuji「¡Tú eres el que anda hablando＿de más! ¡¿Qué demonios crees que＿es una prueba de valor?!」"
+
+msgid "Haruta「Wha～? It's, like, y'know......」"
+msgstr "Haruta「¿Quéee～? Pues, o sea, ya sabes......」"
+
+msgid "Haruta「Right?」"
+msgstr "Haruta「¿Verdad?」"
+
+msgid "Ryuuji「Wrong! I can understand how you＿could get that idea, but I take issue＿with some of your little details!」"
+msgstr "Ryuuji「¡Te equivocas! Entiendo cómo llegaste＿a esa idea, ¡pero tengo objeciones con＿algunos de tus detallitos!」"
+
+msgid "Haruta「Whaaa? For reals? Which ones? Which＿part?」"
+msgstr "Haruta「¿Quéee? ¿En serio? ¿Cuáles? ¿Qué parte?」"
+
+msgid "Ryuuji「Either that person goes alone, or they＿join one of the pairs.」"
+msgstr "Ryuuji「O esa persona va sola, o se＿une a una de las parejas.」"
+
+msgid "Haruta「But hey, there's still a chance I'll be＿paired with a girl, right? I'll do my best!＿No worries!」"
+msgstr "Haruta「Pero oye, aún es posible que me toque＿con una chica, ¿no? ¡Daré lo mejor＿de mí! ¡No te preocupes!」"
+
+msgid "Haruta「Whaa～? They won't?」"
+msgstr "Haruta「¿Quéee～? ¿No lo harán?」"
+
+msgid "Ryuuji「Uh, you're one to talk.」"
+msgstr "Ryuuji「Eh, mira quién habla.」"
+
+msgid "Ryuuji「Wow, Taiga's going to kill you.」"
+msgstr "Ryuuji「Vaya, Taiga te va a matar.」"
+
+msgid "Haruta「Whaaa～ But it's the truth. So, that＿leaves Ami-chan, eh?」"
+msgstr "Haruta「¡Quéee～! Pero es la verdad. Así＿que solo queda Ami-chan, ¿eh?」"
+
+msgid "Ryuuji「Kawashima might get scared, but I＿can't imagine she'd cling to anyone.」"
+msgstr "Ryuuji「Puede que Kawashima se asuste, pero no＿me la imagino aferrándose a nadie.」"
+
+msgid "Ryuuji「（Knowing her, she might pretend to be＿scared, but there's no way in hell she'll＿throw herself on anyone.）」"
+msgstr "Ryuuji「（Conociéndola, quizá finja estar＿asustada, pero ni de broma se va＿a lanzar encima de nadie.）」"
+
+msgid "Haruta「Aww man～ Then what the heck is＿there to look forward to～?」"
+msgstr "Haruta「Ay, vamos～ Entonces, ¿qué rayos＿hay de emocionante en esto～?」"
+
+msgid "Ryuuji「Uh, did you forget that the whole＿reason we're doing this is to see a＿ghost?」"
+msgstr "Ryuuji「Eh, ¿olvidaste que la razón por la que＿hacemos esto es para ver un fantasma?」"
+
+msgid "Haruta「Ghooooost～??? Oh～!」"
+msgstr "Haruta「¿¿¿Fantaaaasma～??? ¡Oh～!」"
+
+msgid "Ryuuji「What?」"
+msgstr "Ryuuji「¿Qué?」"
+
+msgid "Haruta「Ya know, I've heard that ghost-girls are＿total hotties～! I'm gonna go for them＿instead!!」"
+msgstr "Haruta「Sabes, ¡oí que las chicas fantasma＿son unas bellezas～! ¡¡Mejor＿iré por ellas!!」"
+
+msgid "Ryuuji「Go for them how?」"
+msgstr "Ryuuji「¿Ir por ellas cómo?」"
+
+msgid "Haruta「WOOHOO! I've got my motivation back!!＿C'mon, let's get going!!」"
+msgstr "Haruta「¡YUJUUU! ¡Ya recuperé la motivación!!＿¡¡Vamos, pongámonos en marcha!!」"
+
+msgid "Ryuuji「......So wrong on so many levels.」"
+msgstr "Ryuuji「......Eso está mal en tantos sentidos.」"
+
+msgid "Haruta「Taka-chan, hurry up!!」"
+msgstr "Haruta「¡¡Taka-chan, date prisa!!」"
+
+msgid "Ryuuji「Alright, I'm coming.」"
+msgstr "Ryuuji「Está bien, ya voy.」"
+
+msgid "Haruta「Yeah, a test of courage! Gotta say, I＿wasn't too sure about goin' to this part＿of town. But if there's a chance I might」"
+msgstr "Haruta「¡Sí, una prueba de valor! No estaba muy＿seguro de venir a esta zona. Pero si＿tengo la posibilidad de」"
+
+msgid "Haruta「get la......」"
+msgstr "Haruta「tener se......」"
+
+msgid "Haruta「When ya do a test of courage, ya go in＿boy-girl pairs down a scaaary path～＿When ya hear a noise, the girl goes」"
+msgstr "Haruta「En una prueba de valor, vas en pareja＿chico-chica por un camino aterradooor～＿Cuando se oye un ruido, la chica hace」"
+
+msgid "Haruta「\"Kyaa～!\" When she grabs ya she＿presses the boing-boings up against＿your arm, and then YOU HAVE」"
+msgstr "Haruta「\"¡Kyaa～!\" Al agarrarte, te aprieta＿los melones contra el brazo,＿y entonces ¡¡HAS」"
+
+msgid "Haruta「AWOKEN!! That kind of thing.」"
+msgstr "Haruta「DESPERTADO!! Ese tipo de cosas.」"
+
+msgid "Ryuuji「First of all...... Well, it's not for certain＿we'll be in boy-girl pairs. I'm pretty＿sure Kitamura said he also invited」"
+msgstr "Ryuuji「Primero...... No es seguro＿que vayamos chico-chica. Creo＿que Kitamura también invitó a」"
+
+msgid "Ryuuji「Noto......」"
+msgstr "Ryuuji「Noto......」"
+
+msgid "Ryuuji「There's 4 guys: Kitamura, Noto, you,＿and me. But there's only 3 girls: Taiga,＿Kushieda, and Kawashima. Even if we」"
+msgstr "Ryuuji「Somos 4 chicos: Kitamura, Noto, tú y yo.＿Pero solo 3 chicas: Taiga, Kushieda y＿Kawashima. Aunque nos」"
+
+msgid "Ryuuji「paired off, there's an odd man out.」"
+msgstr "Ryuuji「emparejáramos, alguien sobraría.」"
+
+msgid "Ryuuji「Do your best HOW? And more＿importantly, about the girl going＿\"Kyaa～!\" I don't think any of the girls」"
+msgstr "Ryuuji「¿Lo mejor CÓMO? Y, sobre todo,＿eso de que la chica diga＿\"¡Kyaa～!\": no creo que ninguna」"
+
+msgid "Ryuuji「will make a sound like that.」"
+msgstr "Ryuuji「haga un sonido así.」"
+
+msgid "Haruta「Hmm～ Maybe you're right. Kushieda＿wouldn't go \"Kyaa～!\" She'd probably go＿\"Eeeegh!\" Like, where's her sex」"
+msgstr "Haruta「Mmm～ Quizá tengas razón. Kushieda no＿diría \"¡Kyaa～!\". Seguro diría \"¡Aaagh!\".＿¿Y su atractivo」"
+
+msgid "Haruta「appeal～?」"
+msgstr "Haruta「sexual～?」"
+
+msgid "Haruta「Tiger would probably start a fight with＿the ghost～ And even if she grabs my＿arm, she doesn't have boing-boings」"
+msgstr "Haruta「Seguro Tigre se pondría a pelear＿con el fantasma～ Y aunque me agarre＿del brazo, ni tiene melones」"
+
+msgid "Haruta「anyways～」"
+msgstr "Haruta「de todos modos～」"

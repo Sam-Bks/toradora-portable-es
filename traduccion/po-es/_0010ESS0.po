@@ -1,0 +1,356 @@
+msgid ""
+msgstr ""
+
+msgid "Yacchan「We're hereee～」"
+msgstr "Yacchan「Ya llegamooos～」"
+
+msgid "Ryuuji「Uh...... Where are we?」"
+msgstr "Ryuuji「Eh...... ¿Dónde estamos?」"
+
+msgid "Yacchan「This is our home, Ryuu-chan～☆」"
+msgstr "Yacchan「Esta es nuestra casa, Ryuu-chan～☆」"
+
+msgid "Ryuuji「......Oh.」"
+msgstr "Ryuuji「......Ah.」"
+
+msgid "Ryuuji「（......In other words, I live with this＿person?）」"
+msgstr "Ryuuji「（......En otras palabras,＿¿vivo con esta persona?）」"
+
+msgid "Yacchan「This is the first time you've been home＿in a week 一 do you remember＿anythinggg～?」"
+msgstr "Yacchan「Es la primera vez que estás en casa en＿una semana 一 ¿recuerdas algooo～?」"
+
+msgid "Ryuuji「No...... Everything still feels foreign to＿me. Err...... Sorry, I guess.」"
+msgstr "Ryuuji「No...... Todo me sigue resultando ajeno.＿Ehm...... Lo siento, supongo.」"
+
+msgid "Ryuuji「Okay.」"
+msgstr "Ryuuji「Está bien.」"
+
+msgid "Ryuuji「（This is...... my home......?）」"
+msgstr "Ryuuji「（¿Esta es...... mi casa......?）」"
+
+msgid "Ryuuji「（......Why do I feel so...... restless?）」"
+msgstr "Ryuuji「（......¿Por qué tanta...... inquietud?）」"
+
+msgid "Yacchan「What's wronggg? You should be more＿relaxed in your own houseee～ Here,＿sit, sittt～」"
+msgstr "Yacchan「¿Qué pasaaa? Deberías estar más＿relajado en tu propia casaaa～ Ven,＿siéntate, siéntateee～」"
+
+msgid "Ryuuji「Oh, it's just, well, how do I put it......」"
+msgstr "Ryuuji「Ah, es que, bueno, cómo decirlo......」"
+
+msgid "Yacchan「Hmmm?」"
+msgstr "Yacchan「¿Hmmm?」"
+
+msgid "Ryuuji「It's like...... like an urge is rising, as if＿from the depths of my being......」"
+msgstr "Ryuuji「Es como...... un impulso que surge desde＿lo más profundo de mi ser......」"
+
+msgid "Yacchan「Ooh, what is it?」"
+msgstr "Yacchan「Oh, ¿qué es?」"
+
+msgid "Ryuuji「......Well, I'm not sure. Whatever it is, it's＿making me uncomfortable.」"
+msgstr "Ryuuji「......Bueno, no estoy seguro. Sea lo＿que sea, me hace sentir incómodo.」"
+
+msgid "Yacchan「No wayyy...... But it's our love nesttt～!」"
+msgstr "Yacchan「Nooo...... ¡Es nuestro nido de amooor～!」"
+
+msgid "Ryuuji「Love nest?! Wait, um, don't cry, please＿don't cry!」"
+msgstr "Ryuuji「¡¿Nido de amor?! Espera, eh, no＿llores, ¡por favor no llores!」"
+
+msgid "Ryuuji「Yacchan, why are you blaming＿yourself?」"
+msgstr "Ryuuji「Yacchan, ¿por qué te echas la culpa?」"
+
+msgid "Yacchan「Nooo～ You gotta say Yasuko～」"
+msgstr "Yacchan「Nooo～ Tienes que decir Yasuko～」"
+
+msgid "Ryuuji「......Okay 一 why is it your fault, Yasuko?」"
+msgstr "Ryuuji「......Ya 一 ¿por qué es tu culpa, Yasuko?」"
+
+msgid "Yasuko「Yup...... *Sniffle*...... You're a top-notch＿househusbanddd～」"
+msgstr "Yasuko「Síí...... *Snif*...... Eres un＿amo de casa de primeraaa～」"
+
+msgid "Ryuuji「T-Top notch......? I see. Maybe that's＿what's making me so restless.」"
+msgstr "Ryuuji「¿D-De primera......? Ya veo. Tal vez eso＿es lo que me tiene tan inquieto.」"
+
+msgid "Yasuko「Huh～? Why～?」"
+msgstr "Yasuko「¿Eh～? ¿Por qué～?」"
+
+msgid "Ryuuji「Must be subconscious. I might feel＿better if I just tidy up a little.」"
+msgstr "Ryuuji「Debe ser el subconsciente. Quizá me＿sienta mejor si ordeno un poco.」"
+
+msgid "Ryuuji「I've been away from home for nearly a＿week, so there's no getting around it.」"
+msgstr "Ryuuji「He estado fuera de casa casi una＿semana, así que es inevitable.」"
+
+msgid "Yasuko「Ohhh...... Ehehe♪」"
+msgstr "Yasuko「Ohhh...... Jejeje♪」"
+
+msgid "Ryuuji「W-What is it this time?」"
+msgstr "Ryuuji「¿Q-Qué pasa esta vez?」"
+
+msgid "Yasuko「Yacchan was thinking \"Yay,＿Ryuu-chan's back\"～ Yacchan's so＿happy, gansu☆」"
+msgstr "Yasuko「Yacchan estaba pensando \"¡Bien,＿Ryuu-chan volvió!\"～ Yacchan está＿muy feliz, gansu☆」"
+
+msgid "Ryuuji「\"G-Gansu\"?」"
+msgstr "Ryuuji「¿\"G-Gansu\"?」"
+
+msgid "Yasuko「Once again, welcome home,＿Ryuu-chan☆」"
+msgstr "Yasuko「Una vez más, bienvenido＿a casa, Ryuu-chan☆」"
+
+msgid "Ryuuji「Oh, er, right...... Good to be home.」"
+msgstr "Ryuuji「Ah, eh, sí...... Qué bien estar en casa.」"
+
+msgid "Ryuuji「（From what I gather, it seems I've been＿taking care of Yasuko......）」"
+msgstr "Ryuuji「（Por lo que veo, parece que yo he＿estado cuidando de Yasuko......）」"
+
+msgid "Ryuuji「......Er, it's a little late to ask this, but......＿What am I to you?」"
+msgstr "Ryuuji「......Ehm, es algo tarde para＿preguntar esto, pero......＿¿Qué soy yo para ti?」"
+
+msgid "Yasuko「Whaaa～? Ryuu-chan belongs to＿Yacchannn～」"
+msgstr "Yasuko「¿Quééé～? Ryuu-chan le pertenece＿a Yacchannn～」"
+
+msgid "Ryuuji「I see...... Wait, that doesn't answer my＿question!」"
+msgstr "Ryuuji「Ya veo...... ¡Espera, eso no＿responde a mi pregunta!」"
+
+msgid "Yasuko「Whaaa～? In that caseee...... Ummm～＿Ummm～」"
+msgstr "Yasuko「¿Quééé～? En ese casooo...... Mmmm～ Mmmm～」"
+
+msgid "Ryuuji「I don't think it's a hard question......」"
+msgstr "Ryuuji「No parece una pregunta difícil......」"
+
+msgid "Yasuko「Oh, that's it! Ryuu-chan is, umm,＿Yacchan's very, VERY important＿treasureee～!」"
+msgstr "Yasuko「¡Ah, ya sé! ¡Ryuu-chan es,＿mmm, un tesoro muy, MUY importante＿para Yacchannn～!」"
+
+msgid "Ryuuji「......I, I see. Okay, thanks.」"
+msgstr "Ryuuji「......Y-Ya veo. Está bien, gracias.」"
+
+msgid "Yasuko「Heehee☆」"
+msgstr "Yasuko「Jijiji☆」"
+
+msgid "Ryuuji「（......What kind of person am I?）」"
+msgstr "Ryuuji「（......¿Qué clase de persona soy?）」"
+
+msgid "Ryuuji「Uh...... O-Okay.」"
+msgstr "Ryuuji「Eh...... E-Está bien.」"
+
+msgid "Ryuuji「*Sigh*...... Well, for now I guess I should＿do some cleaning...... Ohh, what's this!?」"
+msgstr "Ryuuji「*Suspiro*...... Por ahora debería＿limpiar...... ¡¿Eh, qué es esto?!」"
+
+msgid "Ryuuji「（There's a huge stock of pencils＿wrapped in gauze and secured with＿rubber bands......）」"
+msgstr "Ryuuji「（Hay una gran reserva de lápices＿envueltos en gasa y sujetos con＿bandas elásticas......）」"
+
+msgid "Ryuuji「（......*Gasp*!）」"
+msgstr "Ryuuji「（......¡Ah!）」"
+
+msgid "Ryuuji「（A memory came rushing back! These＿are my cleaning supplies!）」"
+msgstr "Ryuuji「（¡Volvió un recuerdo! ¡Son mis＿utensilios de limpieza!）」"
+
+msgid "Ryuuji「MOTTAINAI......」"
+msgstr "Ryuuji「MOTTAINAI......」"
+
+msgid "Ryuuji「......Wha--! What did I just say!?」"
+msgstr "Ryuuji「......¡¿Qué--?! ¡¿Qué acabo de decir?!」"
+
+msgid "Ryuuji「MOTTAINAI! Pick it up!」"
+msgstr "Ryuuji「¡MOTTAINAI! ¡Recógelo!」"
+
+msgid "Ryuuji「Ohh!?」"
+msgstr "Ryuuji「¡¿Ehh?!」"
+
+msgid "Ryuuji「（What is it this time? This......＿bloodthirsty feeling!）」"
+msgstr "Ryuuji「（¿Qué pasa esta vez? ¡Esta......＿sensación sedienta de sangre!）」"
+
+msgid "Ryuuji「（The itchy feeling from earlier has＿gotten more intense...... Why!? As if......＿I'm compelled!）」"
+msgstr "Ryuuji「（La inquietud de antes es más＿intensa...... ¡¿Por qué?! ¡Como＿si...... me viera obligado!）」"
+
+msgid "Ryuuji「（T-Time to CLEANNNN!!）」"
+msgstr "Ryuuji「（¡¡E-Es hora de LIMPIAAAR!!）」"
+
+msgid "Ryuuji「（......Alright! I've decided!）」"
+msgstr "Ryuuji「（......¡Muy bien! ¡Lo he decidido!）」"
+
+msgid "Ryuuji「（I'll clean the room with this rod!）」"
+msgstr "Ryuuji「（¡Limpiaré el cuarto con este bastón!）」"
+
+msgid "Ryuuji「（Hmm? This mysterious covered＿object......!）」"
+msgstr "Ryuuji「（¿Hmm? ¡Este misterioso objeto＿cubierto......!）」"
+
+msgid "Ryuuji「（Alright, I'll take the cover off.）」"
+msgstr "Ryuuji「（Muy bien, le quitaré la cubierta.）」"
+
+msgid "Ryuuji「O-Ohh!?」"
+msgstr "Ryuuji「¡¿E-Ehh?!」"
+
+msgid "Ryuuji「（Is this...... a sleeping bird!? What a＿creepy expression!）」"
+msgstr "Ryuuji「（¡¿Es...... un pájaro dormido?!＿¡Qué cara tan escalofriante!）」"
+
+msgid "Ryuuji「（Oh, it woke up.）」"
+msgstr "Ryuuji「（Ah, se despertó.）」"
+
+msgid "Bird?「MO......」"
+msgstr "Pájaro?「BUE......」"
+
+msgid "Ryuuji「Mo......?」"
+msgstr "Ryuuji「¿Bue......?」"
+
+msgid "Bird?「MOR......」"
+msgstr "Pájaro?「BUEN......」"
+
+msgid "Ryuuji「Mor......?」"
+msgstr "Ryuuji「¿Buen......?」"
+
+msgid "Bird?「MO, MOR, MORN, MORN」"
+msgstr "Pájaro?「BUE, BUEN, BUENOS, BUENOS」"
+
+msgid "Ryuuji「O-Oh.」"
+msgstr "Ryuuji「A-Ah.」"
+
+msgid "Bird?「GOOD MORNING!」"
+msgstr "Pájaro?「¡BUENOS DÍAS!」"
+
+msgid "Ryuuji「......Oh!」"
+msgstr "Ryuuji「......¡Ah!」"
+
+msgid "Ryuuji「（This bird looks so ugly at first＿glance...... but it's actually kinda cute!）」"
+msgstr "Ryuuji「（A simple vista es un pájaro muy＿feo...... ¡pero en realidad es lindo!）」"
+
+msgid "Ryuuji「（Apparently, this is our pet... From the＿looks of it...... not a ghost...... not a＿monster...... A parakeet?）」"
+msgstr "Ryuuji「（Al parecer, es nuestra mascota... Por＿su aspecto...... no es un fantasma......＿ni un monstruo...... ¿Un periquito?）」"
+
+msgid "Ryuuji「（Maybe it knows how to say some other＿stuff. I'll play with it later.）」"
+msgstr "Ryuuji「（Quizá sepa decir más cosas.＿Jugaré con él más tarde.）」"
+
+msgid "Ryuuji「（Hmm?）」"
+msgstr "Ryuuji「（¿Hmm?）」"
+
+msgid "Ryuuji「（MOTTAINAI! Pick it up!）」"
+msgstr "Ryuuji「（¡MOTTAINAI! ¡Recógelo!）」"
+
+msgid "Ryuuji「（Couldn't find anything......）」"
+msgstr "Ryuuji「（No pude encontrar nada......）」"
+
+msgid "Ryuuji「（No...... I have yet to see the rod's true＿power! I can't give up now! Gotta keep＿on cleaning!）」"
+msgstr "Ryuuji「（¡No...... aún me falta ver el verdadero＿poder del bastón! ¡No puedo rendirme!＿¡Debo seguir limpiando!）」"
+
+msgid "Ryuuji「（This thing is quite useful. I shall name＿it the Takasu Rod!）」"
+msgstr "Ryuuji「（Esta cosa es bastante útil. ¡La＿llamaré el Bastón Takasu!）」"
+
+msgid "Ryuuji「（At this rate, should I go ahead and do＿the kitchen too? Or should I leave it be＿and have a look around outside?）」"
+msgstr "Ryuuji「（A este paso, ¿debería limpiar también＿la cocina? ¿O mejor lo dejo así y voy＿a dar un vistazo afuera?）」"
+
+msgid "Go out"
+msgstr "Salir"
+
+msgid "Clean the kitchen"
+msgstr "Limpiar la cocina"
+
+msgid "Ryuuji「（......Nah, the house should be good for＿now. More importantly, I should try to＿do something about my amnesia.）」"
+msgstr "Ryuuji「（......No, la casa ya está bien por＿ahora. Más importante aún, debería＿intentar hacer algo con mi amnesia.）」"
+
+msgid "Ryuuji「（......That's it. I'll take a little walk around＿the block. Maybe I'll find an＿opportunity to regain some memories.）」"
+msgstr "Ryuuji「（......Eso es. Daré una pequeña vuelta＿a la manzana. Tal vez tenga oportunidad＿de recuperar algún recuerdo.）」"
+
+msgid "Ryuuji「（Alright, I'm going to clean the kitchen＿too!）」"
+msgstr "Ryuuji「（¡Muy bien, voy a limpiar＿la cocina también!）」"
+
+msgid "Ryuuji「（Now, where should I start......?）」"
+msgstr "Ryuuji「（¿Por dónde empiezo ahora......?）」"
+
+msgid "Ryuuji「（Hmm?）」"
+msgstr "Ryuuji「（¿Hmm?）」"
+
+msgid "Ryuuji「（This is......! The most basic of cooking＿tools, the dish drainer!）」"
+msgstr "Ryuuji「（¡Esto es......! ¡El utensilio＿de cocina más básico, el escurridor＿de platos!）」"
+
+msgid "Ryuuji「（MOTTAINAI! Pick it up!）」"
+msgstr "Ryuuji「（¡MOTTAINAI! ¡Recógelo!）」"
+
+msgid "Ryuuji「（Hmm?）」"
+msgstr "Ryuuji「（¿Hmm?）」"
+
+msgid "Ryuuji「（This is......! A deep frying pan, good for＿frying, grilling, and even the occasional＿simmering!）」"
+msgstr "Ryuuji「（¡Esto es......! ¡Una sartén honda＿para freír, asar e incluso guisar＿de vez en cuando!）」"
+
+msgid "Ryuuji「（MOTTAINAI! Pick it up!）」"
+msgstr "Ryuuji「（¡MOTTAINAI! ¡Recógelo!）」"
+
+msgid "Ryuuji「（Couldn't find anything......）」"
+msgstr "Ryuuji「（No pude encontrar nada......）」"
+
+msgid "Ryuuji「（Alright...... I'm going to leave it here for＿today. It's time for me to do something＿about my amnesia.）」"
+msgstr "Ryuuji「（Muy bien...... Lo dejaré hasta＿aquí por hoy. Es hora de que haga＿algo con mi amnesia.）」"
+
+msgid "Ryuuji「（......That's it. I'll take a little walk around＿the block. Maybe I'll find an＿opportunity to regain some memories.）」"
+msgstr "Ryuuji「（......Eso es. Daré una pequeña vuelta＿a la manzana. Tal vez tenga oportunidad＿de recuperar algún recuerdo.）」"
+
+msgid "Yacchan「Oh, it's okay, you don't need to＿apologizeee. Take your time and＿everything will come back to you little」"
+msgstr "Yacchan「Ah, está bien, no te disculpeees.」"
+
+msgid "Yacchan「by little～」"
+msgstr "Yacchan「Tómate tu tiempo y todo＿volverá poco a poco～」"
+
+msgid "Yacchan「But, but my Ryuu-chan only just came＿homeee～ and now you're not＿comfortableee～ and it's all Yacchan's」"
+msgstr "Yacchan「Pero, pero mi Ryuu-chan acaba de＿volver a casaaa～ y ahora estás＿incómodooo～ y todo es culpa de」"
+
+msgid "Yacchan「faulttt～」"
+msgstr "Yacchan「Yacchannn～」"
+
+msgid "Yasuko「Becauseee～ Yacchan's bad at doing＿houseworkkk～! Can't do it as good as＿Ryuu-channn～!」"
+msgstr "Yasuko「¡Porqueee～ Yacchan es mala con los＿quehacereees～! ¡No le salen tan＿bien como a Ryuu-channn～!」"
+
+msgid "Yasuko「Yacchan isn't fit to be humannn～＿Waaaahhh～～」"
+msgstr "Yasuko「Yacchan no merece ser＿humanaaa～ Buaaaah～～」"
+
+msgid "Ryuuji「Alright! There, there! Please calm＿down! So, what you're saying is, I'm the＿one who does the chores in this」"
+msgstr "Ryuuji「¡Está bien! ¡Ya, ya! ¡Por＿favor, cálmate!」"
+
+msgid "Ryuuji「house?」"
+msgstr "Ryuuji「O sea, ¿yo hago los quehaceres＿de esta casa?」"
+
+msgid "Ryuuji「（......If we're blood-related, we sure don't＿look alike, and she looks to be only a＿little older than me......）」"
+msgstr "Ryuuji「（......Si somos parientes de sangre, no＿nos parecemos en nada, y ella parece＿solo un poco mayor que yo......）」"
+
+msgid "Ryuuji「（Am I really living together with this＿sexy lady?）」"
+msgstr "Ryuuji「（¿De verdad vivo con esta＿mujer tan sexy?）」"
+
+msgid "Yasuko「Oh yeah! Yacchan will go see the＿landlady for a bit.」"
+msgstr "Yasuko「¡Ah, sí! Yacchan irá a ver＿a la casera un momento.」"
+
+msgid "Yasuko「She was super worried about you, so＿we gotta tell her you're back from the＿hospitalll～」"
+msgstr "Yasuko「Estaba súper preocupada por ti,＿así que hay que decirle que ya＿volviste del hospitaaal～」"
+
+msgid "Ryuuji「（I randomly spoke Japanese...... It just＿came naturally to me...... On top of that,＿for some reason I pictured it in）」"
+msgstr "Ryuuji「（Hablé en japonés de repente......＿Me salió solo...... Además, no sé＿por qué me lo imaginé en）」"
+
+msgid "Ryuuji「（romaji......）」"
+msgstr "Ryuuji「（romaji......）」"
+
+msgid "Ryuuji「（Ohhh...... what is this ecstatic＿euphoria...... this burning sense of＿responsibility......? Just by visualizing）」"
+msgstr "Ryuuji「（Ohhh...... ¿qué es esta euforia＿extática...... este ardiente sentido＿del deber......? Solo con visualizar）」"
+
+msgid "Ryuuji「（those letters......）」"
+msgstr "Ryuuji「（esas letras......）」"
+
+msgid "Ryuuji「（That's it...... That's who I am! This word＿is my motto, my philosophy! The real＿battle has only just begun! It's a fresh）」"
+msgstr "Ryuuji「（Eso es...... ¡Ese soy yo! ¡Es mi lema,＿mi filosofía! ¡La verdadera batalla＿acaba de empezar! ¡Es un nuevo）」"
+
+msgid "Ryuuji「（start!）」"
+msgstr "Ryuuji「（comienzo!）」"
+
+msgid "Ryuuji「（Okay, here I go--!）」"
+msgstr "Ryuuji「（¡Muy bien, allá voy--!）」"
+
+msgid "Ryuuji「（This is......! The best dried seaweed for＿miso soup and seaweed salad, \"FueFue＿WAKAME-tan\"!）」"
+msgstr "Ryuuji「（¡Esto es......! ¡La mejor alga seca＿para sopa de miso y ensalada de algas,＿\"FueFue WAKAME-tan\"!）」"
+
+msgid "Ryuuji「（The whole package has been left out,＿unopened!）」"
+msgstr "Ryuuji「（¡Dejaron todo el paquete＿afuera, sin abrir!）」"
+
+msgid "Ryuuji「（The doctor said that if I revisit old＿hangouts or talk to people I used to＿know...）」"
+msgstr "Ryuuji「（El doctor dijo que si voy a los＿lugares que frecuentaba o hablo＿con gente que conocía...）」"
+
+msgid "Ryuuji「（...my memories will come back to me＿gradually...）」"
+msgstr "Ryuuji「（...mis recuerdos volverán＿a mí poco a poco...）」"
+
+msgid "Ryuuji「（The doctor said that if I revisit old＿hangouts or talk to people I used to＿know...）」"
+msgstr "Ryuuji「（El doctor dijo que si voy a los＿lugares que frecuentaba o hablo＿con gente que conocía...）」"
+
+msgid "Ryuuji「（...My memories should come back to＿me gradually...）」"
+msgstr "Ryuuji「（...Mis recuerdos deberían volver＿a mí poco a poco...）」"

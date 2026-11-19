@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+
+msgid "Minori「Yoo-hoo! Amin, Happy New Year～」"
+msgstr "Minori「¡Yujuu! Amin, ¡Feliz Año Nuevo～!」"
+
+msgid "Ami「............」"
+msgstr "Ami「............」"
+
+msgid "Ryuuji「Yo. Here's to another year together.」"
+msgstr "Ryuuji「Buenas. Por otro año más juntos.」"
+
+msgid "Taiga「............」"
+msgstr "Taiga「............」"
+
+msgid "Ami「Hm? What is it, Takasu-kun? Why do＿you look so surprised?」"
+msgstr "Ami「¿Mm? ¿Qué pasa, Takasu-kun? ¿Por＿qué pones esa cara de sorpresa?」"
+
+msgid "Ami「Ami-chan is this cute, like, every day,＿you know?」"
+msgstr "Ami「Ami-chan es así de linda, o sea,＿todos los días, ¿sabes?」"
+
+msgid "Ryuuji「Well, I just remembered you guys don't＿get along.」"
+msgstr "Ryuuji「Bueno, acabo de recordar que ustedes＿dos no se llevan bien.」"
+
+msgid "Ami「Excuse me? What, you still have＿amnesia? What a pain.」"
+msgstr "Ami「¿Perdón? ¿Qué, todavía tienes＿amnesia? Qué fastidio.」"
+
+msgid "Ryuuji「Gee, sorry. I'm giving it my best effort.」"
+msgstr "Ryuuji「Vaya, perdón. Estoy haciendo＿mi mejor esfuerzo.」"
+
+msgid "Taiga「That's right. Ryuuji's recovering his＿memory in his own way. Even someone＿like him can work hard.」"
+msgstr "Taiga「Así es. Ryuuji está recuperando su＿memoria a su manera. Incluso alguien＿como él puede esforzarse.」"
+
+msgid "Ami「Hmmm.」"
+msgstr "Ami「Mmmm.」"
+
+msgid "Ami「......Takasu-kun, the truth is...... you don't＿want to remember, do you?」"
+msgstr "Ami「......Takasu-kun, la verdad es......＿que no quieres recordar, ¿verdad?」"
+
+msgid "Ryuuji「Huh!?」"
+msgstr "Ryuuji「¡¿Eh?!」"
+
+msgid "Ami「There's no way you got amnesia that＿easily. Isn't it something you only get＿from traumatic experiences?」"
+msgstr "Ami「No hay forma de que te diera amnesia＿así como así. ¿No es algo que solo pasa＿por experiencias traumáticas?」"
+
+msgid "Ami「You wanted to forget something awful.＿You wanted to forget so badly you＿gave up all your memories, right?」"
+msgstr "Ami「Querías olvidar algo horrible. Querías＿olvidar con tantas ganas que dejaste＿ir todos tus recuerdos, ¿no?」"
+
+msgid "Ryuuji「Don't just make stuff up.」"
+msgstr "Ryuuji「No andes inventando cosas.」"
+
+msgid "Ami「Besides, isn't it possible some of us＿want to start over with the clean-slate＿Takasu-kun? Am I right?」"
+msgstr "Ami「Además, ¿no será que algunos quieren＿empezar de cero con un Takasu-kun＿en blanco? ¿Me equivoco?」"
+
+msgid "Ami「Still want to recover your memories＿despite that?」"
+msgstr "Ami「¿Aún quieres recuperar tus＿recuerdos a pesar de eso?」"
+
+msgid "Minori「..................」"
+msgstr "Minori「..................」"
+
+msgid "Ryuuji「......Kawashima, what are you trying to＿say?」"
+msgstr "Ryuuji「......Kawashima, ¿qué intentas decir?」"
+
+msgid "Ami「Whaaat? Like, don't you get it?」"
+msgstr "Ami「¿Quéee? O sea, ¿no lo entiendes?」"
+
+msgid "Taiga「H-Hold it, StuChi!! Stop being weird!＿Keep your stupid ideas to yourself!」"
+msgstr "Taiga「¡E-Espera, StuChi!! ¡Deja de hablar＿raro! ¡Guárdate tus ideas tontas!」"
+
+msgid "Ami「Excuse me!? Aren't you the weird one＿here!?」"
+msgstr "Ami「¡¿Disculpa?! ¡¿No eres tú la rara aquí?!」"
+
+msgid "Taiga「No, it's definitely you! This is the＿problem with washed-up models. All＿that free time makes 'em crazy!」"
+msgstr "Taiga「¡No, sin duda eres tú! Ese es el lío＿con las modelos fracasadas. ¡Tanto＿tiempo libre las vuelve locas!」"
+
+msgid "Ami「What free time!? I'm seriously busy,＿you know!」"
+msgstr "Ami「¡¿Qué tiempo libre?! ¡Estoy muy＿ocupada, para tu información!」"
+
+msgid "Ryuuji「H-Hey, Taiga?」"
+msgstr "Ryuuji「¿O-Oye, Taiga?」"
+
+msgid "Ami「You... YOU STUPID ROTTEN DEMON＿TIGER!! I'll fucking KILL you!!」"
+msgstr "Ami「¡Tú... MALDITA TIGRE DEMONIO ASQUEROSA!!＿¡¡Te voy a MATAR!!」"
+
+msgid "Ami「Tch! You spoiled my good mood!＿Ami-chan's going home!」"
+msgstr "Ami「¡Tch! ¡Me arruinaste el buen humor!＿¡Ami-chan se va a casa!」"
+
+msgid "Taiga「Booooo!!」"
+msgstr "Taiga「¡¡Buuuuu!!」"
+
+msgid "Minori「Hmmm. Looks like \"free time\" is still＿her berserk button. You should tone it＿down, Taiga.」"
+msgstr "Minori「Mmmm. Parece que \"tiempo libre\"＿aún la enfurece. Deberías moderarte＿un poco, Taiga.」"
+
+msgid "Taiga「It's toned enough! Stuff like that really＿grinds my gears!」"
+msgstr "Taiga「¡Ya me moderé bastante! ¡Cosas así＿de verdad me sacan de quicio!」"
+
+msgid "Taiga「Argh, let's just forget about StuChi＿and get going.」"
+msgstr "Taiga「Argh, olvidémonos de StuChi＿y vámonos ya.」"
+
+msgid "Minori「Whoa! You don't gotta drag me! I'm＿walking!」"
+msgstr "Minori「¡Uah! ¡No hace falta que me＿arrastres! ¡Ya camino!」"
+
+msgid "Ryuuji「..................」"
+msgstr "Ryuuji「..................」"
+
+msgid "Taiga「Let's go, Ryuuji!」"
+msgstr "Taiga「¡Vámonos, Ryuuji!」"
+
+msgid "Ryuuji「Y-Yeah!」"
+msgstr "Ryuuji「¡S-Sí!」"
+
+msgid "Ryuuji「（Painful memories, huh......? Like＿Kawashima said, it's certainly possible＿I have some......）」"
+msgstr "Ryuuji「（¿Recuerdos dolorosos, eh......? Como＿dijo Kawashima, sin duda es posible＿que tenga algunos......）」"
+
+msgid "Minori「Gosh, Taiga, why do you look like you＿licked a lemon? The new year's＿greeting is the foundation for the」"
+msgstr "Minori「Cielos, Taiga, ¿por qué tienes cara de＿haber chupado un limón? El saludo de＿Año Nuevo es la base de todo el」"
+
+msgid "Minori「whole year, so cheerful is best. Try it!」"
+msgstr "Minori「año; es mejor estar alegre. ¡Inténtalo!」"
+
+msgid "Taiga「Sorry, Minorin. It's impossible for me.＿Being affected by StuChi's＿uselessness pheromones this early in」"
+msgstr "Taiga「Perdón, Minorin. Me es imposible. Que＿me afecten las feromonas de inutilidad＿de StuChi tan al inicio de」"
+
+msgid "Taiga「the new year makes me feel... Hurkk...」"
+msgstr "Taiga「el año nuevo me hace sentir... Uagh...」"
+
+msgid "Ami「*Siiigh* Good grief. Thinking about＿going to the same school with a big＿baby like you for another year makes」"
+msgstr "Ami「*Suspiiiro* Qué fastidio. Pensar＿en ir a la misma escuela otro año＿con una bebé grandota como tú me da」"
+
+msgid "Ami「me sick.」"
+msgstr "Ami「náuseas.」"
+
+msgid "Ami「Am I? I think it's true, though. Would＿you still want to recover your＿memories if you knew they were」"
+msgstr "Ami「¿Ah, sí? Aunque creo que es＿verdad. ¿Aún querrías recuperar＿tus recuerdos si supieras que son」"
+
+msgid "Ami「painful?」"
+msgstr "Ami「dolorosos?」"
+
+msgid "Taiga「Hmph! I never said YOU had free time,＿lazybones, but if the shoe fits, feel free＿to wear it. Didn't you learn how to」"
+msgstr "Taiga「¡Jum! Nunca dije que TÚ tuvieras tiempo＿libre, vaga. Pero si te das por aludida,＿allá tú. ¿No aprendiste a」"
+
+msgid "Taiga「micromanage back in Modeling 101?」"
+msgstr "Taiga「organizar cada detalle en Modelaje 101?」"
+
+msgid "Taiga「Free time, free time, too much free＿time! Washed up, washed up, washed＿up model! Free time, free time,」"
+msgstr "Taiga「¡Tiempo libre, libre, demasiado tiempo＿libre! ¡Modelo fracasada, fracasada,＿fracasada! ¡Tiempo libre, tiempo libre,」"
+
+msgid "Taiga「FreeChi, let's go!!」"
+msgstr "Taiga「FreeChi, vámonos!!」"

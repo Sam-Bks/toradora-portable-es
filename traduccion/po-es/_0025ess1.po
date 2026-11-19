@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+
+msgid "Inko-chan「HA」"
+msgstr "Inko-chan「FE」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Inko-chan「PINOO」"
+msgstr "Inko-chan「LIZAÑO」"
+
+msgid "Inko-chan「YEER」"
+msgstr "Inko-chan「NUEVO」"
+
+msgid "Ryuuji「Ha - pinoo - yeer...... Happy New Year?」"
+msgstr "Ryuuji「Fe-lizaño-nuevo...... ¿Feliz Año Nuevo?」"
+
+msgid "Inko-chan「GIVE IT TO YOU」"
+msgstr "Inko-chan「TE LO DOY」"
+
+msgid "Ryuuji「（Oh! It's a sunflower seed-- Inko-chan's＿favorite food!）」"
+msgstr "Ryuuji「（¡Ah! ¡Es una semilla de girasol, la＿comida favorita de Inko-chan!）」"
+
+msgid "Inko-chan「......」"
+msgstr "Inko-chan「......」"
+
+msgid "Ryuuji「Ah, I was going to say thank you, but＿it's already asleep......」"
+msgstr "Ryuuji「Ah, iba a darle las gracias,＿pero ya está dormido......」"
+
+msgid "Ryuuji「Thank you, Inko-chan. Happy New Year＿to you too.」"
+msgstr "Ryuuji「Gracias, Inko-chan. Feliz Año＿Nuevo para ti también.」"

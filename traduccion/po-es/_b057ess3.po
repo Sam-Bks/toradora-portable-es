@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+
+msgid "Inko-chan「GIVE, GIVE......」"
+msgstr "Inko-chan「TOMA, TOMA......」"
+
+msgid "Inko-chan「GIVE, YOU......」"
+msgstr "Inko-chan「TE, DOY......」"
+
+msgid "Ryuuji「Hm? Gonna give me something?」"
+msgstr "Ryuuji「¿Mm? ¿Me vas a dar algo?」"
+
+msgid "Inko-chan「GIVE, YOU......」"
+msgstr "Inko-chan「TE, DOY......」"
+
+msgid "Inko-chan「ALL OF ME......」"
+msgstr "Inko-chan「TODO DE MÍ......」"
+
+msgid "Ryuuji「......HUH!? N-No, Inko-chan, that's really＿not necessary...... I appreciate the＿thought, though......」"
+msgstr "Ryuuji「......¡¿EH?! N-No, Inko-chan, de＿verdad no hace falta...... Aunque＿agradezco la intención......」"
+
+msgid "Inko-chan「GIVE, GIVE!」"
+msgstr "Inko-chan「¡TOMA, TOMA!」"
+
+msgid "Ryuuji「It's gotten late...... Let's go to bed,＿Inko-chan......」"
+msgstr "Ryuuji「Ya se hizo tarde...... Vamos＿a dormir, Inko-chan......」"

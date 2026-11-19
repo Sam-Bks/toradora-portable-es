@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「（I think I should take a little breather＿before I go hear what she has to say......）」"
+msgstr "Ryuuji「（Creo que debería tomarme un respiro＿antes de ir a escuchar lo que tiene＿que decir......）」"
+
+msgid "???「What do you want to drink? I'll treat＿you.」"
+msgstr "???「¿Qué quieres beber? Yo invito.」"
+
+msgid "???「Thanks, Kota-kun.」"
+msgstr "???「Gracias, Kota-kun.」"
+
+msgid "Ryuuji「（That voice is not just possibly, but＿very probably......）」"
+msgstr "Ryuuji「（Esa voz no solo posiblemente, sino＿muy probablemente es de......）」"
+
+msgid "Sakura「Hmmm～～ I'm not sure...... What about＿you, Kota-kun?」"
+msgstr "Sakura「Mmmm～～ No estoy segura......＿¿Y tú, Kota-kun?」"
+
+msgid "Kota「I'm actually trying to decide between＿two drinks.」"
+msgstr "Kota「En realidad estoy tratando de＿decidir entre dos bebidas.」"
+
+msgid "Sakura「I'm stuck too. I thought maybe I should＿go with cafe au lait, but hot cocoa＿sounds good too.」"
+msgstr "Sakura「Yo también estoy indecisa. Pensé en＿pedir café con leche, pero el chocolate＿caliente también suena bien.」"
+
+msgid "Kota「Really!? That's exactly what I'm trying＿to decide!」"
+msgstr "Kota「¡¿En serio?! ¡Eso mismo estaba＿tratando de decidir!」"
+
+msgid "Sakura「You too? No way! I wonder if this is＿what it means to be \"on the same＿wavelength\"?」"
+msgstr "Sakura「¿Tú también? ¡No puede ser! ¿Será＿que a esto le llaman estar \"en＿la misma sintonía\"?」"
+
+msgid "Kota「Yeah, it has to be!」"
+msgstr "Kota「¡Sí, tiene que ser eso!」"
+
+msgid "Sakura「Yaaay ① Then why don't we buy one of＿each and share them?」"
+msgstr "Sakura「Siii ① Entonces, ¿por qué no compramos＿una de cada una y las compartimos?」"
+
+msgid "Kota「Sounds great, Sakura-chan.」"
+msgstr "Kota「Suena genial, Sakura-chan.」"
+
+msgid "Ryuuji「（Those two always look like they're＿having fun. I wish I could trade lives＿with them, just for a day.）」"
+msgstr "Ryuuji「（Esos dos siempre parecen estar＿divirtiéndose. Ojalá pudiera cambiar de＿vida con ellos, aunque sea por un día.）」"
+
+msgid "Kota「Whoa! Takasu-senpai, how long have＿you been standing there!?」"
+msgstr "Kota「¡Uah! Takasu-senpai, ¡¿cuánto＿tiempo llevas ahí de pie?!」"
+
+msgid "Ryuuji「Oh, you only just noticed? I've been＿here a while.」"
+msgstr "Ryuuji「Ah, ¿apenas te das cuenta?＿Llevo aquí un buen rato.」"
+
+msgid "Kota「I'm going to buy some drinks. After＿you!」"
+msgstr "Kota「Voy a comprar unas bebidas.＿¡Después de ti!」"
+
+msgid "Ryuuji「No, that's okay...... I'm not really thirsty.」"
+msgstr "Ryuuji「No, está bien...... En realidad＿no tengo sed.」"
+
+msgid "Sakura「That reminds me, Takasu-senpai, didn't＿you promise to meet my big sister in＿the student council room?」"
+msgstr "Sakura「Ahora que lo pienso, Takasu-senpai, ¿no＿prometiste reunirte con mi hermana en＿la sala del consejo estudiantil?」"
+
+msgid "Ryuuji「Yeah, I was about to head over there.」"
+msgstr "Ryuuji「Sí, ya iba para allá.」"
+
+msgid "Kota「Prez came to school?」"
+msgstr "Kota「¿La Presidenta vino a la escuela?」"
+
+msgid "Sakura「Yup, she did. She's flying back to＿America around noon today, though.」"
+msgstr "Sakura「Sip, vino. Aunque hoy hacia el mediodía＿vuela de regreso a Estados Unidos.」"
+
+msgid "Kota「I see...... Must be lonely for you.」"
+msgstr "Kota「Ya veo...... Te sentirás muy sola.」"
+
+msgid "Sakura「I'll miss her, but if I started blubbering,＿Big Sis would worry about me. Plus,＿you'll be here for me, so I'll be okay.」"
+msgstr "Sakura「La extrañaré, pero si me pongo a llorar,＿mi hermana se preocupará. Además, tú＿estarás conmigo, así que estaré bien.」"
+
+msgid "Kota「Sakura-chan...... You're so brave. If you＿ever feel down, you can call me＿anytime.」"
+msgstr "Kota「Sakura-chan...... Eres tan valiente.＿Si alguna vez te sientes triste,＿llámame cuando quieras.」"
+
+msgid "Sakura「Thank you, Kota-kun①」"
+msgstr "Sakura「Gracias, Kota-kun①」"
+
+msgid "Ryuuji「Sorry to be a mood killer, but do you＿know why Kanou-senpai wants to meet＿me?」"
+msgstr "Ryuuji「Perdón por cortar el momento,＿pero ¿saben por qué Kanou-senpai＿quiere reunirse conmigo?」"
+
+msgid "Sakura「No...... She didn't tell me that much.」"
+msgstr "Sakura「No...... No me dijo tanto.」"
+
+msgid "Kota「For her to come all the way to school＿just to meet you before her flight, it's＿gotta be a big deal. It's HER, after all.」"
+msgstr "Kota「Para que venga hasta la escuela solo a＿verte antes de su vuelo, debe ser algo＿importante. Después de todo, es ELLA.」"
+
+msgid "Sakura「You really have no idea,＿Takasu-senpai?」"
+msgstr "Sakura「¿De verdad no tienes idea,＿Takasu-senpai?」"
+
+msgid "Ryuuji「Nope, absolutely no clue. I've got no＿choice but to find out when I get there.」"
+msgstr "Ryuuji「No, ni la menor idea. No me＿queda otra opción que averiguarlo＿al llegar allá.」"
+
+msgid "Sakura「I'm sure it won't be anything bad,＿Takasu-senpai. Despite her looks, Big＿Sis is actually a really giving person.」"
+msgstr "Sakura「Seguro que no será nada malo,＿Takasu-senpai. Aunque no lo parezca,＿mi hermana es en realidad muy generosa.」"
+
+msgid "Ryuuji「I sure hope so.」"
+msgstr "Ryuuji「Eso espero.」"
+
+msgid "Kota「Aaah～!」"
+msgstr "Kota「¡Aaah～!」"
+
+msgid "Sakura「What's wrong, Kota-kun?」"
+msgstr "Sakura「¿Qué pasa, Kota-kun?」"
+
+msgid "Kota「I think I left my wallet in the＿classroom......」"
+msgstr "Kota「Creo que dejé mi billetera＿en el salón......」"
+
+msgid "Sakura「Really? I left mine in the classroom＿too......」"
+msgstr "Sakura「¿En serio? Yo también dejé＿la mía en el salón......」"
+
+msgid "Ryuuji「I can lend you that much, if you want.」"
+msgstr "Ryuuji「Puedo prestarles para eso, si quieren.」"
+
+msgid "Ryuuji「You're talking like you're in trouble.」"
+msgstr "Ryuuji「Hablas como si estuvieras en apuros.」"
+
+msgid "Kota「I-It's nothing! Anyway, I'll be going,＿please!」"
+msgstr "Kota「¡N-No es nada! De todos modos,＿ya me voy, ¡con permiso!」"
+
+msgid "Sakura「Excuse us～」"
+msgstr "Sakura「Con permiso～」"
+
+msgid "Ryuuji「Okay, later.」"
+msgstr "Ryuuji「Bueno, nos vemos.」"
+
+msgid "Ryuuji「（Well, it IS the first day of school, I＿guess...... Alright, I'll do a bit of cleaning!）」"
+msgstr "Ryuuji「（Bueno, supongo que ES el primer＿día de clases...... ¡Bien,＿limpiaré un poco!）」"
+
+msgid "Ryuuji「（Oh?）」"
+msgstr "Ryuuji「（¿Eh?）」"
+
+msgid "Ryuuji「（These are Super Kanou-Mart coupons.＿Maybe one of them dropped these?）」"
+msgstr "Ryuuji「（Son cupones del Super Kanou-Mart.＿¿A alguno se le habrán caído?）」"
+
+msgid "Ryuuji「（For now, I'll pick them up. I'll ask them＿about it next time I see them.）」"
+msgstr "Ryuuji「（Por ahora los recogeré. Les preguntaré＿la próxima vez que los vea.）」"
+
+msgid "Ryuuji「（Couldn't find anything......）」"
+msgstr "Ryuuji「（No pude encontrar nada......）」"
+
+msgid "Ryuuji「（......No! Just a little longer! My instinct＿tells me there's still more to be found＿here......!）」"
+msgstr "Ryuuji「（......¡No! ¡Un poco más! ¡Mi instinto＿me dice que todavía queda más por＿encontrar aquí......!）」"
+
+msgid "Ryuuji「（Well, I've done a decent job here.）」"
+msgstr "Ryuuji「（Bueno, hice un trabajo decente aquí.）」"
+
+msgid "Kota「That's okay. I'll go get it. I wouldn't＿mind lending you money, but you＿lending ME money is out of the」"
+msgstr "Kota「Está bien. Iré a buscarla. No me＿molestaría prestarte dinero, pero＿que tú me prestes a MÍ no es una」"
+
+msgid "Kota「question.」"
+msgstr "Kota「opción.」"
+
+msgid "Ryuuji「（......Hm? Upon closer inspection,＿there's a lot of trash around here......＿Who the hell is shirking their cleaning）」"
+msgstr "Ryuuji「（......¿Mm? Viéndolo bien, hay mucha＿basura por aquí...... ¿Quién diablos＿se está saltando sus deberes de）」"
+
+msgid "Ryuuji「（duties?）」"
+msgstr "Ryuuji「（limpieza?）」"

@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「Oh, it's Taiga.」"
+msgstr "Ryuuji「Ah, es Taiga.」"
+
+msgid "Taiga「Oh hey, Ryuuji.」"
+msgstr "Taiga「Ah, hola, Ryuuji.」"
+
+msgid "Ryuuji「Why didn't you come over for＿breakfast? I had it ready and＿everything.」"
+msgstr "Ryuuji「¿Por qué no viniste a desayunar?＿Ya lo tenía listo y todo.」"
+
+msgid "Taiga「Like I told you last time, I'm gonna do＿whatever I want.」"
+msgstr "Taiga「Como te dije la última vez,＿haré lo que me dé la gana.」"
+
+msgid "Ryuuji「（Try walking in my shoes and see how＿used YOU feel.）」"
+msgstr "Ryuuji「（Ponte en mi lugar a ver qué tan＿utilizado te sientes TÚ.）」"
+
+msgid "Taiga「Say, are you going shopping?」"
+msgstr "Taiga「Oye, ¿vas a hacer las compras?」"
+
+msgid "Ryuuji「Yeah. You know me too well.」"
+msgstr "Ryuuji「Sí. Me conoces demasiado bien.」"
+
+msgid "Taiga「Those reusable bags are a dead＿giveaway. Buying ingredients for＿lunch?」"
+msgstr "Taiga「Esas bolsas reutilizables te＿delatan. ¿Vas a comprar ingredientes＿para el almuerzo?」"
+
+msgid "Ryuuji「Pretty much. I was thinking of going＿all-out today.」"
+msgstr "Ryuuji「Más o menos. Hoy pensaba lucirme.」"
+
+msgid "Taiga「......Just make fried rice.」"
+msgstr "Taiga「......Solo haz arroz frito.」"
+
+msgid "Ryuuji「Fried rice?」"
+msgstr "Ryuuji「¿Arroz frito?」"
+
+msgid "Taiga「Yeah. I wanna have fried rice for lunch.＿Cool with that?」"
+msgstr "Taiga「Sí. Quiero comer arroz frito para＿el almuerzo. ¿Te parece bien?」"
+
+msgid "Ryuuji「Sure, but didn't you just have it the＿other day? And besides, wouldn't you＿rather have something fancy today?」"
+msgstr "Ryuuji「Claro, ¿pero no comiste eso el＿otro día? Además, ¿no preferirías＿algo especial hoy?」"
+
+msgid "Taiga「It's fine. Fried rice is good.」"
+msgstr "Taiga「Está bien. El arroz frito está bueno.」"
+
+msgid "Ryuuji「......Okay, I'll go get the ingredients we＿need, so you had better show up for＿lunch.」"
+msgstr "Ryuuji「......Bien, iré a comprar lo＿que necesitamos, así que más＿te vale venir a almorzar.」"
+
+msgid "Taiga「Alright.」"
+msgstr "Taiga「De acuerdo.」"
+
+msgid "Ryuuji「Fried rice, huh? Can I make it fancier＿somehow? Nah, I'm better off making＿dessert......」"
+msgstr "Ryuuji「Arroz frito, ¿eh? ¿Podré hacerlo＿más especial de algún modo? No, mejor＿preparo un postre......」"
+
+msgid "Ryuuji「Lunch is ready. It's fried rice, at Taiga's＿request.」"
+msgstr "Ryuuji「El almuerzo está listo. Es arroz＿frito, a petición de Taiga.」"
+
+msgid "Yasuko「Yaaay! Yacchan loooves Ryuu-chan's＿fried rice～①」"
+msgstr "Yasuko「¡Yuuupi! ¡A Yacchan le encaaanta＿el arroz frito de Ryuu-chan～①」"
+
+msgid "Taiga「......Thanks for the food.」"
+msgstr "Taiga「......Gracias por la comida.」"
+
+msgid "Yasuko「Thanks for the food～!」"
+msgstr "Yasuko「¡Gracias por la comida～!」"
+
+msgid "Ryuuji「Eat up.」"
+msgstr "Ryuuji「Buen provecho.」"
+
+msgid "Yasuko「Mmm～ So tastyyy! Isn't it, Taiga-chan?」"
+msgstr "Yasuko「Mmm～ ¡Qué ricooo! ¿Verdad, Taiga-chan?」"
+
+msgid "Taiga「Yeah.」"
+msgstr "Taiga「Sí.」"
+
+msgid "Yasuko「Anything Ryuu-chan cooks is yummy,＿but when Taiga-chan is here, it tastes＿even better～」"
+msgstr "Yasuko「Todo lo que cocina Ryuu-chan＿es rico, pero cuando está Taiga-chan＿sabe aún mejor～」"
+
+msgid "Taiga「Yacchan............」"
+msgstr "Taiga「Yacchan............」"
+
+msgid "Yasuko「Ehehe～」"
+msgstr "Yasuko「Ejeje～」"
+
+msgid "Ryuuji「Taiga, there's still plenty if you want＿seconds.」"
+msgstr "Ryuuji「Taiga, todavía queda bastante＿si quieres repetir.」"
+
+msgid "Taiga「Okay.」"
+msgstr "Taiga「Bueno.」"
+
+msgid "Ryuuji「......You're sure taking your time eating＿today.」"
+msgstr "Ryuuji「......Hoy te estás tomando＿tu tiempo para comer.」"
+
+msgid "Taiga「Huh?」"
+msgstr "Taiga「¿Eh?」"
+
+msgid "Ryuuji「Normally you wolf everything down＿and shout \"Seconds!\"」"
+msgstr "Ryuuji「Normalmente devoras todo＿y gritas \"¡Quiero más!\"」"
+
+msgid "Taiga「Don't I get to decide how fast to eat my＿own food?」"
+msgstr "Taiga「¿No puedo decidir qué tan rápido＿comerme mi propia comida?」"
+
+msgid "Ryuuji「Well, yeah, you do.」"
+msgstr "Ryuuji「Bueno, sí, claro.」"
+
+msgid "Taiga「I'm savoring it, because your fried＿rice...... is delicious.」"
+msgstr "Taiga「Lo estoy saboreando, porque tu arroz＿frito...... está delicioso.」"
+
+msgid "Ryuuji「......I see.」"
+msgstr "Ryuuji「......Ya veo.」"
+
+msgid "Taiga「When you eat delicious food every day＿it doesn't seem so special, but it really＿is.」"
+msgstr "Taiga「Cuando comes comida deliciosa＿todos los días no parece gran＿cosa, pero sí que lo es.」"
+
+msgid "Ryuuji「......?」"
+msgstr "Ryuuji「¿......?」"
+
+msgid "Taiga「Besides, when you don't appreciate it,＿it's such a huge waste, I think.」"
+msgstr "Taiga「Además, cuando no lo valoras, me＿parece un desperdicio enorme.」"
+
+msgid "Taiga「I'm glad I noticed.」"
+msgstr "Taiga「Me alegro de haberme dado cuenta.」"
+
+msgid "Ryuuji「......What's this all of a sudden? I can＿make fried rice any old time.」"
+msgstr "Ryuuji「......¿Y esto a qué viene? Puedo＿hacer arroz frito cuando sea.」"
+
+msgid "Ryuuji「Yeah. I went all-out and made almond＿jelly for dessert today.」"
+msgstr "Ryuuji「Sí. Hoy me lucí e hice gelatina＿de almendras de postre.」"
+
+msgid "Yasuko「Yaaay! Taiga-chan, do you like almond＿jelly?」"
+msgstr "Yasuko「¡Yuuupi! Taiga-chan, ¿te gusta＿la gelatina de almendras?」"
+
+msgid "Taiga「I do.」"
+msgstr "Taiga「Sí.」"
+
+msgid "Yasuko「That's great～ With all this yummy＿food, you should keep eating with us.」"
+msgstr "Yasuko「Qué bien～ Con toda esta comida rica,＿deberías seguir comiendo con nosotros.」"
+
+msgid "Taiga「............Seconds.」"
+msgstr "Taiga「............Quiero más.」"
+
+msgid "Ryuuji「Okay.」"
+msgstr "Ryuuji「Claro.」"
+
+msgid "Taiga「Ryuuji!」"
+msgstr "Taiga「¡Ryuuji!」"
+
+msgid "Ryuuji「What?」"
+msgstr "Ryuuji「¿Qué?」"
+
+msgid "Taiga「Do your best at the test of courage＿today.」"
+msgstr "Taiga「Esfuérzate en la prueba de valor de hoy.」"
+
+msgid "Ryuuji「......You mean, with Kushieda?」"
+msgstr "Ryuuji「......¿Te refieres a lo de Kushieda?」"
+
+msgid "Taiga「Yep. I'm betting everything on tonight.＿I'll be supporting you completely to＿make sure you don't screw up.」"
+msgstr "Taiga「Sí. Me lo juego todo esta noche.＿Te apoyaré por completo para＿que no la arruines.」"
+
+msgid "Ryuuji「Taiga......?」"
+msgstr "Ryuuji「¿Taiga......?」"
+
+msgid "Taiga「So, that's that. See you tonight.」"
+msgstr "Taiga「Así que eso es todo. Nos＿vemos esta noche.」"
+
+msgid "Ryuuji「Uh......」"
+msgstr "Ryuuji「Eh......」"
+
+msgid "Ryuuji「（......Something's off. I don't know what it＿is, but I know it's not right.）」"
+msgstr "Ryuuji「（......Algo anda mal. No sé qué＿es, pero sé que no está bien.）」"
+
+msgid "Ryuuji「（Taiga seems to be trying to confirm＿something...... There's something she's＿not telling me......）」"
+msgstr "Ryuuji「（Parece que Taiga intenta confirmar＿algo...... Hay algo que no me＿está diciendo......）」"
+
+msgid "Ryuuji「（Just what is she up to......? Should I go＿after her and ask?）」"
+msgstr "Ryuuji「（¿Qué se trae entre manos......?＿¿Debería ir tras ella y preguntarle?）」"
+
+msgid "Go after her, NOW"
+msgstr "Ir tras ella, AHORA"
+
+msgid "No, I should tidy up first"
+msgstr "No, primero debo recoger"
+
+msgid "Ryuuji「（......Yeah, I definitely gotta go after her.）」"
+msgstr "Ryuuji「（......Sí, sin duda tengo＿que ir tras ella.）」"
+
+msgid "Ryuuji「（......Hang on. Slow and steady wins the＿race. I gotta make tidying up the＿priority here.）」"
+msgstr "Ryuuji「（......Espera. Sin prisa pero＿sin pausa. Aquí lo prioritario＿es recoger todo.）」"
+
+msgid "Ryuuji「（What the?）」"
+msgstr "Ryuuji「（¿Pero qué?）」"
+
+msgid "Ryuuji「（......It's a lunchbox. This...... isn't one of＿ours. Somehow I know that for a fact.）」"
+msgstr "Ryuuji「（......Es una caja de almuerzo.＿Esta...... no es nuestra. De algún＿modo lo sé con certeza.）」"
+
+msgid "Ryuuji「（Then whose is it? It feels familiar,＿but......）」"
+msgstr "Ryuuji「（¿Entonces de quién es? Me resulta＿familiar, pero......）」"
+
+msgid "Ryuuji「（......It's no use. I can't remember. But＿why would a lunchbox that isn't ours＿be here in the first place?）」"
+msgstr "Ryuuji「（......Es inútil. No puedo recordar.＿¿Pero por qué habría aquí una caja de＿almuerzo que no es nuestra?）」"
+
+msgid "Ryuuji「......」"
+msgstr "Ryuuji「......」"
+
+msgid "Ryuuji「......Taiga?」"
+msgstr "Ryuuji「......¿Taiga?」"
+
+msgid "Ryuuji「（Did Taiga leave it here......?）」"
+msgstr "Ryuuji「（¿La dejó aquí Taiga......?）」"
+
+msgid "Ryuuji「（What's the meaning of all this? I should＿definitely go after her and get to the＿bottom of this.）」"
+msgstr "Ryuuji「（¿Qué significa todo esto? Sin＿duda debería ir tras ella y llegar＿al fondo del asunto.）」"
+
+msgid "Ryuuji「（For now, I'll be keeping this lunchbox.）」"
+msgstr "Ryuuji「（Por ahora, me quedaré con＿esta caja de almuerzo.）」"
+
+msgid "Ryuuji「（Hm......?）」"
+msgstr "Ryuuji「（¿Mm......?）」"
+
+msgid "Ryuuji「（An empty can, huh. If you're going to＿leave it, at least try to leave it near the＿wastebasket......）」"
+msgstr "Ryuuji「（Una lata vacía, eh. Si la vas＿a dejar tirada, al menos déjala＿cerca del basurero......）」"
+
+msgid "Ryuuji「（......*Sigh* I'll throw it away.）」"
+msgstr "Ryuuji「（......*Suspiro* La tiraré.）」"
+
+msgid "Ryuuji「（Couldn't find anything......）」"
+msgstr "Ryuuji「（No encontré nada......）」"
+
+msgid "Ryuuji「（......Whew. Cleanup is done.）」"
+msgstr "Ryuuji「（......Uf. Limpieza terminada.）」"
+
+msgid "Ryuuji「（Alright, time to find Taiga.）」"
+msgstr "Ryuuji「（Bien, hora de buscar a Taiga.）」"
+
+msgid "Yasuko「Taiga-chan, Ryuu-chan can make so＿many other things that are even＿tastier than fried rice～ Right?」"
+msgstr "Yasuko「Taiga-chan, Ryuu-chan sabe hacer＿muchas otras cosas aún más ricas＿que el arroz frito～ ¿Verdad?」"
+
+msgid "Yasuko「Ryuu-chan～①」"
+msgstr "Yasuko「Ryuu-chan～①」"
+
+msgid "Taiga「Despite what you said yesterday, I＿really do think that if you spend some＿time with her, you'll find your feelings.」"
+msgstr "Taiga「A pesar de lo que dijiste ayer, creo＿de verdad que si pasas tiempo con ella,＿encontrarás tus sentimientos.」"
+
+msgid "Taiga「With or without your memories.」"
+msgstr "Taiga「Con o sin tus recuerdos.」"
+
+msgid "Taiga「Besides, with the right opportunities,＿your memories will return. You just＿haven't had any, that's all. But tonight」"
+msgstr "Taiga「Además, con la oportunidad adecuada, tus＿recuerdos volverán. Solo te ha faltado＿una, eso es todo. Pero esta noche」"
+
+msgid "Taiga「will be different.」"
+msgstr "Taiga「será diferente.」"

@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+
+msgid "Yasuko「Oh, Ryuu-chaaan, you're baaack?」"
+msgstr "Yasuko「Ay, Ryuu-chaaan, ¿ya volviste?」"
+
+msgid "Ryuuji「Hey Yasuko, you'll catch a cold＿strolling around in that getup.」"
+msgstr "Ryuuji「Oye, Yasuko, te vas a resfriar paseando＿por ahí con esa facha.」"
+
+msgid "Yasuko「Only been to that dry cleaning shop, so＿it's okay～」"
+msgstr "Yasuko「Solo fui a la tintorería,＿así que no pasa nada～」"
+
+msgid "Ryuuji「Wait, you really only went that far?＿How long did this round trip take you?」"
+msgstr "Ryuuji「Espera, ¿en serio solo fuiste＿hasta ahí? ¿Cuánto te tomó el＿viaje de ida y vuelta?」"
+
+msgid "Yasuko「Really got to talkinggg with the lady at＿the cleanerrrs～」"
+msgstr "Yasuko「Me puse a charlarrr mucho con la＿señora de la tintoreríaaa～」"
+
+msgid "Ryuuji「......Well okay, but go straight home. It's＿freezing out here.」"
+msgstr "Ryuuji「......Bueno, está bien, pero vete＿directo a casa. Aquí afuera está helado.」"
+
+msgid "Yasuko「Ufufu, Ryuu-chan's always been this＿wayyy.」"
+msgstr "Yasuko「Ufufu, Ryuu-chan siempre ha sido asíii.」"
+
+msgid "Ryuuji「What are you talking about?」"
+msgstr "Ryuuji「¿De qué estás hablando?」"
+
+msgid "Yasuko「A looong time ago, Yacchan had to＿consult a doctor for a whileee......」"
+msgstr "Yasuko「Hace muuucho tiempo, Yacchan tuvo que＿ir al doctor por un tiempooo......」"
+
+msgid "Ryuuji「......I don't think so.」"
+msgstr "Ryuuji「......No lo creo.」"
+
+msgid "Ryuuji「It's fine.」"
+msgstr "Ryuuji「Está bien.」"
+
+msgid "Ryuuji「（Come to think of it, that kinda...... Ohh, I＿see......）」"
+msgstr "Ryuuji「（Pensándolo bien, eso como que......＿Ahh, ya veo......）」"
+
+msgid "Yasuko「......What about Ryuu-channn?」"
+msgstr "Yasuko「......¿Y qué hay de Ryuu-channn?」"
+
+msgid "Yasuko「That's a whole bunch of groceries you＿got thereee.」"
+msgstr "Yasuko「Llevas un montón de compras ahíii.」"
+
+msgid "Yasuko「Going out again～?」"
+msgstr "Yasuko「¿Vas a salir otra vez～?」"
+
+msgid "Ryuuji「......Yeah, for a little shopping.」"
+msgstr "Ryuuji「......Sí, a hacer unas compras.」"
+
+msgid "Ryuuji「Like I said on the phone earlier, I'm＿having friends over for dinner. I was＿thinking of having hot pot.」"
+msgstr "Ryuuji「Como dije antes por teléfono, invité＿a unos amigos a cenar. Pensaba preparar＿olla caliente.」"
+
+msgid "Yasuko「Noto-kun and Haruta-kun, right～?＿This is Yacchan's first time meeting＿these two, hmm?」"
+msgstr "Yasuko「Noto-kun y Haruta-kun, ¿verdad～?＿Es la primera vez que Yacchan los＿conoce a esos dos, ¿mm?」"
+
+msgid "Ryuuji「Yeah, I suppose.」"
+msgstr "Ryuuji「Sí, supongo.」"
+
+msgid "Yasuko「Ehehe, sounds like funnn. Ryuu-chan＿brings allll the good boys and girls＿home with himmm～」"
+msgstr "Yasuko「Ejeje, suena divertidooo. Ryuu-chan＿trae a todosss los chicos y chicas＿buenos a casaaa～」"
+
+msgid "Ryuuji「I don't think our number one guest fits＿into that category.」"
+msgstr "Ryuuji「No creo que nuestra invitada número＿uno entre en esa categoría.」"
+
+msgid "Yasuko「Sillyyy, don't say thattt～ Taiga-chan is＿a goody-goody girlll! Oh, is Taiga-chan＿coming over todayyy?」"
+msgstr "Yasuko「Tontooo, no digas esooo～ ¡Taiga-chan＿es una niña muy buenaaa! Ah, ¿Taiga-chan＿vendrá hoyyy?」"
+
+msgid "Ryuuji「No, we don't have plans.」"
+msgstr "Ryuuji「No, no tenemos planes.」"
+
+msgid "Yasuko「Nnnn～ What a shaaame......」"
+msgstr "Yasuko「Mmmm～ Qué lástimaaa......」"
+
+msgid "Ryuuji「As a \"replacement\" of sorts, Kitamura＿might come over.」"
+msgstr "Ryuuji「Como una especie de \"reemplazo\",＿puede que venga Kitamura.」"
+
+msgid "Yasuko「Okayyy. Then it's a crowdful of boys＿today～ Aha, Yacchan's heart is＿poundinggg☆」"
+msgstr "Yasuko「Está bieeen. Entonces hoy habrá un＿montón de chicos～ Ajá, el corazón＿de Yacchan late con fuerzaaa☆」"
+
+msgid "Ryuuji「......Is it okay for an adult, who is my＿MOTHER, to get excited over her son's＿classmates?」"
+msgstr "Ryuuji「......¿Está bien que una adulta,＿que es mi MADRE, se emocione por＿los compañeros de su hijo?」"
+
+msgid "Ryuuji「They already know that my mother and＿I live alone. What a shame.」"
+msgstr "Ryuuji「Ellos ya saben que mi madre y yo＿vivimos solos. Qué lástima.」"
+
+msgid "Yasuko「Whaaat～? Then what should it beee?＿Your older cousin who comes over now＿and thennn?」"
+msgstr "Yasuko「¿Quéee～? ¿Entonces qué debería＿serrr? ¿Tu prima mayor que viene＿de vez en cuandooo?」"
+
+msgid "Yasuko「Okaaay～」"
+msgstr "Yasuko「Está bieeen～」"
+
+msgid "Yasuko「Oh dear～ The landlady was expecting＿a visit earlierrr. Be right backkk～」"
+msgstr "Yasuko「Ay, cielos～ La casera esperaba una＿visita hace ratooo. Ya vuelvooo～」"
+
+msgid "Ryuuji「Okay.」"
+msgstr "Ryuuji「Está bien.」"
+
+msgid "Yasuko「Practically every time Yacchan went to＿the doctor, she'd start crying, saying it＿felt like she might die any seconddd.」"
+msgstr "Yasuko「Casi cada vez que Yacchan iba al doctor,＿se ponía a llorar, diciendo que sentía＿que moriría en cualquier momentooo.」"
+
+msgid "Yasuko「Does Ryuu-chan rememberrr?」"
+msgstr "Yasuko「¿Ryuu-chan lo recuerdaaa?」"
+
+msgid "Yasuko「That was probably around the time＿Ryuu-chan became a big ol'＿worrywarttt. Sorryyy, it's Yacchan's」"
+msgstr "Yasuko「Seguro fue por esa época cuando＿Ryuu-chan se volvió todo un preocupónnn.＿Perdónnn, Yacchan tiene la」"
+
+msgid "Yasuko「faulttt.」"
+msgstr "Yasuko「culpaaa.」"
+
+msgid "Ryuuji「（A sterilized waiting room...... The smell＿of disinfectant...... Somehow, this＿uncomfortably sinister image floats to）」"
+msgstr "Ryuuji「（Sala de espera estéril...... Olor a＿desinfectante...... No sé por qué, una＿imagen siniestra e inquietante viene a）」"
+
+msgid "Ryuuji「（mind. Guess this memory has had an＿effect on me......）」"
+msgstr "Ryuuji「（la mente. Supongo que ese recuerdo＿me ha dejado huella......）」"
+
+msgid "Yasuko「Oh, that's it! Wanna conspire with＿Kitamura-kunnn and say that Yacchan＿is Ryuu-chan's big sisterrr? Operation」"
+msgstr "Yasuko「¡Ya sé! ¿Conspiramos con Kitamura-kunnn＿y decimos que Yacchan es la hermana＿mayor de Ryuu-channn? ¡Operación」"
+
+msgid "Yasuko「Shocking～!」"
+msgstr "Yasuko「Impacto～!」"
+
+msgid "Ryuuji「Please just be my mother. Come on,＿you're gonna catch a cold, so go on＿inside. Oh, and don't you dare make a」"
+msgstr "Ryuuji「Por favor, solo sé mi madre. Vamos,＿te vas a resfriar, así que entra ya.＿Ah, y ni se te ocurra hacer un」"
+
+msgid "Ryuuji「mess.」"
+msgstr "Ryuuji「desorden.」"
+
+msgid "Ryuuji「（She's motherly in her own way......＿Come to think of it, I've started to＿feel...... Yeah, Yasuko is my mother,）」"
+msgstr "Ryuuji「（Es maternal a su manera......＿Pensándolo bien, empiezo a sentir＿que...... Sí, Yasuko es mi madre,）」"
+
+msgid "Ryuuji「（without a doubt.）」"
+msgstr "Ryuuji「（sin lugar a dudas.）」"

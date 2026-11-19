@@ -1,0 +1,3206 @@
+{
+ "count": 275,
+ "table": [
+  {
+   "en": "\"Outsider\" Buried in the Past",
+   "es": "Forastero enterrado en el pasado",
+   "es_len": 32,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b292ami0"
+   ]
+  },
+  {
+   "en": "\"That\" Feeling",
+   "es": "Ese sentimiento",
+   "es_len": 15,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0013MIN0"
+   ]
+  },
+  {
+   "en": "A Close Encounter",
+   "es": "Un encuentro cercano",
+   "es_len": 20,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0011AMI0"
+   ]
+  },
+  {
+   "en": "A Date with Ami-chan",
+   "es": "Una cita con Ami-chan",
+   "es_len": 21,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b280ess0"
+   ]
+  },
+  {
+   "en": "A Distant Promise",
+   "es": "Una promesa lejana",
+   "es_len": 18,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c054ktm0"
+   ]
+  },
+  {
+   "en": "A Dog's Dream",
+   "es": "Sueño de perro",
+   "es_len": 14,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a040ess0"
+   ]
+  },
+  {
+   "en": "A Midwinter Ghost Story",
+   "es": "Fantasmas en pleno invierno",
+   "es_len": 27,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b055ess0"
+   ]
+  },
+  {
+   "en": "A Morning Unlike Any Other",
+   "es": "Una mañana como ninguna otra",
+   "es_len": 28,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b050ess0"
+   ]
+  },
+  {
+   "en": "A New World",
+   "es": "Un mundo nuevo",
+   "es_len": 14,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b292ami0"
+   ]
+  },
+  {
+   "en": "A Suspicious Look",
+   "es": "Una mirada sospechosa",
+   "es_len": 21,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a361ktm0"
+   ]
+  },
+  {
+   "en": "Afternoon Free Time",
+   "es": "Tiempo libre en la tarde",
+   "es_len": 24,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b052ess0"
+   ]
+  },
+  {
+   "en": "All the Feels",
+   "es": "Puro sentimiento",
+   "es_len": 16,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a162ess0"
+   ]
+  },
+  {
+   "en": "Amazingly, The Gang's All Here!",
+   "es": "¡Increíble, están todos aquí!",
+   "es_len": 29,
+   "maxunits": 40,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b051ami0"
+   ]
+  },
+  {
+   "en": "Ami's Anger",
+   "es": "La ira de Ami",
+   "es_len": 13,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a361ami0"
+   ]
+  },
+  {
+   "en": "Ami's Invitation",
+   "es": "La invitación de Ami",
+   "es_len": 20,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0031ami0"
+   ]
+  },
+  {
+   "en": "And Inko-chan......",
+   "es": "E Inko-chan......",
+   "es_len": 17,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 6,
+   "scenes": [
+    "_MP_INK5",
+    "_a057ess0",
+    "_a057ess1",
+    "_a057ess2",
+    "_a057ess3",
+    "_a057ess4"
+   ]
+  },
+  {
+   "en": "At Last, the Reunion",
+   "es": "Por fin, el reencuentro",
+   "es_len": 23,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a262ess0"
+   ]
+  },
+  {
+   "en": "Bachelorette's Insurance",
+   "es": "El seguro de soltera",
+   "es_len": 20,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a192yur0"
+   ]
+  },
+  {
+   "en": "Bad Luck Begins",
+   "es": "Comienza la mala suerte",
+   "es_len": 23,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_d010ess0"
+   ]
+  },
+  {
+   "en": "Bad Luck Can't Be Proven",
+   "es": "Mala suerte sin pruebas",
+   "es_len": 23,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_d013ess0"
+   ]
+  },
+  {
+   "en": "Battle Mode Tiger",
+   "es": "Tigre en modo batalla",
+   "es_len": 21,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c054ktm0"
+   ]
+  },
+  {
+   "en": "Battle of Taiga's Lair",
+   "es": "Batalla en la guarida de Taiga",
+   "es_len": 30,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c065ktm0"
+   ]
+  },
+  {
+   "en": "Before Showtime",
+   "es": "Antes del espectáculo",
+   "es_len": 21,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a161ami0"
+   ]
+  },
+  {
+   "en": "Beyond the Chilly Night",
+   "es": "Tras la noche fría",
+   "es_len": 18,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c067ess0"
+   ]
+  },
+  {
+   "en": "Biggest Shock Ever (I Think)",
+   "es": "El mayor susto (creo)",
+   "es_len": 21,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c057ess0"
+   ]
+  },
+  {
+   "en": "Bishamontengoku",
+   "es": "Bishamontengoku",
+   "es_len": 15,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 6,
+   "scenes": [
+    "_0022yas0",
+    "_0022yas1",
+    "_0022yas2",
+    "_0022yas3",
+    "_0022yas4",
+    "_MP_YAS1"
+   ]
+  },
+  {
+   "en": "Bonds 50cm Apart",
+   "es": "Lazos a 50 cm",
+   "es_len": 13,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c072ami0"
+   ]
+  },
+  {
+   "en": "Boy's Desire, Girl's Ambition",
+   "es": "Deseo de chico, ambición de chica",
+   "es_len": 33,
+   "maxunits": 40,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c061sak0"
+   ]
+  },
+  {
+   "en": "Bridge to Desire",
+   "es": "Puente al deseo",
+   "es_len": 15,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c065ktm0"
+   ]
+  },
+  {
+   "en": "Bro Mode OK",
+   "es": "Modo hermano OK",
+   "es_len": 15,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c061har0"
+   ]
+  },
+  {
+   "en": "Broken Buddies",
+   "es": "Amigos rotos",
+   "es_len": 12,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a193ktm0"
+   ]
+  },
+  {
+   "en": "But Inko-chan......",
+   "es": "Pero Inko-chan......",
+   "es_len": 20,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 6,
+   "scenes": [
+    "_MP_INK7",
+    "_b057ess0",
+    "_b057ess1",
+    "_b057ess2",
+    "_b057ess3",
+    "_b057ess4"
+   ]
+  },
+  {
+   "en": "Candy Generation",
+   "es": "Generación de dulces",
+   "es_len": 20,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c064ami0"
+   ]
+  },
+  {
+   "en": "Chaos and Rebirth",
+   "es": "Caos y renacimiento",
+   "es_len": 19,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c044ess0"
+   ]
+  },
+  {
+   "en": "Choosing Friendship",
+   "es": "Elegir la amistad",
+   "es_len": 17,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a051ami0"
+   ]
+  },
+  {
+   "en": "Complicated",
+   "es": "Complicado",
+   "es_len": 10,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0035yas0"
+   ]
+  },
+  {
+   "en": "Confession",
+   "es": "Confesión",
+   "es_len": 9,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a193ktm0"
+   ]
+  },
+  {
+   "en": "Connection",
+   "es": "Conexión",
+   "es_len": 8,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c056yas0"
+   ]
+  },
+  {
+   "en": "Conveying Happiness",
+   "es": "Transmitir felicidad",
+   "es_len": 20,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_d021sak0"
+   ]
+  },
+  {
+   "en": "Culture Festival Memories",
+   "es": "Recuerdos del festival cultural",
+   "es_len": 31,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0022not0"
+   ]
+  },
+  {
+   "en": "Cupid is Born",
+   "es": "Nace Cupido",
+   "es_len": 11,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a052tig0"
+   ]
+  },
+  {
+   "en": "Date with a Goddess",
+   "es": "Cita con una diosa",
+   "es_len": 18,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 5,
+   "scenes": [
+    "_0032ed10",
+    "_0032ed11",
+    "_0032ed12",
+    "_0032ed13",
+    "_MP_AMI1"
+   ]
+  },
+  {
+   "en": "Dearly Beloved",
+   "es": "Queridísimos",
+   "es_len": 12,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a050ess0"
+   ]
+  },
+  {
+   "en": "Decision Before the Test",
+   "es": "Decisión antes del examen",
+   "es_len": 25,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b065ess0"
+   ]
+  },
+  {
+   "en": "Did She Fall?",
+   "es": "¿Se cayó?",
+   "es_len": 9,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b062tig0"
+   ]
+  },
+  {
+   "en": "Did You Forget?",
+   "es": "¿Lo olvidaste?",
+   "es_len": 14,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0022ami0"
+   ]
+  },
+  {
+   "en": "Do You Believe in Ghosts?",
+   "es": "¿Crees en fantasmas?",
+   "es_len": 20,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b055ess0"
+   ]
+  },
+  {
+   "en": "Drowning",
+   "es": "Ahogándose",
+   "es_len": 10,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c051yur0"
+   ]
+  },
+  {
+   "en": "EMERGENCY!",
+   "es": "¡EMERGENCIA!",
+   "es_len": 12,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a162ess0"
+   ]
+  },
+  {
+   "en": "Emotion Overload",
+   "es": "Sobrecarga de emociones",
+   "es_len": 23,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 6,
+   "scenes": [
+    "_MP_TIG2",
+    "_a055tig0",
+    "_a055tig1",
+    "_a055tig2",
+    "_a055tig3",
+    "_a055tig4"
+   ]
+  },
+  {
+   "en": "Encounter at the New Year's Sale",
+   "es": "Encuentro en las rebajas de Año Nuevo",
+   "es_len": 37,
+   "maxunits": 40,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b041koh0"
+   ]
+  },
+  {
+   "en": "Enemy of My Enemy",
+   "es": "Enemigo de mi enemigo",
+   "es_len": 21,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c042sak0"
+   ]
+  },
+  {
+   "en": "Entrusting Happiness",
+   "es": "Confiar la felicidad",
+   "es_len": 20,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_d021tig0"
+   ]
+  },
+  {
+   "en": "Eve of Operation",
+   "es": "Víspera de la operación",
+   "es_len": 23,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a056ess0"
+   ]
+  },
+  {
+   "en": "Exploring Oohashi HS",
+   "es": "Explorando Oohashi",
+   "es_len": 18,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0021ktm6"
+   ]
+  },
+  {
+   "en": "Fading Misfortune",
+   "es": "La desgracia se va",
+   "es_len": 18,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_d013ess0"
+   ]
+  },
+  {
+   "en": "Family",
+   "es": "Familia",
+   "es_len": 7,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c051tig0"
+   ]
+  },
+  {
+   "en": "Fancy That",
+   "es": "Vaya",
+   "es_len": 4,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0031not0"
+   ]
+  },
+  {
+   "en": "Fated Encounter",
+   "es": "Encuentro predestinado",
+   "es_len": 22,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a362yur0"
+   ]
+  },
+  {
+   "en": "Feelings Left Behind",
+   "es": "Sentimientos abandonados",
+   "es_len": 24,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b191tig0"
+   ]
+  },
+  {
+   "en": "Finding Feelings",
+   "es": "Encontrar sentimientos",
+   "es_len": 22,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 6,
+   "scenes": [
+    "_MP_MIN3",
+    "_b166min0",
+    "_b166min1",
+    "_b166min2",
+    "_b166min3",
+    "_b166min4"
+   ]
+  },
+  {
+   "en": "For Inko-chan......",
+   "es": "Para Inko-chan......",
+   "es_len": 20,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 6,
+   "scenes": [
+    "_MP_INK6",
+    "_b047ess0",
+    "_b047ess1",
+    "_b047ess2",
+    "_b047ess3",
+    "_b047ess4"
+   ]
+  },
+  {
+   "en": "For Whom the Bell Tolls",
+   "es": "Por quién doblan las campanas",
+   "es_len": 29,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a364ed10"
+   ]
+  },
+  {
+   "en": "For Your Sake",
+   "es": "Por ti",
+   "es_len": 6,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a045ess0"
+   ]
+  },
+  {
+   "en": "Forget the Shrine, Pray To Me",
+   "es": "Olvida el santuario, reza a mí",
+   "es_len": 30,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b041ktm0"
+   ]
+  },
+  {
+   "en": "Forms of Happiness",
+   "es": "Formas de felicidad",
+   "es_len": 19,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c072min0"
+   ]
+  },
+  {
+   "en": "Fortune Comes",
+   "es": "Llega la fortuna",
+   "es_len": 16,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a043not0"
+   ]
+  },
+  {
+   "en": "Fractured Heart",
+   "es": "Corazón roto",
+   "es_len": 12,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a192ami0"
+   ]
+  },
+  {
+   "en": "Fried Rice Penance",
+   "es": "Penitencia de arroz",
+   "es_len": 19,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b061tig0"
+   ]
+  },
+  {
+   "en": "Friends",
+   "es": "Amigos",
+   "es_len": 6,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0013MIN0"
+   ]
+  },
+  {
+   "en": "Game Set",
+   "es": "Juego terminado",
+   "es_len": 15,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c072min1"
+   ]
+  },
+  {
+   "en": "Get a Big Bro!",
+   "es": "¡Hermano mayor!",
+   "es_len": 15,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a055sum0"
+   ]
+  },
+  {
+   "en": "Ghost Hunters",
+   "es": "Cazafantasmas",
+   "es_len": 13,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b170ed30"
+   ]
+  },
+  {
+   "en": "God of Heartbreak, Hear Me Roar",
+   "es": "Dios del desamor, escucha mi rugido",
+   "es_len": 35,
+   "maxunits": 40,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c071ktm0"
+   ]
+  },
+  {
+   "en": "Goddess of Love",
+   "es": "Diosa del amor",
+   "es_len": 14,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 6,
+   "scenes": [
+    "_MP_AMI2",
+    "_a044ami0",
+    "_a044ami1",
+    "_a044ami2",
+    "_a044ami3",
+    "_a044ami4"
+   ]
+  },
+  {
+   "en": "Goodbye",
+   "es": "Adiós",
+   "es_len": 5,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b192min0"
+   ]
+  },
+  {
+   "en": "Gunma, The Distant Land",
+   "es": "Gunma, la tierra lejana",
+   "es_len": 23,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c053har0"
+   ]
+  },
+  {
+   "en": "Guy Gone Wild",
+   "es": "Chico desatado",
+   "es_len": 14,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a052tig4"
+   ]
+  },
+  {
+   "en": "Handle With Care",
+   "es": "Con cuidado",
+   "es_len": 11,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c042not0"
+   ]
+  },
+  {
+   "en": "Happily Married",
+   "es": "Felizmente casados",
+   "es_len": 18,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a364ed10"
+   ]
+  },
+  {
+   "en": "Happy New... EMPTY!?",
+   "es": "Feliz Año... ¡¿VACÍO?!",
+   "es_len": 22,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b040ess0"
+   ]
+  },
+  {
+   "en": "Haruta is Haruta",
+   "es": "Haruta es Haruta",
+   "es_len": 16,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0031har0"
+   ]
+  },
+  {
+   "en": "Hatsumode For Two",
+   "es": "Hatsumode para dos",
+   "es_len": 18,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 6,
+   "scenes": [
+    "_0024ess0",
+    "_0024ess1",
+    "_0024ess2",
+    "_0024ess3",
+    "_0024ess4",
+    "_MP_TIG1"
+   ]
+  },
+  {
+   "en": "Her 30th New Year",
+   "es": "Su trigésimo Año Nuevo",
+   "es_len": 22,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a041yur0"
+   ]
+  },
+  {
+   "en": "Her and Her",
+   "es": "Ella y ella",
+   "es_len": 11,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a190ess0"
+   ]
+  },
+  {
+   "en": "Her Duty",
+   "es": "Su deber",
+   "es_len": 8,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a055sak0"
+   ]
+  },
+  {
+   "en": "Highest of Praise",
+   "es": "El mayor elogio",
+   "es_len": 15,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0011KTM0"
+   ]
+  },
+  {
+   "en": "His Sudden Illness",
+   "es": "Su repentina enfermedad",
+   "es_len": 23,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a160ess0"
+   ]
+  },
+  {
+   "en": "Homecoming",
+   "es": "Regreso a casa",
+   "es_len": 14,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0010ESS0"
+   ]
+  },
+  {
+   "en": "How Many Coins?",
+   "es": "Cuántas monedas?",
+   "es_len": 16,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b293ed25"
+   ]
+  },
+  {
+   "en": "How to Spend New Year's Single",
+   "es": "Cómo pasar Año Nuevo soltero",
+   "es_len": 28,
+   "maxunits": 40,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b051yur0"
+   ]
+  },
+  {
+   "en": "Hurry Into Space",
+   "es": "De prisa al espacio",
+   "es_len": 19,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a292ed10"
+   ]
+  },
+  {
+   "en": "If We're All Together",
+   "es": "Si estamos todos juntos",
+   "es_len": 23,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0033min0"
+   ]
+  },
+  {
+   "en": "Incoming",
+   "es": "Entrante",
+   "es_len": 8,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c050ess0"
+   ]
+  },
+  {
+   "en": "Incurable",
+   "es": "Incurable",
+   "es_len": 9,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c041har0"
+   ]
+  },
+  {
+   "en": "Inko-chan AWOL",
+   "es": "Inko-chan desaparecida",
+   "es_len": 22,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a360ess0"
+   ]
+  },
+  {
+   "en": "Inko-chan Has......",
+   "es": "Inko-chan tiene......",
+   "es_len": 21,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 6,
+   "scenes": [
+    "_MP_INK8",
+    "_c046ess0",
+    "_c046ess1",
+    "_c046ess2",
+    "_c046ess3",
+    "_c046ess4"
+   ]
+  },
+  {
+   "en": "Inko-chan is......",
+   "es": "Inko-chan es......",
+   "es_len": 18,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 6,
+   "scenes": [
+    "_MP_INK4",
+    "_a046ess0",
+    "_a046ess1",
+    "_a046ess2",
+    "_a046ess3",
+    "_a046ess4"
+   ]
+  },
+  {
+   "en": "Inko-chan's......",
+   "es": "De Inko-chan......",
+   "es_len": 18,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 6,
+   "scenes": [
+    "_0037ess0",
+    "_0037ess1",
+    "_0037ess2",
+    "_0037ess3",
+    "_0037ess4",
+    "_MP_INK3"
+   ]
+  },
+  {
+   "en": "It's Always Springtime",
+   "es": "Siempre es primavera",
+   "es_len": 20,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0011SAK0"
+   ]
+  },
+  {
+   "en": "Just One Feeling",
+   "es": "Un sentimiento",
+   "es_len": 14,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b192min0"
+   ]
+  },
+  {
+   "en": "Kanou Revealed",
+   "es": "Kanou revelada",
+   "es_len": 14,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a042ess0"
+   ]
+  },
+  {
+   "en": "Kitamura and Venus!",
+   "es": "¡Kitamura y Venus!",
+   "es_len": 18,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a054ktm0"
+   ]
+  },
+  {
+   "en": "Kitamura the Nudist",
+   "es": "Kitamura el nudista",
+   "es_len": 19,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0031ktm0"
+   ]
+  },
+  {
+   "en": "Kitamura's Strategy",
+   "es": "Estrategia de Kitamura",
+   "es_len": 22,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0021ktm0"
+   ]
+  },
+  {
+   "en": "Kota and Operation Venus!",
+   "es": "¡Kota y la operación Venus!",
+   "es_len": 27,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a054koh0"
+   ]
+  },
+  {
+   "en": "Learning from the God of Heartbreak",
+   "es": "Lecciones del dios del desamor",
+   "es_len": 30,
+   "maxunits": 48,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b192ktm0"
+   ]
+  },
+  {
+   "en": "Leftovers",
+   "es": "Sobras",
+   "es_len": 6,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0034ess0"
+   ]
+  },
+  {
+   "en": "Let's Break a Morning Sweat",
+   "es": "Sudemos en la mañana",
+   "es_len": 20,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b052ess0"
+   ]
+  },
+  {
+   "en": "Let's See It!",
+   "es": "¡Vamos a verlo!",
+   "es_len": 15,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c044ess0"
+   ]
+  },
+  {
+   "en": "Let's Talk",
+   "es": "Hablemos",
+   "es_len": 8,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 6,
+   "scenes": [
+    "_MP_AMI3",
+    "_b054ami0",
+    "_b054ami1",
+    "_b054ami2",
+    "_b054ami3",
+    "_b054ami4"
+   ]
+  },
+  {
+   "en": "Lies and Truth",
+   "es": "Mentiras y verdad",
+   "es_len": 17,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b266ami0"
+   ]
+  },
+  {
+   "en": "Lovable?",
+   "es": "¿Adorable?",
+   "es_len": 10,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c042ami0"
+   ]
+  },
+  {
+   "en": "Love All Over Again",
+   "es": "El amor otra vez",
+   "es_len": 16,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 6,
+   "scenes": [
+    "_MP_SUM1",
+    "_a263sum0",
+    "_a263sum1",
+    "_a263sum2",
+    "_a263sum3",
+    "_a263sum4"
+   ]
+  },
+  {
+   "en": "Love Needs Communication",
+   "es": "El amor necesita comunicación",
+   "es_len": 29,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a052tig0"
+   ]
+  },
+  {
+   "en": "Luck Runs Out",
+   "es": "Se acaba la suerte",
+   "es_len": 18,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a052not0"
+   ]
+  },
+  {
+   "en": "Map",
+   "es": "Mapa",
+   "es_len": 4,
+   "maxunits": 8,
+   "fits": true,
+   "apps": 52,
+   "scenes": [
+    "_0011AAA0",
+    "_0012AAA0",
+    "_0013AAA0",
+    "_0021aaa0",
+    "_0022aaa0",
+    "_0031aaa0",
+    "_0033aaa0",
+    "_0035aaa0",
+    "_a041aaa0",
+    "_a043aaa0",
+    "_a044aaa0",
+    "_a051aaa0",
+    "_a052aaa0",
+    "_a054aaa0",
+    "_a055aaa0",
+    "_a161aaa0",
+    "_a163aaa0",
+    "_a192aaa0",
+    "_a193aaa0",
+    "_a261aaa0",
+    "_a263aaa0",
+    "_a291aaa0",
+    "_a361aaa0",
+    "_a362aaa0",
+    "_b041aaa0",
+    "_b044aaa0",
+    "_b045aaa0",
+    "_b051aaa0",
+    "_b061aaa0",
+    "_b062aaa0",
+    "_b064aaa0",
+    "_b166aaa0",
+    "_b191aaa0",
+    "_b192aaa0",
+    "_b266aaa0",
+    "_b292aaa0",
+    "_b366aaa0",
+    "_c041aaa0",
+    "_c042aaa0",
+    "_c051aaa0",
+    "_c053aaa0",
+    "_c054aaa0",
+    "_c056aaa0",
+    "_c061aaa0",
+    "_c064aaa0",
+    "_c065aaa0",
+    "_c071aaa0",
+    "_c072aaa0",
+    "_c073aaa0",
+    "_d011aaa0",
+    "_d012aaa0",
+    "_d021aaa0"
+   ]
+  },
+  {
+   "en": "Meddling?",
+   "es": "¿Entrometido?",
+   "es_len": 13,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a054yas0"
+   ]
+  },
+  {
+   "en": "Memories of Christmas",
+   "es": "Recuerdos de Navidad",
+   "es_len": 20,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b062tig0"
+   ]
+  },
+  {
+   "en": "Memories of Fried Rice",
+   "es": "Recuerdos del arroz frito",
+   "es_len": 25,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b041koh0"
+   ]
+  },
+  {
+   "en": "Memory Fragments",
+   "es": "Fragmentos de memoria",
+   "es_len": 21,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b062koh0"
+   ]
+  },
+  {
+   "en": "Midnight SOS",
+   "es": "SOS medianoche",
+   "es_len": 14,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 6,
+   "scenes": [
+    "_0037ed10",
+    "_0037ed11",
+    "_0037ed12",
+    "_0037ed13",
+    "_0037ed14",
+    "_MP_YAS2"
+   ]
+  },
+  {
+   "en": "Midwinter Sunlight",
+   "es": "Luz de sol en invierno",
+   "es_len": 22,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c072min0"
+   ]
+  },
+  {
+   "en": "Misfortune Again",
+   "es": "Otra vez la desgracia",
+   "es_len": 21,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_d022ed10"
+   ]
+  },
+  {
+   "en": "Misfortune Incarnate",
+   "es": "La desgracia encarnada",
+   "es_len": 22,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0011KOH0"
+   ]
+  },
+  {
+   "en": "Missed Connection: Haruta Ver.",
+   "es": "Conexión perdida: vers. Haruta",
+   "es_len": 30,
+   "maxunits": 40,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a361har0"
+   ]
+  },
+  {
+   "en": "Missed Connection: Noto Ver.",
+   "es": "Conexión perdida: vers. Noto",
+   "es_len": 28,
+   "maxunits": 40,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a361not0"
+   ]
+  },
+  {
+   "en": "Mission Complete",
+   "es": "Misión cumplida",
+   "es_len": 15,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c067ess0"
+   ]
+  },
+  {
+   "en": "Mission Failed",
+   "es": "Misión fallida",
+   "es_len": 14,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a264ess0"
+   ]
+  },
+  {
+   "en": "Morning of Opening Ceremony",
+   "es": "Mañana de la apertura",
+   "es_len": 21,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a290ess0"
+   ]
+  },
+  {
+   "en": "Morning of Unrest",
+   "es": "Mañana de inquietud",
+   "es_len": 19,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0020ess0"
+   ]
+  },
+  {
+   "en": "Mother",
+   "es": "Madre",
+   "es_len": 5,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c064yas0"
+   ]
+  },
+  {
+   "en": "MOTTAINAI! Food",
+   "es": "¡Qué desperdicio! Comida",
+   "es_len": 24,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0030ess0"
+   ]
+  },
+  {
+   "en": "Mystery of the Universe",
+   "es": "Misterio del universo",
+   "es_len": 21,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a054har0"
+   ]
+  },
+  {
+   "en": "Near, Yet Far",
+   "es": "Cerca y lejos",
+   "es_len": 13,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c061ami0"
+   ]
+  },
+  {
+   "en": "New Year's Foundation",
+   "es": "Cimientos de Año Nuevo",
+   "es_len": 22,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b044ami0"
+   ]
+  },
+  {
+   "en": "No Turning Back",
+   "es": "Sin vuelta atrás",
+   "es_len": 16,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b045tig0"
+   ]
+  },
+  {
+   "en": "Noto the Tactician?",
+   "es": "¿Noto el táctico?",
+   "es_len": 17,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c053not0"
+   ]
+  },
+  {
+   "en": "Noto's Surprisingly Rich",
+   "es": "Noto, rico por sorpresa",
+   "es_len": 23,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b045not0"
+   ]
+  },
+  {
+   "en": "Of Love and Heartbreak",
+   "es": "De amor y desamor",
+   "es_len": 17,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a043ktm0"
+   ]
+  },
+  {
+   "en": "Old-Fashioned",
+   "es": "A la antigua",
+   "es_len": 12,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c040ess0"
+   ]
+  },
+  {
+   "en": "On My Mind......",
+   "es": "En mi mente......",
+   "es_len": 17,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b280ess0"
+   ]
+  },
+  {
+   "en": "One Day at Dragon Diner",
+   "es": "Un día en Dragon Diner",
+   "es_len": 22,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a193ktm0"
+   ]
+  },
+  {
+   "en": "Operation Venus!",
+   "es": "¡Operación Venus!",
+   "es_len": 17,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a053ess0"
+   ]
+  },
+  {
+   "en": "Past Person, Future Person",
+   "es": "Persona del pasado, del futuro",
+   "es_len": 30,
+   "maxunits": 40,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a192sum0"
+   ]
+  },
+  {
+   "en": "Paused Game",
+   "es": "Juego en pausa",
+   "es_len": 14,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c072min0"
+   ]
+  },
+  {
+   "en": "People Never Change",
+   "es": "La gente nunca cambia",
+   "es_len": 21,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b266ami0"
+   ]
+  },
+  {
+   "en": "Pizza Tonight",
+   "es": "Pizza esta noche",
+   "es_len": 16,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0013MIN0"
+   ]
+  },
+  {
+   "en": "Play Ball",
+   "es": "A jugar",
+   "es_len": 7,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c072min0"
+   ]
+  },
+  {
+   "en": "Please Excuse Me",
+   "es": "Disculpe",
+   "es_len": 8,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0036ess1"
+   ]
+  },
+  {
+   "en": "Praying For A Nightmare",
+   "es": "Rezando por una pesadilla",
+   "es_len": 25,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a193ktm0"
+   ]
+  },
+  {
+   "en": "Prepared For Takeoff",
+   "es": "Listos para despegar",
+   "es_len": 20,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c043ess0"
+   ]
+  },
+  {
+   "en": "Prologue",
+   "es": "Prólogo",
+   "es_len": 7,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0000ESS1"
+   ]
+  },
+  {
+   "en": "Punishment From Taiga",
+   "es": "Castigo de Taiga",
+   "es_len": 16,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b192min0"
+   ]
+  },
+  {
+   "en": "Pure Black",
+   "es": "Negro puro",
+   "es_len": 10,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c053ami0"
+   ]
+  },
+  {
+   "en": "Pure White",
+   "es": "Blanco puro",
+   "es_len": 11,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c041ktm0"
+   ]
+  },
+  {
+   "en": "Pursuit of Taiga",
+   "es": "Tras Taiga",
+   "es_len": 10,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0035min0"
+   ]
+  },
+  {
+   "en": "RE:Legendary Showdown",
+   "es": "RE:Duelo legendario",
+   "es_len": 19,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a042ess0"
+   ]
+  },
+  {
+   "en": "Remaking the Promise",
+   "es": "Rehacer la promesa",
+   "es_len": 18,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b041koh0"
+   ]
+  },
+  {
+   "en": "Remnants of Amnesia",
+   "es": "Restos de amnesia",
+   "es_len": 17,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b280ess0"
+   ]
+  },
+  {
+   "en": "Return March",
+   "es": "Marcha de vuelta",
+   "es_len": 16,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 6,
+   "scenes": [
+    "_MP_MIN4",
+    "_c056min0",
+    "_c056min1",
+    "_c056min2",
+    "_c056min3",
+    "_c056min4"
+   ]
+  },
+  {
+   "en": "Returning With An Extra",
+   "es": "Volver con un extra",
+   "es_len": 19,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b167ess0"
+   ]
+  },
+  {
+   "en": "Reunion",
+   "es": "Reencuentro",
+   "es_len": 11,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0013MIN0"
+   ]
+  },
+  {
+   "en": "Road to Truth",
+   "es": "Hacia la verdad",
+   "es_len": 15,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b170ed30"
+   ]
+  },
+  {
+   "en": "Ryuuji's Decision",
+   "es": "La decisión de Ryuuji",
+   "es_len": 21,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b181ess0"
+   ]
+  },
+  {
+   "en": "Sakura Before the Storm",
+   "es": "Sakura antes de la tormenta",
+   "es_len": 27,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a041sak0"
+   ]
+  },
+  {
+   "en": "Same As Always",
+   "es": "Como siempre",
+   "es_len": 12,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b192min0"
+   ]
+  },
+  {
+   "en": "Sausage Fest Hatsumode",
+   "es": "Hatsumode de salchichas",
+   "es_len": 23,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0032ess0"
+   ]
+  },
+  {
+   "en": "Sensibly Unlucky",
+   "es": "Desafortunado sensato",
+   "es_len": 21,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_d013ess0"
+   ]
+  },
+  {
+   "en": "Sensing the Signs",
+   "es": "Percibir las señales",
+   "es_len": 20,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 6,
+   "scenes": [
+    "_MP_MIN2",
+    "_b054min0",
+    "_b054min1",
+    "_b054min2",
+    "_b054min3",
+    "_b054min4"
+   ]
+  },
+  {
+   "en": "Showdown Morning",
+   "es": "Mañana del duelo",
+   "es_len": 16,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c067ess0"
+   ]
+  },
+  {
+   "en": "Slave to the Goddess",
+   "es": "Esclavo de la diosa",
+   "es_len": 19,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0032ed15"
+   ]
+  },
+  {
+   "en": "Smile Again",
+   "es": "Sonríe otra vez",
+   "es_len": 15,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c073min0"
+   ]
+  },
+  {
+   "en": "Spirit Capture Plan",
+   "es": "Caza de espíritus",
+   "es_len": 17,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a054not0"
+   ]
+  },
+  {
+   "en": "Springtime at School",
+   "es": "Primavera en la escuela",
+   "es_len": 23,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a291sak0"
+   ]
+  },
+  {
+   "en": "Springtime in January",
+   "es": "Primavera en enero",
+   "es_len": 18,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0033sak0"
+   ]
+  },
+  {
+   "en": "Straight",
+   "es": "Directo",
+   "es_len": 7,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c064min0"
+   ]
+  },
+  {
+   "en": "Strategy Meeting, Take Two",
+   "es": "Estrategia, toma dos",
+   "es_len": 20,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a052tig4"
+   ]
+  },
+  {
+   "en": "Student Council Dog",
+   "es": "Perro del consejo",
+   "es_len": 17,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a292ed20"
+   ]
+  },
+  {
+   "en": "Sumire the Scout",
+   "es": "Sumire la vigía",
+   "es_len": 15,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a292ed20"
+   ]
+  },
+  {
+   "en": "Suspect In Custody",
+   "es": "Sospechoso bajo custodia",
+   "es_len": 24,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a192har0"
+   ]
+  },
+  {
+   "en": "Swing Out",
+   "es": "A balancearse",
+   "es_len": 13,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c051min0"
+   ]
+  },
+  {
+   "en": "Switcheroo",
+   "es": "Intercambio",
+   "es_len": 11,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a193ktm0"
+   ]
+  },
+  {
+   "en": "Taiga in the Pool",
+   "es": "Taiga en la piscina",
+   "es_len": 19,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 6,
+   "scenes": [
+    "_MP_TIG3",
+    "_b054tig0",
+    "_b054tig1",
+    "_b054tig2",
+    "_b054tig3",
+    "_b054tig4"
+   ]
+  },
+  {
+   "en": "Taiga's Disaster",
+   "es": "El desastre de Taiga",
+   "es_len": 20,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0034ess1"
+   ]
+  },
+  {
+   "en": "Taiga's Misgivings",
+   "es": "Las dudas de Taiga",
+   "es_len": 18,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b192min0"
+   ]
+  },
+  {
+   "en": "Taiga's Room......",
+   "es": "Cuarto de Taiga......",
+   "es_len": 21,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0022tig0"
+   ]
+  },
+  {
+   "en": "Taiga's Wish",
+   "es": "Deseo de Taiga",
+   "es_len": 14,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0023ess0"
+   ]
+  },
+  {
+   "en": "Telling the Truth",
+   "es": "Decir la verdad",
+   "es_len": 15,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c061har0"
+   ]
+  },
+  {
+   "en": "Testing Ami",
+   "es": "Probando a Ami",
+   "es_len": 14,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b065ess0"
+   ]
+  },
+  {
+   "en": "Testing Haruta",
+   "es": "A prueba Haruta",
+   "es_len": 15,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b065ess0"
+   ]
+  },
+  {
+   "en": "Testing Haruta's Courage",
+   "es": "Probando el valor de Haruta",
+   "es_len": 27,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b064har0"
+   ]
+  },
+  {
+   "en": "Testing Minori",
+   "es": "A prueba Minori",
+   "es_len": 15,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b065ess0"
+   ]
+  },
+  {
+   "en": "Testing My Courage!",
+   "es": "¡Probando mi valor!",
+   "es_len": 19,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b167ess0"
+   ]
+  },
+  {
+   "en": "That Morning, in the Student Council Room",
+   "es": "Esa mañana, en la sala del consejo",
+   "es_len": 34,
+   "maxunits": 48,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a291sum0"
+   ]
+  },
+  {
+   "en": "The Armband's True Meaning",
+   "es": "El significado del brazalete",
+   "es_len": 28,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a292ed10"
+   ]
+  },
+  {
+   "en": "The Bear From That Memory",
+   "es": "El oso de ese recuerdo",
+   "es_len": 22,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0035tig0"
+   ]
+  },
+  {
+   "en": "The Blushing Tiger",
+   "es": "El tigre sonrojado",
+   "es_len": 18,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c073min0"
+   ]
+  },
+  {
+   "en": "The Christmas Eve Incident",
+   "es": "El incidente de Nochebuena",
+   "es_len": 26,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a192min0"
+   ]
+  },
+  {
+   "en": "The Cost of Sunlight",
+   "es": "El precio de la luz del sol",
+   "es_len": 27,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c068ed10"
+   ]
+  },
+  {
+   "en": "The Days Drag On",
+   "es": "Los días se arrastran",
+   "es_len": 21,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c068ed20"
+   ]
+  },
+  {
+   "en": "The Dream Girl",
+   "es": "La chica soñada",
+   "es_len": 15,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a041har0"
+   ]
+  },
+  {
+   "en": "The Evil SC President",
+   "es": "La malvada presidenta",
+   "es_len": 21,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0021ktm0"
+   ]
+  },
+  {
+   "en": "The Final......",
+   "es": "El final......",
+   "es_len": 14,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b292ami0"
+   ]
+  },
+  {
+   "en": "The Gang's at the Station Square!",
+   "es": "¡La pandilla en la plaza de la estación!",
+   "es_len": 40,
+   "maxunits": 40,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b051not0"
+   ]
+  },
+  {
+   "en": "The Independent Tiger",
+   "es": "El tigre independiente",
+   "es_len": 22,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 7,
+   "scenes": [
+    "_MP_TIG4",
+    "_c064tig0",
+    "_c064tig5",
+    "_c064tig6",
+    "_c064tig7",
+    "_c064tig8",
+    "_c064tig9"
+   ]
+  },
+  {
+   "en": "The Morning Without You",
+   "es": "La mañana sin ti",
+   "es_len": 16,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a190ess0"
+   ]
+  },
+  {
+   "en": "The New Semester Begins",
+   "es": "Comienza el semestre",
+   "es_len": 20,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b181ess0"
+   ]
+  },
+  {
+   "en": "The Night With No Handwarmer",
+   "es": "La noche sin calentador de manos",
+   "es_len": 32,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b064ami0"
+   ]
+  },
+  {
+   "en": "The Password is OKINAWA",
+   "es": "La contraseña es OKINAWA",
+   "es_len": 24,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b192har0"
+   ]
+  },
+  {
+   "en": "The Shocking Truth",
+   "es": "La verdad impactante",
+   "es_len": 20,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b060ess0"
+   ]
+  },
+  {
+   "en": "The Shrewd One",
+   "es": "La astuta",
+   "es_len": 9,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b064ktm0"
+   ]
+  },
+  {
+   "en": "The Silent Tiger",
+   "es": "El tigre silencioso",
+   "es_len": 19,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c073min0"
+   ]
+  },
+  {
+   "en": "The Smiling Tiger",
+   "es": "El tigre sonriente",
+   "es_len": 18,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c073min0"
+   ]
+  },
+  {
+   "en": "The Tiger of Rage",
+   "es": "El tigre de la ira",
+   "es_len": 18,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c057ess0"
+   ]
+  },
+  {
+   "en": "The Tiger of Sorrow",
+   "es": "El tigre de la tristeza",
+   "es_len": 23,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c051tig0"
+   ]
+  },
+  {
+   "en": "The Tiger's Revival",
+   "es": "El renacer del tigre",
+   "es_len": 20,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c040ess0"
+   ]
+  },
+  {
+   "en": "The Tiger's Wrath",
+   "es": "La ira del tigre",
+   "es_len": 16,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0035tig1"
+   ]
+  },
+  {
+   "en": "The Unwanted Present",
+   "es": "El regalo no deseado",
+   "es_len": 20,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0021har0"
+   ]
+  },
+  {
+   "en": "The Wake Up Call",
+   "es": "La llamada de atención",
+   "es_len": 22,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b280ess0"
+   ]
+  },
+  {
+   "en": "The Weeping Tiger",
+   "es": "El tigre llorón",
+   "es_len": 15,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c072tig0"
+   ]
+  },
+  {
+   "en": "The Worst Possible Luck",
+   "es": "La peor suerte posible",
+   "es_len": 22,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_d011ryu0"
+   ]
+  },
+  {
+   "en": "This Excitement",
+   "es": "Esta emoción",
+   "es_len": 12,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0037ed15"
+   ]
+  },
+  {
+   "en": "Three Guys' Italian",
+   "es": "Italiano de tres chicos",
+   "es_len": 23,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b366har0"
+   ]
+  },
+  {
+   "en": "Three Guys, Late at Night......",
+   "es": "Tres chicos, de noche......",
+   "es_len": 27,
+   "maxunits": 40,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b366har0"
+   ]
+  },
+  {
+   "en": "Tiger in the Labyrinth",
+   "es": "Tigre en el laberinto",
+   "es_len": 21,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c041min0"
+   ]
+  },
+  {
+   "en": "Tiger VS Chihuahua",
+   "es": "Tigre contra Chihuahua",
+   "es_len": 22,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0033ami0"
+   ]
+  },
+  {
+   "en": "Time Flies When You're Having Fun",
+   "es": "El tiempo vuela divirtiéndose",
+   "es_len": 29,
+   "maxunits": 40,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0034ess0"
+   ]
+  },
+  {
+   "en": "To Grandma's House",
+   "es": "A casa de la abuela",
+   "es_len": 19,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 7,
+   "scenes": [
+    "_0021min0",
+    "_0021min1",
+    "_0021min2",
+    "_0021min3",
+    "_0021min4",
+    "_0021min9",
+    "_MP_MIN1"
+   ]
+  },
+  {
+   "en": "To Inko-chan......",
+   "es": "A Inko-chan......",
+   "es_len": 17,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 6,
+   "scenes": [
+    "_0025ess0",
+    "_0025ess1",
+    "_0025ess2",
+    "_0025ess3",
+    "_0025ess4",
+    "_MP_INK2"
+   ]
+  },
+  {
+   "en": "True Nature",
+   "es": "Naturaleza real",
+   "es_len": 15,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0032ed15"
+   ]
+  },
+  {
+   "en": "Two Guys, Late At Night......",
+   "es": "Dos chicos, de noche......",
+   "es_len": 26,
+   "maxunits": 40,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b366har0"
+   ]
+  },
+  {
+   "en": "Two Guys, Late at Night...... +1",
+   "es": "Dos chicos, de noche...... +1",
+   "es_len": 29,
+   "maxunits": 40,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b366har0"
+   ]
+  },
+  {
+   "en": "Unidentified Flying Object",
+   "es": "Objeto volador no identificado",
+   "es_len": 30,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c053koh0"
+   ]
+  },
+  {
+   "en": "Unnoticed Feelings",
+   "es": "Sentimientos ocultos",
+   "es_len": 20,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b046ess0"
+   ]
+  },
+  {
+   "en": "Unprepared",
+   "es": "Sin preparación",
+   "es_len": 15,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0011YUR0"
+   ]
+  },
+  {
+   "en": "Useless Man",
+   "es": "Hombre inútil",
+   "es_len": 13,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a052tig0"
+   ]
+  },
+  {
+   "en": "Visibly Unlucky",
+   "es": "Mala suerte visible",
+   "es_len": 19,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 6,
+   "scenes": [
+    "_MP_SAK1",
+    "_d012sak0",
+    "_d012sak1",
+    "_d012sak2",
+    "_d012sak3",
+    "_d012sak4"
+   ]
+  },
+  {
+   "en": "We're the Same As Ever",
+   "es": "Iguales que siempre",
+   "es_len": 19,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0011HAR0"
+   ]
+  },
+  {
+   "en": "What Worries Me......",
+   "es": "Lo que me preocupa......",
+   "es_len": 24,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0023ess4"
+   ]
+  },
+  {
+   "en": "Where The Feelings Are",
+   "es": "Donde los sentimientos",
+   "es_len": 22,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b292ami0"
+   ]
+  },
+  {
+   "en": "Wife?",
+   "es": "¿Esposa?",
+   "es_len": 8,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a052yur0"
+   ]
+  },
+  {
+   "en": "Wish.",
+   "es": "Deseo.",
+   "es_len": 6,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a163tig0"
+   ]
+  },
+  {
+   "en": "With a Wish",
+   "es": "Con un deseo",
+   "es_len": 12,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a043yas0"
+   ]
+  },
+  {
+   "en": "With Inko-chan......",
+   "es": "Con Inko-chan......",
+   "es_len": 19,
+   "maxunits": 32,
+   "fits": true,
+   "apps": 6,
+   "scenes": [
+    "_0016ess0",
+    "_0016ess1",
+    "_0016ess2",
+    "_0016ess3",
+    "_0016ess4",
+    "_MP_INK1"
+   ]
+  },
+  {
+   "en": "Without Looking Back",
+   "es": "Sin mirar atrás",
+   "es_len": 15,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 6,
+   "scenes": [
+    "_MP_AMI4",
+    "_b293ed20",
+    "_b293ed21",
+    "_b293ed22",
+    "_b293ed23",
+    "_b293ed24"
+   ]
+  },
+  {
+   "en": "Yacchan's Shocking",
+   "es": "Lo impactante de Yacchan",
+   "es_len": 24,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c065ktm0"
+   ]
+  },
+  {
+   "en": "Year-End Crisis",
+   "es": "Crisis anual",
+   "es_len": 12,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0012TIG0"
+   ]
+  },
+  {
+   "en": "Yep, Eternal Spring",
+   "es": "Sí, eterna primavera",
+   "es_len": 20,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a052sak0"
+   ]
+  },
+  {
+   "en": "Yep, Mother and Son",
+   "es": "Sí, madre e hijo",
+   "es_len": 16,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0037ed15"
+   ]
+  },
+  {
+   "en": "Yuri's Phone Call",
+   "es": "La llamada de Yuri",
+   "es_len": 18,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0021yur0"
+   ]
+  },
+  {
+   "en": "Yuri's Wish",
+   "es": "El deseo de Yuri",
+   "es_len": 16,
+   "maxunits": 16,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0033yur0"
+   ]
+  },
+  {
+   "en": "Yuri, Ryuuji, and the Bird",
+   "es": "Yuri, Ryuuji y el pájaro",
+   "es_len": 24,
+   "maxunits": 40,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a163yur0"
+   ]
+  },
+  {
+   "en": "Yuri-chan's Hint #1",
+   "es": "Pista de Yuri-chan #1",
+   "es_len": 21,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0032ed15"
+   ]
+  },
+  {
+   "en": "Yuri-chan's Hint #10",
+   "es": "Pista de Yuri-chan #10",
+   "es_len": 22,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b192min0"
+   ]
+  },
+  {
+   "en": "Yuri-chan's Hint #11",
+   "es": "Pista de Yuri-chan #11",
+   "es_len": 22,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b192min0"
+   ]
+  },
+  {
+   "en": "Yuri-chan's Hint #12",
+   "es": "Pista de Yuri-chan #12",
+   "es_len": 22,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b292ami0"
+   ]
+  },
+  {
+   "en": "Yuri-chan's Hint #13",
+   "es": "Pista de Yuri-chan #13",
+   "es_len": 22,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b293ed25"
+   ]
+  },
+  {
+   "en": "Yuri-chan's Hint #14",
+   "es": "Pista de Yuri-chan #14",
+   "es_len": 22,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 4,
+   "scenes": [
+    "_b293ed20",
+    "_b293ed22",
+    "_b293ed23",
+    "_b293ed24"
+   ]
+  },
+  {
+   "en": "Yuri-chan's Hint #15",
+   "es": "Pista de Yuri-chan #15",
+   "es_len": 22,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b292ami0"
+   ]
+  },
+  {
+   "en": "Yuri-chan's Hint #16",
+   "es": "Pista de Yuri-chan #16",
+   "es_len": 22,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b366har0"
+   ]
+  },
+  {
+   "en": "Yuri-chan's Hint #17",
+   "es": "Pista de Yuri-chan #17",
+   "es_len": 22,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c073min0"
+   ]
+  },
+  {
+   "en": "Yuri-chan's Hint #18",
+   "es": "Pista de Yuri-chan #18",
+   "es_len": 22,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c072min0"
+   ]
+  },
+  {
+   "en": "Yuri-chan's Hint #19",
+   "es": "Pista de Yuri-chan #19",
+   "es_len": 22,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c068ed20"
+   ]
+  },
+  {
+   "en": "Yuri-chan's Hint #2",
+   "es": "Pista de Yuri-chan #2",
+   "es_len": 21,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_0037ed15"
+   ]
+  },
+  {
+   "en": "Yuri-chan's Hint #20",
+   "es": "Pista de Yuri-chan #20",
+   "es_len": 22,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_c068ed10"
+   ]
+  },
+  {
+   "en": "Yuri-chan's Hint #21",
+   "es": "Pista de Yuri-chan #21",
+   "es_len": 22,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_d022ed10"
+   ]
+  },
+  {
+   "en": "Yuri-chan's Hint #3",
+   "es": "Pista de Yuri-chan #3",
+   "es_len": 21,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a193ktm0"
+   ]
+  },
+  {
+   "en": "Yuri-chan's Hint #4",
+   "es": "Pista de Yuri-chan #4",
+   "es_len": 21,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a193ktm0"
+   ]
+  },
+  {
+   "en": "Yuri-chan's Hint #5",
+   "es": "Pista de Yuri-chan #5",
+   "es_len": 21,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a193ktm0"
+   ]
+  },
+  {
+   "en": "Yuri-chan's Hint #6",
+   "es": "Pista de Yuri-chan #6",
+   "es_len": 21,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a292ed10"
+   ]
+  },
+  {
+   "en": "Yuri-chan's Hint #7",
+   "es": "Pista de Yuri-chan #7",
+   "es_len": 21,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a292ed20"
+   ]
+  },
+  {
+   "en": "Yuri-chan's Hint #8",
+   "es": "Pista de Yuri-chan #8",
+   "es_len": 21,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_a364ed10"
+   ]
+  },
+  {
+   "en": "Yuri-chan's Hint #9",
+   "es": "Pista de Yuri-chan #9",
+   "es_len": 21,
+   "maxunits": 24,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "_b170ed30"
+   ]
+  },
+  {
+   "en": "スタートポイント",
+   "es": "Inicio",
+   "es_len": 6,
+   "maxunits": 8,
+   "fits": true,
+   "apps": 1,
+   "scenes": [
+    "STARTPOINT"
+   ]
+  }
+ ],
+ "too_long": []
+}

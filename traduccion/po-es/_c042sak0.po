@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+
+msgid "???「Aaah!」"
+msgstr "???「¡Aaah!」"
+
+msgid "Taiga「Gaaah!」"
+msgstr "Taiga「¡Gaaah!」"
+
+msgid "Taiga「Owwww......」"
+msgstr "Taiga「Ayyyy......」"
+
+msgid "Ryuuji「Argh! What are you doing, Taiga?」"
+msgstr "Ryuuji「¡Agh! ¿Qué haces, Taiga?」"
+
+msgid "Taiga「What am \"I\" doing!? Clearly......」"
+msgstr "Taiga「¡¿Que qué hago \"YO\"?! Es obvio......」"
+
+msgid "???「Ouch...... S-Sorr...... eeeEEEEK!!」"
+msgstr "???「Auch...... P-Perd...... ¡¡HiiiIIII!!」"
+
+msgid "Ryuuji「（Hmm, I seem to recall she's...... named＿Sakura, right?）」"
+msgstr "Ryuuji「（Mmm, creo recordar que......＿se llama Sakura, ¿verdad?）」"
+
+msgid "Taiga「Y-You!」"
+msgstr "Taiga「¡T-Tú!」"
+
+msgid "Sakura「Eeeeek!! P-P-P-P-Palm......!」"
+msgstr "Sakura「¡¡Hiii!! ¡T-T-T-T-Tigre......!」"
+
+msgid "Taiga「There you are, you bouncy brute!＿Haven't you learned to talk yet?」"
+msgstr "Taiga「¡Ahí estás, bruta rebotona! ¿Todavía＿no aprendes a hablar?」"
+
+msgid "Sakura「EEEEEKKKK!」"
+msgstr "Sakura「¡¡HIIIIIII!!」"
+
+msgid "Ryuuji「Wait, Taiga, you should apologize too.＿You're both to blame for running into＿each other.」"
+msgstr "Ryuuji「Espera, Taiga, tú también deberías＿disculparte. Las dos tuvieron＿la culpa de chocar.」"
+
+msgid "Sakura「Aaaaaahh! D-D-D-Del... Delin...!」"
+msgstr "Sakura「¡Aaaaaahh! ¡D-D-D-Del... Delin...!」"
+
+msgid "Taiga「Are you in heat this time? What are＿you agonizing over!?」"
+msgstr "Taiga「¿Ahora estás en celo o qué? ¡¿Por＿qué estás agonizando tanto?!」"
+
+msgid "Ryuuji「That's enough. Just calm down, Taiga!＿Chill out!」"
+msgstr "Ryuuji「Ya basta. ¡Cálmate de una vez,＿Taiga! ¡Tranquilízate!」"
+
+msgid "Taiga「But--!」"
+msgstr "Taiga「¡Pero--!」"
+
+msgid "Ryuuji「No buts! It's your fault, so why are you＿being so aggressively, unyieldingly＿proud?」"
+msgstr "Ryuuji「¡Sin peros! Es tu culpa, así que＿¿por qué te pones tan agresiva e＿inflexiblemente orgullosa?」"
+
+msgid "Taiga「Shut up! She screwed up last time too!＿I'll set her straight!」"
+msgstr "Taiga「¡Cállate! ¡La vez pasada también lo＿arruinó! ¡La pondré en su lugar!」"
+
+msgid "Sakura「NNNOOOOOOOOO!!」"
+msgstr "Sakura「¡¡NNNOOOOOOOOO!!」"
+
+msgid "Ryuuji「Arrrgh, what is it now!?」"
+msgstr "Ryuuji「Aaaagh, ¡¿ahora qué pasa?!」"
+
+msgid "Sakura「For, for, for--!」"
+msgstr "Sakura「¡Pa, pa, pa--!」"
+
+msgid "Ryuuji「......Huh?」"
+msgstr "Ryuuji「......¿Eh?」"
+
+msgid "Sakura「M-My fortune! Don't step on itttt!!」"
+msgstr "Sakura「¡M-Mi papeleta de la suerte!＿¡No la pisessss!!」"
+
+msgid "Ryuuji「......Oh, Taiga, move your foot.」"
+msgstr "Ryuuji「......Ah, Taiga, mueve el pie.」"
+
+msgid "Taiga「Hm?」"
+msgstr "Taiga「¿Mm?」"
+
+msgid "Sakura「P-Please! Please give it back!」"
+msgstr "Sakura「¡P-Por favor! ¡Por favor, devuélvemela!」"
+
+msgid "Taiga「Wait a minute! What's this \"give it back\"＿crap!?」"
+msgstr "Taiga「¡Espera un segundo! ¡¿Qué es esa＿tontería de \"devuélvemela\"?!」"
+
+msgid "Ryuuji「Hey, Taiga......」"
+msgstr "Ryuuji「Oye, Taiga......」"
+
+msgid "Taiga「It's almost as if you think I STOLE it＿from you!」"
+msgstr "Taiga「¡Hablas como si creyeras que te la ROBÉ!」"
+
+msgid "Sakura「I, I'm sorry! But first, move your foot!＿Don't trample on Kota-kun's＿happiness!」"
+msgstr "Sakura「¡L-Lo siento! ¡Pero primero＿mueve el pie! ¡No pisotees la＿felicidad de Kota-kun!」"
+
+msgid "Taiga「......Kota?」"
+msgstr "Taiga「......¿Kota?」"
+
+msgid "Ryuuji「......Don't tell me - Tomiie Kota?」"
+msgstr "Ryuuji「......No me digas, ¿Tomiie Kota?」"
+
+msgid "Sakura「Y-Yes...... I drew a very lucky fortune, so＿I can't part from it at any cost...... So I＿beg of you, please move your foot!」"
+msgstr "Sakura「S-Sí...... Saqué una papeleta muy＿favorable, no la soltaré por nada......＿¡Te lo ruego, por favor mueve el pie!」"
+
+msgid "Taiga「K-K-Kota...... Tomiie Kota...... No......＿N-N-No......」"
+msgstr "Taiga「K-K-Kota...... Tomiie Kota......＿No...... N-N-No......」"
+
+msgid "Ryuuji「Taiga?」"
+msgstr "Ryuuji「¿Taiga?」"
+
+msgid "Taiga「NNNNNOOOOOOOOOOOOOO!!」"
+msgstr "Taiga「¡¡NNNNNOOOOOOOOOOOOOO!!」"
+
+msgid "Sakura「Aaah!」"
+msgstr "Sakura「¡Aaah!」"
+
+msgid "Ryuuji「H-Hey!」"
+msgstr "Ryuuji「¡O-Oye!」"
+
+msgid "Ryuuji「（Arrrgh, at the shrine, of all places......＿It's so crowded I've lost sight of her......＿Oh, but more importantly!）」"
+msgstr "Ryuuji「（Aaaagh, y justo en el santuario......＿Con tanta gente la perdí de vista......＿¡Ah, pero más importante aún!）」"
+
+msgid "Ryuuji「Y-You okay?」"
+msgstr "Ryuuji「¿E-Estás bien?」"
+
+msgid "Sakura「Y-Yes, I'm fine...... My fortune has＿footprints on it though...... Eek!」"
+msgstr "Sakura「S-Sí, estoy bien...... Aunque mi＿papeleta tiene pisadas...... ¡Hii!」"
+
+msgid "Ryuuji「Hm?」"
+msgstr "Ryuuji「¿Mm?」"
+
+msgid "Sakura「N-N-N-N-No, it's n-n-n-nothing......」"
+msgstr "Sakura「N-N-N-N-No, no es n-n-n-nada......」"
+
+msgid "Ryuuji「（What, is she nervous......? No choice,＿then.）」"
+msgstr "Ryuuji「（¿Qué, está nerviosa......?＿No queda otra, entonces.）」"
+
+msgid "Ryuuji「（Smile!）」"
+msgstr "Ryuuji「（¡Sonríe!）」"
+
+msgid "Sakura「EEEEK!! P-Please excuse meeeee!」"
+msgstr "Sakura「¡¡HIIII!! ¡C-Con permisooooo!」"
+
+msgid "Ryuuji「（......Oh yeah, I forgot most people react＿like that...... And she bit her tongue＿too...... *Sigh*）」"
+msgstr "Ryuuji「（......Ah, sí, olvidé que la mayoría＿reacciona así...... Y además se mordió＿la lengua...... *Suspiro*）」"
+
+msgid "???「Pffft, bahahahahahaha!!」"
+msgstr "???「¡Pffft, buajajajajaja!!」"
+
+msgid "Ryuuji「Oh?!」"
+msgstr "Ryuuji「¡¿Eh?!」"
+
+msgid "Taiga「Ryu-Ryuuji, she ran away from you!＿Hahahahahaa...... *cough cough*」"
+msgstr "Taiga「¡Ryu-Ryuuji, salió huyendo de ti!＿Jajajajajaa...... *cof, cof*」"
+
+msgid "Ryuuji「......Dammit.」"
+msgstr "Ryuuji「......Maldición.」"

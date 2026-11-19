@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+
+msgid "Inko-chan「WHEW......」"
+msgstr "Inko-chan「UF......」"
+
+msgid "Ryuuji「Oh, I see you've calmed down,＿Inko-chan.」"
+msgstr "Ryuuji「Ah, veo que ya te calmaste, Inko-chan.」"
+
+msgid "Inko-chan「OH YEAH...... HERE......」"
+msgstr "Inko-chan「OH, SÍ...... TOMA......」"
+
+msgid "Ryuuji「Hm? It's one of your beloved sunflower＿seeds. Are you giving it to me?」"
+msgstr "Ryuuji「¿Mm? Es una de tus queridas semillas＿de girasol. ¿Me la estás dando?」"
+
+msgid "Inko-chan「GIVE...... FROM...... COLLECTION......」"
+msgstr "Inko-chan「DOY...... DE MI...... COLECCIÓN......」"
+
+msgid "Inko-chan「OH, GOOD」"
+msgstr "Inko-chan「OH, BIEN」"
+
+msgid "Ryuuji「Well, I'm going to bed. Good night,＿Inko-chan.」"
+msgstr "Ryuuji「Bueno, me voy a dormir. Buenas＿noches, Inko-chan.」"
+
+msgid "Inko-chan「NIGHT!」"
+msgstr "Inko-chan「¡NOCHES!」"
+
+msgid "Ryuuji「It's not exactly your collection. The one＿who gave them to you was none other＿than yours truly...... Well, whatever. I」"
+msgstr "Ryuuji「No es exactamente tu colección.＿Quien te las dio fue un servidor......＿Bueno, como sea. Yo」"
+
+msgid "Ryuuji「accept your kind gesture.」"
+msgstr "Ryuuji「acepto tu amable gesto.」"

@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「（Oh, I see. Having a lounge on the fifth＿floor really makes it all feel complete.）」"
+msgstr "Ryuuji「（Ah, ya veo. Tener un salón＿en el quinto piso hace que todo＿se sienta completo.）」"
+
+msgid "Ryuuji「（Hm? They have a cold sauna too? That＿might be nice.）」"
+msgstr "Ryuuji「（¿Mm? ¿También tienen sauna fría?＿Eso podría estar bien.）」"
+
+msgid "???「Takasu-kun!」"
+msgstr "???「¡Takasu-kun!」"
+
+msgid "Ryuuji「Hm?」"
+msgstr "Ryuuji「¿Mm?」"
+
+msgid "Ami「All by yourself?」"
+msgstr "Ami「¿Tú solo?」"
+
+msgid "Ryuuji「Yeah. I'm still recovering, after all. I'd＿rather just take it easy.」"
+msgstr "Ryuuji「Sí. Después de todo, sigo recuperándome.＿Prefiero tomármelo con calma.」"
+
+msgid "Ryuuji「What about you? Weren't you with＿Kihara and Kashii?」"
+msgstr "Ryuuji「¿Y tú? ¿No estabas con Kihara y Kashii?」"
+
+msgid "Ryuuji「Wow, they have that here too?」"
+msgstr "Ryuuji「Vaya, ¿tienen eso aquí también?」"
+
+msgid "Ami「There's all kinds of stuff to do here.＿But more importantly, Takasu-kun...」"
+msgstr "Ami「Aquí hay todo tipo de cosas que hacer.＿Pero más importante, Takasu-kun...」"
+
+msgid "Ryuuji「What?」"
+msgstr "Ryuuji「¿Qué?」"
+
+msgid "Ami「Ami-chan's, like, bored. I want to hang＿out with you, 'kay?」"
+msgstr "Ami「Ami-chan está, o sea, aburrida. Quiero＿pasar el rato contigo, ¿sí?」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Ami「Come on, don't you wanna? Let's talk＿by the pool, like, just the two of us①」"
+msgstr "Ami「Vamos, ¿no quieres? Charlemos junto＿a la piscina, o sea, solo los dos①」"
+
+msgid "Hang out"
+msgstr "Pasar el rato"
+
+msgid "Don't hang out"
+msgstr "No pasar el rato"
+
+msgid "Ryuuji「Well, I did say I wanted to relax, so I＿don't really mind.」"
+msgstr "Ryuuji「Bueno, dije que quería relajarme, así＿que en realidad no me importa.」"
+
+msgid "Ami「......Uh, shouldn't you be stuttering and＿stammering right about now?」"
+msgstr "Ami「......Eh, ¿no deberías estar titubeando＿y tartamudeando ahora?」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Ami「Never mind.」"
+msgstr "Ami「No importa.」"
+
+msgid "Ami「Listen, Ami-chan wants to talk about＿fun stuff, so don't bore me, 'kay?」"
+msgstr "Ami「Oye, Ami-chan quiere hablar de cosas＿divertidas, así que no me aburras, ¿sí?」"
+
+msgid "Ryuuji「（Her attitude changes at the drop of a＿hat...... Now then, what should we talk＿about?）」"
+msgstr "Ryuuji「（Su actitud cambia de un segundo＿a otro...... En fin, ¿de qué＿deberíamos hablar?）」"
+
+msgid "Ryuuji「I'll pass. Whenever you ask me for＿something, there's usually some＿strings attached.」"
+msgstr "Ryuuji「Paso. Siempre que me pides algo, por lo＿general hay algún interés oculto.」"
+
+msgid "Ami「Whaaat～? You're so meannn～＿Takasu-kun, you must have one hell of＿a persecution complex～」"
+msgstr "Ami「¿Quéee～? Qué malooo eres～ Takasu-kun,＿seguro tienes un tremendo complejo＿de persecución～」"
+
+msgid "Ryuuji「Did you forget you tricked me at your＿villa over summer break?」"
+msgstr "Ryuuji「¿Olvidaste que me engañaste en tu villa＿en las vacaciones de verano?」"
+
+msgid "Ryuuji「Says the girl who delighted in my＿panic.」"
+msgstr "Ryuuji「Lo dice la chica que disfrutó＿viendo mi pánico.」"
+
+msgid "Ami「What? Did I......? So your memories＿from back then have returned.」"
+msgstr "Ami「¿Qué? ¿Lo hice......? Así que tus＿recuerdos de entonces han vuelto.」"
+
+msgid "Ryuuji「Yeah. Not completely, but more or less.＿Like how you're a wolf in sheep's＿clothing.」"
+msgstr "Ryuuji「Sí. No del todo, pero más o menos. Como＿que eres un lobo con piel de oveja.」"
+
+msgid "Ami「Hmm...... Then you've remembered＿more than you needed to.」"
+msgstr "Ami「Mmm...... Entonces recordaste＿más de lo necesario.」"
+
+msgid "Ryuuji「Gee, sorry. Well, I'm headed to the＿sauna.」"
+msgstr "Ryuuji「Vaya, perdón. Bueno, me＿voy para la sauna.」"
+
+msgid "Ami「Okay, whatever. Try not to shrivel up.」"
+msgstr "Ami「Bueno, como sea. Procura no encogerte.」"
+
+msgid "Ryuuji「Okay.」"
+msgstr "Ryuuji「Está bien.」"
+
+msgid "Ryuuji「（Wow, so this is what a cold sauna's like.）」"
+msgstr "Ryuuji「（Vaya, así que así es una sauna fría.）」"
+
+msgid "Ryuuji「（A guy could really lose track of time in＿here......）」"
+msgstr "Ryuuji「（Uno de verdad podría perder la noción＿del tiempo aquí dentro......）」"
+
+msgid "Ryuuji「*Yawn*......」"
+msgstr "Ryuuji「*Bostezo*......」"
+
+msgid "Ryuuji「........................................................................」"
+msgstr "Ryuuji「....................................＿....................................」"
+
+msgid "Ryuuji「（......Huh? Crap, I totally passed out.）」"
+msgstr "Ryuuji「（......¿Eh? Rayos, me quedé＿totalmente dormido.）」"
+
+msgid "Ami「Maya-chan and Nanako-chan are＿having aromatherapy massages. Only＿two can go in at a time, so I let them go」"
+msgstr "Ami「Maya-chan y Nanako-chan reciben masajes＿de aromaterapia. Solo entran dos a la＿vez, así que las dejé pasar」"
+
+msgid "Ami「first.」"
+msgstr "Ami「primero.」"
+
+msgid "Ami「Huh......? Oh, that one time in the＿bathroom? You were the one getting＿weird ideas in your head. Ami-chan's」"
+msgstr "Ami「¿Eh......? Ah, ¿aquella vez en el＿baño? Tú fuiste el que se puso a＿pensar cosas raras. Ami-chan」"
+
+msgid "Ami「not at fault.」"
+msgstr "Ami「no tiene la culpa.」"

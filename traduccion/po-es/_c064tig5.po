@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+
+msgid "Taiga「You don't have to exaggerate......＿Sheesh, you're hopeless. I'm in a good＿mood today, so I'll spend time with you.」"
+msgstr "Taiga「No tienes que exagerar...... Caray, no＿tienes remedio. Hoy estoy de buen humor,＿así que pasaré tiempo contigo.」"
+
+msgid "Ryuuji「Why?」"
+msgstr "Ryuuji「¿Por qué?」"
+
+msgid "Taiga「You still have holes here and there,＿right? I don't have much time, but I'm＿more than happy to help you fill them.」"
+msgstr "Taiga「Aún tienes huecos por aquí y por allá,＿¿verdad? No tengo mucho tiempo, pero＿con gusto te ayudo a llenarlos.」"
+
+msgid "Ask her a few things"
+msgstr "Preguntarle algunas cosas"
+
+msgid "Don't have much to ask"
+msgstr "No tengo mucho que preguntar"
+
+msgid "Ryuuji「Then I guess I'll ask you a few things.」"
+msgstr "Ryuuji「Entonces creo que te preguntaré＿algunas cosas.」"
+
+msgid "Taiga「What's with that nonchalant attitude?」"
+msgstr "Taiga「¿Y esa actitud tan indiferente?」"
+
+msgid "Ryuuji「By all means, if you please.」"
+msgstr "Ryuuji「Por favor, si eres tan amable.」"
+
+msgid "Taiga「Hmph, you should have said that from＿the start.」"
+msgstr "Taiga「Jum, debiste haber dicho＿eso desde el principio.」"
+
+msgid "Ryuuji「Nah, I don't have anything to ask in＿particular.」"
+msgstr "Ryuuji「Nah, no tengo nada en particular＿que preguntar.」"
+
+msgid "Taiga「I see. In that case, why don't you quit＿standing around and head on home?」"
+msgstr "Taiga「Ya veo. En ese caso, ¿por qué no dejas＿de perder el tiempo y te vas a casa?」"
+
+msgid "Ryuuji「What about you, Taiga?」"
+msgstr "Ryuuji「¿Y tú, Taiga?」"
+
+msgid "Taiga「I still have some shopping to do, so you＿go on ahead. Bye.」"
+msgstr "Taiga「Todavía tengo compras que hacer,＿así que adelántate. Adiós.」"
+
+msgid "Ryuuji「Okay.」"
+msgstr "Ryuuji「Está bien.」"
+
+msgid "Ryuuji「（Wow, she really seems to be handling＿herself just fine......）」"
+msgstr "Ryuuji「（Vaya, de verdad parece que se las＿arregla muy bien sola......）」"
+
+msgid "Ryuuji「（......）」"
+msgstr "Ryuuji「（......）」"
+
+msgid "Ryuuji「（No, I'm not lonely or anything!＿Absolutely not!）」"
+msgstr "Ryuuji「（¡No, no me siento solo＿ni nada! ¡Para nada!）」"

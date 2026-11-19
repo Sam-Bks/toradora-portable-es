@@ -1,0 +1,20 @@
+msgid ""
+msgstr ""
+
+msgid "Taiga「*Yawn*～...... I'm really sleepy all of a＿sudden......」"
+msgstr "Taiga「Uaaah～...... Me dio mucho＿sueño de repente......」"
+
+msgid "Ryuuji「If I ran around and ate like you, I'd be＿sleepy too.」"
+msgstr "Ryuuji「Si hubiera corrido y comido como＿tú, yo también tendría sueño.」"
+
+msgid "Taiga「Ryuuji, let's go home...... Call that taxi.＿We can take it together......」"
+msgstr "Taiga「Ryuuji, vámonos a casa...... Llama a ese＿taxi. Podemos irnos juntos......」"
+
+msgid "Ryuuji「With what money?」"
+msgstr "Ryuuji「¿Con qué dinero?」"
+
+msgid "Taiga「Hurry～」"
+msgstr "Taiga「Apúrate～」"
+
+msgid "Ryuuji「Fine...... No choice, huh. Good grief......」"
+msgstr "Ryuuji「Bien...... No hay opción. Cielos......」"

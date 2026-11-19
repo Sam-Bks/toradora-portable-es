@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+
+msgid "Inko-chan「GO......」"
+msgstr "Inko-chan「ÁNI......」"
+
+msgid "Ryuuji「Hm? \"Go\"?」"
+msgstr "Ryuuji「¿Mm? ¿\"Áni\"?」"
+
+msgid "Inko-chan「GO...... FOREST!」"
+msgstr "Inko-chan「ÁNI...... ¡MAL!」"
+
+msgid "Ryuuji「......Did you mean \"go for it\" just then?」"
+msgstr "Ryuuji「......¿Quisiste decir \"ánimo\"＿hace un momento?」"
+
+msgid "Inko-chan「......」"
+msgstr "Inko-chan「......」"
+
+msgid "Ryuuji「Oh, it's asleep...... Was I hearing＿things......?」"
+msgstr "Ryuuji「Ah, está dormido...... ¿Estaba＿oyendo cosas......?」"
+
+msgid "Ryuuji「No...... Knowing Inko-chan, I'm sure that＿was its way of thanking me.」"
+msgstr "Ryuuji「No...... Conociendo a Inko-chan, seguro＿que esa era su forma de agradecerme.」"
+
+msgid "Ryuuji「Likewise, Inko-chan. Good night.」"
+msgstr "Ryuuji「Igualmente, Inko-chan. Buenas noches.」"

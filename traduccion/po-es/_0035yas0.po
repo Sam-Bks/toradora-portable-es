@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+
+msgid "Yasuko「Oh, Ryuu-chaaan!」"
+msgstr "Yasuko「¡Ah, Ryuu-chaaan!」"
+
+msgid "Ryuuji「What, going to work on New Year's?」"
+msgstr "Ryuuji「¿Qué, vas a trabajar en Año Nuevo?」"
+
+msgid "Yasuko「Nope. There's a New Year's party＿downtown today.」"
+msgstr "Yasuko「Nop. Hoy hay una fiesta de＿Año Nuevo en el centro.」"
+
+msgid "Yasuko「Yacchan is a proprietress～ Sooo this＿kind of social event is fairly important.」"
+msgstr "Yasuko「Yacchan es la encargada～ Asííí que estos＿eventos sociales importan mucho.」"
+
+msgid "Ryuuji「I see...... Being an adult must be＿complicated.」"
+msgstr "Ryuuji「Ya veo...... Ser adulto debe＿de ser complicado.」"
+
+msgid "Yasuko「Not at allll～ Everyone is kind, so it's＿funnn①」"
+msgstr "Yasuko「Para nadaaa～ Todos son amables,＿así que es divertidooo①」"
+
+msgid "Yasuko「So where is Ryuu-chan hurrying off＿to～?」"
+msgstr "Yasuko「¿Y a dónde va Ryuu-chan＿con tanta prisa～?」"
+
+msgid "Ryuuji「Oh, that's right...... Have you seen＿Taiga?」"
+msgstr "Ryuuji「Ah, es cierto...... ¿Has visto a Taiga?」"
+
+msgid "Yasuko「Taiga-chan? Didn't see her. Something＿happennn?」"
+msgstr "Yasuko「¿Taiga-chan? No la vi. ¿Pasó algooo?」"
+
+msgid "Ryuuji「Well, that's what I'd like to know. I'm＿going after her.」"
+msgstr "Ryuuji「Bueno, eso quisiera saber＿yo. Voy tras ella.」"
+
+msgid "Yasuko「Hmmm. Being Ryuu-chan must be＿complicateddd～」"
+msgstr "Yasuko「Mmmm. Ser Ryuu-chan debe＿de ser complicadooo～」"
+
+msgid "Ryuuji「I, I guess......」"
+msgstr "Ryuuji「S-Supongo......」"
+
+msgid "Yasuko「Good luck～ Yacchan's gotta go now～」"
+msgstr "Yasuko「Suerte～ Yacchan tiene que irse～」"
+
+msgid "Ryuuji「Oh, take care.」"
+msgstr "Ryuuji「Ah, cuídate.」"
+
+msgid "Ryuuji「（Well, I've come all the way back to my＿house. What now......?）」"
+msgstr "Ryuuji「（Bueno, ya regresé hasta mi＿casa. ¿Y ahora qué......?）」"
+
+msgid "Ryuuji「（Well, Taiga will come back once she's＿hungry, so I'll wait at home.）」"
+msgstr "Ryuuji「（Bueno, Taiga volverá cuando tenga＿hambre, así que esperaré en casa.）」"
+
+msgid "Ryuuji「（I waited long enough...... Fine, go＿hungry!）」"
+msgstr "Ryuuji「（Ya esperé demasiado...... ¡Bien,＿quédate con hambre!）」"
+
+msgid "Ryuuji「（Taiga...... why didn't you come for＿dinner? The light's on in her room......＿This little tantrum is not funny......）」"
+msgstr "Ryuuji「（Taiga...... ¿por qué no viniste a＿cenar? Hay luz en su cuarto...... Este＿berrinche no tiene gracia......）」"
+
+msgid "Ryuuji「（Fuck.）」"
+msgstr "Ryuuji「（Mierda.）」"

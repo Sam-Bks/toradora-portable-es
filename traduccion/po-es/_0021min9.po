@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「（......Upon closer inspection, the station＿square is messy. Aren't there any＿janitors working on New Year's Eve?）」"
+msgstr "Ryuuji「（......Ahora que me fijo, la plaza de＿la estación está sucia. ¿No hay＿conserjes trabajando en Nochevieja?）」"
+
+msgid "Clean up next time"
+msgstr "Limpiar la próxima vez"
+
+msgid "Prioritize cleaning......"
+msgstr "Priorizar la limpieza......"
+
+msgid "Ryuuji「（......Hmm, I'm really tired all of a＿sudden...... Even I can't do the＿impossible, I guess.）」"
+msgstr "Ryuuji「（......Mmm, de repente me siento muy＿cansado...... Supongo que ni siquiera＿yo puedo hacer lo imposible.）」"
+
+msgid "Ryuuji「（I'll tidy up the station square next＿time......）」"
+msgstr "Ryuuji「（Limpiaré la plaza de la estación＿la próxima vez......）」"
+
+msgid "Ryuuji「（It might be impossible to get it＿completely spotless, but I'll try anyway!）」"
+msgstr "Ryuuji「（Quizá no logre dejarla del todo＿impecable, ¡pero lo intentaré igual!）」"
+
+msgid "Ryuuji「（Hm......）」"
+msgstr "Ryuuji「（Mmm......）」"
+
+msgid "Ryuuji「（An empty can, huh. If you're going to＿leave it, at least try to leave it near the＿wastebasket......）」"
+msgstr "Ryuuji「（Una lata vacía, ¿eh? Si vas a dejarla＿por ahí, al menos procura dejarla cerca＿del cesto de basura......）」"
+
+msgid "Ryuuji「（......*Sigh* I'll throw it away.）」"
+msgstr "Ryuuji「（......*Suspiro* La tiraré.）」"
+
+msgid "Ryuuji「（Oho, is this......?）」"
+msgstr "Ryuuji「（Vaya, ¿esto es......?）」"
+
+msgid "Ryuuji「（\"Luxure Planetarium\"......? Never heard＿of it.）」"
+msgstr "Ryuuji「（¿\"Luxure Planetarium\"......? Nunca＿había oído hablar de él.）」"
+
+msgid "Ryuuji「（Well, they're used ticket stubs, so＿they're trash regardless. I'll throw＿them away.）」"
+msgstr "Ryuuji「（Bueno, son entradas ya usadas,＿así que son basura de todos＿modos. Las tiraré.）」"
+
+msgid "Ryuuji「（Couldn't find anything......）」"
+msgstr "Ryuuji「（No pude encontrar nada......）」"
+
+msgid "Ryuuji「（Guess I'll leave it at that.）」"
+msgstr "Ryuuji「（Supongo que lo dejaré así.）」"

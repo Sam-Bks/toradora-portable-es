@@ -1,0 +1,203 @@
+msgid ""
+msgstr ""
+
+msgid "Yasuko「Okay, Ryuu-chan, gotta go～」"
+msgstr "Yasuko「Bueno, Ryuu-chan, ya me voy～」"
+
+msgid "Ryuuji「Okay. Be careful. If any creepy dudes＿try to talk to you, call my cell.」"
+msgstr "Ryuuji「Sí. Ten cuidado. Si algún tipo raro＿intenta hablarte, llámame al celular.」"
+
+msgid "Yasuko「Okaaay～」"
+msgstr "Yasuko「Está bieeen～」"
+
+msgid "Yasuko「Okayyy. The new semester's here＿already, huhhh?」"
+msgstr "Yasuko「Bueno. Ya llegó el nuevo＿semestre, ¿ehhh?」"
+
+msgid "Ryuuji「......I've been through so much, but I'm＿just glad my memory went back to＿normal before school started.」"
+msgstr "Ryuuji「......He pasado por tanto, pero me＿alegra que mi memoria volviera a la＿normalidad antes de empezar clases.」"
+
+msgid "Yasuko「Huh? It did? Ryuu-chan, your＿memory's back? All of it?」"
+msgstr "Yasuko「¿Eh? ¿Volvió? Ryuu-chan, ¿recuperaste＿la memoria? ¿Toda?」"
+
+msgid "Ryuuji「I think so.」"
+msgstr "Ryuuji「Eso creo.」"
+
+msgid "Yasuko「That's greattt! Wow, Ryuu-chan's＿amazing～! Proud of you～!」"
+msgstr "Yasuko「¡Qué genial! ¡Vaya, Ryuu-chan es＿increíble～! ¡Qué orgullo～!」"
+
+msgid "Ryuuji「It's not much to be proud of.」"
+msgstr "Ryuuji「No es nada de qué enorgullecerse.」"
+
+msgid "Yasuko「Sure it is～ Ryuu-chan worked really＿hard～ Ehehe! So happy nooow!」"
+msgstr "Yasuko「Claro que sí～ Ryuu-chan se esforzó＿mucho～ ¡Ejeje! ¡Qué feliz estoyyy!」"
+
+msgid "Ryuuji「......You need to get going or you'll be＿late.」"
+msgstr "Ryuuji「......Tienes que irte o llegarás tarde.」"
+
+msgid "Yasuko「Oh, you're right! Gotta go～」"
+msgstr "Yasuko「¡Ah, tienes razón! Ya me voy～」"
+
+msgid "Ryuuji「Have a good night.」"
+msgstr "Ryuuji「Que pases buena noche.」"
+
+msgid "Ryuuji「The new semester's here......」"
+msgstr "Ryuuji「Ya está aquí el nuevo semestre......」"
+
+msgid "Ryuuji「（Starting tomorrow, I'll be seeing＿Kushieda every day......）」"
+msgstr "Ryuuji「（A partir de mañana, veré a Kushieda＿todos los días......）」"
+
+msgid "\"......I don't think I should see them.\""
+msgstr "\"......No creo que deba verlos.\""
+
+msgid "Ryuuji「（That's what she said that day, I'm sure＿of it. So in other words...... She didn't＿want to hear my confession......?）」"
+msgstr "Ryuuji「（Eso fue lo que dijo aquel día, estoy＿seguro. En otras palabras...... ¿No＿quiso escuchar mi confesión......?）」"
+
+msgid "Ryuuji「（Did she hate me......? No, that's not it.）」"
+msgstr "Ryuuji「（¿Me odiaba......? No, no es eso.）」"
+
+msgid "\"But of course, I shall do my utmost!＿～*Sparkle*～☆\""
+msgstr "\"¡Por supuesto, haré mi mayor＿esfuerzo! ～*Brillo*～☆\""
+
+msgid "Ryuuji「（If she hated me, then no matter how＿many times Taiga asked, she wouldn't＿have helped me so much.）」"
+msgstr "Ryuuji「（Si me odiara, por más que Taiga se lo＿pidiera, no me habría ayudado tanto.）」"
+
+msgid "\"Look, um...... After the Christmas＿party, you did meet up with Ryuuji,＿right?\""
+msgstr "\"Mira, ehm...... Después de la fiesta＿de Navidad, te viste con Ryuuji,＿¿verdad?\""
+
+msgid "\"......Yeah, what about it?\""
+msgstr "\"......Sí, ¿y qué con eso?\""
+
+msgid "\" 'What about it'......? Didn't something＿happen?\""
+msgstr "\"¿'Y qué con eso'......? ¿No pasó＿algo?\""
+
+msgid "\"No, not really.\""
+msgstr "\"No, la verdad es que no.\""
+
+msgid "Ryuuji「......Do you want to pretend it never＿happened, Kushieda......?」"
+msgstr "Ryuuji「......¿Quieres fingir que nunca＿pasó, Kushieda......?」"
+
+msgid "Ryuuji「（And that night, she claims she \"didn't＿see\" anything, including my feelings......）」"
+msgstr "Ryuuji「（Y esa noche, afirma que \"no vio\" nada,＿incluidos mis sentimientos......）」"
+
+msgid "Ryuuji「That was what she wished for......」"
+msgstr "Ryuuji「Eso era lo que ella deseaba......」"
+
+msgid "Ryuuji「Then what did I bother getting my＿memory back for......?」"
+msgstr "Ryuuji「¿Entonces para qué me molesté en＿recuperar la memoria......?」"
+
+msgid "Ryuuji「..................No, that's not it.」"
+msgstr "Ryuuji「..................No, no es eso.」"
+
+msgid "Ryuuji「............*Sigh*」"
+msgstr "Ryuuji「............*Suspiro*」"
+
+msgid "Ryuuji「（Now I understand what Kushieda＿wants.）」"
+msgstr "Ryuuji「（Ahora entiendo lo que quiere Kushieda.）」"
+
+msgid "Ryuuji「（In that case, I know what I must do......）」"
+msgstr "Ryuuji「（En ese caso, sé lo que＿debo hacer......）」"
+
+msgid "Ryuuji「Inko-chaaan, good morning. Time for＿breakfast!」"
+msgstr "Ryuuji「Inko-chaaan, buenos días.＿¡Hora de desayunar!」"
+
+msgid "Inko-chan「MO, MOR, MORNING」"
+msgstr "Inko-chan「BU, BUE, BUENOS DÍAS」"
+
+msgid "Ryuuji「Morning.」"
+msgstr "Ryuuji「Buenos días.」"
+
+msgid "Inko-chan「MORN, NI...... NE......」"
+msgstr "Inko-chan「BUE, NOS...... NU......」"
+
+msgid "Ryuuji「Yeah, it's morning.」"
+msgstr "Ryuuji「Sí, buenos días.」"
+
+msgid "Inko-chan「NE, NEW!」"
+msgstr "Inko-chan「¡NU, NUEVO!」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Inko-chan「MORNIIIING!!」"
+msgstr "Inko-chan「¡¡BUENOS DÍIIIAS!!」"
+
+msgid "Ryuuji「I-Inko-chan!? H-Hey, don't shout!＿What's the matter!?」"
+msgstr "Ryuuji「¡¿I-Inko-chan?! ¡O-Oye, no＿grites! ¡¿Qué te pasa?!」"
+
+msgid "Yasuko「Waaaah～ You woke me uppp～」"
+msgstr "Yasuko「Aaaah～ Me despertasteee～」"
+
+msgid "Ryuuji「Sorry Yasuko. Inko-chan's all worked＿up for some reason.」"
+msgstr "Ryuuji「Perdón, Yasuko. Inko-chan está muy＿alterado por alguna razón.」"
+
+msgid "Yasuko「Inko-chan～? What? What＿happeneddd?」"
+msgstr "Yasuko「¿Inko-chan～? ¿Qué? ¿Qué pasóoo?」"
+
+msgid "Ryuuji「I don't know. For some unknown＿reason, it's crazy energetic today.」"
+msgstr "Ryuuji「No lo sé. Por alguna extraña razón,＿hoy tiene muchísima energía.」"
+
+msgid "Yasuko「Hmm～ Reallyyy? Isn't Ryuu-chan the＿energetic one?」"
+msgstr "Yasuko「Mmm～ ¿En seriooo? ¿No es Ryuu-chan＿quien tiene energía?」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Yasuko「Wellll, Ryuu-chan's face looks manly,＿just like his papa's～①」"
+msgstr "Yasuko「Bueeeno, Ryuu-chan tiene cara varonil,＿igual que la de su papá～①」"
+
+msgid "Ryuuji「......Huh?」"
+msgstr "Ryuuji「......¿Eh?」"
+
+msgid "Yasuko「Ryuu-chan, are you maybe excited for＿the new semester～?」"
+msgstr "Yasuko「Ryuu-chan, ¿acaso estás emocionado＿por el nuevo semestre～?」"
+
+msgid "Ryuuji「Wha...... The new semester wouldn't......＿Wait, yeah it would.」"
+msgstr "Ryuuji「Qué...... El nuevo semestre no me......＿Espera, sí me emociona.」"
+
+msgid "Yasuko「Okie-dokieee. Yacchan's all smiles＿when Ryuu-chan looks so cool, gansu.」"
+msgstr "Yasuko「Entendidooo. Yacchan se pone feliz＿cuando Ryuu-chan luce genial, gansu.」"
+
+msgid "Inko-chan「GE, GET, GOING」"
+msgstr "Inko-chan「VA, VAM, VÁMONOS」"
+
+msgid "Yasuko「Yup! Have a good day, Ryuu-chan.＿Yacchan's going back to beddd......＿now...... *Yawn*......」"
+msgstr "Yasuko「¡Sip! Que tengas buen día, Ryuu-chan.＿Yacchan vuelve a la camaaa......＿ahora...... *Bostezo*......」"
+
+msgid "Ryuuji「Oh, okay. Well, I'm heading out.」"
+msgstr "Ryuuji「Ah, está bien. Bueno, ya salgo.」"
+
+msgid "Ryuuji「（My concern for Kushieda is showing＿on my face. I gotta be careful.）」"
+msgstr "Ryuuji「（Mi preocupación por Kushieda se nota en＿mi cara. Tengo que tener cuidado.）」"
+
+msgid "Ryuuji「......Guess I'll leave a little early......＿There's something I gotta tell Taiga.」"
+msgstr "Ryuuji「......Creo que saldré＿un poco antes...... Hay algo＿que debo decirle a Taiga.」"
+
+msgid "Ryuuji「Also, the new semester starts＿tomorrow. I'll make you some food, but＿you'll have to reheat it and eat it on」"
+msgstr "Ryuuji「Además, mañana empieza el nuevo＿semestre. Te prepararé comida, pero＿tendrás que recalentarla y comerla por」"
+
+msgid "Ryuuji「your own.」"
+msgstr "Ryuuji「tu cuenta.」"
+
+msgid "Ryuuji「（But that was the first time I'd seen her＿since the confession...... And yet＿Kushieda seemed as normal as ever......）」"
+msgstr "Ryuuji「（Pero era la primera vez que la veía＿desde la confesión...... Y Kushieda se＿veía tan normal como siempre......）」"
+
+msgid "Ryuuji「（Hm?）」"
+msgstr "Ryuuji「（¿Mmm?）」"
+
+msgid "Ryuuji「（To experience the shock of heartbreak＿all over again? I wish I'd never＿remembered this desolate）」"
+msgstr "Ryuuji「（¿Para volver a sentir el golpe＿del desamor? Ojalá nunca hubiera＿recordado este vacío）」"
+
+msgid "Ryuuji「（emptiness......）」"
+msgstr "Ryuuji「（desolador......）」"
+
+msgid "Ryuuji「（That's not it. I know it isn't. Just＿because the person I loved wouldn't＿accept me, that doesn't mean I'm）」"
+msgstr "Ryuuji「（No es eso. Sé que no es así. Solo＿porque quien amaba no me aceptara,＿no significa que esté）」"
+
+msgid "Ryuuji「（better off forgetting her.）」"
+msgstr "Ryuuji「（mejor olvidándola.）」"
+
+msgid "Ryuuji「（I'm the one who fell in love with＿Kushieda. And even after losing my＿memory, I fell for her again. These）」"
+msgstr "Ryuuji「（Yo fui quien se enamoró de Kushieda.＿Y aun tras perder la memoria, volví＿a enamorarme de ella. Estos）」"
+
+msgid "Ryuuji「（feelings for her are that strong.）」"
+msgstr "Ryuuji「（sentimientos por ella＿son así de fuertes.）」"

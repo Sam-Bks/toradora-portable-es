@@ -1,0 +1,527 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「（No matter how I look at it......）」"
+msgstr "Ryuuji「（Lo mire por donde lo mire......）」"
+
+msgid "Ryuuji「Whoa!」"
+msgstr "Ryuuji「¡Uah!」"
+
+msgid "Ryuuji「（T-That scared me! Just the wind...＿False alarm...）」"
+msgstr "Ryuuji「（¡Q-Qué susto! Solo el viento...＿Falsa alarma...）」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Ryuuji「（What the? It's just another winter＿night, but tonight feels especially cold＿for some reason......）」"
+msgstr "Ryuuji「（¿Qué pasa? Es una noche de invierno＿cualquiera, pero por alguna razón hoy＿se siente especialmente fría......）」"
+
+msgid "Ryuuji「I, I guess I'll just go straight to bed!」"
+msgstr "Ryuuji「¡C-Creo que me iré directo a dormir!」"
+
+msgid "Ryuuji「..................」"
+msgstr "Ryuuji「..................」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Ryuuji「（I, I can't sleep!!）」"
+msgstr "Ryuuji「（¡¡N-No puedo dormir!!）」"
+
+msgid "Ryuuji「（Like hell I can just forget I saw that＿thing!）」"
+msgstr "Ryuuji「（¡Ni loco puedo olvidar＿haber visto esa cosa!）」"
+
+msgid "Ryuuji「（Since it's come to this......）」"
+msgstr "Ryuuji「（Ya que llegamos a esto......）」"
+
+msgid "Taiga「So you want to go find out what the＿monster really was?」"
+msgstr "Taiga「¿Entonces quieres ir a averiguar qué＿era en realidad ese monstruo?」"
+
+msgid "Ryuuji「Yeah. Besides, Kushieda said it \"didn't＿feel right,\" so I think it's best that we＿find out for sure.」"
+msgstr "Ryuuji「Sí. Además, Kushieda dijo que \"se＿sentía raro\", así que creo que＿es mejor salir de dudas.」"
+
+msgid "Taiga「So you say, but you're really just too＿scared to go by yourself, aren't you?＿You're completely pathetic.」"
+msgstr "Taiga「Eso dices, pero en realidad te＿da miedo ir solo, ¿no es así?＿Eres totalmente patético.」"
+
+msgid "Ryuuji「......If that's how you feel, then you don't＿have to come.」"
+msgstr "Ryuuji「......Si piensas así, entonces＿no tienes que venir.」"
+
+msgid "Minori「Now now you two, calm down. If you＿want my opinion, I say we all go＿together!」"
+msgstr "Minori「Ya, ya, cálmense los dos. Si＿quieren mi opinión, ¡yo digo＿que vayamos todos juntos!」"
+
+msgid "Taiga「Good grief...... I'm only doing this＿because you asked me to, Minorin......」"
+msgstr "Taiga「Cielos...... Solo hago esto porque＿me lo pediste tú, Minorin......」"
+
+msgid "Minori「Okay then, let's be off!!」"
+msgstr "Minori「¡Bueno, entonces en marcha!!」"
+
+msgid "Minori「Let's see. Didn't we see it right about＿here?」"
+msgstr "Minori「Veamos. ¿No lo vimos más＿o menos por aquí?」"
+
+msgid "Ryuuji「Yeah. Noto was right in that bush＿there.」"
+msgstr "Ryuuji「Sí. Noto estaba justo en＿ese arbusto de ahí.」"
+
+msgid "Taiga「So where would the ghost have been?」"
+msgstr "Taiga「¿Y dónde habría estado el fantasma?」"
+
+msgid "Minori「Let's see. There, I believe......」"
+msgstr "Minori「Veamos. Allí, creo......」"
+
+msgid "Taiga「Nothing's there, though.」"
+msgstr "Taiga「Pero no hay nada ahí.」"
+
+msgid "Ryuuji「Maybe it only appears at night?」"
+msgstr "Ryuuji「¿Quizá solo aparece de noche?」"
+
+msgid "Taiga「Hmph! Must be nice to be a ghost, if＿you can set your own hours of＿operation!」"
+msgstr "Taiga「¡Jum! ¡Qué bien se vive como＿fantasma si puedes fijar tu propio＿horario de atención!」"
+
+msgid "Ryuuji「Except the part where you don't get＿paid......」"
+msgstr "Ryuuji「Salvo por la parte en que＿no te pagan......」"
+
+msgid "Minori「But for some reason, that ghost was＿REAAALLY familiar.」"
+msgstr "Minori「Pero por alguna razón, ese fantasma＿me resultaba MUUUY familiar.」"
+
+msgid "Taiga「Hmm......」"
+msgstr "Taiga「Mmm......」"
+
+msgid "Ryuuji「Hey, Taiga, where are you going?」"
+msgstr "Ryuuji「Oye, Taiga, ¿a dónde vas?」"
+
+msgid "Taiga「To the spot where the ghost appeared.＿We can't know for sure unless we get a＿closer look.」"
+msgstr "Taiga「Al lugar donde apareció el fantasma.＿No podremos asegurarlo a menos que＿lo miremos de cerca.」"
+
+msgid "Ryuuji「Hey, be careful over there. There's a＿cliff, you know!」"
+msgstr "Ryuuji「Oye, ten cuidado por ahí. ¡Hay un＿barranco, por si no lo sabes!」"
+
+msgid "Taiga「Ohhh!!」"
+msgstr "Taiga「¡¡Ohhh!!」"
+
+msgid "Ryuuji「What's wrong!?」"
+msgstr "Ryuuji「¡¿Qué pasa?!」"
+
+msgid "Minori「Taiga!!」"
+msgstr "Minori「¡¡Taiga!!」"
+
+msgid "Taiga「Look at this!!」"
+msgstr "Taiga「¡¡Miren esto!!」"
+
+msgid "Taiga「It's a doll!!」"
+msgstr "Taiga「¡¡Es un muñeco!!」"
+
+msgid "Ryuuji「Huh!?」"
+msgstr "Ryuuji「¡¿Eh?!」"
+
+msgid "Taiga「It feels like...... it's just cloth, stuffed＿with newspaper.」"
+msgstr "Taiga「Se siente como...... solo tela＿rellena de papel periódico.」"
+
+msgid "Minori「OHHH!! I remember now!!」"
+msgstr "Minori「¡¡OHHH!! ¡¡Ya me acuerdo!!」"
+
+msgid "Ryuuji「What is it this time!?」"
+msgstr "Ryuuji「¡¿Qué pasa ahora?!」"
+
+msgid "Minori「I saw that at the last Culture Festival!」"
+msgstr "Minori「¡Vi eso en el último Festival Cultural!」"
+
+msgid "Ryuuji「What!?」"
+msgstr "Ryuuji「¡¿Qué?!」"
+
+msgid "Minori「I did, I did! I remember! Last year, the＿class that did the haunted house used＿these as decorations!」"
+msgstr "Minori「¡Sí, sí! ¡Me acuerdo! ¡El año pasado,＿la clase de la casa embrujada los＿usó como decoración!」"
+
+msgid "Taiga「Then it all points to one thing.」"
+msgstr "Taiga「Entonces todo apunta a una sola cosa.」"
+
+msgid "Ryuuji「What do you mean?」"
+msgstr "Ryuuji「¿Qué quieres decir?」"
+
+msgid "Ryuuji「But why?」"
+msgstr "Ryuuji「¿Pero por qué?」"
+
+msgid "Taiga「Most likely...... out of jealousy.」"
+msgstr "Taiga「Lo más probable...... por celos.」"
+
+msgid "Both「Jealousy!?」"
+msgstr "Ambos「¡¿Celos?!」"
+
+msgid "Ryuuji「What would they stand to gain from＿keeping people away?」"
+msgstr "Ryuuji「¿Qué ganarían con mantener＿alejada a la gente?」"
+
+msgid "Taiga「Nothing in particular. The culprit just＿loathed couples who would do naughty＿things in the dark.」"
+msgstr "Taiga「Nada en especial. El culpable solo＿detestaba a las parejas que hacían＿cosas indebidas en la oscuridad.」"
+
+msgid "Taiga「In other words, the culprit is a＿hopelessly single male student in the＿class who ran the haunted house!」"
+msgstr "Taiga「¡En otras palabras, el culpable es un＿chico soltero sin remedio de la clase＿que organizó la casa embrujada!」"
+
+msgid "Minori「WOOOW!! That's amazing!!」"
+msgstr "Minori「¡¡GUAAAU!! ¡¡Qué increíble!!」"
+
+msgid "Ryuuji「Hang on a sec. Why a male student?」"
+msgstr "Ryuuji「Espera un segundo. ¿Por qué un chico?」"
+
+msgid "Ryuuji「Also, if that's just a doll, then how do＿you explain the bright red blood we＿saw? It was gushing out, remember?」"
+msgstr "Ryuuji「Además, si es solo un muñeco, ¿cómo＿explicas la sangre rojo brillante que＿vimos? Salía a chorros, ¿recuerdas?」"
+
+msgid "Taiga「You ask too many questions. Fine. I'll＿explain it niiice and slooow so even a＿dog could understand.」"
+msgstr "Taiga「Haces demasiadas preguntas. Bien. Te＿lo explicaré bieeen despacio para que＿hasta un perro lo entienda.」"
+
+msgid "Taiga「First of all, my reasoning that it's a guy＿is simple. You'll understand if you＿check the tree.」"
+msgstr "Taiga「Primero, deducir que es un＿chico es simple. Lo entenderás＿si revisas el árbol.」"
+
+msgid "Ryuuji「As in, the tree that the doll was＿hanging from?」"
+msgstr "Ryuuji「¿Te refieres al árbol del＿que colgaba el muñeco?」"
+
+msgid "Minori「Modified to spew blood?」"
+msgstr "Minori「¿Modificado para escupir sangre?」"
+
+msgid "Taiga「They mixed water and a denser red＿liquid and pumped the concoction＿through the tubes.」"
+msgstr "Taiga「Mezclaron agua y un líquido＿rojo más espeso y bombearon＿la mezcla por los tubos.」"
+
+msgid "Taiga「That way it would look like a constant＿stream of bright red blood.」"
+msgstr "Taiga「Así parecería un chorro constante＿de sangre rojo brillante.」"
+
+msgid "Taiga「It must have felt off to Minorin＿because she'd seen the dolls at the＿Culture Festival.」"
+msgstr "Taiga「Seguro a Minorin le pareció raro＿porque ya había visto los muñecos＿en el Festival Cultural.」"
+
+msgid "Taiga「Only some kind of miserly jealousy＿would motivate someone to come up＿with something like this.」"
+msgstr "Taiga「Solo una envidia miserable motivaría＿a alguien a idear algo como esto.」"
+
+msgid "Ryuuji「It all makes sense...... It's logically＿sound......」"
+msgstr "Ryuuji「Todo tiene sentido...... Es＿perfectamente lógico......」"
+
+msgid "Taiga「Hmph! That level of reasoning is hardly＿a challenge.」"
+msgstr "Taiga「¡Jum! Ese nivel de deducción＿no es ningún reto.」"
+
+msgid "Ryuuji「（Whoa...... Taiga looks bigger for some＿reason......）」"
+msgstr "Ryuuji「（Uah...... Taiga se ve más grande＿por alguna razón......）」"
+
+msgid "Minori「A... a... a...」"
+msgstr "Minori「A... a... a...」"
+
+msgid "Ryuuji「Uh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Minori「ASTOUNDING, TAIGA!! You're a＿GENIUS!!」"
+msgstr "Minori「¡¡ASOMBROSO, TAIGA!! ¡¡Eres una GENIO!!」"
+
+msgid "Minori「You're a regular Sherlock Holmes!!」"
+msgstr "Minori「¡¡Eres igual que Sherlock Holmes!!」"
+
+msgid "Taiga「You think so?」"
+msgstr "Taiga「¿Tú crees?」"
+
+msgid "Taiga「Well, it's only natural I would be able to＿shed some light on this. After all,＿there's only ever one path to the truth!」"
+msgstr "Taiga「Bueno, es natural que pudiera aclarar＿esto. Después de todo, ¡solo hay un＿único camino hacia la verdad!」"
+
+msgid "Minori「Soooo COOOOLLL!!」"
+msgstr "Minori「¡¡Qué GENIAAAAL!!」"
+
+msgid "Minori「Taiga, you're the COOLEST!! I've fallen＿in love all over again!!」"
+msgstr "Minori「¡¡Taiga, eres lo MÁS GENIAL!! ¡¡Me＿volví a enamorar de ti!!」"
+
+msgid "Taiga「Silly Minorin, you're exaggerating!」"
+msgstr "Taiga「Tonta Minorin, ¡estás exagerando!」"
+
+msgid "Minori「Nope! Taiga's amazing! Taiga's a＿genius! Taiga will take over the world!!」"
+msgstr "Minori「¡No! ¡Taiga es asombrosa! ¡Taiga es una＿genio! ¡¡Taiga dominará el mundo!!」"
+
+msgid "Ryuuji「The world?」"
+msgstr "Ryuuji「¿El mundo?」"
+
+msgid "Minori「You betcha! She should be called＿\"Ghost Hunter Taiga\" from now on!」"
+msgstr "Minori「¡Por supuesto! ¡De ahora en adelante＿deben llamarla \"Cazafantasmas Taiga\"!」"
+
+msgid "Taiga「\"Ghost Hunter\"?」"
+msgstr "Taiga「¿\"Cazafantasmas\"?」"
+
+msgid "Minori「Yep!」"
+msgstr "Minori「¡Sip!」"
+
+msgid "Minori「The world is full of people suffering＿from paranormal phenomena, and＿Ghost Hunter Taiga saves them, bud!」"
+msgstr "Minori「El mundo está lleno de gente que sufre＿sucesos paranormales, ¡y la＿Cazafantasmas Taiga los salva, amigo!」"
+
+msgid "Taiga「An ally of justice......!」"
+msgstr "Taiga「¡Una aliada de la justicia......!」"
+
+msgid "Minori「Let me be your assistant, Taiga! I come＿quite prepared for the job!」"
+msgstr "Minori「¡Déjame ser tu asistente, Taiga! ¡Vengo＿muy bien preparada para el puesto!」"
+
+msgid "Minori「I've been secretly compiling the＿\"Minorin Spirit Collection\" precisely for＿your use!」"
+msgstr "Minori「¡He recopilado en secreto la＿\"Colección Espiritual Minorin\"＿justo para que la uses!」"
+
+msgid "Minori「'Tis but FATE!」"
+msgstr "Minori「¡Es obra del DESTINO!」"
+
+msgid "Taiga「Fate!」"
+msgstr "Taiga「¡Destino!」"
+
+msgid "Minori「Come on, Ghost Hunter! Let's hold a＿strategy meeting at my house now!」"
+msgstr "Minori「¡Vamos, Cazafantasmas! ¡Hagamos una＿reunión estratégica en mi casa ahora!」"
+
+msgid "Taiga「Yeah!」"
+msgstr "Taiga「¡Sí!」"
+
+msgid "Minori「I'll race you there!」"
+msgstr "Minori「¡A ver quién llega primero!」"
+
+msgid "Taiga「Okay!」"
+msgstr "Taiga「¡De acuerdo!」"
+
+msgid "Ryuuji「What? Hey!」"
+msgstr "Ryuuji「¿Qué? ¡Oigan!」"
+
+msgid "Ryuuji「And they're gone.」"
+msgstr "Ryuuji「Y ya se fueron.」"
+
+msgid "Ryuuji「..................」"
+msgstr "Ryuuji「..................」"
+
+msgid "Ryuuji「Brrrr!」"
+msgstr "Ryuuji「¡Brrrr!」"
+
+msgid "Ryuuji「（Guess I'll go home now......）」"
+msgstr "Ryuuji「（Creo que me iré a casa......）」"
+
+msgid "Ryuuji「Yasuko! Dinner's nearly ready, so clear＿the table, please.」"
+msgstr "Ryuuji「¡Yasuko! La cena casi está lista, así＿que despeja la mesa, por favor.」"
+
+msgid "Yasuko「Okaaay!」"
+msgstr "Yasuko「¡Está bieeen!」"
+
+msgid "Yasuko「Yaaay～ It's mapo tofu daaay～ Thanks＿for the food～」"
+msgstr "Yasuko「¡Siii～! ¡Hoy toca mapo tofuuu～!＿Gracias por la comida～」"
+
+msgid "Ryuuji「Dig in.」"
+msgstr "Ryuuji「Buen provecho.」"
+
+msgid "Yasuko「Hnnya～ Yummy～」"
+msgstr "Yasuko「Mñaa～ Qué rico～」"
+
+msgid "Ryuuji「Good to hear it.」"
+msgstr "Ryuuji「Me alegra oírlo.」"
+
+msgid "Yasuko「Ehehe～ Yacchan's so happy to eat＿Ryuu-chan's cooking～」"
+msgstr "Yasuko「Ejeje～ Yacchan es tan feliz comiendo＿lo que cocina Ryuu-chan～」"
+
+msgid "Ryuuji「......Thanks.」"
+msgstr "Ryuuji「......Gracias.」"
+
+msgid "Yasuko「Oh no!! Taiga-chan's show is on!」"
+msgstr "Yasuko「¡¡Ay no!! ¡Empezó el show de Taiga-chan!」"
+
+msgid "Ryuuji「Is it that late already? Hmm, where's＿the remote......? Here we go.」"
+msgstr "Ryuuji「¿Ya es tan tarde? Mmm, ¿dónde está＿el control......? Aquí está.」"
+
+msgid "Minori「What!? Miss Tiger, you mean it WASN'T＿a ghost!?」"
+msgstr "Minori「¡¿Qué?! Señorita Tigre, ¿quiere＿decir que NO era un fantasma?!」"
+
+msgid "Taiga「Yes, without a doubt. Made with nylon.＿It's an extremely elementary trick.」"
+msgstr "Taiga「Sí, sin lugar a dudas. Hecho con nailon.＿Es un truco muy elemental.」"
+
+msgid "Minori「It can't be!! An unmanned motorcycle＿roaming the town every night!! I was so＿certain it was a ghost biker!!」"
+msgstr "Minori「¡¡No puede ser!! ¡¡Una motocicleta sin＿conductor rondando cada noche!! ¡Creía＿que era un motociclista fantasma!!」"
+
+msgid "Minori「Then, Miss Tiger, you don't believe in＿ghosts?」"
+msgstr "Minori「¿Entonces, Señorita Tigre, usted＿no cree en fantasmas?」"
+
+msgid "Taiga「Of course not!」"
+msgstr "Taiga「¡Por supuesto que no!」"
+
+msgid "Taiga「Because there is only ever one path to＿the truth!!」"
+msgstr "Taiga「¡¡Porque solo hay un único＿camino hacia la verdad!!」"
+
+msgid "Minori「WOOOW!! Miss Tiger has spoken!! The＿story continues after this commercial!」"
+msgstr "Minori「¡¡GUAAAU!! ¡¡La Señorita Tigre＿habló!! ¡La historia sigue tras＿los comerciales!」"
+
+msgid "Yasuko「Wow～ Taiga-chan and Minori-chan are＿getting more and more Ghost＿Hunter-y.」"
+msgstr "Yasuko「Vaya～ Taiga-chan y Minori-chan se ven＿cada vez más como unas cazafantasmas.」"
+
+msgid "Ryuuji「Yeah. The \"Genius College Ghost＿Hunter\" and \"Her Assistant\" are＿famous now.」"
+msgstr "Ryuuji「Sí. La \"Genio Universitaria＿Cazafantasmas\" y＿\"Su Asistente\" ya son famosas.」"
+
+msgid "Yasuko「A lot of customers at the bar are big＿fans of theirs～」"
+msgstr "Yasuko「Muchos clientes del bar son＿grandes admiradores suyos～」"
+
+msgid "Ryuuji「Wow, that's impressive.」"
+msgstr "Ryuuji「Vaya, qué impresionante.」"
+
+msgid "Yasuko「It's great that Taiga-chan's famous＿nooow, but it's lonely without her＿around to have food with usss.」"
+msgstr "Yasuko「Qué bueno que Taiga-chan sea famosa＿ahoraaa, pero me siento sola sin ella＿comiendo con nosotrooos.」"
+
+msgid "Ryuuji「It's been almost three years, huh......＿Well, there's no helping it. They're＿probably crazy busy now, after all.」"
+msgstr "Ryuuji「Ya pasaron casi tres años, eh......＿Bueno, qué se le va a hacer. Seguro＿están ocupadísimas, después de todo.」"
+
+msgid "Yasuko「Hey Ryuu-chan, hasn't Taiga-chan＿tried to contact you at all......?」"
+msgstr "Yasuko「Oye, Ryuu-chan, ¿Taiga-chan no ha＿intentado contactarte para nada......?」"
+
+msgid "Yasuko「That's probably trueee, but after＿Taiga-chan went so far away,＿Yacchan's lonelyyy.」"
+msgstr "Yasuko「Seguramente sea ciertooo, pero desde＿que Taiga-chan se fue tan lejos,＿Yacchan se siente solaaa.」"
+
+msgid "Ryuuji「......Come on, finish your food. You have＿work today, don't you?」"
+msgstr "Ryuuji「......Vamos, termina tu comida.＿Hoy tienes trabajo, ¿no?」"
+
+msgid "Yasuko「Oh, you're right!」"
+msgstr "Yasuko「¡Ah, tienes razón!」"
+
+msgid "Yasuko「Nom～ This mapo tofu's so tasty!!」"
+msgstr "Yasuko「Ñam～ ¡¡Este mapo tofu está delicioso!!」"
+
+msgid "Ryuuji「（I'm glad Yasuko's so simpleminded......）」"
+msgstr "Ryuuji「（Me alegra que Yasuko sea＿tan simple......）」"
+
+msgid "Yasuko「Okay, gotta go!」"
+msgstr "Yasuko「¡Bueno, ya me voy!」"
+
+msgid "Ryuuji「Okay. Take care and have a good night.」"
+msgstr "Ryuuji「Sí. Cuídate y que pases buena noche.」"
+
+msgid "Yasuko「Okaaay!」"
+msgstr "Yasuko「¡Está bieeen!」"
+
+msgid "Ryuuji「（Alright, the dishes are done!）」"
+msgstr "Ryuuji「（¡Listo, ya lavé los platos!）」"
+
+msgid "Ryuuji「（I wonder if it's still on......）」"
+msgstr "Ryuuji「（Me pregunto si seguirá al aire......）」"
+
+msgid "Minori「Alright, Miss Tiger, let's end things＿with a word to everyone nationwide!」"
+msgstr "Minori「¡Bien, Señorita Tigre, cerremos con＿unas palabras para todo el país!」"
+
+msgid "Taiga「At any given time, there is only ever＿one path to the truth!!」"
+msgstr "Taiga「¡¡En todo momento, solo existe un＿único camino hacia la verdad!!」"
+
+msgid "Minori「Alright, that's a wrap! We'll see you＿next week!!」"
+msgstr "Minori「¡Muy bien, corte! ¡¡Nos vemos＿la próxima semana!!」"
+
+msgid "Ryuuji「Ghost Hunter, huh...... I wonder how＿many mysteries the two of them have＿solved......」"
+msgstr "Ryuuji「Cazafantasmas, eh...... Me pregunto＿cuántos misterios habrán resuelto＿las dos......」"
+
+msgid "Ryuuji「But...... Kushieda......」"
+msgstr "Ryuuji「Pero...... Kushieda......」"
+
+msgid "Ryuuji「It's possible one of the ones you＿\"debunked\" was, in fact, the real＿thing......」"
+msgstr "Ryuuji「Es posible que uno de los casos＿que \"desmintieron\" fuera, de＿hecho, algo real......」"
+
+msgid "Ryuuji「Just because you can't see it doesn't＿mean it isn't there......」"
+msgstr "Ryuuji「Que no puedas verlo no significa＿que no esté ahí......」"
+
+msgid "Yuri「Hello. First of all, perhaps I should＿thank you for your hard work,＿Takasu-kun.」"
+msgstr "Yuri「Hola. Antes que nada, quizá＿debería agradecerte por tu arduo＿trabajo, Takasu-kun.」"
+
+msgid "Yuri「Now that you got this ending, the＿reason I brought you here......」"
+msgstr "Yuri「Ahora que obtuviste este final, la razón＿por la que te traje aquí......」"
+
+msgid "Yuri「......is none other than to discuss the＿route you chose. I thought we could＿ponder it together.」"
+msgstr "Yuri「......no es otra que hablar sobre la＿ruta que elegiste. Pensé que podríamos＿reflexionar al respecto juntos.」"
+
+msgid "Yuri「Well then, let's evaluate the ending you＿just saw.」"
+msgstr "Yuri「Bien, evaluemos el final＿que acabas de ver.」"
+
+msgid "Yuri「Welcome, Takasu-kun.」"
+msgstr "Yuri「Bienvenido, Takasu-kun.」"
+
+msgid "Yuri「Well then, let's begin to evaluate the＿ending you just saw.」"
+msgstr "Yuri「Bien, empecemos a evaluar el＿final que acabas de ver.」"
+
+msgid "Yuri「If, by chance, you'd like to alter this＿outcome, I'll give you just one hint.」"
+msgstr "Yuri「Si por casualidad quisieras cambiar este＿resultado, te daré una sola pista.」"
+
+msgid "Yuri「Take special care of Inko-chan＿regularly. Especially during New＿Year's. It'll solve your problems.」"
+msgstr "Yuri「Cuida muy bien de Inko-chan con＿frecuencia. Sobre todo en Año Nuevo.＿Resolverá tus problemas.」"
+
+msgid "Yuri「Now then, if I were to grade this＿ending, I guess I'd give it 70 points.＿Let's put more effort into this!」"
+msgstr "Yuri「Ahora bien, si calificara este final,＿supongo que le daría 70 puntos.＿¡Esforcémonos un poco más!」"
+
+msgid "Yuri「Okay, that's all for today. Until next＿time!」"
+msgstr "Yuri「Bueno, eso es todo por hoy.＿¡Hasta la próxima!」"
+
+msgid "『Music』 is now available in 『Extra』"
+msgstr "『Música』 ya está disponible en 『Extra』"
+
+msgid "『Album』 is now available in 『Extra』"
+msgstr "『Álbum』 ya está disponible en 『Extra』"
+
+msgid "Ryuuji「（Just what the hell was that thing......? A＿tall shadow, looming out of the＿darkness...... With blood gushing out of）」"
+msgstr "Ryuuji「（¿Qué demonios era esa cosa......? Una＿sombra alta, surgiendo de la＿oscuridad...... Con sangre brotando）」"
+
+msgid "Ryuuji「（its mouth to boot......）」"
+msgstr "Ryuuji「（de su boca, encima......）」"
+
+msgid "Taiga「According to Kitamura-kun, the ghost＿sightings at the observatory started in＿the winter of last year. In other words,」"
+msgstr "Taiga「Según Kitamura-kun, los avistamientos de＿fantasmas en el observatorio empezaron＿el invierno pasado. Es decir,」"
+
+msgid "Taiga「after the Culture Festival.」"
+msgstr "Taiga「después del Festival Cultural.」"
+
+msgid "Taiga「Most likely, when the haunted house＿was being taken down, someone came＿to the observatory with one of those」"
+msgstr "Taiga「Lo más probable es que, al desmontar＿la casa embrujada, alguien viniera al＿observatorio con uno de esos」"
+
+msgid "Taiga「dolls and hung it on this tree with＿string.」"
+msgstr "Taiga「muñecos y lo colgara de este＿árbol con una cuerda.」"
+
+msgid "Taiga「That's right. This observatory is＿renowned for young couples that＿sneak in at night. By setting up this」"
+msgstr "Taiga「Así es. Este observatorio es famoso＿por parejas jóvenes que se escabullen＿de noche. Al montar este」"
+
+msgid "Taiga「little scare, they could frighten people＿away.」"
+msgstr "Taiga「pequeño susto, podían ahuyentar＿a la gente.」"
+
+msgid "Taiga「Yes. At the base of the tree, someone＿left some kind of crafting tool. Judging＿from that, one can surmise that the」"
+msgstr "Taiga「Sí. Al pie del árbol dejaron una＿herramienta de manualidades. A juzgar＿por eso, se puede deducir que el」"
+
+msgid "Taiga「culprit acted alone.」"
+msgstr "Taiga「culpable actuó solo.」"
+
+msgid "Taiga「In addition, the doll's been modified to＿facilitate spewing blood, so it's heavier＿than normal. It'd be impossible to carry」"
+msgstr "Taiga「Además, modificaron el muñeco para que＿escupa sangre, así que pesa más de lo＿normal. Sería imposible cargarlo」"
+
+msgid "Taiga「it and set it up unless you're male.」"
+msgstr "Taiga「y montarlo a menos que seas hombre.」"
+
+msgid "Taiga「To give the appearance of gushing＿blood, they've attached some clear＿tubes. Not just to the mouth like you」"
+msgstr "Taiga「Para simular que brota sangre, le＿pusieron unos tubos transparentes.＿No solo en la boca como vieron」"
+
+msgid "Taiga「guys saw, but also to the neck and＿arms.」"
+msgstr "Taiga「ustedes, sino también en＿el cuello y los brazos.」"
+
+msgid "Minori「With both brains and beauty, she's＿practically taken over the world＿already! The birth of a new ally of」"
+msgstr "Minori「¡Con cerebro y belleza, ya casi＿conquistó el mundo! ¡El nacimiento de＿una nueva aliada de la」"
+
+msgid "Minori「justice!!」"
+msgstr "Minori「justicia!!」"
+
+msgid "Minori「Surely it must be the regret of the＿young man who bought it with his first＿paycheck and died riding it for the」"
+msgstr "Minori「¡¡Seguro es el pesar del joven que＿la compró con su primer sueldo y＿murió conduciéndola por」"
+
+msgid "Minori「first time in an accident that's＿powering it!!」"
+msgstr "Minori「primera vez en un accidente＿lo que la impulsa!!」"
+
+msgid "Taiga「It's true that accident occurred close＿to where the \"ghost biker\" was first＿seen. But people are just choosing to」"
+msgstr "Taiga「Sí, el accidente fue cerca de donde＿vieron al \"motociclista fantasma\" por＿primera vez. Pero la gente solo elige」"
+
+msgid "Taiga「believe in this story!」"
+msgstr "Taiga「creer en esta historia!」"
+
+msgid "Ryuuji「No, not lately. Well, she looks like she's＿doing okay on TV. I'm sure she's eating＿three square meals a day, so she's」"
+msgstr "Ryuuji「No, últimamente no. En televisión se ve＿bien. Seguro que hace sus tres comidas＿al día, así que」"
+
+msgid "Ryuuji「probably fine.」"
+msgstr "Ryuuji「probablemente esté bien.」"
+
+msgid "Yuri「I'll come and see you every time you＿reach an ending.」"
+msgstr "Yuri「Vendré a verte cada vez que＿llegues a un final.」"
+
+msgid "Yuri「I want you to reflect on the actions you＿made this time and keep them in mind＿for next time.」"
+msgstr "Yuri「Quiero que reflexiones sobre las＿decisiones que tomaste esta vez y las＿tengas en cuenta para la próxima.」"
+
+msgid "Yuri「Aisaka-san and Kushieda-san teamed＿up to become Ghost Hunters......＿Goodness, what on earth could have」"
+msgstr "Yuri「Aisaka-san y Kushieda-san se unieron＿para volverse Cazafantasmas......＿Cielos, ¿qué diablos pudo haber」"
+
+msgid "Yuri「led to this outcome?」"
+msgstr "Yuri「llevado a este resultado?」"
+
+msgid "Yuri「They seem content in life now, but＿what matters is, are YOU okay with it?＿Gluing yourself to the TV is pathetic,」"
+msgstr "Yuri「Parecen felices con su vida, pero lo que＿importa es: ¿TÚ estás bien con eso?＿Pegarte al televisor es patético,」"
+
+msgid "Yuri「you know.」"
+msgstr "Yuri「¿sabes?」"

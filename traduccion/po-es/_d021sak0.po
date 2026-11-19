@@ -1,0 +1,179 @@
+msgid ""
+msgstr ""
+
+msgid "Sakura「K-Kota-kun!?」"
+msgstr "Sakura「¡¿K-Kota-kun?!」"
+
+msgid "Kota「Yep, it's me, Sakura-chan.」"
+msgstr "Kota「Sí, soy yo, Sakura-chan.」"
+
+msgid "Sakura「Oh...... Listen, where are you? I've been＿calling you nonstop!」"
+msgstr "Sakura「Ah...... Oye, ¿dónde estás?＿¡No he dejado de llamarte!」"
+
+msgid "Kota「I'm outside your house.」"
+msgstr "Kota「Afuera de tu casa.」"
+
+msgid "Sakura「Hang on, I'll be right there.」"
+msgstr "Sakura「Espera, ya voy.」"
+
+msgid "Kota「............」"
+msgstr "Kota「............」"
+
+msgid "Sakura「K-Kota-kun......?」"
+msgstr "Sakura「¿K-Kota-kun......?」"
+
+msgid "Kota「Sakura-chan...... It's okay. It's me, Kota.」"
+msgstr "Kota「Sakura-chan...... Tranquila.＿Soy yo, Kota.」"
+
+msgid "Sakura「O-Okay......」"
+msgstr "Sakura「E-Está bien......」"
+
+msgid "Kota「Sakura-chan, can I talk to you?」"
+msgstr "Kota「Sakura-chan, ¿podemos hablar?」"
+
+msgid "Sakura「Of course.」"
+msgstr "Sakura「Claro.」"
+
+msgid "Sakura「......What!? Y-You'll disappear......?」"
+msgstr "Sakura「......¡¿Qué?! ¿V-Vas a＿desaparecer......?」"
+
+msgid "Sakura「S-Sorry, but...... what!? I don't get it,＿Kota-kun!」"
+msgstr "Sakura「P-Perdón, pero...... ¡¿qué?!＿¡No entiendo, Kota-kun!」"
+
+msgid "Sakura「Huh? What? A-Are you gonna die!?」"
+msgstr "Sakura「¿Eh? ¿Qué? ¡¿T-Te vas a morir?!」"
+
+msgid "Sakura「O-Okay......」"
+msgstr "Sakura「E-Está bien......」"
+
+msgid "Sakura「............」"
+msgstr "Sakura「............」"
+
+msgid "Sakura「............」"
+msgstr "Sakura「............」"
+
+msgid "Kota「Uh, err...... S-So, Sakura-chan...... At this＿point, I, I want you to...... forget about＿me.」"
+msgstr "Kota「Eh, ehm...... A-Así que,＿Sakura-chan...... Ahora, y-yo quiero＿que...... te olvides de mí.」"
+
+msgid "Sakura「What!? W-What do you......?」"
+msgstr "Sakura「¡¿Qué?! ¿Q-Qué quieres＿decir......?」"
+
+msgid "Kota「Listen! I'm leaving the other Tomiie＿Kota to you...... So, if, if he happens＿to...... If it turns out he's a good guy......」"
+msgstr "Kota「¡Escucha! Te dejo al otro Tomiie＿Kota...... Si él, si resulta......＿Si resulta ser un buen chico......」"
+
+msgid "Kota「Please, Sakura-chan...... Please, fall in＿love with Tomiie Kota again......!」"
+msgstr "Kota「Por favor, Sakura-chan......＿¡Por favor, vuelve a enamorarte＿de Tomiie Kota......!」"
+
+msgid "Sakura「......!!」"
+msgstr "Sakura「¡......!!」"
+
+msgid "Kota「...Thanks for hearing me out. Well then,＿it's getting late, so I should, you know...」"
+msgstr "Kota「...Gracias por escucharme. Bueno, ya es＿tarde, así que debería, ya sabes...」"
+
+msgid "Sakura「Wait!」"
+msgstr "Sakura「¡Espera!」"
+
+msgid "Kota「S-Sakura-chan......」"
+msgstr "Kota「S-Sakura-chan......」"
+
+msgid "Sakura「Please...... Stay here! No matter what!」"
+msgstr "Sakura「Por favor...... ¡Quédate aquí!＿¡Pase lo que pase!」"
+
+msgid "Kota「............」"
+msgstr "Kota「............」"
+
+msgid "Sakura「I don't understand what you said＿earlier...... but...... while you're still＿Kota-kun...... please......」"
+msgstr "Sakura「No entiendo lo que dijiste antes......＿pero...... mientras sigas siendo＿Kota-kun...... por favor......」"
+
+msgid "Kota「O-Okay......」"
+msgstr "Kota「E-Está bien......」"
+
+msgid "Sakura「Kota-kun...... I finally, really believe you.＿I believe you're Kota-kun.」"
+msgstr "Sakura「Kota-kun...... Por fin te creo de＿verdad. Creo que eres Kota-kun.」"
+
+msgid "Kota「Yeah, I'm me, Sakura-chan.」"
+msgstr "Kota「Sí, soy yo, Sakura-chan.」"
+
+msgid "Sakura「So...... please......」"
+msgstr "Sakura「Así que...... por favor......」"
+
+msgid "Kota「B-But......」"
+msgstr "Kota「P-Pero......」"
+
+msgid "Sakura「Is it because it's not your real body?」"
+msgstr "Sakura「¿Es porque ese no es tu＿verdadero cuerpo?」"
+
+msgid "Kota「I... I...」"
+msgstr "Kota「Yo... Yo...」"
+
+msgid "Sakura「I want to do this with you as you are.」"
+msgstr "Sakura「Quiero hacerlo contigo tal como eres.」"
+
+msgid "Kota「Sakura-chan......」"
+msgstr "Kota「Sakura-chan......」"
+
+msgid "Sakura「Please.」"
+msgstr "Sakura「Por favor.」"
+
+msgid "Kota「......Okay.」"
+msgstr "Kota「......Está bien.」"
+
+msgid "Kota「（......Oh...... My head feels kinda heavy......＿At this rate, I won't last long enough to＿see the start of the new year.）」"
+msgstr "Kota「（......Ah...... Siento la cabeza algo＿pesada...... Así no voy a aguantar hasta＿que empiece el año nuevo.）」"
+
+msgid "Kota「Sakura-chan...... Looks like it's time to＿say goodbye......」"
+msgstr "Kota「Sakura-chan...... Parece que llegó＿la hora de despedirnos......」"
+
+msgid "Sakura「......Okay.」"
+msgstr "Sakura「......Está bien.」"
+
+msgid "Kota「Thank you...... for everything......」"
+msgstr "Kota「Gracias...... por todo......」"
+
+msgid "Sakura「No, thank you...... S-Sorry, I can't stop＿myself from c-crying......」"
+msgstr "Sakura「No, gracias a ti...... P-Perdón, no＿puedo dejar de ll-llorar......」"
+
+msgid "Kota「Don't frown......」"
+msgstr "Kota「No pongas esa cara......」"
+
+msgid "Sakura「......I, I can't help it......!」"
+msgstr "Sakura「......¡N-No puedo evitarlo......!」"
+
+msgid "Kota「Sakura......chan......」"
+msgstr "Kota「Sakura......chan......」"
+
+msgid "Kota「（Aww...... Why do I...... feel so happy......?）」"
+msgstr "Kota「（Ah...... ¿Por qué...... me＿siento tan feliz......?）」"
+
+msgid "Ryuuji「Goodbye...... Sakura-chan......」"
+msgstr "Ryuuji「Adiós...... Sakura-chan......」"
+
+msgid "Kota「Everything feels weird...... I'm losing my＿sense of reality, or maybe it just feels＿fuzzy...... And I'm subconsciously」"
+msgstr "Kota「Todo es raro...... Pierdo la noción＿de la realidad, o quizá todo es＿borroso...... Y sin darme cuenta」"
+
+msgid "Kota「speaking weirdly......」"
+msgstr "Kota「hablo raro......」"
+
+msgid "Kota「No...... It's just a gut feeling, but I don't＿think that'll happen. Now,＿Sakura-chan...... I want you to calm」"
+msgstr "Kota「No...... Es una corazonada, pero＿no creo que pase. Ahora,＿Sakura-chan...... Quiero que te calmes」"
+
+msgid "Kota「down and listen to what I'm about to＿tell you.」"
+msgstr "Kota「y escuches lo que voy a decirte.」"
+
+msgid "Kota「The...... \"me\" that's really＿Takasu-senpai? I think he'll become＿me for real soon enough. He's」"
+msgstr "Kota「¿El...... \"yo\" que en realidad＿es Takasu-senpai? Creo que pronto＿será yo de verdad. Está」"
+
+msgid "Kota「remembering my memories, so it's＿likely he'll become Tomiie Kota＿completely.」"
+msgstr "Kota「recordando mis recuerdos, así＿que probablemente se convierta＿del todo en Tomiie Kota.」"
+
+msgid "Kota「And soon enough...... I'll become＿Takasu-senpai completely. The＿Palmtop Tiger herself guarantees it,」"
+msgstr "Kota「Y pronto...... seré Takasu-senpai＿por completo. Lo asegura la propia Tigre＿de Bolsillo,」"
+
+msgid "Kota「haha.」"
+msgstr "Kota「jaja.」"
+
+msgid "Kota「（Sakura-chan...... I wanted to more of＿this with you...... Haha, all those earthly＿desires...... Fitting, to disappear as the）」"
+msgstr "Kota「（Sakura-chan...... Quería más＿contigo...... Jaja, deseo terrenal......＿Qué apropiado irme con las）」"
+
+msgid "Kota「（new year's bell tolls......）」"
+msgstr "Kota「（campanadas de Año Nuevo......）」"

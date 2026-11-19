@@ -1,0 +1,248 @@
+msgid ""
+msgstr ""
+
+msgid "???「Kyaaa～! L-Look outttt～!」"
+msgstr "???「¡Kyaaa～! ¡C-Cuidaaaado～!」"
+
+msgid "Everyone「Hm?」"
+msgstr "Todos「¿Mmm?」"
+
+msgid "Taiga「Gaahh!」"
+msgstr "Taiga「¡Gaaah!」"
+
+msgid "Taiga「Owwww......」"
+msgstr "Taiga「Aaaay......」"
+
+msgid "Sakura「I, I'm so sorry. Are you hurt?」"
+msgstr "Sakura「L-Lo siento mucho. ¿Te lastimaste?」"
+
+msgid "Taiga「YOUUUUU!! You sprang out of＿nowhere!!」"
+msgstr "Taiga「¡¡TÚUUUU!! ¡¡Saliste de la nada!!」"
+
+msgid "Sakura「Eeek!」"
+msgstr "Sakura「¡Iiik!」"
+
+msgid "Ryuuji「Wait, Taiga!」"
+msgstr "Ryuuji「¡Espera, Taiga!」"
+
+msgid "Sakura「Takasu-senpai......!」"
+msgstr "Sakura「¡Takasu-senpai......!」"
+
+msgid "Ryuuji「Good to see you again. Thanks for＿yesterday.」"
+msgstr "Ryuuji「Qué gusto verte de nuevo.＿Gracias por lo de ayer.」"
+
+msgid "Sakura「Oh yes. I'm sorry I wasn't able to wash＿your clothes in the end. Did the stains＿come out?」"
+msgstr "Sakura「Ah, sí. Perdón por no poder lavar tu＿ropa al final. ¿Salieron las manchas?」"
+
+msgid "Ryuuji「Yeah, without a trace. Likewise, please＿excuse Taiga's rudeness, and tell your＿sister sorry for me.」"
+msgstr "Ryuuji「Sí, sin dejar rastro. Igualmente,＿perdona la grosería de Taiga, y dale＿mis disculpas a tu hermana.」"
+
+msgid "Sakura「Okay.」"
+msgstr "Sakura「Está bien.」"
+
+msgid "Taiga「This is no time for chit-chat!! Have＿Hooters explain why she just fell out of＿the sky!」"
+msgstr "Taiga「¡¡No es momento para charlas!!＿¡Que Pechugona explique por qué＿acaba de caer del cielo!」"
+
+msgid "Kota「Sakura-chaaaaan～～～ Are you＿okay～?」"
+msgstr "Kota「Sakura-chaaaaan～～～ ¿Estás bien～?」"
+
+msgid "Sakura「Kota-kun!」"
+msgstr "Sakura「¡Kota-kun!」"
+
+msgid "Kota「Eeek, it's Aisaka-senpai and＿Takasu-senpai......!」"
+msgstr "Kota「¡Iiik, son Aisaka-senpai＿y Takasu-senpai......!」"
+
+msgid "Taiga「Ugh, Tomiie Kota......!」"
+msgstr "Taiga「Agh, ¡Tomiie Kota......!」"
+
+msgid "Kota「S-S-S-Sakura-chan! You're in danger,＿so g-g-g-get behind me!」"
+msgstr "Kota「¡S-S-S-Sakura-chan! Estás en peligro,＿¡p-p-p-ponte detrás de mí!」"
+
+msgid "Sakura「O-Okay!」"
+msgstr "Sakura「¡E-Está bien!」"
+
+msgid "Kota「What did you do to＿S-S-S-Sakura-chan?! P-Pick on＿someone your own size!!」"
+msgstr "Kota「¡¿Qué le hicieron a S-S-S-Sakura-chan?!＿¡¡M-Métanse con alguien de＿su tamaño!!」"
+
+msgid "Ryuuji「......Hold your horses.」"
+msgstr "Ryuuji「......Cálmate un poco.」"
+
+msgid "Sakura「I'm sorry. We were grass sledding and＿couldn't slow down......」"
+msgstr "Sakura「Lo siento. Andábamos en trineo por el＿césped y no pudimos frenar......」"
+
+msgid "Ryuuji「Grass sledding?」"
+msgstr "Ryuuji「¿Trineo en el césped?」"
+
+msgid "Sakura「We were sliding down the riverbank on＿a piece of cardboard. It's fun～」"
+msgstr "Sakura「Nos deslizábamos por la orilla del＿río en un cartón. Es divertido～」"
+
+msgid "Taiga「What are you, five?!」"
+msgstr "Taiga「¡¿Qué tienen, cinco años?!」"
+
+msgid "Sakura「I, I'm sorryyyyy!」"
+msgstr "Sakura「¡L-Lo sientoooo!」"
+
+msgid "Kota「It's not Sakura-chan's fault! I'm sorry. I＿suggested grass sledding in the first＿place, so it's my fault this happened.」"
+msgstr "Kota「¡No es culpa de Sakura-chan! Perdón.＿Yo propuse andar en trineo por el＿césped, así que esto es culpa mía.」"
+
+msgid "Sakura「No, I was overenthusiastic about it,＿so...... It's not Kota-kun's fault.」"
+msgstr "Sakura「No, yo me entusiasmé de más, así＿que...... No es culpa de Kota-kun.」"
+
+msgid "Kota「Sakura-chan......」"
+msgstr "Kota「Sakura-chan......」"
+
+msgid "Sakura「Oh, Kota-kun......」"
+msgstr "Sakura「Ay, Kota-kun......」"
+
+msgid "Sakura「I, I promise. We're very sorry.」"
+msgstr "Sakura「L-Lo prometo. Lo sentimos mucho.」"
+
+msgid "Kota「P-Please excuse us.」"
+msgstr "Kota「C-Con permiso.」"
+
+msgid "Taiga「*Sigh*......」"
+msgstr "Taiga「*Suspiro*......」"
+
+msgid "Ryuuji「Hm? What's got you sighing?」"
+msgstr "Ryuuji「¿Mmm? ¿Por qué suspiras?」"
+
+msgid "Taiga「That Kanou sister's chest...... The bulk I＿felt when I was being crushed was＿formidable.」"
+msgstr "Taiga「El pecho de esa hermana Kanou......＿El volumen que sentí cuando me＿aplastó era formidable.」"
+
+msgid "Ryuuji「Yeah, that's the impression I got.」"
+msgstr "Ryuuji「Sí, esa fue la impresión que me dio.」"
+
+msgid "Ryuuji「Unfortunately...... They're all-natural.」"
+msgstr "Ryuuji「Por desgracia...... Son＿totalmente naturales.」"
+
+msgid "Taiga「Y-You're probably right......」"
+msgstr "Taiga「P-Probablemente tengas razón......」"
+
+msgid "Ryuuji「It's too early to get depressed. Try and＿see if the supplement works on you,＿okay? ......Hm? Kawashima disappeared.」"
+msgstr "Ryuuji「Es pronto para deprimirse. Prueba si＿el suplemento te funciona, ¿sí?＿......¿Mmm? Kawashima desapareció.」"
+
+msgid "Ami「Oh, are you done～?」"
+msgstr "Ami「Ah, ¿ya terminaron～?」"
+
+msgid "Ryuuji「Don't give me that. I was looking for＿you.」"
+msgstr "Ryuuji「No me vengas con eso.＿Te estaba buscando.」"
+
+msgid "Taiga「Why, you......!」"
+msgstr "Taiga「¡Pero qué......!」"
+
+msgid "Ryuuji「Hey, Kawashima.」"
+msgstr "Ryuuji「Oye, Kawashima.」"
+
+msgid "Ami「What is it?」"
+msgstr "Ami「¿Qué pasa?」"
+
+msgid "Let me have a sip"
+msgstr "Déjame probar un sorbo"
+
+msgid "Don't litter"
+msgstr "No tires basura"
+
+msgid "Ryuuji「Let me have a sip.」"
+msgstr "Ryuuji「Déjame probar un sorbo.」"
+
+msgid "Ami「No. Way.」"
+msgstr "Ami「Ni. Hablar.」"
+
+msgid "Ryuuji「......Okay...... Whatever.」"
+msgstr "Ryuuji「......Bueno...... Como sea.」"
+
+msgid "Ryuuji「Don't try to just leave your empty can＿somewhere.」"
+msgstr "Ryuuji「No intentes dejar tu lata vacía＿por cualquier lado.」"
+
+msgid "Ami「Excuse you? Ami-chan, the constant＿center of everyone's attention, would＿never do such a thing.」"
+msgstr "Ami「¿Disculpa? Ami-chan, el eterno＿centro de atención de todos,＿jamás haría algo así.」"
+
+msgid "Taiga「Oh really.」"
+msgstr "Taiga「Ah, claro.」"
+
+msgid "Ryuuji「It's certainly unlikely for Kawashima to＿do. However......」"
+msgstr "Ryuuji「Ciertamente es poco probable que＿Kawashima haga eso. Sin embargo......」"
+
+msgid "Ryuuji「Look! Thanks to a few heartless＿people, the once-beautiful riverbed is＿ruined!」"
+msgstr "Ryuuji「¡Mira! Por culpa de unos desalmados,＿¡la hermosa ribera de antes＿está arruinada!」"
+
+msgid "Ryuuji「Ohh, there's a plastic bottle here! And＿a candy wrapper there!」"
+msgstr "Ryuuji「¡Ohh, aquí hay una botella de plástico!＿¡Y allá una envoltura de dulce!」"
+
+msgid "Ryuuji「I, I'm so worried! Hey, can I go tidy up a＿bit!?」"
+msgstr "Ryuuji「¡M-Me preocupa mucho! Oye, ¡¿puedo＿ir a limpiar un poco?!」"
+
+msgid "Taiga「Will you look at that! Thanks to StuChi,＿Ryuuji's freak proclivities have been＿triggered.」"
+msgstr "Taiga「¡Pero mira eso! Por culpa de＿StuChi, se activaron los instintos＿raros de Ryuuji.」"
+
+msgid "Ami「Ami-chan had nothing to do with that.」"
+msgstr "Ami「Ami-chan no tuvo nada que ver con eso.」"
+
+msgid "Ryuuji「Hey, can I just......」"
+msgstr "Ryuuji「Oye, ¿puedo solo......」"
+
+msgid "Both「DO WHAT YOU WANT!」"
+msgstr "Ambas「¡HAZ LO QUE QUIERAS!」"
+
+msgid "Ryuuji「（Hmmm?）」"
+msgstr "Ryuuji「（¿Mmmm?）」"
+
+msgid "Ryuuji「（No, maybe I should use these on＿day-to-day purchases instead of＿splurging on luxuries Hmmmm......）」"
+msgstr "Ryuuji「（No, tal vez deba usarlos en compras＿diarias en vez de gastarlos en＿lujos Mmmmm......）」"
+
+msgid "Ryuuji「（MOTTAINAI! Pick it up!）」"
+msgstr "Ryuuji「（¡QUÉ DESPERDICIO! ¡Recógelo!）」"
+
+msgid "Ryuuji「（Ohh? What's this?）」"
+msgstr "Ryuuji「（¿Ohh? ¿Qué es esto?）」"
+
+msgid "Ryuuji「（A n-nudie mag! It's brand new...... The＿pages aren't stuck together......）」"
+msgstr "Ryuuji「（¡U-Una revista porno! Está nueva......＿Las páginas no están pegadas......）」"
+
+msgid "Ryuuji「（Wait! If Taiga were to see me here,＿looking at this thing, she might even＿engrave \"Horndog\" on my tombstone!）」"
+msgstr "Ryuuji「（¡Espera! ¡Si Taiga me viera aquí＿mirando esto, hasta sería capaz de＿grabar \"Pervertido\" en mi lápida!）」"
+
+msgid "Ryuuji「（MOTTAINA...... NO! I'll throw it away＿properly!）」"
+msgstr "Ryuuji「（¡QUÉ DESPERDI...... NO! ¡La＿tiraré como se debe!）」"
+
+msgid "Ryuuji「（Couldn't find anything......）」"
+msgstr "Ryuuji「（No pude encontrar nada......）」"
+
+msgid "Ryuuji「（Oh? There was less garbage than I＿was expecting......）」"
+msgstr "Ryuuji「（¿Eh? Había menos basura de＿la que esperaba......）」"
+
+msgid "Taiga「I'm pissed! For your information, I'm＿the victim here. That tub of lard came＿out of nowhere and fell right on top of」"
+msgstr "Taiga「¡Estoy furiosa! Para que sepas, aquí yo＿soy la víctima. ¡Esa bola de grasa salió＿de la nada y cayó justo encima de」"
+
+msgid "Taiga「me!」"
+msgstr "Taiga「mí!」"
+
+msgid "Taiga「Ugh, alright already. Anyway, just＿promise me you'll make sure your＿merrymaking doesn't interfere with」"
+msgstr "Taiga「Agh, ya está bien. En fin, solo＿prométeme que te asegurarás de que＿su diversión no interfiera con」"
+
+msgid "Taiga「other people's lives.」"
+msgstr "Taiga「la vida de los demás.」"
+
+msgid "Taiga「Maybe she's been using the breast＿enhancement supplement from the＿mystery bag? What do you think,」"
+msgstr "Taiga「¿Será que usó el suplemento＿para el busto de la bolsa sorpresa?＿¡¿Tú qué crees,」"
+
+msgid "Taiga「Ryuuji!? Maybe it really works!?」"
+msgstr "Taiga「Ryuuji?! ¡¿A lo mejor sí funciona?!」"
+
+msgid "Ami「I don't want any collateral damage＿from that misfortune～ I felt like＿having some hot tea in this cold」"
+msgstr "Ami「No quiero daños colaterales de＿esa desgracia～ Se me antojó tomar＿un té caliente con este」"
+
+msgid "Ami「weather, so I went and bought some.」"
+msgstr "Ami「frío, así que fui a comprar un poco.」"
+
+msgid "Ryuuji「（Are these......? Super Kanou-Mart＿coupons......! If I use these, I can get＿tomorrow's discount tuna for even）」"
+msgstr "Ryuuji「（¿Son......? ¡Cupones del Super＿Kanou-Mart......! ¡Si los uso, podré＿conseguir el atún en oferta de mañana）」"
+
+msgid "Ryuuji「（cheaper......!）」"
+msgstr "Ryuuji「（aún más barato......!）」"
+
+msgid "Ryuuji「（*Gasp*! Crap, I didn't realize I was＿counting my chickens before they＿hatched. This is no time to be thinking）」"
+msgstr "Ryuuji「（¡Ah! Rayos, sin darme cuenta ya cantaba＿victoria antes de tiempo. No es momento＿para estar pensando）」"
+
+msgid "Ryuuji「（about that. Anyway......）」"
+msgstr "Ryuuji「（en eso. En fin......）」"

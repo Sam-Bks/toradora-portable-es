@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Toradora! Portable ES\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Scene: _c056min1\n"
+
+msgid "Ryuuji「......No, let's stop this pointless conflict.＿There's no sense in talking about it＿here.」"
+msgstr "Ryuuji「......No, paremos esta discusión sin＿sentido. No tiene caso hablarlo aquí.」"
+
+msgid "Minori「Oh really?」"
+msgstr "Minori「¿Ah, sí?」"
+
+msgid "Ryuuji「In the end, the real issue is what Taiga＿herself will do, or wants to do, right?＿No one else can change that.」"
+msgstr "Ryuuji「Al final, el tema es lo que la misma＿Taiga hará o quiere hacer, ¿verdad?＿Nadie más puede cambiar eso.」"
+
+msgid "Minori「I don't think so.」"
+msgstr "Minori「No lo creo.」"
+
+msgid "Ryuuji「I know. But I also know you said what＿you did while only thinking of Taiga.＿That much I can understand.」"
+msgstr "Ryuuji「Lo sé. Pero también sé que dijiste＿eso pensando solo en Taiga.＿Al menos eso lo entiendo.」"
+
+msgid "Ryuuji「I could potentially change my way of＿thinking. Or you might change yours.＿Isn't this enough for today?」"
+msgstr "Ryuuji「Puede que yo cambie mi forma de＿pensar. O puede que tú cambies la＿tuya. ¿No es suficiente por hoy?」"
+
+msgid "Minori「......Alright. For today.」"
+msgstr "Minori「......Está bien. Por hoy.」"
+
+msgid "Ryuuji「Good. Then let's end things here.」"
+msgstr "Ryuuji「Bien. Entonces dejémoslo aquí.」"
+
+msgid "Minori「Yeah...... I'll be heading home. Let's not＿meet again until school starts. Laters.」"
+msgstr "Minori「Sí...... Me voy a casa. No nos veamos＿hasta que empiecen las clases.＿Nos vemos.」"
+
+msgid "Ryuuji「Okay.」"
+msgstr "Ryuuji「Está bien.」"

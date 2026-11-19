@@ -1,0 +1,11 @@
+msgid ""
+msgstr ""
+
+msgid "Minori「Whoa! Crap! Gotta go! Laters!」"
+msgstr "Minori「¡Uah! ¡Rayos! ¡Me voy! ¡Nos vemos!」"
+
+msgid "Ryuuji「Ah......」"
+msgstr "Ryuuji「Ah......」"
+
+msgid "Ryuuji「（She ran away, didn't she...... Oh, I should＿have asked her when she'll be back.）」"
+msgstr "Ryuuji「（Salió corriendo, ¿no......? Ah, debí＿preguntarle cuándo volverá.）」"

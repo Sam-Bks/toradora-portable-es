@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+
+msgid "Yasuko「Oh～! It's Ryuu-chan～♪」"
+msgstr "Yasuko「¡Oh～! ¡Es Ryuu-chan～♪」"
+
+msgid "Ryuuji「Oh, Yasuko. What're you doing here?」"
+msgstr "Ryuuji「Ah, Yasuko. ¿Qué haces aquí?」"
+
+msgid "Yasuko「No no. There's no \"Yasuko\" here～」"
+msgstr "Yasuko「No, no. Aquí no hay ninguna \"Yasuko\"～」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Yasuko「You're looking at Bishamontengoku's＿Mirano-chan～①」"
+msgstr "Yasuko「Estás viendo a Mirano-chan＿de Bishamontengoku～①」"
+
+msgid "Ryuuji「Mirano......chan? Aren't you Yasuko?」"
+msgstr "Ryuuji「¿Mirano......chan? ¿No eres Yasuko?」"
+
+msgid "Yasuko「Yacchan is Mirano-chan right now～」"
+msgstr "Yasuko「Yacchan es Mirano-chan ahora mismo～」"
+
+msgid "Ryuuji「......Could you explain this in a way that＿I can understand?」"
+msgstr "Ryuuji「......¿Podrías explicarme esto de＿una manera que pueda entender?」"
+
+msgid "Yasuko「Oh, good point～ Must be quite＿confusinggg.」"
+msgstr "Yasuko「Ah, tienes razón～ Debe ser＿bastante confusooo.」"
+
+msgid "Yasuko「This place is Bishamontengoku, the＿store where Yacchan works.」"
+msgstr "Yasuko「Este lugar es Bishamontengoku, el＿local donde trabaja Yacchan.」"
+
+msgid "Yasuko「And at work Yacchan is called＿Mirano-chan～」"
+msgstr "Yasuko「Y en el trabajo a Yacchan＿la llaman Mirano-chan～」"
+
+msgid "Ryuuji「Don't tell me, is this......?」"
+msgstr "Ryuuji「No me digas, ¿esto es......?」"
+
+msgid "Yasuko「Yep. It's a hostess bar.」"
+msgstr "Yasuko「Sip. Es un bar de anfitrionas.」"
+
+msgid "Yasuko「Yacchan is the proprietress of the＿store～」"
+msgstr "Yasuko「Yacchan es la propietaria del local～」"
+
+msgid "Ryuuji「I get it. \"Mirano-chan\" is like, a stage＿name, right?」"
+msgstr "Ryuuji「Ya entiendo. \"Mirano-chan\" es como＿un nombre artístico, ¿verdad?」"
+
+msgid "Yasuko「Bingooo～ Since you're here, do you＿want to take a peek～?」"
+msgstr "Yasuko「¡Bingooo～! Ya que estás aquí,＿¿quieres echar un vistazo～?」"
+
+msgid "Ryuuji「Is that okay? I'm still in high school.」"
+msgstr "Ryuuji「¿Se puede? Aún estoy en la preparatoria.」"
+
+msgid "Yasuko「We're not open yet, so it's no＿problem～」"
+msgstr "Yasuko「Todavía no abrimos, así＿que no hay problema～」"
+
+msgid "Ryuuji「Then I'll just come in for a bit......」"
+msgstr "Ryuuji「Entonces entraré solo un momento......」"
+
+msgid "Yasuko「Heehee ① Thanks for stopping byyy～」"
+msgstr "Yasuko「Jiji ① ¡Gracias por pasarrr～!」"
+
+msgid "Ryuuji「Wow...... So this is what it looks like＿inside...... How long until the store＿opens?」"
+msgstr "Ryuuji「Vaya...... Así es como se ve＿por dentro...... ¿Cuánto falta＿para que abra el local?」"
+
+msgid "Yasuko「Today is special, so we'll open a little＿earlier～」"
+msgstr "Yasuko「Hoy es un día especial, así que＿abriremos un poco más temprano～」"
+
+msgid "Ryuuji「Special...... Ohh, because it's New＿Year's Eve?」"
+msgstr "Ryuuji「Especial...... Ahh, ¿por Nochevieja?」"
+
+msgid "Yasuko「That's right. Sorry Yacchan can't＿spend it with you～」"
+msgstr "Yasuko「Así es. Perdón por que Yacchan＿no pueda pasarla contigo～」"
+
+msgid "Ryuuji「It's your job, so I understand.」"
+msgstr "Ryuuji「Es tu trabajo, así que lo entiendo.」"
+
+msgid "Yasuko「Aha. Ryuu-chan, this is your first time＿in a place like this, right?」"
+msgstr "Yasuko「Ajá. Ryuu-chan, es tu primera vez＿en un lugar como este, ¿verdad?」"
+
+msgid "Ryuuji「Oh, er, probably. That is, I would be＿shocked if it's not.」"
+msgstr "Ryuuji「Ah, ehm, probablemente. Es decir,＿me sorprendería si no lo fuera.」"
+
+msgid "Yasuko「Then do you want to have a try?」"
+msgstr "Yasuko「Entonces, ¿quieres probar?」"
+
+msgid "Ryuuji「Try what?」"
+msgstr "Ryuuji「¿Probar qué?」"
+
+msgid "Yasuko「Just a friendly chat. Minors can't have＿alcohol, of course.」"
+msgstr "Yasuko「Solo charlar un rato. Los menores＿no pueden tomar alcohol, claro.」"
+
+msgid "Ryuuji「But I don't have the money......」"
+msgstr "Ryuuji「Pero no tengo dinero......」"
+
+msgid "Yasuko「It's free for Ryuu-channn. So you can＿feel at ease, yansu☆」"
+msgstr "Yasuko「Para Ryuu-channn es gratis. Así que＿puedes estar tranquilo, yansu☆」"
+
+msgid "Ryuuji「（What should I do......?）」"
+msgstr "Ryuuji「（¿Qué debería hacer......?）」"
+
+msgid "Accept"
+msgstr "Aceptar"
+
+msgid "Decline"
+msgstr "Rechazar"
+
+msgid "Ryuuji「Then, please do......」"
+msgstr "Ryuuji「Entonces, por favor......」"
+
+msgid "Yasuko「Ehehe～ ① I'm Ms. Mirano. Nice to meet＿you～」"
+msgstr "Yasuko「Jejeje～ ① Soy la señorita＿Mirano. Mucho gusto～」"
+
+msgid "Ryuuji「Nope, I'd better not.」"
+msgstr "Ryuuji「No, mejor no.」"
+
+msgid "Yasuko「Whaa～ That's no funnn～」"
+msgstr "Yasuko「¡Quée～! Eso no es divertidooo～」"
+
+msgid "Ryuuji「You have to get ready to open the＿store, right?」"
+msgstr "Ryuuji「Tienes que prepararte para＿abrir el local, ¿verdad?」"
+
+msgid "Yasuko「Yeah, but......」"
+msgstr "Yasuko「Sí, pero......」"
+
+msgid "Ryuuji「I don't want to disturb you while you're＿working, so I'm going home.」"
+msgstr "Ryuuji「No quiero molestarte mientras trabajas,＿así que me voy a casa.」"
+
+msgid "Yasuko「Okaaay...... See you at home then,＿Ryuu-chan. Happy New Year～」"
+msgstr "Yasuko「Está bieeen...... Nos vemos en casa,＿Ryuu-chan. ¡Feliz Año Nuevo～!」"
+
+msgid "Ryuuji「Back at you, Yasuko.」"
+msgstr "Ryuuji「Igualmente, Yasuko.」"

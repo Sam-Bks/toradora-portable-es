@@ -1,0 +1,254 @@
+msgid ""
+msgstr ""
+
+msgid "Haruta「Whussat～? Isn't that Taiga n'＿Kushieda over there? There, inside＿Sudoh-Bucks!」"
+msgstr "Haruta「¿Qué es esooo～? ¿No son Taiga＿y Kushieda las de allá? ¡Ahí,＿dentro de Sudoh-Bucks!」"
+
+msgid "Noto「Oh, you're right. Well, isn't this another＿coincidence!」"
+msgstr "Noto「Ah, tienes razón. ¡Vaya, pero＿qué coincidencia otra vez!」"
+
+msgid "Haruta「Why don't we take this opportunity to＿ask 'em to join us～?」"
+msgstr "Haruta「¿Por qué no aprovechamos para invitarlas＿a venir con nosotros～?」"
+
+msgid "Kitamura「Mm, that's a good idea.」"
+msgstr "Kitamura「Mm, es una buena idea.」"
+
+msgid "Haruta「Alriiiight～ Let's go FISHIN'～!」"
+msgstr "Haruta「¡Muy bieeen～ Vamos a PESCAAAR～!」"
+
+msgid "Ryuuji「What part of this is fishing exactly......?」"
+msgstr "Ryuuji「¿Qué parte de esto es pescar......?」"
+
+msgid "Taiga「I see...... So nothing DID happen that＿day.」"
+msgstr "Taiga「Ya veo...... Así que de verdad＿NO pasó nada ese día.」"
+
+msgid "Minori「Yup...... Nothing at all. Honest.」"
+msgstr "Minori「Sip...... Nada de nada. En serio.」"
+
+msgid "Ryuuji「（Whoa, they're having a really serious＿moment here......）」"
+msgstr "Ryuuji「（Guau, están teniendo una＿charla muy seria......）」"
+
+msgid "Kitamura「Let's not interrupt them while they're＿talking.」"
+msgstr "Kitamura「Mejor no las interrumpamos＿mientras hablan.」"
+
+msgid "Haruta「Whaaat～? But then it'll seem like＿we're ignoring them～」"
+msgstr "Haruta「¿Quéee～? Pero entonces parecerá＿que las estamos ignorando～」"
+
+msgid "Haruta「Heeey, Kushieda n' Taiga～ Come on＿down, ladiesss～!」"
+msgstr "Haruta「¡Eeey, Kushieda y Taiga～ Bajen＿para acá, chicaaas～!」"
+
+msgid "Ryuuji「You idiot!」"
+msgstr "Ryuuji「¡Idiota!」"
+
+msgid "Taiga「Oh, for crying out loud...... The new＿year's barely started. What dumbass is＿shouting at me!?」"
+msgstr "Taiga「Ay, por amor de Dios...... El año＿nuevo apenas empieza. ¡¿Qué imbécil＿me está gritando?!」"
+
+msgid "Minori「Oho, if it isn't our guy friends from＿school～ Happy New Year～!」"
+msgstr "Minori「Jojo, pero si son nuestros amigos de＿la escuela～ ¡Feliz Año Nuevo～!」"
+
+msgid "Haruta「Happy New Year～!」"
+msgstr "Haruta「¡Feliz Año Nuevo～!」"
+
+msgid "Ryuuji「Back from your trip, Kushieda?」"
+msgstr "Ryuuji「¿Ya volviste de tu viaje, Kushieda?」"
+
+msgid "Minori「I only stayed for one night and then I＿came straight back, see～ Lots to do,＿ya know, work and club activities.」"
+msgstr "Minori「Solo me quedé una noche y me volví＿enseguida～ Hay mucho que hacer, ya＿sabes, el trabajo y el club.」"
+
+msgid "Ryuuji「Working hard as always, huh.」"
+msgstr "Ryuuji「Trabajando duro como siempre, ¿eh?」"
+
+msgid "Taiga「......」"
+msgstr "Taiga「......」"
+
+msgid "Kitamura「Did we interrupt something? My＿apologies.」"
+msgstr "Kitamura「¿Interrumpimos algo? Mis disculpas.」"
+
+msgid "Minori「Aw, it wasn't anything important, so no＿worries. Right, Taiga?」"
+msgstr "Minori「Nah, no era nada importante, así que＿no se preocupen. ¿Verdad, Taiga?」"
+
+msgid "Taiga「Yeah......」"
+msgstr "Taiga「Sí......」"
+
+msgid "Minori「What are you four guys doing for New＿Year's? For that matter, what are us＿two ladies doing for New Year's?」"
+msgstr "Minori「¿Qué hacen ustedes cuatro por Año＿Nuevo? Es más, ¿qué hacemos nosotras＿dos por Año Nuevo?」"
+
+msgid "Noto「We just got back from celebrating＿Hatsumode. Since then we've just＿being hanging out.」"
+msgstr "Noto「Acabamos de volver de celebrar＿el Hatsumode. Desde entonces solo＿estamos pasando el rato.」"
+
+msgid "Noto「Would you two care to join us?」"
+msgstr "Noto「¿Les gustaría acompañarnos?」"
+
+msgid "Haruta「Let's all go hang out someplace～」"
+msgstr "Haruta「Vamos todos a pasar el rato por ahí～」"
+
+msgid "Taiga「Ugh, so annoying......」"
+msgstr "Taiga「Ugh, qué fastidio......」"
+
+msgid "Ryuuji「What's the harm? Not like you have＿any special plans, right?」"
+msgstr "Ryuuji「¿Qué tiene de malo? Tampoco es que＿tengas algún plan en especial, ¿no?」"
+
+msgid "Taiga「Shut it. Leave me alone.」"
+msgstr "Taiga「Cállate. Déjame en paz.」"
+
+msgid "Minori「In that case, why don't we all go to the＿arcade, see? Nothing says New Year's＿like the arcade, right? Am I right?」"
+msgstr "Minori「En ese caso, ¿por qué no vamos todos al＿salón de juegos? Nada dice Año Nuevo＿como el salón de juegos, ¿no? ¿Verdad?」"
+
+msgid "Noto「The arcade...... That brings back painful＿memories......」"
+msgstr "Noto「El salón de juegos...... Eso me＿trae recuerdos dolorosos......」"
+
+msgid "Haruta「B-But this time we'll be going with＿girls! TWO GIRLS!」"
+msgstr "Haruta「¡P-Pero esta vez iremos con＿chicas! ¡DOS CHICAS!」"
+
+msgid "Ryuuji「Well, then it won't be like the last time,＿so there's no need to worry.」"
+msgstr "Ryuuji「Bueno, entonces no será como＿la última vez, así que no hay＿de qué preocuparse.」"
+
+msgid "Minori「Say what? What happened? Did＿something happen on your way home＿from the arcade?」"
+msgstr "Minori「¿Cómo dices? ¿Qué pasó? ¿Les＿pasó algo de camino a casa desde＿el salón de juegos?」"
+
+msgid "Kitamura「Kushieda, please don't ask about it......」"
+msgstr "Kitamura「Kushieda, por favor no preguntes......」"
+
+msgid "Kitamura「I don't know what the arcade has to do＿with New Year's, but I don't mind.」"
+msgstr "Kitamura「No sé qué tienen que ver el salón de＿juegos y Año Nuevo, pero no me importa.」"
+
+msgid "Haruta「Then the arcade wins～」"
+msgstr "Haruta「Entonces gana el salón de juegos～」"
+
+msgid "Minori「You're cool with it, right Taiga?」"
+msgstr "Minori「A ti te parece bien, ¿verdad, Taiga?」"
+
+msgid "Taiga「......Yeah.」"
+msgstr "Taiga「......Sí.」"
+
+msgid "Kitamura「Perfect. Let's have a showdown＿between softball club members here.」"
+msgstr "Kitamura「Perfecto. Tengamos un duelo entre＿miembros del club de sóftbol aquí.」"
+
+msgid "Minori「How's about this side is for females,＿y'all? Females only, ya hear?」"
+msgstr "Minori「¿Qué tal si este lado es para las＿mujeres, chicos? Solo mujeres, ¿oyeron?」"
+
+msgid "Kitamura「......Sure!」"
+msgstr "Kitamura「......¡Claro!」"
+
+msgid "Taiga「......」"
+msgstr "Taiga「......」"
+
+msgid "Ryuuji「Taiga, what's your problem today?」"
+msgstr "Ryuuji「Taiga, ¿qué te pasa hoy?」"
+
+msgid "Taiga「Nothing...... I don't really come to places＿like this, so it's unfamiliar to me, that's＿all.」"
+msgstr "Taiga「Nada...... Casi nunca vengo a lugares＿como este, así que no estoy＿acostumbrada, eso es todo.」"
+
+msgid "Ryuuji「This is a huge chance for you, so start＿a conversation with Kitamura.」"
+msgstr "Ryuuji「Es una gran oportunidad para ti, así＿que ponte a conversar con Kitamura.」"
+
+msgid "Taiga「Leave me alone.」"
+msgstr "Taiga「Déjame en paz.」"
+
+msgid "Taiga「Hey, Minorin! Get me a plush toy from＿that crane game.」"
+msgstr "Taiga「¡Oye, Minorin! Sácame un peluche＿de esa máquina de garra.」"
+
+msgid "Minori「Oho, will a fistfight not please you, Ms.＿Front-Runner?」"
+msgstr "Minori「Jojo, ¿acaso una pelea a puño limpio＿no la complace, Srta. Favorita?」"
+
+msgid "Ryuuji「（That Taiga, what is with her today......?）」"
+msgstr "Ryuuji「（Esa Taiga, ¿qué le pasa hoy......?）」"
+
+msgid "Taiga「Minorin, Minorin, isn't this plush toy＿cute?」"
+msgstr "Taiga「Minorin, Minorin, ¿no es＿lindo este peluche?」"
+
+msgid "Minori「Oh, so you like the cute ones, Taiga.」"
+msgstr "Minori「Ah, así que te gustan los lindos, Taiga.」"
+
+msgid "Haruta「Taiga～ You want that～? Then leave it＿to me～!」"
+msgstr "Haruta「Taiga～ ¿Quieres ese～? ¡Entonces＿déjamelo a mí～!」"
+
+msgid "Haruta「W-Wha?」"
+msgstr "Haruta「¿Q-Qué?」"
+
+msgid "Taiga「Pssh, you didn't even graze it.」"
+msgstr "Taiga「Tch, ni siquiera lo rozaste.」"
+
+msgid "Haruta「That's straaange～ I can normally get＿'em in one try～」"
+msgstr "Haruta「Qué raaarooo～ Normalmente los＿saco al primer intento～」"
+
+msgid "Ryuuji「Oh really now. You lowered the claw at＿the completely wrong spot.」"
+msgstr "Ryuuji「Ajá, sí, claro. Bajaste la garra en＿un lugar totalmente equivocado.」"
+
+msgid "Haruta「Gimme a break～ If ya wanna talk crap,＿why don't ya give it a try, Taka-chan～」"
+msgstr "Haruta「Dame un respiro～ Si vas a criticar, ¿por＿qué no pruebas tú, Taka-chan～?」"
+
+msgid "Ryuuji「No, I......」"
+msgstr "Ryuuji「No, yo......」"
+
+msgid "Minori「Then I shalt humbly take thine stead.」"
+msgstr "Minori「Entonces tomaré humildemente tu lugar.」"
+
+msgid "Minori「Shucks～ I'm no good at all.」"
+msgstr "Minori「Caramba～ No se me da nada bien.」"
+
+msgid "Ryuuji「......Guess I'll try just this once.」"
+msgstr "Ryuuji「......Supongo que probaré solo una vez.」"
+
+msgid "Minori「Go for it, Takasu-kun!」"
+msgstr "Minori「¡Tú puedes, Takasu-kun!」"
+
+msgid "Ryuuji「Yes!」"
+msgstr "Ryuuji「¡Sí!」"
+
+msgid "Minori「Whoa! That was fast～!」"
+msgstr "Minori「¡Guau! ¡Qué rápido fue eso～!」"
+
+msgid "Noto「Wow, awesome, Takasu!」"
+msgstr "Noto「¡Guau, increíble, Takasu!」"
+
+msgid "Ryuuji「Here, Taiga.」"
+msgstr "Ryuuji「Toma, Taiga.」"
+
+msgid "Taiga「......」"
+msgstr "Taiga「......」"
+
+msgid "Minori「Isn't that great, Taiga～? Takasu-kun's＿impressive as always～」"
+msgstr "Minori「¿No es genial, Taiga～? Takasu-kun＿es impresionante como siempre～」"
+
+msgid "Kitamura「It's crazy you were able to get it in one＿try. You're talented.」"
+msgstr "Kitamura「Es increíble que lo hayas sacado al＿primer intento. Tienes talento.」"
+
+msgid "Ryuuji「I was lucky. I didn't think I'd actually＿get it.」"
+msgstr "Ryuuji「Tuve suerte. No pensé que de＿verdad fuera a sacarlo.」"
+
+msgid "Taiga「......Can I give it to Minorin?」"
+msgstr "Taiga「......¿Puedo dárselo a Minorin?」"
+
+msgid "Minori「Codswallop! Takasu-kun got it for YOU,＿ya know?」"
+msgstr "Minori「¡Pamplinas! Takasu-kun lo＿sacó para TI, ¿sabes?」"
+
+msgid "Taiga「But......」"
+msgstr "Taiga「Pero......」"
+
+msgid "Ryuuji「What? Don't want it?」"
+msgstr "Ryuuji「¿Qué? ¿No lo quieres?」"
+
+msgid "Minori「Go on, take it!」"
+msgstr "Minori「¡Vamos, acéptalo!」"
+
+msgid "Taiga「......Okay...... I'll accept it.」"
+msgstr "Taiga「......Está bien...... Lo acepto.」"
+
+msgid "Haruta「Not fairrr～～! Why's Taka-chan get to＿be the hero～～? Alright, next let's＿have a fightin' game competition～!」"
+msgstr "Haruta「¡No es justooo～～! ¿Por qué Taka-chan＿queda como el héroe～～? ¡Bien, ahora＿compitamos en un juego de peleas～!」"
+
+msgid "Ryuuji「（Good grief......）」"
+msgstr "Ryuuji「（Por Dios......）」"
+
+msgid "Ryuuji「（What's her deal......? It's an opportunity＿to hang out with Kitamura, so she＿could stand to be a little happier......）」"
+msgstr "Ryuuji「（¿Qué le pasa......? Es una oportunidad＿para pasar el rato con Kitamura, así que＿podría estar más contenta......）」"
+
+msgid "Ryuuji「（Is she nervous?）」"
+msgstr "Ryuuji「（¿Estará nerviosa?）」"
+
+msgid "Minori「LADIES AND GENTLEMEN, it's the＿first annual Punching Machine Game＿Tournament!」"
+msgstr "Minori「¡DAMAS Y CABALLEROS, es el primer Torneo＿Anual de la Máquina de Boxeo!」"
+
+msgid "Minori「Who can punch the hardest? You＿bitches best be ready～!」"
+msgstr "Minori「¿Quién dará el golpe más fuerte? ¡Más＿les vale estar listos, malditos～!」"

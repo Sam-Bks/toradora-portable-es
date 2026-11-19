@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「（Whew...... Spotless at last......）」"
+msgstr "Ryuuji「（Uff...... Impecable por fin......）」"
+
+msgid "Ryuuji「（I do want to use the vacuum cleaner,＿but Yasuko's still asleep.）」"
+msgstr "Ryuuji「（Sí quiero pasar la aspiradora,＿pero Yasuko sigue dormida.）」"
+
+msgid "Ryuuji「（At least I was able to sweep up the＿spilled tea leaves. Yep, I've done as＿much as I possibly could.）」"
+msgstr "Ryuuji「（Al menos pude barrer las hojas＿de té derramadas. Sí, ya hice＿todo lo que pude.）」"
+
+msgid "Ryuuji「（Beauty obtained over a single night!＿My talent is frightening, if I do say so＿myself. Hehehehe......）」"
+msgstr "Ryuuji「（¡Belleza lograda en una sola noche!＿Mi talento da miedo, aunque esté mal＿que yo lo diga. Jejejeje......）」"
+
+msgid "Inko-chan「HA, HAP, HAP」"
+msgstr "Inko-chan「FE, FEL, FEL」"
+
+msgid "Ryuuji「Hmm? What's up, Inko-chan?」"
+msgstr "Ryuuji「¿Mmm? ¿Qué pasa, Inko-chan?」"
+
+msgid "Inko-chan「HAP, HAP, HAPP!」"
+msgstr "Inko-chan「¡FE, FEL, FELI!」"
+
+msgid "Ryuuji「Oh!? Inko-chan, are you only just now＿wishing me a Happy New Year?」"
+msgstr "Ryuuji「¡¿Eh?! Inko-chan, ¿apenas ahora＿me deseas un Feliz Año Nuevo?」"
+
+msgid "Inko-chan「HAPPY?」"
+msgstr "Inko-chan「¿FELIZ?」"
+
+msgid "Ryuuji「Good, good. Next you say New Year.＿N-E-W-Y-E-A-R. Now, give it a try!」"
+msgstr "Ryuuji「Bien, bien. Ahora di Año Nuevo.＿A-Ñ-O-N-U-E-V-O. ¡Vamos, inténtalo!」"
+
+msgid "Inko-chan「HAP, HAPPEN...... OPEN!」"
+msgstr "Inko-chan「FEL, FELI...... ¡ABIERTO!」"
+
+msgid "Ryuuji「......Open?」"
+msgstr "Ryuuji「......¿Abierto?」"
+
+msgid "Inko-chan「CO, CO...... COLD!」"
+msgstr "Inko-chan「FR, FR...... ¡FRÍO!」"
+
+msgid "Ryuuji「......Ohh, I see. The window's open and＿you're cold. I opened it while I was＿cleaning. Sorry about that, Inko-chan.」"
+msgstr "Ryuuji「......Ohh, ya veo. La ventana está＿abierta y tienes frío. La abrí mientras＿limpiaba. Perdón por eso, Inko-chan.」"
+
+msgid "Ryuuji「......」"
+msgstr "Ryuuji「......」"
+
+msgid "Ryuuji「（......Heh, standing near the window, I＿can't help but look.）」"
+msgstr "Ryuuji「（......Je, estando junto a la ventana,＿no puedo evitar mirar.）」"
+
+msgid "Ryuuji「（That damn Taiga...... She really didn't＿come over and eat with us......）」"
+msgstr "Ryuuji「（Esa maldita Taiga...... De verdad no＿vino a comer con nosotros......）」"
+
+msgid "Ryuuji「Oh, don't tell me she called for＿delivery?」"
+msgstr "Ryuuji「Ah, ¿no me digas que pidió＿comida a domicilio?」"
+
+msgid "Ryuuji「......Kushieda?」"
+msgstr "Ryuuji「......¿Kushieda?」"
+
+msgid "Ryuuji「Hello?」"
+msgstr "Ryuuji「¿Hola?」"
+
+msgid "Minori「Oh, this is Kushieda. Is this a good＿time?」"
+msgstr "Minori「Ah, soy Kushieda. ¿Es un buen momento?」"
+
+msgid "Ryuuji「Yeah, it's good. 'Sup?」"
+msgstr "Ryuuji「Sí, claro. ¿Qué tal?」"
+
+msgid "Minori「Well, you see, I know this is selfish of＿me, but if you happen to be free, I have＿a favor to ask, if you don't mind?」"
+msgstr "Minori「Bueno, sé que es egoísta de mi parte,＿pero si estás libre, ¿puedo pedirte＿un favor, si no te molesta?」"
+
+msgid "Ryuuji「Okay, shoot.」"
+msgstr "Ryuuji「Claro, dime.」"
+
+msgid "Ryuuji「Oh, I don't mind, but what's Taiga up＿to?」"
+msgstr "Ryuuji「Ah, no me importa, pero ¿qué＿anda haciendo Taiga?」"
+
+msgid "Minori「Seemed like she was in a bit of trouble.＿She was kinda pissed, but it didn't＿seem like an emergency or anything.」"
+msgstr "Minori「Parecía estar en un pequeño aprieto.＿Estaba algo molesta, pero no parecía una＿emergencia ni nada por el estilo.」"
+
+msgid "Ryuuji「I see. But are you sure I should go?＿Are you busy or something?」"
+msgstr "Ryuuji「Ya veo. ¿Pero seguro que debo ir＿yo? ¿Estás ocupada o algo así?」"
+
+msgid "Minori「Oh, yeah, I'm headed to work, and＿plus......」"
+msgstr "Minori「Ah, sí, voy camino al trabajo,＿y además......」"
+
+msgid "Ryuuji「What's the matter?」"
+msgstr "Ryuuji「¿Qué ocurre?」"
+
+msgid "Minori「Oh, no, it's nothing. Sorry, I just got to＿the diner, so I gotta go or I'll be late.」"
+msgstr "Minori「Ah, no, no es nada. Perdón, acabo＿de llegar al restaurante y debo＿irme o llegaré tarde.」"
+
+msgid "Ryuuji「Wouldn't want you to be late. Alright,＿leave the rest to me.」"
+msgstr "Ryuuji「No quisiera que llegues tarde.＿Bien, déjame el resto a mí.」"
+
+msgid "Minori「I'm really sorry about this. Thanks. See＿ya.」"
+msgstr "Minori「Perdón de verdad por esto.＿Gracias. Nos vemos.」"
+
+msgid "Ryuuji「Okay.」"
+msgstr "Ryuuji「Está bien.」"
+
+msgid "Ryuuji「......What's Taiga gotten herself into?」"
+msgstr "Ryuuji「......¿En qué se habrá metido Taiga?」"
+
+msgid "Ryuuji「（I went to the trouble of making it......＿and cleaning up...... I wanted to see the＿look on her face...... Well, this isn't）」"
+msgstr "Ryuuji「（Me tomé la molestia de hacerlo...... y＿limpiar...... Quería ver la expresión de＿su cara...... Bueno, esto no es）」"
+
+msgid "Ryuuji「（enough to warrant surprise, I guess......）」"
+msgstr "Ryuuji「（como para sorprenderse, supongo......）」"
+
+msgid "Minori「It's just, Taiga called me earlier and＿asked me to come over to her house,＿but I was wondering if you could go in」"
+msgstr "Minori「Es que Taiga me llamó hace rato y me＿pidió que fuera a su casa, pero me＿preguntaba si podrías ir tú en」"
+
+msgid "Minori「my place.」"
+msgstr "Minori「mi lugar.」"

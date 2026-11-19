@@ -1,0 +1,191 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「Whoa! What the? What do you want?」"
+msgstr "Ryuuji「¡Uah! ¿Pero qué? ¿Qué quieres?」"
+
+msgid "Ryuuji「（Who is it at this time of night......＿Yasuko?）」"
+msgstr "Ryuuji「（¿Quién es a estas horas de＿la noche......? ¿Yasuko?）」"
+
+msgid "Yasuko「Waaaah～! Ryuu-chaaaaan!」"
+msgstr "Yasuko「¡Buaaaah～! ¡Ryuu-chaaaaan!」"
+
+msgid "Ryuuji「W-What happened!?」"
+msgstr "Ryuuji「¡¿Q-Qué pasó?!」"
+
+msgid "Yasuko「Scaryyy!」"
+msgstr "Yasuko「¡Qué miedooo!」"
+
+msgid "Ryuuji「Where are you right now!?」"
+msgstr "Ryuuji「¡¿Dónde estás ahora mismo?!」"
+
+msgid "Yasuko「Yacchan's at her baaar. Ryuu-chan,＿come heeelp!」"
+msgstr "Yasuko「Yacchan está en su baaar. ¡Ryuu-chan,＿ven a ayudaaar!」"
+
+msgid "Ryuuji「Got it! Be right there! Wait for me!」"
+msgstr "Ryuuji「¡Entendido! ¡Ya voy! ¡Espérame!」"
+
+msgid "Ryuuji「（......Robbers!? N-Need weapon! Don't we＿have something!?）」"
+msgstr "Ryuuji「（......¡¿Ladrones?! ¡N-Necesito＿un arma! ¡¿No tenemos algo?!）」"
+
+msgid "Ryuuji「NOOOO!!」"
+msgstr "Ryuuji「¡¡NOOOO!!」"
+
+msgid "Ryuuji「Yasuko! Are you hurt!?」"
+msgstr "Ryuuji「¡Yasuko! ¡¿Estás herida?!」"
+
+msgid "Yasuko「Waaaaah～～～! Ryuu-chaaan～～!」"
+msgstr "Yasuko「¡Buaaaaah～～～! ¡Ryuu-chaaan～～!」"
+
+msgid "Yasuko「Heeelp～～ Scaryyy～～!」"
+msgstr "Yasuko「¡Ayuuuda～～ Qué miedooo～～!」"
+
+msgid "Ryuuji「\"Help\"......? Where are they?」"
+msgstr "Ryuuji「¿\"Ayuda\"......? ¿Dónde están?」"
+
+msgid "Yasuko「Right hereee～～ It's Mr. Raaat!」"
+msgstr "Yasuko「Aquí mismooo～～ ¡Es el Sr. Raaata!」"
+
+msgid "Ryuuji「Huh? A rat?」"
+msgstr "Ryuuji「¿Eh? ¿Una rata?」"
+
+msgid "Yasuko「Mr. Rat is trying to eat Yacchaaan～＿Waaah～ Yacchan doesn't taste＿gooddd～～!」"
+msgstr "Yasuko「El Sr. Rata intenta comerse a Yacchaaan～＿Buaaah～ ¡Yacchan no sabe biiien～～!」"
+
+msgid "Ryuuji「......It won't eat you...... Sheesh, what was＿I thinking.」"
+msgstr "Ryuuji「......No te va a comer...... Cielos,＿en qué estaba pensando.」"
+
+msgid "Yasuko「J-J-Just do somethinggg～～!」"
+msgstr "Yasuko「¡H-H-Haz algooo～～!」"
+
+msgid "Ryuuji「Alright, alright, just sit tight.」"
+msgstr "Ryuuji「Está bien, está bien, quédate quieta.」"
+
+msgid "Ryuuji「Shoo, go away!」"
+msgstr "Ryuuji「¡Shu, vete de aquí!」"
+
+msgid "Yasuko「Go for it, Ryuu-chan! You can do it,＿Ryuu-chan!」"
+msgstr "Yasuko「¡Vamos, Ryuu-chan! ¡Tú＿puedes, Ryuu-chan!」"
+
+msgid "Yasuko「Oh, it's leavinggg! Ryuu-chan's＿amaaazing!」"
+msgstr "Yasuko「¡Ah, ya se vaaa! ¡Ryuu-chan＿es increíbleee!」"
+
+msgid "Ryuuji「See, it's all okay now.」"
+msgstr "Ryuuji「¿Ves?, ya está todo bien.」"
+
+msgid "Yasuko「Yeah, thank you～ Ryuu-chan saved＿Yacchannn～」"
+msgstr "Yasuko「Sí, gracias～ Ryuu-chan＿salvó a Yacchannn～」"
+
+msgid "Ryuuji「I was so worried. I thought you might＿have been attacked by robbers or＿something.」"
+msgstr "Ryuuji「Estaba tan preocupado. Pensé que te＿habían atacado unos ladrones o algo así.」"
+
+msgid "Yasuko「Nnn～ Sorryyy.」"
+msgstr "Yasuko「Nnn～ Perdóóón.」"
+
+msgid "Ryuuji「......Why are you at the bar right now?＿Wasn't there a New Year's party＿today?」"
+msgstr "Ryuuji「......¿Por qué estás en el bar ahora?＿¿No había una fiesta de Año Nuevo hoy?」"
+
+msgid "Yasuko「This is where we had the afterparty, so＿Yacchan was cleaning uppp.」"
+msgstr "Yasuko「Aquí es donde hicimos la posfiesta, así＿que Yacchan estaba limpiandooo.」"
+
+msgid "Ryuuji「Oh, I see.」"
+msgstr "Ryuuji「Ah, ya veo.」"
+
+msgid "Yasuko「Even without the other girls, we were＿able to make some money☆」"
+msgstr "Yasuko「Incluso sin las demás chicas, pudimos＿ganar algo de dinero☆」"
+
+msgid "Ryuuji「Pretty casual about your ulterior＿motive, aren't you.」"
+msgstr "Ryuuji「Dices tus segundas intenciones＿con mucha naturalidad, ¿no?」"
+
+msgid "Yasuko「Hehe～ Yacchan's a savvy＿businesswoman～」"
+msgstr "Yasuko「Jeje～ Yacchan es una mujer＿de negocios muy astuta～」"
+
+msgid "Ryuuji「Well, I'm wide awake now. Guess I'll go＿home and clean......」"
+msgstr "Ryuuji「Bueno, ya me espabilé del todo. Supongo＿que iré a casa a limpiar......」"
+
+msgid "Yasuko「Oh...... Hey, Ryuu-chan, are you all back＿to normalll?」"
+msgstr "Yasuko「Ah...... Oye, Ryuu-chan, ¿ya volviste＿del todo a la normalidaaad?」"
+
+msgid "Ryuuji「Oh? ......Well, I don't feel sick or＿anything.」"
+msgstr "Ryuuji「¿Eh? ......Bueno, no me＿siento mal ni nada.」"
+
+msgid "Yasuko「In that caseee, instead of cleaning let's＿have more fun～」"
+msgstr "Yasuko「En ese casooo, en vez de limpiar＿divirtámonos más～」"
+
+msgid "Ryuuji「More fun?」"
+msgstr "Ryuuji「¿Divertirnos más?」"
+
+msgid "Ryuuji「......Well, just for a bit.」"
+msgstr "Ryuuji「......Bueno, solo un rato.」"
+
+msgid "Yasuko「Settled～ Ryuu-chan's date with＿Yacchannn①」"
+msgstr "Yasuko「Decidido～ Cita de Ryuu-chan＿con Yacchannn①」"
+
+msgid "Ryuuji「D-Date......?」"
+msgstr "Ryuuji「¿C-Cita......?」"
+
+msgid "Yasuko「Let's go, Ryuu-chan.」"
+msgstr "Yasuko「Vamos, Ryuu-chan.」"
+
+msgid "Yasuko「Whoaaa～ Isn't it pretty, Ryuu-chan?」"
+msgstr "Yasuko「Guauuu～ ¿No es bonito, Ryuu-chan?」"
+
+msgid "Ryuuji「It sure is.」"
+msgstr "Ryuuji「Claro que sí.」"
+
+msgid "Yasuko「Can we see our house from here?」"
+msgstr "Yasuko「¿Podemos ver nuestra casa desde aquí?」"
+
+msgid "Ryuuji「Hmmm. Finding it from here would be＿challenging.」"
+msgstr "Ryuuji「Mmmm. Encontrarla desde＿aquí sería complicado.」"
+
+msgid "Yasuko「Yeaaah...... Too bad☆」"
+msgstr "Yasuko「Sííí...... Qué lástima☆」"
+
+msgid "Ryuuji「......」"
+msgstr "Ryuuji「......」"
+
+msgid "Yasuko「......Hmm～?」"
+msgstr "Yasuko「......¿Mmm～?」"
+
+msgid "Ryuuji「Oh, it's just...... you know, thanks for＿everything.」"
+msgstr "Ryuuji「Ah, es solo que...... ya sabes,＿gracias por todo.」"
+
+msgid "Yasuko「Hmm～? What's up all of a suddennn?」"
+msgstr "Yasuko「¿Mmm～? ¿Y eso tan de repenteee?」"
+
+msgid "Ryuuji「It's just, I realized that if it wasn't for＿you working all the time...... I couldn't＿live the way I do now.」"
+msgstr "Ryuuji「Es solo que me di cuenta de que, si＿no trabajaras todo el tiempo...... no＿podría vivir como vivo ahora.」"
+
+msgid "Yasuko「There's no need to say thank you～」"
+msgstr "Yasuko「No hace falta dar las gracias～」"
+
+msgid "Ryuuji「But I keep on causing trouble for you,＿don't I? I even lost my memory......」"
+msgstr "Ryuuji「Pero no dejo de causarte problemas,＿¿verdad? Incluso perdí la memoria......」"
+
+msgid "Yasuko「Oh, nonsenseee. Yacchan is happy just＿to have Ryuu-chan by her side～＿Teehee☆」"
+msgstr "Yasuko「Ay, tonteríaaas. Yacchan es＿feliz con solo tener a Ryuu-chan＿a su lado～ Jeje☆」"
+
+msgid "Ryuuji「You mean......」"
+msgstr "Ryuuji「Quieres decir......」"
+
+msgid "Yasuko「Even if you forget your memories, no＿matter how you change, Ryuu-chan＿will always be Yacchan's faaavorite.」"
+msgstr "Yasuko「Aunque pierdas tus recuerdos, sin＿importar cómo cambies, Ryuu-chan siempre＿será el favoriiito de Yacchan.」"
+
+msgid "Ryuuji「Y-Yasuko......」"
+msgstr "Ryuuji「Y-Yasuko......」"
+
+msgid "Yasuko「Since we're here, let's talk just a little＿more, Ryuu-channn～」"
+msgstr "Yasuko「Ya que estamos aquí, hablemos＿un poco más, Ryuu-channn～」"
+
+msgid "Ryuuji「......Oh, sure. I want to talk more with＿you, too, Yasuko.」"
+msgstr "Ryuuji「......Ah, claro. Yo también quiero＿hablar más contigo, Yasuko.」"
+
+msgid "Yasuko「Ehehe. Thanks, Ryuu-chan.」"
+msgstr "Yasuko「Ejeje. Gracias, Ryuu-chan.」"
+
+msgid "Yasuko「Let's go on an evening strollll. These＿days Ryuu-chan hasn't spent much＿time with Yacchan, so she's bored～」"
+msgstr "Yasuko「Demos un paseo nocturnooo.」"
+
+msgid "Yasuko「You will, won't you?」"
+msgstr "Yasuko「Estos días Ryuu-chan pasa poco tiempo＿con Yacchan, así que ella está aburrida～＿Vendrás, ¿verdad?」"

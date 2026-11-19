@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「Is this......?」"
+msgstr "Ryuuji「¿Esto es......?」"
+
+msgid "Ami「This is the recently built Luxure＿Amusement Park. I've like, ALWAYS＿wanted to come here with you①」"
+msgstr "Ami「Es el recién construido Parque de＿Atracciones Luxure. O sea, SIEMPRE＿quise venir aquí contigo①」"
+
+msgid "Ryuuji「With me?」"
+msgstr "Ryuuji「¿Conmigo?」"
+
+msgid "Ami「Of course. Takasu-kun is my V-E-R-Y＿special someone, after all.」"
+msgstr "Ami「Claro. Takasu-kun es alguien M-U-Y＿especial para mí, después de todo.」"
+
+msgid "Ryuuji「......When you put it so bluntly, I'm not＿sure how to react.」"
+msgstr "Ryuuji「......Cuando lo dices tan directamente,＿no sé cómo reaccionar.」"
+
+msgid "Ami「How heartless～ You never used to＿hide your feelings before. You'd say＿\"You're my special girl, Kawashima.\"」"
+msgstr "Ami「Qué cruel～ Antes nunca ocultabas tus＿sentimientos. Me decías \"Eres mi chica＿especial, Kawashima\".」"
+
+msgid "Ryuuji「Oh really...... Sorry, I don't really＿remember.」"
+msgstr "Ryuuji「¿Ah, sí......? Perdón, la＿verdad no lo recuerdo.」"
+
+msgid "Ami「Ufufu. You're cute when you're shy, so＿I'll forgive you①」"
+msgstr "Ami「Jujuju. Te ves lindo cuando te pones＿tímido, así que te perdono①」"
+
+msgid "Ami「That aside, this is our first date＿together, so let's have a lot of fun♪」"
+msgstr "Ami「En fin, es nuestra primera cita juntos,＿así que divirtámonos mucho♪」"
+
+msgid "Ryuuji「Y-Yeah......」"
+msgstr "Ryuuji「S-Sí......」"
+
+msgid "Ryuuji「(Maybe Kawashima is doing this to＿cheer me up...... In that case, I gotta＿enjoy it to the fullest......)」"
+msgstr "Ryuuji「(Tal vez Kawashima hace esto＿para animarme......」"
+
+msgid "Ryuuji「Oh yeah, it was quite good.」"
+msgstr "Ryuuji「En ese caso, tengo que disfrutarlo＿al máximo......) Ah, sí, estuvo＿bastante bien.」"
+
+msgid "Ami「Fufu, L-I-A-R ① You didn't really pay＿attention. You kept looking around＿restlessly. I noticed, you know～」"
+msgstr "Ami「Juju, M-E-N-T-I-R-O-S-O ① En realidad no＿prestaste atención. Mirabas a todos＿lados inquieto. Me di cuenta, ¿sabes～?」"
+
+msgid "Ryuuji「......Sorry. I just felt strangely uneasy.」"
+msgstr "Ryuuji「......Perdón. Me sentía raro, inquieto.」"
+
+msgid "Ami「Maybe it was because we were, like, so＿close together?」"
+msgstr "Ami「¿Tal vez fue porque estábamos,＿o sea, tan juntitos?」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Ami「I was nervous too, you know. When I＿realized how close you were, I got＿SUPER embarrassed......」"
+msgstr "Ami「Yo también estaba nerviosa, ¿sabes?＿Al ver lo cerca que estabas, me sentí＿SÚPER avergonzada......」"
+
+msgid "Ryuuji「Kawashima......」"
+msgstr "Ryuuji「Kawashima......」"
+
+msgid "Ami「Hey, Takasu-kun...... Why don't we find a＿place where we can be alone? I know＿this, like, really special spot.」"
+msgstr "Ami「Oye, Takasu-kun...... ¿Por qué no＿buscamos un lugar para estar a solas?＿Conozco un sitio, o sea, muy especial.」"
+
+msgid "Ryuuji「......The ferris wheel, huh? No one could＿bother us here, that's for sure.」"
+msgstr "Ryuuji「......La rueda de la fortuna, ¿eh? Aquí＿nadie podrá molestarnos, eso seguro.」"
+
+msgid "Ami「Yup. Were you perhaps expecting＿somewhere more private, Takasu-kun?」"
+msgstr "Ami「Sip. ¿Acaso esperabas algún lugar＿más privado, Takasu-kun?」"
+
+msgid "Ryuuji「O-Of course I wasn't!」"
+msgstr "Ryuuji「¡P-Por supuesto que no!」"
+
+msgid "Ami「Ufu. You stuttered. How cute～①」"
+msgstr "Ami「Juju. Tartamudeaste. Qué lindo～①」"
+
+msgid "Ryuuji「......Don't tease me.」"
+msgstr "Ryuuji「......No te burles de mí.」"
+
+msgid "Ami「Sowwy～! I'm like, sooo happy I get to＿be alone with you, Takasu-kun...... Ehe①」"
+msgstr "Ami「¡Perdóóón～! Estoy, o sea,＿taaan feliz a solas contigo,＿Takasu-kun...... Jeje①」"
+
+msgid "Ami「Oh, I know! Can I call you \"Ryuuji\" from＿now on? Like Aisaka-san does?」"
+msgstr "Ami「¡Ah, ya sé! ¿Te puedo llamar \"Ryuuji\"＿desde ahora, como hace Aisaka-san?」"
+
+msgid "Ryuuji「Are you serious?」"
+msgstr "Ryuuji「¿Hablas en serio?」"
+
+msgid "Ami「Is that, like, a no?」"
+msgstr "Ami「¿Eso es, o sea, un no?」"
+
+msgid "Ryuuji「N-No...... I don't really mind, but...... it's＿kinda awkward!」"
+msgstr "Ryuuji「N-No...... En realidad no me importa,＿pero...... ¡es un poco incómodo!」"
+
+msgid "Ami「Fufu, thank you ① Oh, but leaving it,＿like, one-sided wouldn't be right, so call＿me \"Ami-chan,\" okay, Ryuuji?」"
+msgstr "Ami「Juju, gracias ① Ah, pero dejarlo, o sea,＿de un solo lado no estaría bien, así que＿llámame \"Ami-chan\", ¿sí, Ryuuji?」"
+
+msgid "Ryuuji「Why do I have to add \"-chan\" to it?」"
+msgstr "Ryuuji「¿Por qué tengo que agregarle el \"-chan\"?」"
+
+msgid "Ami「'Cause that's what I like to be calleddd!＿Come on, just try saying it. Say＿Ami-chan.」"
+msgstr "Ami「¡Porque así me gusta que me llameeen!＿Vamos, intenta decirlo. Di Ami-chan.」"
+
+msgid "Ryuuji「A-Ami-chan.」"
+msgstr "Ryuuji「A-Ami-chan.」"
+
+msgid "Ami「What is it, Ryuuji? ①」"
+msgstr "Ami「¿Qué pasa, Ryuuji? ①」"
+
+msgid "Ryuuji「(......M-Mortifying!)」"
+msgstr "Ryuuji「(......¡Q-Qué vergüenza!)」"
+
+msgid "Ami「Oh my, it's kinda, like, embarrassing～＿Come on Ryuuji, don't just, like, sit＿there, let's talk about something～」"
+msgstr "Ami「Vaya, da como, o sea, un poco de＿vergüenza～ Vamos, Ryuuji, no te quedes＿ahí callado, hablemos de algo～」"
+
+msgid "Ami「The rumors about the awesome＿planetarium were SOOO right～ It was＿like, SO touching and romantic ①」"
+msgstr "Ami「Los rumores sobre el increíble＿planetario eran TAAAN ciertos～ Fue,＿o sea, TAN conmovedor y romántico ①」"
+
+msgid "Ami「What did you think, Takasu-kun?」"
+msgstr "Ami「¿Qué te pareció, Takasu-kun?」"

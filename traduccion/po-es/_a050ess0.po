@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「（Shit...... I was out like a light!）」"
+msgstr "Ryuuji「（Mierda...... ¡Me quedé dormido＿como un tronco!）」"
+
+msgid "Ryuuji「（Am I that cold-hearted? Taiga was＿saying that I \"talked about it like it's＿not my problem.\"）」"
+msgstr "Ryuuji「（¿Tan frío soy? Taiga decía que \"hablaba＿como si no fuera problema mío\".）」"
+
+msgid "Ryuuji「（But I want to support Kitamura......＿*Sigh*）」"
+msgstr "Ryuuji「（Pero quiero apoyar a Kitamura......＿*Suspiro*）」"
+
+msgid "Yasuko「Wh......ere...... is......」"
+msgstr "Yasuko「¿Dó......nde...... está......」"
+
+msgid "Ryuuji「What, you're already awake, Yasuko?＿You can go back to sleep, you know.」"
+msgstr "Ryuuji「¿Qué, ya estás despierta, Yasuko?＿Puedes volver a dormir, ¿sabes?」"
+
+msgid "Yasuko「......the FOOOOOOD～?!」"
+msgstr "Yasuko「......¡la COMIDAAAAA～?!」"
+
+msgid "Yasuko「Don't smell...... the rice......」"
+msgstr "Yasuko「No huelo...... el arroz......」"
+
+msgid "Ryuuji「How could I have forgotten to switch＿on the rice cooker?! Hang on, I'll get it＿cooking in the clay pot at once!」"
+msgstr "Ryuuji「¡¿Cómo pude olvidar encender la＿arrocera?! ¡Espera, lo pongo en＿la olla de barro enseguida!」"
+
+msgid "Yasuko「Ryuu-chan forgot the riceee～＿Ryuu-chan is brokennnn～」"
+msgstr "Yasuko「Ryuu-chan olvidó el arroooz～＿Ryuu-chan está rotooo～」"
+
+msgid "Ryuuji「No, I'm not broken, I just skipped a＿step.」"
+msgstr "Ryuuji「No, no estoy roto, solo＿me salté un paso.」"
+
+msgid "Yasuko「So you ARE broken～ Sniff, waaah,＿Ryuu-cha...... Ryuu-chan is...... Ryuu......」"
+msgstr "Yasuko「Entonces SÍ estás roto～ Snif,＿buaaah, Ryuu-cha...... Ryuu-chan＿está...... Ryuu......」"
+
+msgid "Yasuko「Zzzzzz.」"
+msgstr "Yasuko「Zzzzzz.」"
+
+msgid "Ryuuji「Wait, don't fall asleep on me! At least＿cover yourself first! Your panties are＿showing!!」"
+msgstr "Ryuuji「Oye, ¡no te quedes dormida! ¡Al＿menos tápate primero! ¡¡Se te＿ve la ropa interior!!」"
+
+msgid "Yasuko「Teehee～...... Ryuu-chan's so nice～」"
+msgstr "Yasuko「Jiji～...... Qué amable es Ryuu-chan～」"
+
+msgid "Ryuuji「（Smiling with her panties on display......＿T-This is bad......!）」"
+msgstr "Ryuuji「（Sonriendo con la ropa interior a la＿vista...... ¡E-Esto es malo......!）」"
+
+msgid "Ryuuji「L-Let me just cover that up for you......＿Ohh!?」"
+msgstr "Ryuuji「D-Déjame taparte eso...... ¡¿Ehh?!」"
+
+msgid "Yasuko「Huuuh? Ryuu-chan, your face is all＿red～ What's wronggg?」"
+msgstr "Yasuko「¿Eeeh? Ryuu-chan, tienes la cara＿toda roja～ ¿Qué pasaaa?」"
+
+msgid "Ryuuji「Nothing.」"
+msgstr "Ryuuji「Nada.」"
+
+msgid "Yasuko「Gosh①」"
+msgstr "Yasuko「Cielos①」"
+
+msgid "Ryuuji「W-What?」"
+msgstr "Ryuuji「¿Q-Qué?」"
+
+msgid "Ryuuji「So I resemble my papa...... papa......＿PAPAAA!?」"
+msgstr "Ryuuji「Así que me parezco a mi papá......＿papá...... ¡¿PAPÁAA?!」"
+
+msgid "Yasuko「Sorry for the waittt. ① This is your＿papa.」"
+msgstr "Yasuko「Perdón por la esperaaa.＿① Este es tu papá.」"
+
+msgid "Ryuuji「（Ugh......!）」"
+msgstr "Ryuuji「（¡Ugh......!）」"
+
+msgid "Ryuuji「（Now I understand why Yasuko and I＿look nothing alike......）」"
+msgstr "Ryuuji「（Ahora entiendo por qué Yasuko y yo＿no nos parecemos en nada......）」"
+
+msgid "Ryuuji「Yasuko...... You haven't changed a bit＿since this photo was taken......」"
+msgstr "Ryuuji「Yasuko...... No has cambiado nada desde＿que tomaron esta foto......」"
+
+msgid "Yasuko「Oh my ☆ Thanksss～!」"
+msgstr "Yasuko「Oh, vaya ☆ ¡Graciasss～!」"
+
+msgid "Ryuuji「Just for future reference...... How old＿are you?」"
+msgstr "Ryuuji「Solo como referencia......＿¿Cuántos años tienes?」"
+
+msgid "Yasuko「Gosh, since Ryuu-chan is so good at＿flattery, here it is～ Yacchan is＿thir～ty～three～①」"
+msgstr "Yasuko「Ay, como Ryuu-chan es tan bueno＿para los halagos, ahí va～ Yacchan＿tiene trein～ta y～tres～①」"
+
+msgid "Ryuuji「Thirty......!」"
+msgstr "Ryuuji「¡Treinta......!」"
+
+msgid "Yasuko「Ryuu-chan, what's wrong? Did you get＿even more brokennn?」"
+msgstr "Yasuko「Ryuu-chan, ¿qué pasa? ¿Te＿rompiste todavía másss?」"
+
+msgid "Ryuuji「Sorry, you just blew my mind right＿now...... So, where's my old man?＿Haven't seen him around......」"
+msgstr "Ryuuji「Perdón, me dejaste sin palabras......＿¿Dónde está mi padre? No lo he＿visto por aquí......」"
+
+msgid "Yasuko「............」"
+msgstr "Yasuko「............」"
+
+msgid "Ryuuji「Hm?」"
+msgstr "Ryuuji「¿Mm?」"
+
+msgid "Yasuko「......Wellll, Papa is far, FAR awayyy～＿He's watching over Ryuu-chan and＿Yacchannn～」"
+msgstr "Yasuko「......Buenooo, papá está muy,＿MUY lejosss～ Él está cuidando＿a Ryuu-chan y a Yacchannn～」"
+
+msgid "Ryuuji「......Oh.」"
+msgstr "Ryuuji「......Ah.」"
+
+msgid "Yasuko「Nyaha! Gotta put this photo backkk①」"
+msgstr "Yasuko「¡Ñaja! Tengo que guardar esta fotooo①」"
+
+msgid "Ryuuji「（What a horrible question to ask...... I'm＿sure there are circumstances as to＿why my old man is gone......）」"
+msgstr "Ryuuji「（Qué pregunta más terrible hice......＿Seguro hay razones por las que＿ya no está......）」"
+
+msgid "Ryuuji「......Hmm, Yasuko's sure taking her time.」"
+msgstr "Ryuuji「......Mmm, Yasuko sí que tarda.」"
+
+msgid "Ryuuji「......Good grief.」"
+msgstr "Ryuuji「......Qué barbaridad.」"
+
+msgid "Yasuko「Mmmm～ ......Nnngg...... Ryuu-channn......＿Nnngg......」"
+msgstr "Yasuko「Mmmm～ ......Mmmg...... Ryuu-channn......＿Mmmg......」"
+
+msgid "Ryuuji「Sheesh, fast asleep......」"
+msgstr "Ryuuji「Vaya, profundamente dormida......」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Yasuko「Zzzz...... Zzzz......」"
+msgstr "Yasuko「Zzzz...... Zzzz......」"
+
+msgid "Ryuuji「What if they felt the same way, but＿neither of you could own up to it?」"
+msgstr "Ryuuji「¿Y si sintieran lo mismo, pero ninguno＿de los dos pudiera admitirlo?」"
+
+msgid "Yasuko「Zzzz...... Zzzz......」"
+msgstr "Yasuko「Zzzz...... Zzzz......」"
+
+msgid "Ryuuji「Would you want me to help pair you＿up? Do you think that I should?」"
+msgstr "Ryuuji「¿Querrías que ayudara a juntarlos?＿¿Crees que debería hacerlo?」"
+
+msgid "Yasuko「About thattt--」"
+msgstr "Yasuko「Sobre esooo--」"
+
+msgid "Ryuuji「Oh! If you're awake, don't startle me＿like that!」"
+msgstr "Ryuuji「¡Eh! ¡Si estás despierta,＿no me asustes así!」"
+
+msgid "Yasuko「Isn't it something only they can＿decideee?」"
+msgstr "Yasuko「¿No es algo que solo ellos＿pueden decidirrr?」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Yasuko「Zzzz...... Zzzz......」"
+msgstr "Yasuko「Zzzz...... Zzzz......」"
+
+msgid "Ryuuji「Sorry for asking these weird＿questions...... Sleep tight.」"
+msgstr "Ryuuji「Perdón por hacer preguntas tan＿raras...... Que descanses.」"
+
+msgid "Ryuuji「Oh, phone's ringing.」"
+msgstr "Ryuuji「Ah, está sonando el teléfono.」"
+
+msgid "Ami「......Just a reminder: meet in front of＿Sudoh-Bucks. See ya.」"
+msgstr "Ami「......Solo un recordatorio: es frente＿a Sudoh-Bucks. Nos vemos.」"
+
+msgid "Ryuuji「Oh, okay.」"
+msgstr "Ryuuji「Ah, está bien.」"
+
+msgid "Ryuuji「Now then, what to do......」"
+msgstr "Ryuuji「Y bien, ¿qué hacer......?」"
+
+msgid "Ryuuji「（I was supposed to think about the＿situation between Kitamura and Kanou＿Sumire, but......）」"
+msgstr "Ryuuji「（Se suponía que debía pensar en＿la situación entre Kitamura y＿Kanou Sumire, pero......）」"
+
+msgid "Ryuuji「（Morning came before I knew it......）」"
+msgstr "Ryuuji「（Amaneció antes de que me＿diera cuenta......）」"
+
+msgid "Ryuuji「（No, it's not like I was doing it on＿purpose. However...... Maybe my＿amnesia is to blame.）」"
+msgstr "Ryuuji「（No, no es que lo hiciera a propósito.＿Sin embargo...... Tal vez la culpa＿sea de mi amnesia.）」"
+
+msgid "Ryuuji「（These unfolding circumstances just＿aren't sinking in......）」"
+msgstr "Ryuuji「（Todo lo que está pasando aún no me＿termina de entrar en la cabeza......）」"
+
+msgid "Ryuuji「Right here. The rolled omelettes are＿plump and glossy, the miso soup was＿made from scratch......」"
+msgstr "Ryuuji「Aquí está. Las tortillas enrolladas＿quedaron esponjosas, la sopa de＿miso es casera......」"
+
+msgid "Ryuuji「And the rice...... *Gasp*!」"
+msgstr "Ryuuji「Y el arroz...... ¡Ah!」"
+
+msgid "Yasuko「That gruffness...... The more you＿resemble your papa, the cooler you＿gettt. ① Yacchan's heart skipped a」"
+msgstr "Yasuko「Esa rudeza...... Mientras más te＿pareces a tu papá, más genial te＿ponesss. ① A Yacchan le dio un」"
+
+msgid "Yasuko「beattt.」"
+msgstr "Yasuko「vuelcooo.」"
+
+msgid "Yasuko「That's righttt. ① Huh? Ryuu-chan has＿yet to see Papa's photo since the＿amnesiaaa? How careless～」"
+msgstr "Yasuko「Es ciertooo. ① ¿Eh? ¿Ryuu-chan no＿ha visto la foto de papá desde la＿amnesiaaa? Qué descuido～」"
+
+msgid "Yasuko「Wait right here, be right back, gansu♪」"
+msgstr "Yasuko「Espera aquí, ya vuelvo, gansu♪」"
+
+msgid "Ryuuji「（Papa...... So in other words, Yasuko is＿my mother? This babyface, who looks＿nothing like me, is my mother!?）」"
+msgstr "Ryuuji「（Papá...... ¿Yasuko es mi madre?＿¡¿Esta cara de niña, que no se parece＿a mí, es mi madre?!）」"
+
+msgid "Ryuuji「（So this means I saw my own mother's＿panties...... Fuck my life.）」"
+msgstr "Ryuuji「（Entonces eso significa que vi la＿ropa interior de mi propia madre......＿Qué mierda de vida.）」"
+
+msgid "Yasuko「Heyyy, Ryuu-chan should get this＿hairstyle～ And an open-collared＿shirttt, and a gold chainnn.」"
+msgstr "Yasuko「Oyeee, Ryuu-chan debería hacerse este＿peinado～ Una camisa con el cuello＿abiertooo y una cadena de orooo.」"
+
+msgid "Yasuko「Bonus points for gold front teeth. ☆＿Oh my～ So cool～①」"
+msgstr "Yasuko「Puntos extra por dientes frontales de＿oro. ☆ Oh, cielos～ Qué genial～①」"
+
+msgid "Ryuuji「（How long has he been out of the＿picture? Don't tell me Yasuko raised＿me all on her own......?）」"
+msgstr "Ryuuji「（¿Cuánto tiempo lleva ausente?＿¿Acaso Yasuko me crio completamente＿sola......?）」"
+
+msgid "Ryuuji「（Looking at it from this perspective,＿she's been through a lot.）」"
+msgstr "Ryuuji「（Viéndolo desde esta perspectiva,＿ha pasado por mucho.）」"
+
+msgid "Ryuuji「So you ended up going back to bed......＿Come on, your panties are showing＿again!」"
+msgstr "Ryuuji「Así que terminaste volviendo a＿la cama...... ¡Vamos, se te vuelve＿a ver la ropa interior!」"
+
+msgid "Ryuuji「And the photo will get dusty if you＿leave it out like that.」"
+msgstr "Ryuuji「Y la foto se va a empolvar＿si la dejas ahí así.」"
+
+msgid "Ryuuji「......Here's a hypothetical question. If＿you had been rejected by your＿crush......」"
+msgstr "Ryuuji「......Una pregunta hipotética.＿Si te hubiera rechazado la persona＿que te gusta......」"
+
+msgid "Ryuuji「What if, while you were trying to forget＿them, you saw them right in front of＿you?」"
+msgstr "Ryuuji「¿Qué harías si, mientras intentas＿olvidarla, la ves justo frente a ti?」"

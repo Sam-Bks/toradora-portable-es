@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+
+msgid "Minori「Say, Takasu-kun, that aside, have you＿heard of \"Heisei School Ghost Stories:＿The Mystery of the Cursed AV Room\"?」"
+msgstr "Minori「Oye, Takasu-kun, aparte de eso, ¿conoces＿\"Fantasmas escolares Heisei: El misterio＿de la sala AV maldita\"?」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Ryuuji「What? Uh, Kushieda?」"
+msgstr "Ryuuji「¿Qué? Eh, ¿Kushieda?」"
+
+msgid "Minori「Now now, listen well. See, I heard it＿from my cousin......」"
+msgstr "Minori「Ahora, escucha bien. Verás, esto＿me lo contó mi primo......」"
+
+msgid "Minori「That moment, the brains...... BLEW OUT＿OF HER EAR!!」"
+msgstr "Minori「En ese momento, los sesos...... ¡¡LE＿SALIERON VOLANDO POR LA OREJA!!」"
+
+msgid "Ryuuji「Aaaagghh!!」"
+msgstr "Ryuuji「¡¡Aaaagghh!!」"
+
+msgid "Minori「Oh, we've somehow spent over 5＿minutes here. We should get going.」"
+msgstr "Minori「Ay, de algún modo pasamos más de 5＿minutos aquí. Deberíamos irnos.」"
+
+msgid "Minori「Huh? Takasu-kun?」"
+msgstr "Minori「¿Eh? ¿Takasu-kun?」"
+
+msgid "Ryuuji「M-My heart......」"
+msgstr "Ryuuji「M-Mi corazón......」"
+
+msgid "Minori「What's wrong with it?」"
+msgstr "Minori「¿Qué tiene?」"
+
+msgid "Ryuuji「It's pounding so hard......」"
+msgstr "Ryuuji「Me late con tanta fuerza......」"
+
+msgid "Minori「Is it because of the ghost story,＿perhaps? Oh jeez, Takasu-kun! That＿was just a warm-up!」"
+msgstr "Minori「¿Será por la historia de fantasmas,＿acaso? ¡Ay, Takasu-kun! ¡Eso solo＿fue un calentamiento!」"
+
+msgid "Ryuuji「Huh......?」"
+msgstr "Ryuuji「¿Eh......?」"
+
+msgid "Minori「C'mon, let's go!」"
+msgstr "Minori「¡Vamos, sigamos!」"
+
+msgid "Ryuuji「I don't know if I can go on......」"
+msgstr "Ryuuji「No sé si pueda seguir......」"
+
+msgid "Minori「Oh, your face says you haven't! Fufu～＿Since we're at a test of courage,＿Kushieda Minori shall retell it for you」"
+msgstr "Minori「¡Ah, tu cara dice que no! Juju～ Como＿estamos en una prueba de valor,＿¡Kushieda Minori te la contará」"
+
+msgid "Minori「word-for-word!」"
+msgstr "Minori「palabra por palabra!」"

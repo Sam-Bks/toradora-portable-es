@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+
+msgid "Inko-chan「LE, LEG, LEG」"
+msgstr "Inko-chan「PA, PA, PATA」"
+
+msgid "Ryuuji「Oh, what's wrong with your leg?」"
+msgstr "Ryuuji「Eh, ¿qué pasa con tu pata?」"
+
+msgid "Inko-chan「LEGGOOOO! LEGGOOOO!」"
+msgstr "Inko-chan「¡SUÉLTAAA! ¡SUÉLTAAA!」"
+
+msgid "Ryuuji「\"Leggo\"...... \"Let go\"?」"
+msgstr "Ryuuji「¿\"Suelta\"...... \"Suéltame\"?」"
+
+msgid "Inko-chan「FREEEEEEDOM!」"
+msgstr "Inko-chan「¡LIBERTAAAD!」"
+
+msgid "Ryuuji「Oh? Wait, Inko-chan, calm down! Calm＿down!」"
+msgstr "Ryuuji「¿Eh? Espera, Inko-chan,＿¡cálmate! ¡Cálmate!」"
+
+msgid "Inko-chan「EGGO」"
+msgstr "Inko-chan「EGGO」"
+
+msgid "Inko-chan「......」"
+msgstr "Inko-chan「......」"
+
+msgid "Ryuuji「Nn...... Why is it asking me for＿waffles......? Good night, Inko-chan.」"
+msgstr "Ryuuji「Mm...... ¿Por qué me está pidiendo＿waffles......? Buenas noches, Inko-chan.」"
+
+msgid "Ryuuji「（Whew...... I'm so tired and sleepy all of a＿sudden......）」"
+msgstr "Ryuuji「（Uf...... De repente tengo mucho＿sueño y cansancio......）」"

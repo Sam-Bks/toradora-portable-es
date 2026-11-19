@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+
+msgid "Taiga「Oh!」"
+msgstr "Taiga「¡Ah!」"
+
+msgid "Ryuuji「What's the matter?」"
+msgstr "Ryuuji「¿Qué pasa?」"
+
+msgid "Taiga「I promised Minorin we'd go have＿dessert together. I gotta get going!」"
+msgstr "Taiga「Le prometí a Minorin que iríamos a comer＿postre juntas. ¡Me tengo que ir!」"
+
+msgid "Taiga「......Are you coming?」"
+msgstr "Taiga「......¿Vas a venir?」"
+
+msgid "Ryuuji「Nah, I'm fine. I'll rest here.」"
+msgstr "Ryuuji「Nah, estoy bien. Descansaré aquí.」"
+
+msgid "Taiga「Okay. A dog's only strong point is its＿health, so get your act together.」"
+msgstr "Taiga「Bien. El único punto fuerte＿de un perro es su salud, así＿que ponte las pilas.」"
+
+msgid "Ryuuji「I'm not a dog.」"
+msgstr "Ryuuji「No soy un perro.」"
+
+msgid "Taiga「Heh. It's a little late to say that now.」"
+msgstr "Taiga「Je. Ya es un poco tarde para decir eso.」"
+
+msgid "Ryuuji「（Hmm, Taiga seems like her normal self.＿Though I hesitate to refer to that＿foul-mouthed attitude as \"normal.\"）」"
+msgstr "Ryuuji「（Mmm, Taiga parece estar como siempre.＿Aunque dudo que llamar \"normal\" a esa＿actitud tan grosera sea lo correcto.）」"
+
+msgid "Ryuuji「（Oh well. As per my original plan, I think＿I'll kick back for a while.）」"
+msgstr "Ryuuji「（En fin. Según mi plan original,＿creo que me relajaré un rato.）」"

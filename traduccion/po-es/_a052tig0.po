@@ -1,0 +1,398 @@
+msgid ""
+msgstr ""
+
+msgid "Ami「What the?」"
+msgstr "Ami「¿Pero qué?」"
+
+msgid "Ami「Oh, come on!」"
+msgstr "Ami「¡Oh, vamos!」"
+
+msgid "Ami「That damn Tiger won't answer the＿intercom. And the locks are automated＿here! So we can't get in!」"
+msgstr "Ami「Esa maldita Tigre no contesta el＿intercomunicador. ¡Y aquí hay seguro＿automático! ¡Así que no podemos entrar!」"
+
+msgid "Ryuuji「She's probably still asleep at this hour.＿It's no use. Taiga won't wake up from＿merely the intercom buzzer.」"
+msgstr "Ryuuji「Seguro sigue dormida a esta hora. No＿sirve. Taiga no se despertará con el＿simple timbre del intercomunicador.」"
+
+msgid "Ami「What? So what do we do?」"
+msgstr "Ami「¿Qué? Entonces, ¿qué hacemos?」"
+
+msgid "Ryuuji「......We appeal to her instincts.」"
+msgstr "Ryuuji「......Apelamos a sus instintos.」"
+
+msgid "Ami「Huh?」"
+msgstr "Ami「¿Eh?」"
+
+msgid "Ryuuji「Kawashima, take that broom over＿there and tap on the window across＿from us, please.」"
+msgstr "Ryuuji「Kawashima, toma esa escoba＿de ahí y golpea la ventana＿de enfrente, por favor.」"
+
+msgid "Ami「Are you sure?」"
+msgstr "Ami「¿Estás seguro?」"
+
+msgid "Ami「I don't really know where this is going,＿but since you're sure--」"
+msgstr "Ami「No sé bien adónde va esto, pero＿ya que estás seguro--」"
+
+msgid "Ami「CAN YOU HEAR ME? TIGER, YOU＿LITTLE SHIT! WAKE THE HELL UP!」"
+msgstr "Ami「¿ME OYES? ¡TIGRE, MALDITA MOCOSA!＿¡DESPIERTA YA, DEMONIOS!」"
+
+msgid "Ryuuji「TAIGA, ARE YOUR EARS AND NOSE＿WORKING? IT'S ME. I'VE GOT＿BREAKFAST WITH YOUR NAME ON IT.」"
+msgstr "Ryuuji「TAIGA, ¿TE FUNCIONAN LOS OÍDOS Y LA＿NARIZ? SOY YO. TE TRAJE EL DESAYUNO.」"
+
+msgid "Ami「Aaahh!」"
+msgstr "Ami「¡Aaahh!」"
+
+msgid "Taiga「Foo......ddd......」"
+msgstr "Taiga「Comi......daaa......」"
+
+msgid "Ryuuji「Oh, you're awake. Good, good, good.」"
+msgstr "Ryuuji「Ah, despertaste. Bien, bien, bien.」"
+
+msgid "Ami「L-Like an animal......」"
+msgstr "Ami「C-Como un animal......」"
+
+msgid "Taiga「Ahhh, I'm full!」"
+msgstr "Taiga「¡Ahhh, estoy llena!」"
+
+msgid "Ryuuji「Ahem. What do you say before \"I'm＿full\"?」"
+msgstr "Ryuuji「Ejem. ¿Qué se dice antes＿de \"estoy llena\"?」"
+
+msgid "Taiga「Thanks for the food!」"
+msgstr "Taiga「¡Gracias por la comida!」"
+
+msgid "Ryuuji「Good. Hey, there's a grain of rice stuck＿to your neck.」"
+msgstr "Ryuuji「Bien. Oye, tienes un grano de＿arroz pegado en el cuello.」"
+
+msgid "Taiga「Nom!」"
+msgstr "Taiga「¡Ñam!」"
+
+msgid "Ami「......Starting to think even hippos at the＿zoo are smarter.」"
+msgstr "Ami「......Empiezo a pensar que hasta los＿hipopótamos del zoo son más listos.」"
+
+msgid "Taiga「Oh, StuChi's here. That explains the＿old hag smell mixed in with the＿breakfast smell.」"
+msgstr "Taiga「Ah, StuChi está aquí. Eso explica＿el olor a vieja bruja mezclado＿con el del desayuno.」"
+
+msgid "Ami「Has your stupidity gone to your nose?＿This is the latest perfume from Tior! I＿had to import it from overseas, stupid!」"
+msgstr "Ami「¿Se te subió la estupidez a la nariz?＿¡Es el último perfume de Tior! ¡Tuve que＿importarlo del extranjero, tonta!」"
+
+msgid "Taiga「Nobody cares. So anyway Ryuuji, why＿is StuChi in my house?」"
+msgstr "Taiga「A nadie le importa. En fin, Ryuuji,＿¿por qué está StuChi en mi casa?」"
+
+msgid "Ami「Getting right to the point? Alright＿then, Takasu-kun, go ahead.」"
+msgstr "Ami「¿Directo al grano? Está bien entonces,＿Takasu-kun, adelante.」"
+
+msgid "Ryuuji「Me?」"
+msgstr "Ryuuji「¿Yo?」"
+
+msgid "Ami「The zookeeper should go first.」"
+msgstr "Ami「El cuidador del zoológico＿debe ir primero.」"
+
+msgid "Taiga「Excuse you? What's your problem,＿coming over uninvited?」"
+msgstr "Taiga「¿Disculpa? ¿Qué te pasa, viniendo＿sin invitación?」"
+
+msgid "Taiga「Something ridiculously petty again, I'm＿sure.」"
+msgstr "Taiga「Algo ridículamente insignificante＿otra vez, seguro.」"
+
+msgid "Ami「You can decide that after you hear us＿out. Right, Takasu-kun?」"
+msgstr "Ami「Eso lo decides después de escucharnos.＿¿Verdad, Takasu-kun?」"
+
+msgid "Ryuuji「It's about Kitamura and Kanou Sumire.」"
+msgstr "Ryuuji「Es sobre Kitamura y Kanou Sumire.」"
+
+msgid "Taiga「......Huh?」"
+msgstr "Taiga「......¿Eh?」"
+
+msgid "Ami「............」"
+msgstr "Ami「............」"
+
+msgid "Ryuuji「Seems you have your own feelings＿about them, so I want to hear your＿honest opinion.」"
+msgstr "Ryuuji「Parece que tienes tus propios＿sentimientos al respecto, así que＿quiero oír tu opinión sincera.」"
+
+msgid "Taiga「......Okay, go on.」"
+msgstr "Taiga「......Bien, sigue.」"
+
+msgid "Ryuuji「We're thinking of playing Cupid for＿Kanou Sumire and Kitamura.」"
+msgstr "Ryuuji「Pensamos hacer de Cupido para＿Kanou Sumire y Kitamura.」"
+
+msgid "Taiga「............!」"
+msgstr "Taiga「............!」"
+
+msgid "Ryuuji「I remembered what happened on＿student council election day.」"
+msgstr "Ryuuji「Recordé lo que pasó el día de las＿elecciones del consejo estudiantil.」"
+
+msgid "Ami「To be precise, he remembers up to＿Yuusaku's screaming confession.＿Nothing beyond that point.」"
+msgstr "Ami「Para ser exactos, recuerda hasta＿la confesión a gritos de Yuusaku.＿Nada más allá de ese punto.」"
+
+msgid "Taiga「......That so, huh.」"
+msgstr "Taiga「......Conque así, ¿eh?」"
+
+msgid "Ami「Right? You won't deny it either, right＿Tiger? Or rather, you can't.」"
+msgstr "Ami「¿Verdad? Tampoco lo negarás, ¿cierto,＿Tigre? O más bien, no puedes.」"
+
+msgid "Taiga「............」"
+msgstr "Taiga「............」"
+
+msgid "Taiga「Sure, why not?」"
+msgstr "Taiga「Claro, ¿por qué no?」"
+
+msgid "Ryuuji「Really?!」"
+msgstr "Ryuuji「¡¿En serio?!」"
+
+msgid "Ami「Wooow ① An unexpected twist!」"
+msgstr "Ami「Guaaau ① ¡Un giro inesperado!」"
+
+msgid "Taiga「Shut it. I don't think it's any of our＿business, but I can tell that Ryuuji＿wants to do it. That's all.」"
+msgstr "Taiga「Cállate. No creo que sea asunto＿nuestro, pero noto que Ryuuji quiere＿hacerlo. Eso es todo.」"
+
+msgid "Ryuuji「I want you to lend us your assistance if＿possible...... You know what state my＿mind is in.」"
+msgstr "Ryuuji「Quiero que nos ayudes si puedes...... Ya＿sabes en qué estado está mi mente.」"
+
+msgid "Taiga「............」"
+msgstr "Taiga「............」"
+
+msgid "Taiga「Since you insist, I'll do it.」"
+msgstr "Taiga「Ya que insistes, lo haré.」"
+
+msgid "Ami「No wayyy!! The Tiger has been tamed.＿Ami-chan can't believe it!」"
+msgstr "Ami「¡¡No puede seeeer!! La Tigre fue domada.＿¡Ami-chan no lo puede creer!」"
+
+msgid "Taiga「Just so you know, going in＿half-heartedly is unacceptable.」"
+msgstr "Taiga「Que conste que hacer esto＿a medias es inaceptable.」"
+
+msgid "Ryuuji「Oh, yeah. Of course.」"
+msgstr "Ryuuji「Ah, sí. Por supuesto.」"
+
+msgid "Ami「Hey, what's gotten into you, Tiger? Do＿you really understand our goal here? I＿mean, since you......」"
+msgstr "Ami「Oye, ¿qué te pasa, Tigre? ¿De verdad＿entiendes nuestro objetivo aquí?＿Digo, ya que tú......」"
+
+msgid "Ami「Nggahh!!」"
+msgstr "Ami「¡¡Nggahh!!」"
+
+msgid "Taiga「Shut. Your. Mouth.」"
+msgstr "Taiga「Cierra. La. Boca.」"
+
+msgid "Ami「F-Finger! In my nose!! The hell are you＿doing, Tiger, you little shit?!」"
+msgstr "Ami「¡D-Dedo! ¡¡En mi nariz!! ¡¿Qué demonios＿haces, Tigre, maldita mocosa?!」"
+
+msgid "Taiga「So? Do you have some kind of＿concrete plan to get those two＿together, Ryuuji?」"
+msgstr "Taiga「¿Y bien? ¿Tienes algún plan concreto＿para juntar a esos dos, Ryuuji?」"
+
+msgid "Ami「LISTEN TO ME!」"
+msgstr "Ami「¡ESCÚCHAME!」"
+
+msgid "Ryuuji「Concrete plan, huh......」"
+msgstr "Ryuuji「Un plan concreto, eh......」"
+
+msgid "Taiga「Yes. Failure is not an option here. Let's＿carefully formulate the plan.」"
+msgstr "Taiga「Sí. Aquí fallar no es una opción.＿Formulemos el plan con cuidado.」"
+
+msgid "Well...... let's start brainstorming!"
+msgstr "Bueno...... ¡hagamos lluvia de ideas!"
+
+msgid "Look, I have tickets to a popular date spot"
+msgstr "Tengo entradas para un lugar de citas de moda"
+
+msgid "First we need a clear mission statement"
+msgstr "Primero necesitamos una meta clara"
+
+msgid "Ryuuji「Well...... let's start brainstorming.」"
+msgstr "Ryuuji「Bueno...... empecemos a lanzar ideas.」"
+
+msgid "Taiga「......What!? Are you saying you have no＿plan at this point?」"
+msgstr "Taiga「......¡¿Qué?! ¿Estás diciendo que＿aún no tienes ningún plan?」"
+
+msgid "Ryuuji「Well, can't we address it head-on? I＿mean, we could be their liaison, like＿messengers of love......」"
+msgstr "Ryuuji「Bueno, ¿no podemos ir de frente?＿Digo, podríamos ser su enlace, como＿mensajeros del amor......」"
+
+msgid "Taiga「Do you really have the motivation for＿this?」"
+msgstr "Taiga「¿De verdad tienes ganas de hacer esto?」"
+
+msgid "Ryuuji「O-Of course!」"
+msgstr "Ryuuji「¡P-Por supuesto!」"
+
+msgid "Ryuuji「L-Like I said! Let's start brainstorming＿about what to do!」"
+msgstr "Ryuuji「¡C-Como dije! ¡Empecemos a lanzar＿ideas sobre qué hacer!」"
+
+msgid "Taiga「*Sigh*～ \"Let's play Cupid for Kitamura＿and that damn perverse woman\"?＿What a joke that turned out to be.」"
+msgstr "Taiga「*Suspiro*～ ¿\"Hacer de Cupido para＿Kitamura y esa maldita mujer perversa\"?＿Vaya broma resultó ser esto.」"
+
+msgid "Ryuuji「Ugh......」"
+msgstr "Ryuuji「Agh......」"
+
+msgid "Taiga「Well, whatever. First, let's look for＿something that could make for a good＿opportunity.」"
+msgstr "Taiga「Bueno, como sea. Primero busquemos algo＿que sirva de buena oportunidad.」"
+
+msgid "Taiga「If we find anything opportune, we'll＿come back here and rework our＿strategy. Got it? I can't hear you!」"
+msgstr "Taiga「Si hallamos algo oportuno, volveremos＿aquí a replantear nuestra estrategia.＿¿Entendido? ¡No los oigo!」"
+
+msgid "Ryuuji「G-Got it. Let's go, Kawashima.」"
+msgstr "Ryuuji「E-Entendido. Vámonos, Kawashima.」"
+
+msgid "Ami「Whaaat, Ami-chan too? What a＿hassle～!」"
+msgstr "Ami「¿Quéee, Ami-chan también?＿¡Qué fastidio～!」"
+
+msgid "Ryuuji「Oh, that reminds me! I have the perfect＿solution!」"
+msgstr "Ryuuji「¡Ah, eso me recuerda! ¡Tengo＿la solución perfecta!」"
+
+msgid "Taiga「What?」"
+msgstr "Taiga「¿Qué?」"
+
+msgid "Ryuuji「Wait right here. I'll go get it from my＿house!」"
+msgstr "Ryuuji「Esperen aquí. ¡Voy a buscarlo a mi casa!」"
+
+msgid "Taiga「Y-You......」"
+msgstr "Taiga「T-Tú......」"
+
+msgid "Ami「T-That's......」"
+msgstr "Ami「E-Eso es......」"
+
+msgid "Ryuuji「As you can see, it's a Yes/No pillow!」"
+msgstr "Ryuuji「Como pueden ver, ¡es una＿almohada de Sí/No!」"
+
+msgid "Taiga「Where in the hell did you......?」"
+msgstr "Taiga「¿De dónde demonios sacaste......?」"
+
+msgid "Ryuuji「Apparently Yasuko got it at a company＿Christmas party. She gave it to me.」"
+msgstr "Ryuuji「Al parecer Yasuko la ganó en una fiesta＿navideña del trabajo. Me la dio.」"
+
+msgid "Ami「So those things still exist～ Those＿things are rare as fossils～ So how do＿you propose we use that～?」"
+msgstr "Ami「Así que aún existen esas cosas～＿Son tan raras como fósiles～ ¿Y cómo＿propones que usemos eso～?」"
+
+msgid "Both「Right, right.」"
+msgstr "Ambas「Cierto, cierto.」"
+
+msgid "Ryuuji「Love can't be nurtured without＿communication! Communication is＿romance's most vital nutrient!!」"
+msgstr "Ryuuji「¡El amor no crece sin comunicación!＿¡¡La comunicación es el nutriente＿más vital del romance!!」"
+
+msgid "Both「Ohhh!」"
+msgstr "Ambas「¡Ohhh!」"
+
+msgid "Ryuuji「The strained lovers' intentions will be＿made clear by giving this to them. This＿will be the first step!」"
+msgstr "Ryuuji「Al darles esto se aclararán los deseos＿de estos enamorados distanciados.＿¡Este será el primer paso!」"
+
+msgid "Ryuuji「Prez, do you like me!? \"YES\"!! Then will＿you please go out with me?! \"YES\"!!」"
+msgstr "Ryuuji「¡¿Presidenta, te gusto?! ¡¡\"SÍ\"!!＿Entonces, ¡¿saldrías conmigo,＿por favor?! ¡¡\"SÍ\"!!」"
+
+msgid "Ryuuji「Is it love～? \"YES\"!! It's love, isn't it～?＿\"YES\"!!」"
+msgstr "Ryuuji「¿Es amor～? ¡¡\"SÍ\"!! Es＿amor, ¿no～? ¡¡\"SÍ\"!!」"
+
+msgid "Both「............」"
+msgstr "Ambas「............」"
+
+msgid "Ryuuji「......Oh?」"
+msgstr "Ryuuji「......¿Eh?」"
+
+msgid "Taiga「Question! How are we going to go＿about giving it to them?」"
+msgstr "Taiga「¡Pregunta! ¿Cómo vamos＿a hacer para dársela?」"
+
+msgid "Ryuuji「Nn......」"
+msgstr "Ryuuji「Mmh......」"
+
+msgid "Ami「Question! Look, even if we did give it to＿them, do you think they'd really use＿it～?」"
+msgstr "Ami「¡Pregunta! Mira, aunque se la diéramos,＿¿crees que de verdad la usarían～?」"
+
+msgid "Ryuuji「Ugh......」"
+msgstr "Ryuuji「Agh......」"
+
+msgid "Both「Are you retarded!?」"
+msgstr "Ambas「¡¿Eres idiota?!」"
+
+msgid "Ryuuji「......Nggh.」"
+msgstr "Ryuuji「......Nggh.」"
+
+msgid "Ami「Arrrrgh. So frickin' useless～」"
+msgstr "Ami「Arrrrgh. Qué inútil eres～」"
+
+msgid "Taiga「I feel like I just agreed with StuChi for＿the first time ever.」"
+msgstr "Taiga「Siento que acabo de estar de acuerdo con＿StuChi por primera vez en la vida.」"
+
+msgid "Ryuuji「I, I see...... That's just great.」"
+msgstr "Ryuuji「Y-Ya veo...... Qué maravilla.」"
+
+msgid "Taiga「No it's NOT! Come on, we're going!」"
+msgstr "Taiga「¡NO lo es! ¡Vamos, andando!」"
+
+msgid "Ryuuji「Going where?」"
+msgstr "Ryuuji「¿A dónde vamos?」"
+
+msgid "Taiga「We're gonna use our feet and search＿for something opportune. As your＿generous owner, I'll accompany you!」"
+msgstr "Taiga「Usaremos los pies para buscar＿algo oportuno. ¡Como tu generosa＿dueña, te acompañaré!」"
+
+msgid "Taiga「If we find anything opportune, we'll＿come back here and rework our＿strategy. Got it? I can't hear you!」"
+msgstr "Taiga「Si hallamos algo oportuno, volveremos＿aquí a replantear nuestra estrategia.＿¿Entendido? ¡No los oigo!」"
+
+msgid "Ryuuji「G-Got it. Let's go, Kawashima.」"
+msgstr "Ryuuji「E-Entendido. Vámonos, Kawashima.」"
+
+msgid "Ami「Whaaat, Ami-chan too? What a＿hassle～!」"
+msgstr "Ami「¿Quéee, Ami-chan también?＿¡Qué fastidio～!」"
+
+msgid "Ryuuji「Yeah, on the other side of that window,＿Taiga's probably holed up in there＿sleeping.」"
+msgstr "Ryuuji「Sí, al otro lado de esa ventana, Taiga＿debe de estar encerrada durmiendo.」"
+
+msgid "Ryuuji「You just get Taiga's attention, then＿leave the rest to me.」"
+msgstr "Ryuuji「Tú solo llama la atención de Taiga＿y déjame el resto a mí.」"
+
+msgid "Ryuuji「Today's menu is: sweet omelettes, miso＿soup with onion, boiled spinach and＿grilled salmon.」"
+msgstr "Ryuuji「El menú de hoy es: tortilla dulce,＿sopa de miso con cebolla, espinaca＿hervida y salmón a la plancha.」"
+
+msgid "Ryuuji「It's a proper Japanese breakfast. Look,＿the rice is fresh out of the cooker!」"
+msgstr "Ryuuji「Es un desayuno japonés de verdad. ¡Mira,＿el arroz está recién hecho!」"
+
+msgid "Ryuuji「Wait, wait! Taiga, we wanted to have a＿serious discussion. I forgot to tell you,＿but the truth is......」"
+msgstr "Ryuuji「¡Espera, espera! Taiga, queríamos＿hablar en serio. Olvidé decirte＿que la verdad es......」"
+
+msgid "Ryuuji「Kawashima came up with a certain＿plan yesterday.」"
+msgstr "Ryuuji「A Kawashima se le ocurrió＿cierto plan ayer.」"
+
+msgid "Ryuuji「Apparently Kitamura was soundly＿rejected after that, but according to＿Kawashima......」"
+msgstr "Ryuuji「Al parecer rechazaron de lleno＿a Kitamura después de eso, pero＿según Kawashima......」"
+
+msgid "Ryuuji「Kanou Sumire actually IS interested in＿Kitamura.」"
+msgstr "Ryuuji「Kanou Sumire en realidad SÍ está＿interesada en Kitamura.」"
+
+msgid "Ami「Yuusaku may be outwardly pretending＿to have it together, but after the way＿he acted yesterday......」"
+msgstr "Ami「Puede que Yuusaku finja por＿fuera que está entero, pero＿por cómo actuó ayer......」"
+
+msgid "Ami「He's clearly drenched in regret.」"
+msgstr "Ami「Es obvio que está hundido＿en el arrepentimiento.」"
+
+msgid "Ryuuji「If all this is true, if they both have＿feelings for each other, it's just a＿matter of lining things up, right?」"
+msgstr "Ryuuji「Si todo esto es cierto y ambos sienten＿algo el uno por el otro, es solo＿cuestión de acomodar las cosas, ¿no?」"
+
+msgid "Ryuuji「I think we could fix it. What do you＿think?」"
+msgstr "Ryuuji「Creo que podríamos arreglarlo.＿¿Qué opinas?」"
+
+msgid "Taiga「Understand? From now on, you guys＿will be treading on really, really＿REALLY thin ice with Kitamura.」"
+msgstr "Taiga「¿Entienden? Desde ahora caminarán＿sobre hielo muy, muy, MUY delgado＿con Kitamura.」"
+
+msgid "Taiga「Are you prepared for the worst?」"
+msgstr "Taiga「¿Están preparados para lo peor?」"
+
+msgid "Taiga「Naive. Too naive! We're up against＿Kanou Sumire! And Kitamura-kun!」"
+msgstr "Taiga「Ingenuos. ¡Demasiado ingenuos!＿¡Nos enfrentamos a Kanou Sumire!＿¡Y a Kitamura-kun!」"
+
+msgid "Taiga「Can't you recognize that a＿straightforward approach won't work,＿you mongrel?!」"
+msgstr "Taiga「¡¿No te das cuenta de que un enfoque＿directo no va a funcionar, perro?!」"
+
+msgid "Ami「She's right. That woman is malicious,＿aloof, cunning, and won't drop that＿holier-than-thou attitude.」"
+msgstr "Ami「Tiene razón. Esa mujer es maliciosa,＿fría, astuta y no suelta esa actitud＿de superioridad moral.」"
+
+msgid "Ami「She's just the worst～!」"
+msgstr "Ami「¡Es simplemente lo peor～!」"
+
+msgid "Taiga「But it's Kitamura-kun! From his point＿of view she's delicate, obstinate, and＿always sticks to her guns.」"
+msgstr "Taiga「¡Pero es Kitamura-kun! Para él, ella＿es delicada, terca y siempre se mantiene＿firme en sus ideas.」"
+
+msgid "Taiga「That's what he's attracted to!」"
+msgstr "Taiga「¡Eso es lo que le atrae de ella!」"
+
+msgid "Taiga「Come on, you no-good mutt, if your＿brain is so useless, use your feet＿instead!」"
+msgstr "Taiga「¡Vamos, perro inútil, si tu cerebro＿no sirve para nada, usa los pies!」"
+
+msgid "Taiga「As your benevolent owner, I will＿accompany you!」"
+msgstr "Taiga「¡Como tu bondadosa dueña, te acompañaré!」"
+
+msgid "Ryuuji「Listen up. Those two are rejecter and＿rejectee. In other words, they were＿holding back from each other.」"
+msgstr "Ryuuji「Escuchen. Ellos dos son la que rechazó＿y el rechazado. O sea, se estuvieron＿conteniendo el uno con el otro.」"
+
+msgid "Ryuuji「To the point that they couldn't even＿communicate properly.」"
+msgstr "Ryuuji「Al punto de que ni siquiera＿podían comunicarse bien.」"

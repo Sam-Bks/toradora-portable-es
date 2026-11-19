@@ -1,0 +1,233 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「（It's 6:10...... Kushieda won't be here for＿a while yet, I guess......）」"
+msgstr "Ryuuji「（Son las 6:10...... Supongo que Kushieda＿tardará un rato todavía......）」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Ryuuji「（Taiga...... I came here at your＿insistence...... But I've got an idea of＿what you're thinking......）」"
+msgstr "Ryuuji「（Taiga...... Vine aquí porque＿insististe...... Pero ya me hago una＿idea de lo que estás pensando......）」"
+
+msgid "Ryuuji「（This box...... is obviously a Christmas＿present, right? And I'm meeting with＿Kushieda to give it to her......）」"
+msgstr "Ryuuji「（Esta caja...... es obvio que es un＿regalo de Navidad, ¿no? Y me reuniré＿con Kushieda para dárselo......）」"
+
+msgid "Ryuuji「（Anyone could figure out the meaning＿behind it...... In other words, I was......＿interested in Kushieda, at the least......）」"
+msgstr "Ryuuji「（Cualquiera entendería el sentido......＿O sea, yo...... al menos sentía interés＿por Kushieda......）」"
+
+msgid "???「Yo!」"
+msgstr "???「¡Ey!」"
+
+msgid "Ryuuji「Oh, hey......!」"
+msgstr "Ryuuji「¡Ah, hola......!」"
+
+msgid "Ryuuji「R-Really?」"
+msgstr "Ryuuji「¿D-De verdad?」"
+
+msgid "Ryuuji「（Ohh...... Deja vu......）」"
+msgstr "Ryuuji「（Ohh...... Déjà vu......）」"
+
+msgid "Ryuuji「（That's right...... Back then, the night of＿Christmas Eve......）」"
+msgstr "Ryuuji「（Es cierto...... Aquella vez,＿en Nochebuena......）」"
+
+msgid "\"You make a nice bear, Takasu-kun.\""
+msgstr "\"Te ves bien de oso, Takasu-kun.\""
+
+msgid "Ryuuji「（I was wearing a bear costume,＿standing here...... waiting for Kushieda!）」"
+msgstr "Ryuuji「（Llevaba un disfraz de oso, parado＿aquí...... ¡esperando a Kushieda!）」"
+
+msgid "Minori「......Hey, Takasu-kun?」"
+msgstr "Minori「......Oye, ¿Takasu-kun?」"
+
+msgid "Minori「I don't see Taiga around anywhere.」"
+msgstr "Minori「No veo a Taiga por ningún lado.」"
+
+msgid "Ryuuji「Uh, well, Taiga's......」"
+msgstr "Ryuuji「Eh, bueno, Taiga está......」"
+
+msgid "Minori「......?」"
+msgstr "Minori「......?」"
+
+msgid "Ryuuji「（That's right, that day...... No, back＿then...... Wait, why was I wearing a＿costume?）」"
+msgstr "Ryuuji「（Es cierto, ese día...... No,＿aquella vez...... Espera, ¿por＿qué llevaba un disfraz?）」"
+
+msgid "Minori「......Uhh, so basically, the one who＿needed little ol' me was you, huh?」"
+msgstr "Minori「......Ehm, o sea que quien necesitaba＿a mi humilde persona eras tú, ¿eh?」"
+
+msgid "Ryuuji「Uh, yeah...... I don't know about＿\"needed\"...... Taiga just told me to come＿here......」"
+msgstr "Ryuuji「Eh, sí...... No sé si \"necesitaba\"......＿Taiga solo me dijo que viniera＿aquí......」"
+
+msgid "Minori「............」"
+msgstr "Minori「............」"
+
+msgid "Ryuuji「Uh, you see, it's just, she told me to go＿give this to you......」"
+msgstr "Ryuuji「Eh, verás, es que me dijo que＿viniera a darte esto......」"
+
+msgid "Minori「That's some Christmasy wrapping, no＿doubt about it.」"
+msgstr "Minori「Ese envoltorio sí que es navideño,＿sin lugar a dudas.」"
+
+msgid "Ryuuji「Oh, yeah, right you are, huh...... Anyway,＿take it. Seems it was meant for you to＿begin with, Kushieda.」"
+msgstr "Ryuuji「Ah, sí, tienes razón...... En fin,＿tómalo. Parece que era para ti desde＿el principio, Kushieda.」"
+
+msgid "Minori「First...... Can I ask how much you've＿remembered?」"
+msgstr "Minori「Antes...... ¿Puedo preguntar＿cuánto has recordado?」"
+
+msgid "Ryuuji「......What do you mean?」"
+msgstr "Ryuuji「......¿A qué te refieres?」"
+
+msgid "Minori「Why has Taiga done this?」"
+msgstr "Minori「¿Por qué Taiga hizo esto?」"
+
+msgid "Ryuuji「That's what I want to know.」"
+msgstr "Ryuuji「Eso es lo que quiero saber.」"
+
+msgid "Minori「So basically, you came here because＿Taiga told you to, not knowing the＿reason why?」"
+msgstr "Minori「O sea que viniste porque Taiga te lo＿dijo, ¿sin saber cuál es la razón?」"
+
+msgid "Ryuuji「What took place before that is still＿fuzzy......」"
+msgstr "Ryuuji「Lo que pasó antes de eso＿sigue borroso......」"
+
+msgid "Minori「I see.」"
+msgstr "Minori「Ya veo.」"
+
+msgid "Ryuuji「......?」"
+msgstr "Ryuuji「......?」"
+
+msgid "Minori「......What's with Taiga......? Why would＿she......? Why? Why?」"
+msgstr "Minori「......¿Qué pasa con Taiga......? ¿Por＿qué haría......? ¿Por qué? ¿Por qué?」"
+
+msgid "Ryuuji「Kushieda?」"
+msgstr "Ryuuji「¿Kushieda?」"
+
+msgid "Minori「............」"
+msgstr "Minori「............」"
+
+msgid "Ryuuji「What's the matter?」"
+msgstr "Ryuuji「¿Qué pasa?」"
+
+msgid "Minori「Takasu-kun...... I just think...... Maybe＿there are some things you're better off＿not remembering.」"
+msgstr "Minori「Takasu-kun...... Solo pienso......＿Tal vez hay cosas que es mejor＿que no recuerdes.」"
+
+msgid "Ryuuji「......Huh?」"
+msgstr "Ryuuji「......¿Eh?」"
+
+msgid "Minori「If...... if you never remember, it'll be like＿it never happened, Takasu-kun.」"
+msgstr "Minori「Si...... si nunca lo recuerdas,＿será como si nunca hubiera＿pasado, Takasu-kun.」"
+
+msgid "Ryuuji「W-What are you...... What are you saying＿all of a sudden, Kushieda......?」"
+msgstr "Ryuuji「¿Q-Qué estás...... Qué estás diciendo＿de repente, Kushieda......?」"
+
+msgid "Minori「It would just be better in some＿cases...... For your sake, too.」"
+msgstr "Minori「En algunos casos sería mejor así......＿Por tu bien, también.」"
+
+msgid "Ryuuji「For my sake?」"
+msgstr "Ryuuji「¿Por mi bien?」"
+
+msgid "Minori「And for Taiga's sake...... and for my＿sake.」"
+msgstr "Minori「Y por el bien de Taiga......＿y por el mío.」"
+
+msgid "Ryuuji「That's......」"
+msgstr "Ryuuji「Eso es......」"
+
+msgid "Minori「Stop right there! Please don't say＿anything. You haven't remembered, so＿we can still rewrite the past.」"
+msgstr "Minori「¡Detente ahí! Por favor no digas nada.＿No lo has recordado, así que aún podemos＿reescribir el pasado.」"
+
+msgid "Ryuuji「......!」"
+msgstr "Ryuuji「......!」"
+
+msgid "Minori「Please.」"
+msgstr "Minori「Por favor.」"
+
+msgid "Ryuuji「（Oh, that's right...... It felt like this back＿then too. Kushieda didn't let me say＿those crucial words......）」"
+msgstr "Ryuuji「（Ah, es verdad...... Así se sintió＿aquella vez también. Kushieda no me dejó＿decir esas palabras clave......）」"
+
+msgid "Ryuuji「（That day, I was... rejected...）」"
+msgstr "Ryuuji「（Ese día, fui... rechazado...）」"
+
+msgid "Ryuuji「（I...... I liked...... Kushieda......）」"
+msgstr "Ryuuji「（A mí...... me gustaba......＿Kushieda......）」"
+
+msgid "Minori「Takasu-kun.」"
+msgstr "Minori「Takasu-kun.」"
+
+msgid "Minori「Now then, Kushieda's gonna head on＿home.」"
+msgstr "Minori「Bueno, entonces Kushieda＿ya se va a casa.」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Minori「Nothing ended up happening tonight,＿either.」"
+msgstr "Minori「Al final tampoco pasó nada esta noche.」"
+
+msgid "Ryuuji「No, I......」"
+msgstr "Ryuuji「No, yo......」"
+
+msgid "Minori「Nothing happened, right?」"
+msgstr "Minori「No pasó nada, ¿cierto?」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Minori「So, Takasu-kun, I'm leaving Taiga in＿your hands. Remember the incident＿this morning that I called you about?」"
+msgstr "Minori「Así que, Takasu-kun, dejo a Taiga en＿tus manos. ¿Recuerdas el incidente de＿esta mañana por el que te llamé?」"
+
+msgid "Minori「After that, I heard you solved her＿problem brilliantly. Taiga definitely＿needs you around, Takasu-kun.」"
+msgstr "Minori「Luego supe que resolviste su problema＿de maravilla. Sin duda Taiga te necesita＿cerca, Takasu-kun.」"
+
+msgid "Minori「She shouldn't try to do things on her＿own. She should just come to you for＿advice.」"
+msgstr "Minori「No debería intentar hacer las cosas＿sola. Debería simplemente acudir＿a ti para pedir consejo.」"
+
+msgid "Ryuuji「......Wait a second, Kushieda. Don't you＿think you've got it all wrong?」"
+msgstr "Ryuuji「......Espera un segundo, Kushieda. ¿No＿crees que lo estás entendiendo mal?」"
+
+msgid "Minori「Oh?」"
+msgstr "Minori「¿Ah, sí?」"
+
+msgid "Minori「Then what? Are you saying I should sit＿back and let the irreversible happen?」"
+msgstr "Minori「¿Entonces qué? ¿Dices que me quede＿de brazos cruzados y deje que pase＿algo irreversible?」"
+
+msgid "Ryuuji「What the hell? Why would you say that,＿Kushieda?」"
+msgstr "Ryuuji「¿Pero qué rayos? ¿Por qué＿dices eso, Kushieda?」"
+
+msgid "Minori「Right back at you. Why can't you just＿understand?」"
+msgstr "Minori「Lo mismo digo. ¿Por qué simplemente＿no puedes entender?」"
+
+msgid "Ryuuji「Wha......!」"
+msgstr "Ryuuji「¡Qué......!」"
+
+msgid "Stop this pointless conflict"
+msgstr "Detener esta discusión sin sentido"
+
+msgid "This happened before......"
+msgstr "Esto ya pasó antes......"
+
+msgid "Ryuuji「（Taiga...... What do you want me to do?＿Something besides just giving this to＿her, right? What more do you expect）」"
+msgstr "Ryuuji「（Taiga...... ¿Qué quieres que haga?＿Algo más aparte de darle esto,＿¿no? ¿Qué más esperas）」"
+
+msgid "Ryuuji「（from this......?）」"
+msgstr "Ryuuji「（de esto......?）」"
+
+msgid "Minori「What's the deal with the getup,＿Takasu-kun? From a distance I could＿scarcely tell it was you! Though it's」"
+msgstr "Minori「¿Y ese atuendo, Takasu-kun? ¡Desde lejos＿apenas noté que eras tú! ¡Aunque es」"
+
+msgid "Minori「clearly an awesome suit!」"
+msgstr "Minori「claramente un traje genial!」"
+
+msgid "Ryuuji「（......I don't know how that came about......＿But after I got here...... Huh? What＿happened? I feel like I'm grasping at）」"
+msgstr "Ryuuji「（......No sé cómo pasó todo eso......＿Pero al llegar aquí...... ¿Eh? ¿Qué＿pasó? Siento que intento agarrar）」"
+
+msgid "Ryuuji「（thorns......）」"
+msgstr "Ryuuji「（espinas......）」"
+
+msgid "Ryuuji「Yeah, pretty much...... Though, I did＿remember something just now. This＿was the same place we met on the day」"
+msgstr "Ryuuji「Sí, más o menos...... Aunque acabo＿de recordar algo. Este es el mismo＿lugar donde nos vimos el día」"
+
+msgid "Ryuuji「of the Christmas party. Just like you＿were saying earlier.」"
+msgstr "Ryuuji「de la fiesta de Navidad. Tal como＿decías hace un momento.」"
+
+msgid "Ryuuji「Taiga is doing her best to try and be＿independent. Don't you think what＿you're suggesting would overlook her」"
+msgstr "Ryuuji「Taiga se está esforzando mucho por＿ser independiente. ¿No crees que＿lo que sugieres ignora sus」"
+
+msgid "Ryuuji「feelings?」"
+msgstr "Ryuuji「sentimientos?」"

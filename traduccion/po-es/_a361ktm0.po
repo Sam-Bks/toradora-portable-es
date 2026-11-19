@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「（It's not very likely that Inko-chan's＿around here, but...... just in case.）」"
+msgstr "Ryuuji「（No es muy probable que Inko-chan ande＿por aquí, pero...... por si acaso.）」"
+
+msgid "Kitamura「Takasu!」"
+msgstr "Kitamura「¡Takasu!」"
+
+msgid "Ryuuji「Whoa! Kitamura!?」"
+msgstr "Ryuuji「¡Uah! ¡¿Kitamura?!」"
+
+msgid "Kitamura「Perfect timing. I only just arrived,＿myself. Shall we be off?」"
+msgstr "Kitamura「Justo a tiempo. Yo también acabo＿de llegar. ¿Nos vamos?」"
+
+msgid "Ryuuji「（Fuck...... This is where I'd arranged to＿meet Kitamura! Is Taiga not here yet?）」"
+msgstr "Ryuuji「（Mierda...... ¡Aquí quedé en verme con＿Kitamura! ¿Taiga aún no llega?）」"
+
+msgid "Ryuuji「About that...... I can't go to the＿planetarium anymore.」"
+msgstr "Ryuuji「Sobre eso...... Ya no puedo＿ir al planetario.」"
+
+msgid "Kitamura「You can't go? Then why'd you come＿here?」"
+msgstr "Kitamura「¿No puedes ir? Entonces, ¿por＿qué viniste hasta aquí?」"
+
+msgid "Ryuuji「I came here to tell you that I can't go.」"
+msgstr "Ryuuji「Vine a decirte que no puedo ir.」"
+
+msgid "Kitamura「I see...... That's quite a shame.」"
+msgstr "Kitamura「Ya veo...... Es una verdadera lástima.」"
+
+msgid "Ryuuji「But Taiga can go in my place.」"
+msgstr "Ryuuji「Pero Taiga puede ir en mi lugar.」"
+
+msgid "Kitamura「Aisaka? Where is she?」"
+msgstr "Kitamura「¿Aisaka? ¿Dónde está?」"
+
+msgid "Kitamura「Takasu...... You never intended to go＿with me from the start, did you?」"
+msgstr "Kitamura「Takasu...... Nunca tuviste intención de＿ir conmigo desde el inicio, ¿verdad?」"
+
+msgid "Ryuuji「W-What makes you say that?」"
+msgstr "Ryuuji「¿P-Por qué dices eso?」"
+
+msgid "Kitamura「You invite me to the planetarium, then＿cancel on me that day? All of it feels＿really contrived.」"
+msgstr "Kitamura「¿Me invitas al planetario y luego＿me cancelas el mismo día? Todo＿esto suena muy rebuscado.」"
+
+msgid "Ryuuji「But I did actually want to go to the＿planetarium with you.」"
+msgstr "Ryuuji「Pero de verdad quería ir＿al planetario contigo.」"
+
+msgid "Kitamura「In that case, kindly explain why you're＿no longer able to go.」"
+msgstr "Kitamura「En ese caso, ten la amabilidad de＿explicarme por qué ya no puedes ir.」"
+
+msgid "Ryuuji「Well...... Inko-chan is missing, and I'm in＿the middle of searching for it.」"
+msgstr "Ryuuji「Bueno...... Inko-chan desapareció,＿y justo estoy buscándolo.」"
+
+msgid "Kitamura「Oh, Inko-chan's missing? That's＿dreadful!」"
+msgstr "Kitamura「Oh, ¿se perdió Inko-chan? ¡Qué terrible!」"
+
+msgid "Ryuuji「Yeah. If you happen to see it, please＿tell me.」"
+msgstr "Ryuuji「Sí. Si llegas a verlo,＿por favor avísame.」"
+
+msgid "Kitamura「No, let's search for it together.」"
+msgstr "Kitamura「No, busquémoslo juntos.」"
+
+msgid "Ryuuji「T-That's not necessary!」"
+msgstr "Ryuuji「¡N-No hace falta!」"
+
+msgid "Kitamura「What are you saying? Your family is＿important to me too, you know?」"
+msgstr "Kitamura「¿Qué dices? Tu familia también es＿importante para mí, ¿sabes?」"
+
+msgid "Kitamura「......So you want me to go to the＿planetarium, right?」"
+msgstr "Kitamura「......Entonces quieres que vaya＿al planetario, ¿cierto?」"
+
+msgid "Ryuuji「That's right. Please!」"
+msgstr "Ryuuji「Así es. ¡Por favor!」"
+
+msgid "Kitamura「......Alright. I'll do as you ask.」"
+msgstr "Kitamura「......De acuerdo. Haré lo que me pides.」"
+
+msgid "Ryuuji「Sorry Kitamura, but I've gotta get back＿to searching for Inko-chan.」"
+msgstr "Ryuuji「Lo siento, Kitamura, pero debo＿volver a buscar a Inko-chan.」"
+
+msgid "Kitamura「I pray for your success!」"
+msgstr "Kitamura「¡Rezo por tu éxito!」"
+
+msgid "Ryuuji「Seems she isn't here yet, but...... I think＿she'll get here soon. I'm happy for you,＿Kitamura. Now you don't have to share」"
+msgstr "Ryuuji「Parece que aún no llega, pero...... creo＿que llegará pronto. Me alegro por ti,＿Kitamura. Ya no tendrás que compartir」"
+
+msgid "Ryuuji「a loveseat with me anymore.」"
+msgstr "Ryuuji「un sofá doble conmigo.」"
+
+msgid "Ryuuji「But when I told Taiga about the＿planetarium thing, she was really＿excited to go. Please, stay here and」"
+msgstr "Ryuuji「Pero al contarle a Taiga lo del＿planetario, se emocionó mucho＿por ir. Por favor, quédate aquí y」"
+
+msgid "Ryuuji「wait for her.」"
+msgstr "Ryuuji「espérala.」"

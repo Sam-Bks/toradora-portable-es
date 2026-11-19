@@ -1,0 +1,239 @@
+msgid ""
+msgstr ""
+
+msgid "Taiga「What's going on? We were just here＿earlier.」"
+msgstr "Taiga「¿Qué pasa? Si ya estuvimos＿aquí hace un rato.」"
+
+msgid "Ryuuji「......My sweeper's instinct is telling＿me...... that something is here......」"
+msgstr "Ryuuji「......Mi instinto de limpiador me＿dice...... que aquí hay algo......」"
+
+msgid "Ami「Whaaat～? What's the \"something\"?」"
+msgstr "Ami「¿Quéee～? ¿Qué es ese \"algo\"?」"
+
+msgid "Ryuuji「Oh yeah.」"
+msgstr "Ryuuji「Ah, sí.」"
+
+msgid "Ami「You have fun with that. Ami-chan's off＿to take a break over on that bench～」"
+msgstr "Ami「Diviértete con eso. Ami-chan se＿va a descansar en aquel banco～」"
+
+msgid "Ryuuji「（Maybe I can't expect normal people to＿understand...... but my instincts don't＿lie! I'm gonna clean!）」"
+msgstr "Ryuuji「（Tal vez no pueda esperar que la gente＿normal entienda...... ¡pero mi instinto＿no miente! ¡Voy a limpiar!）」"
+
+msgid "Ami「What's that? Isn't that our teacher＿hanging up grocery bags over there?」"
+msgstr "Ami「¿Qué es eso? ¿Esa de allá no＿es nuestra profesora llevando＿bolsas de compras?」"
+
+msgid "Yuri「Wife...... Wife......」"
+msgstr "Yuri「Esposa...... Esposa......」"
+
+msgid "Taiga「She's mumbling to herself with this＿dark aura hanging over her. Creepy.」"
+msgstr "Taiga「Está murmurando para sí misma con un＿aura oscura encima. Qué escalofriante.」"
+
+msgid "Ami「She probably just got rejected by yet＿another man, right? Awww, poor thing.」"
+msgstr "Ami「Seguro que otro hombre más la acaba＿de rechazar, ¿no? Awww, pobrecita.」"
+
+msgid "Ryuuji「What!? She's our teacher?」"
+msgstr "Ryuuji「¡¿Qué?! ¿Ella es nuestra profesora?」"
+
+msgid "Ryuuji「Don't be ridiculous...... So, that person＿is a teacher at our high school, is that＿right?」"
+msgstr "Ryuuji「No digas tonterías...... Entonces,＿esa persona es profesora de nuestra＿preparatoria, ¿verdad?」"
+
+msgid "Taiga「Koigakubo Yuri. Our homeroom＿teacher. Done.」"
+msgstr "Taiga「Koigakubo Yuri. Nuestra profesora＿titular. Listo.」"
+
+msgid "Ryuuji「Wait, that's all there is to her?」"
+msgstr "Ryuuji「Espera, ¿eso es todo sobre ella?」"
+
+msgid "Taiga「That's all that needs to be said about＿her.」"
+msgstr "Taiga「Eso es todo lo que hace falta＿decir sobre ella.」"
+
+msgid "Ami「Well, in addition～ She's a single woman＿in her thirties. Someone whose＿footsteps no one would want to follow.」"
+msgstr "Ami「Bueno, además～ Es una mujer soltera＿de treinta y tantos. Alguien cuyos＿pasos nadie querría seguir.」"
+
+msgid "Ryuuji「That's a terrible thing to say......」"
+msgstr "Ryuuji「Qué cosa tan terrible dices......」"
+
+msgid "Yuri「Oh, it's you guys. You've come at just＿the right time!」"
+msgstr "Yuri「Ah, son ustedes. ¡Llegaron＿justo a tiempo!」"
+
+msgid "Ami「Like, what's wrong, Sensei?」"
+msgstr "Ami「O sea, ¿qué pasa, Sensei?」"
+
+msgid "Yuri「Do I look like a wife?」"
+msgstr "Yuri「¿Parezco una esposa?」"
+
+msgid "Taiga「Come again?」"
+msgstr "Taiga「¿Cómo dices?」"
+
+msgid "Ami「Hmmm, you don't give off a \"wifey\" feel＿to me. Doesn't really come natural to＿you～」"
+msgstr "Ami「Mmmm, no me da vibras de \"esposa\".＿Como que no le sale natural～」"
+
+msgid "Yuri「Of course not...... It doesn't, does it?」"
+msgstr "Yuri「Claro que no...... No parezco, ¿verdad?」"
+
+msgid "Ryuuji「Did something happen?」"
+msgstr "Ryuuji「¿Pasó algo?」"
+
+msgid "Yuri「Earlier, while I was grocery shopping,＿the employee called me \"ma'am\".」"
+msgstr "Yuri「Hace rato, mientras hacía las compras,＿el empleado me llamó \"señora\".」"
+
+msgid "Ami「Hmmm, isn't that rude, since you're＿still a \"miss\"?」"
+msgstr "Ami「Mmmm, ¿no es grosero eso, siendo＿que aún es \"señorita\"?」"
+
+msgid "Ryuuji「Not to be rude, but plenty of people＿get married at your age, Sensei......」"
+msgstr "Ryuuji「Sin ánimo de ofender, pero mucha gente＿se casa a su edad, Sensei......」"
+
+msgid "Yuri「Yeah...... I realized that, and it occurred＿to me that I could look at it that way.」"
+msgstr "Yuri「Sí...... Me di cuenta de eso, y se me＿ocurrió que podía verlo de esa manera.」"
+
+msgid "Yuri「I didn't look like a single woman...... In＿other words, I look like a successful＿married woman!」"
+msgstr "Yuri「No parecía una mujer soltera......＿En otras palabras, ¡parezco una＿mujer casada y exitosa!」"
+
+msgid "Taiga「What? You're happy about that?」"
+msgstr "Taiga「¿Qué? ¿Le alegra eso?」"
+
+msgid "Ryuuji「Now I get it......」"
+msgstr "Ryuuji「Ahora entiendo......」"
+
+msgid "Yuri「That's why I wasn't sure whether I＿should be happy or sad......」"
+msgstr "Yuri「Por eso no sabía si debería＿estar feliz o triste......」"
+
+msgid "Taiga「Tch......」"
+msgstr "Taiga「Tch......」"
+
+msgid "Ami「Sensei ① There's really nothing to＿worry about. It's up to you how to＿interpret it.」"
+msgstr "Ami「Sensei ① De verdad no hay nada＿de qué preocuparse. Depende de＿usted cómo interpretarlo.」"
+
+msgid "Yuri「Up to me...... *Gasp*!」"
+msgstr "Yuri「Depende de mí...... ¡Ah!」"
+
+msgid "Yuri「Y-You're right. I'll correct that＿employee by telling him I'm single.」"
+msgstr "Yuri「T-Tienen razón. Corregiré a ese empleado＿diciéndole que soy soltera.」"
+
+msgid "Everyone「What?」"
+msgstr "Todos「¿Qué?」"
+
+msgid "Yuri「Yes, that employee saw me as a＿successful woman. He can't possibly＿have a bad impression of me!」"
+msgstr "Yuri「Sí, ese empleado me vio como una mujer＿exitosa. ¡Es imposible que tenga una＿mala impresión de mí!」"
+
+msgid "Yuri「Perhaps it's possible that employee is＿single too, and you never know - this＿could be an opportune meeting.」"
+msgstr "Yuri「Tal vez ese empleado también sea＿soltero, y nunca se sabe: este podría＿ser un encuentro oportuno.」"
+
+msgid "Yuri「Thanks, you three. I'll report back if＿anything good happens.」"
+msgstr "Yuri「Gracias, chicos. Les informaré＿si pasa algo bueno.」"
+
+msgid "Ryuuji「She really did leave......」"
+msgstr "Ryuuji「De verdad se fue......」"
+
+msgid "Ami「Ugggh. When you're a late bloomer,＿you might lose sight of yourself and＿end up like that. Scary～」"
+msgstr "Ami「Agh. Si tardas en encontrar pareja,＿puedes perder el rumbo y terminar＿así. Qué miedo～」"
+
+msgid "Taiga「Hadn't you best learn that lesson,＿StuChi? You and Sensei have the＿same stench.」"
+msgstr "Taiga「¿No sería mejor que aprendieras＿la lección, StuChi? Tú y Sensei＿tienen el mismo tufo.」"
+
+msgid "Ryuuji「*Sigh*...... They started another fight......」"
+msgstr "Ryuuji「*Suspiro*...... Empezaron＿otra pelea......」"
+
+msgid "Ryuuji「（I'll leave them be for now. In the＿meantime, I'll......）」"
+msgstr "Ryuuji「（Las dejaré así por ahora. Mientras＿tanto, voy a......）」"
+
+msgid "Check up on Sensei"
+msgstr "Ir a ver a Sensei"
+
+msgid "Clean"
+msgstr "Limpiar"
+
+msgid "Ryuuji「（I'll go see how Sensei plans to＿approach the employee......）」"
+msgstr "Ryuuji「（Iré a ver cómo planea Sensei＿acercarse al empleado......）」"
+
+msgid "Ryuuji「（......Wait, what am I thinking?! As if I＿could really be that tactless!）」"
+msgstr "Ryuuji「（......Espera, ¡¿qué estoy pensando?!＿¡Como si pudiera ser tan indiscreto!）」"
+
+msgid "Ryuuji「（I'll wait here like a good boy until the＿fight between Taiga and Kawashima＿subsides.）」"
+msgstr "Ryuuji「（Esperaré aquí como buen chico＿hasta que se calme la pelea entre＿Taiga y Kawashima.）」"
+
+msgid "Ryuuji「（I know, I'll tidy up around here. My＿instinct is telling me...... something is＿here......）」"
+msgstr "Ryuuji「（Ya sé, ordenaré por aquí.＿Mi instinto me dice...... que＿aquí hay algo......）」"
+
+msgid "Ryuuji「（Oho?）」"
+msgstr "Ryuuji「（¿Oh?）」"
+
+msgid "Ryuuji「（This is a pair of planetarium tickets......）」"
+msgstr "Ryuuji「（Esto es un par de entradas＿para el planetario......）」"
+
+msgid "Ryuuji「（......Wait! If I use these, maybe...... That's＿it!）」"
+msgstr "Ryuuji「（......¡Espera! Si las uso,＿tal vez...... ¡Eso es!）」"
+
+msgid "Ryuuji「（I'll need to thank Noto properly＿sometime later, but for now, I'm gonna＿use these!）」"
+msgstr "Ryuuji「（Tendré que agradecerle bien＿a Noto más adelante, ¡pero por＿ahora voy a usarlas!）」"
+
+msgid "Ryuuji「（Hm......）」"
+msgstr "Ryuuji「（Mmm......）」"
+
+msgid "Ryuuji「（An empty can, huh. If you're going to＿leave it, at least try to leave it near the＿wastebasket......）」"
+msgstr "Ryuuji「（Una lata vacía, eh. Si la vas a dejar＿tirada, al menos intenta dejarla cerca＿del cesto de basura......）」"
+
+msgid "Ryuuji「（......*Sigh* I'll throw it away.）」"
+msgstr "Ryuuji「（......*Suspiro* La tiraré.）」"
+
+msgid "Ryuuji「（Couldn't find anything......）」"
+msgstr "Ryuuji「（No pude encontrar nada......）」"
+
+msgid "Ryuuji「（......And cleaning's done.）」"
+msgstr "Ryuuji「（......Y limpieza terminada.）」"
+
+msgid "Ryuuji「（Couldn't find anything......）」"
+msgstr "Ryuuji「（No pude encontrar nada......）」"
+
+msgid "Taiga「Ryuuji! I'm sick of waiting!」"
+msgstr "Taiga「¡Ryuuji! ¡Me cansé de esperar!」"
+
+msgid "Ryuuji「Alright, alright. Let's go.」"
+msgstr "Ryuuji「Bueno, bueno. Vámonos.」"
+
+msgid "Ryuuji「（My instinct...... failed me......）」"
+msgstr "Ryuuji「（Mi instinto...... me falló......）」"
+
+msgid "Ryuuji「（I'll go see how Sensei plans to＿approach the employee......）」"
+msgstr "Ryuuji「（Iré a ver cómo planea Sensei＿acercarse al empleado......）」"
+
+msgid "Ryuuji「（......Wait, what am I thinking?! As if I＿could really be that tactless!）」"
+msgstr "Ryuuji「（......Espera, ¡¿qué estoy pensando?!＿¡Como si pudiera ser tan indiscreto!）」"
+
+msgid "Ryuuji「（I'll wait here like a good boy until the＿fight between Taiga and Kawashima＿subsides.）」"
+msgstr "Ryuuji「（Esperaré aquí como buen chico＿hasta que se calme la pelea entre＿Taiga y Kawashima.）」"
+
+msgid "Taiga「*Sigh*...... Good lord, I should pat myself＿on the back for putting up with this＿freak...... In short, you just want to」"
+msgstr "Taiga「*Suspiro*...... Dios mío, debería＿felicitarme por aguantar a este＿rarito...... En resumen, solo quieres」"
+
+msgid "Taiga「clean, don't you.」"
+msgstr "Taiga「limpiar, ¿no?」"
+
+msgid "Ami「Oh, you didn't know, huh? Having to＿catch you up on every little thing is＿such a pain～ Can you just get your」"
+msgstr "Ami「Ah, no lo sabías, ¿eh? Tener que ponerte＿al día con cada detallito es un＿fastidio～ ¿Ya puedes recuperar tu」"
+
+msgid "Ami「memory back already?」"
+msgstr "Ami「memoria de una vez?」"
+
+msgid "Yuri「That's right. For me to be a \"ma'am\"＿without being married...... I thought＿perhaps I look older than I am, and it」"
+msgstr "Yuri「Así es. Que me digan \"señora\" sin estar＿casada...... Pensé que tal vez parezco＿mayor de lo que soy, y eso」"
+
+msgid "Yuri「made me kind of sad.」"
+msgstr "Yuri「me puso un poco triste.」"
+
+msgid "Yuri「Of course! It means they thought stuff＿like \"Aww, she probably came to get＿ingredients to make her beloved」"
+msgstr "Yuri「¡Claro! Pensaron algo como \"Ay,＿seguro vino a comprar ingredientes＿para prepararle a su amado」"
+
+msgid "Yuri「husband a fine dinner.\"」"
+msgstr "Yuri「esposo una buena cena.\"」"
+
+msgid "Ami「Hey, could you quit with your weird＿comments? Ami-chan will always be＿popular, so there's absolutely no」"
+msgstr "Ami「Oye, ¿podrías dejar tus comentarios＿raros? Ami-chan siempre será popular,＿así que ¡no hay absolutamente ninguna」"
+
+msgid "Ami「chance of that!」"
+msgstr "Ami「posibilidad de eso!」"
+
+msgid "Ryuuji「（Are these the ones Noto said he＿dropped earlier? He was saying I could＿have them, but that just doesn't feel）」"
+msgstr "Ryuuji「（¿Son estas las que Noto dijo que se＿le cayeron antes? Decía que me las podía＿quedar, pero no me parece）」"
+
+msgid "Ryuuji「（right......）」"
+msgstr "Ryuuji「（correcto......）」"

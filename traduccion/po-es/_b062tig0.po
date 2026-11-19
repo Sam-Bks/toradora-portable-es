@@ -1,0 +1,221 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「Where the hell has Taiga gone......?」"
+msgstr "Ryuuji「¿Adónde rayos se habrá ido Taiga......?」"
+
+msgid "Ryuuji「（Dammit! I'm so worried that I can't help＿but hurry. Anyway, I just need to see＿her again......）」"
+msgstr "Ryuuji「（¡Maldición! Estoy tan preocupado que＿no puedo evitar apurarme. En fin, solo＿necesito verla de nuevo......）」"
+
+msgid "Ryuuji「（But then what?）」"
+msgstr "Ryuuji「（¿Pero y luego qué?）」"
+
+msgid "Ryuuji「（If I tell her \"I'm asking because I'm＿concerned,\" there's no way she'll own＿up to it.）」"
+msgstr "Ryuuji「（Si le digo \"pregunto porque＿estoy preocupado\", ni loca va＿a decirme la verdad.）」"
+
+msgid "Ryuuji「（And what exactly am I going to ask＿her......? What should I do when I find＿her?）」"
+msgstr "Ryuuji「（¿Y qué le voy a preguntar＿exactamente......? ¿Qué debería＿hacer cuando la encuentre?）」"
+
+msgid "Ryuuji「........................」"
+msgstr "Ryuuji「........................」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Ryuuji「......」"
+msgstr "Ryuuji「......」"
+
+msgid "Ryuuji「Arrrgh! No more thinking!」"
+msgstr "Ryuuji「¡Arrrgh! ¡Se acabó pensar!」"
+
+msgid "Ryuuji「（For now, I gotta find her. I'll worry＿about the rest later.）」"
+msgstr "Ryuuji「（Por ahora tengo que encontrarla. Ya me＿preocuparé por el resto después.）」"
+
+msgid "Ryuuji「（There she is!）」"
+msgstr "Ryuuji「（¡Ahí está!）」"
+
+msgid "Ryuuji「Taiga!」"
+msgstr "Ryuuji「¡Taiga!」"
+
+msgid "Taiga「......What do you want, you stupid dog?」"
+msgstr "Taiga「......¿Qué quieres, perro estúpido?」"
+
+msgid "Ryuuji「Hey, wha......」"
+msgstr "Ryuuji「Oye, qu......」"
+
+msgid "Ryuuji「（Fuck, what should I say?）」"
+msgstr "Ryuuji「（Mierda, ¿qué debería decir?）」"
+
+msgid "Ryuuji「I, uhh, you...... Hey, you're hurt! You're＿bleeding!」"
+msgstr "Ryuuji「Yo, ehh, tú...... ¡Oye, estás＿herida! ¡Estás sangrando!」"
+
+msgid "Taiga「Oh, that's nothing.」"
+msgstr "Taiga「Ah, esto no es nada.」"
+
+msgid "Ryuuji「It's not \"nothing.\" Let's go back to my＿place and I'll fix you up.」"
+msgstr "Ryuuji「No es \"nada\". Volvamos＿a mi casa y te curo.」"
+
+msgid "Taiga「What, for this little thing? It's no big＿deal.」"
+msgstr "Taiga「¿Qué, por esta cosita? No es para tanto.」"
+
+msgid "Ryuuji「But it looks painful.」"
+msgstr "Ryuuji「Pero parece doloroso.」"
+
+msgid "Taiga「I said I'm fine! Shut it, dog! Hmph!」"
+msgstr "Taiga「¡Dije que estoy bien! ¡Cállate,＿perro! ¡Jum!」"
+
+msgid "Ryuuji「H-Hey! Taiga!!」"
+msgstr "Ryuuji「¡O-Oye! ¡¡Taiga!!」"
+
+msgid "Ryuuji「（But...... Seriously, what is that girl＿thinking?）」"
+msgstr "Ryuuji「（Pero...... En serio, ¿qué estará＿pensando esa chica?）」"
+
+msgid "Ryuuji「I'm home.」"
+msgstr "Ryuuji「Ya llegué.」"
+
+msgid "Yasuko「Welcome back～」"
+msgstr "Yasuko「Bienvenido～」"
+
+msgid "Ryuuji「Hey Yasuko, do you remember what＿happened around Christmas of last＿year?」"
+msgstr "Ryuuji「Oye, Yasuko, ¿recuerdas qué pasó＿alrededor de la Navidad del año pasado?」"
+
+msgid "Yasuko「Christmas? Yep yep! Taiga-chan was＿wearing a pretty dress, and＿Ryuu-chan......」"
+msgstr "Yasuko「¿Navidad? ¡Sí, sí! Taiga-chan llevaba un＿vestido precioso, y Ryuu-chan......」"
+
+msgid "Yasuko「Hnnyyaa～①」"
+msgstr "Yasuko「Hnnyyaa～①」"
+
+msgid "Ryuuji「What's wrong, Yasuko!?」"
+msgstr "Ryuuji「¡¿Qué pasa, Yasuko?!」"
+
+msgid "Ryuuji「（Who gets flustered over their own＿son......? Heh, I'm one to talk, huh......）」"
+msgstr "Ryuuji「（¿Quién se sonroja por su propio＿hijo......? Je, mira quién lo＿dice......）」"
+
+msgid "Ryuuji「（Wait wait wait, did she say a SUIT? I＿got one from Taiga......? It's no use. I＿can't remember.）」"
+msgstr "Ryuuji「（Espera, espera, espera, ¿dijo un TRAJE?＿¿Uno que me dio Taiga......? Es inútil.＿No puedo recordarlo.）」"
+
+msgid "Ryuuji「So what were me and Taiga doing in＿formal wear?」"
+msgstr "Ryuuji「¿Y qué hacíamos Taiga y＿yo con ropa formal?」"
+
+msgid "Yasuko「Hnnya? Huh? Don't you remember?」"
+msgstr "Yasuko「¿Hnnya? ¿Eh? ¿No lo recuerdas?」"
+
+msgid "Ryuuji「No, I don't.」"
+msgstr "Ryuuji「No, no lo recuerdo.」"
+
+msgid "Yasuko「Ohhh. Okay, well, Yacchan will tell you＿as much as she knows.」"
+msgstr "Yasuko「Ohhh. Bueno, entonces Yacchan＿te contará todo lo que sabe.」"
+
+msgid "Ryuuji「Okay.」"
+msgstr "Ryuuji「Bien.」"
+
+msgid "Yasuko「So then, just as we were about to pawn＿off that watch......」"
+msgstr "Yasuko「Y entonces, justo cuando íbamos＿a empeñar ese reloj......」"
+
+msgid "Ryuuji「Yeah?」"
+msgstr "Ryuuji「¿Sí?」"
+
+msgid "Yasuko「Oh, Yacchan's gotta get ready for＿work!」"
+msgstr "Yasuko「¡Ah, Yacchan tiene que prepararse＿para el trabajo!」"
+
+msgid "Ryuuji「Huh? Is it that time already?」"
+msgstr "Ryuuji「¿Eh? ¿Ya es esa hora?」"
+
+msgid "Yasuko「Yup. Yacchan's gonna take a bath＿now～」"
+msgstr "Yasuko「Sip. Yacchan se va a dar un baño ahora～」"
+
+msgid "Ryuuji「......She went through her whole life＿story...... Dammit. Hardly any of that＿was helpful.」"
+msgstr "Ryuuji「......Me contó toda la historia＿de su vida...... Maldición. Casi＿nada de eso me sirvió.」"
+
+msgid "Ryuuji「（All of the important parts of that night＿are definitely missing......）」"
+msgstr "Ryuuji「（Definitivamente faltan todas las partes＿importantes de esa noche......）」"
+
+msgid "Yasuko「Awww～ Ryuu-chan～ We're out of＿shampoo～」"
+msgstr "Yasuko「Ayyy～ Ryuu-chan～ Se acabó el champú～」"
+
+msgid "Ryuuji「O-Oh!? There's a backup bottle! I'll＿grab it for you, so hang on!」"
+msgstr "Ryuuji「¡¿E-Eh?! ¡Hay una botella de repuesto!＿¡Te la llevo, espera un momento!」"
+
+msgid "Yasuko「Perfectly prepared～! What do you＿think, Ryuu-chan? Cute?」"
+msgstr "Yasuko「¡Lista a la perfección～! ¿Qué te＿parece, Ryuu-chan? ¿Linda?」"
+
+msgid "Ryuuji「Yeah. Are you sure about this? You＿scarcely look like a mom.」"
+msgstr "Ryuuji「Sí. ¿Segura que quieres ir así?＿Casi ni pareces una mamá.」"
+
+msgid "Yasuko「Ehehe, what a nice compliment～」"
+msgstr "Yasuko「Ejeje, qué lindo cumplido～」"
+
+msgid "Ryuuji「Hey, Yasuko. I'm gonna head out for a＿little while.」"
+msgstr "Ryuuji「Oye, Yasuko. Voy a salir por un momento.」"
+
+msgid "Yasuko「With Taiga-chan?」"
+msgstr "Yasuko「¿Con Taiga-chan?」"
+
+msgid "Yasuko「Okay. Yacchan trusts Ryuu-chan, so＿it's okay.」"
+msgstr "Yasuko「Está bien. Yacchan confía en Ryuu-chan,＿así que no hay problema.」"
+
+msgid "Yasuko「Ryuu-chan, even if your memories＿never fully return, Yacchan trusts you.＿Don't try to rush it or force things.」"
+msgstr "Yasuko「Ryuu-chan, aunque tus recuerdos no＿vuelvan del todo, Yacchan confía en ti.＿No intentes apurarte ni forzar nada.」"
+
+msgid "Ryuuji「......Okay.」"
+msgstr "Ryuuji「......Está bien.」"
+
+msgid "Yasuko「Okay, gotta gooo～①」"
+msgstr "Yasuko「Bueno, ya me vooooy～①」"
+
+msgid "Ryuuji「Have a good night.」"
+msgstr "Ryuuji「Que tengas buena noche.」"
+
+msgid "Ryuuji「\"Don't rush it,\" huh......」"
+msgstr "Ryuuji「\"No te apures\", ¿eh......?」"
+
+msgid "Ryuuji「（It's true that even if I rush things,＿there's no guarantee the memories will＿return.）」"
+msgstr "Ryuuji「（Es verdad que, aunque me apure,＿no hay garantía de que vuelvan＿los recuerdos.）」"
+
+msgid "Ryuuji「（But I'll bet something happened on＿Christmas Eve.）」"
+msgstr "Ryuuji「（Pero apuesto a que algo＿pasó en Nochebuena.）」"
+
+msgid "Ryuuji「（In an attempt to help me regain my＿feelings for Kushieda, Taiga gave me＿the crystal from the Christmas tree.）」"
+msgstr "Ryuuji「（Para intentar ayudarme a recuperar mis＿sentimientos por Kushieda, Taiga me dio＿el cristal del árbol de Navidad.）」"
+
+msgid "Ryuuji「（Me, Kushieda, Christmas......）」"
+msgstr "Ryuuji「（Yo, Kushieda, Navidad......）」"
+
+msgid "Ryuuji「*Sigh*...... It's no use. I can't remember.」"
+msgstr "Ryuuji「*Suspiro*...... Es inútil.＿No puedo recordar.」"
+
+msgid "Ryuuji「（Even if I rush, there's no forcing it. But＿now that I understand that Christmas＿is the key, I've made some progress.）」"
+msgstr "Ryuuji「（Aunque me apure, no se puede forzar.＿Pero ahora que entiendo que la Navidad＿es la clave, logré algún avance.）」"
+
+msgid "Ryuuji「......Guess I should get going.」"
+msgstr "Ryuuji「......Supongo que debería irme.」"
+
+msgid "Ryuuji「（Dammit, she disappeared in the blink＿of an eye...... Well, if she can still run＿like that with that scrape, I guess she's）」"
+msgstr "Ryuuji「（Maldición, se esfumó...... Bueno,＿si aún corre así con ese raspón,＿supongo que está）」"
+
+msgid "Ryuuji「（okay.）」"
+msgstr "Ryuuji「（bien.）」"
+
+msgid "Yasuko「Got all flustered remembering＿Ryuu-chan's getup～ You sure looked＿charming in that suit you got from」"
+msgstr "Yasuko「Me puse nerviosa al recordar el atuendo＿de Ryuu-chan～ Te veías encantador＿con ese traje que te dio」"
+
+msgid "Yasuko「Taiga-chan～」"
+msgstr "Yasuko「Taiga-chan～」"
+
+msgid "Ryuuji「（Let's see. Me and Taiga were on the＿Christmas party committee. The day＿of, we got dressed up and left. Then）」"
+msgstr "Ryuuji「（A ver. Taiga y yo estábamos en el＿comité de la fiesta de Navidad. Ese día＿nos arreglamos y salimos. Luego）」"
+
+msgid "Ryuuji「（the next morning I collapsed in the＿kitchen and was hospitalized.）」"
+msgstr "Ryuuji「（a la mañana siguiente me desplomé＿en la cocina y me internaron.）」"
+
+msgid "Ryuuji「（......However...... It's hard to imagine＿someone like me got into any real＿trouble at the party...... So what）」"
+msgstr "Ryuuji「（......Sin embargo...... Cuesta pensar＿que alguien como yo tuviera problemas＿en la fiesta...... ¿Entonces qué）」"
+
+msgid "Ryuuji「（happened?）」"
+msgstr "Ryuuji「（pasó?）」"
+
+msgid "Ryuuji「Taiga's coming too. We're going to＿meet some friends from school. But I'll＿be back before midnight, so don't」"
+msgstr "Ryuuji「Taiga también viene. Veremos a unos＿amigos de la escuela. Pero volveré antes＿de medianoche, así que no te」"
+
+msgid "Ryuuji「worry.」"
+msgstr "Ryuuji「preocupes.」"

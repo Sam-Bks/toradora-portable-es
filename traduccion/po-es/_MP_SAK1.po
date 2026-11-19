@@ -1,0 +1,881 @@
+msgid ""
+msgstr ""
+
+msgid "Stare"
+msgstr "Mirar fijamente"
+
+msgid "Stare passionately"
+msgstr "Mirar con pasión"
+
+msgid "Stare calmly"
+msgstr "Mirar con calma"
+
+msgid "Stare blankly"
+msgstr "Mirar distraído"
+
+msgid "About Sakura"
+msgstr "Sobre Sakura"
+
+msgid "I really like your home cooking"
+msgstr "Me encanta tu comida casera"
+
+msgid "I love you so much!"
+msgstr "¡Te amo muchísimo!"
+
+msgid "You love me, right?"
+msgstr "Me amas, ¿verdad?"
+
+msgid "About Me"
+msgstr "Sobre mí"
+
+msgid "Sorry my misfortune spread to you again!"
+msgstr "¡Perdón, te contagié mi mala suerte otra vez!"
+
+msgid "Refer to me like you do normally"
+msgstr "Llámame como lo haces normalmente"
+
+msgid "This is where we agreed to meet, right?"
+msgstr "Aquí quedamos en vernos, ¿verdad?"
+
+msgid "About Studying"
+msgstr "Sobre estudiar"
+
+msgid "It's my duty to help your grades improve"
+msgstr "Es mi deber ayudar a mejorar tus notas"
+
+msgid "We studied all night in your room before"
+msgstr "Una vez estudiamos toda la noche en tu cuarto"
+
+msgid "You can do anything you put your mind to"
+msgstr "Puedes lograr todo lo que te propongas"
+
+msgid "About Us"
+msgstr "Sobre nosotros"
+
+msgid "Our first date was at the zoo"
+msgstr "Nuestra primera cita fue en el zoológico"
+
+msgid "Our first kiss was at the school pool"
+msgstr "Nuestro primer beso fue en la piscina escolar"
+
+msgid "We first met near the detention center"
+msgstr "Nos conocimos cerca del centro de detención"
+
+msgid "About Takasu-senpai"
+msgstr "Sobre Takasu-senpai"
+
+msgid "Takasu-senpai isn't a scary person"
+msgstr "Takasu-senpai no es alguien que dé miedo"
+
+msgid "Takasu-senpai has amnesia"
+msgstr "Takasu-senpai tiene amnesia"
+
+msgid "We tried slamming into each other"
+msgstr "Intentamos chocar el uno con el otro"
+
+msgid "--Let's Convince Sakura-chan That I'm＿Kota!--"
+msgstr "--¡Convenzamos a Sakura-chan de que＿soy Kota!--"
+
+msgid "Sakura「Nooo! D-Don't k-kill me...... *sob*」"
+msgstr "Sakura「¡Nooo! N-No me m-mates...... *sollozo*」"
+
+msgid "Kota「I, I would never! Don't say such an＿awful thing!」"
+msgstr "Kota「¡Y-Yo jamás haría eso! ¡No＿digas algo tan horrible!」"
+
+msgid "Sakura「Eeek......!」"
+msgstr "Sakura「¡Iiiik......!」"
+
+msgid "Kota「I-It's no good...... I'm not getting through＿to her.」"
+msgstr "Kota「N-No sirve...... No logro＿hacer que me entienda.」"
+
+msgid "Sakura「D-Don't come on to me like that.＿Y-Y-You're freaking me out......」"
+msgstr "Sakura「N-No me coquetees así. M-M-Me＿estás asustando......」"
+
+msgid "Kota「I-I'm not coming on to you!」"
+msgstr "Kota「¡N-No te estoy coqueteando!」"
+
+msgid "Sakura「*Sob*....」"
+msgstr "Sakura「*Sollozo*....」"
+
+msgid "Kota「Uhh, s-sorry......」"
+msgstr "Kota「Ehh, p-perdón......」"
+
+msgid "Sakura「Aaaahh! S-S-So c-c-cold...... *Sob*」"
+msgstr "Sakura「¡Aaaah! Q-Q-Qué f-f-frío...... *Sollozo*」"
+
+msgid "Kota「S-Sorry...... Please don't shiver like＿that......」"
+msgstr "Kota「P-Perdón...... Por favor,＿no tiembles así......」"
+
+msgid "Sakura「Eek......!」"
+msgstr "Sakura「¡Iik......!」"
+
+msgid "Kota「I-It's no use...... Wait, I've got Senpai's＿face right now! What the heck am I＿doing?」"
+msgstr "Kota「N-No sirve...... ¡Espera, tengo＿la cara de Senpai ahora mismo! ¿Qué＿diablos estoy haciendo?」"
+
+msgid "Sakura「P-P-P-Please stop that...... S-Seriously,＿it's cold......」"
+msgstr "Sakura「P-P-P-Por favor, deja de hacer eso......＿E-En serio, qué frío......」"
+
+msgid "Kota「C-Come on...... Don't call me cold!」"
+msgstr "Kota「V-Vamos...... ¡No digas que soy frío!」"
+
+msgid "Sakura「B-But......」"
+msgstr "Sakura「P-Pero......」"
+
+msgid "Kota「......Oh yeah, I have Senpai's face. The＿heck am I doing?」"
+msgstr "Kota「......Ah, claro, tengo la cara de＿Senpai. ¿Qué diablos estoy haciendo?」"
+
+msgid "Sakura「P-P-P-Please don't be upset...... I'm＿sorry, I'm sorry!」"
+msgstr "Sakura「P-P-P-Por favor, no te enojes......＿¡Lo siento, lo siento!」"
+
+msgid "Kota「Wha!? I, I'm not upset or anything,＿honest!」"
+msgstr "Kota「¡¿Qué?! ¡Y-Yo no estoy enojado＿ni nada, en serio!」"
+
+msgid "Sakura「Eek......!」"
+msgstr "Sakura「¡Iik......!」"
+
+msgid "Kota「Oh, s-sorry. But really, I'm not upset.」"
+msgstr "Kota「Ah, p-perdón. Pero no estoy enojado.」"
+
+msgid "Sakura「U-Umm...... Are we done talking, or......?」"
+msgstr "Sakura「E-Ehm...... ¿Ya terminamos, o......?」"
+
+msgid "Kota「Oh, sorry. You see, uhh......」"
+msgstr "Kota「Ah, perdón. Verás, ehh......」"
+
+msgid "Sakura「......What is it?」"
+msgstr "Sakura「......¿Qué pasa?」"
+
+msgid "Kota「Uh, it's just, you see......」"
+msgstr "Kota「Eh, es solo que, verás......」"
+
+msgid "Sakura「K-Kota-kun said that too... Yeah, he＿said I'm talented. It was the first time I＿felt... confident in something.」"
+msgstr "Sakura「K-Kota-kun también dijo eso... Sí, dijo＿que tengo talento. Fue la primera vez＿que me sentí... segura de algo.」"
+
+msgid "Kota「And you decided to become a＿professional chef.」"
+msgstr "Kota「Y decidiste convertirte＿en chef profesional.」"
+
+msgid "Sakura「Is that all you like?」"
+msgstr "Sakura「¿Eso es todo lo que te gusta?」"
+
+msgid "Kota「Uh, well, err......」"
+msgstr "Kota「Eh, bueno, ehm......」"
+
+msgid "Sakura「......Yeah, that's how Kota-kun would＿act...... at times like this.」"
+msgstr "Sakura「......Sí, así es como actuaría＿Kota-kun...... en momentos como este.」"
+
+msgid "Kota「Uh...... W-Well, it IS me, after all......」"
+msgstr "Kota「Eh...... B-Bueno, es que soy YO......」"
+
+msgid "Sakura「Only someone who had eaten my＿cooking would say that.」"
+msgstr "Sakura「Solo alguien que haya probado＿mi comida diría eso.」"
+
+msgid "Kota「Oh, b-but I guess it's kinda generic for＿a compliment......」"
+msgstr "Kota「Ah, p-pero supongo que es un cumplido＿algo genérico......」"
+
+msgid "Sakura「Yeah, but it's very Kota-kun-like......」"
+msgstr "Sakura「Sí, pero es muy propio de Kota-kun......」"
+
+msgid "Sakura「The first time we shared a lunchbox,＿Kota-kun said \"You're really＿talented!\"...... I was so happy.」"
+msgstr "Sakura「La primera vez que compartimos un＿almuerzo, Kota-kun dijo \"¡Tienes mucho＿talento!\"...... Me puse tan feliz.」"
+
+msgid "Kota「It was crazy hot outside that day.」"
+msgstr "Kota「Hacía un calor terrible ese día.」"
+
+msgid "Sakura「Yup...... Er, yes.」"
+msgstr "Sakura「Sip...... Ehm, sí.」"
+
+msgid "Sakura「C-Cut it out or I'm gonna get mad!」"
+msgstr "Sakura「¡Y-Ya basta o me voy a enojar!」"
+
+msgid "Kota「Wha!? Why!?」"
+msgstr "Kota「¡¿Qué?! ¡¿Por qué?!」"
+
+msgid "Sakura「Y-You confessing to me freaks me out!＿B-Besides, Kota-kun isn't the type who＿can say that word so directly......!」"
+msgstr "Sakura「¡Q-Que te me declares así me asusta!＿¡A-Además, Kota-kun no es capaz de decir＿esa palabra tan directo......!」"
+
+msgid "Kota「B-But...... I said it BECAUSE I'm me......」"
+msgstr "Kota「P-Pero...... lo dije PORQUE soy yo......」"
+
+msgid "Sakura「I-I-In the middle of town, with all these＿people around, that's not how＿K-Kota-kun would say it......」"
+msgstr "Sakura「E-E-En medio de la ciudad, con＿toda esta gente alrededor, K-Kota-kun＿no lo diría así......」"
+
+msgid "Kota「Uh, w-wait! I take it back...... Wait, taking＿it back wouldn't be right either! Argh!」"
+msgstr "Kota「¡Eh, e-espera! Lo retiro......＿Espera, ¡retirarlo tampoco＿estaría bien! ¡Agh!」"
+
+msgid "Sakura「......」"
+msgstr "Sakura「......」"
+
+msgid "Sakura「T-That's a lot to ask...... I, I don't know＿you very well, and I have Kota-kun......」"
+msgstr "Sakura「E-Es mucho pedir...... N-No te conozco＿muy bien, y ya tengo a Kota-kun......」"
+
+msgid "Kota「Oh, sorry for putting you on the spot＿like that...... Hmm, I'm happy to hear it,＿though.」"
+msgstr "Kota「Ah, perdón por ponerte en aprietos＿así...... Mmm, aunque me alegra oír eso.」"
+
+msgid "Sakura「I have no answer for that, but when it＿comes to Kota-kun...... That's why I'm＿dating him.」"
+msgstr "Sakura「No tengo respuesta para eso,＿pero en cuanto a Kota-kun......＿Por eso salgo con él.」"
+
+msgid "Kota「Oh, right. Sorry I asked.」"
+msgstr "Kota「Ah, claro. Perdón por preguntar.」"
+
+msgid "Sakura「......It's okay.」"
+msgstr "Sakura「......Está bien.」"
+
+msgid "Sakura「I love Kota-kun.」"
+msgstr "Sakura「Amo a Kota-kun.」"
+
+msgid "Kota「Oh, right...... Okay, thanks...... Sorry for＿asking.」"
+msgstr "Kota「Ah, cierto...... Bueno, gracias......＿Perdón por preguntar.」"
+
+msgid "Sakura「......Yeah, Kota-kun would apologize like＿that for sure.」"
+msgstr "Sakura「......Sí, sin duda Kota-kun＿se disculparía así.」"
+
+msgid "Kota「I'm really apologizing here.」"
+msgstr "Kota「De verdad me estoy disculpando.」"
+
+msgid "Sakura「Oh, please don't apologize. Likewise, I＿felt kinda relieved so I started＿smiling...... It was kinda weird of me.」"
+msgstr "Sakura「Ah, por favor, no te disculpes.＿Igualmente, sentí cierto alivio y empecé＿a sonreír...... Qué raro de mi parte.」"
+
+msgid "Kota「Oh, not at all. It's totally fine.」"
+msgstr "Kota「Ah, para nada. No pasa nada.」"
+
+msgid "Sakura「That's...... Kota-kun-like.」"
+msgstr "Sakura「Eso...... es muy propio de Kota-kun.」"
+
+msgid "Kota「Because of the misfortune......? Well, I＿guess that is my most defining trait.」"
+msgstr "Kota「¿Por la mala suerte......? Bueno,＿supongo que es mi rasgo más distintivo.」"
+
+msgid "Sakura「Y-Yeah......」"
+msgstr "Sakura「S-Sí......」"
+
+msgid "Sakura「Kota-kun would definitely say＿something like that......」"
+msgstr "Sakura「Kota-kun definitivamente＿diría algo así......」"
+
+msgid "Kota「I'm really apologizing, though.」"
+msgstr "Kota「Aunque de verdad me estoy disculpando.」"
+
+msgid "Sakura「Yup...... Er, yes. That's okay. Really.」"
+msgstr "Sakura「Sip...... Ehm, sí. Está bien. En serio.」"
+
+msgid "Sakura「I was just wondering how I should refer＿to you, so that's a load off my mind......」"
+msgstr "Sakura「Me preguntaba cómo debía llamarte, así＿que me quitas un peso de encima......」"
+
+msgid "Kota「I see. Then you really should refer to＿me the same as always.」"
+msgstr "Kota「Ya veo. Entonces de verdad deberías＿llamarme igual que siempre.」"
+
+msgid "Sakura「Okay, but...... I'm sure it'll come＿naturally to me once I can believe you＿from the bottom of my heart. I mean it.」"
+msgstr "Sakura「Está bien, pero...... seguro me saldrá＿natural en cuanto pueda creerte de todo＿corazón. Lo digo en serio.」"
+
+msgid "Kota「......You're right. Okay. I won't rush you＿or anything.」"
+msgstr "Kota「......Tienes razón. Está bien. No＿te voy a apresurar ni nada.」"
+
+msgid "Sakura「Sure...... Er, okay.」"
+msgstr "Sakura「Ajá...... Ehm, está bien.」"
+
+msgid "Sakura「Should I really call you Kota-kun?」"
+msgstr "Sakura「¿De verdad debería llamarte Kota-kun?」"
+
+msgid "Kota「W-Well...... only if you want to.」"
+msgstr "Kota「B-Bueno...... solo si quieres.」"
+
+msgid "Sakura「Call you senpai, or call you Kota-kun...」"
+msgstr "Sakura「Llamarte senpai, o llamarte Kota-kun...」"
+
+msgid "Kota「S-Sorry...... Did I confuse you?」"
+msgstr "Kota「P-Perdón...... ¿Te confundí?」"
+
+msgid "Sakura「Honestly, yes...... I'm sorry.」"
+msgstr "Sakura「Sinceramente, sí...... Lo siento.」"
+
+msgid "Kota「Oh, r-right. Of course it would...... It＿would for me too. Everything I can see,＿from my hands to my clothes, is weird.」"
+msgstr "Kota「Ah, c-claro. Es obvio...... A mí también＿me confunde. Todo lo que veo, desde mis＿manos hasta mi ropa, es raro.」"
+
+msgid "Sakura「......」"
+msgstr "Sakura「......」"
+
+msgid "Sakura「I, I didn't agree to meet you...... senpai.」"
+msgstr "Sakura「Y-Yo no quedé contigo...... senpai.」"
+
+msgid "Kota「No, I mean with me! With Kota!」"
+msgstr "Kota「¡No, digo conmigo! ¡Con Kota!」"
+
+msgid "Sakura「W-Well...... Nnn......」"
+msgstr "Sakura「B-Bueno...... Mmm......」"
+
+msgid "Kota「Oh, uhh, sorry......」"
+msgstr "Kota「Ah, ehh, perdón......」"
+
+msgid "Sakura「Yes, with Kota-kun.」"
+msgstr "Sakura「Sí, con Kota-kun.」"
+
+msgid "Kota「That's why I ran all the way here.」"
+msgstr "Kota「Por eso vine corriendo hasta aquí.」"
+
+msgid "Sakura「......I see.」"
+msgstr "Sakura「......Ya veo.」"
+
+msgid "Sakura「I didn't agree to meet you, senpai, but＿you were running really fast.」"
+msgstr "Sakura「No quedé en verme contigo, senpai,＿pero venías corriendo muy rápido.」"
+
+msgid "Kota「That's because I made you wait so＿long.」"
+msgstr "Kota「Es que te hice esperar muchísimo.」"
+
+msgid "Sakura「Yeah, well...... It's bratty of me to say,＿but yes, I agree.」"
+msgstr "Sakura「Sí, bueno...... Suena caprichoso de mi＿parte, pero sí, estoy de acuerdo.」"
+
+msgid "Sakura「T-That has nothing to do with you,＿senpai...」"
+msgstr "Sakura「E-Eso no tiene nada que＿ver contigo, senpai...」"
+
+msgid "Kota「It has nothing to do with our senpai,＿but it has plenty to do with me.」"
+msgstr "Kota「No tiene que ver con nuestro senpai,＿pero sí tiene mucho que ver conmigo.」"
+
+msgid "Sakura「B-But......」"
+msgstr "Sakura「P-Pero......」"
+
+msgid "Kota「......Hmm, this isn't helping.」"
+msgstr "Kota「......Mmm, esto no ayuda.」"
+
+msgid "Sakura「Yeah...... If Kota-kun hadn't been my＿tutor, we never would have gotten to＿know each other.」"
+msgstr "Sakura「Sí...... Si Kota-kun no hubiera sido mi＿tutor, nunca nos habríamos conocido.」"
+
+msgid "Kota「Yeah, that's true.」"
+msgstr "Kota「Sí, es verdad.」"
+
+msgid "Sakura「But if someone asked him about our＿relationship, I'm sure that's how he＿would answer.」"
+msgstr "Sakura「Pero si alguien le preguntara＿sobre nuestra relación, seguro＿que así respondería.」"
+
+msgid "Kota「......Pretty much.」"
+msgstr "Kota「......Básicamente.」"
+
+msgid "Sakura「Hearing that from Takasu-senpai, I'll＿have a heart attack before every test.」"
+msgstr "Sakura「Si oigo eso de Takasu-senpai, me va a＿dar un infarto antes de cada examen.」"
+
+msgid "Kota「But he's not the one saying it......」"
+msgstr "Kota「Pero no es él quien lo dice......」"
+
+msgid "Sakura「Oh...... yeah. That we did.」"
+msgstr "Sakura「Ah...... sí. Es verdad.」"
+
+msgid "Kota「That's when I noticed that you have a＿habit of chewing the end of your pencil＿when you're concentrating.」"
+msgstr "Kota「Ahí fue cuando noté que tienes la＿costumbre de morder el extremo del＿lápiz cuando te concentras.」"
+
+msgid "Sakura「......Yeah.」"
+msgstr "Sakura「......Sí.」"
+
+msgid "Sakura「All night?」"
+msgstr "Sakura「¿Toda la noche?」"
+
+msgid "Kota「Oh, that's right. I fell asleep halfway＿through.」"
+msgstr "Kota「Ah, es cierto. Me quedé＿dormido a la mitad.」"
+
+msgid "Sakura「......Yeah.」"
+msgstr "Sakura「......Sí.」"
+
+msgid "Sakura「Kota-kun certainly has, yes.」"
+msgstr "Sakura「Kota-kun sí lo ha hecho, claro.」"
+
+msgid "Kota「Yes, \"he\" has......」"
+msgstr "Kota「Sí, \"él\" sí......」"
+
+msgid "Sakura「Senpai, are you saying you've been in＿my house before?」"
+msgstr "Sakura「Senpai, ¿estás diciendo que has＿estado en mi casa antes?」"
+
+msgid "Kota「That's not it...... Nah, let's quit while＿we're ahead.」"
+msgstr "Kota「No es eso...... Nah, mejor＿dejémoslo hasta aquí.」"
+
+msgid "Sakura「I, I don't want to hear that from you,＿senpai......」"
+msgstr "Sakura「N-No quiero escuchar eso＿de ti, senpai......」"
+
+msgid "Kota「Oh...... Yeah, you're right...... I give up.＿This was a mistake......」"
+msgstr "Kota「Ah...... Sí, tienes razón...... Me＿rindo. Esto fue un error......」"
+
+msgid "Sakura「That's something anyone could say.」"
+msgstr "Sakura「Eso podría decirlo cualquiera.」"
+
+msgid "Kota「W-Well...... I guess so.」"
+msgstr "Kota「B-Bueno...... supongo que sí.」"
+
+msgid "Sakura「Flattery won't get you anywhere, you＿know.」"
+msgstr "Sakura「Los halagos no te llevarán＿a ningún lado, ¿sabes?」"
+
+msgid "Kota「That's not it...... Argh, why would you＿think that?」"
+msgstr "Kota「No es eso...... Agh, ¿por＿qué pensarías algo así?」"
+
+msgid "Sakura「Then where did we first make plans to＿meet?」"
+msgstr "Sakura「Entonces, ¿dónde planeamos＿vernos por primera vez?」"
+
+msgid "Kota「The aquarium. I kept the tickets in a＿textbook for safekeeping and then＿gave them to you.」"
+msgstr "Kota「En el acuario. Guardé los boletos＿en un libro de texto para que no se＿perdieran y luego te los di.」"
+
+msgid "Sakura「......Yeah, that's correct.」"
+msgstr "Sakura「......Sí, es correcto.」"
+
+msgid "Sakura「We went through hell to get there......＿Fufu!」"
+msgstr "Sakura「Pasamos por un infierno para＿llegar allí...... ¡Juju!」"
+
+msgid "Kota「It was a whirlwind of bad luck that＿affected everything around us.」"
+msgstr "Kota「Fue un torbellino de mala suerte que＿arrastró todo a nuestro alrededor.」"
+
+msgid "Sakura「Yup...... Er, yes.」"
+msgstr "Sakura「Sip...... Ehm, sí.」"
+
+msgid "Sakura「......Yes, as I recall.」"
+msgstr "Sakura「......Sí, según recuerdo.」"
+
+msgid "Kota「D-Did you...... have fun?」"
+msgstr "Kota「¿T-Te...... divertiste?」"
+
+msgid "Sakura「It's one of my most precious memories＿with Kota-kun.」"
+msgstr "Sakura「Es uno de mis recuerdos más＿valiosos con Kota-kun.」"
+
+msgid "Kota「Y-Yeah, mine too...... Yup.」"
+msgstr "Kota「S-Sí, el mío también...... Sip.」"
+
+msgid "Sakura「Who was shadowing us back then?」"
+msgstr "Sakura「¿Quién nos estuvo siguiendo ese día?」"
+
+msgid "Kota「The student council presidents,＿present and former.」"
+msgstr "Kota「Los presidentes del consejo estudiantil,＿el actual y la anterior.」"
+
+msgid "Sakura「......Correct.」"
+msgstr "Sakura「......Correcto.」"
+
+msgid "Kota「Uhh, err, w-well......」"
+msgstr "Kota「Ehh, ehm, b-bueno......」"
+
+msgid "Sakura「I, I'm even more upset to hear it from＿Senpai......!」"
+msgstr "Sakura「¡M-Me molesta aún más escucharlo＿de Senpai......!」"
+
+msgid "Kota「S-Sorry...... That was wrong of me.」"
+msgstr "Kota「P-Perdón...... Estuvo mal de mi parte.」"
+
+msgid "Sakura「......」"
+msgstr "Sakura「......」"
+
+msgid "Sakura「H-H-H-How do you know that......? Did＿you force it out of Kota-kun? U-Using＿violence?」"
+msgstr "Sakura「¿C-C-C-Cómo sabes eso......? ¿Se＿lo sacaste a la fuerza a Kota-kun?＿¿U-Usando violencia?」"
+
+msgid "Kota「H-He didn't...... Hm? Should I say \"I＿didn't\"? Uhh...... Anyway, no!」"
+msgstr "Kota「É-Él no...... ¿Mm? ¿Debería decir＿\"yo no\"? Ehh...... ¡En fin, no!」"
+
+msgid "Sakura「............」"
+msgstr "Sakura「............」"
+
+msgid "Sakura「W-Were you watching us......?」"
+msgstr "Sakura「¿N-Nos estabas mirando......?」"
+
+msgid "Kota「I wasn't watching, I was part of it.」"
+msgstr "Kota「No estaba mirando, yo era parte de eso.」"
+
+msgid "Sakura「C-C-C-Could you stop? Seriously?」"
+msgstr "Sakura「¿P-P-P-Podrías parar? ¿En serio?」"
+
+msgid "Kota「S-Sorry......」"
+msgstr "Kota「P-Perdón......」"
+
+msgid "Sakura「Could you be a little more specific?」"
+msgstr "Sakura「¿Podrías ser un poco más específico?」"
+
+msgid "Kota「Specifically... I was going up the stairs＿when I slipped on a stray test paper,＿so... at the foot of the stairs, I guess.」"
+msgstr "Kota「Específicamente... Subía las escaleras＿cuando me resbalé con un examen suelto,＿así que... al pie de ellas, supongo.」"
+
+msgid "Sakura「Very specific......」"
+msgstr "Sakura「Muy específico......」"
+
+msgid "Kota「Well, I remember it, of course.」"
+msgstr "Kota「Bueno, lo recuerdo, por supuesto.」"
+
+msgid "Sakura「......」"
+msgstr "Sakura「......」"
+
+msgid "Sakura「That's where I met Kota-kun, yes...... It's＿a pretty embarrassing memory.」"
+msgstr "Sakura「Ahí fue donde conocí a Kota-kun,＿sí...... Es un recuerdo muy vergonzoso.」"
+
+msgid "Kota「Oh, yeah, I guess...... But it's thanks to＿that incident that we met.」"
+msgstr "Kota「Ah, sí, supongo...... Pero gracias＿a ese incidente nos conocimos.」"
+
+msgid "Sakura「Me and Kota-kun, yeah.」"
+msgstr "Sakura「Kota-kun y yo, sí.」"
+
+msgid "Kota「......Right.」"
+msgstr "Kota「......Cierto.」"
+
+msgid "Sakura「N-No one would think of themselves as＿scary!」"
+msgstr "Sakura「¡N-Nadie pensaría de sí＿mismo que da miedo!」"
+
+msgid "Kota「No...... I mean, yeah......」"
+msgstr "Kota「No...... Digo, sí......」"
+
+msgid "Sakura「S-S-So what? You've been saying＿some weird stuff for a while now......!」"
+msgstr "Sakura「¡¿Y-Y-Y qué?! ¡Llevas un buen rato＿diciendo cosas muy raras......!」"
+
+msgid "Kota「W-Why won't you try to understand......?＿Argh!」"
+msgstr "Kota「¿P-Por qué no intentas＿entender......? ¡Agh!」"
+
+msgid "Sakura「S-Scary......」"
+msgstr "Sakura「Q-Qué miedo......」"
+
+msgid "Kota「No he...... Ohh, you mean me. Gee,＿Senpai's looks sure don't do him any＿favors......」"
+msgstr "Kota「No, él...... Ahh, te refieres a mí.＿Caramba, el aspecto de Senpai sí＿que no lo ayuda nada......」"
+
+msgid "Sakura「............」"
+msgstr "Sakura「............」"
+
+msgid "Sakura「I, I, I don't get what you mean......」"
+msgstr "Sakura「Y-Y-Yo no entiendo qué dices......」"
+
+msgid "Sakura「I, I'm so lost......」"
+msgstr "Sakura「E-Estoy tan perdida......」"
+
+msgid "Kota「Sorry, I lost myself there too...... L-Let's＿talk about something else.」"
+msgstr "Kota「Perdón, hasta yo me perdí......＿H-Hablemos de otra cosa.」"
+
+msgid "Sakura「Then...... How have you been able to＿talk about all this stuff?」"
+msgstr "Sakura「Entonces...... ¿Cómo has podido＿hablar de todas estas cosas?」"
+
+msgid "Kota「Well, because I remember it......」"
+msgstr "Kota「Bueno, porque las recuerdo......」"
+
+msgid "Sakura「But you said you have amnesia, didn't＿you?」"
+msgstr "Sakura「Pero dijiste que tenías amnesia, ¿no?」"
+
+msgid "Kota「That's senpai, not me...... Sorry, can we＿just forget this conversation＿altogether?」"
+msgstr "Kota「Ese es senpai, no yo...... Perdón,＿¿podemos simplemente olvidar toda＿esta conversación?」"
+
+msgid "Sakura「......I understand.」"
+msgstr "Sakura「......Entiendo.」"
+
+msgid "Sakura「......So you like to tell jokes, senpai?＿That puts me at ease.」"
+msgstr "Sakura「......¿Así que te gusta contar chistes,＿senpai? Eso me tranquiliza.」"
+
+msgid "Kota「O-Okay...... That's good, but...... is that＿good?」"
+msgstr "Kota「E-Está bien...... Qué bueno,＿pero...... ¿eso es bueno?」"
+
+msgid "Sakura「S-So what?」"
+msgstr "Sakura「¿Y-Y qué?」"
+
+msgid "Kota「Uh, well, it didn't help us switch back,＿though......」"
+msgstr "Kota「Eh, bueno, aunque no nos ayudó＿a volver a cambiar......」"
+
+msgid "Sakura「......」"
+msgstr "Sakura「......」"
+
+msgid "Kota「......Never mind. Forget I said anything.」"
+msgstr "Kota「......No importa. Olvida lo que dije.」"
+
+msgid "Sakura「Why......? To try and switch back? Is＿that it?」"
+msgstr "Sakura「¿Por qué......? ¿Para intentar＿volver a cambiar? ¿Es eso?」"
+
+msgid "Kota「Yep yep, exactly.」"
+msgstr "Kota「Sip, sip, exactamente.」"
+
+msgid "Sakura「But if it didn't work...... then what was＿different from the first time?」"
+msgstr "Sakura「Pero si no funcionó...... entonces, ¿qué＿fue diferente de la primera vez?」"
+
+msgid "Kota「Well if we knew that, then this＿situation would be resolved...... Sorry, I＿still don't know.」"
+msgstr "Kota「Bueno, si supiéramos eso, esta＿situación ya estaría resuelta......＿Perdón, aún no lo sé.」"
+
+msgid "Sakura「......I can't follow this conversation one＿bit.」"
+msgstr "Sakura「......No puedo seguir esta＿conversación ni un poco.」"
+
+msgid "Kota「Y-Yeah, I bet......」"
+msgstr "Kota「S-Sí, me imagino......」"
+
+msgid "Sakura「Senpai, you've got this prank down to＿the smallest detail, huh? Reminds me＿of my sister.」"
+msgstr "Sakura「Senpai, tienes esta broma planeada＿al más mínimo detalle, ¿eh? Me＿recuerda a mi hermana.」"
+
+msgid "Kota「No, it's not a prank! How should I＿explain it......? No, I can't really explain＿it. Hmmm...... Seriously, what a pickle.」"
+msgstr "Kota「¡No, no es una broma! ¿Cómo lo＿explico......? No, la verdad no puedo＿explicarlo. Mmm...... En serio, qué lío.」"
+
+msgid "Sakura「............」"
+msgstr "Sakura「............」"
+
+msgid "HAP_A1_LV1:"
+msgstr "HAP_A1_LV1:"
+
+msgid "HAP_A1_LV2:"
+msgstr "HAP_A1_LV2:"
+
+msgid "ANG_A1_LV2:"
+msgstr "ANG_A1_LV2:"
+
+msgid "SAD_A1_LV2:"
+msgstr "SAD_A1_LV2:"
+
+msgid "FUN_A1_LV1:"
+msgstr "FUN_A1_LV1:"
+
+msgid "FUN_A1_LV2:"
+msgstr "FUN_A1_LV2:"
+
+msgid "HAP_A2_LV1:"
+msgstr "HAP_A2_LV1:"
+
+msgid "HAP_A2_LV2:"
+msgstr "HAP_A2_LV2:"
+
+msgid "ANG_A2_LV2:"
+msgstr "ANG_A2_LV2:"
+
+msgid "SAD_A2_LV2:"
+msgstr "SAD_A2_LV2:"
+
+msgid "FUN_A2_LV1:"
+msgstr "FUN_A2_LV1:"
+
+msgid "FUN_A2_LV2:"
+msgstr "FUN_A2_LV2:"
+
+msgid "HAP_A3_LV1:"
+msgstr "HAP_A3_LV1:"
+
+msgid "HAP_A3_LV2:"
+msgstr "HAP_A3_LV2:"
+
+msgid "ANG_A3_LV1:"
+msgstr "ANG_A3_LV1:"
+
+msgid "ANG_A3_LV2:"
+msgstr "ANG_A3_LV2:"
+
+msgid "SAD_A3_LV2:"
+msgstr "SAD_A3_LV2:"
+
+msgid "ANG_B1_LV1:"
+msgstr "ANG_B1_LV1:"
+
+msgid "ANG_B1_LV2:"
+msgstr "ANG_B1_LV2:"
+
+msgid "SAD_B1_LV1:"
+msgstr "SAD_B1_LV1:"
+
+msgid "SAD_B1_LV2:"
+msgstr "SAD_B1_LV2:"
+
+msgid "HAP_B2_LV1:"
+msgstr "HAP_B2_LV1:"
+
+msgid "HAP_B2_LV2:"
+msgstr "HAP_B2_LV2:"
+
+msgid "ANG_B2_LV2:"
+msgstr "ANG_B2_LV2:"
+
+msgid "SAD_B2_LV2:"
+msgstr "SAD_B2_LV2:"
+
+msgid "FUN_B2_LV1:"
+msgstr "FUN_B2_LV1:"
+
+msgid "FUN_B2_LV2:"
+msgstr "FUN_B2_LV2:"
+
+msgid "HAP_B3_LV1:"
+msgstr "HAP_B3_LV1:"
+
+msgid "HAP_B3_LV2:"
+msgstr "HAP_B3_LV2:"
+
+msgid "ANG_B3_LV1:"
+msgstr "ANG_B3_LV1:"
+
+msgid "ANG_B3_LV2:"
+msgstr "ANG_B3_LV2:"
+
+msgid "SAD_B3_LV2:"
+msgstr "SAD_B3_LV2:"
+
+msgid "ANG_C1_LV1:"
+msgstr "ANG_C1_LV1:"
+
+msgid "ANG_C1_LV2:"
+msgstr "ANG_C1_LV2:"
+
+msgid "SAD_C1_LV1:"
+msgstr "SAD_C1_LV1:"
+
+msgid "SAD_C1_LV2:"
+msgstr "SAD_C1_LV2:"
+
+msgid "FUN_C1_LV2:"
+msgstr "FUN_C1_LV2:"
+
+msgid "ANG_C2_LV1:"
+msgstr "ANG_C2_LV1:"
+
+msgid "ANG_C2_LV2:"
+msgstr "ANG_C2_LV2:"
+
+msgid "SAD_C2_LV1:"
+msgstr "SAD_C2_LV1:"
+
+msgid "SAD_C2_LV2:"
+msgstr "SAD_C2_LV2:"
+
+msgid "HAP_C3_LV1:"
+msgstr "HAP_C3_LV1:"
+
+msgid "HAP_C3_LV2:"
+msgstr "HAP_C3_LV2:"
+
+msgid "ANG_C3_LV1:"
+msgstr "ANG_C3_LV1:"
+
+msgid "ANG_C3_LV2:"
+msgstr "ANG_C3_LV2:"
+
+msgid "SAD_C3_LV2:"
+msgstr "SAD_C3_LV2:"
+
+msgid "HAP_D1_LV1:"
+msgstr "HAP_D1_LV1:"
+
+msgid "HAP_D1_LV2:"
+msgstr "HAP_D1_LV2:"
+
+msgid "ANG_D1_LV1:"
+msgstr "ANG_D1_LV1:"
+
+msgid "ANG_D1_LV2:"
+msgstr "ANG_D1_LV2:"
+
+msgid "SAD_D1_LV2:"
+msgstr "SAD_D1_LV2:"
+
+msgid "ANG_D2_LV1:"
+msgstr "ANG_D2_LV1:"
+
+msgid "ANG_D2_LV2:"
+msgstr "ANG_D2_LV2:"
+
+msgid "SAD_D2_LV1:"
+msgstr "SAD_D2_LV1:"
+
+msgid "SAD_D2_LV2:"
+msgstr "SAD_D2_LV2:"
+
+msgid "HAP_D3_LV1:"
+msgstr "HAP_D3_LV1:"
+
+msgid "HAP_D3_LV2:"
+msgstr "HAP_D3_LV2:"
+
+msgid "ANG_D3_LV1:"
+msgstr "ANG_D3_LV1:"
+
+msgid "ANG_D3_LV2:"
+msgstr "ANG_D3_LV2:"
+
+msgid "SAD_D3_LV2:"
+msgstr "SAD_D3_LV2:"
+
+msgid "ANG_E1_LV1:"
+msgstr "ANG_E1_LV1:"
+
+msgid "ANG_E1_LV2:"
+msgstr "ANG_E1_LV2:"
+
+msgid "SAD_E1_LV1:"
+msgstr "SAD_E1_LV1:"
+
+msgid "SAD_E1_LV2:"
+msgstr "SAD_E1_LV2:"
+
+msgid "HAP_E2_LV1:"
+msgstr "HAP_E2_LV1:"
+
+msgid "HAP_E2_LV2:"
+msgstr "HAP_E2_LV2:"
+
+msgid "ANG_E2_LV2:"
+msgstr "ANG_E2_LV2:"
+
+msgid "SAD_E2_LV2:"
+msgstr "SAD_E2_LV2:"
+
+msgid "FUN_E2_LV1:"
+msgstr "FUN_E2_LV1:"
+
+msgid "FUN_E2_LV2:"
+msgstr "FUN_E2_LV2:"
+
+msgid "HAP_E3_LV1:"
+msgstr "HAP_E3_LV1:"
+
+msgid "HAP_E3_LV2:"
+msgstr "HAP_E3_LV2:"
+
+msgid "ANG_E3_LV1:"
+msgstr "ANG_E3_LV1:"
+
+msgid "ANG_E3_LV2:"
+msgstr "ANG_E3_LV2:"
+
+msgid "SAD_E3_LV2:"
+msgstr "SAD_E3_LV2:"
+
+msgid "HAP_F1_LV1:"
+msgstr "HAP_F1_LV1:"
+
+msgid "HAP_F1_LV2:"
+msgstr "HAP_F1_LV2:"
+
+msgid "ANG_F1_LV2:"
+msgstr "ANG_F1_LV2:"
+
+msgid "SAD_F1_LV2:"
+msgstr "SAD_F1_LV2:"
+
+msgid "FUN_F1_LV1:"
+msgstr "FUN_F1_LV1:"
+
+msgid "FUN_F1_LV2:"
+msgstr "FUN_F1_LV2:"
+
+msgid "HAP_F2_LV1:"
+msgstr "HAP_F2_LV1:"
+
+msgid "HAP_F2_LV2:"
+msgstr "HAP_F2_LV2:"
+
+msgid "ANG_F2_LV1:"
+msgstr "ANG_F2_LV1:"
+
+msgid "ANG_F2_LV2:"
+msgstr "ANG_F2_LV2:"
+
+msgid "SAD_F2_LV2:"
+msgstr "SAD_F2_LV2:"
+
+msgid "HAP_F3_LV1:"
+msgstr "HAP_F3_LV1:"
+
+msgid "HAP_F3_LV2:"
+msgstr "HAP_F3_LV2:"
+
+msgid "ANG_F3_LV1:"
+msgstr "ANG_F3_LV1:"
+
+msgid "ANG_F3_LV2:"
+msgstr "ANG_F3_LV2:"
+
+msgid "SAD_F3_LV2:"
+msgstr "SAD_F3_LV2:"
+
+msgid "Sakura「Even if you really are Kota-kun on the＿inside, saying \"Kota-kun\" to someone＿who looks completely different feels so」"
+msgstr "Sakura「Aunque de verdad seas Kota-kun por＿dentro, decirle \"Kota-kun\" a alguien＿que se ve tan distinto se siente muy」"
+
+msgid "Sakura「weird.」"
+msgstr "Sakura「raro.」"
+
+msgid "Sakura「T-That's a really, really, REALLY＿precious memory!! Even if you are＿Kota-kun, how could you mention it so」"
+msgstr "Sakura「¡E-Ese es un recuerdo muy, muy,＿MUY valioso!! Aunque seas Kota-kun,＿¡¿cómo puedes mencionarlo tan」"
+
+msgid "Sakura「casually......!?」"
+msgstr "Sakura「a la ligera......?!」"
+
+msgid "Kota「W-Why......? Wait, I get it. I'm senpai, but＿I'm not, but senpai has amnesia so he's＿not senpai...... Argh, what the heck am I」"
+msgstr "Kota「¿P-Por qué......? Ya veo: soy senpai y＿no, pero senpai tiene amnesia, conque no＿es senpai...... Agh, ¿qué diablos estoy」"
+
+msgid "Kota「saying?」"
+msgstr "Kota「diciendo?」"

@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+
+msgid "Inko-chan「BET, BETTER?」"
+msgstr "Inko-chan「¿ME, MEJOR?」"
+
+msgid "Ryuuji「......Yeah, I'm feeling a bit better.」"
+msgstr "Ryuuji「......Sí, me siento un poco mejor.」"
+
+msgid "Inko-chan「BE, BETTER...... EAT, EAT」"
+msgstr "Inko-chan「ME, MEJOR...... COME, COME」"
+
+msgid "Ryuuji「（This is......! It's a sunflower seed--＿Inko-chan's favorite food!）」"
+msgstr "Ryuuji「（¡Esto es......! ¡Es una semilla＿de girasol, la comida favorita＿de Inko-chan!）」"
+
+msgid "Inko-chan「EAT, SLEEP」"
+msgstr "Inko-chan「COME, DUERME」"
+
+msgid "Ryuuji「\"Eat this and go back to bed,\" huh.＿Thanks, Inko-chan.」"
+msgstr "Ryuuji「\"Come esto y vuelve a dormir\",＿eh. Gracias, Inko-chan.」"
+
+msgid "Inko-chan「EAT, DIS THEN, SOO...... SLEEP!」"
+msgstr "Inko-chan「COME, ESTO Y, LUE...... ¡DUERME!」"
+
+msgid "Ryuuji「What, are you saying eating this will＿help me fall asleep?」"
+msgstr "Ryuuji「¿Qué, dices que comer esto me＿ayudará a quedarme dormido?」"
+
+msgid "Inko-chan「......WHA?」"
+msgstr "Inko-chan「......¿QUÉ?」"
+
+msgid "Ryuuji「Nah, never mind, Inko-chan. Don't＿worry too much, okay?」"
+msgstr "Ryuuji「Nada, olvídalo, Inko-chan. No＿te preocupes demasiado, ¿sí?」"
+
+msgid "Inko-chan「......SLEEP?」"
+msgstr "Inko-chan「......¿DORMIR?」"
+
+msgid "Inko-chan「......」"
+msgstr "Inko-chan「......」"
+
+msgid "Ryuuji「I envy your mad sleeping skills...... Good＿night, Inko-chan.」"
+msgstr "Ryuuji「Envidio tu increíble facilidad para＿dormir...... Buenas noches, Inko-chan.」"

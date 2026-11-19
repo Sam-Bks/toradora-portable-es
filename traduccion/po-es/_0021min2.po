@@ -1,0 +1,17 @@
+msgid ""
+msgstr ""
+
+msgid "Minori「Whoopsie! I better get going or I'll miss＿the train, see.」"
+msgstr "Minori「¡Uy! Será mejor que me vaya＿o perderé el tren, ¿ves?」"
+
+msgid "Ryuuji「I see. Sorry for holding you up.」"
+msgstr "Ryuuji「Ya veo. Perdón por entretenerte.」"
+
+msgid "Minori「It's fine. Farewell, Takasu-kun!」"
+msgstr "Minori「No pasa nada. ¡Hasta pronto, Takasu-kun!」"
+
+msgid "Ryuuji「Okay, see ya.」"
+msgstr "Ryuuji「Está bien, nos vemos.」"
+
+msgid "Ryuuji「（......Oh, I should have asked her when＿she'll be back.）」"
+msgstr "Ryuuji「（......Ah, debí preguntarle＿cuándo volverá.）」"

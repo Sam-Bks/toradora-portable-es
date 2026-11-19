@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「How do you feel? Think you can walk＿now?」"
+msgstr "Ryuuji「¿Cómo te sientes? ¿Crees＿que ya puedas caminar?」"
+
+msgid "Taiga「Oh, yeah...... Wanna go home now?」"
+msgstr "Taiga「Ah, sí...... ¿Volvemos a casa ya?」"
+
+msgid "Ryuuji「Yeah. It's freezing. Aren't you cold?」"
+msgstr "Ryuuji「Sí. Está helando. ¿No tienes frío?」"
+
+msgid "Taiga「......Good point. Let's go home.」"
+msgstr "Taiga「......Tienes razón. Vámonos a casa.」"
+
+msgid "Taiga「......Ngh!」"
+msgstr "Taiga「......¡Ngh!」"
+
+msgid "Ryuuji「What's the matter?」"
+msgstr "Ryuuji「¿Qué pasa?」"
+
+msgid "Taiga「Nothing.」"
+msgstr "Taiga「Nada.」"
+
+msgid "Ryuuji「It's not nothing...... Did you get a＿blister?」"
+msgstr "Ryuuji「Claro que es algo......＿¿Te salió una ampolla?」"
+
+msgid "Ryuuji「......Sorry. Here.」"
+msgstr "Ryuuji「......Perdón. Sube.」"
+
+msgid "Taiga「What are you doing?」"
+msgstr "Taiga「¿Qué estás haciendo?」"
+
+msgid "Ryuuji「I'll carry you. After you went to the＿trouble of looking for me, it's the least＿I can do.」"
+msgstr "Ryuuji「Te llevaré cargada. Después de＿que te molestaste en buscarme,＿es lo menos que puedo hacer.」"
+
+msgid "Taiga「......Fair enough. If we stay here much＿longer, you could catch the flu again.」"
+msgstr "Taiga「......Está bien. Si seguimos aquí más＿tiempo, te puede dar gripe otra vez.」"
+
+msgid "Ryuuji「Climb on already. It's extremely＿embarrassing to be in this position in＿public.」"
+msgstr "Ryuuji「Sube de una vez. Es sumamente vergonzoso＿estar en esta postura en público.」"
+
+msgid "Taiga「Shut it! Hold still!」"
+msgstr "Taiga「¡Cállate! ¡Quédate quieto!」"
+
+msgid "Ryuuji「Ngggh! You're choking me!」"
+msgstr "Ryuuji「¡Ngggh! ¡Me estás ahorcando!」"
+
+msgid "Ryuuji「......Are you warm?」"
+msgstr "Ryuuji「......¿Ya entraste en calor?」"
+
+msgid "Taiga「Yeah.」"
+msgstr "Taiga「Sí.」"
+
+msgid "Ryuuji「......Hey, a little while ago you asked me＿if I was glad to be spending New Year's＿with you.」"
+msgstr "Ryuuji「......Oye, hace un rato me preguntaste＿si me alegraba pasar el Año＿Nuevo contigo.」"
+
+msgid "Taiga「Yeah.」"
+msgstr "Taiga「Sí.」"
+
+msgid "Ryuuji「What about you? Wasn't there＿someone else you'd want to spend it＿with?」"
+msgstr "Ryuuji「¿Y tú? ¿No había alguien más con＿quien quisieras pasarlo?」"
+
+msgid "Taiga「......Not really, no.」"
+msgstr "Taiga「......En realidad, no.」"
+
+msgid "Ryuuji「I see.」"
+msgstr "Ryuuji「Ya veo.」"
+
+msgid "Taiga「Why do you ask?」"
+msgstr "Taiga「¿Por qué lo preguntas?」"
+
+msgid "Ryuuji「Well...... I don't really know, but I had＿this nagging feeling.」"
+msgstr "Ryuuji「Bueno...... No lo sé bien, pero＿tenía ese presentimiento.」"
+
+msgid "Taiga「Are you remembering something?」"
+msgstr "Taiga「¿Estás recordando algo?」"
+
+msgid "Ryuuji「So I was right?」"
+msgstr "Ryuuji「¿Así que tenía razón?」"
+
+msgid "Taiga「............」"
+msgstr "Taiga「............」"
+
+msgid "Ryuuji「（Taiga's crush...... who is it? I'm sure I＿know the answer, but......）」"
+msgstr "Ryuuji「（¿Quién le gusta a Taiga......? Seguro＿que sé la respuesta, pero......）」"
+
+msgid "Ryuuji「（No. Not him.）」"
+msgstr "Ryuuji「（No. Él no.）」"
+
+msgid "Ryuuji「（Definitely not that guy......）」"
+msgstr "Ryuuji「（Definitivamente ese tipo no......）」"
+
+msgid "Ryuuji「（Not him either......）」"
+msgstr "Ryuuji「（Tampoco es él......）」"
+
+msgid "Ryuuji「（Kitamura......?）」"
+msgstr "Ryuuji「（¿Kitamura......?）」"
+
+msgid "Ryuuji「That's it, Kitamura! It's Kitamura!」"
+msgstr "Ryuuji「¡Eso es, Kitamura! ¡Es Kitamura!」"
+
+msgid "Taiga「Oh...... Y-Yeah......」"
+msgstr "Taiga「Ah...... S-Sí......」"
+
+msgid "Ryuuji「......Sorry about that. If I had only＿remembered it sooner, I wouldn't have＿imposed myself on you.」"
+msgstr "Ryuuji「......Lo siento por eso. Si tan＿solo lo hubiera recordado antes,＿no te habría molestado así.」"
+
+msgid "Taiga「Right now we have to prioritize＿regaining your memories.」"
+msgstr "Taiga「Ahora mismo tenemos que priorizar＿que recuperes tus recuerdos.」"
+
+msgid "Ryuuji「Well, you aren't the most patient＿person.」"
+msgstr "Ryuuji「Bueno, no eres la persona más paciente.」"
+
+msgid "Taiga「............」"
+msgstr "Taiga「............」"
+
+msgid "Ryuuji「Somehow it helped me remember......＿I'm glad.」"
+msgstr "Ryuuji「De algún modo me ayudó a recordar......＿Me alegro.」"
+
+msgid "Taiga「......Isn't this just what you wished for?」"
+msgstr "Taiga「......¿No era esto lo que deseabas?」"
+
+msgid "Ryuuji「My wish came true much earlier.」"
+msgstr "Ryuuji「Mi deseo se cumplió mucho antes.」"
+
+msgid "Taiga「What does that mean?」"
+msgstr "Taiga「¿Qué significa eso?」"
+
+msgid "Ryuuji「What an amazing deity. Perhaps it was＿worth the ¥100 offering?」"
+msgstr "Ryuuji「Qué deidad tan increíble. ¿Será que sí＿valió la pena la ofrenda de ¥100?」"
+
+msgid "Taiga「......That's amazing.」"
+msgstr "Taiga「......Es increíble.」"
+
+msgid "Taiga「............」"
+msgstr "Taiga「............」"
+
+msgid "Ryuuji「Ngggh! ......Why are you choking me!?＿I'm dying!」"
+msgstr "Ryuuji「¡Ngggh! ......¡¿Por qué me＿ahorcas?! ¡Me muero!」"
+
+msgid "Taiga「It's payback for teasing me. To make＿matters worse, I'm cold.」"
+msgstr "Taiga「Es venganza por burlarte de mí.＿Para colmo, tengo frío.」"
+
+msgid "Ryuuji「Oh, sorry then, sheesh......」"
+msgstr "Ryuuji「Ah, perdón entonces, cielos......」"
+
+msgid "Taiga「......Well, I was walking around all over＿the place, so I didn't have a choice, did＿I?」"
+msgstr "Taiga「......Bueno, estuve caminando por todas＿partes, así que no tuve opción, ¿no?」"
+
+msgid "Taiga「If I lost the family dog, I could never＿show my face to Yacchan again.」"
+msgstr "Taiga「Si perdía al perro de la familia, nunca＿podría mirar a Yacchan a la cara.」"
+
+msgid "Ryuuji「Just before you found me, I cancelled＿my wishes and instead asked to find＿you quickly.」"
+msgstr "Ryuuji「Justo antes de que me encontraras,＿cancelé mis deseos y pedí mejor＿encontrarte rápido.」"
+
+msgid "Ryuuji「After that, we found each other in no＿time.」"
+msgstr "Ryuuji「Después de eso, nos encontramos＿en un instante.」"
+
+msgid "Ryuuji「I'm sure it will grant your wishes too......＿Oh, was that it? Your wish was about＿Kitamura? Then it'll work out for sure.」"
+msgstr "Ryuuji「Seguro cumplirá los tuyos también......＿Ah, ¿era eso? ¿Tu deseo era sobre＿Kitamura? Entonces saldrá bien sin duda.」"
+
+msgid "Ryuuji「That's good.」"
+msgstr "Ryuuji「Qué bien.」"

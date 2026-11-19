@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+
+msgid "Sumire「Well? Think you'll be able to remember＿something?」"
+msgstr "Sumire「¿Y bien? ¿Crees que puedas＿recordar algo?」"
+
+msgid "Ryuuji「Sorry, not really......」"
+msgstr "Ryuuji「Perdón, la verdad no......」"
+
+msgid "Sumire「I see. As much as I'd like to hang out＿with you a little longer, unfortunately,＿my time is up.」"
+msgstr "Sumire「Ya veo. Por mucho que me gustaría＿quedarme un poco más contigo, por＿desgracia, se me acabó el tiempo.」"
+
+msgid "Ryuuji「Okay. I'll go back to Luxure. I'm＿concerned about what's happened＿with Taiga and Kitamura.」"
+msgstr "Ryuuji「Bien. Volveré a Luxure. Me preocupa lo＿que haya pasado con Taiga y Kitamura.」"
+
+msgid "Sumire「Fufu. Concerned, huh?」"
+msgstr "Sumire「Juju. ¿Te preocupa, eh?」"
+
+msgid "Ryuuji「Don't take that the wrong way. Also,＿can you give me back my cell phone＿already?」"
+msgstr "Ryuuji「No lo malinterpretes. Además, ¿ya＿me puedes devolver mi teléfono?」"
+
+msgid "Sumire「What, you remembered that? How dull.」"
+msgstr "Sumire「¿Qué, de eso sí te acordaste?＿Qué aburrido.」"
+
+msgid "Ryuuji「I'm not THAT forgetful...... Want me to＿give Kitamura a message or anything?」"
+msgstr "Ryuuji「No soy TAN olvidadizo...... ¿Quieres＿que le dé algún mensaje a Kitamura?」"
+
+msgid "Sumire「No.」"
+msgstr "Sumire「No.」"
+
+msgid "Ryuuji「......Alright then.」"
+msgstr "Ryuuji「......Está bien entonces.」"
+
+msgid "Sumire「Don't forget our agreement on the＿morning of the 7th.」"
+msgstr "Sumire「No olvides nuestro acuerdo＿para la mañana del 7.」"
+
+msgid "Ryuuji「I'll remember.」"
+msgstr "Ryuuji「Lo recordaré.」"
+
+msgid "Ryuuji「（I'm happy with this outcome......＿Actually, I'm sure this would have＿happened no matter what. Just like）」"
+msgstr "Ryuuji「（Estoy contento con este resultado......＿De hecho, seguro habría pasado de＿todos modos. Tal como）」"
+
+msgid "Ryuuji「（she said......）」"
+msgstr "Ryuuji「（ella dijo......）」"

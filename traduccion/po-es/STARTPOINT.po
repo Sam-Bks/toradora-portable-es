@@ -1,0 +1,4084 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Toradora! Portable ES\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Scene: STARTPOINT\n"
+
+msgid "『ページジャンプ』"
+msgstr "『Saltar a página』"
+
+msgid "\t『ＭＰ』"
+msgstr "\t『ＭＰ』"
+
+msgid "『フラグ管理』"
+msgstr "『Gestión de flags』"
+
+msgid "『ＥＤムービー』"
+msgstr "『Video ＥＤ』"
+
+msgid "『０～』"
+msgstr "『０～』"
+
+msgid "\t『Ａ～』"
+msgstr "\t『Ａ～』"
+
+msgid "\t『Ｂ～』"
+msgstr "\t『Ｂ～』"
+
+msgid "\t『Ｃ～』"
+msgstr "\t『Ｃ～』"
+
+msgid "\t『Ｄ～』"
+msgstr "\t『Ｄ～』"
+
+msgid "\t『戻る』"
+msgstr "\t『Volver』"
+
+msgid "『_001～』"
+msgstr "『_001～』"
+
+msgid "『_002～』"
+msgstr "『_002～』"
+
+msgid "『_003～』"
+msgstr "『_003～』"
+
+msgid "『戻る』"
+msgstr "『Volver』"
+
+msgid "『_A0～』"
+msgstr "『_A0～』"
+
+msgid "『_A1～』"
+msgstr "『_A1～』"
+
+msgid "『_A2～』"
+msgstr "『_A2～』"
+
+msgid "『_A3～』"
+msgstr "『_A3～』"
+
+msgid "『戻る』"
+msgstr "『Volver』"
+
+msgid "『_B0～』"
+msgstr "『_B0～』"
+
+msgid "『_B1～』"
+msgstr "『_B1～』"
+
+msgid "『_B2～』"
+msgstr "『_B2～』"
+
+msgid "『_B3～』"
+msgstr "『_B3～』"
+
+msgid "『戻る』"
+msgstr "『Volver』"
+
+msgid "\t『⇒ページ２』"
+msgstr "\t『⇒Página ２』"
+
+msgid "『_0000ESS1：プロローグ』"
+msgstr "『_0000ESS1：Prólogo』"
+
+msgid "『_0010ESS0：帰宅』"
+msgstr "『_0010ESS0：Regreso a casa』"
+
+msgid "『_0011AAA0：なし』"
+msgstr "『_0011AAA0：Ninguna』"
+
+msgid "『_0011AMI0：接近遭遇』"
+msgstr "『_0011AMI0：Encuentro cercano』"
+
+msgid "『_0011HAR0：相変わらずな俺ら』"
+msgstr "『_0011HAR0：Nosotros como siempre』"
+
+msgid "『戻る』"
+msgstr "『Volver』"
+
+msgid "\t『⇒ページ３』"
+msgstr "\t『⇒Página ３』"
+
+msgid "『_0011KOH0：不幸体質』"
+msgstr "『_0011KOH0：Propenso a la mala suerte』"
+
+msgid "『_0011KTM0：最高の賛辞』"
+msgstr "『_0011KTM0：El mayor elogio』"
+
+msgid "『_0011SAK0：ここだけ常春』"
+msgstr "『_0011SAK0：Solo aquí siempre es primavera』"
+
+msgid "『_0011YUR0：覚悟未完了』"
+msgstr "『_0011YUR0：Aún sin estar preparado』"
+
+msgid "『_0012AAA0：なし』"
+msgstr "『_0012AAA0：Ninguna』"
+
+msgid "\t『⇒ページ１』"
+msgstr "\t『⇒Página １』"
+
+msgid "\t『⇒ページ４』"
+msgstr "\t『⇒Página ４』"
+
+msgid "『_0012TIG0：危急存亡の年末』"
+msgstr "『_0012TIG0：Un fin de año de vida o muerte』"
+
+msgid "『_0013AAA0：なし』"
+msgstr "『_0013AAA0：Ninguna』"
+
+msgid "『_0013MIN0：再会』"
+msgstr "『_0013MIN0：Reencuentro』"
+
+msgid "『_0016ESS0：インコちゃんと……』"
+msgstr "『_0016ESS0：Con Inko-chan……』"
+
+msgid "『_0016ESS1：インコちゃんと……』"
+msgstr "『_0016ESS1：Con Inko-chan……』"
+
+msgid "\t『⇒ページ２』"
+msgstr "\t『⇒Página ２』"
+
+msgid "\t『⇒ページ５』"
+msgstr "\t『⇒Página ５』"
+
+msgid "『_0016ESS2：インコちゃんと……』"
+msgstr "『_0016ESS2：Con Inko-chan……』"
+
+msgid "『_0016ESS3：インコちゃんと……』"
+msgstr "『_0016ESS3：Con Inko-chan……』"
+
+msgid "『_0016ESS4：インコちゃんと……』"
+msgstr "『_0016ESS4：Con Inko-chan……』"
+
+msgid "『_0020ESS0：胸騒ぎの朝』"
+msgstr "『_0020ESS0：Una mañana inquietante』"
+
+msgid "『_0021AAA0：なし』"
+msgstr "『_0021AAA0：Ninguna』"
+
+msgid "\t『⇒ページ３』"
+msgstr "\t『⇒Página ３』"
+
+msgid "\t『⇒ページ６』"
+msgstr "\t『⇒Página ６』"
+
+msgid "『_0021HAR0：嬉しくないプレゼント』"
+msgstr "『_0021HAR0：Un regalo poco grato』"
+
+msgid "『_0021KTM0：悪の生徒会長・見参』"
+msgstr "『_0021KTM0：El malvado presidente estudiantil aparece』"
+
+msgid "『_0021KTM6：探訪・大橋高校』"
+msgstr "『_0021KTM6：De visita・Preparatoria Ohashi』"
+
+msgid "『_0021MIN0：おばあちゃんの家へ』"
+msgstr "『_0021MIN0：A casa de la abuela』"
+
+msgid "『_0021MIN1：おばあちゃんの家へ』"
+msgstr "『_0021MIN1：A casa de la abuela』"
+
+msgid "\t『⇒ページ４』"
+msgstr "\t『⇒Página ４』"
+
+msgid "\t『⇒ページ７』"
+msgstr "\t『⇒Página ７』"
+
+msgid "『_0021MIN2：おばあちゃんの家へ』"
+msgstr "『_0021MIN2：A casa de la abuela』"
+
+msgid "『_0021MIN3：おばあちゃんの家へ』"
+msgstr "『_0021MIN3：A casa de la abuela』"
+
+msgid "『_0021MIN4：おばあちゃんの家へ』"
+msgstr "『_0021MIN4：A casa de la abuela』"
+
+msgid "『_0021MIN9：おばあちゃんの家へ』"
+msgstr "『_0021MIN9：A casa de la abuela』"
+
+msgid "『_0021YUR0：独身・電話中』"
+msgstr "『_0021YUR0：La soltera・Al teléfono』"
+
+msgid "\t『⇒ページ５』"
+msgstr "\t『⇒Página ５』"
+
+msgid "\t『⇒ページ８』"
+msgstr "\t『⇒Página ８』"
+
+msgid "『_0022AAA0：なし』"
+msgstr "『_0022AAA0：Ninguna』"
+
+msgid "『_0022AMI0：忘れちゃった？』"
+msgstr "『_0022AMI0：Lo olvidaste?』"
+
+msgid "『_0022NOT0：文化祭の思い出』"
+msgstr "『_0022NOT0：Recuerdos del festival cultural』"
+
+msgid "『_0022TIG0：大河の部屋は……』"
+msgstr "『_0022TIG0：La habitación de Taiga……』"
+
+msgid "『_0022YAS0：毘沙門天国へようこそ』"
+msgstr "『_0022YAS0：Bienvenido a Bishamontengoku』"
+
+msgid "\t『⇒ページ６』"
+msgstr "\t『⇒Página ６』"
+
+msgid "\t『⇒ページ９』"
+msgstr "\t『⇒Página ９』"
+
+msgid "『_0022YAS1：毘沙門天国へようこそ』"
+msgstr "『_0022YAS1：Bienvenido a Bishamontengoku』"
+
+msgid "『_0022YAS2：毘沙門天国へようこそ』"
+msgstr "『_0022YAS2：Bienvenido a Bishamontengoku』"
+
+msgid "『_0022YAS3：毘沙門天国へようこそ』"
+msgstr "『_0022YAS3：Bienvenido a Bishamontengoku』"
+
+msgid "『_0022YAS4：毘沙門天国へようこそ』"
+msgstr "『_0022YAS4：Bienvenido a Bishamontengoku』"
+
+msgid "『_0023ESS0：大河の願いごと』"
+msgstr "『_0023ESS0：El deseo de Taiga』"
+
+msgid "\t『⇒ページ７』"
+msgstr "\t『⇒Página ７』"
+
+msgid "\t『⇒ページ１０』"
+msgstr "\t『⇒Página １０』"
+
+msgid "『_0023ESS4：気がかりなのは……』"
+msgstr "『_0023ESS4：Lo que me preocupa……』"
+
+msgid "『_0024ESS0：二人きりの初詣』"
+msgstr "『_0024ESS0：Primera visita al santuario a solas』"
+
+msgid "『_0024ESS1：二人きりの初詣』"
+msgstr "『_0024ESS1：Primera visita al santuario a solas』"
+
+msgid "『_0024ESS2：二人きりの初詣』"
+msgstr "『_0024ESS2：Primera visita al santuario a solas』"
+
+msgid "『_0024ESS3：二人きりの初詣』"
+msgstr "『_0024ESS3：Primera visita al santuario a solas』"
+
+msgid "\t『⇒ページ８』"
+msgstr "\t『⇒Página ８』"
+
+msgid "\t『⇒ページ１１』"
+msgstr "\t『⇒Página １１』"
+
+msgid "『_0024ESS4：二人きりの初詣』"
+msgstr "『_0024ESS4：Primera visita al santuario a solas』"
+
+msgid "『_0025ESS0：インコちゃんに……』"
+msgstr "『_0025ESS0：A Inko-chan……』"
+
+msgid "『_0025ESS1：インコちゃんに……』"
+msgstr "『_0025ESS1：A Inko-chan……』"
+
+msgid "『_0025ESS2：インコちゃんに……』"
+msgstr "『_0025ESS2：A Inko-chan……』"
+
+msgid "『_0025ESS3：インコちゃんに……』"
+msgstr "『_0025ESS3：A Inko-chan……』"
+
+msgid "\t『⇒ページ９』"
+msgstr "\t『⇒Página ９』"
+
+msgid "\t『⇒ページ１２』"
+msgstr "\t『⇒Página １２』"
+
+msgid "『_0025ESS4：インコちゃんに……』"
+msgstr "『_0025ESS4：A Inko-chan……』"
+
+msgid "『_0030ESS0：ＭＯＴＴＡＩＮＡＩおせち』"
+msgstr "『_0030ESS0：No desperdiciar comida de Año Nuevo』"
+
+msgid "『_0031AAA0：なし』"
+msgstr "『_0031AAA0：Ninguna』"
+
+msgid "『_0031AMI0：亜美のお誘い』"
+msgstr "『_0031AMI0：La invitación de Ami』"
+
+msgid "『_0031HAR0：ハルタは春田』"
+msgstr "『_0031HAR0：Haruta es Haruta』"
+
+msgid "\t『⇒ページ１０』"
+msgstr "\t『⇒Página １０』"
+
+msgid "\t『⇒ページ１３』"
+msgstr "\t『⇒Página １３』"
+
+msgid "『_0031KTM0：ヌーディスト北村』"
+msgstr "『_0031KTM0：Kitamura nudista』"
+
+msgid "『_0031NOT0：偶然にも集合』"
+msgstr "『_0031NOT0：Reunidos por casualidad』"
+
+msgid "『_0032ED10：女神様とデート』"
+msgstr "『_0032ED10：Una cita con la diosa』"
+
+msgid "『_0032ED11：女神様とデート』"
+msgstr "『_0032ED11：Una cita con la diosa』"
+
+msgid "『_0032ED12：女神様とデート』"
+msgstr "『_0032ED12：Una cita con la diosa』"
+
+msgid "\t『⇒ページ１１』"
+msgstr "\t『⇒Página １１』"
+
+msgid "\t『⇒ページ１４』"
+msgstr "\t『⇒Página １４』"
+
+msgid "『_0032ED13：女神様とデート』"
+msgstr "『_0032ED13：Una cita con la diosa』"
+
+msgid "『_0032ED15：女神の正体』"
+msgstr "『_0032ED15：La verdadera identidad de la diosa』"
+
+msgid "『_0032ESS0：男だらけの初詣』"
+msgstr "『_0032ESS0：Primera visita al santuario entre hombres』"
+
+msgid "『_0033AAA0：なし』"
+msgstr "『_0033AAA0：Ninguna』"
+
+msgid "『_0033AMI0：虎ＶＳチワワ』"
+msgstr "『_0033AMI0：Tigre contra chihuahua』"
+
+msgid "\t『⇒ページ１２』"
+msgstr "\t『⇒Página １２』"
+
+msgid "\t『⇒ページ１５』"
+msgstr "\t『⇒Página １５』"
+
+msgid "『_0033MIN0：みんなが集えば』"
+msgstr "『_0033MIN0：Cuando todos se reúnen』"
+
+msgid "『_0033SAK0：元旦も常春』"
+msgstr "『_0033SAK0：También es primavera en Año Nuevo』"
+
+msgid "『_0033YUR0：独身の願いごと』"
+msgstr "『_0033YUR0：El deseo de la soltera』"
+
+msgid "『_0034ESS0：楽しい時間は過ぎて』"
+msgstr "『_0034ESS0：Terminan los momentos felices』"
+
+msgid "『_0034ESS1：大河の異変』"
+msgstr "『_0034ESS1：Algo le pasa a Taiga』"
+
+msgid "\t『⇒ページ１３』"
+msgstr "\t『⇒Página １３』"
+
+msgid "\t『⇒ページ１６』"
+msgstr "\t『⇒Página １６』"
+
+msgid "『_0035AAA0：なし』"
+msgstr "『_0035AAA0：Ninguna』"
+
+msgid "『_0035MIN0：大河を追いかけろ』"
+msgstr "『_0035MIN0：Ve tras Taiga』"
+
+msgid "『_0035TIG0：記憶の中のクマ』"
+msgstr "『_0035TIG0：El oso de mis recuerdos』"
+
+msgid "『_0035TIG1：虎の怒り』"
+msgstr "『_0035TIG1：La ira del Tigre』"
+
+msgid "『_0035YAS0：いろいろ大変』"
+msgstr "『_0035YAS0：Problemas por todas partes』"
+
+msgid "\t『⇒ページ１４』"
+msgstr "\t『⇒Página １４』"
+
+msgid "\t『⇒ページ１７』"
+msgstr "\t『⇒Página １７』"
+
+msgid "『_0036ESS1：お先に失礼』"
+msgstr "『_0036ESS1：Con permiso me retiro』"
+
+msgid "『_0037ED10：真夜中のＳＯＳ』"
+msgstr "『_0037ED10：SOS a medianoche』"
+
+msgid "『_0037ED11：真夜中のＳＯＳ』"
+msgstr "『_0037ED11：SOS a medianoche』"
+
+msgid "『_0037ED12：真夜中のＳＯＳ』"
+msgstr "『_0037ED12：SOS a medianoche』"
+
+msgid "『_0037ED13：真夜中のＳＯＳ』"
+msgstr "『_0037ED13：SOS a medianoche』"
+
+msgid "\t『⇒ページ１５』"
+msgstr "\t『⇒Página １５』"
+
+msgid "\t『⇒ページ１８』"
+msgstr "\t『⇒Página １８』"
+
+msgid "『_0037ED14：真夜中のＳＯＳ』"
+msgstr "『_0037ED14：SOS a medianoche』"
+
+msgid "『_0037ED15：この胸のときめきを』"
+msgstr "『_0037ED15：Este latido en mi pecho』"
+
+msgid "『_0037ESS0：インコちゃんの……』"
+msgstr "『_0037ESS0：De Inko-chan……』"
+
+msgid "『_0037ESS1：インコちゃんの……』"
+msgstr "『_0037ESS1：De Inko-chan……』"
+
+msgid "『_0037ESS2：インコちゃんの……』"
+msgstr "『_0037ESS2：De Inko-chan……』"
+
+msgid "\t『⇒ページ１６』"
+msgstr "\t『⇒Página １６』"
+
+msgid "\t『⇒ページ１９』"
+msgstr "\t『⇒Página １９』"
+
+msgid "『_0037ESS3：インコちゃんの……』"
+msgstr "『_0037ESS3：De Inko-chan……』"
+
+msgid "『_0037ESS4：インコちゃんの……』"
+msgstr "『_0037ESS4：De Inko-chan……』"
+
+msgid "『_A040ESS0：犬の見る夢』"
+msgstr "『_A040ESS0：El sueño de un perro』"
+
+msgid "『_A041AAA0：なし』"
+msgstr "『_A041AAA0：Ninguna』"
+
+msgid "『_A041HAR0：初夢の女の子』"
+msgstr "『_A041HAR0：La chica del primer sueño del año』"
+
+msgid "\t『⇒ページ１７』"
+msgstr "\t『⇒Página １７』"
+
+msgid "\t『⇒ページ２０』"
+msgstr "\t『⇒Página ２０』"
+
+msgid "『_A041SAK0：嵐の前のサクラ吹雪』"
+msgstr "『_A041SAK0：Lluvia de pétalos de cerezo antes de la tormenta』"
+
+msgid "『_A041YUR0：三十路女の正月』"
+msgstr "『_A041YUR0：Año Nuevo de una treintañera』"
+
+msgid "『_A042ESS0：かの人、現る』"
+msgstr "『_A042ESS0：Esa persona,aparece』"
+
+msgid "『_A043AAA0：なし』"
+msgstr "『_A043AAA0：Ninguna』"
+
+msgid "『_A043KTM0：恋心傷心』"
+msgstr "『_A043KTM0：Un corazón enamorado y herido』"
+
+msgid "\t『⇒ページ１８』"
+msgstr "\t『⇒Página １８』"
+
+msgid "\t『⇒ページ２１』"
+msgstr "\t『⇒Página ２１』"
+
+msgid "『_A043NOT0：福来たる』"
+msgstr "『_A043NOT0：Llega la buena suerte』"
+
+msgid "『_A043YAS0：願いを込めて』"
+msgstr "『_A043YAS0：Con un deseo』"
+
+msgid "『_A044AAA0：なし』"
+msgstr "『_A044AAA0：Ninguna』"
+
+msgid "『_A044AMI0：愛の女神』"
+msgstr "『_A044AMI0：La diosa del amor』"
+
+msgid "『_A044AMI1：愛の女神』"
+msgstr "『_A044AMI1：La diosa del amor』"
+
+msgid "\t『⇒ページ１９』"
+msgstr "\t『⇒Página １９』"
+
+msgid "\t『⇒ページ２２』"
+msgstr "\t『⇒Página ２２』"
+
+msgid "『_A044AMI2：愛の女神』"
+msgstr "『_A044AMI2：La diosa del amor』"
+
+msgid "『_A044AMI3：愛の女神』"
+msgstr "『_A044AMI3：La diosa del amor』"
+
+msgid "『_A044AMI4：愛の女神』"
+msgstr "『_A044AMI4：La diosa del amor』"
+
+msgid "『_A045ESS0：あなたのために』"
+msgstr "『_A045ESS0：Por ti』"
+
+msgid "『_A046ESS0：インコちゃんは……』"
+msgstr "『_A046ESS0：Inko-chan……』"
+
+msgid "\t『⇒ページ２０』"
+msgstr "\t『⇒Página ２０』"
+
+msgid "\t『⇒ページ２３』"
+msgstr "\t『⇒Página ２３』"
+
+msgid "『_A046ESS1：インコちゃんは……』"
+msgstr "『_A046ESS1：Inko-chan……』"
+
+msgid "『_A046ESS2：インコちゃんは……』"
+msgstr "『_A046ESS2：Inko-chan……』"
+
+msgid "『_A046ESS3：インコちゃんは……』"
+msgstr "『_A046ESS3：Inko-chan……』"
+
+msgid "『_A046ESS4：インコちゃんは……』"
+msgstr "『_A046ESS4：Inko-chan……』"
+
+msgid "『_A050ESS0：愛しい人』"
+msgstr "『_A050ESS0：La persona amada』"
+
+msgid "\t『⇒ページ２１』"
+msgstr "\t『⇒Página ２１』"
+
+msgid "\t『⇒ページ２４』"
+msgstr "\t『⇒Página ２４』"
+
+msgid "『_A051AAA0：なし』"
+msgstr "『_A051AAA0：Ninguna』"
+
+msgid "『_A051AMI0：友情の選択』"
+msgstr "『_A051AMI0：Una decisión por amistad』"
+
+msgid "『_A052AAA0：なし』"
+msgstr "『_A052AAA0：Ninguna』"
+
+msgid "『_A052NOT0：福落ちる』"
+msgstr "『_A052NOT0：Se pierde la buena suerte』"
+
+msgid "『_A052SAK0：やっぱり常春』"
+msgstr "『_A052SAK0：Como siempre es primavera』"
+
+msgid "\t『⇒ページ２２』"
+msgstr "\t『⇒Página ２２』"
+
+msgid "\t『⇒ページ２５』"
+msgstr "\t『⇒Página ２５』"
+
+msgid "『_A052TIG0：キューピッド誕生』"
+msgstr "『_A052TIG0：Nace Cupido』"
+
+msgid "『_A052TIG4：再び作戦会議』"
+msgstr "『_A052TIG4：Otra reunión de estrategia』"
+
+msgid "『_A052YUR0：奥さん？』"
+msgstr "『_A052YUR0：Esposa?』"
+
+msgid "『_A053ESS0：ヴィーナス大作戦！』"
+msgstr "『_A053ESS0：Operación Venus!』"
+
+msgid "『_A054AAA0：なし』"
+msgstr "『_A054AAA0：Ninguna』"
+
+msgid "\t『⇒ページ２３』"
+msgstr "\t『⇒Página ２３』"
+
+msgid "\t『⇒ページ２６』"
+msgstr "\t『⇒Página ２６』"
+
+msgid "『_A054HAR0：宇宙の神秘』"
+msgstr "『_A054HAR0：Los misterios del universo』"
+
+msgid "『_A054KOH0：幸太にヴィーナス大作戦！』"
+msgstr "『_A054KOH0：Operación Venus para Kota!』"
+
+msgid "『_A054KTM0：北村にヴィーナス大作戦！』"
+msgstr "『_A054KTM0：Operación Venus para Kitamura!』"
+
+msgid "『_A054NOT0：霊捕獲計画』"
+msgstr "『_A054NOT0：Plan para capturar un espíritu』"
+
+msgid "『_A054YAS0：恋路の邪魔？』"
+msgstr "『_A054YAS0：Un obstáculo para el amor?』"
+
+msgid "\t『⇒ページ２４』"
+msgstr "\t『⇒Página ２４』"
+
+msgid "\t『⇒ページ２７』"
+msgstr "\t『⇒Página ２７』"
+
+msgid "『_A055AAA0：なし』"
+msgstr "『_A055AAA0：Ninguna』"
+
+msgid "『_A055SAK0：彼女のつとめ』"
+msgstr "『_A055SAK0：Su deber』"
+
+msgid "『_A055SUM0：兄貴をゲットせよ』"
+msgstr "『_A055SUM0：Conquista al Hermano Mayor』"
+
+msgid "『_A055TIG0：過多、想い』"
+msgstr "『_A055TIG0：Demasiados,sentimientos』"
+
+msgid "『_A055TIG1：過多、想い』"
+msgstr "『_A055TIG1：Demasiados,sentimientos』"
+
+msgid "\t『⇒ページ２５』"
+msgstr "\t『⇒Página ２５』"
+
+msgid "\t『⇒ページ２８』"
+msgstr "\t『⇒Página ２８』"
+
+msgid "『_A055TIG2：過多、想い』"
+msgstr "『_A055TIG2：Demasiados,sentimientos』"
+
+msgid "『_A055TIG3：過多、想い』"
+msgstr "『_A055TIG3：Demasiados,sentimientos』"
+
+msgid "『_A055TIG4：過多、想い』"
+msgstr "『_A055TIG4：Demasiados,sentimientos』"
+
+msgid "『_A056ESS0：作戦前夜』"
+msgstr "『_A056ESS0：La víspera de la operación』"
+
+msgid "『_A057ESS0：インコちゃんも……』"
+msgstr "『_A057ESS0：También Inko-chan……』"
+
+msgid "\t『⇒ページ２６』"
+msgstr "\t『⇒Página ２６』"
+
+msgid "\t『⇒ページ２９』"
+msgstr "\t『⇒Página ２９』"
+
+msgid "『_A057ESS1：インコちゃんも……』"
+msgstr "『_A057ESS1：También Inko-chan……』"
+
+msgid "『_A057ESS2：インコちゃんも……』"
+msgstr "『_A057ESS2：También Inko-chan……』"
+
+msgid "『_A057ESS3：インコちゃんも……』"
+msgstr "『_A057ESS3：También Inko-chan……』"
+
+msgid "『_A057ESS4：インコちゃんも……』"
+msgstr "『_A057ESS4：También Inko-chan……』"
+
+msgid "『_A160ESS0：その男、急病につき』"
+msgstr "『_A160ESS0：Ese hombre,enfermo de repente』"
+
+msgid "\t『⇒ページ２７』"
+msgstr "\t『⇒Página ２７』"
+
+msgid "\t『⇒ページ３０』"
+msgstr "\t『⇒Página ３０』"
+
+msgid "『_A161AAA0：なし』"
+msgstr "『_A161AAA0：Ninguna』"
+
+msgid "『_A161AMI0：決行直前』"
+msgstr "『_A161AMI0：Justo antes de actuar』"
+
+msgid "『_A162ESS0：それぞれの想い』"
+msgstr "『_A162ESS0：Los sentimientos de cada uno』"
+
+msgid "『_A163AAA0：なし』"
+msgstr "『_A163AAA0：Ninguna』"
+
+msgid "『_A163TIG0：願い。』"
+msgstr "『_A163TIG0：Un deseo.』"
+
+msgid "\t『⇒ページ２８』"
+msgstr "\t『⇒Página ２８』"
+
+msgid "\t『⇒ページ３１』"
+msgstr "\t『⇒Página ３１』"
+
+msgid "『_A163YUR0：インコと独身と竜児』"
+msgstr "『_A163YUR0：Inko y la soltera y Ryuuji』"
+
+msgid "『_A190ESS0：君のいない朝』"
+msgstr "『_A190ESS0：Una mañana sin ti』"
+
+msgid "『_A192AAA0：なし』"
+msgstr "『_A192AAA0：Ninguna』"
+
+msgid "『_A192AMI0：ココロのスキマ』"
+msgstr "『_A192AMI0：Un vacío en el corazón』"
+
+msgid "『_A192HAR0：容疑者確保』"
+msgstr "『_A192HAR0：Sospechoso detenido』"
+
+msgid "\t『⇒ページ２９』"
+msgstr "\t『⇒Página ２９』"
+
+msgid "\t『⇒ページ３２』"
+msgstr "\t『⇒Página ３２』"
+
+msgid "『_A192MIN0：イブの出来事』"
+msgstr "『_A192MIN0：Lo ocurrido en Nochebuena』"
+
+msgid "『_A192SUM0：過去の人、未来の人』"
+msgstr "『_A192SUM0：Una persona del pasado, una del futuro』"
+
+msgid "『_A192YUR0：独りで生きる貴女の保険』"
+msgstr "『_A192YUR0：Un seguro para ti que vives sola』"
+
+msgid "『_A193AAA0：なし』"
+msgstr "『_A193AAA0：Ninguna』"
+
+msgid "『_A193KTM0：告白』"
+msgstr "『_A193KTM0：Confesión』"
+
+msgid "\t『⇒ページ３０』"
+msgstr "\t『⇒Página ３０』"
+
+msgid "\t『⇒ページ３３』"
+msgstr "\t『⇒Página ３３』"
+
+msgid "『_A261AAA0：なし』"
+msgstr "『_A261AAA0：Ninguna』"
+
+msgid "『_A262ESS0：そして、再会』"
+msgstr "『_A262ESS0：Y entonces,el reencuentro』"
+
+msgid "『_A263AAA0：なし』"
+msgstr "『_A263AAA0：Ninguna』"
+
+msgid "『_A263SUM0：繰り返す恋心』"
+msgstr "『_A263SUM0：El amor que vuelve』"
+
+msgid "『_A263SUM1：繰り返す恋心』"
+msgstr "『_A263SUM1：El amor que vuelve』"
+
+msgid "\t『⇒ページ３１』"
+msgstr "\t『⇒Página ３１』"
+
+msgid "\t『⇒ページ３４』"
+msgstr "\t『⇒Página ３４』"
+
+msgid "『_A263SUM2：繰り返す恋心』"
+msgstr "『_A263SUM2：El amor que vuelve』"
+
+msgid "『_A263SUM3：繰り返す恋心』"
+msgstr "『_A263SUM3：El amor que vuelve』"
+
+msgid "『_A263SUM4：繰り返す恋心』"
+msgstr "『_A263SUM4：El amor que vuelve』"
+
+msgid "『_A264ESS0：作戦失敗』"
+msgstr "『_A264ESS0：Operación fallida』"
+
+msgid "『_A290ESS0：始業式の朝』"
+msgstr "『_A290ESS0：La mañana de la ceremonia de inicio』"
+
+msgid "\t『⇒ページ３２』"
+msgstr "\t『⇒Página ３２』"
+
+msgid "\t『⇒ページ３５』"
+msgstr "\t『⇒Página ３５』"
+
+msgid "『_A291AAA0：なし』"
+msgstr "『_A291AAA0：Ninguna』"
+
+msgid "『_A291SAK0：学校でも常春』"
+msgstr "『_A291SAK0：También es primavera en la escuela』"
+
+msgid "『_A291SUM0：その朝、生徒会室で』"
+msgstr "『_A291SUM0：Esa mañana, en la sala del consejo』"
+
+msgid "『_A292ED10：腕章の真意』"
+msgstr "『_A292ED10：El significado del brazalete』"
+
+msgid "『_A292ED20：すみれのスカウト』"
+msgstr "『_A292ED20：El reclutamiento de Sumire』"
+
+msgid "\t『⇒ページ３３』"
+msgstr "\t『⇒Página ３３』"
+
+msgid "\t『⇒ページ３６』"
+msgstr "\t『⇒Página ３６』"
+
+msgid "『_A360ESS0：消えたインコちゃん』"
+msgstr "『_A360ESS0：Inko-chan ha desaparecido』"
+
+msgid "『_A361AAA0：なし』"
+msgstr "『_A361AAA0：Ninguna』"
+
+msgid "『_A361AMI0：亜美・ご立腹』"
+msgstr "『_A361AMI0：Ami・Furiosa』"
+
+msgid "『_A361HAR0：すれ違いの二人・春田編』"
+msgstr "『_A361HAR0：Dos personas que no se entienden・Haruta』"
+
+msgid "『_A361KTM0：疑いの眼差し』"
+msgstr "『_A361KTM0：Una mirada de sospecha』"
+
+msgid "\t『⇒ページ３４』"
+msgstr "\t『⇒Página ３４』"
+
+msgid "\t『⇒ページ３７』"
+msgstr "\t『⇒Página ３７』"
+
+msgid "『_A361NOT0：すれ違いの二人・能登編』"
+msgstr "『_A361NOT0：Dos personas que no se entienden・Noto』"
+
+msgid "『_A362AAA0：なし』"
+msgstr "『_A362AAA0：Ninguna』"
+
+msgid "『_A362YUR0：運命の出会い』"
+msgstr "『_A362YUR0：Un encuentro del destino』"
+
+msgid "『_A364ED10：比翼の鳥』"
+msgstr "『_A364ED10：Aves que comparten sus alas』"
+
+msgid "『_B040ESS0：あけまして・・・からっ！？』"
+msgstr "『_B040ESS0：Feliz Año Nuevo・・・vacío!?』"
+
+msgid "\t『⇒ページ３５』"
+msgstr "\t『⇒Página ３５』"
+
+msgid "\t『⇒ページ３８』"
+msgstr "\t『⇒Página ３８』"
+
+msgid "『_B041AAA0：なし』"
+msgstr "『_B041AAA0：Ninguna』"
+
+msgid "『_B041KOH0：初売りセールで会ったのは』"
+msgstr "『_B041KOH0：A quién encontré en las primeras rebajas』"
+
+msgid "『_B041KTM0：遠くの神社より近くの大明神』"
+msgstr "『_B041KTM0：Mejor una deidad cerca que un santuario lejos』"
+
+msgid "『_B044AAA0：なし』"
+msgstr "『_B044AAA0：Ninguna』"
+
+msgid "『_B044AMI0：年始の挨拶は一年の基本』"
+msgstr "『_B044AMI0：El saludo de Año Nuevo es la base』"
+
+msgid "\t『⇒ページ３６』"
+msgstr "\t『⇒Página ３６』"
+
+msgid "\t『⇒ページ３９』"
+msgstr "\t『⇒Página ３９』"
+
+msgid "『_B045AAA0：なし』"
+msgstr "『_B045AAA0：Ninguna』"
+
+msgid "『_B045NOT0：意外とリッチな能登』"
+msgstr "『_B045NOT0：Noto es más rico de lo que parece』"
+
+msgid "『_B045TIG0：後戻りはＮＯ』"
+msgstr "『_B045TIG0：No hay vuelta atrás』"
+
+msgid "『_B046ESS0：自覚できない想い』"
+msgstr "『_B046ESS0：Sentimientos aún no reconocidos』"
+
+msgid "『_B047ESS0：インコちゃんを……』"
+msgstr "『_B047ESS0：A Inko-chan……』"
+
+msgid "\t『⇒ページ３７』"
+msgstr "\t『⇒Página ３７』"
+
+msgid "\t『⇒ページ４０』"
+msgstr "\t『⇒Página ４０』"
+
+msgid "『_B047ESS1：インコちゃんを……』"
+msgstr "『_B047ESS1：A Inko-chan……』"
+
+msgid "『_B047ESS2：インコちゃんを……』"
+msgstr "『_B047ESS2：A Inko-chan……』"
+
+msgid "『_B047ESS3：インコちゃんを……』"
+msgstr "『_B047ESS3：A Inko-chan……』"
+
+msgid "『_B047ESS4：インコちゃんを……』"
+msgstr "『_B047ESS4：A Inko-chan……』"
+
+msgid "『_B050ESS0：いつもとは違う朝』"
+msgstr "『_B050ESS0：Una mañana distinta』"
+
+msgid "\t『⇒ページ３８』"
+msgstr "\t『⇒Página ３８』"
+
+msgid "\t『⇒ページ４１』"
+msgstr "\t『⇒Página ４１』"
+
+msgid "『_B051AAA0：なし』"
+msgstr "『_B051AAA0：Ninguna』"
+
+msgid "『_B051AMI0：意外なかたちで全員集合！』"
+msgstr "『_B051AMI0：Todos reunidos de forma inesperada!』"
+
+msgid "『_B051NOT0：駅前に全員集合！』"
+msgstr "『_B051NOT0：Todos reunidos frente a la estación!』"
+
+msgid "『_B051YUR0：独身の正月の過ごし方』"
+msgstr "『_B051YUR0：Cómo pasa el Año Nuevo una soltera』"
+
+msgid "『_B052ESS0：午前はジムで汗をかこう』"
+msgstr "『_B052ESS0：A sudar en el gimnasio por la mañana』"
+
+msgid "\t『⇒ページ３９』"
+msgstr "\t『⇒Página ３９』"
+
+msgid "\t『⇒ページ４２』"
+msgstr "\t『⇒Página ４２』"
+
+msgid "『_B054AMI0：おしゃべりしましょ』"
+msgstr "『_B054AMI0：Vamos a charlar』"
+
+msgid "『_B054AMI1：おしゃべりしましょ』"
+msgstr "『_B054AMI1：Vamos a charlar』"
+
+msgid "『_B054AMI2：おしゃべりしましょ』"
+msgstr "『_B054AMI2：Vamos a charlar』"
+
+msgid "『_B054AMI3：おしゃべりしましょ』"
+msgstr "『_B054AMI3：Vamos a charlar』"
+
+msgid "『_B054AMI4：おしゃべりしましょ』"
+msgstr "『_B054AMI4：Vamos a charlar』"
+
+msgid "\t『⇒ページ４０』"
+msgstr "\t『⇒Página ４０』"
+
+msgid "\t『⇒ページ４３』"
+msgstr "\t『⇒Página ４３』"
+
+msgid "『_B054MIN0：鼓動の予感』"
+msgstr "『_B054MIN0：El presagio de un latido』"
+
+msgid "『_B054MIN1：鼓動の予感』"
+msgstr "『_B054MIN1：El presagio de un latido』"
+
+msgid "『_B054MIN2：鼓動の予感』"
+msgstr "『_B054MIN2：El presagio de un latido』"
+
+msgid "『_B054MIN3：鼓動の予感』"
+msgstr "『_B054MIN3：El presagio de un latido』"
+
+msgid "『_B054MIN4：鼓動の予感』"
+msgstr "『_B054MIN4：El presagio de un latido』"
+
+msgid "\t『⇒ページ４１』"
+msgstr "\t『⇒Página ４１』"
+
+msgid "\t『⇒ページ４４』"
+msgstr "\t『⇒Página ４４』"
+
+msgid "『_B054TIG0：大河とプール』"
+msgstr "『_B054TIG0：En la piscina con Taiga』"
+
+msgid "『_B054TIG1：大河とプール』"
+msgstr "『_B054TIG1：En la piscina con Taiga』"
+
+msgid "『_B054TIG2：大河とプール』"
+msgstr "『_B054TIG2：En la piscina con Taiga』"
+
+msgid "『_B054TIG3：大河とプール』"
+msgstr "『_B054TIG3：En la piscina con Taiga』"
+
+msgid "『_B054TIG4：大河とプール』"
+msgstr "『_B054TIG4：En la piscina con Taiga』"
+
+msgid "\t『⇒ページ４２』"
+msgstr "\t『⇒Página ４２』"
+
+msgid "\t『⇒ページ４５』"
+msgstr "\t『⇒Página ４５』"
+
+msgid "『_B055ESS0：真冬の怪談』"
+msgstr "『_B055ESS0：Una historia de fantasmas en invierno』"
+
+msgid "『_B057ESS0：インコちゃんより……』"
+msgstr "『_B057ESS0：De parte de Inko-chan……』"
+
+msgid "『_B057ESS1：インコちゃんより……』"
+msgstr "『_B057ESS1：De parte de Inko-chan……』"
+
+msgid "『_B057ESS2：インコちゃんより……』"
+msgstr "『_B057ESS2：De parte de Inko-chan……』"
+
+msgid "『_B057ESS3：インコちゃんより……』"
+msgstr "『_B057ESS3：De parte de Inko-chan……』"
+
+msgid "\t『⇒ページ４３』"
+msgstr "\t『⇒Página ４３』"
+
+msgid "\t『⇒ページ４６』"
+msgstr "\t『⇒Página ４６』"
+
+msgid "『_B057ESS4：インコちゃんより……』"
+msgstr "『_B057ESS4：De parte de Inko-chan……』"
+
+msgid "『_B060ESS0：衝撃的な事実』"
+msgstr "『_B060ESS0：Una verdad impactante』"
+
+msgid "『_B061AAA0：なし』"
+msgstr "『_B061AAA0：Ninguna』"
+
+msgid "『_B061TIG0：チャーハンの贖罪』"
+msgstr "『_B061TIG0：Expiación con arroz frito』"
+
+msgid "『_B062AAA0：なし』"
+msgstr "『_B062AAA0：Ninguna』"
+
+msgid "\t『⇒ページ４４』"
+msgstr "\t『⇒Página ４４』"
+
+msgid "\t『⇒ページ４７』"
+msgstr "\t『⇒Página ４７』"
+
+msgid "『_B062KOH0：記憶のかけら』"
+msgstr "『_B062KOH0：Fragmentos de recuerdos』"
+
+msgid "『_B062TIG0：転んだ？』"
+msgstr "『_B062TIG0：Te caíste?』"
+
+msgid "『_B064AAA0：なし』"
+msgstr "『_B064AAA0：Ninguna』"
+
+msgid "『_B064AMI0：ぽっけにカイロじゃ足りない夜』"
+msgstr "『_B064AMI0：Noche en que no basta un calentador de bolsillo』"
+
+msgid "『_B064HAR0：春田の肝試し』"
+msgstr "『_B064HAR0：La prueba de valor de Haruta』"
+
+msgid "\t『⇒ページ４５』"
+msgstr "\t『⇒Página ４５』"
+
+msgid "\t『⇒ページ４８』"
+msgstr "\t『⇒Página ４８』"
+
+msgid "『_B064KTM0：ぬかりのないヤツ』"
+msgstr "『_B064KTM0：Un tipo que piensa en todo』"
+
+msgid "『_B065ESS0：肝試しの前に決めること』"
+msgstr "『_B065ESS0：Qué decidir antes de la prueba de valor』"
+
+msgid "『_B166AAA0：なし』"
+msgstr "『_B166AAA0：Ninguna』"
+
+msgid "『_B166MIN0：気持ちのありか』"
+msgstr "『_B166MIN0：Dónde están los sentimientos』"
+
+msgid "『_B166MIN1：気持ちのありか』"
+msgstr "『_B166MIN1：Dónde están los sentimientos』"
+
+msgid "\t『⇒ページ４６』"
+msgstr "\t『⇒Página ４６』"
+
+msgid "\t『⇒ページ４９』"
+msgstr "\t『⇒Página ４９』"
+
+msgid "『_B166MIN2：気持ちのありか』"
+msgstr "『_B166MIN2：Dónde están los sentimientos』"
+
+msgid "『_B166MIN3：気持ちのありか』"
+msgstr "『_B166MIN3：Dónde están los sentimientos』"
+
+msgid "『_B166MIN4：気持ちのありか』"
+msgstr "『_B166MIN4：Dónde están los sentimientos』"
+
+msgid "『_B167ESS0：いざ肝試し！』"
+msgstr "『_B167ESS0：A la prueba de valor!』"
+
+msgid "『_B170ED30：真実への道』"
+msgstr "『_B170ED30：El camino hacia la verdad』"
+
+msgid "\t『⇒ページ４７』"
+msgstr "\t『⇒Página ４７』"
+
+msgid "\t『⇒ページ５０』"
+msgstr "\t『⇒Página ５０』"
+
+msgid "『_B181ESS0：竜児の決断』"
+msgstr "『_B181ESS0：La decisión de Ryuuji』"
+
+msgid "『_B191AAA0：なし』"
+msgstr "『_B191AAA0：Ninguna』"
+
+msgid "『_B191TIG0：過去になった想い』"
+msgstr "『_B191TIG0：Sentimientos del pasado』"
+
+msgid "『_B192AAA0：なし』"
+msgstr "『_B192AAA0：Ninguna』"
+
+msgid "『_B192HAR0：合言葉はＯＫＩＮＡＷＡ』"
+msgstr "『_B192HAR0：La contraseña es OKINAWA』"
+
+msgid "\t『⇒ページ４８』"
+msgstr "\t『⇒Página ４８』"
+
+msgid "\t『⇒ページ５１』"
+msgstr "\t『⇒Página ５１』"
+
+msgid "『_B192KTM0：失恋大明神のおしえ』"
+msgstr "『_B192KTM0：Las enseñanzas de la deidad del desamor』"
+
+msgid "『_B192MIN0：今までと同じように』"
+msgstr "『_B192MIN0：Como hasta ahora』"
+
+msgid "『_B266AAA0：なし』"
+msgstr "『_B266AAA0：Ninguna』"
+
+msgid "『_B266AMI0：嘘と真実』"
+msgstr "『_B266AMI0：Mentiras y verdad』"
+
+msgid "『_B280ESS0：心に浮かぶのは……』"
+msgstr "『_B280ESS0：Lo que viene a mi mente……』"
+
+msgid "\t『⇒ページ４９』"
+msgstr "\t『⇒Página ４９』"
+
+msgid "\t『⇒ページ５２』"
+msgstr "\t『⇒Página ５２』"
+
+msgid "『_B292AAA0：なし』"
+msgstr "『_B292AAA0：Ninguna』"
+
+msgid "『_B292AMI0：気持ちの行方』"
+msgstr "『_B292AMI0：El rumbo de los sentimientos』"
+
+msgid "『_B293ED20：彼女は振り返らずに歩いて行った』"
+msgstr "『_B293ED20：Ella se fue sin mirar atrás』"
+
+msgid "『_B293ED21：彼女は振り返らずに歩いて行った』"
+msgstr "『_B293ED21：Ella se fue sin mirar atrás』"
+
+msgid "『_B293ED22：彼女は振り返らずに歩いて行った』"
+msgstr "『_B293ED22：Ella se fue sin mirar atrás』"
+
+msgid "\t『⇒ページ５０』"
+msgstr "\t『⇒Página ５０』"
+
+msgid "\t『⇒ページ５３』"
+msgstr "\t『⇒Página ５３』"
+
+msgid "『_B293ED23：彼女は振り返らずに歩いて行った』"
+msgstr "『_B293ED23：Ella se fue sin mirar atrás』"
+
+msgid "『_B293ED24：彼女は振り返らずに歩いて行った』"
+msgstr "『_B293ED24：Ella se fue sin mirar atrás』"
+
+msgid "『_B293ED25：コインの数は？』"
+msgstr "『_B293ED25：Cuántas monedas hay?』"
+
+msgid "『_B366AAA0：なし』"
+msgstr "『_B366AAA0：Ninguna』"
+
+msgid "『_B366HAR0：男が２人、深夜……』"
+msgstr "『_B366HAR0：Dos hombres, de noche……』"
+
+msgid "\t『⇒ページ５１』"
+msgstr "\t『⇒Página ５１』"
+
+msgid "\t『⇒ページ５４』"
+msgstr "\t『⇒Página ５４』"
+
+msgid "『_C040ESS0：復活の猛虎』"
+msgstr "『_C040ESS0：El regreso del Tigre feroz』"
+
+msgid "『_C041AAA0：なし』"
+msgstr "『_C041AAA0：Ninguna』"
+
+msgid "『_C041HAR0：不治の病』"
+msgstr "『_C041HAR0：Una enfermedad incurable』"
+
+msgid "『_C041KTM0：ピュア・ホワイト』"
+msgstr "『_C041KTM0：Blanco・puro』"
+
+msgid "『_C041MIN0：迷宮の猛虎』"
+msgstr "『_C041MIN0：El Tigre feroz del laberinto』"
+
+msgid "\t『⇒ページ５２』"
+msgstr "\t『⇒Página ５２』"
+
+msgid "\t『⇒ページ５５』"
+msgstr "\t『⇒Página ５５』"
+
+msgid "『_C042AAA0：なし』"
+msgstr "『_C042AAA0：Ninguna』"
+
+msgid "『_C042AMI0：愛され体質？』"
+msgstr "『_C042AMI0：Fácil de querer?』"
+
+msgid "『_C042NOT0：やっぱり取扱注意』"
+msgstr "『_C042NOT0：Siempre hay que tratarlo con cuidado』"
+
+msgid "『_C042SAK0：天敵の天敵』"
+msgstr "『_C042SAK0：El enemigo de mi enemigo natural』"
+
+msgid "『_C043ESS0：離陸準備』"
+msgstr "『_C043ESS0：Preparativos para el despegue』"
+
+msgid "\t『⇒ページ５３』"
+msgstr "\t『⇒Página ５３』"
+
+msgid "\t『⇒ページ５６』"
+msgstr "\t『⇒Página ５６』"
+
+msgid "『_C044ESS0：混沌と再生』"
+msgstr "『_C044ESS0：Caos y renacimiento』"
+
+msgid "『_C046ESS0：インコちゃんが……』"
+msgstr "『_C046ESS0：Inko-chan……』"
+
+msgid "『_C046ESS1：インコちゃんが……』"
+msgstr "『_C046ESS1：Inko-chan……』"
+
+msgid "『_C046ESS2：インコちゃんが……』"
+msgstr "『_C046ESS2：Inko-chan……』"
+
+msgid "『_C046ESS3：インコちゃんが……』"
+msgstr "『_C046ESS3：Inko-chan……』"
+
+msgid "\t『⇒ページ５４』"
+msgstr "\t『⇒Página ５４』"
+
+msgid "\t『⇒ページ５７』"
+msgstr "\t『⇒Página ５７』"
+
+msgid "『_C046ESS4：インコちゃんが……』"
+msgstr "『_C046ESS4：Inko-chan……』"
+
+msgid "『_C050ESS0：着信』"
+msgstr "『_C050ESS0：Llamada entrante』"
+
+msgid "『_C051AAA0：なし』"
+msgstr "『_C051AAA0：Ninguna』"
+
+msgid "『_C051MIN0：スウィング・アウト』"
+msgstr "『_C051MIN0：Bateo・Fuera』"
+
+msgid "『_C051TIG0：愁嘆の猛虎』"
+msgstr "『_C051TIG0：El Tigre feroz afligido』"
+
+msgid "\t『⇒ページ５５』"
+msgstr "\t『⇒Página ５５』"
+
+msgid "\t『⇒ページ５８』"
+msgstr "\t『⇒Página ５８』"
+
+msgid "『_C051YUR0：溺れし者』"
+msgstr "『_C051YUR0：Quien se ahoga』"
+
+msgid "『_C053AAA0：なし』"
+msgstr "『_C053AAA0：Ninguna』"
+
+msgid "『_C053AMI0：ピュア・ブラック』"
+msgstr "『_C053AMI0：Negro・puro』"
+
+msgid "『_C053HAR0：遥かなる群馬』"
+msgstr "『_C053HAR0：La lejana Gunma』"
+
+msgid "『_C053KOH0：未確認飛翔体』"
+msgstr "『_C053KOH0：Objeto volador no identificado』"
+
+msgid "\t『⇒ページ５６』"
+msgstr "\t『⇒Página ５６』"
+
+msgid "\t『⇒ページ５９』"
+msgstr "\t『⇒Página ５９』"
+
+msgid "『_C053NOT0：策士能登？』"
+msgstr "『_C053NOT0：Noto el estratega?』"
+
+msgid "『_C054AAA0：なし』"
+msgstr "『_C054AAA0：Ninguna』"
+
+msgid "『_C054KTM0：いつかの約束』"
+msgstr "『_C054KTM0：Una promesa de otro tiempo』"
+
+msgid "『_C056AAA0：なし』"
+msgstr "『_C056AAA0：Ninguna』"
+
+msgid "『_C056MIN0：リターン・マッチ』"
+msgstr "『_C056MIN0：Partido・de revancha』"
+
+msgid "\t『⇒ページ５７』"
+msgstr "\t『⇒Página ５７』"
+
+msgid "\t『⇒ページ６０』"
+msgstr "\t『⇒Página ６０』"
+
+msgid "『_C056MIN1：リターン・マッチ』"
+msgstr "『_C056MIN1：Partido・de revancha』"
+
+msgid "『_C056MIN2：リターン・マッチ』"
+msgstr "『_C056MIN2：Partido・de revancha』"
+
+msgid "『_C056MIN3：リターン・マッチ』"
+msgstr "『_C056MIN3：Partido・de revancha』"
+
+msgid "『_C056MIN4：リターン・マッチ』"
+msgstr "『_C056MIN4：Partido・de revancha』"
+
+msgid "『_C056YAS0：つながり』"
+msgstr "『_C056YAS0：Vínculos』"
+
+msgid "\t『⇒ページ５８』"
+msgstr "\t『⇒Página ５８』"
+
+msgid "\t『⇒ページ６１』"
+msgstr "\t『⇒Página ６１』"
+
+msgid "『_C057ESS0：激昂の猛虎』"
+msgstr "『_C057ESS0：El Tigre feroz enfurecido』"
+
+msgid "『_C061AAA0：なし』"
+msgstr "『_C061AAA0：Ninguna』"
+
+msgid "『_C061AMI0：近くて、遠くて』"
+msgstr "『_C061AMI0：Tan cerca,tan lejos』"
+
+msgid "『_C061HAR0：野郎モード上等』"
+msgstr "『_C061HAR0：Adelante con el modo entre hombres』"
+
+msgid "『_C061SAK0：男子の本望女子の本懐』"
+msgstr "『_C061SAK0：El deseo de chicos y el anhelo de chicas』"
+
+msgid "\t『⇒ページ５９』"
+msgstr "\t『⇒Página ５９』"
+
+msgid "\t『⇒ページ６２』"
+msgstr "\t『⇒Página ６２』"
+
+msgid "『_C064AAA0：なし』"
+msgstr "『_C064AAA0：Ninguna』"
+
+msgid "『_C064AMI0：スイーツ・ジェネレーション』"
+msgstr "『_C064AMI0：Generación・de dulces』"
+
+msgid "『_C064MIN0：ストレイト』"
+msgstr "『_C064MIN0：Directo』"
+
+msgid "『_C064TIG0：独航の猛虎』"
+msgstr "『_C064TIG0：El Tigre feroz que navega solo』"
+
+msgid "『_C064TIG5：独航の猛虎』"
+msgstr "『_C064TIG5：El Tigre feroz que navega solo』"
+
+msgid "\t『⇒ページ６０』"
+msgstr "\t『⇒Página ６０』"
+
+msgid "\t『⇒ページ６３』"
+msgstr "\t『⇒Página ６３』"
+
+msgid "『_C064TIG6：独航の猛虎』"
+msgstr "『_C064TIG6：El Tigre feroz que navega solo』"
+
+msgid "『_C064TIG7：独航の猛虎』"
+msgstr "『_C064TIG7：El Tigre feroz que navega solo』"
+
+msgid "『_C064TIG8：独航の猛虎』"
+msgstr "『_C064TIG8：El Tigre feroz que navega solo』"
+
+msgid "『_C064TIG9：独航の猛虎』"
+msgstr "『_C064TIG9：El Tigre feroz que navega solo』"
+
+msgid "『_C064YAS0：母』"
+msgstr "『_C064YAS0：Madre』"
+
+msgid "\t『⇒ページ６１』"
+msgstr "\t『⇒Página ６１』"
+
+msgid "\t『⇒ページ６４』"
+msgstr "\t『⇒Página ６４』"
+
+msgid "『_C065AAA0：なし』"
+msgstr "『_C065AAA0：Ninguna』"
+
+msgid "『_C065KTM0：衝撃のやっちゃん』"
+msgstr "『_C065KTM0：La impactante Yacchan』"
+
+msgid "『_C067ESS0：ミッション・コンプリート』"
+msgstr "『_C067ESS0：Misión・cumplida』"
+
+msgid "『_C068ED10：日当たり良好の哀愁』"
+msgstr "『_C068ED10：La melancolía de un lugar soleado』"
+
+msgid "『_C068ED20：続いてゆく日々』"
+msgstr "『_C068ED20：Los días continúan』"
+
+msgid "\t『⇒ページ６２』"
+msgstr "\t『⇒Página ６２』"
+
+msgid "\t『⇒ページ６５』"
+msgstr "\t『⇒Página ６５』"
+
+msgid "『_C071AAA0：なし』"
+msgstr "『_C071AAA0：Ninguna』"
+
+msgid "『_C071KTM0：失恋大明神、咆哮す』"
+msgstr "『_C071KTM0：La gran deidad del desamor,ruge』"
+
+msgid "『_C072AAA0：なし』"
+msgstr "『_C072AAA0：Ninguna』"
+
+msgid "『_C072AMI0：隙間５０センチの絆』"
+msgstr "『_C072AMI0：Un vínculo a cincuenta centímetros』"
+
+msgid "『_C072MIN0：幸せのカタチ』"
+msgstr "『_C072MIN0：La forma de la felicidad』"
+
+msgid "\t『⇒ページ６３』"
+msgstr "\t『⇒Página ６３』"
+
+msgid "\t『⇒ページ６６』"
+msgstr "\t『⇒Página ６６』"
+
+msgid "『_C072MIN1：ゲームセット』"
+msgstr "『_C072MIN1：Fin del partido』"
+
+msgid "『_C072TIG0：落涙の猛虎』"
+msgstr "『_C072TIG0：El Tigre feroz entre lágrimas』"
+
+msgid "『_C073AAA0：なし』"
+msgstr "『_C073AAA0：Ninguna』"
+
+msgid "『_C073MIN0：スマイル・アゲイン』"
+msgstr "『_C073MIN0：Sonreír・otra vez』"
+
+msgid "『_D010ESS0：序の口の不幸』"
+msgstr "『_D010ESS0：La mala suerte apenas comienza』"
+
+msgid "\t『⇒ページ６４』"
+msgstr "\t『⇒Página ６４』"
+
+msgid "\t『⇒ページ６７』"
+msgstr "\t『⇒Página ６７』"
+
+msgid "『_D011AAA0：なし』"
+msgstr "『_D011AAA0：Ninguna』"
+
+msgid "『_D011RYU0：相手が悪すぎる不幸』"
+msgstr "『_D011RYU0：La mala suerte de tener al peor rival』"
+
+msgid "『_D012AAA0：なし』"
+msgstr "『_D012AAA0：Ninguna』"
+
+msgid "『_D012SAK0：見た目の不幸』"
+msgstr "『_D012SAK0：La mala suerte de las apariencias』"
+
+msgid "『_D012SAK1：見た目の不幸』"
+msgstr "『_D012SAK1：La mala suerte de las apariencias』"
+
+msgid "\t『⇒ページ６５』"
+msgstr "\t『⇒Página ６５』"
+
+msgid "\t『⇒ページ６８』"
+msgstr "\t『⇒Página ６８』"
+
+msgid "『_D012SAK2：見た目の不幸』"
+msgstr "『_D012SAK2：La mala suerte de las apariencias』"
+
+msgid "『_D012SAK3：見た目の不幸』"
+msgstr "『_D012SAK3：La mala suerte de las apariencias』"
+
+msgid "『_D012SAK4：見た目の不幸』"
+msgstr "『_D012SAK4：La mala suerte de las apariencias』"
+
+msgid "『_D013ESS0：証明できない不幸』"
+msgstr "『_D013ESS0：La mala suerte indemostrable』"
+
+msgid "『_D021AAA0：なし』"
+msgstr "『_D021AAA0：Ninguna』"
+
+msgid "\t『⇒ページ６６』"
+msgstr "\t『⇒Página ６６』"
+
+msgid "\t『ＴＯＰ』"
+msgstr "\t『ＴＯＰ』"
+
+msgid "『_D021SAK0：通じ合う幸せ』"
+msgstr "『_D021SAK0：La felicidad de entenderse』"
+
+msgid "『_D021TIG0：託せる幸せ』"
+msgstr "『_D021TIG0：La felicidad de poder confiar』"
+
+msgid "『_D022ED10：繰り返す不幸』"
+msgstr "『_D022ED10：La mala suerte se repite』"
+
+msgid "\t『⇒ページ６７』"
+msgstr "\t『⇒Página ６７』"
+
+msgid "アイテムフラグ"
+msgstr "Flags de objetos"
+
+msgid "アドベンチャーフラグ"
+msgstr "Flags de aventura"
+
+msgid "ＥＮＤフラグ"
+msgstr "Flags de ＥＮＤ"
+
+msgid "ＥＮＤチェック"
+msgstr "Comprobar ＥＮＤ"
+
+msgid "グローバルフラグの初期化"
+msgstr "Restablecer flags globales"
+
+msgid "ＴＯＰ"
+msgstr "ＴＯＰ"
+
+msgid "アイテムフラグ"
+msgstr "Flags de objetos"
+
+msgid "全アイテム取得"
+msgstr "Obtener todos los objetos"
+
+msgid "全アイテム未取得"
+msgstr "Marcar todos los objetos como no obtenidos"
+
+msgid "次へ"
+msgstr "Siguiente"
+
+msgid "高須棒"
+msgstr "Palo Takasu"
+
+msgid "ふえふえワカメたん"
+msgstr "Wakame-tan que crece y crece"
+
+msgid "立候補のポスター"
+msgstr "Cartel de candidatura"
+
+msgid "亜美が載った女の子向け雑誌"
+msgstr "Revista para chicas en la que aparece Ami"
+
+msgid "プロレスショー台本"
+msgstr "Guion del espectáculo de lucha libre"
+
+msgid "『フラグ管理』へ"
+msgstr "Ir a 『Gestión de flags』"
+
+msgid "次へ"
+msgstr "Siguiente"
+
+msgid "偽乳パッド"
+msgstr "Rellenos para el busto"
+
+msgid "いちご牛乳"
+msgstr "Leche de fresa"
+
+msgid "生徒会活動誌"
+msgstr "Registro de actividades del consejo estudiantil"
+
+msgid "兄貴ノート"
+msgstr "Cuaderno del Hermano Mayor"
+
+msgid "金歯"
+msgstr "Diente de oro"
+
+msgid "『フラグ管理』へ"
+msgstr "Ir a 『Gestión de flags』"
+
+msgid "次へ"
+msgstr "Siguiente"
+
+msgid "最強黒髪戻しＦｏｒメンズ！"
+msgstr "Tinte para volver al cabello negro para hombres!"
+
+msgid "プラネタリウムのペア招待券"
+msgstr "Invitación para dos al planetario"
+
+msgid "ＹＥＳ／ＮＯまくら"
+msgstr "Almohada ＹＥＳ／ＮＯ"
+
+msgid "懐中電灯"
+msgstr "Linterna"
+
+msgid "サングラス"
+msgstr "Lentes de sol"
+
+msgid "『フラグ管理』へ"
+msgstr "Ir a 『Gestión de flags』"
+
+msgid "次へ"
+msgstr "Siguiente"
+
+msgid "クッキー"
+msgstr "Galletas"
+
+msgid "スポーツ新聞"
+msgstr "Periódico deportivo"
+
+msgid "木刀"
+msgstr "Espada de madera"
+
+msgid "ヌーディストサンタ衣装"
+msgstr "Traje de Santa Claus nudista"
+
+msgid "真紅の腕章"
+msgstr "Brazalete carmesí"
+
+msgid "『フラグ管理』へ"
+msgstr "Ir a 『Gestión de flags』"
+
+msgid "次へ"
+msgstr "Siguiente"
+
+msgid "スーパーかのう屋割引券"
+msgstr "Cupón de descuento del supermercado Kanouya"
+
+msgid "文化祭の写真・デッドヒートの竜児"
+msgstr "Foto del festival・Ryuuji en una carrera reñida"
+
+msgid "ヒマワリの種"
+msgstr "Semillas de girasol"
+
+msgid "鳥ドーン！の料理本"
+msgstr "Recetario de Aves a lo grande!"
+
+msgid "アイパッチ"
+msgstr "Parche para el ojo"
+
+msgid "『フラグ管理』へ"
+msgstr "Ir a 『Gestión de flags』"
+
+msgid "次へ"
+msgstr "Siguiente"
+
+msgid "バカチワワの物真似DVD"
+msgstr "DVD de imitaciones de la chihuahua tonta"
+
+msgid "弁当箱"
+msgstr "Caja de almuerzo"
+
+msgid "実乃梨の弁当箱"
+msgstr "Caja de almuerzo de Minori"
+
+msgid "漆黒のビキニ（水泳対決時）"
+msgstr "Bikini negro azabache（Del duelo de natación）"
+
+msgid "『実録・恐怖列島日本』のＤＶＤ"
+msgstr "ＤＶＤ de 『Crónica real・Japón del terror』"
+
+msgid "『フラグ管理』へ"
+msgstr "Ir a 『Gestión de flags』"
+
+msgid "次へ"
+msgstr "Siguiente"
+
+msgid "花火"
+msgstr "Fuegos artificiales"
+
+msgid "瞬間接着剤"
+msgstr "Pegamento instantáneo"
+
+msgid "リップクリーム"
+msgstr "Bálsamo labial"
+
+msgid "ヘアピンのレシート"
+msgstr "Recibo de la horquilla"
+
+msgid "クリスタルの星飾り"
+msgstr "Adorno de estrella de cristal"
+
+msgid "『フラグ管理』へ"
+msgstr "Ir a 『Gestión de flags』"
+
+msgid "次へ"
+msgstr "Siguiente"
+
+msgid "壊れたカメラ"
+msgstr "Cámara rota"
+
+msgid "亜美ちゃんデートDVD"
+msgstr "DVD de una cita con Ami-chan"
+
+msgid "『あなたの恋の応援団』ロム"
+msgstr "ROM de 『El equipo que apoya tu amor』"
+
+msgid "水切り籠"
+msgstr "Escurridor de platos"
+
+msgid "フライパン"
+msgstr "Sartén"
+
+msgid "『フラグ管理』へ"
+msgstr "Ir a 『Gestión de flags』"
+
+msgid "次へ"
+msgstr "Siguiente"
+
+msgid "アルバム"
+msgstr "Álbum"
+
+msgid "思い出のアルバム"
+msgstr "Álbum de recuerdos"
+
+msgid "恥ずかしいノート"
+msgstr "Cuaderno vergonzoso"
+
+msgid "指紋で曇ったメガネ"
+msgstr "Lentes manchados de huellas dactilares"
+
+msgid "星型の型紙"
+msgstr "Plantilla en forma de estrella"
+
+msgid "『フラグ管理』へ"
+msgstr "Ir a 『Gestión de flags』"
+
+msgid "次へ"
+msgstr "Siguiente"
+
+msgid "スーパーのレシート"
+msgstr "Recibo del supermercado"
+
+msgid "ガラスのツリー"
+msgstr "Árbol de vidrio"
+
+msgid "空のペットボトル"
+msgstr "Botella de plástico vacía"
+
+msgid "コンビニ弁当の容器"
+msgstr "Envase de comida de la tienda de conveniencia"
+
+msgid "空き缶"
+msgstr "Lata vacía"
+
+msgid "『フラグ管理』へ"
+msgstr "Ir a 『Gestión de flags』"
+
+msgid "次へ"
+msgstr "Siguiente"
+
+msgid "使用済み割り箸"
+msgstr "Palillos desechables usados"
+
+msgid "期末テスト"
+msgstr "Examen final"
+
+msgid "空のいちご牛乳"
+msgstr "Envase vacío de leche de fresa"
+
+msgid "肌色が多めの雑誌"
+msgstr "Revista con mucha piel al descubierto"
+
+msgid "プラネタリウムの半券"
+msgstr "Talón de entrada del planetario"
+
+msgid "『フラグ管理』へ"
+msgstr "Ir a 『Gestión de flags』"
+
+msgid "次へ（ループします）"
+msgstr "Siguiente（Vuelve al inicio）"
+
+msgid "何かマリモ的な物体"
+msgstr "Algo parecido a una bola de algas"
+
+msgid "洋服の値札"
+msgstr "Etiqueta de precio de ropa"
+
+msgid "壊れた傘"
+msgstr "Paraguas roto"
+
+msgid "インコちゃんのカゴ"
+msgstr "Jaula de Inko-chan"
+
+msgid "『フラグ管理』へ"
+msgstr "Ir a 『Gestión de flags』"
+
+msgid "次へ"
+msgstr "Siguiente"
+
+msgid "フラグ：『大河Ａ』"
+msgstr "Flag：『Taiga Ａ』"
+
+msgid "フラグ：『大河北村目撃フラグ』"
+msgstr "Flag：『Avistamiento de Taiga y Kitamura』"
+
+msgid "フラグ：『大河後悔』"
+msgstr "Flag：『Arrepentimiento de Taiga』"
+
+msgid "フラグ：『実乃梨も大後悔』"
+msgstr "Flag：『Minori también se arrepiente mucho』"
+
+msgid "フラグ：『亜美実乃梨バトル』"
+msgstr "Flag：『Batalla entre Ami y Minori』"
+
+msgid "『フラグ管理』へ"
+msgstr "Ir a 『Gestión de flags』"
+
+msgid "次へ（ループします）"
+msgstr "Siguiente（Vuelve al inicio）"
+
+msgid "フラグ：『殴られ竜児』"
+msgstr "Flag：『Ryuuji golpeado』"
+
+msgid "フラグ：『大河片思い記憶』"
+msgstr "Flag：『Recuerdo del amor no correspondido de Taiga』"
+
+msgid "フラグ：『大河Ｂ』"
+msgstr "Flag：『Taiga Ｂ』"
+
+msgid "フラグ：『告白』"
+msgstr "Flag：『Confesión』"
+
+msgid "『フラグ管理』へ"
+msgstr "Ir a 『Gestión de flags』"
+
+msgid "VL_TAKASU_STICK ＯＮ"
+msgstr "VL_TAKASU_STICK ＯＮ"
+
+msgid "VL_WAKAME ＯＮ"
+msgstr "VL_WAKAME ＯＮ"
+
+msgid "VL_POSTER ＯＮ"
+msgstr "VL_POSTER ＯＮ"
+
+msgid "VL_AMI_MAGAZINE ＯＮ"
+msgstr "VL_AMI_MAGAZINE ＯＮ"
+
+msgid "VL_WRESTLING ＯＮ"
+msgstr "VL_WRESTLING ＯＮ"
+
+msgid "VL_FAKE_CHEST_PAD ＯＮ"
+msgstr "VL_FAKE_CHEST_PAD ＯＮ"
+
+msgid "VL_STRAWBERRY_MILK ＯＮ"
+msgstr "VL_STRAWBERRY_MILK ＯＮ"
+
+msgid "VL_ACTIVITY_DIARY ＯＮ"
+msgstr "VL_ACTIVITY_DIARY ＯＮ"
+
+msgid "VL_BROTHER_NOTE ＯＮ"
+msgstr "VL_BROTHER_NOTE ＯＮ"
+
+msgid "VL_GOLD_TOOTH ＯＮ"
+msgstr "VL_GOLD_TOOTH ＯＮ"
+
+msgid "VL_RE_BLACK_HAIR ＯＮ"
+msgstr "VL_RE_BLACK_HAIR ＯＮ"
+
+msgid "VL_PAIR_TICKET ＯＮ"
+msgstr "VL_PAIR_TICKET ＯＮ"
+
+msgid "VL_YES_NO_PILLOW ＯＮ"
+msgstr "VL_YES_NO_PILLOW ＯＮ"
+
+msgid "VL_FLASHLIGHT ＯＮ"
+msgstr "VL_FLASHLIGHT ＯＮ"
+
+msgid "VL_SUNGLASSES ＯＮ"
+msgstr "VL_SUNGLASSES ＯＮ"
+
+msgid "VL_COOKIE ＯＮ"
+msgstr "VL_COOKIE ＯＮ"
+
+msgid "VL_NEWS_PAPER ＯＮ"
+msgstr "VL_NEWS_PAPER ＯＮ"
+
+msgid "VL_WOODEN_SWORD ＯＮ"
+msgstr "VL_WOODEN_SWORD ＯＮ"
+
+msgid "VL_NUDIST_SANTA ＯＮ"
+msgstr "VL_NUDIST_SANTA ＯＮ"
+
+msgid "VL_RED_BRASSARD ＯＮ"
+msgstr "VL_RED_BRASSARD ＯＮ"
+
+msgid "VL_DISCOUNT_TICKET ＯＮ"
+msgstr "VL_DISCOUNT_TICKET ＯＮ"
+
+msgid "VL_FESTIVAL_PHOTO ＯＮ"
+msgstr "VL_FESTIVAL_PHOTO ＯＮ"
+
+msgid "VL_SUNFLOWER_SEED ＯＮ"
+msgstr "VL_SUNFLOWER_SEED ＯＮ"
+
+msgid "VL_SUNFLOWER_SEED＿変数を選択して下さい。"
+msgstr "VL_SUNFLOWER_SEED＿Selecciona la variable."
+
+msgid "１"
+msgstr "１"
+
+msgid "２"
+msgstr "２"
+
+msgid "３"
+msgstr "３"
+
+msgid "４"
+msgstr "４"
+
+msgid "VL_SUNFLOWER_SEED　１"
+msgstr "VL_SUNFLOWER_SEED　１"
+
+msgid "VL_SUNFLOWER_SEED　２"
+msgstr "VL_SUNFLOWER_SEED　２"
+
+msgid "VL_SUNFLOWER_SEED　３"
+msgstr "VL_SUNFLOWER_SEED　３"
+
+msgid "VL_SUNFLOWER_SEED　４"
+msgstr "VL_SUNFLOWER_SEED　４"
+
+msgid "VL_COOKING_BOOK ＯＮ"
+msgstr "VL_COOKING_BOOK ＯＮ"
+
+msgid "VL_EYE_PATCH ＯＮ"
+msgstr "VL_EYE_PATCH ＯＮ"
+
+msgid "VL_IMITATION_DVD＿変数を選択して下さい。"
+msgstr "VL_IMITATION_DVD＿Selecciona la variable."
+
+msgid "１"
+msgstr "１"
+
+msgid "２"
+msgstr "２"
+
+msgid "３"
+msgstr "３"
+
+msgid "４"
+msgstr "４"
+
+msgid "VL_IMITATION_DVD　１"
+msgstr "VL_IMITATION_DVD　１"
+
+msgid "VL_IMITATION_DVD　２"
+msgstr "VL_IMITATION_DVD　２"
+
+msgid "VL_IMITATION_DVD　３"
+msgstr "VL_IMITATION_DVD　３"
+
+msgid "VL_IMITATION_DVD　４"
+msgstr "VL_IMITATION_DVD　４"
+
+msgid "VL_LAUNCH_BOX ＯＮ"
+msgstr "VL_LAUNCH_BOX ＯＮ"
+
+msgid "VL_MINIRI_LAUNCH_BOX ＯＮ"
+msgstr "VL_MINIRI_LAUNCH_BOX ＯＮ"
+
+msgid "VL_BLACK_WATER_WARE ＯＮ"
+msgstr "VL_BLACK_WATER_WARE ＯＮ"
+
+msgid "VL_JAPAN_DVD ＯＮ"
+msgstr "VL_JAPAN_DVD ＯＮ"
+
+msgid "VL_FIREWORKS ＯＮ"
+msgstr "VL_FIREWORKS ＯＮ"
+
+msgid "VL_ADHESIVE ＯＮ"
+msgstr "VL_ADHESIVE ＯＮ"
+
+msgid "VL_LIP_CREAM ＯＮ"
+msgstr "VL_LIP_CREAM ＯＮ"
+
+msgid "VL_HAIRPIN_RECEIPT ＯＮ"
+msgstr "VL_HAIRPIN_RECEIPT ＯＮ"
+
+msgid "VL_STAR_DECORATION ＯＮ"
+msgstr "VL_STAR_DECORATION ＯＮ"
+
+msgid "VL_BROKEN_CAMERA ＯＮ"
+msgstr "VL_BROKEN_CAMERA ＯＮ"
+
+msgid "VL_AMI_DATE_DVD ＯＮ"
+msgstr "VL_AMI_DATE_DVD ＯＮ"
+
+msgid "VL_CHEERLEADERS_ROM ＯＮ"
+msgstr "VL_CHEERLEADERS_ROM ＯＮ"
+
+msgid "VL_WATER_BASKET ＯＮ"
+msgstr "VL_WATER_BASKET ＯＮ"
+
+msgid "VL_FRYING_PAN ＯＮ"
+msgstr "VL_FRYING_PAN ＯＮ"
+
+msgid "VL_ALBUM ＯＮ"
+msgstr "VL_ALBUM ＯＮ"
+
+msgid "VL_MEMORY_ALBUM ＯＮ"
+msgstr "VL_MEMORY_ALBUM ＯＮ"
+
+msgid "VL_SHAMEFUL_NOTE ＯＮ"
+msgstr "VL_SHAMEFUL_NOTE ＯＮ"
+
+msgid "VL_CLOUDY_GLASSES ＯＮ"
+msgstr "VL_CLOUDY_GLASSES ＯＮ"
+
+msgid "VL_STAR_PATTERN ＯＮ"
+msgstr "VL_STAR_PATTERN ＯＮ"
+
+msgid "VL_SUPER_RECEIPT ＯＮ"
+msgstr "VL_SUPER_RECEIPT ＯＮ"
+
+msgid "VL_GLASS_TREE ＯＮ"
+msgstr "VL_GLASS_TREE ＯＮ"
+
+msgid "VL_PET_BOTTLE ＯＮ"
+msgstr "VL_PET_BOTTLE ＯＮ"
+
+msgid "VL_CONVENI_LAUNCH_BOX ＯＮ"
+msgstr "VL_CONVENI_LAUNCH_BOX ＯＮ"
+
+msgid "VL_EMPTY_CAN ＯＮ"
+msgstr "VL_EMPTY_CAN ＯＮ"
+
+msgid "VL_CRACK_CHOPSTICKS ＯＮ"
+msgstr "VL_CRACK_CHOPSTICKS ＯＮ"
+
+msgid "VL_FINAL_EXAM ＯＮ"
+msgstr "VL_FINAL_EXAM ＯＮ"
+
+msgid "VL_EMPTINESS_STRAWBERRY_MILK ＯＮ"
+msgstr "VL_EMPTINESS_STRAWBERRY_MILK ＯＮ"
+
+msgid "VL_ADULT_MAGAZINE ＯＮ"
+msgstr "VL_ADULT_MAGAZINE ＯＮ"
+
+msgid "VL_HALF_TICKET ＯＮ"
+msgstr "VL_HALF_TICKET ＯＮ"
+
+msgid "VL_THE_BALL_ALSO ＯＮ"
+msgstr "VL_THE_BALL_ALSO ＯＮ"
+
+msgid "VL_DRESS_PRICE ＯＮ"
+msgstr "VL_DRESS_PRICE ＯＮ"
+
+msgid "VL_BROKEN_UMBRELLA ＯＮ"
+msgstr "VL_BROKEN_UMBRELLA ＯＮ"
+
+msgid "VL_INKOTYAN_CAGE ＯＮ"
+msgstr "VL_INKOTYAN_CAGE ＯＮ"
+
+msgid "FLG_TAIGA_A ＯＮ"
+msgstr "FLG_TAIGA_A ＯＮ"
+
+msgid "FLG_KITAMURA_WATCH ＯＮ"
+msgstr "FLG_KITAMURA_WATCH ＯＮ"
+
+msgid "FLG_TAIGA_REGRET ＯＮ"
+msgstr "FLG_TAIGA_REGRET ＯＮ"
+
+msgid "FLG_MINORI_REGRET_TOO ＯＮ"
+msgstr "FLG_MINORI_REGRET_TOO ＯＮ"
+
+msgid "FLG_MINORI_BATTLE ＯＮ"
+msgstr "FLG_MINORI_BATTLE ＯＮ"
+
+msgid "FLG_RYUJI_HIT ＯＮ"
+msgstr "FLG_RYUJI_HIT ＯＮ"
+
+msgid "FLG_TAIGA_LOVE_MEMORY ＯＮ"
+msgstr "FLG_TAIGA_LOVE_MEMORY ＯＮ"
+
+msgid "FLG_TAIGA_B ＯＮ"
+msgstr "FLG_TAIGA_B ＯＮ"
+
+msgid "FLG_TAIGA_CONFESSION ＯＮ"
+msgstr "FLG_TAIGA_CONFESSION ＯＮ"
+
+msgid "VL_IMITATION_DVD＿変数を選択して下さい。"
+msgstr "VL_IMITATION_DVD＿Selecciona la variable."
+
+msgid "１"
+msgstr "１"
+
+msgid "２"
+msgstr "２"
+
+msgid "３"
+msgstr "３"
+
+msgid "４"
+msgstr "４"
+
+msgid "VL_SUNFLOWER_SEED＿変数を選択して下さい。"
+msgstr "VL_SUNFLOWER_SEED＿Selecciona la variable."
+
+msgid "１"
+msgstr "１"
+
+msgid "２"
+msgstr "２"
+
+msgid "３"
+msgstr "３"
+
+msgid "４"
+msgstr "４"
+
+msgid "次へ"
+msgstr "Siguiente"
+
+msgid "「ALLON」"
+msgstr "「ALLON」"
+
+msgid "「ALLOFF」"
+msgstr "「ALLOFF」"
+
+msgid "「ばかちーエンド」"
+msgstr "「Final de Baka-chi」"
+
+msgid "「泰子エンド」"
+msgstr "「Final de Yasuko」"
+
+msgid "「大河×竜児エンド」（グッドエンド）"
+msgstr "「Final de Taiga×Ryuuji」（buen final）"
+
+msgid "『フラグ管理』へ"
+msgstr "Ir a 『Gestión de flags』"
+
+msgid "次へ"
+msgstr "Siguiente"
+
+msgid "「大河×北村エンド」（バッドエンド）"
+msgstr "「Final de Taiga×Kitamura」（mal final）"
+
+msgid "「北村×竜児エンド」（バッドエンド）"
+msgstr "「Final de Kitamura×Ryuuji」（mal final）"
+
+msgid "「すみれ×竜児エンド」（グッドエンド）"
+msgstr "「Final de Sumire×Ryuuji」（buen final）"
+
+msgid "「生徒会の犬エンド」（バッドエンド）"
+msgstr "「Final del perro del consejo」（mal final）"
+
+msgid "「恋ヶ窪ゆりエンド」（バッドエンド）"
+msgstr "「Final de Koigakubo Yuri」（mal final）"
+
+msgid "『フラグ管理』へ"
+msgstr "Ir a 『Gestión de flags』"
+
+msgid "次へ"
+msgstr "Siguiente"
+
+msgid "「大河×実乃梨エンド」（バッドエンド）"
+msgstr "「Final de Taiga×Minori」（mal final）"
+
+msgid "「実乃梨×片思いエンド」（グッド？エンド）"
+msgstr "「Final de Minori×Amor no correspondido」（buen? final）"
+
+msgid "「実乃梨×竜児エンド」（バッド？エンド）"
+msgstr "「Final de Minori×Ryuuji」（mal? final）"
+
+msgid "「亜美さよならエンド」（バッドエンド）"
+msgstr "「Final de despedida de Ami」（mal final）"
+
+msgid "「亜美×竜児エンド」（グッドエンド）"
+msgstr "「Final de Ami×Ryuuji」（buen final）"
+
+msgid "『フラグ管理』へ"
+msgstr "Ir a 『Gestión de flags』"
+
+msgid "次へ"
+msgstr "Siguiente"
+
+msgid "「去っていく亜美」（バッドエンド）"
+msgstr "「Ami se va」（mal final）"
+
+msgid "「亜美×竜児エンド」（アナザーエンド）"
+msgstr "「Final de Ami×Ryuuji」（final alternativo）"
+
+msgid "「竜児×能登＆春田エンド」（バッドエンド）"
+msgstr "「Final de Ryuuji×Noto＆Haruta」（mal final）"
+
+msgid "「大河×竜児エンド」（アナザーエンド）"
+msgstr "「Final de Taiga×Ryuuji」（final alternativo）"
+
+msgid "「実乃梨×竜児エンド」（アナザーエンド）"
+msgstr "「Final de Minori×Ryuuji」（final alternativo）"
+
+msgid "『フラグ管理』へ"
+msgstr "Ir a 『Gestión de flags』"
+
+msgid "次へ（ループします）"
+msgstr "Siguiente（Vuelve al inicio）"
+
+msgid "「日常エンド」"
+msgstr "「Final de la vida cotidiana」"
+
+msgid "「火事エンド」"
+msgstr "「Final del incendio」"
+
+msgid "「Ｄルート共通エンド」"
+msgstr "「Final común de la ruta Ｄ」"
+
+msgid "『フラグ管理』へ"
+msgstr "Ir a 『Gestión de flags』"
+
+msgid "VG_ATTAINMENT_END　0"
+msgstr "VG_ATTAINMENT_END　0"
+
+msgid "VG_ATTAINMENT_END　1"
+msgstr "VG_ATTAINMENT_END　1"
+
+msgid "VG_ATTAINMENT_END　2"
+msgstr "VG_ATTAINMENT_END　2"
+
+msgid "VG_ATTAINMENT_END　3"
+msgstr "VG_ATTAINMENT_END　3"
+
+msgid "VG_ATTAINMENT_END　4"
+msgstr "VG_ATTAINMENT_END　4"
+
+msgid "VG_ATTAINMENT_END　5"
+msgstr "VG_ATTAINMENT_END　5"
+
+msgid "VG_ATTAINMENT_END　6"
+msgstr "VG_ATTAINMENT_END　6"
+
+msgid "VG_ATTAINMENT_END　7"
+msgstr "VG_ATTAINMENT_END　7"
+
+msgid "VG_ATTAINMENT_END　8"
+msgstr "VG_ATTAINMENT_END　8"
+
+msgid "VG_ATTAINMENT_END　9"
+msgstr "VG_ATTAINMENT_END　9"
+
+msgid "VG_ATTAINMENT_END　10"
+msgstr "VG_ATTAINMENT_END　10"
+
+msgid "VG_ATTAINMENT_END　11"
+msgstr "VG_ATTAINMENT_END　11"
+
+msgid "VG_ATTAINMENT_END　12"
+msgstr "VG_ATTAINMENT_END　12"
+
+msgid "VG_ATTAINMENT_END　13"
+msgstr "VG_ATTAINMENT_END　13"
+
+msgid "VG_ATTAINMENT_END　14"
+msgstr "VG_ATTAINMENT_END　14"
+
+msgid "VG_ATTAINMENT_END　15"
+msgstr "VG_ATTAINMENT_END　15"
+
+msgid "VG_ATTAINMENT_END　16"
+msgstr "VG_ATTAINMENT_END　16"
+
+msgid "VG_ATTAINMENT_END　17"
+msgstr "VG_ATTAINMENT_END　17"
+
+msgid "VG_ATTAINMENT_END　18"
+msgstr "VG_ATTAINMENT_END　18"
+
+msgid "VG_ATTAINMENT_END　19"
+msgstr "VG_ATTAINMENT_END　19"
+
+msgid "VG_ATTAINMENT_END　20"
+msgstr "VG_ATTAINMENT_END　20"
+
+msgid "VG_ATTAINMENT_END　21"
+msgstr "VG_ATTAINMENT_END　21"
+
+msgid "VG_ATTAINMENT_END　23以上＿通常プレイ中はあり得ない数値です。＿VG_ATTAINMENT_END　22に戻します。"
+msgstr "VG_ATTAINMENT_END　23 o más＿Valor imposible en partida normal.＿Se restablecerá VG_ATTAINMENT_END　22."
+
+msgid "VG_ATTAINMENT_END　22(MAX)"
+msgstr "VG_ATTAINMENT_END　22(MAX)"
+
+msgid "VG_ATTAINMENT_END　0"
+msgstr "VG_ATTAINMENT_END　0"
+
+msgid "VG_ATTAINMENT_END　1"
+msgstr "VG_ATTAINMENT_END　1"
+
+msgid "VG_ATTAINMENT_END　2"
+msgstr "VG_ATTAINMENT_END　2"
+
+msgid "VG_ATTAINMENT_END　3"
+msgstr "VG_ATTAINMENT_END　3"
+
+msgid "VG_ATTAINMENT_END　4"
+msgstr "VG_ATTAINMENT_END　4"
+
+msgid "VG_ATTAINMENT_END　5"
+msgstr "VG_ATTAINMENT_END　5"
+
+msgid "VG_ATTAINMENT_END　6"
+msgstr "VG_ATTAINMENT_END　6"
+
+msgid "VG_ATTAINMENT_END　7"
+msgstr "VG_ATTAINMENT_END　7"
+
+msgid "VG_ATTAINMENT_END　8"
+msgstr "VG_ATTAINMENT_END　8"
+
+msgid "VG_ATTAINMENT_END　9"
+msgstr "VG_ATTAINMENT_END　9"
+
+msgid "VG_ATTAINMENT_END　10"
+msgstr "VG_ATTAINMENT_END　10"
+
+msgid "VG_ATTAINMENT_END　11"
+msgstr "VG_ATTAINMENT_END　11"
+
+msgid "VG_ATTAINMENT_END　12"
+msgstr "VG_ATTAINMENT_END　12"
+
+msgid "VG_ATTAINMENT_END　13"
+msgstr "VG_ATTAINMENT_END　13"
+
+msgid "VG_ATTAINMENT_END　14"
+msgstr "VG_ATTAINMENT_END　14"
+
+msgid "VG_ATTAINMENT_END　15"
+msgstr "VG_ATTAINMENT_END　15"
+
+msgid "VG_ATTAINMENT_END　16"
+msgstr "VG_ATTAINMENT_END　16"
+
+msgid "VG_ATTAINMENT_END　17"
+msgstr "VG_ATTAINMENT_END　17"
+
+msgid "VG_ATTAINMENT_END　18"
+msgstr "VG_ATTAINMENT_END　18"
+
+msgid "VG_ATTAINMENT_END　19"
+msgstr "VG_ATTAINMENT_END　19"
+
+msgid "VG_ATTAINMENT_END　20"
+msgstr "VG_ATTAINMENT_END　20"
+
+msgid "VG_ATTAINMENT_END　21"
+msgstr "VG_ATTAINMENT_END　21"
+
+msgid "VG_ATTAINMENT_END　23以上＿通常プレイ中はあり得ない数値です。＿VG_ATTAINMENT_END　22に戻します。"
+msgstr "VG_ATTAINMENT_END　23 o más＿Valor imposible en partida normal.＿Se restablecerá VG_ATTAINMENT_END　22."
+
+msgid "VG_ATTAINMENT_END　22(MAX)"
+msgstr "VG_ATTAINMENT_END　22(MAX)"
+
+msgid "VG_ATTAINMENT_END　0"
+msgstr "VG_ATTAINMENT_END　0"
+
+msgid "VG_ATTAINMENT_END　1"
+msgstr "VG_ATTAINMENT_END　1"
+
+msgid "VG_ATTAINMENT_END　2"
+msgstr "VG_ATTAINMENT_END　2"
+
+msgid "VG_ATTAINMENT_END　3"
+msgstr "VG_ATTAINMENT_END　3"
+
+msgid "VG_ATTAINMENT_END　4"
+msgstr "VG_ATTAINMENT_END　4"
+
+msgid "VG_ATTAINMENT_END　5"
+msgstr "VG_ATTAINMENT_END　5"
+
+msgid "VG_ATTAINMENT_END　6"
+msgstr "VG_ATTAINMENT_END　6"
+
+msgid "VG_ATTAINMENT_END　7"
+msgstr "VG_ATTAINMENT_END　7"
+
+msgid "VG_ATTAINMENT_END　8"
+msgstr "VG_ATTAINMENT_END　8"
+
+msgid "VG_ATTAINMENT_END　9"
+msgstr "VG_ATTAINMENT_END　9"
+
+msgid "VG_ATTAINMENT_END　10"
+msgstr "VG_ATTAINMENT_END　10"
+
+msgid "VG_ATTAINMENT_END　11"
+msgstr "VG_ATTAINMENT_END　11"
+
+msgid "VG_ATTAINMENT_END　12"
+msgstr "VG_ATTAINMENT_END　12"
+
+msgid "VG_ATTAINMENT_END　13"
+msgstr "VG_ATTAINMENT_END　13"
+
+msgid "VG_ATTAINMENT_END　14"
+msgstr "VG_ATTAINMENT_END　14"
+
+msgid "VG_ATTAINMENT_END　15"
+msgstr "VG_ATTAINMENT_END　15"
+
+msgid "VG_ATTAINMENT_END　16"
+msgstr "VG_ATTAINMENT_END　16"
+
+msgid "VG_ATTAINMENT_END　17"
+msgstr "VG_ATTAINMENT_END　17"
+
+msgid "VG_ATTAINMENT_END　18"
+msgstr "VG_ATTAINMENT_END　18"
+
+msgid "VG_ATTAINMENT_END　19"
+msgstr "VG_ATTAINMENT_END　19"
+
+msgid "VG_ATTAINMENT_END　20"
+msgstr "VG_ATTAINMENT_END　20"
+
+msgid "VG_ATTAINMENT_END　21"
+msgstr "VG_ATTAINMENT_END　21"
+
+msgid "VG_ATTAINMENT_END　23以上＿通常プレイ中はあり得ない数値です。＿VG_ATTAINMENT_END　22に戻します。"
+msgstr "VG_ATTAINMENT_END　23 o más＿Valor imposible en partida normal.＿Se restablecerá VG_ATTAINMENT_END　22."
+
+msgid "VG_ATTAINMENT_END　22(MAX)"
+msgstr "VG_ATTAINMENT_END　22(MAX)"
+
+msgid "VG_ATTAINMENT_END　0"
+msgstr "VG_ATTAINMENT_END　0"
+
+msgid "VG_ATTAINMENT_END　1"
+msgstr "VG_ATTAINMENT_END　1"
+
+msgid "VG_ATTAINMENT_END　2"
+msgstr "VG_ATTAINMENT_END　2"
+
+msgid "VG_ATTAINMENT_END　3"
+msgstr "VG_ATTAINMENT_END　3"
+
+msgid "VG_ATTAINMENT_END　4"
+msgstr "VG_ATTAINMENT_END　4"
+
+msgid "VG_ATTAINMENT_END　5"
+msgstr "VG_ATTAINMENT_END　5"
+
+msgid "VG_ATTAINMENT_END　6"
+msgstr "VG_ATTAINMENT_END　6"
+
+msgid "VG_ATTAINMENT_END　7"
+msgstr "VG_ATTAINMENT_END　7"
+
+msgid "VG_ATTAINMENT_END　8"
+msgstr "VG_ATTAINMENT_END　8"
+
+msgid "VG_ATTAINMENT_END　9"
+msgstr "VG_ATTAINMENT_END　9"
+
+msgid "VG_ATTAINMENT_END　10"
+msgstr "VG_ATTAINMENT_END　10"
+
+msgid "VG_ATTAINMENT_END　11"
+msgstr "VG_ATTAINMENT_END　11"
+
+msgid "VG_ATTAINMENT_END　12"
+msgstr "VG_ATTAINMENT_END　12"
+
+msgid "VG_ATTAINMENT_END　13"
+msgstr "VG_ATTAINMENT_END　13"
+
+msgid "VG_ATTAINMENT_END　14"
+msgstr "VG_ATTAINMENT_END　14"
+
+msgid "VG_ATTAINMENT_END　15"
+msgstr "VG_ATTAINMENT_END　15"
+
+msgid "VG_ATTAINMENT_END　16"
+msgstr "VG_ATTAINMENT_END　16"
+
+msgid "VG_ATTAINMENT_END　17"
+msgstr "VG_ATTAINMENT_END　17"
+
+msgid "VG_ATTAINMENT_END　18"
+msgstr "VG_ATTAINMENT_END　18"
+
+msgid "VG_ATTAINMENT_END　19"
+msgstr "VG_ATTAINMENT_END　19"
+
+msgid "VG_ATTAINMENT_END　20"
+msgstr "VG_ATTAINMENT_END　20"
+
+msgid "VG_ATTAINMENT_END　21"
+msgstr "VG_ATTAINMENT_END　21"
+
+msgid "VG_ATTAINMENT_END　23以上＿通常プレイ中はあり得ない数値です。＿VG_ATTAINMENT_END　22に戻します。"
+msgstr "VG_ATTAINMENT_END　23 o más＿Valor imposible en partida normal.＿Se restablecerá VG_ATTAINMENT_END　22."
+
+msgid "VG_ATTAINMENT_END　22(MAX)"
+msgstr "VG_ATTAINMENT_END　22(MAX)"
+
+msgid "VG_ATTAINMENT_END　0"
+msgstr "VG_ATTAINMENT_END　0"
+
+msgid "VG_ATTAINMENT_END　1"
+msgstr "VG_ATTAINMENT_END　1"
+
+msgid "VG_ATTAINMENT_END　2"
+msgstr "VG_ATTAINMENT_END　2"
+
+msgid "VG_ATTAINMENT_END　3"
+msgstr "VG_ATTAINMENT_END　3"
+
+msgid "VG_ATTAINMENT_END　4"
+msgstr "VG_ATTAINMENT_END　4"
+
+msgid "VG_ATTAINMENT_END　5"
+msgstr "VG_ATTAINMENT_END　5"
+
+msgid "VG_ATTAINMENT_END　6"
+msgstr "VG_ATTAINMENT_END　6"
+
+msgid "VG_ATTAINMENT_END　7"
+msgstr "VG_ATTAINMENT_END　7"
+
+msgid "VG_ATTAINMENT_END　8"
+msgstr "VG_ATTAINMENT_END　8"
+
+msgid "VG_ATTAINMENT_END　9"
+msgstr "VG_ATTAINMENT_END　9"
+
+msgid "VG_ATTAINMENT_END　10"
+msgstr "VG_ATTAINMENT_END　10"
+
+msgid "VG_ATTAINMENT_END　11"
+msgstr "VG_ATTAINMENT_END　11"
+
+msgid "VG_ATTAINMENT_END　12"
+msgstr "VG_ATTAINMENT_END　12"
+
+msgid "VG_ATTAINMENT_END　13"
+msgstr "VG_ATTAINMENT_END　13"
+
+msgid "VG_ATTAINMENT_END　14"
+msgstr "VG_ATTAINMENT_END　14"
+
+msgid "VG_ATTAINMENT_END　15"
+msgstr "VG_ATTAINMENT_END　15"
+
+msgid "VG_ATTAINMENT_END　16"
+msgstr "VG_ATTAINMENT_END　16"
+
+msgid "VG_ATTAINMENT_END　17"
+msgstr "VG_ATTAINMENT_END　17"
+
+msgid "VG_ATTAINMENT_END　18"
+msgstr "VG_ATTAINMENT_END　18"
+
+msgid "VG_ATTAINMENT_END　19"
+msgstr "VG_ATTAINMENT_END　19"
+
+msgid "VG_ATTAINMENT_END　20"
+msgstr "VG_ATTAINMENT_END　20"
+
+msgid "VG_ATTAINMENT_END　21"
+msgstr "VG_ATTAINMENT_END　21"
+
+msgid "VG_ATTAINMENT_END　23以上＿通常プレイ中はあり得ない数値です。＿VG_ATTAINMENT_END　22に戻します。"
+msgstr "VG_ATTAINMENT_END　23 o más＿Valor imposible en partida normal.＿Se restablecerá VG_ATTAINMENT_END　22."
+
+msgid "VG_ATTAINMENT_END　22(MAX)"
+msgstr "VG_ATTAINMENT_END　22(MAX)"
+
+msgid "VG_ATTAINMENT_END　0"
+msgstr "VG_ATTAINMENT_END　0"
+
+msgid "VG_ATTAINMENT_END　1"
+msgstr "VG_ATTAINMENT_END　1"
+
+msgid "VG_ATTAINMENT_END　2"
+msgstr "VG_ATTAINMENT_END　2"
+
+msgid "VG_ATTAINMENT_END　3"
+msgstr "VG_ATTAINMENT_END　3"
+
+msgid "VG_ATTAINMENT_END　4"
+msgstr "VG_ATTAINMENT_END　4"
+
+msgid "VG_ATTAINMENT_END　5"
+msgstr "VG_ATTAINMENT_END　5"
+
+msgid "VG_ATTAINMENT_END　6"
+msgstr "VG_ATTAINMENT_END　6"
+
+msgid "VG_ATTAINMENT_END　7"
+msgstr "VG_ATTAINMENT_END　7"
+
+msgid "VG_ATTAINMENT_END　8"
+msgstr "VG_ATTAINMENT_END　8"
+
+msgid "VG_ATTAINMENT_END　9"
+msgstr "VG_ATTAINMENT_END　9"
+
+msgid "VG_ATTAINMENT_END　10"
+msgstr "VG_ATTAINMENT_END　10"
+
+msgid "VG_ATTAINMENT_END　11"
+msgstr "VG_ATTAINMENT_END　11"
+
+msgid "VG_ATTAINMENT_END　12"
+msgstr "VG_ATTAINMENT_END　12"
+
+msgid "VG_ATTAINMENT_END　13"
+msgstr "VG_ATTAINMENT_END　13"
+
+msgid "VG_ATTAINMENT_END　14"
+msgstr "VG_ATTAINMENT_END　14"
+
+msgid "VG_ATTAINMENT_END　15"
+msgstr "VG_ATTAINMENT_END　15"
+
+msgid "VG_ATTAINMENT_END　16"
+msgstr "VG_ATTAINMENT_END　16"
+
+msgid "VG_ATTAINMENT_END　17"
+msgstr "VG_ATTAINMENT_END　17"
+
+msgid "VG_ATTAINMENT_END　18"
+msgstr "VG_ATTAINMENT_END　18"
+
+msgid "VG_ATTAINMENT_END　19"
+msgstr "VG_ATTAINMENT_END　19"
+
+msgid "VG_ATTAINMENT_END　20"
+msgstr "VG_ATTAINMENT_END　20"
+
+msgid "VG_ATTAINMENT_END　21"
+msgstr "VG_ATTAINMENT_END　21"
+
+msgid "VG_ATTAINMENT_END　23以上＿通常プレイ中はあり得ない数値です。＿VG_ATTAINMENT_END　22に戻します。"
+msgstr "VG_ATTAINMENT_END　23 o más＿Valor imposible en partida normal.＿Se restablecerá VG_ATTAINMENT_END　22."
+
+msgid "VG_ATTAINMENT_END　22(MAX)"
+msgstr "VG_ATTAINMENT_END　22(MAX)"
+
+msgid "VG_ATTAINMENT_END　0"
+msgstr "VG_ATTAINMENT_END　0"
+
+msgid "VG_ATTAINMENT_END　1"
+msgstr "VG_ATTAINMENT_END　1"
+
+msgid "VG_ATTAINMENT_END　2"
+msgstr "VG_ATTAINMENT_END　2"
+
+msgid "VG_ATTAINMENT_END　3"
+msgstr "VG_ATTAINMENT_END　3"
+
+msgid "VG_ATTAINMENT_END　4"
+msgstr "VG_ATTAINMENT_END　4"
+
+msgid "VG_ATTAINMENT_END　5"
+msgstr "VG_ATTAINMENT_END　5"
+
+msgid "VG_ATTAINMENT_END　6"
+msgstr "VG_ATTAINMENT_END　6"
+
+msgid "VG_ATTAINMENT_END　7"
+msgstr "VG_ATTAINMENT_END　7"
+
+msgid "VG_ATTAINMENT_END　8"
+msgstr "VG_ATTAINMENT_END　8"
+
+msgid "VG_ATTAINMENT_END　9"
+msgstr "VG_ATTAINMENT_END　9"
+
+msgid "VG_ATTAINMENT_END　10"
+msgstr "VG_ATTAINMENT_END　10"
+
+msgid "VG_ATTAINMENT_END　11"
+msgstr "VG_ATTAINMENT_END　11"
+
+msgid "VG_ATTAINMENT_END　12"
+msgstr "VG_ATTAINMENT_END　12"
+
+msgid "VG_ATTAINMENT_END　13"
+msgstr "VG_ATTAINMENT_END　13"
+
+msgid "VG_ATTAINMENT_END　14"
+msgstr "VG_ATTAINMENT_END　14"
+
+msgid "VG_ATTAINMENT_END　15"
+msgstr "VG_ATTAINMENT_END　15"
+
+msgid "VG_ATTAINMENT_END　16"
+msgstr "VG_ATTAINMENT_END　16"
+
+msgid "VG_ATTAINMENT_END　17"
+msgstr "VG_ATTAINMENT_END　17"
+
+msgid "VG_ATTAINMENT_END　18"
+msgstr "VG_ATTAINMENT_END　18"
+
+msgid "VG_ATTAINMENT_END　19"
+msgstr "VG_ATTAINMENT_END　19"
+
+msgid "VG_ATTAINMENT_END　20"
+msgstr "VG_ATTAINMENT_END　20"
+
+msgid "VG_ATTAINMENT_END　21"
+msgstr "VG_ATTAINMENT_END　21"
+
+msgid "VG_ATTAINMENT_END　23以上＿通常プレイ中はあり得ない数値です。＿VG_ATTAINMENT_END　22に戻します。"
+msgstr "VG_ATTAINMENT_END　23 o más＿Valor imposible en partida normal.＿Se restablecerá VG_ATTAINMENT_END　22."
+
+msgid "VG_ATTAINMENT_END　22(MAX)"
+msgstr "VG_ATTAINMENT_END　22(MAX)"
+
+msgid "VG_ATTAINMENT_END　0"
+msgstr "VG_ATTAINMENT_END　0"
+
+msgid "VG_ATTAINMENT_END　1"
+msgstr "VG_ATTAINMENT_END　1"
+
+msgid "VG_ATTAINMENT_END　2"
+msgstr "VG_ATTAINMENT_END　2"
+
+msgid "VG_ATTAINMENT_END　3"
+msgstr "VG_ATTAINMENT_END　3"
+
+msgid "VG_ATTAINMENT_END　4"
+msgstr "VG_ATTAINMENT_END　4"
+
+msgid "VG_ATTAINMENT_END　5"
+msgstr "VG_ATTAINMENT_END　5"
+
+msgid "VG_ATTAINMENT_END　6"
+msgstr "VG_ATTAINMENT_END　6"
+
+msgid "VG_ATTAINMENT_END　7"
+msgstr "VG_ATTAINMENT_END　7"
+
+msgid "VG_ATTAINMENT_END　8"
+msgstr "VG_ATTAINMENT_END　8"
+
+msgid "VG_ATTAINMENT_END　9"
+msgstr "VG_ATTAINMENT_END　9"
+
+msgid "VG_ATTAINMENT_END　10"
+msgstr "VG_ATTAINMENT_END　10"
+
+msgid "VG_ATTAINMENT_END　11"
+msgstr "VG_ATTAINMENT_END　11"
+
+msgid "VG_ATTAINMENT_END　12"
+msgstr "VG_ATTAINMENT_END　12"
+
+msgid "VG_ATTAINMENT_END　13"
+msgstr "VG_ATTAINMENT_END　13"
+
+msgid "VG_ATTAINMENT_END　14"
+msgstr "VG_ATTAINMENT_END　14"
+
+msgid "VG_ATTAINMENT_END　15"
+msgstr "VG_ATTAINMENT_END　15"
+
+msgid "VG_ATTAINMENT_END　16"
+msgstr "VG_ATTAINMENT_END　16"
+
+msgid "VG_ATTAINMENT_END　17"
+msgstr "VG_ATTAINMENT_END　17"
+
+msgid "VG_ATTAINMENT_END　18"
+msgstr "VG_ATTAINMENT_END　18"
+
+msgid "VG_ATTAINMENT_END　19"
+msgstr "VG_ATTAINMENT_END　19"
+
+msgid "VG_ATTAINMENT_END　20"
+msgstr "VG_ATTAINMENT_END　20"
+
+msgid "VG_ATTAINMENT_END　21"
+msgstr "VG_ATTAINMENT_END　21"
+
+msgid "VG_ATTAINMENT_END　23以上＿通常プレイ中はあり得ない数値です。＿VG_ATTAINMENT_END　22に戻します。"
+msgstr "VG_ATTAINMENT_END　23 o más＿Valor imposible en partida normal.＿Se restablecerá VG_ATTAINMENT_END　22."
+
+msgid "VG_ATTAINMENT_END　22(MAX)"
+msgstr "VG_ATTAINMENT_END　22(MAX)"
+
+msgid "VG_ATTAINMENT_END　0"
+msgstr "VG_ATTAINMENT_END　0"
+
+msgid "VG_ATTAINMENT_END　1"
+msgstr "VG_ATTAINMENT_END　1"
+
+msgid "VG_ATTAINMENT_END　2"
+msgstr "VG_ATTAINMENT_END　2"
+
+msgid "VG_ATTAINMENT_END　3"
+msgstr "VG_ATTAINMENT_END　3"
+
+msgid "VG_ATTAINMENT_END　4"
+msgstr "VG_ATTAINMENT_END　4"
+
+msgid "VG_ATTAINMENT_END　5"
+msgstr "VG_ATTAINMENT_END　5"
+
+msgid "VG_ATTAINMENT_END　6"
+msgstr "VG_ATTAINMENT_END　6"
+
+msgid "VG_ATTAINMENT_END　7"
+msgstr "VG_ATTAINMENT_END　7"
+
+msgid "VG_ATTAINMENT_END　8"
+msgstr "VG_ATTAINMENT_END　8"
+
+msgid "VG_ATTAINMENT_END　9"
+msgstr "VG_ATTAINMENT_END　9"
+
+msgid "VG_ATTAINMENT_END　10"
+msgstr "VG_ATTAINMENT_END　10"
+
+msgid "VG_ATTAINMENT_END　11"
+msgstr "VG_ATTAINMENT_END　11"
+
+msgid "VG_ATTAINMENT_END　12"
+msgstr "VG_ATTAINMENT_END　12"
+
+msgid "VG_ATTAINMENT_END　13"
+msgstr "VG_ATTAINMENT_END　13"
+
+msgid "VG_ATTAINMENT_END　14"
+msgstr "VG_ATTAINMENT_END　14"
+
+msgid "VG_ATTAINMENT_END　15"
+msgstr "VG_ATTAINMENT_END　15"
+
+msgid "VG_ATTAINMENT_END　16"
+msgstr "VG_ATTAINMENT_END　16"
+
+msgid "VG_ATTAINMENT_END　17"
+msgstr "VG_ATTAINMENT_END　17"
+
+msgid "VG_ATTAINMENT_END　18"
+msgstr "VG_ATTAINMENT_END　18"
+
+msgid "VG_ATTAINMENT_END　19"
+msgstr "VG_ATTAINMENT_END　19"
+
+msgid "VG_ATTAINMENT_END　20"
+msgstr "VG_ATTAINMENT_END　20"
+
+msgid "VG_ATTAINMENT_END　21"
+msgstr "VG_ATTAINMENT_END　21"
+
+msgid "VG_ATTAINMENT_END　23以上＿通常プレイ中はあり得ない数値です。＿VG_ATTAINMENT_END　22に戻します。"
+msgstr "VG_ATTAINMENT_END　23 o más＿Valor imposible en partida normal.＿Se restablecerá VG_ATTAINMENT_END　22."
+
+msgid "VG_ATTAINMENT_END　22(MAX)"
+msgstr "VG_ATTAINMENT_END　22(MAX)"
+
+msgid "VG_ATTAINMENT_END　0"
+msgstr "VG_ATTAINMENT_END　0"
+
+msgid "VG_ATTAINMENT_END　1"
+msgstr "VG_ATTAINMENT_END　1"
+
+msgid "VG_ATTAINMENT_END　2"
+msgstr "VG_ATTAINMENT_END　2"
+
+msgid "VG_ATTAINMENT_END　3"
+msgstr "VG_ATTAINMENT_END　3"
+
+msgid "VG_ATTAINMENT_END　4"
+msgstr "VG_ATTAINMENT_END　4"
+
+msgid "VG_ATTAINMENT_END　5"
+msgstr "VG_ATTAINMENT_END　5"
+
+msgid "VG_ATTAINMENT_END　6"
+msgstr "VG_ATTAINMENT_END　6"
+
+msgid "VG_ATTAINMENT_END　7"
+msgstr "VG_ATTAINMENT_END　7"
+
+msgid "VG_ATTAINMENT_END　8"
+msgstr "VG_ATTAINMENT_END　8"
+
+msgid "VG_ATTAINMENT_END　9"
+msgstr "VG_ATTAINMENT_END　9"
+
+msgid "VG_ATTAINMENT_END　10"
+msgstr "VG_ATTAINMENT_END　10"
+
+msgid "VG_ATTAINMENT_END　11"
+msgstr "VG_ATTAINMENT_END　11"
+
+msgid "VG_ATTAINMENT_END　12"
+msgstr "VG_ATTAINMENT_END　12"
+
+msgid "VG_ATTAINMENT_END　13"
+msgstr "VG_ATTAINMENT_END　13"
+
+msgid "VG_ATTAINMENT_END　14"
+msgstr "VG_ATTAINMENT_END　14"
+
+msgid "VG_ATTAINMENT_END　15"
+msgstr "VG_ATTAINMENT_END　15"
+
+msgid "VG_ATTAINMENT_END　16"
+msgstr "VG_ATTAINMENT_END　16"
+
+msgid "VG_ATTAINMENT_END　17"
+msgstr "VG_ATTAINMENT_END　17"
+
+msgid "VG_ATTAINMENT_END　18"
+msgstr "VG_ATTAINMENT_END　18"
+
+msgid "VG_ATTAINMENT_END　19"
+msgstr "VG_ATTAINMENT_END　19"
+
+msgid "VG_ATTAINMENT_END　20"
+msgstr "VG_ATTAINMENT_END　20"
+
+msgid "VG_ATTAINMENT_END　21"
+msgstr "VG_ATTAINMENT_END　21"
+
+msgid "VG_ATTAINMENT_END　23以上＿通常プレイ中はあり得ない数値です。＿VG_ATTAINMENT_END　22に戻します。"
+msgstr "VG_ATTAINMENT_END　23 o más＿Valor imposible en partida normal.＿Se restablecerá VG_ATTAINMENT_END　22."
+
+msgid "VG_ATTAINMENT_END　22(MAX)"
+msgstr "VG_ATTAINMENT_END　22(MAX)"
+
+msgid "VG_ATTAINMENT_END　0"
+msgstr "VG_ATTAINMENT_END　0"
+
+msgid "VG_ATTAINMENT_END　1"
+msgstr "VG_ATTAINMENT_END　1"
+
+msgid "VG_ATTAINMENT_END　2"
+msgstr "VG_ATTAINMENT_END　2"
+
+msgid "VG_ATTAINMENT_END　3"
+msgstr "VG_ATTAINMENT_END　3"
+
+msgid "VG_ATTAINMENT_END　4"
+msgstr "VG_ATTAINMENT_END　4"
+
+msgid "VG_ATTAINMENT_END　5"
+msgstr "VG_ATTAINMENT_END　5"
+
+msgid "VG_ATTAINMENT_END　6"
+msgstr "VG_ATTAINMENT_END　6"
+
+msgid "VG_ATTAINMENT_END　7"
+msgstr "VG_ATTAINMENT_END　7"
+
+msgid "VG_ATTAINMENT_END　8"
+msgstr "VG_ATTAINMENT_END　8"
+
+msgid "VG_ATTAINMENT_END　9"
+msgstr "VG_ATTAINMENT_END　9"
+
+msgid "VG_ATTAINMENT_END　10"
+msgstr "VG_ATTAINMENT_END　10"
+
+msgid "VG_ATTAINMENT_END　11"
+msgstr "VG_ATTAINMENT_END　11"
+
+msgid "VG_ATTAINMENT_END　12"
+msgstr "VG_ATTAINMENT_END　12"
+
+msgid "VG_ATTAINMENT_END　13"
+msgstr "VG_ATTAINMENT_END　13"
+
+msgid "VG_ATTAINMENT_END　14"
+msgstr "VG_ATTAINMENT_END　14"
+
+msgid "VG_ATTAINMENT_END　15"
+msgstr "VG_ATTAINMENT_END　15"
+
+msgid "VG_ATTAINMENT_END　16"
+msgstr "VG_ATTAINMENT_END　16"
+
+msgid "VG_ATTAINMENT_END　17"
+msgstr "VG_ATTAINMENT_END　17"
+
+msgid "VG_ATTAINMENT_END　18"
+msgstr "VG_ATTAINMENT_END　18"
+
+msgid "VG_ATTAINMENT_END　19"
+msgstr "VG_ATTAINMENT_END　19"
+
+msgid "VG_ATTAINMENT_END　20"
+msgstr "VG_ATTAINMENT_END　20"
+
+msgid "VG_ATTAINMENT_END　21"
+msgstr "VG_ATTAINMENT_END　21"
+
+msgid "VG_ATTAINMENT_END　23以上＿通常プレイ中はあり得ない数値です。＿VG_ATTAINMENT_END　22に戻します。"
+msgstr "VG_ATTAINMENT_END　23 o más＿Valor imposible en partida normal.＿Se restablecerá VG_ATTAINMENT_END　22."
+
+msgid "VG_ATTAINMENT_END　22(MAX)"
+msgstr "VG_ATTAINMENT_END　22(MAX)"
+
+msgid "VG_ATTAINMENT_END　0"
+msgstr "VG_ATTAINMENT_END　0"
+
+msgid "VG_ATTAINMENT_END　1"
+msgstr "VG_ATTAINMENT_END　1"
+
+msgid "VG_ATTAINMENT_END　2"
+msgstr "VG_ATTAINMENT_END　2"
+
+msgid "VG_ATTAINMENT_END　3"
+msgstr "VG_ATTAINMENT_END　3"
+
+msgid "VG_ATTAINMENT_END　4"
+msgstr "VG_ATTAINMENT_END　4"
+
+msgid "VG_ATTAINMENT_END　5"
+msgstr "VG_ATTAINMENT_END　5"
+
+msgid "VG_ATTAINMENT_END　6"
+msgstr "VG_ATTAINMENT_END　6"
+
+msgid "VG_ATTAINMENT_END　7"
+msgstr "VG_ATTAINMENT_END　7"
+
+msgid "VG_ATTAINMENT_END　8"
+msgstr "VG_ATTAINMENT_END　8"
+
+msgid "VG_ATTAINMENT_END　9"
+msgstr "VG_ATTAINMENT_END　9"
+
+msgid "VG_ATTAINMENT_END　10"
+msgstr "VG_ATTAINMENT_END　10"
+
+msgid "VG_ATTAINMENT_END　11"
+msgstr "VG_ATTAINMENT_END　11"
+
+msgid "VG_ATTAINMENT_END　12"
+msgstr "VG_ATTAINMENT_END　12"
+
+msgid "VG_ATTAINMENT_END　13"
+msgstr "VG_ATTAINMENT_END　13"
+
+msgid "VG_ATTAINMENT_END　14"
+msgstr "VG_ATTAINMENT_END　14"
+
+msgid "VG_ATTAINMENT_END　15"
+msgstr "VG_ATTAINMENT_END　15"
+
+msgid "VG_ATTAINMENT_END　16"
+msgstr "VG_ATTAINMENT_END　16"
+
+msgid "VG_ATTAINMENT_END　17"
+msgstr "VG_ATTAINMENT_END　17"
+
+msgid "VG_ATTAINMENT_END　18"
+msgstr "VG_ATTAINMENT_END　18"
+
+msgid "VG_ATTAINMENT_END　19"
+msgstr "VG_ATTAINMENT_END　19"
+
+msgid "VG_ATTAINMENT_END　20"
+msgstr "VG_ATTAINMENT_END　20"
+
+msgid "VG_ATTAINMENT_END　21"
+msgstr "VG_ATTAINMENT_END　21"
+
+msgid "VG_ATTAINMENT_END　23以上＿通常プレイ中はあり得ない数値です。＿VG_ATTAINMENT_END　22に戻します。"
+msgstr "VG_ATTAINMENT_END　23 o más＿Valor imposible en partida normal.＿Se restablecerá VG_ATTAINMENT_END　22."
+
+msgid "VG_ATTAINMENT_END　22(MAX)"
+msgstr "VG_ATTAINMENT_END　22(MAX)"
+
+msgid "VG_ATTAINMENT_END　0"
+msgstr "VG_ATTAINMENT_END　0"
+
+msgid "VG_ATTAINMENT_END　1"
+msgstr "VG_ATTAINMENT_END　1"
+
+msgid "VG_ATTAINMENT_END　2"
+msgstr "VG_ATTAINMENT_END　2"
+
+msgid "VG_ATTAINMENT_END　3"
+msgstr "VG_ATTAINMENT_END　3"
+
+msgid "VG_ATTAINMENT_END　4"
+msgstr "VG_ATTAINMENT_END　4"
+
+msgid "VG_ATTAINMENT_END　5"
+msgstr "VG_ATTAINMENT_END　5"
+
+msgid "VG_ATTAINMENT_END　6"
+msgstr "VG_ATTAINMENT_END　6"
+
+msgid "VG_ATTAINMENT_END　7"
+msgstr "VG_ATTAINMENT_END　7"
+
+msgid "VG_ATTAINMENT_END　8"
+msgstr "VG_ATTAINMENT_END　8"
+
+msgid "VG_ATTAINMENT_END　9"
+msgstr "VG_ATTAINMENT_END　9"
+
+msgid "VG_ATTAINMENT_END　10"
+msgstr "VG_ATTAINMENT_END　10"
+
+msgid "VG_ATTAINMENT_END　11"
+msgstr "VG_ATTAINMENT_END　11"
+
+msgid "VG_ATTAINMENT_END　12"
+msgstr "VG_ATTAINMENT_END　12"
+
+msgid "VG_ATTAINMENT_END　13"
+msgstr "VG_ATTAINMENT_END　13"
+
+msgid "VG_ATTAINMENT_END　14"
+msgstr "VG_ATTAINMENT_END　14"
+
+msgid "VG_ATTAINMENT_END　15"
+msgstr "VG_ATTAINMENT_END　15"
+
+msgid "VG_ATTAINMENT_END　16"
+msgstr "VG_ATTAINMENT_END　16"
+
+msgid "VG_ATTAINMENT_END　17"
+msgstr "VG_ATTAINMENT_END　17"
+
+msgid "VG_ATTAINMENT_END　18"
+msgstr "VG_ATTAINMENT_END　18"
+
+msgid "VG_ATTAINMENT_END　19"
+msgstr "VG_ATTAINMENT_END　19"
+
+msgid "VG_ATTAINMENT_END　20"
+msgstr "VG_ATTAINMENT_END　20"
+
+msgid "VG_ATTAINMENT_END　21"
+msgstr "VG_ATTAINMENT_END　21"
+
+msgid "VG_ATTAINMENT_END　23以上＿通常プレイ中はあり得ない数値です。＿VG_ATTAINMENT_END　22に戻します。"
+msgstr "VG_ATTAINMENT_END　23 o más＿Valor imposible en partida normal.＿Se restablecerá VG_ATTAINMENT_END　22."
+
+msgid "VG_ATTAINMENT_END　22(MAX)"
+msgstr "VG_ATTAINMENT_END　22(MAX)"
+
+msgid "VG_ATTAINMENT_END　0"
+msgstr "VG_ATTAINMENT_END　0"
+
+msgid "VG_ATTAINMENT_END　1"
+msgstr "VG_ATTAINMENT_END　1"
+
+msgid "VG_ATTAINMENT_END　2"
+msgstr "VG_ATTAINMENT_END　2"
+
+msgid "VG_ATTAINMENT_END　3"
+msgstr "VG_ATTAINMENT_END　3"
+
+msgid "VG_ATTAINMENT_END　4"
+msgstr "VG_ATTAINMENT_END　4"
+
+msgid "VG_ATTAINMENT_END　5"
+msgstr "VG_ATTAINMENT_END　5"
+
+msgid "VG_ATTAINMENT_END　6"
+msgstr "VG_ATTAINMENT_END　6"
+
+msgid "VG_ATTAINMENT_END　7"
+msgstr "VG_ATTAINMENT_END　7"
+
+msgid "VG_ATTAINMENT_END　8"
+msgstr "VG_ATTAINMENT_END　8"
+
+msgid "VG_ATTAINMENT_END　9"
+msgstr "VG_ATTAINMENT_END　9"
+
+msgid "VG_ATTAINMENT_END　10"
+msgstr "VG_ATTAINMENT_END　10"
+
+msgid "VG_ATTAINMENT_END　11"
+msgstr "VG_ATTAINMENT_END　11"
+
+msgid "VG_ATTAINMENT_END　12"
+msgstr "VG_ATTAINMENT_END　12"
+
+msgid "VG_ATTAINMENT_END　13"
+msgstr "VG_ATTAINMENT_END　13"
+
+msgid "VG_ATTAINMENT_END　14"
+msgstr "VG_ATTAINMENT_END　14"
+
+msgid "VG_ATTAINMENT_END　15"
+msgstr "VG_ATTAINMENT_END　15"
+
+msgid "VG_ATTAINMENT_END　16"
+msgstr "VG_ATTAINMENT_END　16"
+
+msgid "VG_ATTAINMENT_END　17"
+msgstr "VG_ATTAINMENT_END　17"
+
+msgid "VG_ATTAINMENT_END　18"
+msgstr "VG_ATTAINMENT_END　18"
+
+msgid "VG_ATTAINMENT_END　19"
+msgstr "VG_ATTAINMENT_END　19"
+
+msgid "VG_ATTAINMENT_END　20"
+msgstr "VG_ATTAINMENT_END　20"
+
+msgid "VG_ATTAINMENT_END　21"
+msgstr "VG_ATTAINMENT_END　21"
+
+msgid "VG_ATTAINMENT_END　23以上＿通常プレイ中はあり得ない数値です。＿VG_ATTAINMENT_END　22に戻します。"
+msgstr "VG_ATTAINMENT_END　23 o más＿Valor imposible en partida normal.＿Se restablecerá VG_ATTAINMENT_END　22."
+
+msgid "VG_ATTAINMENT_END　22(MAX)"
+msgstr "VG_ATTAINMENT_END　22(MAX)"
+
+msgid "VG_ATTAINMENT_END　0"
+msgstr "VG_ATTAINMENT_END　0"
+
+msgid "VG_ATTAINMENT_END　1"
+msgstr "VG_ATTAINMENT_END　1"
+
+msgid "VG_ATTAINMENT_END　2"
+msgstr "VG_ATTAINMENT_END　2"
+
+msgid "VG_ATTAINMENT_END　3"
+msgstr "VG_ATTAINMENT_END　3"
+
+msgid "VG_ATTAINMENT_END　4"
+msgstr "VG_ATTAINMENT_END　4"
+
+msgid "VG_ATTAINMENT_END　5"
+msgstr "VG_ATTAINMENT_END　5"
+
+msgid "VG_ATTAINMENT_END　6"
+msgstr "VG_ATTAINMENT_END　6"
+
+msgid "VG_ATTAINMENT_END　7"
+msgstr "VG_ATTAINMENT_END　7"
+
+msgid "VG_ATTAINMENT_END　8"
+msgstr "VG_ATTAINMENT_END　8"
+
+msgid "VG_ATTAINMENT_END　9"
+msgstr "VG_ATTAINMENT_END　9"
+
+msgid "VG_ATTAINMENT_END　10"
+msgstr "VG_ATTAINMENT_END　10"
+
+msgid "VG_ATTAINMENT_END　11"
+msgstr "VG_ATTAINMENT_END　11"
+
+msgid "VG_ATTAINMENT_END　12"
+msgstr "VG_ATTAINMENT_END　12"
+
+msgid "VG_ATTAINMENT_END　13"
+msgstr "VG_ATTAINMENT_END　13"
+
+msgid "VG_ATTAINMENT_END　14"
+msgstr "VG_ATTAINMENT_END　14"
+
+msgid "VG_ATTAINMENT_END　15"
+msgstr "VG_ATTAINMENT_END　15"
+
+msgid "VG_ATTAINMENT_END　16"
+msgstr "VG_ATTAINMENT_END　16"
+
+msgid "VG_ATTAINMENT_END　17"
+msgstr "VG_ATTAINMENT_END　17"
+
+msgid "VG_ATTAINMENT_END　18"
+msgstr "VG_ATTAINMENT_END　18"
+
+msgid "VG_ATTAINMENT_END　19"
+msgstr "VG_ATTAINMENT_END　19"
+
+msgid "VG_ATTAINMENT_END　20"
+msgstr "VG_ATTAINMENT_END　20"
+
+msgid "VG_ATTAINMENT_END　21"
+msgstr "VG_ATTAINMENT_END　21"
+
+msgid "VG_ATTAINMENT_END　23以上＿通常プレイ中はあり得ない数値です。＿VG_ATTAINMENT_END　22に戻します。"
+msgstr "VG_ATTAINMENT_END　23 o más＿Valor imposible en partida normal.＿Se restablecerá VG_ATTAINMENT_END　22."
+
+msgid "VG_ATTAINMENT_END　22(MAX)"
+msgstr "VG_ATTAINMENT_END　22(MAX)"
+
+msgid "VG_ATTAINMENT_END　0"
+msgstr "VG_ATTAINMENT_END　0"
+
+msgid "VG_ATTAINMENT_END　1"
+msgstr "VG_ATTAINMENT_END　1"
+
+msgid "VG_ATTAINMENT_END　2"
+msgstr "VG_ATTAINMENT_END　2"
+
+msgid "VG_ATTAINMENT_END　3"
+msgstr "VG_ATTAINMENT_END　3"
+
+msgid "VG_ATTAINMENT_END　4"
+msgstr "VG_ATTAINMENT_END　4"
+
+msgid "VG_ATTAINMENT_END　5"
+msgstr "VG_ATTAINMENT_END　5"
+
+msgid "VG_ATTAINMENT_END　6"
+msgstr "VG_ATTAINMENT_END　6"
+
+msgid "VG_ATTAINMENT_END　7"
+msgstr "VG_ATTAINMENT_END　7"
+
+msgid "VG_ATTAINMENT_END　8"
+msgstr "VG_ATTAINMENT_END　8"
+
+msgid "VG_ATTAINMENT_END　9"
+msgstr "VG_ATTAINMENT_END　9"
+
+msgid "VG_ATTAINMENT_END　10"
+msgstr "VG_ATTAINMENT_END　10"
+
+msgid "VG_ATTAINMENT_END　11"
+msgstr "VG_ATTAINMENT_END　11"
+
+msgid "VG_ATTAINMENT_END　12"
+msgstr "VG_ATTAINMENT_END　12"
+
+msgid "VG_ATTAINMENT_END　13"
+msgstr "VG_ATTAINMENT_END　13"
+
+msgid "VG_ATTAINMENT_END　14"
+msgstr "VG_ATTAINMENT_END　14"
+
+msgid "VG_ATTAINMENT_END　15"
+msgstr "VG_ATTAINMENT_END　15"
+
+msgid "VG_ATTAINMENT_END　16"
+msgstr "VG_ATTAINMENT_END　16"
+
+msgid "VG_ATTAINMENT_END　17"
+msgstr "VG_ATTAINMENT_END　17"
+
+msgid "VG_ATTAINMENT_END　18"
+msgstr "VG_ATTAINMENT_END　18"
+
+msgid "VG_ATTAINMENT_END　19"
+msgstr "VG_ATTAINMENT_END　19"
+
+msgid "VG_ATTAINMENT_END　20"
+msgstr "VG_ATTAINMENT_END　20"
+
+msgid "VG_ATTAINMENT_END　21"
+msgstr "VG_ATTAINMENT_END　21"
+
+msgid "VG_ATTAINMENT_END　23以上＿通常プレイ中はあり得ない数値です。＿VG_ATTAINMENT_END　22に戻します。"
+msgstr "VG_ATTAINMENT_END　23 o más＿Valor imposible en partida normal.＿Se restablecerá VG_ATTAINMENT_END　22."
+
+msgid "VG_ATTAINMENT_END　22(MAX)"
+msgstr "VG_ATTAINMENT_END　22(MAX)"
+
+msgid "VG_ATTAINMENT_END　0"
+msgstr "VG_ATTAINMENT_END　0"
+
+msgid "VG_ATTAINMENT_END　1"
+msgstr "VG_ATTAINMENT_END　1"
+
+msgid "VG_ATTAINMENT_END　2"
+msgstr "VG_ATTAINMENT_END　2"
+
+msgid "VG_ATTAINMENT_END　3"
+msgstr "VG_ATTAINMENT_END　3"
+
+msgid "VG_ATTAINMENT_END　4"
+msgstr "VG_ATTAINMENT_END　4"
+
+msgid "VG_ATTAINMENT_END　5"
+msgstr "VG_ATTAINMENT_END　5"
+
+msgid "VG_ATTAINMENT_END　6"
+msgstr "VG_ATTAINMENT_END　6"
+
+msgid "VG_ATTAINMENT_END　7"
+msgstr "VG_ATTAINMENT_END　7"
+
+msgid "VG_ATTAINMENT_END　8"
+msgstr "VG_ATTAINMENT_END　8"
+
+msgid "VG_ATTAINMENT_END　9"
+msgstr "VG_ATTAINMENT_END　9"
+
+msgid "VG_ATTAINMENT_END　10"
+msgstr "VG_ATTAINMENT_END　10"
+
+msgid "VG_ATTAINMENT_END　11"
+msgstr "VG_ATTAINMENT_END　11"
+
+msgid "VG_ATTAINMENT_END　12"
+msgstr "VG_ATTAINMENT_END　12"
+
+msgid "VG_ATTAINMENT_END　13"
+msgstr "VG_ATTAINMENT_END　13"
+
+msgid "VG_ATTAINMENT_END　14"
+msgstr "VG_ATTAINMENT_END　14"
+
+msgid "VG_ATTAINMENT_END　15"
+msgstr "VG_ATTAINMENT_END　15"
+
+msgid "VG_ATTAINMENT_END　16"
+msgstr "VG_ATTAINMENT_END　16"
+
+msgid "VG_ATTAINMENT_END　17"
+msgstr "VG_ATTAINMENT_END　17"
+
+msgid "VG_ATTAINMENT_END　18"
+msgstr "VG_ATTAINMENT_END　18"
+
+msgid "VG_ATTAINMENT_END　19"
+msgstr "VG_ATTAINMENT_END　19"
+
+msgid "VG_ATTAINMENT_END　20"
+msgstr "VG_ATTAINMENT_END　20"
+
+msgid "VG_ATTAINMENT_END　21"
+msgstr "VG_ATTAINMENT_END　21"
+
+msgid "VG_ATTAINMENT_END　23以上＿通常プレイ中はあり得ない数値です。＿VG_ATTAINMENT_END　22に戻します。"
+msgstr "VG_ATTAINMENT_END　23 o más＿Valor imposible en partida normal.＿Se restablecerá VG_ATTAINMENT_END　22."
+
+msgid "VG_ATTAINMENT_END　22(MAX)"
+msgstr "VG_ATTAINMENT_END　22(MAX)"
+
+msgid "VG_ATTAINMENT_END　0"
+msgstr "VG_ATTAINMENT_END　0"
+
+msgid "VG_ATTAINMENT_END　1"
+msgstr "VG_ATTAINMENT_END　1"
+
+msgid "VG_ATTAINMENT_END　2"
+msgstr "VG_ATTAINMENT_END　2"
+
+msgid "VG_ATTAINMENT_END　3"
+msgstr "VG_ATTAINMENT_END　3"
+
+msgid "VG_ATTAINMENT_END　4"
+msgstr "VG_ATTAINMENT_END　4"
+
+msgid "VG_ATTAINMENT_END　5"
+msgstr "VG_ATTAINMENT_END　5"
+
+msgid "VG_ATTAINMENT_END　6"
+msgstr "VG_ATTAINMENT_END　6"
+
+msgid "VG_ATTAINMENT_END　7"
+msgstr "VG_ATTAINMENT_END　7"
+
+msgid "VG_ATTAINMENT_END　8"
+msgstr "VG_ATTAINMENT_END　8"
+
+msgid "VG_ATTAINMENT_END　9"
+msgstr "VG_ATTAINMENT_END　9"
+
+msgid "VG_ATTAINMENT_END　10"
+msgstr "VG_ATTAINMENT_END　10"
+
+msgid "VG_ATTAINMENT_END　11"
+msgstr "VG_ATTAINMENT_END　11"
+
+msgid "VG_ATTAINMENT_END　12"
+msgstr "VG_ATTAINMENT_END　12"
+
+msgid "VG_ATTAINMENT_END　13"
+msgstr "VG_ATTAINMENT_END　13"
+
+msgid "VG_ATTAINMENT_END　14"
+msgstr "VG_ATTAINMENT_END　14"
+
+msgid "VG_ATTAINMENT_END　15"
+msgstr "VG_ATTAINMENT_END　15"
+
+msgid "VG_ATTAINMENT_END　16"
+msgstr "VG_ATTAINMENT_END　16"
+
+msgid "VG_ATTAINMENT_END　17"
+msgstr "VG_ATTAINMENT_END　17"
+
+msgid "VG_ATTAINMENT_END　18"
+msgstr "VG_ATTAINMENT_END　18"
+
+msgid "VG_ATTAINMENT_END　19"
+msgstr "VG_ATTAINMENT_END　19"
+
+msgid "VG_ATTAINMENT_END　20"
+msgstr "VG_ATTAINMENT_END　20"
+
+msgid "VG_ATTAINMENT_END　21"
+msgstr "VG_ATTAINMENT_END　21"
+
+msgid "VG_ATTAINMENT_END　23以上＿通常プレイ中はあり得ない数値です。＿VG_ATTAINMENT_END　22に戻します。"
+msgstr "VG_ATTAINMENT_END　23 o más＿Valor imposible en partida normal.＿Se restablecerá VG_ATTAINMENT_END　22."
+
+msgid "VG_ATTAINMENT_END　22(MAX)"
+msgstr "VG_ATTAINMENT_END　22(MAX)"
+
+msgid "VG_ATTAINMENT_END　0"
+msgstr "VG_ATTAINMENT_END　0"
+
+msgid "VG_ATTAINMENT_END　1"
+msgstr "VG_ATTAINMENT_END　1"
+
+msgid "VG_ATTAINMENT_END　2"
+msgstr "VG_ATTAINMENT_END　2"
+
+msgid "VG_ATTAINMENT_END　3"
+msgstr "VG_ATTAINMENT_END　3"
+
+msgid "VG_ATTAINMENT_END　4"
+msgstr "VG_ATTAINMENT_END　4"
+
+msgid "VG_ATTAINMENT_END　5"
+msgstr "VG_ATTAINMENT_END　5"
+
+msgid "VG_ATTAINMENT_END　6"
+msgstr "VG_ATTAINMENT_END　6"
+
+msgid "VG_ATTAINMENT_END　7"
+msgstr "VG_ATTAINMENT_END　7"
+
+msgid "VG_ATTAINMENT_END　8"
+msgstr "VG_ATTAINMENT_END　8"
+
+msgid "VG_ATTAINMENT_END　9"
+msgstr "VG_ATTAINMENT_END　9"
+
+msgid "VG_ATTAINMENT_END　10"
+msgstr "VG_ATTAINMENT_END　10"
+
+msgid "VG_ATTAINMENT_END　11"
+msgstr "VG_ATTAINMENT_END　11"
+
+msgid "VG_ATTAINMENT_END　12"
+msgstr "VG_ATTAINMENT_END　12"
+
+msgid "VG_ATTAINMENT_END　13"
+msgstr "VG_ATTAINMENT_END　13"
+
+msgid "VG_ATTAINMENT_END　14"
+msgstr "VG_ATTAINMENT_END　14"
+
+msgid "VG_ATTAINMENT_END　15"
+msgstr "VG_ATTAINMENT_END　15"
+
+msgid "VG_ATTAINMENT_END　16"
+msgstr "VG_ATTAINMENT_END　16"
+
+msgid "VG_ATTAINMENT_END　17"
+msgstr "VG_ATTAINMENT_END　17"
+
+msgid "VG_ATTAINMENT_END　18"
+msgstr "VG_ATTAINMENT_END　18"
+
+msgid "VG_ATTAINMENT_END　19"
+msgstr "VG_ATTAINMENT_END　19"
+
+msgid "VG_ATTAINMENT_END　20"
+msgstr "VG_ATTAINMENT_END　20"
+
+msgid "VG_ATTAINMENT_END　21"
+msgstr "VG_ATTAINMENT_END　21"
+
+msgid "VG_ATTAINMENT_END　23以上＿通常プレイ中はあり得ない数値です。＿VG_ATTAINMENT_END　22に戻します。"
+msgstr "VG_ATTAINMENT_END　23 o más＿Valor imposible en partida normal.＿Se restablecerá VG_ATTAINMENT_END　22."
+
+msgid "VG_ATTAINMENT_END　22(MAX)"
+msgstr "VG_ATTAINMENT_END　22(MAX)"
+
+msgid "VG_ATTAINMENT_END　0"
+msgstr "VG_ATTAINMENT_END　0"
+
+msgid "VG_ATTAINMENT_END　1"
+msgstr "VG_ATTAINMENT_END　1"
+
+msgid "VG_ATTAINMENT_END　2"
+msgstr "VG_ATTAINMENT_END　2"
+
+msgid "VG_ATTAINMENT_END　3"
+msgstr "VG_ATTAINMENT_END　3"
+
+msgid "VG_ATTAINMENT_END　4"
+msgstr "VG_ATTAINMENT_END　4"
+
+msgid "VG_ATTAINMENT_END　5"
+msgstr "VG_ATTAINMENT_END　5"
+
+msgid "VG_ATTAINMENT_END　6"
+msgstr "VG_ATTAINMENT_END　6"
+
+msgid "VG_ATTAINMENT_END　7"
+msgstr "VG_ATTAINMENT_END　7"
+
+msgid "VG_ATTAINMENT_END　8"
+msgstr "VG_ATTAINMENT_END　8"
+
+msgid "VG_ATTAINMENT_END　9"
+msgstr "VG_ATTAINMENT_END　9"
+
+msgid "VG_ATTAINMENT_END　10"
+msgstr "VG_ATTAINMENT_END　10"
+
+msgid "VG_ATTAINMENT_END　11"
+msgstr "VG_ATTAINMENT_END　11"
+
+msgid "VG_ATTAINMENT_END　12"
+msgstr "VG_ATTAINMENT_END　12"
+
+msgid "VG_ATTAINMENT_END　13"
+msgstr "VG_ATTAINMENT_END　13"
+
+msgid "VG_ATTAINMENT_END　14"
+msgstr "VG_ATTAINMENT_END　14"
+
+msgid "VG_ATTAINMENT_END　15"
+msgstr "VG_ATTAINMENT_END　15"
+
+msgid "VG_ATTAINMENT_END　16"
+msgstr "VG_ATTAINMENT_END　16"
+
+msgid "VG_ATTAINMENT_END　17"
+msgstr "VG_ATTAINMENT_END　17"
+
+msgid "VG_ATTAINMENT_END　18"
+msgstr "VG_ATTAINMENT_END　18"
+
+msgid "VG_ATTAINMENT_END　19"
+msgstr "VG_ATTAINMENT_END　19"
+
+msgid "VG_ATTAINMENT_END　20"
+msgstr "VG_ATTAINMENT_END　20"
+
+msgid "VG_ATTAINMENT_END　21"
+msgstr "VG_ATTAINMENT_END　21"
+
+msgid "VG_ATTAINMENT_END　23以上＿通常プレイ中はあり得ない数値です。＿VG_ATTAINMENT_END　22に戻します。"
+msgstr "VG_ATTAINMENT_END　23 o más＿Valor imposible en partida normal.＿Se restablecerá VG_ATTAINMENT_END　22."
+
+msgid "VG_ATTAINMENT_END　22(MAX)"
+msgstr "VG_ATTAINMENT_END　22(MAX)"
+
+msgid "VG_ATTAINMENT_END　0"
+msgstr "VG_ATTAINMENT_END　0"
+
+msgid "VG_ATTAINMENT_END　1"
+msgstr "VG_ATTAINMENT_END　1"
+
+msgid "VG_ATTAINMENT_END　2"
+msgstr "VG_ATTAINMENT_END　2"
+
+msgid "VG_ATTAINMENT_END　3"
+msgstr "VG_ATTAINMENT_END　3"
+
+msgid "VG_ATTAINMENT_END　4"
+msgstr "VG_ATTAINMENT_END　4"
+
+msgid "VG_ATTAINMENT_END　5"
+msgstr "VG_ATTAINMENT_END　5"
+
+msgid "VG_ATTAINMENT_END　6"
+msgstr "VG_ATTAINMENT_END　6"
+
+msgid "VG_ATTAINMENT_END　7"
+msgstr "VG_ATTAINMENT_END　7"
+
+msgid "VG_ATTAINMENT_END　8"
+msgstr "VG_ATTAINMENT_END　8"
+
+msgid "VG_ATTAINMENT_END　9"
+msgstr "VG_ATTAINMENT_END　9"
+
+msgid "VG_ATTAINMENT_END　10"
+msgstr "VG_ATTAINMENT_END　10"
+
+msgid "VG_ATTAINMENT_END　11"
+msgstr "VG_ATTAINMENT_END　11"
+
+msgid "VG_ATTAINMENT_END　12"
+msgstr "VG_ATTAINMENT_END　12"
+
+msgid "VG_ATTAINMENT_END　13"
+msgstr "VG_ATTAINMENT_END　13"
+
+msgid "VG_ATTAINMENT_END　14"
+msgstr "VG_ATTAINMENT_END　14"
+
+msgid "VG_ATTAINMENT_END　15"
+msgstr "VG_ATTAINMENT_END　15"
+
+msgid "VG_ATTAINMENT_END　16"
+msgstr "VG_ATTAINMENT_END　16"
+
+msgid "VG_ATTAINMENT_END　17"
+msgstr "VG_ATTAINMENT_END　17"
+
+msgid "VG_ATTAINMENT_END　18"
+msgstr "VG_ATTAINMENT_END　18"
+
+msgid "VG_ATTAINMENT_END　19"
+msgstr "VG_ATTAINMENT_END　19"
+
+msgid "VG_ATTAINMENT_END　20"
+msgstr "VG_ATTAINMENT_END　20"
+
+msgid "VG_ATTAINMENT_END　21"
+msgstr "VG_ATTAINMENT_END　21"
+
+msgid "VG_ATTAINMENT_END　23以上＿通常プレイ中はあり得ない数値です。＿VG_ATTAINMENT_END　22に戻します。"
+msgstr "VG_ATTAINMENT_END　23 o más＿Valor imposible en partida normal.＿Se restablecerá VG_ATTAINMENT_END　22."
+
+msgid "VG_ATTAINMENT_END　22(MAX)"
+msgstr "VG_ATTAINMENT_END　22(MAX)"
+
+msgid "VG_ATTAINMENT_END　0"
+msgstr "VG_ATTAINMENT_END　0"
+
+msgid "VG_ATTAINMENT_END　1"
+msgstr "VG_ATTAINMENT_END　1"
+
+msgid "VG_ATTAINMENT_END　2"
+msgstr "VG_ATTAINMENT_END　2"
+
+msgid "VG_ATTAINMENT_END　3"
+msgstr "VG_ATTAINMENT_END　3"
+
+msgid "VG_ATTAINMENT_END　4"
+msgstr "VG_ATTAINMENT_END　4"
+
+msgid "VG_ATTAINMENT_END　5"
+msgstr "VG_ATTAINMENT_END　5"
+
+msgid "VG_ATTAINMENT_END　6"
+msgstr "VG_ATTAINMENT_END　6"
+
+msgid "VG_ATTAINMENT_END　7"
+msgstr "VG_ATTAINMENT_END　7"
+
+msgid "VG_ATTAINMENT_END　8"
+msgstr "VG_ATTAINMENT_END　8"
+
+msgid "VG_ATTAINMENT_END　9"
+msgstr "VG_ATTAINMENT_END　9"
+
+msgid "VG_ATTAINMENT_END　10"
+msgstr "VG_ATTAINMENT_END　10"
+
+msgid "VG_ATTAINMENT_END　11"
+msgstr "VG_ATTAINMENT_END　11"
+
+msgid "VG_ATTAINMENT_END　12"
+msgstr "VG_ATTAINMENT_END　12"
+
+msgid "VG_ATTAINMENT_END　13"
+msgstr "VG_ATTAINMENT_END　13"
+
+msgid "VG_ATTAINMENT_END　14"
+msgstr "VG_ATTAINMENT_END　14"
+
+msgid "VG_ATTAINMENT_END　15"
+msgstr "VG_ATTAINMENT_END　15"
+
+msgid "VG_ATTAINMENT_END　16"
+msgstr "VG_ATTAINMENT_END　16"
+
+msgid "VG_ATTAINMENT_END　17"
+msgstr "VG_ATTAINMENT_END　17"
+
+msgid "VG_ATTAINMENT_END　18"
+msgstr "VG_ATTAINMENT_END　18"
+
+msgid "VG_ATTAINMENT_END　19"
+msgstr "VG_ATTAINMENT_END　19"
+
+msgid "VG_ATTAINMENT_END　20"
+msgstr "VG_ATTAINMENT_END　20"
+
+msgid "VG_ATTAINMENT_END　21"
+msgstr "VG_ATTAINMENT_END　21"
+
+msgid "VG_ATTAINMENT_END　23以上＿通常プレイ中はあり得ない数値です。＿VG_ATTAINMENT_END　22に戻します。"
+msgstr "VG_ATTAINMENT_END　23 o más＿Valor imposible en partida normal.＿Se restablecerá VG_ATTAINMENT_END　22."
+
+msgid "VG_ATTAINMENT_END　22(MAX)"
+msgstr "VG_ATTAINMENT_END　22(MAX)"
+
+msgid "次へ"
+msgstr "Siguiente"
+
+msgid "MP_AMI1"
+msgstr "MP_AMI1"
+
+msgid "MP_AMI2"
+msgstr "MP_AMI2"
+
+msgid "MP_AMI3"
+msgstr "MP_AMI3"
+
+msgid "MP_AMI4"
+msgstr "MP_AMI4"
+
+msgid "MP_INK1"
+msgstr "MP_INK1"
+
+msgid "戻る"
+msgstr "Volver"
+
+msgid "次へ"
+msgstr "Siguiente"
+
+msgid "MP_INK2"
+msgstr "MP_INK2"
+
+msgid "MP_INK3"
+msgstr "MP_INK3"
+
+msgid "MP_INK4"
+msgstr "MP_INK4"
+
+msgid "MP_INK5"
+msgstr "MP_INK5"
+
+msgid "MP_INK6"
+msgstr "MP_INK6"
+
+msgid "戻る"
+msgstr "Volver"
+
+msgid "次へ"
+msgstr "Siguiente"
+
+msgid "MP_INK7"
+msgstr "MP_INK7"
+
+msgid "MP_INK8"
+msgstr "MP_INK8"
+
+msgid "MP_MIN1"
+msgstr "MP_MIN1"
+
+msgid "MP_MIN2"
+msgstr "MP_MIN2"
+
+msgid "MP_MIN3"
+msgstr "MP_MIN3"
+
+msgid "戻る"
+msgstr "Volver"
+
+msgid "次へ"
+msgstr "Siguiente"
+
+msgid "MP_MIN4"
+msgstr "MP_MIN4"
+
+msgid "MP_SAK1"
+msgstr "MP_SAK1"
+
+msgid "MP_SUM1"
+msgstr "MP_SUM1"
+
+msgid "MP_TIG1"
+msgstr "MP_TIG1"
+
+msgid "MP_TIG2"
+msgstr "MP_TIG2"
+
+msgid "戻る"
+msgstr "Volver"
+
+msgid "TOP"
+msgstr "TOP"
+
+msgid "MP_TIG3"
+msgstr "MP_TIG3"
+
+msgid "MP_TIG4"
+msgstr "MP_TIG4"
+
+msgid "MP_YAS1"
+msgstr "MP_YAS1"
+
+msgid "MP_YAS2"
+msgstr "MP_YAS2"
+
+msgid "戻る"
+msgstr "Volver"
+
+msgid "VG_ATTAINMENT_END　0"
+msgstr "VG_ATTAINMENT_END　0"
+
+msgid "VG_ATTAINMENT_END　1"
+msgstr "VG_ATTAINMENT_END　1"
+
+msgid "VG_ATTAINMENT_END　2"
+msgstr "VG_ATTAINMENT_END　2"
+
+msgid "VG_ATTAINMENT_END　3"
+msgstr "VG_ATTAINMENT_END　3"
+
+msgid "VG_ATTAINMENT_END　4"
+msgstr "VG_ATTAINMENT_END　4"
+
+msgid "VG_ATTAINMENT_END　5"
+msgstr "VG_ATTAINMENT_END　5"
+
+msgid "VG_ATTAINMENT_END　6"
+msgstr "VG_ATTAINMENT_END　6"
+
+msgid "VG_ATTAINMENT_END　7"
+msgstr "VG_ATTAINMENT_END　7"
+
+msgid "VG_ATTAINMENT_END　8"
+msgstr "VG_ATTAINMENT_END　8"
+
+msgid "VG_ATTAINMENT_END　9"
+msgstr "VG_ATTAINMENT_END　9"
+
+msgid "VG_ATTAINMENT_END　10"
+msgstr "VG_ATTAINMENT_END　10"
+
+msgid "VG_ATTAINMENT_END　11"
+msgstr "VG_ATTAINMENT_END　11"
+
+msgid "VG_ATTAINMENT_END　12"
+msgstr "VG_ATTAINMENT_END　12"
+
+msgid "VG_ATTAINMENT_END　13"
+msgstr "VG_ATTAINMENT_END　13"
+
+msgid "VG_ATTAINMENT_END　14"
+msgstr "VG_ATTAINMENT_END　14"
+
+msgid "VG_ATTAINMENT_END　15"
+msgstr "VG_ATTAINMENT_END　15"
+
+msgid "VG_ATTAINMENT_END　16"
+msgstr "VG_ATTAINMENT_END　16"
+
+msgid "VG_ATTAINMENT_END　17"
+msgstr "VG_ATTAINMENT_END　17"
+
+msgid "VG_ATTAINMENT_END　18"
+msgstr "VG_ATTAINMENT_END　18"
+
+msgid "VG_ATTAINMENT_END　19"
+msgstr "VG_ATTAINMENT_END　19"
+
+msgid "VG_ATTAINMENT_END　20"
+msgstr "VG_ATTAINMENT_END　20"
+
+msgid "VG_ATTAINMENT_END　21"
+msgstr "VG_ATTAINMENT_END　21"
+
+msgid "VG_ATTAINMENT_END　23以上＿通常プレイ中はあり得ない数値です。＿VG_ATTAINMENT_END　22に戻します。"
+msgstr "VG_ATTAINMENT_END　23 o más＿Valor imposible en partida normal.＿Se restablecerá VG_ATTAINMENT_END　22."
+
+msgid "VG_ATTAINMENT_END　22(MAX)"
+msgstr "VG_ATTAINMENT_END　22(MAX)"
+
+msgid "VG_ATTAINMENT_END　0"
+msgstr "VG_ATTAINMENT_END　0"
+
+msgid "全アイテムを取得しました。＿VG_DIALOG　0"
+msgstr "Se obtuvieron todos los objetos.＿VG_DIALOG　0"
+
+msgid "全アイテムを取得しました。＿VG_DIALOG　1"
+msgstr "Se obtuvieron todos los objetos.＿VG_DIALOG　1"
+
+msgid "次へ"
+msgstr "Siguiente"
+
+msgid "END1:｢ばかちーエンド｣"
+msgstr "END1:｢Final de Baka-chi｣"
+
+msgid "END2:｢泰子エンド｣"
+msgstr "END2:｢Final de Yasuko｣"
+
+msgid "END3:｢大河×竜児エンド｣"
+msgstr "END3:｢Final de Taiga×Ryuuji｣"
+
+msgid "END4:｢大河×北村エンド｣"
+msgstr "END4:｢Final de Taiga×Kitamura｣"
+
+msgid "END5:｢北村×竜児エンド｣"
+msgstr "END5:｢Final de Kitamura×Ryuuji｣"
+
+msgid "戻る"
+msgstr "Volver"
+
+msgid "次へ"
+msgstr "Siguiente"
+
+msgid "END6:｢すみれ×竜児エンド｣"
+msgstr "END6:｢Final de Sumire×Ryuuji｣"
+
+msgid "END7:｢生徒会の犬エンド｣"
+msgstr "END7:｢Final del perro del consejo｣"
+
+msgid "END8:｢恋ヶ窪ゆりエンド｣"
+msgstr "END8:｢Final de Koigakubo Yuri｣"
+
+msgid "END9:｢大河×実乃梨エンド｣"
+msgstr "END9:｢Final de Taiga×Minori｣"
+
+msgid "END10:｢実乃梨×片思いエンド｣"
+msgstr "END10:｢Final de Minori×Amor no correspondido｣"
+
+msgid "戻る"
+msgstr "Volver"
+
+msgid "次へ"
+msgstr "Siguiente"
+
+msgid "END11:｢実乃梨×竜児エンド｣"
+msgstr "END11:｢Final de Minori×Ryuuji｣"
+
+msgid "END12:｢亜美さよならエンド｣"
+msgstr "END12:｢Final de despedida de Ami｣"
+
+msgid "END13:｢亜美×竜児エンド｣"
+msgstr "END13:｢Final de Ami×Ryuuji｣"
+
+msgid "END14:｢去っていく亜美｣ 1"
+msgstr "END14:｢Ami se va｣ 1"
+
+msgid "END14:｢去っていく亜美｣ 2"
+msgstr "END14:｢Ami se va｣ 2"
+
+msgid "戻る"
+msgstr "Volver"
+
+msgid "次へ"
+msgstr "Siguiente"
+
+msgid "END14:｢去っていく亜美｣ 3"
+msgstr "END14:｢Ami se va｣ 3"
+
+msgid "END14:｢去っていく亜美｣ 4"
+msgstr "END14:｢Ami se va｣ 4"
+
+msgid "END15:｢亜美×竜児エンド｣"
+msgstr "END15:｢Final de Ami×Ryuuji｣"
+
+msgid "END16:｢竜児×能登＆春田エンド｣"
+msgstr "END16:｢Final de Ryuuji×Noto＆Haruta｣"
+
+msgid "END17:｢大河×竜児エンド｣"
+msgstr "END17:｢Final de Taiga×Ryuuji｣"
+
+msgid "戻る"
+msgstr "Volver"
+
+msgid "次へ（ループします）"
+msgstr "Siguiente（Vuelve al inicio）"
+
+msgid "END18:｢実乃梨×竜児エンド｣"
+msgstr "END18:｢Final de Minori×Ryuuji｣"
+
+msgid "END19:｢日常エンド｣"
+msgstr "END19:｢Final de la vida cotidiana｣"
+
+msgid "END20:｢火事エンド｣"
+msgstr "END20:｢Final del incendio｣"
+
+msgid "END21:｢Ｄルート共通エンド｣"
+msgstr "END21:｢Final común de la ruta Ｄ｣"
+
+msgid "戻る"
+msgstr "Volver"
+
+msgid "初期化を中止しました。"
+msgstr "Se canceló el restablecimiento."
+
+msgid "全てのグローバルフラグを初期化してよろしいですか？"
+msgstr "Deseas restablecer todos los flags globales?"
+
+msgid "はい"
+msgstr "Sí"
+
+msgid "いいえ"
+msgstr "No"
+
+msgid "グローバルフラグを初期化しました。"
+msgstr "Se restablecieron los flags globales."
+

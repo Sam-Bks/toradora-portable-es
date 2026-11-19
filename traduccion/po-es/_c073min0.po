@@ -1,0 +1,1082 @@
+msgid ""
+msgstr ""
+
+msgid "Minori「Huh? Takasu-kun?」"
+msgstr "Minori「¿Eh? ¿Takasu-kun?」"
+
+msgid "Ryuuji「Hey.」"
+msgstr "Ryuuji「Hola.」"
+
+msgid "Minori「What are you doing here?」"
+msgstr "Minori「¿Qué haces aquí?」"
+
+msgid "Ryuuji「Waiting for you, Kushieda.」"
+msgstr "Ryuuji「Te estoy esperando, Kushieda.」"
+
+msgid "Minori「......Oh, I see. Been waiting long?」"
+msgstr "Minori「......Ah, ya veo. ¿Llevas＿mucho esperando?」"
+
+msgid "Ryuuji「Nah, not at all.」"
+msgstr "Ryuuji「No, para nada.」"
+
+msgid "Minori「I see. That's good then...... So, what's＿up?」"
+msgstr "Minori「Ya veo. Qué bueno......＿Entonces, ¿qué pasa?」"
+
+msgid "Ryuuji「I need to talk to you. I want to pick up＿where we left off a couple nights ago.＿Can I borrow you for a while?」"
+msgstr "Ryuuji「Necesito hablar contigo. Quiero＿retomar lo de hace un par de noches.＿¿Tienes un momento?」"
+
+msgid "Minori「......Okay, sure. I have about an hour＿until work.」"
+msgstr "Minori「......Sí, claro. Tengo como una＿hora antes del trabajo.」"
+
+msgid "Ryuuji「This won't take that long.」"
+msgstr "Ryuuji「No tardaré tanto.」"
+
+msgid "Minori「Did you, perhaps, remember＿everything?」"
+msgstr "Minori「¿Acaso ya lo recordaste todo?」"
+
+msgid "Ryuuji「Yeah. The night of Christmas Eve,＿before I met with you, I was indeed＿with Taiga.」"
+msgstr "Ryuuji「Sí. En Nochebuena, antes de verme＿contigo, sí que estuve con Taiga.」"
+
+msgid "Minori「Gotcha...... Takasu-kun, before we get＿into this, let's go somewhere else.」"
+msgstr "Minori「Entiendo...... Takasu-kun, antes de＿empezar, vayamos a otro lugar.」"
+
+msgid "Ryuuji「Sure, I don't mind......」"
+msgstr "Ryuuji「Claro, no me importa......」"
+
+msgid "Ryuuji「But where――」"
+msgstr "Ryuuji「Pero ¿adónde――」"
+
+msgid "Ryuuji「You brought me here on purpose?」"
+msgstr "Ryuuji「¿Me trajiste aquí a propósito?」"
+
+msgid "Ryuuji「Sunset, indeed......」"
+msgstr "Ryuuji「El atardecer, claro......」"
+
+msgid "Minori「Now, let's have at it, Takasu-kun!」"
+msgstr "Minori「¡Bien, vamos a darle, Takasu-kun!」"
+
+msgid "Ryuuji「......That was an, uhm, interesting＿choice of wording.」"
+msgstr "Ryuuji「......Esa fue una elección de＿palabras, ehm, interesante.」"
+
+msgid "Minori「Whoa there, Takasu-kun! That ain't＿enough to defeat me!」"
+msgstr "Minori「¡Oye, Takasu-kun! ¡Eso no＿basta para derrotarme!」"
+
+msgid "Ryuuji「No, I didn't really come here to defeat＿you. Actually, like I said before, I came＿here to be crushed.」"
+msgstr "Ryuuji「No vine a derrotarte. Como dije antes,＿vine a que me destrozaras.」"
+
+msgid "Minori「Very well, Kushieda is prepared to hold＿up her end of the bargain! Bring it on!」"
+msgstr "Minori「¡Muy bien, Kushieda cumplirá su＿parte del trato! ¡Adelante!」"
+
+msgid "Ryuuji「Look, I'm sorry, but could we not make＿this weird?」"
+msgstr "Ryuuji「Mira, perdón, pero ¿podemos＿no hacer esto tan raro?」"
+
+msgid "Minori「Hahahaha! You are speaking to the＿great Kushieda! Such a request is＿impossible!」"
+msgstr "Minori「¡Jajajaja! ¡Estás hablando＿con la gran Kushieda! ¡Eso＿que pides es imposible!」"
+
+msgid "Ryuuji「......Then just listen, please.」"
+msgstr "Ryuuji「......Entonces solo escucha, por favor.」"
+
+msgid "Minori「Very well!」"
+msgstr "Minori「¡Muy bien!」"
+
+msgid "Ryuuji「I said this earlier, but I was able to＿remember everything since then.」"
+msgstr "Ryuuji「Ya lo dije antes, pero desde entonces＿pude recordarlo todo.」"
+
+msgid "Minori「Most splendid of news!」"
+msgstr "Minori「¡Qué noticia tan espléndida!」"
+
+msgid "Ryuuji「......Since our first year of high school, I＿had, well...... a one-sided crush on you.」"
+msgstr "Ryuuji「......Desde primer año de preparatoria,＿yo estaba, bueno...... enamorado de＿ti sin ser correspondido.」"
+
+msgid "Minori「A thousand pardons!」"
+msgstr "Minori「¡Mil disculpas!」"
+
+msgid "Ryuuji「No, don't apologize for that.」"
+msgstr "Ryuuji「No, no te disculpes por eso.」"
+
+msgid "Minori「Continue!」"
+msgstr "Minori「¡Continúa!」"
+
+msgid "Ryuuji「Oh, okay...... It's just, even though I＿remember it, you don't light my fire, so＿to speak. It's all in the past to me.」"
+msgstr "Ryuuji「Ah, bien...... Es que, aunque lo＿recuerdo, ya no siento esa chispa,＿por así decirlo. Para mí ya pasó.」"
+
+msgid "Minori「Nothing is forever!」"
+msgstr "Minori「¡Nada es para siempre!」"
+
+msgid "Ryuuji「Yeah, that's exactly it...... But that's not＿why...... That's not why I'm switching......」"
+msgstr "Ryuuji「Sí, es justo eso...... Pero no＿es por eso...... No cambio de＿parecer por eso......」"
+
+msgid "Minori「It was right in front of you!」"
+msgstr "Minori「¡Estaba justo frente a ti!」"
+
+msgid "Ryuuji「......Reading my mind?」"
+msgstr "Ryuuji「......¿Me lees la mente?」"
+
+msgid "Minori「Hahahaha! Just who do you think I＿am!? I'm not called the Beast Tamer＿for nothin'!」"
+msgstr "Minori「¡Jajajaja! ¡¿Quién crees que＿soy?! ¡No me llaman la Domadora＿de Bestias por nada!」"
+
+msgid "Ryuuji「Is softball, like, something that hones＿that kind of ability?」"
+msgstr "Ryuuji「¿El sóftbol desarrolla esa clase＿de habilidad o algo así?」"
+
+msgid "Ryuuji「I see...... You're right.」"
+msgstr "Ryuuji「Ya veo...... Tienes razón.」"
+
+msgid "Ryuuji「......Can you keep your \"WTF!\" to＿yourself? I was serious back then.」"
+msgstr "Ryuuji「......¿Puedes guardarte tus \"¡¿Qué＿rayos?!\"? Yo hablaba en serio.」"
+
+msgid "Ryuuji「......Uh, well...... I-It's just, y'know, even＿though I said it's just for appearances,＿I'm still nervous.」"
+msgstr "Ryuuji「......Eh, bueno...... E-Es que,＿aunque dije que era una formalidad,＿estoy nervioso.」"
+
+msgid "Minori「Likewise, pal!」"
+msgstr "Minori「¡Igual que yo, amigo!」"
+
+msgid "Ryuuji「Oh, sorry. W-Well......」"
+msgstr "Ryuuji「Ah, perdón. B-Bueno......」"
+
+msgid "Ryuuji「K-Kushieda!」"
+msgstr "Ryuuji「¡K-Kushieda!」"
+
+msgid "Minori「Yes!? I mean, w-what is it!?」"
+msgstr "Minori「¡¿Sí?! ¡¿Digo, q-qué pasa?!」"
+
+msgid "Ryuuji「I...... I've liked you since freshman year.＿Please go out with me.」"
+msgstr "Ryuuji「Yo...... Me gustas desde primer＿año. Por favor, sal conmigo.」"
+
+msgid "Minori「............」"
+msgstr "Minori「............」"
+
+msgid "Ryuuji「......That's all I wanted to say. Sorry for＿putting you through this.」"
+msgstr "Ryuuji「......Eso era todo lo que quería decir.＿Perdón por hacerte pasar por esto.」"
+
+msgid "Minori「You don't need an answer?」"
+msgstr "Minori「¿No necesitas una respuesta?」"
+
+msgid "Ryuuji「......Would you?」"
+msgstr "Ryuuji「......¿Me la darías?」"
+
+msgid "Minori「Of course. I believe I told you I＿prepared for this. Under one condition,＿however!」"
+msgstr "Minori「Claro. Creo que te dije que＿estaba preparada para esto.＿¡Pero con una condición!」"
+
+msgid "Ryuuji「What?」"
+msgstr "Ryuuji「¿Cuál?」"
+
+msgid "Minori「Could you face the other way?」"
+msgstr "Minori「¿Podrías mirar hacia el otro lado?」"
+
+msgid "Ryuuji「Oh, just that......?」"
+msgstr "Ryuuji「Ah, ¿solo eso......?」"
+
+msgid "Ryuuji「......Oh?」"
+msgstr "Ryuuji「......¿Eh?」"
+
+msgid "Minori「Just listen.」"
+msgstr "Minori「Solo escucha.」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Minori「Thank you, Takasu-kun...... Kushieda's＿so happy, honestly. But I can't go out＿with you. I'm sorry.」"
+msgstr "Minori「Gracias, Takasu-kun...... Kushieda＿está muy feliz, de verdad. Pero no＿puedo salir contigo. Lo siento.」"
+
+msgid "Ryuuji「Oh...... I understand.」"
+msgstr "Ryuuji「Ah...... Entiendo.」"
+
+msgid "Minori「Takasu-kun...... I'm really sorry.」"
+msgstr "Minori「Takasu-kun...... Lo siento mucho.」"
+
+msgid "Ryuuji「You don't have to apologize.」"
+msgstr "Ryuuji「No tienes que disculparte.」"
+
+msgid "Minori「Okay......」"
+msgstr "Minori「Está bien......」"
+
+msgid "Minori「I didn't hate you at all! Of course I＿didn't!」"
+msgstr "Minori「¡No me caías nada mal! ¡Claro que no!」"
+
+msgid "Ryuuji「But...... Oh!?」"
+msgstr "Ryuuji「Pero...... ¡¿Eh?!」"
+
+msgid "Minori「I...... This is what I personally believe＿happiness feels like...... It was wrong to＿pretend it didn't happen...... but......」"
+msgstr "Minori「Yo...... Esto es lo que creo que se＿siente al ser feliz...... Estuvo mal＿fingir que no pasó...... pero......」"
+
+msgid "Minori「Sorry, I can't explain it very well......＿Does that make sense?」"
+msgstr "Minori「Perdón, no sé explicarlo bien......＿¿Tiene sentido?」"
+
+msgid "Ryuuji「............Birds of a feather flock together,＿right?」"
+msgstr "Ryuuji「............Dios los cría＿y ellos se juntan, ¿no?」"
+
+msgid "Minori「............」"
+msgstr "Minori「............」"
+
+msgid "Ryuuji「Sorry, that was random of me.」"
+msgstr "Ryuuji「Perdón, eso salió de la nada.」"
+
+msgid "Minori「No...... You're probably on the right＿track.」"
+msgstr "Minori「No...... Quizá no te equivoques.」"
+
+msgid "Ryuuji「......」"
+msgstr "Ryuuji「......」"
+
+msgid "Minori「......Oh crap!」"
+msgstr "Minori「......¡Ay, rayos!」"
+
+msgid "Minori「Hehehe, I take that back. It doesn't＿count. Umpire said I'm safe. Sorry, bud.」"
+msgstr "Minori「Jejeje, lo retiro. No cuenta. El＿árbitro dijo que no estoy eliminada.＿Perdón, amigo.」"
+
+msgid "Ryuuji「......Likewise, I'm sorry to have put you＿through this in the first place.」"
+msgstr "Ryuuji「......Yo también lo siento por＿haberte hecho pasar por esto.」"
+
+msgid "Minori「No, on the contrary. This has actually＿healed me, Takasu-kun.」"
+msgstr "Minori「No, al contrario. Esto me＿ha sanado, Takasu-kun.」"
+
+msgid "Ryuuji「That's good, then.」"
+msgstr "Ryuuji「Entonces me alegro.」"
+
+msgid "Minori「Yep. I probably got like 2000＿experience points from this.」"
+msgstr "Minori「Sí. Creo que gané como 2000＿puntos de experiencia.」"
+
+msgid "Ryuuji「Uhh, what?」"
+msgstr "Ryuuji「Ehh, ¿qué?」"
+
+msgid "Minori「I leveled up. The sun will rise!」"
+msgstr "Minori「Subí de nivel. ¡El sol saldrá!」"
+
+msgid "Ryuuji「......Oh, come to think of it, I feel like I＿had a dream like that.」"
+msgstr "Ryuuji「......Ah, ahora que lo pienso,＿creo que tuve un sueño así.」"
+
+msgid "Minori「Really?」"
+msgstr "Minori「¿En serio?」"
+
+msgid "Minori「I'll keep that in mind...... Actually, we＿shouldn't talk about that while＿standing like this.」"
+msgstr "Minori「Lo tendré en cuenta...... De hecho, no＿deberíamos hablar de eso parados así.」"
+
+msgid "Ryuuji「Yeah, this is ruining the mood.」"
+msgstr "Ryuuji「Sí, esto arruina el ambiente.」"
+
+msgid "Minori「I've probably gone past the cap.」"
+msgstr "Minori「Creo que ya superé el límite.」"
+
+msgid "Ryuuji「What cap?」"
+msgstr "Ryuuji「¿Qué límite?」"
+
+msgid "Minori「Level cap. That aside, I have one final＿request, Takasu-kun.」"
+msgstr "Minori「El de nivel. Pero tengo una última＿petición, Takasu-kun.」"
+
+msgid "Ryuuji「Go ahead.」"
+msgstr "Ryuuji「Dime.」"
+
+msgid "Minori「Would you leave without looking back?」"
+msgstr "Minori「¿Podrías irte sin mirar atrás?」"
+
+msgid "Minori「I haven't heard anything about that...... I＿bet you've got a great expression right＿now, Takasu-kun.」"
+msgstr "Minori「No he oído nada de eso...... Apuesto＿a que ahora tienes una expresión＿genial, Takasu-kun.」"
+
+msgid "Ryuuji「How come?」"
+msgstr "Ryuuji「¿Por qué?」"
+
+msgid "Minori「It's a habit of yours.」"
+msgstr "Minori「Es una costumbre tuya.」"
+
+msgid "Ryuuji「......You lost me.」"
+msgstr "Ryuuji「......Me perdí.」"
+
+msgid "Minori「I'm fine with losing you. Now then,＿Takasu-kun--」"
+msgstr "Minori「No me importa que te pierdas.＿Bueno, Takasu-kun--」"
+
+msgid "Minori「Arrideverci!」"
+msgstr "Minori「¡Arrideverci!」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Minori「Crap, I messed up! Arrivederci!」"
+msgstr "Minori「¡Rayos, me equivoqué! ¡Arrivederci!」"
+
+msgid "Ryuuji「What, now you're Italian?」"
+msgstr "Ryuuji「¿Qué? ¿Ahora eres italiana?」"
+
+msgid "Minori「Farewell, dear friend! See you at＿school!」"
+msgstr "Minori「¡Adiós, querido amigo! ¡Nos＿vemos en la escuela!」"
+
+msgid "Ryuuji「......Oh, see ya!」"
+msgstr "Ryuuji「......¡Ah, nos vemos!」"
+
+msgid "Taiga「......So you were \"splendidly rejected,\"＿huh?」"
+msgstr "Taiga「......Así que te \"rechazaron＿espléndidamente\", ¿eh?」"
+
+msgid "Ryuuji「Yep.」"
+msgstr "Ryuuji「Sí.」"
+
+msgid "Taiga「......*Sigh*～」"
+msgstr "Taiga「......*Suspiro*～」"
+
+msgid "Ryuuji「Don't sigh over it. This is like, the dawn＿of a new era...... Hmm? It's not dawn, so＿maybe I'm wrong?」"
+msgstr "Ryuuji「No suspires. Es como el amanecer＿de una nueva era...... ¿Mmm? No está＿amaneciendo, ¿me equivoco?」"
+
+msgid "Taiga「......*Sigh*～」"
+msgstr "Taiga「......*Suspiro*～」"
+
+msgid "Taiga「......*Sigh*～」"
+msgstr "Taiga「......*Suspiro*～」"
+
+msgid "Taiga「......*Sigh*～」"
+msgstr "Taiga「......*Suspiro*～」"
+
+msgid "Ryuuji「S-So yeah...... umm...... Both of us felt＿better afterwards! So it was probably a＿good thing, you know. Probably!」"
+msgstr "Ryuuji「A-Así que...... ehm...... ¡Ambos＿nos sentimos mejor! Así que debió de ser＿bueno, ¿sabes? ¡Probablemente!」"
+
+msgid "Taiga「......*Sigh*～」"
+msgstr "Taiga「......*Suspiro*～」"
+
+msgid "Ryuuji「......Say something.」"
+msgstr "Ryuuji「......Di algo.」"
+
+msgid "Taiga「What do you want me to say?」"
+msgstr "Taiga「¿Qué quieres que diga?」"
+
+msgid "Ryuuji「What......? Anything's fine.」"
+msgstr "Ryuuji「¿Qué......? Lo que sea.」"
+
+msgid "Taiga「Then......」"
+msgstr "Taiga「Entonces......」"
+
+msgid "Taiga「YOU IDIOT!!」"
+msgstr "Taiga「¡¡IDIOTA!!」"
+
+msgid "Ryuuji「Yeah!」"
+msgstr "Ryuuji「¡Sí!」"
+
+msgid "Taiga「............」"
+msgstr "Taiga「............」"
+
+msgid "Ryuuji「......Is that it? Don't you have more to＿say?」"
+msgstr "Ryuuji「......¿Eso es todo? ¿No＿tienes más que decir?」"
+
+msgid "Taiga「No.」"
+msgstr "Taiga「No.」"
+
+msgid "Ryuuji「Oh you......」"
+msgstr "Ryuuji「Ay, tú......」"
+
+msgid "Taiga「............」"
+msgstr "Taiga「............」"
+
+msgid "Ryuuji「......Oh, that reminds me. What＿happened to the scarf?」"
+msgstr "Ryuuji「......Ah, por cierto, ¿qué＿pasó con la bufanda?」"
+
+msgid "Taiga「Wearing that thing around the house＿made me overheat, that's all.」"
+msgstr "Taiga「Me dio calor usándola en＿casa, eso es todo.」"
+
+msgid "Ryuuji「......Good grief...... Why are you so＿confusing? Why can't I understand＿how your mind works?」"
+msgstr "Ryuuji「......Por Dios...... ¿Por qué eres＿tan confusa? ¿Por qué no puedo＿entender cómo piensas?」"
+
+msgid "Taiga「Shut up. It's just, y'know, it got dirty.」"
+msgstr "Taiga「Cállate. Es que, bueno, se ensució.」"
+
+msgid "Ryuuji「Wha......? W-Well, I can understand it＿getting dirty, but...... Don't tell me it＿shrank again......?」"
+msgstr "Ryuuji「¿Qu......? B-Bueno, entiendo que se＿ensuciara, pero...... No me digas＿que se encogió otra vez......」"
+
+msgid "Ryuuji「What? Was it really that dirty?」"
+msgstr "Ryuuji「¿Qué? ¿Estaba tan sucia?」"
+
+msgid "Taiga「Kinda.」"
+msgstr "Taiga「Un poco.」"
+
+msgid "Ryuuji「Then I'll wash it. Gimme. Taking barely＿soiled stuff to the dry cleaner's --＿MOTTAINAI!」"
+msgstr "Ryuuji「Entonces la lavaré. Dámela. Llevar＿algo apenas sucio a la tintorería＿-- ¡QUÉ DESPERDICIO!」"
+
+msgid "Taiga「No can do!」"
+msgstr "Taiga「¡No puedo!」"
+
+msgid "Ryuuji「Why not?」"
+msgstr "Ryuuji「¿Por qué no?」"
+
+msgid "Taiga「......Because I don't want you to see.」"
+msgstr "Taiga「......Porque no quiero que lo veas.」"
+
+msgid "Ryuuji「I don't get it. You don't want me to see＿how dirty it is......? What did you do to＿the scarf? Wipe the floor with it?」"
+msgstr "Ryuuji「No entiendo. ¿No quieres que vea lo＿sucia que está......? ¿Qué hiciste＿con ella? ¿Limpiaste el piso?」"
+
+msgid "Taiga「Excuse me!? Of course I wouldn't! It's＿just got some dried snot on it...... Oh.」"
+msgstr "Taiga「¡¿Disculpa?! ¡Claro que no! Solo＿tiene mocos secos...... Ah.」"
+
+msgid "Ryuuji「You blew your nose into it?」"
+msgstr "Ryuuji「¿Te sonaste la nariz con ella?」"
+
+msgid "Taiga「As if!」"
+msgstr "Taiga「¡Ni que fuera a hacerlo!」"
+
+msgid "Ryuuji「Popped a snot bubble?」"
+msgstr "Ryuuji「¿Se te reventó una burbuja de mocos?」"
+
+msgid "Taiga「Did not!」"
+msgstr "Taiga「¡No!」"
+
+msgid "Ryuuji「Were you crying?」"
+msgstr "Ryuuji「¿Estabas llorando?」"
+
+msgid "Taiga「I definitely......」"
+msgstr "Taiga「Sin duda......」"
+
+msgid "Taiga「..................was.」"
+msgstr "Taiga「..................sí.」"
+
+msgid "Ryuuji「......It's my fault. I'm sorry for making＿you wait.」"
+msgstr "Ryuuji「......Es mi culpa. Perdón＿por hacerte esperar.」"
+
+msgid "Taiga「Shut it, stupid. And don't be so quick＿to apologize. It'll lose its meaning.」"
+msgstr "Taiga「Cállate, tonto. Y no te disculpes＿tan rápido. Perderá su sentido.」"
+
+msgid "Ryuuji「Its meaning ain't going anywhere......＿Anyway, just hand wash the dried part＿and it'll come off.」"
+msgstr "Ryuuji「No perderá su sentido...... En fin, lava＿a mano la parte seca y saldrá.」"
+
+msgid "Taiga「Got it.」"
+msgstr "Taiga「Entendido.」"
+
+msgid "Ryuuji「I'll do the rest.」"
+msgstr "Ryuuji「Yo haré el resto.」"
+
+msgid "Taiga「............」"
+msgstr "Taiga「............」"
+
+msgid "Ryuuji「Uh, well......」"
+msgstr "Ryuuji「Eh, bueno......」"
+
+msgid "Taiga「............」"
+msgstr "Taiga「............」"
+
+msgid "Ryuuji「Hey Taiga...... You did that on purpose,＿didn't you?」"
+msgstr "Ryuuji「Oye, Taiga...... Lo hiciste＿a propósito, ¿no?」"
+
+msgid "Taiga「What are you talking about?」"
+msgstr "Taiga「¿De qué hablas?」"
+
+msgid "Ryuuji「Don't you have something to say?」"
+msgstr "Ryuuji「¿No tienes algo que decir?」"
+
+msgid "Taiga「............*Sigh*～」"
+msgstr "Taiga「............*Suspiro*～」"
+
+msgid "Ryuuji「......What's with you? I'm your...... I won't＿tell you to be happier, but I mean, at＿least look surprised.」"
+msgstr "Ryuuji「......¿Qué te pasa? Soy tu...... No＿te pido que te alegres más, pero al＿menos muestra algo de sorpresa.」"
+
+msgid "Taiga「In a way, I AM surprised. At your＿stupidity, that is. That's why I'm just＿going to spare you this time.」"
+msgstr "Taiga「En cierto modo, SÍ me sorprende.＿Tu estupidez, claro. Por eso,＿esta vez te perdonaré.」"
+
+msgid "Ryuuji「That's all I've been hearing for a while＿now. You've always called me an idiot.」"
+msgstr "Ryuuji「Hace rato que solo oigo eso.＿Siempre me llamas idiota.」"
+
+msgid "Taiga「Well, because you are.」"
+msgstr "Taiga「Bueno, porque lo eres.」"
+
+msgid "Ryuuji「Listen, you, I'm committed to this.」"
+msgstr "Ryuuji「Escucha, esto me lo tomo en serio.」"
+
+msgid "Taiga「Committed to what?」"
+msgstr "Taiga「¿Qué cosa?」"
+
+msgid "Ryuuji「Well...... y'know! The point is, I'm serious!＿I'd have to do something like this or I'd＿never, EVER get your consent, right?」"
+msgstr "Ryuuji「Bueno...... ¡Ya sabes! ¡Hablo en＿serio! Si no hiciera algo así, NUNCA,＿jamás aceptarías, ¿no?」"
+
+msgid "Taiga「......*Sigh*～」"
+msgstr "Taiga「......*Suspiro*～」"
+
+msgid "Ryuuji「So, starting today, I'm in your care......＿No, you're in my care again!」"
+msgstr "Ryuuji「Desde hoy, quedo a tu cuidado...... ¡No,＿tú vuelves a estar a mi cuidado!」"
+
+msgid "Taiga「........................*Sigh*～」"
+msgstr "Taiga「........................ *Suspiro*～」"
+
+msgid "Kitamura「......Oho! You've gone and done＿something quite drastic again!」"
+msgstr "Kitamura「......¡Oh! ¡Otra vez hiciste＿algo muy drástico!」"
+
+msgid "Ryuuji「I guess. I'm just glad she didn't turn me＿away at the door.」"
+msgstr "Ryuuji「Supongo. Me alegro de que no me haya＿cerrado la puerta en la cara.」"
+
+msgid "Kitamura「No, actually, I think you've done very＿well, Takasu.」"
+msgstr "Kitamura「No, en realidad creo que lo＿hiciste muy bien, Takasu.」"
+
+msgid "Ryuuji「Oh, I agree, if I do say so myself.」"
+msgstr "Ryuuji「Ah, opino igual, aunque＿lo diga yo mismo.」"
+
+msgid "Ryuuji「I haven't told anyone other than you,＿Kitamura. Actually, first of all...... uh,＿well......」"
+msgstr "Ryuuji「Solo te lo he contado a ti, Kitamura.＿De hecho, para empezar......＿eh, bueno......」"
+
+msgid "Kitamura「What's wrong?」"
+msgstr "Kitamura「¿Qué pasa?」"
+
+msgid "Ryuuji「Well, you see...... as for Yasuko......」"
+msgstr "Ryuuji「Bueno, verás...... sobre Yasuko......」"
+
+msgid "Kitamura「Ah, so Yasuko-san's opposed to it. I'm＿not surprised.」"
+msgstr "Kitamura「Ah, Yasuko-san se opone.＿No me sorprende.」"
+
+msgid "Ryuuji「Well, not exactly \"opposed\"......」"
+msgstr "Ryuuji「Bueno, no es que \"se oponga\"......」"
+
+msgid "Yasuko「Reallyyy......? So Ryuu-chan has found＿someone more precious than this＿house......」"
+msgstr "Yasuko「¿En seriooo......? Así que Ryuu-chan＿encontró a alguien más valioso＿que esta casa......」"
+
+msgid "Yasuko「You're all grown up, Ryuu-chan.」"
+msgstr "Yasuko「Ya eres todo un adulto, Ryuu-chan.」"
+
+msgid "Ryuuji「O-Oh......」"
+msgstr "Ryuuji「A-Ah......」"
+
+msgid "Kitamura「She approved of it!?」"
+msgstr "Kitamura「¡¿Lo aprobó?!」"
+
+msgid "Ryuuji「......That's not exactly it, either.」"
+msgstr "Ryuuji「......Tampoco es exactamente eso.」"
+
+msgid "Kitamura「......Huh?」"
+msgstr "Kitamura「......¿Eh?」"
+
+msgid "Ryuuji「Basically......」"
+msgstr "Ryuuji「En pocas palabras......」"
+
+msgid "Yasuko「Howeverrr......」"
+msgstr "Yasuko「Sin embargooo......」"
+
+msgid "Yasuko「Ryuu-chan and Taiga-chan are still in＿high school, so you can't live＿togetherrr～♪」"
+msgstr "Yasuko「Ryuu-chan y Taiga-chan aún están＿en preparatoria, así que no pueden＿vivir juntosss～♪」"
+
+msgid "Ryuuji「Huh!?」"
+msgstr "Ryuuji「¡¿Eh?!」"
+
+msgid "Taiga「What did I tell you, Ryuuji? There's no＿way Yacchan would allow it.」"
+msgstr "Taiga「¿Qué te dije, Ryuuji? Yacchan＿jamás lo permitiría.」"
+
+msgid "Ryuuji「What? What's not to like? I said I'll still＿come make food and clean the house,＿same as always.」"
+msgstr "Ryuuji「¿Qué? ¿Qué tiene de malo? Dije＿que seguiría viniendo a cocinar＿y limpiar, como siempre.」"
+
+msgid "Ryuuji「Besides, Yasuko, when you were our＿age, you were already with my dad!」"
+msgstr "Ryuuji「¡Además, Yasuko, a nuestra edad＿tú ya estabas con mi papá!」"
+
+msgid "Yasuko「That has nothing to do with thiiis～♪」"
+msgstr "Yasuko「Eso no tiene nada que verrr～♪」"
+
+msgid "Ryuuji「What, so you're just gonna turn a blind＿eye to it?」"
+msgstr "Ryuuji「¿Qué? ¿Vas a hacer como si nada?」"
+
+msgid "Taiga「Ryuuji! Don't say that! Apologize to＿Yacchan!」"
+msgstr "Taiga「¡Ryuuji! ¡No digas eso! ¡Discúlpate＿con Yacchan!」"
+
+msgid "Kitamura「What? Was Aisaka against it too?」"
+msgstr "Kitamura「¿Qué? ¿Aisaka también estaba en contra?」"
+
+msgid "Ryuuji「Then all three of us started talking.」"
+msgstr "Ryuuji「Entonces empezamos a hablar los tres.」"
+
+msgid "Kitamura「Mm, in some sense, that's a natural＿course of action for Yasuko-san.」"
+msgstr "Kitamura「Mmm, en cierto modo, es una reacción＿natural por parte de Yasuko-san.」"
+
+msgid "Ryuuji「But still, I made a major decision, so it's＿not like I could go back on it so easily,＿right?」"
+msgstr "Ryuuji「Pero tomé una decisión importante.＿No podía echarme atrás tan＿fácilmente, ¿no?」"
+
+msgid "Kitamura「Mm, indeed. So, what did you do?」"
+msgstr "Kitamura「Mmm, es verdad. ¿Y qué hiciste?」"
+
+msgid "Ryuuji「After that, well...... The conversation＿took a weird turn......」"
+msgstr "Ryuuji「Después, bueno...... La charla＿tomó un giro extraño......」"
+
+msgid "Taiga「Ryuuujiii!」"
+msgstr "Taiga「¡Ryuuujiii!」"
+
+msgid "Ryuuji「Oh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Taiga「......Oh, Kitamura-kun, are you on your＿way home?」"
+msgstr "Taiga「......Ah, Kitamura-kun, ¿ya vas a casa?」"
+
+msgid "Kitamura「No, I've got some work to do in student＿council. What's up, Aisaka? Were you＿perhaps looking for Takasu?」"
+msgstr "Kitamura「No, tengo trabajo en el consejo＿estudiantil. ¿Qué pasa, Aisaka?＿¿Buscabas a Takasu?」"
+
+msgid "Taiga「Yeah, sorta.」"
+msgstr "Taiga「Sí, algo así.」"
+
+msgid "Kitamura「Alright. I'm gonna take off.」"
+msgstr "Kitamura「Bien. Me voy.」"
+
+msgid "Ryuuji「Aah! What's the big deal, Kitamura?」"
+msgstr "Ryuuji「¡Aah! ¿Qué te pasa, Kitamura?」"
+
+msgid "Kitamura「Takasu, we can continue the story＿another time...... Now then, I'll see you＿guys tomorrow.」"
+msgstr "Kitamura「Takasu, podemos seguir con＿la historia otro día......＿Bueno, nos vemos mañana.」"
+
+msgid "Taiga「Bye-bye!」"
+msgstr "Taiga「¡Adiós!」"
+
+msgid "Taiga「That's...... true......」"
+msgstr "Taiga「Eso...... es cierto......」"
+
+msgid "Ryuuji「Why're you turning red?」"
+msgstr "Ryuuji「¿Por qué te pones roja?」"
+
+msgid "Taiga「Shut up! It's your fault I'm thawing!」"
+msgstr "Taiga「¡Cállate! ¡Es tu culpa＿que me descongele!」"
+
+msgid "Ryuuji「As if. And by the way, I'm not the one＿who suggested you wait out in the＿cold. You did, Taiga.」"
+msgstr "Ryuuji「Sí, cómo no. Y por cierto, yo no＿dije que esperaras afuera con este＿frío. Lo dijiste tú, Taiga.」"
+
+msgid "Taiga「Ngh......」"
+msgstr "Taiga「Ngh......」"
+
+msgid "Ryuuji「Nggaahh!」"
+msgstr "Ryuuji「¡Nggaahh!」"
+
+msgid "Taiga「......Let's go home already.」"
+msgstr "Taiga「......Vayamos a casa de una vez.」"
+
+msgid "Ryuuji「Stop... My solar plexus... I'll pass out...」"
+msgstr "Ryuuji「Basta... Mi plexo solar...＿Me voy a desmayar...」"
+
+msgid "Taiga「Go fall in a ditch somewhere. Hmph!」"
+msgstr "Taiga「Ve a caerte a una zanja. ¡Jum!」"
+
+msgid "Ryuuji「――I thought \"dating\" was, you know,＿sweeter than this.」"
+msgstr "Ryuuji「――Creí que \"salir con alguien\"＿sería más dulce que esto.」"
+
+msgid "Ryuuji「......Well, none of it would be possible＿without another person.」"
+msgstr "Ryuuji「......Bueno, nada de esto sería＿posible sin otra persona.」"
+
+msgid "Ryuuji「My person happens to be her. Perhaps＿I should say, this sweet-and-sour affair＿was decided from the start......」"
+msgstr "Ryuuji「En mi caso, es ella. Quizá esta＿relación agridulce estuviera decidida＿desde el inicio......」"
+
+msgid "Ryuuji「...Even so... All things considered, isn't＿this too cruel?」"
+msgstr "Ryuuji「...Aun así... Pensándolo bien,＿¿no es demasiado cruel?」"
+
+msgid "Taiga「Ryuuji, hurry it up. Yacchan said she's＿hungry.」"
+msgstr "Taiga「Ryuuji, apúrate. Yacchan＿dice que tiene hambre.」"
+
+msgid "Ryuuji「Oh, okay...... L-Look, don't you think I＿should go with......」"
+msgstr "Ryuuji「Ah, bien...... M-Mira, ¿no crees＿que debería ir con......」"
+
+msgid "Taiga「No way!」"
+msgstr "Taiga「¡Ni hablar!」"
+
+msgid "Ryuuji「Why not......?」"
+msgstr "Ryuuji「¿Por qué no......?」"
+
+msgid "Yasuko「Once a boy leaves home for the sake＿of the girl he likes, he must never step＿foot there againnn～♪」"
+msgstr "Yasuko「Cuando un chico deja su casa por la＿chica que le gusta, no debe volver＿a poner un pie en ellaaa～♪」"
+
+msgid "Ryuuji「I don't understand that! Then what's＿the point of Taiga staying there......?」"
+msgstr "Ryuuji「¡No lo entiendo! ¿Entonces por＿qué Taiga se queda ahí......?」"
+
+msgid "Yasuko「Taiga-chan is one of us, riiight～?」"
+msgstr "Yasuko「Taiga-chan es de la familia, ¿verdaaad～?」"
+
+msgid "Taiga「Right. When the three of us talked, we＿decided Yacchan would look after me.」"
+msgstr "Taiga「Sí. Cuando hablamos los tres, decidimos＿que Yacchan me cuidaría.」"
+
+msgid "Yasuko「That's what it means for a boy to leave＿home～♪ Right?」"
+msgstr "Yasuko「Así es cuando un chico deja＿su casa～♪ ¿Verdad?」"
+
+msgid "Taiga「Right!」"
+msgstr "Taiga「¡Sí!」"
+
+msgid "Inko-chan「RIGHT」"
+msgstr "Inko-chan「SÍ」"
+
+msgid "Inko-chan「NO WAY」"
+msgstr "Inko-chan「NI HABLAR」"
+
+msgid "Ryuuji「Wha......!」"
+msgstr "Ryuuji「¡Qu......!」"
+
+msgid "Yasuko「If Inko-chan says no, that's final. Too～＿bad～ for you～!」"
+msgstr "Yasuko「Si Inko-chan dice que no, es definitivo.＿¡Qué～ lástima～ por ti～!」"
+
+msgid "Ryuuji「Ngggh......」"
+msgstr "Ryuuji「Ngggh......」"
+
+msgid "Ryuuji「（I-Is this the happy ending me and＿Taiga get after I overcame all those＿choices? Is this how pathetic I am!?）」"
+msgstr "Ryuuji「（¿E-Este es el final feliz de Taiga＿y mío tras superar todas esas＿decisiones? ¡¿Tan patético soy?!）」"
+
+msgid "Ryuuji「（No, wait...... I still have THAT!）」"
+msgstr "Ryuuji「（No, espera...... ¡Aún tengo ESO!）」"
+
+msgid "Ryuuji「......Taiga, I found this in here earlier.」"
+msgstr "Ryuuji「......Taiga, hace rato＿encontré esto aquí.」"
+
+msgid "Taiga「......Oh, that.」"
+msgstr "Taiga「......Ah, eso.」"
+
+msgid "Ryuuji「It says...... \"Takasu Ryuuji-sama.\"」"
+msgstr "Ryuuji「Dice...... \"Takasu Ryuuji-sama\".」"
+
+msgid "Ryuuji「Yeah, I thought doing so would make＿the room spotless, but I can't go in＿that room, so it's impossible.」"
+msgstr "Ryuuji「Sí, creí que así dejaría el cuarto＿impecable, pero no puedo entrar＿ahí, así que es imposible.」"
+
+msgid "Taiga「Then wipe your ass with it.」"
+msgstr "Taiga「Entonces límpiate el trasero con eso.」"
+
+msgid "Ryuuji「That's not possible either. Because......」"
+msgstr "Ryuuji「Tampoco puedo. Porque......」"
+
+msgid "Ryuuji「There's something inside.」"
+msgstr "Ryuuji「Hay algo adentro.」"
+
+msgid "Taiga「......Huh!?」"
+msgstr "Taiga「......¡¿Eh?!」"
+
+msgid "Ryuuji「Dear Takasu Ryuuji-sama...... Yep, this＿was indeed addressed to me.」"
+msgstr "Ryuuji「Querido Takasu Ryuuji-sama...... Sí,＿definitivamente era para mí.」"
+
+msgid "Taiga「F-FUUUUCK! Gimme that!!」"
+msgstr "Taiga「¡M-MALDICIÓOOON! ¡¡Dame eso!!」"
+
+msgid "Ryuuji「No way. MOTTAINAI!」"
+msgstr "Ryuuji「Ni hablar. ¡QUÉ DESPERDICIO!」"
+
+msgid "Taiga「Give it back, Ryuuji!! DON'T READ＿IIITTT!!」"
+msgstr "Taiga「¡¡Devuélvemelo, Ryuuji!!＿¡¡NO LO LEEEAS!!」"
+
+msgid "Ryuuji「That day, Taiga's roar echoed＿throughout the neighborhood.」"
+msgstr "Ryuuji「Ese día, el rugido de Taiga resonó＿por todo el vecindario.」"
+
+msgid "Ryuuji「I found so, so, so much proof of the＿existence of that one-of-a-kind gentle＿sweetness――」"
+msgstr "Ryuuji「Encontré tantas, tantas, tantas＿pruebas de la existencia de esa＿dulzura tierna y única――」"
+
+msgid "Taiga「When leaving Narita Airport,＿foreigners well-versed in Japan often＿say \"I can smell the soy sauce.\"」"
+msgstr "Taiga「Al salir del aeropuerto de Narita, los＿extranjeros que conocen bien Japón＿suelen decir \"Huele a salsa de soya\".」"
+
+msgid "Taiga「......Hey, can you smell soy sauce?」"
+msgstr "Taiga「......Oye, ¿hueles salsa de soya?」"
+
+msgid "Taiga「I asked the scary-faced but＿good-natured person standing next to＿me.」"
+msgstr "Taiga「Le pregunté a la persona de rostro＿temible, pero buen corazón, que＿estaba a mi lado.」"
+
+msgid "Ryuuji「What's the matter? Did you spill your＿in-flight meal?」"
+msgstr "Ryuuji「¿Qué pasa? ¿Se te derramó＿la comida del avión?」"
+
+msgid "Taiga「――he responded without a shred of＿interest.」"
+msgstr "Taiga「――respondió sin el menor interés.」"
+
+msgid "Taiga「This man has been this impossible for＿as long as I've known him.」"
+msgstr "Taiga「Este hombre es así de imposible＿desde que lo conozco.」"
+
+msgid "Taiga「But in exchange for that face, God＿probably gave him a double-dose of＿talent. I'm absolutely sure of it.」"
+msgstr "Taiga「Pero seguramente Dios le dio el doble＿de talento a cambio de esa cara.＿Estoy totalmente segura.」"
+
+msgid "???「Ryuu-chaaan! Taiga-chaaan!」"
+msgstr "???「¡Ryuu-chaaan! ¡Taiga-chaaan!」"
+
+msgid "Ryuuji「Oh, Yasuko! Sorry for making you＿come all this way.」"
+msgstr "Ryuuji「¡Ah, Yasuko! Perdón por hacerte＿venir hasta aquí.」"
+
+msgid "Yasuko「Nonsense. Couldn't wait around at＿home～」"
+msgstr "Yasuko「Tonterías. No podía quedarme＿esperando en casa～」"
+
+msgid "Taiga「Yacchan, long time no see!」"
+msgstr "Taiga「¡Yacchan, cuánto tiempo!」"
+
+msgid "Yasuko「Goodness, long time no see indeed～☆」"
+msgstr "Yasuko「Cielos, sí que ha pasado tiempo～☆」"
+
+msgid "Yasuko「Nevertheless, Taiga-chan, you've＿gotten so biggg～」"
+msgstr "Yasuko「Pero, Taiga-chan, ¡cuánto＿has crecidooo～!」"
+
+msgid "Yasuko「Did you say you're having triplets～?＿Sure looks that wayyy.」"
+msgstr "Yasuko「¿Dijiste que son trillizos～?＿Eso pareceee.」"
+
+msgid "Taiga「Yup. I can't believe they all fit in there.＿It's a mystery of the human body!」"
+msgstr "Taiga「Sí. No puedo creer que quepan todos ahí.＿¡Es un misterio del cuerpo humano!」"
+
+msgid "Ryuuji「You should apply to be one of the＿Seven Wonders of the World.」"
+msgstr "Ryuuji「Deberías postularte como una de las＿Siete Maravillas del Mundo.」"
+
+msgid "Taiga「Maybe I will.」"
+msgstr "Taiga「Quizá lo haga.」"
+
+msgid "Yasuko「Fufu, Yacchan will be a grandma＿soonnn～」"
+msgstr "Yasuko「Juju, Yacchan pronto será abuelaaa～」"
+
+msgid "Taiga「......Hey, Ryuuji.」"
+msgstr "Taiga「......Oye, Ryuuji.」"
+
+msgid "Ryuuji「Oh...... I was probably thinking the same＿thing.」"
+msgstr "Ryuuji「Ah...... Creo que pensaba lo mismo.」"
+
+msgid "Taiga「Oh, that's right. In the dream, Yacchan＿was laughing, surrounded by all her＿puppy grandchildren.」"
+msgstr "Taiga「Ah, es verdad. En el sueño,＿Yacchan reía rodeada de todos＿sus nietos cachorros.」"
+
+msgid "Yasuko「Huh～?」"
+msgstr "Yasuko「¿Eh～?」"
+
+msgid "Taiga「We fell silent, and Yacchan was＿overcome with big question marks.」"
+msgstr "Taiga「Nos quedamos callados y a Yacchan＿se le llenó la cara de signos＿de interrogación.」"
+
+msgid "Taiga「Ryuuji laughed. I started to giggle――」"
+msgstr "Taiga「Ryuuji se rio. Yo empecé a reír bajito――」"
+
+msgid "Yuri「Hello. First of all, perhaps I should＿thank you for your hard work,＿Takasu-kun.」"
+msgstr "Yuri「Hola. Antes que nada, quizá deba＿agradecerte tu esfuerzo, Takasu-kun.」"
+
+msgid "Yuri「Now that you got this ending, the＿reason I brought you here......」"
+msgstr "Yuri「Ahora que llegaste a este final, la＿razón por la que te traje aquí......」"
+
+msgid "Yuri「......is none other than to discuss the＿route you chose. I thought we could＿ponder it together.」"
+msgstr "Yuri「......es hablar de la ruta que＿elegiste. Pensé que podríamos＿reflexionar juntos.」"
+
+msgid "Yuri「Well then, let's evaluate the ending you＿just saw.」"
+msgstr "Yuri「Bien, evaluemos el final＿que acabas de ver.」"
+
+msgid "Yuri「Welcome, Takasu-kun.」"
+msgstr "Yuri「Bienvenido, Takasu-kun.」"
+
+msgid "Yuri「Well then, let's begin to evaluate the＿ending you just saw.」"
+msgstr "Yuri「Bien, comencemos a evaluar el＿final que acabas de ver.」"
+
+msgid "Yuri「I see. After remembering everything,＿you chose Aisaka-san.」"
+msgstr "Yuri「Ya veo. Tras recordarlo todo,＿elegiste a Aisaka-san.」"
+
+msgid "Yuri「Congratulations! I mean it. I give you＿my sincerest blessing.」"
+msgstr "Yuri「¡Felicidades! Lo digo en serio. Te＿doy mi más sincera bendición.」"
+
+msgid "Yuri「Oh, I know. As I recall, you became an＿interior designer, yes?」"
+msgstr "Yuri「Ah, ya sé. Si mal no recuerdo, eres＿diseñador de interiores, ¿verdad?」"
+
+msgid "Yuri「In that case, can I ask you to renovate＿my place? No budget restrictions!」"
+msgstr "Yuri「En ese caso, ¿puedo pedirte＿que renueves mi casa? ¡Sin＿límite de presupuesto!」"
+
+msgid "Yuri「After all, I'm sitting on a big nest egg......＿Ahahahaha......」"
+msgstr "Yuri「Después de todo, tengo mucho dinero＿ahorrado...... Ajajajaja......」"
+
+msgid "Yuri「Okay, you don't have to fake your＿laughter.」"
+msgstr "Yuri「Bien, no hace falta que finjas reírte.」"
+
+msgid "Yuri「This ending is obviously worth the full＿100 points! Keep this level of effort＿going forward!」"
+msgstr "Yuri「¡Este final merece los 100 puntos, sin＿duda! ¡Sigue esforzándote así!」"
+
+msgid "Yuri「Okay, that's all for today. Until next＿time!」"
+msgstr "Yuri「Bien, eso es todo por hoy.＿¡Hasta la próxima!」"
+
+msgid "『Music』 is now available in 『Extra』"
+msgstr "『Música』 ya está disponible en 『Extras』"
+
+msgid "『Album』 is now available in 『Extra』"
+msgstr "『Álbum』 ya está disponible en 『Extras』"
+
+msgid "Minori「Traditionally, when having this kind of＿conversation, it's practically a given＿that you have it somewhere like this,」"
+msgstr "Minori「Por tradición, una conversación así debe＿tenerse en un lugar como este,」"
+
+msgid "Minori「where you can see the sunset.」"
+msgstr "Minori「donde se vea el atardecer.」"
+
+msgid "Ryuuji「No matter if you judge me, even if you＿talk shit about me, even then...... It's＿like, I now see what's truly important」"
+msgstr "Ryuuji「Aunque me juzgues o hables mal de＿mí, aun así...... Ahora veo lo que de＿verdad importa」"
+
+msgid "Ryuuji「to me.」"
+msgstr "Ryuuji「para mí.」"
+
+msgid "Ryuuji「Look, when I met Kitamura for lunch......＿Well, he knew there were only two＿possibilities, but it still felt like he saw」"
+msgstr "Ryuuji「Cuando almorcé con Kitamura......＿Sabía que solo había dos opciones, pero＿aun así sentí que me había」"
+
+msgid "Ryuuji「right through me......」"
+msgstr "Ryuuji「descubierto......」"
+
+msgid "Minori「Nope, you're wrong. We've simply been＿keeping an eye on you two, that's all.＿Since spring of last year, at」"
+msgstr "Minori「No, te equivocas. Solo hemos＿estado pendientes de ustedes dos, nada＿más. Desde la primavera pasada,」"
+
+msgid "Minori「point-blank.」"
+msgstr "Minori「muy de cerca.」"
+
+msgid "Minori「Partway through, there were times I＿was like \"WTF!\" and such...... But＿ultimately, you've reached your」"
+msgstr "Minori「Por el camino a veces pensé cosas＿como \"¡¿Qué rayos?!\"...... Pero al final＿llegaste a tu」"
+
+msgid "Minori「destination, Takasu-kun.」"
+msgstr "Minori「destino, Takasu-kun.」"
+
+msgid "Minori「W-Well, I didn't think that all the time,＿and of course I didn't mean to insult＿you! Now, if you please, would you say」"
+msgstr "Minori「B-Bueno, no siempre lo pensaba.＿¡Y no quería insultarte! Ahora, por＿favor, ¿podrías decir」"
+
+msgid "Minori「the words from that day!?」"
+msgstr "Minori「lo que ibas a decir aquel día?!」"
+
+msgid "Ryuuji「......Hey, if you don't mind, could I hear＿your reason? If...... If my memory＿serves me, umm...... it wasn't that you」"
+msgstr "Ryuuji「......Oye, ¿puedo saber por qué?＿Si...... Si recuerdo bien, ehm...... no＿es que te」"
+
+msgid "Ryuuji「hated me......」"
+msgstr "Ryuuji「cayera mal......」"
+
+msgid "Ryuuji「Yeah. If you happen to evolve into a＿demon lord, please don't cut Sensei's＿red string of fate. It'll drive her to buy」"
+msgstr "Ryuuji「Sí. Si te vuelves reina demonio,＿no cortes el hilo rojo de la profesora.＿La harás comprar」"
+
+msgid "Ryuuji「a defective condo.」"
+msgstr "Ryuuji「un departamento defectuoso.」"
+
+msgid "Ryuuji「......You know, I gotta ask, is leaving＿without showing your face the new＿cool thing to do? Is it something from」"
+msgstr "Ryuuji「......Tengo que preguntar: ¿irse＿sin mostrar la cara se considera genial＿ahora? ¿Es algo de」"
+
+msgid "Ryuuji「a TV show?」"
+msgstr "Ryuuji「un programa de televisión?」"
+
+msgid "Ryuuji「Anyway, you don't have to be anxious＿or worried, Taiga. On the contrary, it's＿more like we deepened our friendship」"
+msgstr "Ryuuji「En fin, no tienes que inquietarte＿ni preocuparte, Taiga. Al contrario,＿nuestra amistad se afianzó」"
+
+msgid "Ryuuji「through our fists.」"
+msgstr "Ryuuji「a puñetazos.」"
+
+msgid "Ryuuji「......Even I sometimes do my own thing＿without you needing to tell me. And＿Kushieda even said it actually healed」"
+msgstr "Ryuuji「......A veces también actúo por＿mi cuenta sin que me lo digas. Kushieda＿hasta dijo que eso fue sanador para」"
+
+msgid "Ryuuji「her.」"
+msgstr "Ryuuji「ella.」"
+
+msgid "Taiga「Calm your tits. I didn't put it in the＿washing machine like last time. I'll take＿it to the dry cleaner's, so just hold your」"
+msgstr "Taiga「Tranquilízate. No la metí en la＿lavadora como la otra vez. La llevaré a＿la tintorería, así que」"
+
+msgid "Taiga「horses.」"
+msgstr "Taiga「ten paciencia.」"
+
+msgid "Taiga「Not even middle schoolers run away＿from home nowadays! And we're right＿next door! I can't think of anything」"
+msgstr "Taiga「¡Ya ni los de secundaria se＿escapan de casa! ¡Y estamos justo al＿lado! No se me ocurre nada」"
+
+msgid "Taiga「more ridiculous.」"
+msgstr "Taiga「más ridículo.」"
+
+msgid "Kitamura「When I heard about all this over the＿phone, I was curious about how it＿happened, but I could never have」"
+msgstr "Kitamura「Cuando me lo contaste por teléfono,＿me dio curiosidad saber cómo pasó,＿pero jamás habría」"
+
+msgid "Kitamura「imagined this.」"
+msgstr "Kitamura「imaginado esto.」"
+
+msgid "Kitamura「But still, a couple of high school＿students living together...... As your＿friend, I'm cheering for you, but as the」"
+msgstr "Kitamura「Pero dos estudiantes de preparatoria＿viviendo juntos...... Como amigo,＿los apoyo, pero como」"
+
+msgid "Kitamura「student council president...... Hmm,＿isn't it better not to make this public＿for the time being?」"
+msgstr "Kitamura「presidente del consejo estudiantil......＿Mmm, ¿no sería mejor mantenerlo en＿secreto por ahora?」"
+
+msgid "Yasuko「It's kinda lonely, but...... Ryuu-chan's＿gotta leave the nest sometime.＿Yacchan will give you a proper」"
+msgstr "Yasuko「Me siento algo sola, pero......＿Ryuu-chan debe dejar el nido algún día.＿Yacchan te dará una buena」"
+
+msgid "Yasuko「send-off thennn.」"
+msgstr "Yasuko「despedidaaa.」"
+
+msgid "Ryuuji「It's like, she seemed to appreciate how＿I felt, but...... Then, while the two of us＿were arguing, she tried to compromise」"
+msgstr "Ryuuji「Parecía apreciar lo que sentía,＿pero...... Mientras discutíamos,＿intentó lograr un acuerdo」"
+
+msgid "Ryuuji「by having Yasuko acknowledge it......」"
+msgstr "Ryuuji「haciendo que Yasuko lo aceptara......」"
+
+msgid "Taiga「......So? What was this conversation＿that kept me waiting at the gates in＿this freezing weather? Don't tell me it」"
+msgstr "Taiga「......¿Y bien? ¿De qué hablaban＿para dejarme esperando en la entrada con＿este frío? No me digas que」"
+
+msgid "Taiga「was nothing much......」"
+msgstr "Taiga「no era nada importante......」"
+
+msgid "Ryuuji「Nothing super important. But＿Kitamura's really helped me out, so I＿had to fill him in on the situation to」"
+msgstr "Ryuuji「Nada muy importante. Pero＿Kitamura me ayudó mucho y tenía que＿ponerlo al tanto」"
+
+msgid "Ryuuji「some extent, you know?」"
+msgstr "Ryuuji「hasta cierto punto, ¿no?」"
+
+msgid "Ryuuji「What part of this is \"a normal high＿school relationship\"? These days,＿blushing while waiting for someone is」"
+msgstr "Ryuuji「¿En qué es esto \"una relación＿normal de preparatoria\"? Ahora,＿sonrojarse al esperar a alguien es」"
+
+msgid "Ryuuji「so cliche.」"
+msgstr "Ryuuji「todo un cliché.」"
+
+msgid "Ryuuji「So I'll stay here and Taiga stays＿there...... Then every day I bring food＿over...... You guys eat together and I eat」"
+msgstr "Ryuuji「Yo me quedo aquí y Taiga allá......＿Y llevo comida a diario...... Ustedes＿comen juntas y yo como」"
+
+msgid "Ryuuji「alone......? I, I won't consent to this!」"
+msgstr "Ryuuji「¿solo......? ¡Y-Yo no＿voy a aceptar esto!」"
+
+msgid "Ryuuji「Et tu, Inko-chan...... Oh yeah, Yasuko,＿can I take Inko-chan with me? This＿house is just too big and empty for one」"
+msgstr "Ryuuji「Tú también, Inko-chan...... Ah,＿Yasuko, ¿me llevo a Inko-chan? La casa＿es demasiado grande y vacía para una」"
+
+msgid "Ryuuji「person.」"
+msgstr "Ryuuji「persona.」"
+
+msgid "Taiga「So what? It's empty anyway.＿MOTTAINAI? Then why don't you use it＿to patch the hole I put in the door the」"
+msgstr "Taiga「¿Y qué? Está vacío. ¡QUÉ＿DESPERDICIO!, ¿eh? ¿Y si tapas con eso＿el agujero que hice en la puerta el」"
+
+msgid "Taiga「other day?」"
+msgstr "Taiga「otro día?」"
+
+msgid "Ryuuji「The landlady downstairs complained,＿Yasuko was in emotional distress＿accordingly, and Inko-chan developed」"
+msgstr "Ryuuji「La casera de abajo se quejó,＿Yasuko sufrió angustia por ello＿e Inko-chan desarrolló」"
+
+msgid "Ryuuji「temporary PTSD. And I'm sorry for all＿of that......」"
+msgstr "Ryuuji「estrés postraumático temporal. Y＿lo siento por todo eso......」"
+
+msgid "Ryuuji「To pay for the extensive damages I＿caused them, in the middle of that＿surprisingly well-written text string,」"
+msgstr "Ryuuji「Para pagar por los graves daños que＿les causé, en medio de ese texto＿sorprendentemente bien escrito,」"
+
+msgid "Ryuuji「I......」"
+msgstr "Ryuuji「yo......」"
+
+msgid "Taiga「But for me, Japanese through and＿through, even after returning to my＿country after a few years abroad, I」"
+msgstr "Taiga「Pero yo, japonesa de pies a＿cabeza, incluso al volver a mi país tras＿unos años en el extranjero,」"
+
+msgid "Taiga「didn't notice it.」"
+msgstr "Taiga「no lo noté.」"
+
+msgid "Taiga「Speaking of change, he grew up,＿graduated high school and college, and＿is currently working as an interior」"
+msgstr "Taiga「Él sí cambió: creció, terminó＿la preparatoria y la universidad,＿y ahora es diseñador de」"
+
+msgid "Taiga「designer in Milan.」"
+msgstr "Taiga「interiores en Milán.」"
+
+msgid "Taiga「When he said he wanted to go to Italy, I＿thought he was out of his mind. But＿he's young and independent, and now」"
+msgstr "Taiga「Cuando dijo que quería ir a Italia,＿lo creí loco. Pero es joven e＿independiente y ahora」"
+
+msgid "Taiga「he's working out of a nice office. It＿means a lot to him.」"
+msgstr "Taiga「trabaja en una linda oficina.＿Eso significa mucho para él.」"
+
+msgid "Taiga「Gallantly dressed in a freshly bought＿suit custom-made by a top designer,＿it's somehow maddening to hear him」"
+msgstr "Taiga「Va elegante con su traje nuevo hecho＿a medida por un gran diseñador, y de＿algún modo me irrita oír que lo」"
+
+msgid "Taiga「called \"up-and-coming.\"」"
+msgstr "Taiga「llaman \"promesa del diseño\".」"
+
+msgid "Taiga「Still, why hadn't this person changed＿at all? I feel like she's matured since＿he left, and yet she still only looks to」"
+msgstr "Taiga「Pero ¿por qué ella no cambió nada?＿Creo que maduró desde que él se fue,＿pero aún aparenta unos」"
+
+msgid "Taiga「be about 30. Definitely a fraud.」"
+msgstr "Taiga「30 años. Todo un fraude.」"
+
+msgid "Taiga「Is it the soy milk? Or is it the work of＿kefir? At any rate, at＿Bishamontengoku I'm sure she could」"
+msgstr "Taiga「¿Será la leche de soya? ¿O el kéfir?＿En fin, estoy segura de que en＿Bishamontengoku podría」"
+
+msgid "Taiga「fight with the charm of her smile for＿another 10 years.」"
+msgstr "Taiga「seguir luchando con su sonrisa＿encantadora otros 10 años.」"
+
+msgid "Taiga「Smiling ear to ear, she gazes tenderly＿at me. She's not talking about my＿height. It's the size of my belly after 8」"
+msgstr "Taiga「Sonriendo de oreja a oreja, me＿mira con ternura. No habla de mi altura,＿sino del tamaño de mi vientre tras ocho」"
+
+msgid "Taiga「months of pregnancy.」"
+msgstr "Taiga「meses de embarazo.」"
+
+msgid "Taiga「My better half, who I once called a dog,＿started to blush. It's a little late to get＿embarrassed about it, you know? How」"
+msgstr "Taiga「Mi media naranja, a quien llamaba perro,＿se sonrojó. Ya es un poco tarde para＿avergonzarte, ¿no? ¿Cuántos」"
+
+msgid "Taiga「many years have we been married?」"
+msgstr "Taiga「años llevamos casados?」"
+
+msgid "Taiga「Speaking of dogs, it's like I'm having a＿litter myself. Guess that makes me a＿bitch. Get it? It's a joke-- Hm? This」"
+msgstr "Taiga「Hablando de perros, yo también＿tendré una camada. Seré una perra.＿¿Entiendes? Es broma-- ¿Mmm? Este」"
+
+msgid "Taiga「outcome...... Huh?」"
+msgstr "Taiga「resultado...... ¿Eh?」"
+
+msgid "Taiga「It was like a midsummer night's dream＿we once had. Married to a dog, living in＿a doghouse, with countless puppies,」"
+msgstr "Taiga「Como aquel sueño de una noche de＿verano: casada con un perro, en una casa＿de perros, con incontables cachorros,」"
+
+msgid "Taiga「living a life of poverty......」"
+msgstr "Taiga「viviendo en la pobreza......」"
+
+msgid "Taiga「The dream I had that summer wasn't＿half bad, and I started to long for it.＿Now it seems I've made it come true」"
+msgstr "Taiga「El sueño de aquel verano no estaba＿nada mal y empecé a desearlo. Ahora＿parece que lo hice realidad」"
+
+msgid "Taiga「with my own two hands.」"
+msgstr "Taiga「con mis propias manos.」"
+
+msgid "Yuri「I'll come and see you every time you＿reach an ending.」"
+msgstr "Yuri「Vendré a verte cada vez que＿llegues a un final.」"
+
+msgid "Yuri「I want you to reflect on the actions you＿made this time and keep them in mind＿for next time.」"
+msgstr "Yuri「Quiero que reflexiones sobre tus＿acciones de esta vez y las tengas＿presentes para la próxima.」"

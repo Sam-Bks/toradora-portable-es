@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+
+msgid "Taiga「Ngh......」"
+msgstr "Taiga「Mmgh......」"
+
+msgid "Ryuuji「......Hm? What's wrong?」"
+msgstr "Ryuuji「......¿Mm? ¿Qué pasa?」"
+
+msgid "Taiga「Ryu-Ryuuji...... What the hell are you up＿to?」"
+msgstr "Taiga「Ryu-Ryuuji...... ¿Qué diablos pretendes?」"
+
+msgid "Ryuuji「What do you mean?」"
+msgstr "Ryuuji「¿A qué te refieres?」"
+
+msgid "Taiga「S-SHUT UP! What are you trying to do＿to me!? You perverted, lecherous,＿lewd, stupid, lazy dog!」"
+msgstr "Taiga「¡C-CÁLLATE! ¡¿Qué intentas hacerme?!＿¡Perro pervertido, lujurioso, obsceno,＿estúpido y holgazán!」"
+
+msgid "Ryuuji「Wait, what did I do to deserve all that?」"
+msgstr "Ryuuji「Espera, ¿qué hice para merecer todo eso?」"
+
+msgid "Taiga「Enough! Don't look at me with that＿face! You...... IDIOOOT!」"
+msgstr "Taiga「¡Basta! ¡No me mires con esa cara!＿¡Eres un...... IDIOTAAA!」"
+
+msgid "Ryuuji「Dammit Taiga, what's your problem......?」"
+msgstr "Ryuuji「Maldita sea, Taiga, ¿cuál＿es tu problema......?」"

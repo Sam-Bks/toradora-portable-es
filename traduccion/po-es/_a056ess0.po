@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+
+msgid "Taiga「Thanks for the food.」"
+msgstr "Taiga「Gracias por la comida.」"
+
+msgid "Ryuuji「And thanks for eating it. I'm sorry it＿was nothing special. I completely＿forgot to go grocery shopping.」"
+msgstr "Ryuuji「Y gracias por comerla. Perdón por no＿haber hecho nada especial. Se me olvidó＿por completo hacer las compras.」"
+
+msgid "Taiga「I thought your food was special＿enough as is...... Well, I'll forgive you this＿time.」"
+msgstr "Taiga「A mí me pareció bastante especial＿así como estaba...... Bueno,＿te perdono esta vez.」"
+
+msgid "Ryuuji「I'm glad you're as prideful as always.＿Now then, Taiga, let's recap the plan＿for tomorrow.」"
+msgstr "Ryuuji「Me alegra que sigas tan orgullosa＿como siempre. Bien, Taiga, repasemos＿el plan para mañana.」"
+
+msgid "Taiga「What's that? A memo on construction＿paper?」"
+msgstr "Taiga「¿Qué es eso? ¿Una nota en cartulina?」"
+
+msgid "Ryuuji「\"A Guide to Ami-chan's Operation＿Venus☆\"」"
+msgstr "Ryuuji「\"Guía para la Operación＿Venus de Ami-chan☆\"」"
+
+msgid "Taiga「......Wait, you wrote that, didn't you?」"
+msgstr "Taiga「......Espera, tú escribiste eso, ¿no?」"
+
+msgid "Ryuuji「She made me! Quit your tsukkomi＿routine. You're on Kitamura duty＿tomorrow, got it?」"
+msgstr "Ryuuji「¡Ella me obligó! ¡Deja las burlas!＿Mañana te toca encargarte de Kitamura,＿¿entendido?」"
+
+msgid "Taiga「Oh...... Okay.」"
+msgstr "Taiga「Ah...... Está bien.」"
+
+msgid "Ryuuji「I'll meet up with Kanou Sumire. You＿take Kitamura to the planetarium and＿get him into a loveseat.」"
+msgstr "Ryuuji「Yo me reuniré con Kanou Sumire. Tú lleva＿a Kitamura al planetario y haz que se＿siente en un sofá doble.」"
+
+msgid "Ryuuji「Then, sit next to him in the assigned＿seat and wait there. When Kawashima＿gives the signal, you get up. Got it?」"
+msgstr "Ryuuji「Luego siéntate a su lado en el lugar＿asignado y espera. Cuando Kawashima dé＿la señal, te levantas. ¿Entendido?」"
+
+msgid "Taiga「G-Got it.」"
+msgstr "Taiga「E-Entendido.」"
+
+msgid "Taiga「Could you kindly not underestimate＿me? Taking Kitamura-kun to a＿loveseat is no big deal......」"
+msgstr "Taiga「¿Podrías hacer el favor de no＿subestimarme? Llevar a Kitamura-kun＿a un sofá doble no es gran cosa......」"
+
+msgid "Taiga「......But what if he says, like, \"I don't＿want to sit next to you, so let's each sit＿in different seats\"?」"
+msgstr "Taiga「......¿Pero y si dice algo como: \"No＿quiero sentarme contigo, mejor＿sentémonos en asientos separados\"?」"
+
+msgid "Ryuuji「Don't lose your nerve, dummy! It's not＿like you. Just be your usual arrogant＿self.」"
+msgstr "Ryuuji「¡No te acobardes, tonta! Eso＿no es propio de ti. Sé tan arrogante＿como siempre.」"
+
+msgid "Taiga「I-It's a hypothetical question. I need to＿mentally prepare in case of an＿emergency!」"
+msgstr "Taiga「E-Es una pregunta hipotética.＿¡Debo prepararme mentalmente por＿si surge una emergencia!」"
+
+msgid "Ryuuji「I hope the planetarium's atmosphere＿will help Kitamura.」"
+msgstr "Ryuuji「Espero que el ambiente del planetario＿ayude a Kitamura.」"
+
+msgid "Taiga「Yeah......」"
+msgstr "Taiga「Sí......」"
+
+msgid "Ryuuji「Taiga, what's wrong?」"
+msgstr "Ryuuji「Taiga, ¿qué pasa?」"
+
+msgid "Taiga「Argh, I have to stop letting my mind＿get sidetracked! Keep it together, keep＿it together.」"
+msgstr "Taiga「¡Agh, tengo que dejar de distraerme!＿Mantén la calma, mantén la calma.」"
+
+msgid "Ryuuji「......Kitamura will be fine. When it comes＿down to it, he's a man of action.」"
+msgstr "Ryuuji「......Kitamura estará bien. A la hora de＿la verdad, es un hombre de acción.」"
+
+msgid "Taiga「Yeah, it'll be fine. Kitamura-kun truly＿did like that hellcat...... and probably＿still does.」"
+msgstr "Taiga「Sí, saldrá bien. A Kitamura-kun de＿verdad le gustaba esa arpía......＿y seguro todavía le gusta.」"
+
+msgid "Ryuuji「If everything works out between them,＿let's treat Kitamura to lunch or＿something.」"
+msgstr "Ryuuji「Si todo sale bien entre ellos, invitemos＿a Kitamura a almorzar o algo así.」"
+
+msgid "Taiga「Fufu, yeah.」"
+msgstr "Taiga「Juju, sí.」"
+
+msgid "Taiga「Taking full advantage of her＿connections, huh. Must be nice.」"
+msgstr "Taiga「Aprovechando al máximo sus contactos,＿¿eh? Qué suerte.」"
+
+msgid "Ryuuji「Other than that, we need......」"
+msgstr "Ryuuji「Aparte de eso, necesitamos......」"
+
+msgid "Nothing else in particular"
+msgstr "Nada más en particular"
+
+msgid "It'll be dark inside, so just in case......"
+msgstr "Va a estar oscuro, por si acaso......"
+
+msgid "Maybe I should cover my face......"
+msgstr "Quizá debería cubrirme la cara......"
+
+msgid "Ryuuji「Nothing else in particular...... Right?」"
+msgstr "Ryuuji「Nada más en particular...... ¿Verdad?」"
+
+msgid "Taiga「What's with this lack of confidence?」"
+msgstr "Taiga「¿Y esa falta de confianza?」"
+
+msgid "Taiga「......Seriously, it'll be fine.」"
+msgstr "Taiga「......En serio, todo saldrá bien.」"
+
+msgid "Ryuuji「Suffice it to say, let's just bring our＿enthusiasm, okay?」"
+msgstr "Ryuuji「Basta con que vayamos con＿mucho entusiasmo, ¿sí?」"
+
+msgid "Taiga「......Now I'm REALLY concerned.」"
+msgstr "Taiga「......Ahora SÍ que estoy preocupada.」"
+
+msgid "Ryuuji「I'm more concerned about whether＿you'll be able to manage Kitamura.」"
+msgstr "Ryuuji「A mí me preocupa más si podrás＿arreglártelas con Kitamura.」"
+
+msgid "Taiga「Relax and just leave everything to me.」"
+msgstr "Taiga「Relájate y déjamelo todo a mí.」"
+
+msgid "Ryuuji「（Let's pray she doesn't lose it, then.）」"
+msgstr "Ryuuji「（Recemos para que no se descontrole,＿entonces.）」"
+
+msgid "Ryuuji「Alright, since it's going to be dark in＿there, let's take this flashlight just in＿case.」"
+msgstr "Ryuuji「Bien, como estará oscuro ahí dentro,＿llevemos esta linterna por si acaso.」"
+
+msgid "Taiga「Good idea! It's hard to see anything＿once the show starts. That might be＿crazy useful to have.」"
+msgstr "Taiga「¡Buena idea! Cuesta ver algo cuando＿empieza la función. Podría ser＿súper útil tenerla.」"
+
+msgid "Taiga「Huh? Then how should I use it?」"
+msgstr "Taiga「¿Eh? ¿Entonces cómo debería usarla?」"
+
+msgid "Ryuuji「In the off chance you decide you want＿to signal someone in the dark, try this.」"
+msgstr "Ryuuji「En caso de que necesites hacerle＿una señal a alguien en la oscuridad,＿prueba esto.」"
+
+msgid "Taiga「Hm? I don't get it.」"
+msgstr "Taiga「¿Mmm? No entiendo.」"
+
+msgid "Taiga「Now I get it!」"
+msgstr "Taiga「¡Ahora sí entiendo!」"
+
+msgid "Taiga「Got it.」"
+msgstr "Taiga「Entendido.」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Taiga「What's that look for?」"
+msgstr "Taiga「¿Y esa mirada?」"
+
+msgid "Ryuuji「I was just thinking, there's nothing less＿trustworthy than a \"got it\" from you......」"
+msgstr "Ryuuji「Solo pensaba que no hay nada menos＿confiable que un \"entendido\" tuyo......」"
+
+msgid "Taiga「I, I'll be fine! I'm gonna kick ass＿tomorrow!」"
+msgstr "Taiga「¡E-Estaré bien! ¡Mañana voy a arrasar!」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Taiga「So don't give me that look!」"
+msgstr "Taiga「¡Así que no me mires así!」"
+
+msgid "Ryuuji「OUCH!」"
+msgstr "Ryuuji「¡AY!」"
+
+msgid "Taiga「Here's the flashlight. Be sure to put it＿in your bag for tomorrow.」"
+msgstr "Taiga「Aquí está la linterna. Asegúrate de＿guardarla en tu bolso para mañana.」"
+
+msgid "Ryuuji「Alright, alright. I believe in you...... Good,＿now our preparations are complete.」"
+msgstr "Ryuuji「Está bien, está bien. Creo＿en ti...... Listo, ya terminamos＿los preparativos.」"
+
+msgid "Ryuuji「Maybe I shouldn't show my face. I think＿I'll need sunglasses.」"
+msgstr "Ryuuji「Quizá no deba mostrar la cara. Creo＿que necesitaré lentes de sol.」"
+
+msgid "Ryuuji「I got these from Kawashima...... Do they＿look good on me?」"
+msgstr "Ryuuji「Me los dio Kawashima......＿¿Me quedan bien?」"
+
+msgid "Taiga「Try them on.」"
+msgstr "Taiga「Pruébatelos.」"
+
+msgid "Ryuuji「Oh, okay. This is my first time wearing＿sunglasses.」"
+msgstr "Ryuuji「Ah, está bien. Es la primera＿vez que uso lentes de sol.」"
+
+msgid "Taiga「......EEEEEEEEEKKKK!!」"
+msgstr "Taiga「......¡¡IIIIIIIIIK!!」"
+
+msgid "Ryuuji「What?!」"
+msgstr "Ryuuji「¡¿Qué?!」"
+
+msgid "Ryuuji「The hell does that mean?!」"
+msgstr "Ryuuji「¡¿Qué diablos significa eso?!」"
+
+msgid "Taiga「You're as pale as a murderer!!」"
+msgstr "Taiga「¡¡Estás pálido como un asesino!!」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Taiga「No, don't feel bad about it. It's too late＿for that.」"
+msgstr "Taiga「No, no te sientas mal por eso.＿Ya es demasiado tarde.」"
+
+msgid "Ryuuji「I've always thought my harsh eyes＿were the reason my face frightens＿people, but I guess I was wrong......」"
+msgstr "Ryuuji「Siempre creí que mi mirada dura hacía＿que mi cara asustara a la gente, pero＿supongo que estaba equivocado......」"
+
+msgid "Taiga「Well, faintly seeing the whites of your＿eyes through the sunglasses makes＿them scarier than usual......」"
+msgstr "Taiga「Bueno, ver apenas lo blanco de tus ojos＿tras los lentes de sol los hace más＿aterradores de lo normal......」"
+
+msgid "Taiga「B-But it's fine since I know you! They＿look fairly decent on you! ......Probably.」"
+msgstr "Taiga「¡P-Pero está bien porque te conozco!＿¡Te quedan bastante decentes!＿......Probablemente.」"
+
+msgid "Ryuuji「T-Taiga......」"
+msgstr "Ryuuji「T-Taiga......」"
+
+msgid "Taiga「EEEEEEEEKKK!! Don't look at me!」"
+msgstr "Taiga「¡¡IIIIIIIIK!! ¡No me mires!」"
+
+msgid "Ryuuji「......The less I have to use these, the＿better.」"
+msgstr "Ryuuji「......Cuanto menos tenga＿que usar estos, mejor.」"
+
+msgid "Ryuuji「Yeah...... I'll be as careful as possible.」"
+msgstr "Ryuuji「Sí...... Tendré todo el cuidado posible.」"
+
+msgid "Ryuuji「Tomorrow morning, I'll call Kitamura＿and tell him that my stomach hurts, so＿I'm having you take my place.」"
+msgstr "Ryuuji「Mañana por la mañana llamaré a Kitamura＿y le diré que me duele el estómago,＿así que irás en mi lugar.」"
+
+msgid "Ryuuji「The rest is up to you.」"
+msgstr "Ryuuji「El resto depende de ti.」"
+
+msgid "Ryuuji「Act natural. If you want this to work,＿don't stiffen up. The more you force it,＿the more it'll show on your face.」"
+msgstr "Ryuuji「Actúa natural. Si quieres que funcione,＿no te pongas tensa. Cuanto más lo＿fuerces, más se te notará en la cara.」"
+
+msgid "Ryuuji「And you'll be more likely to mess up.」"
+msgstr "Ryuuji「Y será más probable que la arruines.」"
+
+msgid "Ryuuji「Pull yourself together. We've come so＿far, we can't afford to screw up now.」"
+msgstr "Ryuuji「Recomponte. Hemos llegado tan lejos que＿no podemos permitirnos fallar ahora.」"
+
+msgid "Ryuuji「All we can do is get them both in the＿loveseat. It's their problem after that.」"
+msgstr "Ryuuji「Lo único que podemos hacer es sentarlos＿a los dos en el sofá doble. Después＿es problema suyo.」"
+
+msgid "Ryuuji「If you're really not sure, you can switch＿roles with Kawashima if you want.」"
+msgstr "Ryuuji「Si de verdad no estás segura,＿puedes cambiar de papel con＿Kawashima si quieres.」"
+
+msgid "Ryuuji「As the so-called \"commander,\" she'll be＿doing practically nothing.」"
+msgstr "Ryuuji「Como la supuesta \"comandante\", ella＿no hará prácticamente nada.」"
+
+msgid "Taiga「Mind your own beeswax! Likewise,＿don't let that woman kick you around＿like some kind of toy!」"
+msgstr "Taiga「¡Métete en tus asuntos! ¡Y tú tampoco＿dejes que esa mujer te maneje a su＿antojo como si fueras un juguete!」"
+
+msgid "Taiga「Kitamura-kun's future is at stake here!」"
+msgstr "Taiga「¡Aquí está en juego el futuro＿de Kitamura-kun!」"
+
+msgid "Ryuuji「Alright, all we need now are the＿tickets.」"
+msgstr "Ryuuji「Bien, ahora solo nos faltan＿las entradas.」"
+
+msgid "Ryuuji「As I recall, Kawashima should have＿enough planetarium tickets for all of＿us by tomorrow.」"
+msgstr "Ryuuji「Si mal no recuerdo, Kawashima debería＿tener entradas del planetario para＿todos nosotros para mañana.」"
+
+msgid "Ryuuji「We should be fine as long as we have＿our wallets and the tickets...... Alright,＿just to be sure, let's not take anything」"
+msgstr "Ryuuji「Con las carteras y las entradas＿bastará...... Bien, por si acaso, ¡no＿llevemos nada」"
+
+msgid "Ryuuji「extra!」"
+msgstr "Ryuuji「de más!」"
+
+msgid "Ryuuji「Yeah, it does get really dark......＿HOWEVER! Don't use it like crazy in＿the planetarium!」"
+msgstr "Ryuuji「Sí, de verdad oscurece mucho......＿¡PERO NO la uses como loca dentro＿del planetario!」"
+
+msgid "Ryuuji「It would be distracting for the other＿customers. Let's refrain from＿overusing it.」"
+msgstr "Ryuuji「Distraería a los demás clientes.＿Evitemos usarla en exceso.」"
+
+msgid "Ryuuji「Let's decide on some signals and their＿meanings. One flash means \"OK,\" two＿flashes means \"wait\"......」"
+msgstr "Ryuuji「Acordemos unas señales y sus＿significados. Un destello es \"OK\",＿dos destellos son \"espera\"......」"
+
+msgid "Ryuuji「And three flashes means \"help.\"」"
+msgstr "Ryuuji「Y tres destellos significan \"ayuda\".」"
+
+msgid "Ryuuji「However! Use it absolutely as little as＿possible, so you don't annoy the other＿customers!」"
+msgstr "Ryuuji「¡Sin embargo! ¡Úsala lo menos posible＿para no molestar a los demás clientes!」"
+
+msgid "Ryuuji「Plus, if you use it too much, Kitamura＿and Kanou Sumire might get＿suspicious.」"
+msgstr "Ryuuji「Además, si la usas mucho, Kitamura＿y Kanou Sumire podrían sospechar.」"
+
+msgid "Taiga「Right. After canceling your date with＿Kitamura-kun due to a stomachache,＿it's all over if he sees you at the」"
+msgstr "Taiga「Cierto. Tras cancelar tu cita con＿Kitamura-kun por dolor de estómago, todo＿se acaba si te ve en el」"
+
+msgid "Taiga「planetarium.」"
+msgstr "Taiga「planetario.」"
+
+msgid "Taiga「T-That's bad, really bad...... Even＿though I should be familiar with your＿face, without realizing, I almost lost」"
+msgstr "Taiga「E-Eso es malo, muy malo...... Aunque＿debería estar acostumbrada a tu cara,＿sin darme cuenta casi pierdo el」"
+
+msgid "Taiga「it...... As a young lady, I'm embarrassed.」"
+msgstr "Taiga「control...... Como señorita,＿me da vergüenza.」"
+
+msgid "Taiga「Y-Yeah. There might be times when＿you have no choice but to use them.＿Just take care not to make it onto any」"
+msgstr "Taiga「S-Sí. Quizá no tengas más remedio que＿usarlos alguna vez. Solo ten cuidado de＿no salir en ningún」"
+
+msgid "Taiga「police reports.」"
+msgstr "Taiga「reporte policial.」"

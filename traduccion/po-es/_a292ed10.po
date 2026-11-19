@@ -1,0 +1,377 @@
+msgid ""
+msgstr ""
+
+msgid "Sumire「Been here long?」"
+msgstr "Sumire「¿Llevas mucho esperando?」"
+
+msgid "Ryuuji「No...... Wait, why are you in uniform?」"
+msgstr "Ryuuji「No...... Espera, ¿por qué＿llevas el uniforme?」"
+
+msgid "Sumire「Doesn't it look good on me?」"
+msgstr "Sumire「¿No me queda bien?」"
+
+msgid "Ryuuji「That's not the point.」"
+msgstr "Ryuuji「Ese no es el punto.」"
+
+msgid "Sumire「Hmph. I thought it would help me not＿to stand out...... but alas, a few people＿have already made a fuss.」"
+msgstr "Sumire「Jum. Pensé que así pasaría más＿desapercibida...... pero, por desgracia,＿varios ya armaron un alboroto.」"
+
+msgid "Ryuuji「Well, of course, senpai. Don't you know＿how famous you are?」"
+msgstr "Ryuuji「Pues claro, senpai. ¿Acaso no＿sabes lo famosa que eres?」"
+
+msgid "Ryuuji「\"Prepared\"? I don't have the first clue＿why I'm here...... What does the＿armband have to do with this?」"
+msgstr "Ryuuji「¿\"Preparado\"? No tengo ni idea de por＿qué estoy aquí...... ¿Qué tiene que＿ver el brazalete con todo esto?」"
+
+msgid "Sumire「What......? You were staring at that＿armband without any idea of its＿meaning?」"
+msgstr "Sumire「¿Qué......? ¿Estabas mirando＿ese brazalete sin tener ni idea＿de lo que significa?」"
+
+msgid "Ryuuji「Yeah. I remembered that you used to＿wear it when you were President.」"
+msgstr "Ryuuji「Sí. Recordé que tú solías llevarlo＿cuando eras Presidenta.」"
+
+msgid "Sumire「That's right. This scarlet armband is＿worn exclusively by those in student＿council.」"
+msgstr "Sumire「Así es. Este brazalete escarlata lo＿llevan únicamente quienes forman parte＿del consejo estudiantil.」"
+
+msgid "Ryuuji「Oh, that's right. But then why would＿you give me that......?」"
+msgstr "Ryuuji「Ah, es verdad. Pero entonces,＿¿por qué me lo darías......?」"
+
+msgid "Sumire「Wanna know?」"
+msgstr "Sumire「¿Quieres saber?」"
+
+msgid "Ryuuji「Of course I do.」"
+msgstr "Ryuuji「Claro que sí.」"
+
+msgid "Sumire「Ha ha ha, of course you do. Alright, I'll＿start from the beginning.」"
+msgstr "Sumire「Ja, ja, ja, claro que sí. Bien,＿empezaré desde el principio.」"
+
+msgid "Sumire「Your actions in the planetarium the＿other day were excellent, actually. I've＿started to see you in a new light.」"
+msgstr "Sumire「Lo que hiciste el otro día en el＿planetario fue excelente, la verdad.＿Empecé a verte con otros ojos.」"
+
+msgid "Ryuuji「The planetarium...... where you soundly＿saw through our plans?」"
+msgstr "Ryuuji「¿El planetario...... donde descubriste＿por completo nuestros planes?」"
+
+msgid "Sumire「To put it clearly, your strategy ended＿on a weak note. But you did all that for＿Kitamura's sake. I like your spirit.」"
+msgstr "Sumire「Siendo clara, su estrategia terminó muy＿floja. Pero hiciste todo eso por el bien＿de Kitamura. Me gusta tu espíritu.」"
+
+msgid "Sumire「Then it occurred to me - Kitamura＿needs you.」"
+msgstr "Sumire「Entonces se me ocurrió algo:＿Kitamura te necesita.」"
+
+msgid "Ryuuji「He needs me......?」"
+msgstr "Ryuuji「¿Me necesita......?」"
+
+msgid "Sumire「That's right. In other words――」"
+msgstr "Sumire「Así es. En otras palabras――」"
+
+msgid "Sumire「SHUT THE FUCK UP!」"
+msgstr "Sumire「¡CÁLLENSE DE UNA MALDITA VEZ!」"
+
+msgid "Sumire「I understand you fuckers are＿surprised. Let me make this clear right＿now: I have not returned for good.」"
+msgstr "Sumire「Entiendo que estén sorprendidos,＿imbéciles. Se lo dejo claro ahora mismo:＿no he vuelto para quedarme.」"
+
+msgid "Ryuuji「（Harsh...... It's like I'm headed for the＿guillotine.）」"
+msgstr "Ryuuji「（Qué ruda...... Es como si fuera＿camino a la guillotina.）」"
+
+msgid "Sumire「I SAID SHUT THE FUCK UP!」"
+msgstr "Sumire「¡DIJE QUE SE CALLEN, MALDITA SEA!」"
+
+msgid "Sumire「Come on, Takasu. Introduce yourself＿already.」"
+msgstr "Sumire「Vamos, Takasu. Preséntate de una vez.」"
+
+msgid "Ryuuji「I'm Takasu Ryuuji from Class 2-C......」"
+msgstr "Ryuuji「Soy Takasu Ryuuji, de la clase 2-C......」"
+
+msgid "Sumire「Is that it? Surely you have something＿more to say!」"
+msgstr "Sumire「¿Eso es todo? ¡Seguro tienes＿algo más que decir!」"
+
+msgid "Ryuuji「Err, well...... Anyway, let's all work＿together.」"
+msgstr "Ryuuji「Ehm, bueno...... En fin, trabajemos＿todos juntos.」"
+
+msgid "Sumire「What kind of sleeptalk is that? Fuckin'＿say something like \"I'm worth a＿hundred men!\"」"
+msgstr "Sumire「¿Qué clase de tontería es esa?＿¡Di algo como \"¡Valgo por cien＿hombres!\", maldita sea!」"
+
+msgid "Ryuuji「M-My bad......」"
+msgstr "Ryuuji「L-Lo siento......」"
+
+msgid "Sumire「Sheesh...... Well anyway, he's slightly＿unreliable, and has a hellacious glare,＿but he's a good guy deep down.」"
+msgstr "Sumire「Caray...... En fin, es algo poco fiable＿y tiene una mirada infernal, pero en＿el fondo es buen chico.」"
+
+msgid "Sumire「I believe that he will become an＿indispensable asset for the student＿council. Dismissed!」"
+msgstr "Sumire「Creo que se volverá un recurso＿indispensable para el consejo＿estudiantil. ¡Rompan filas!」"
+
+msgid "Kitamura「......Leaving already?」"
+msgstr "Kitamura「......¿Ya te vas?」"
+
+msgid "Sumire「Yeah. Kitamura, Takasu - the rest is up＿to you two.」"
+msgstr "Sumire「Sí. Kitamura, Takasu: el resto＿queda en sus manos.」"
+
+msgid "Kitamura「Please leave it to me.」"
+msgstr "Kitamura「Déjamelo a mí, por favor.」"
+
+msgid "Ryuuji「R-Right......」"
+msgstr "Ryuuji「E-Entendido......」"
+
+msgid "Sumire「Fuckin' answer me resolutely!」"
+msgstr "Sumire「¡Respóndeme con firmeza, maldita sea!」"
+
+msgid "Ryuuji「Right!」"
+msgstr "Ryuuji「¡Entendido!」"
+
+msgid "Ryuuji「Beg your pardon?」"
+msgstr "Ryuuji「¿Disculpa?」"
+
+msgid "Kitamura「What are you...... saying?」"
+msgstr "Kitamura「¿Qué estás...... diciendo?」"
+
+msgid "Sumire「I'll be waiting one step ahead of you＿guys.」"
+msgstr "Sumire「Los estaré esperando un＿paso por delante.」"
+
+msgid "Ryuuji「（She lost me again...... Go to America＿with Kitamura......?）」"
+msgstr "Ryuuji「（Me dejó perdido otra vez...... ¿Ir a＿Estados Unidos con Kitamura......?）」"
+
+msgid "Sumire「I have high hopes for your futures......＿What? What's with those fuckin' blank＿expressions?」"
+msgstr "Sumire「Espero mucho de su futuro...... ¿Qué?＿¿Y esas malditas caras de confusión?」"
+
+msgid "Kitamura「Well......」"
+msgstr "Kitamura「Bueno......」"
+
+msgid "Sumire「You'll see. The two of you will make it＿for sure...... See ya. Work hard!」"
+msgstr "Sumire「Ya verán. Ustedes dos lo lograrán sin＿duda...... Nos vemos. ¡Esfuércense!」"
+
+msgid "Ryuuji「Before long I had graduated high＿school, and――」"
+msgstr "Ryuuji「Al poco tiempo me gradué＿de la preparatoria, y――」"
+
+msgid "Sumire「Takasu, let me have some more!」"
+msgstr "Sumire「¡Takasu, dame un poco más!」"
+
+msgid "Ryuuji「Senpai, you shouldn't stuff yourself.」"
+msgstr "Ryuuji「Senpai, no deberías atiborrarte.」"
+
+msgid "Sumire「If that's how you feel, then concoct a＿dish that will make me feel full after＿only one bite.」"
+msgstr "Sumire「Si así piensas, entonces prepara＿un plato que me haga sentir llena＿con un solo bocado.」"
+
+msgid "Ryuuji「From a physiological standpoint, I＿wouldn't recommend that.」"
+msgstr "Ryuuji「Desde un punto de vista fisiológico,＿no lo recomendaría.」"
+
+msgid "Sumire「Hmph, where did you learn that?」"
+msgstr "Sumire「Jum, ¿dónde aprendiste eso?」"
+
+msgid "Ryuuji「From you.」"
+msgstr "Ryuuji「De ti.」"
+
+msgid "Sumire「Thanks to you, space food has＿dramatically improved. You know what＿they're saying these days?」"
+msgstr "Sumire「Gracias a ti, la comida espacial＿ha mejorado muchísimo. ¿Sabes lo＿que dicen últimamente?」"
+
+msgid "Ryuuji「What?」"
+msgstr "Ryuuji「¿Qué?」"
+
+msgid "Sumire「They say your trademark space food is＿\"Japanese Shock-ningei.\"」"
+msgstr "Sumire「Dicen que tu comida espacial insignia＿es el \"Japanese Shock-ningei\".」"
+
+msgid "Ryuuji「As in craftsmanship?」"
+msgstr "Ryuuji「¿En el sentido de maestría artesanal?」"
+
+msgid "Sumire「Yeah. Their portmanteaus of Japanese＿and English are cloying, but at least＿they made an effort this time.」"
+msgstr "Sumire「Sí. Sus mezclas de japonés e inglés＿son empalagosas, pero al menos＿esta vez se esforzaron.」"
+
+msgid "Ryuuji「I'm honored.」"
+msgstr "Ryuuji「Es un honor.」"
+
+msgid "Sumire「It seems I was right to keep my eye on＿you after all. Ha ha ha!」"
+msgstr "Sumire「Al final parece que acerté al＿fijarme en ti. ¡Ja, ja, ja!」"
+
+msgid "Ryuuji「......The other person you kept your＿eyes on hasn't shown his face much.」"
+msgstr "Ryuuji「......La otra persona en la que te＿fijaste no se ha dejado ver mucho.」"
+
+msgid "Sumire「Well, he's busier than ever before right＿now.」"
+msgstr "Sumire「Bueno, ahora mismo está＿más ocupado que nunca.」"
+
+msgid "Ryuuji「The other person Senpai kept her eye＿on - that is, Kitamura - is an air traffic＿controller in the mission control room.」"
+msgstr "Ryuuji「La otra persona en la que Senpai se＿fijó, es decir, Kitamura, es controlador＿aéreo en la sala de control de misión.」"
+
+msgid "Sumire「I can't believe you and Kitamura really＿followed me all the way to NASA.＿Exactly how inseparable are we?」"
+msgstr "Sumire「No puedo creer que tú y Kitamura de＿verdad me hayan seguido hasta la NASA.＿¿Qué tan inseparables somos?」"
+
+msgid "Kitamura「I'll follow you as much as I'm able, you＿see.」"
+msgstr "Kitamura「Te seguiré hasta donde me＿sea posible, ¿sabes?」"
+
+msgid "Ryuuji「Oh......」"
+msgstr "Ryuuji「Ah......」"
+
+msgid "Kitamura「I apologize. But it's necessary for the＿superstar's right-hand man to＿experience the most exciting parts.」"
+msgstr "Kitamura「Disculpa. Pero es necesario que la mano＿derecha de la superestrella viva los＿momentos más emocionantes.」"
+
+msgid "Sumire「Right-hand man? Yeah right.」"
+msgstr "Sumire「¿Mano derecha? Sí, claro.」"
+
+msgid "Kitamura「I'd rather be her husband,＿personally...... The truth is, I'm late＿because I ran out to buy this.」"
+msgstr "Kitamura「En lo personal, preferiría ser su＿esposo...... La verdad, llegué tarde＿porque salí corriendo a comprar esto.」"
+
+msgid "Sumire「......A ring? What the fuck are you doing＿in front of Takasu?」"
+msgstr "Sumire「......¿Un anillo? ¿Qué demonios＿haces delante de Takasu?」"
+
+msgid "Ryuuji「I'm the witness.」"
+msgstr "Ryuuji「Yo soy el testigo.」"
+
+msgid "Ryuuji「That's his way of threatening you, you＿know.」"
+msgstr "Ryuuji「Esa es su forma de amenazarte, ¿sabes?」"
+
+msgid "Sumire「Gah ha ha ha ha! Try it if you dare!」"
+msgstr "Sumire「¡Gaj, ja, ja, ja, ja! ¡Inténtalo＿si te atreves!」"
+
+msgid "Ryuuji「A few days later, in order to fulfill her＿lifelong dream, Senpai set off on a＿journey into space.」"
+msgstr "Ryuuji「Unos días después, para cumplir＿el sueño de su vida, Senpai partió＿en un viaje al espacio.」"
+
+msgid "Ryuuji「With special permission, I saw her off,＿along with Kitamura.」"
+msgstr "Ryuuji「Con un permiso especial, fui a＿despedirla junto con Kitamura.」"
+
+msgid "Ryuuji「Senpai, what does Earth look like from＿space? I'm sure it's blue――」"
+msgstr "Ryuuji「Senpai, ¿cómo se ve la Tierra desde＿el espacio? Seguro es azul――」"
+
+msgid "Kitamura「This is Houston. Prez, please marry＿me.」"
+msgstr "Kitamura「Aquí Houston. Presidenta, por＿favor, cásate conmigo.」"
+
+msgid "Sumire「This is the Shuttle. Roger that.」"
+msgstr "Sumire「Aquí el transbordador. Recibido.」"
+
+msgid "Yuri「Hello. First of all, perhaps I should＿thank you for your hard work,＿Takasu-kun.」"
+msgstr "Yuri「Hola. Antes que nada, quizá＿debería agradecerte por tu arduo＿trabajo, Takasu-kun.」"
+
+msgid "Yuri「Now that you got this ending, the＿reason I brought you here......」"
+msgstr "Yuri「Ahora que obtuviste este final, la razón＿por la que te traje aquí......」"
+
+msgid "Yuri「......is none other than to discuss the＿route you chose. I thought we could＿ponder it together.」"
+msgstr "Yuri「......no es otra que hablar sobre la＿ruta que elegiste. Pensé que podríamos＿reflexionar al respecto juntos.」"
+
+msgid "Yuri「Well then, let's evaluate the ending you＿just saw.」"
+msgstr "Yuri「Bien, evaluemos el final＿que acabas de ver.」"
+
+msgid "Yuri「Welcome, Takasu-kun.」"
+msgstr "Yuri「Bienvenido, Takasu-kun.」"
+
+msgid "Yuri「Well then, let's begin to evaluate the＿ending you just saw.」"
+msgstr "Yuri「Bien, empecemos a evaluar el＿final que acabas de ver.」"
+
+msgid "Yuri「You and Kitamura-kun sure make a＿great team. Kanou-san is impressive.＿She's a good judge of character.」"
+msgstr "Yuri「Kitamura-kun y tú hacen un gran equipo.＿Kanou-san es impresionante. Tiene muy＿buen ojo para juzgar a las personas.」"
+
+msgid "Yuri「If I could grade this ending, I'd give it＿90 points! You've done really well.」"
+msgstr "Yuri「Si pudiera calificar este final, ¡le＿daría 90 puntos! Lo hiciste muy bien.」"
+
+msgid "Yuri「But as your teacher, I want you to pay＿more attention not just to others'＿problems, but your own as well.」"
+msgstr "Yuri「Pero como tu profesora, quiero que＿prestes más atención no solo a los＿problemas ajenos, sino a los tuyos.」"
+
+msgid "Yuri「There's still a lot of memories you＿haven't recovered, right? It's a shame＿not to get them back.」"
+msgstr "Yuri「Aún hay muchos recuerdos que no＿has recuperado, ¿verdad? Es una＿lástima no recuperarlos.」"
+
+msgid "Yuri「In the end, youth is fleeting, so try＿your best not to leave behind any＿regrets.」"
+msgstr "Yuri「Al fin y al cabo, la juventud es＿fugaz, así que esfuérzate por no＿dejar ningún arrepentimiento.」"
+
+msgid "Yuri「Okay, that's all for today. Until next＿time!」"
+msgstr "Yuri「Bueno, eso es todo por hoy.＿¡Hasta la próxima!」"
+
+msgid "『Music』 is now available in 『Extra』"
+msgstr "『Música』 ya está disponible en 『Extra』"
+
+msgid "『Album』 is now available in 『Extra』"
+msgstr "『Álbum』 ya está disponible en 『Extra』"
+
+msgid "Ryuuji「（Come to think of it, didn't Senpai wear＿this armband back when she was＿President......? But why did she give me）」"
+msgstr "Ryuuji「（Ahora que lo pienso, ¿Senpai no usaba＿este brazalete cuando era＿Presidenta......? ¿Pero por qué me dio）」"
+
+msgid "Ryuuji「（this......?）」"
+msgstr "Ryuuji「（esto......?）」"
+
+msgid "Sumire「I don't care about that. More＿importantly...... Since you brought that＿armband, I'll cut to the chase. You look」"
+msgstr "Sumire「Eso no importa. Más importante......＿Como trajiste el brazalete, iré＿al grano. Pareces」"
+
+msgid "Sumire「relatively prepared.」"
+msgstr "Sumire「relativamente preparado.」"
+
+msgid "Sumire「I'm here today to make an＿announcement. An announcement＿regarding the mean-looking bastard」"
+msgstr "Sumire「Hoy vengo a hacer un anuncio.＿Un anuncio sobre el desgraciado＿con cara de pocos amigos」"
+
+msgid "Sumire「standing next to me.」"
+msgstr "Sumire「que está de pie a mi lado.」"
+
+msgid "Sumire「It has been decided that this guy......＿Takasu Ryuuji will join the ranks of the＿student council as the president's」"
+msgstr "Sumire「Se decidió que este tipo...... Takasu＿Ryuuji entre al consejo estudiantil,＿donde el presidente lo tendrá de」"
+
+msgid "Sumire「aide.」"
+msgstr "Sumire「asistente.」"
+
+msgid "Sumire「Chatter all you want, but this is not＿open for discussion. The principal and＿student council president have both」"
+msgstr "Sumire「Murmuren lo que quieran, pero esto no＿está en discusión. El director y el＿presidente del consejo estudiantil ya」"
+
+msgid "Sumire「given their permission. No complaints!」"
+msgstr "Sumire「dieron su permiso. ¡Sin quejas!」"
+
+msgid "Sumire「No one is more suited to supporting＿the student council president than＿him. His presence in student council」"
+msgstr "Sumire「Nadie es más apto que él para apoyar al＿presidente del consejo estudiantil. Su＿presencia en el consejo estudiantil」"
+
+msgid "Sumire「will improve the school, so it will help＿you fuckers.」"
+msgstr "Sumire「mejorará la escuela, así que＿los ayudará, malditos.」"
+
+msgid "Sumire「Alright, I'm counting on you guys.＿When your student council duties are＿finished and you graduate high」"
+msgstr "Sumire「Bien, cuento con ustedes. Cuando＿terminen sus deberes en el consejo＿estudiantil y se gradúen de la」"
+
+msgid "Sumire「school...... Both of you, come to＿America.」"
+msgstr "Sumire「preparatoria...... Los dos,＿vengan a Estados Unidos.」"
+
+msgid "Ryuuji「And so, regardless of my intent, I＿assumed the role of president's aide.＿Kitamura and I worked in tandem to」"
+msgstr "Ryuuji「Y así, sin importar mi intención, asumí＿el rol de asistente del presidente.＿Kitamura y yo trabajamos codo a codo」"
+
+msgid "Ryuuji「take care of business until the end of＿his term.」"
+msgstr "Ryuuji「para sacar adelante los asuntos＿hasta el fin de su mandato.」"
+
+msgid "Ryuuji「Unfortunately, part of my memory＿never returned, but my high school life＿was so substantial that I didn't really」"
+msgstr "Ryuuji「Por desgracia, parte de mi memoria no＿volvió, pero mi vida en la preparatoria＿fue tan plena que en realidad no me」"
+
+msgid "Ryuuji「care.」"
+msgstr "Ryuuji「importó.」"
+
+msgid "Ryuuji「With the things Senpai said that day＿guiding me, I went to America. There＿have been some ups and downs, but」"
+msgstr "Ryuuji「Guiado por lo que Senpai dijo aquel＿día, fui a Estados Unidos. Ha habido＿algunos altibajos, pero」"
+
+msgid "Ryuuji「now I'm involved in the development of＿space food at NASA.」"
+msgstr "Ryuuji「ahora participo en el desarrollo＿de comida espacial en la NASA.」"
+
+msgid "Ryuuji「Nevertheless, I'm not an official＿researcher. I usually work as a cook in＿the staff cafeteria, but...... After some」"
+msgstr "Ryuuji「Aun así, no soy investigador oficial.＿Suelo cocinar en la cafetería del＿personal, pero...... Tras un poco de」"
+
+msgid "Ryuuji「encouragement, I've enrolled in＿specialized studies.」"
+msgstr "Ryuuji「aliento, me inscribí en estudios＿especializados.」"
+
+msgid "Sumire「You're LATE, Kitamura! Even YOU＿should know how busy the schedules＿of the boarding crew get before a」"
+msgstr "Sumire「¡Llegas TARDE, Kitamura! Hasta＿TÚ debes saber lo ocupada que＿está la tripulación antes de un」"
+
+msgid "Sumire「flight.」"
+msgstr "Sumire「vuelo.」"
+
+msgid "Sumire「What, you were in on this, Takasu......?＿Sheesh. Anyway, let's start over,＿Kitamura. You never had the best」"
+msgstr "Sumire「¿Qué, estabas en esto, Takasu......?＿Caray. En fin, empecemos de nuevo,＿Kitamura. Nunca tuviste el mejor」"
+
+msgid "Sumire「sense of timing. I can't answer yet.」"
+msgstr "Sumire「sentido de la oportunidad.＿Aún no puedo responder.」"
+
+msgid "Kitamura「You sure you want to say that to the＿guy who confessed to you in front of＿the whole school? I'll have you」"
+msgstr "Kitamura「¿Seguro que le dices eso＿a quien se te declaró ante＿toda la escuela? Haré que te」"
+
+msgid "Kitamura「apologize for your attitude.」"
+msgstr "Kitamura「disculpes por tu actitud.」"
+
+msgid "Yuri「I'll come and see you every time you＿reach an ending.」"
+msgstr "Yuri「Vendré a verte cada vez que＿llegues a un final.」"
+
+msgid "Yuri「I want you to reflect on the actions you＿made this time and keep them in mind＿for next time.」"
+msgstr "Yuri「Quiero que reflexiones sobre las＿decisiones que tomaste esta vez y las＿tengas en cuenta para la próxima.」"
+
+msgid "Yuri「I see...... I was honestly surprised when＿I heard you'd suddenly joined the＿student council, but you sure had your」"
+msgstr "Yuri「Ya veo...... La verdad, me sorprendió＿que te unieras de pronto al consejo＿estudiantil, pero seguro tenías tus」"
+
+msgid "Yuri「reasons.」"
+msgstr "Yuri「La verdad, me sorprendió que te unieras＿de pronto al consejo estudiantil, pero＿seguro tenías tus motivos.」"
+
+msgid "Yuri「Now then, your role this time was to＿secretly support a relationship＿between Kitamura-kun and Kanou-san.」"
+msgstr "Yuri「Ahora bien, tu papel esta vez fue＿apoyar en secreto la relación entre＿Kitamura-kun y Kanou-san.」"
+
+msgid "Yuri「Everything you accomplished was＿admirable, right to the very end.」"
+msgstr "Yuri「Todo lo que lograste fue admirable,＿hasta el mismísimo final.」"

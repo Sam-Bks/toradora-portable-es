@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「（Oh wow. The third floor really does＿give off that \"gym pool\" ambience.）」"
+msgstr "Ryuuji「（Vaya. El tercer piso de verdad＿tiene ese ambiente de \"piscina＿de gimnasio\".）」"
+
+msgid "Ryuuji「（Maybe I can relax over at the poolside＿lounge area?）」"
+msgstr "Ryuuji「（¿Tal vez pueda relajarme en la zona＿de descanso junto a la piscina?）」"
+
+msgid "Ryuuji「Oh......」"
+msgstr "Ryuuji「Ah......」"
+
+msgid "Ryuuji「（Is that Kushieda swimming at full＿speed over there......?）」"
+msgstr "Ryuuji「（¿Esa de allá es Kushieda nadando＿a toda velocidad......?）」"
+
+msgid "Ryuuji「（Her form is beautiful. I like to see her＿pushing forward in her own way.）」"
+msgstr "Ryuuji「（Su estilo es hermoso. Me gusta＿verla avanzar a su manera.）」"
+
+msgid "Ryuuji「（She's so overflowing with vitality, it's＿like, just watching her energizes me......）」"
+msgstr "Ryuuji「（Desborda tanta vitalidad que, con solo＿verla, ya me da energía......）」"
+
+msgid "Ryuuji「Ohh!?」"
+msgstr "Ryuuji「¡¿Ohh?!」"
+
+msgid "Ryuuji「（What the!? My heart's beating faster＿all of a sudden......）」"
+msgstr "Ryuuji「（¡¿Pero qué?! Mi corazón late＿más rápido de repente......）」"
+
+msgid "Ryuuji「（This is...... the way I felt talking to＿Kushieda for the first time......）」"
+msgstr "Ryuuji「（Esto es...... lo que sentí al hablar＿con Kushieda por primera vez......）」"
+
+msgid "Ryuuji「（C-Crap! I dropped my thermos!）」"
+msgstr "Ryuuji「（¡R-Rayos! ¡Se me cayó el termo!）」"
+
+msgid "Minori「Takasu-kun?」"
+msgstr "Minori「¿Takasu-kun?」"
+
+msgid "Ryuuji「Uhh......」"
+msgstr "Ryuuji「Ehh......」"
+
+msgid "Minori「It IS you! What's the matter? Not＿gonna swim?」"
+msgstr "Minori「¡Sí eres tú! ¿Qué pasa? ¿No vas a nadar?」"
+
+msgid "Ryuuji「N-Nah. I am still recovering, after all. I＿thought I'd just take it easy for a while.」"
+msgstr "Ryuuji「N-No. Después de todo, aún me＿estoy recuperando. Pensé en tomármelo＿con calma un rato.」"
+
+msgid "Minori「Oh, that's right. You gots to take care＿of yourself.」"
+msgstr "Minori「Ah, claro. Tienes que cuidarte＿como se debe.」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Talk"
+msgstr "Hablar"
+
+msgid "Don't talk"
+msgstr "No hablar"
+
+msgid "Ryuuji「Let's do that, then.」"
+msgstr "Ryuuji「Hagamos eso, entonces.」"
+
+msgid "Minori「With pleasure, sirb!」"
+msgstr "Minori「¡Con mucho gusto, señorb!」"
+
+msgid "Ryuuji「\"Sirb\"?」"
+msgstr "Ryuuji「¿\"Señorb\"?」"
+
+msgid "Minori「Don't mind meeb!」"
+msgstr "Minori「¡No me hagas casob!」"
+
+msgid "Ryuuji「Sorry. You probably wanted to swim＿some more, huh?」"
+msgstr "Ryuuji「Perdón. Seguro querías nadar＿un poco más, ¿no?」"
+
+msgid "Ryuuji「Okay.」"
+msgstr "Ryuuji「Está bien.」"
+
+msgid "Ryuuji「I'm okay. I'm just clearing my head＿while I have myself some tea.」"
+msgstr "Ryuuji「Estoy bien. Solo despejo la mente＿mientras me tomo un té.」"
+
+msgid "Minori「Oh, you even brought in your own＿thermos. I'd expect no less from you.」"
+msgstr "Minori「Oh, hasta trajiste tu propio termo.＿No esperaba menos de ti.」"
+
+msgid "Ryuuji「Let me know if you get tired. I'll treat＿you to some of this tea.」"
+msgstr "Ryuuji「Avísame si te cansas. Te invito＿un poco de este té.」"
+
+msgid "Minori「Thanks! Well then, I'mma swim a bit＿more.」"
+msgstr "Minori「¡Gracias! Bueno, entonces＿voy a nadar un poco más.」"
+
+msgid "Ryuuji「Alright.」"
+msgstr "Ryuuji「De acuerdo.」"
+
+msgid "Ryuuji「（Maybe it was wrong of me to decline＿after she went out of her way to be＿nice to me.）」"
+msgstr "Ryuuji「（Tal vez estuvo mal rechazarla＿después de que se molestó en＿ser amable conmigo.）」"
+
+msgid "Ryuuji「（But right now, I don't think I could talk＿to Kushieda so directly......）」"
+msgstr "Ryuuji「（Pero ahora mismo, no creo que＿pueda hablar con Kushieda tan＿directamente......）」"
+
+msgid "Ryuuji「（Guess I should sort my feelings out on＿my own.）」"
+msgstr "Ryuuji「（Supongo que debería aclarar mis＿sentimientos por mi cuenta.）」"
+
+msgid "Minori「But standing around spacing out by＿yourself is no fun, right? Won't you＿have a chat with the great Kushieda」"
+msgstr "Minori「Quedarte ahí solo y en las nubes no es＿divertido, ¿no? ¿No quieres charlar con＿la gran Kushieda」"
+
+msgid "Minori「Minori?」"
+msgstr "Minori「Minori?」"
+
+msgid "Minori「Taking breaks is important when you＿exercise, bud. Besides, I can always＿swim later. Now, let's get our chat on」"
+msgstr "Minori「Hay que descansar al hacer ejercicio,＿amigo. Además, puedo nadar luego.＿¡Ahora, vamos a charlar」"
+
+msgid "Minori「over at the lounge!」"
+msgstr "Minori「en el salón!」"

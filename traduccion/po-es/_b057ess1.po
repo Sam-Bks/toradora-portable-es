@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+
+msgid "Inko-chan「......NICE!」"
+msgstr "Inko-chan「......¡GENIAL!」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Inko-chan「YOU, NICE, GOOD」"
+msgstr "Inko-chan「TÚ, GENIAL, BIEN」"
+
+msgid "Ryuuji「No no, you're the nice one, Inko-chan.＿Thanks.」"
+msgstr "Ryuuji「No, no, tú eres el genial,＿Inko-chan. Gracias.」"
+
+msgid "Inko-chan「GIVE, GIVE」"
+msgstr "Inko-chan「TOMA, TOMA」"
+
+msgid "Ryuuji「Huh? You usually give me sunflower＿seeds...... but not today. What IS this? A＿firework?」"
+msgstr "Ryuuji「¿Eh? Normalmente me das semillas de＿girasol...... pero hoy no. ¿Qué ES＿esto? ¿Un fuego artificial?」"
+
+msgid "Ryuuji「Huh? You gave me a sunflower seed＿last time...... but not today. What IS＿this? A firework?」"
+msgstr "Ryuuji「¿Eh? La última vez me diste una semilla＿de girasol...... pero hoy no. ¿Qué ES＿esto? ¿Un fuego artificial?」"
+
+msgid "Ryuuji「......Hm? What IS this? A firework?」"
+msgstr "Ryuuji「......¿Mm? ¿Qué ES esto?＿¿Un fuego artificial?」"
+
+msgid "Ryuuji「Is this one from last summer? Did I＿randomly give you one? And you held＿onto it all this time......?」"
+msgstr "Ryuuji「¿Es uno del verano pasado? ¿Te＿di uno así sin más? ¿Y lo guardaste＿todo este tiempo......?」"
+
+msgid "Inko-chan「GIVE IT, TO YOU!」"
+msgstr "Inko-chan「¡TÓMALO, PARA TI!」"
+
+msgid "Ryuuji「Oh, so I can have it? Thanks.」"
+msgstr "Ryuuji「Ah, ¿puedo quedármelo? Gracias.」"
+
+msgid "Inko-chan「YOU, ARE...... WELL-COMBED!」"
+msgstr "Inko-chan「¡CON, MUCHO...... SUSTO!」"
+
+msgid "Inko-chan「......」"
+msgstr "Inko-chan「......」"
+
+msgid "Ryuuji「Good night, Inko-chan.」"
+msgstr "Ryuuji「Buenas noches, Inko-chan.」"
+
+msgid "Ryuuji「After getting wet, there's no hope of＿being able to use it...... But I'll accept it＿all the same as a token of your」"
+msgstr "Ryuuji「Después de mojarse, ya no hay forma de＿usarlo...... Pero lo aceptaré de todos＿modos como muestra de tu」"
+
+msgid "Ryuuji「kindness.」"
+msgstr "Ryuuji「amabilidad.」"

@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+
+msgid "Inko-chan「HAP」"
+msgstr "Inko-chan「FELI」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Inko-chan「PINOO」"
+msgstr "Inko-chan「ZAÑO」"
+
+msgid "Ryuuji「Hap pinoo......?」"
+msgstr "Ryuuji「¿Feli zaño......?」"
+
+msgid "Ryuuji「......! Are you trying to say \"Happy New＿Year\"? Inko-chan, keep trying! Don't＿give up!」"
+msgstr "Ryuuji「......¡¿Intentas decir \"Feliz＿Año Nuevo\"?! ¡Inko-chan, sigue＿intentando! ¡No te rindas!」"
+
+msgid "Inko-chan「HAP PINOO......」"
+msgstr "Inko-chan「FELI ZAÑO......」"
+
+msgid "Ryuuji「That's it! Year! Say \"year\"!」"
+msgstr "Ryuuji「¡Eso es! ¡Nuevo! ¡Di \"nuevo\"!」"
+
+msgid "Inko-chan「......BEER」"
+msgstr "Inko-chan「......HUEVO」"
+
+msgid "Ryuuji「......」"
+msgstr "Ryuuji「......」"
+
+msgid "Ryuuji「......Eh, close enough......」"
+msgstr "Ryuuji「......Eh, bastante cerca......」"
+
+msgid "Ryuuji「You worked hard, Inko-chan. Happy＿New Year. Let's do our best next year＿too.」"
+msgstr "Ryuuji「Te esforzaste mucho, Inko-chan.＿Feliz Año Nuevo. Demos lo mejor＿el próximo año también.」"

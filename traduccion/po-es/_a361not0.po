@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「（There's no way Inko-chan would have＿strayed into the school...... right?）」"
+msgstr "Ryuuji「（No hay forma de que Inko-chan se haya＿metido en la escuela...... ¿verdad?）」"
+
+msgid "Noto「Yo, Takasu.」"
+msgstr "Noto「Ey, Takasu.」"
+
+msgid "Ryuuji「Oh, it's Noto. Aren't you waiting for＿Haruta?」"
+msgstr "Ryuuji「Ah, es Noto. ¿No estabas＿esperando a Haruta?」"
+
+msgid "Ryuuji「I saw Haruta in front of Sudoh-Bucks,＿bitching that you hadn't shown up.」"
+msgstr "Ryuuji「Vi a Haruta frente a Sudoh-Bucks,＿quejándose de que no habías llegado.」"
+
+msgid "Noto「For reals? Dammit Haruta. He's the＿one who said to meet up at the＿gates......」"
+msgstr "Noto「¿De veras? Maldito Haruta. Él＿fue quien dijo que nos viéramos＿en la entrada......」"
+
+msgid "Ryuuji「Anyway, you should get going to＿Sudoh-Bucks. He forgot his cell phone＿at home, apparently.」"
+msgstr "Ryuuji「En fin, mejor ve hacia Sudoh-Bucks. Al＿parecer olvidó su celular en casa.」"
+
+msgid "Noto「Guess I will...... Ah, care to join us?」"
+msgstr "Noto「Supongo que sí...... Ah, ¿nos acompañas?」"
+
+msgid "Ryuuji「I'm kinda in the middle of something＿right now.」"
+msgstr "Ryuuji「Ahora mismo estoy en medio de algo.」"
+
+msgid "Noto「Middle of somethin'?」"
+msgstr "Noto「¿En medio de algo?」"
+
+msgid "Noto「What's an \"Inko-chan\"?」"
+msgstr "Noto「¿Qué es un \"Inko-chan\"?」"
+
+msgid "Ryuuji「Inko-chan is its name.」"
+msgstr "Ryuuji「Inko-chan es su nombre.」"
+
+msgid "Noto「That's not what I...... Never mind. So,＿does Inko-chan have special markings＿or anything?」"
+msgstr "Noto「No me refería a...... No importa.＿¿Y Inko-chan tiene alguna marca＿especial o algo así?」"
+
+msgid "Ryuuji「Well, it's not very cute, I guess...... Okay,＿frankly it's butt-ugly, but it's still an＿important part of my family.」"
+msgstr "Ryuuji「Bueno, muy lindo no es...... A decir＿verdad es feo de remate, pero sigue＿siendo parte importante de mi familia.」"
+
+msgid "Noto「Alright. If I see a bird that fits that＿description, I'll call you up right away.＿Parakeets can't fly too well, after all.」"
+msgstr "Noto「Bien. Si veo un pájaro con esa pinta,＿te llamo enseguida. Al fin y al cabo,＿los periquitos no vuelan muy bien.」"
+
+msgid "Ryuuji「It's \"Inko-chan.\"」"
+msgstr "Ryuuji「Es \"Inko-chan\".」"
+
+msgid "Noto「Okay, okay. I'll keep my eyes peeled on＿the way to Sudoh-Bucks.」"
+msgstr "Noto「Sí, sí. Iré con los ojos bien abiertos＿camino a Sudoh-Bucks.」"
+
+msgid "Ryuuji「Please do.」"
+msgstr "Ryuuji「Por favor.」"
+
+msgid "Ryuuji「（Guess I'll go look somewhere else......）」"
+msgstr "Ryuuji「（Supongo que buscaré en otro lado......）」"
+
+msgid "Ryuuji「Oh, it's Noto...... What are you doing＿here?」"
+msgstr "Ryuuji「Ah, es Noto...... ¿Qué haces aquí?」"
+
+msgid "Noto「I'm supposed to meet Haruta here, but＿he's sure taking his sweet time.＿Sheesh...... The hell is he doing?」"
+msgstr "Noto「Se supone que vería a Haruta aquí, pero＿vaya que se está tardando. Cielos......＿¿Qué demonios estará haciendo?」"
+
+msgid "Ryuuji「Have you tried calling his cell phone?」"
+msgstr "Ryuuji「¿Ya intentaste llamarlo al celular?」"
+
+msgid "Noto「Several times, but he's not answering,＿man. Maybe he's still asleep.」"
+msgstr "Noto「Varias veces, pero no contesta,＿hombre. Tal vez siga dormido.」"
+
+msgid "Noto「More importantly, why'd YOU come＿here, Takasu?」"
+msgstr "Noto「Más importante, ¿por qué viniste＿TÚ aquí, Takasu?」"
+
+msgid "Noto「What's an \"Inko-chan\"?」"
+msgstr "Noto「¿Qué es un \"Inko-chan\"?」"
+
+msgid "Ryuuji「Inko-chan is its name.」"
+msgstr "Ryuuji「Inko-chan es su nombre.」"
+
+msgid "Noto「That's not what I...... Never mind. So,＿does Inko-chan have special markings＿or anything?」"
+msgstr "Noto「No me refería a...... No importa.＿¿Y Inko-chan tiene alguna marca＿especial o algo así?」"
+
+msgid "Ryuuji「Well, it's not very cute, I guess...... Okay,＿frankly it's butt-ugly, but it's still an＿important part of my family.」"
+msgstr "Ryuuji「Bueno, muy lindo no es...... A decir＿verdad es feo de remate, pero sigue＿siendo parte importante de mi familia.」"
+
+msgid "Noto「Alright. If I see a bird that fits that＿description, I'll call you up right away.＿Parakeets can't fly too well, after all.」"
+msgstr "Noto「Bien. Si veo un pájaro con esa pinta,＿te llamo enseguida. Al fin y al cabo,＿los periquitos no vuelan muy bien.」"
+
+msgid "Ryuuji「It's \"Inko-chan.\"」"
+msgstr "Ryuuji「Es \"Inko-chan\".」"
+
+msgid "Noto「Okay, okay.」"
+msgstr "Noto「Sí, sí.」"
+
+msgid "Ryuuji「Thanks again. I'm gonna go search for＿it somewhere else.」"
+msgstr "Ryuuji「Gracias otra vez. Iré a＿buscarlo a otro lado.」"
+
+msgid "Noto「I'm rooting for ya!」"
+msgstr "Noto「¡Mucha suerte!」"
+
+msgid "Noto「I am, but I've been waiting and waiting＿with no sign of him. He's not answering＿his phone either...... Wait, how'd you」"
+msgstr "Noto「Sí, pero llevo esperando un buen rato＿y ni señales de él. Tampoco contesta＿el teléfono...... Espera, ¿cómo lo」"
+
+msgid "Noto「know?」"
+msgstr "Noto「sabías?」"
+
+msgid "Ryuuji「Truth is, my pet Inko-chan got loose＿and I'm looking for it. If you happen to＿spot it somewhere, could you let me」"
+msgstr "Ryuuji「La verdad, mi mascota Inko-chan＿se escapó y lo estoy buscando.＿Si lo ves por ahí, ¿podrías」"
+
+msgid "Ryuuji「know?」"
+msgstr "Ryuuji「avisarme?」"
+
+msgid "Ryuuji「Truth is, my pet Inko-chan got loose＿and I'm looking for it. If you happen to＿spot it somewhere, could you let me」"
+msgstr "Ryuuji「La verdad, mi mascota Inko-chan＿se escapó y lo estoy buscando.＿Si lo ves por ahí, ¿podrías」"
+
+msgid "Ryuuji「know?」"
+msgstr "Ryuuji「avisarme?」"

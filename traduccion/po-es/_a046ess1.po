@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+
+msgid "Inko-chan「FLO, FLOW, FLEW」"
+msgstr "Inko-chan「VO, VOL, VOLÓ」"
+
+msgid "Ryuuji「Oh yeah, time flies when we're having＿fun.」"
+msgstr "Ryuuji「Ah, sí, el tiempo vuela＿cuando nos divertimos.」"
+
+msgid "Inko-chan「BLOO!」"
+msgstr "Inko-chan「¡AZU!」"
+
+msgid "Ryuuji「（This is......! It's a sunflower seed--＿Inko-chan's favorite food!）」"
+msgstr "Ryuuji「（¡Esto es......! ¡Es una semilla＿de girasol, la comida favorita＿de Inko-chan!）」"
+
+msgid "Inko-chan「FLOWER, BLOO!」"
+msgstr "Inko-chan「¡FLOR, AZU!」"
+
+msgid "Ryuuji「......\"Flower bloo\"...... A blue flower?」"
+msgstr "Ryuuji「......\"Flor azu\"...... ¿Una flor azul?」"
+
+msgid "Inko-chan「BLOON...... BLOOM?」"
+msgstr "Inko-chan「AZU...... ¿FLORECE?」"
+
+msgid "Ryuuji「Ohhh, of course, Inko-chan. A＿sunflower will bloom from this seed.＿Wanna see?」"
+msgstr "Ryuuji「Ahhh, claro, Inko-chan. De esta semilla＿florecerá un girasol. ¿Quieres ver?」"
+
+msgid "Inko-chan「BLOOM, BLUE, MOON～」"
+msgstr "Inko-chan「FLORECE, LUNA, AZUL～」"
+
+msgid "Ryuuji「You got it, Inko-chan. This summer＿we'll grow a sunflower on the veranda.」"
+msgstr "Ryuuji「¡Claro, Inko-chan! Este verano＿cultivaremos un girasol en la terraza.」"
+
+msgid "Inko-chan「BLUE...... BLUE MOON～! DRINK～!＿DRUNK～!」"
+msgstr "Inko-chan「AZUL...... ¡BLUE MOON～!＿¡TRAGO～! ¡BORRACHO～!」"
+
+msgid "Inko-chan「......」"
+msgstr "Inko-chan「......」"
+
+msgid "Ryuuji「Why did you bring up beer......? Is that＿your Yasuko impression......? Good＿night, Inko-chan.」"
+msgstr "Ryuuji「¿Por qué sacaste el tema de la＿cerveza......? ¿Es esa tu imitación de＿Yasuko......? Buenas noches, Inko-chan.」"
+
+msgid "Ryuuji「（Seeing Inko-chan's sleeping face＿instantly made me sleepy...... Bedtime.）」"
+msgstr "Ryuuji「（Ver la carita dormida de Inko-chan＿me dio sueño al instante......＿A dormir.）」"

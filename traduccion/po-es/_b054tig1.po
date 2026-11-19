@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+
+msgid "Taiga「Say, Ryuuji...」"
+msgstr "Taiga「Oye, Ryuuji...」"
+
+msgid "Ryuuji「Hm?」"
+msgstr "Ryuuji「¿Mm?」"
+
+msgid "Taiga「Humans were once sea creatures,＿right? And then they evolved and＿crawled up onto land, yeah?」"
+msgstr "Taiga「Los humanos fueron criaturas marinas＿antes, ¿verdad? Y luego evolucionaron＿y salieron a tierra firme, ¿no?」"
+
+msgid "Ryuuji「That IS what they taught us in school.」"
+msgstr "Ryuuji「Eso ES lo que nos enseñaron＿en la escuela.」"
+
+msgid "Taiga「If we were originally sea creatures, we＿should be able to swim.」"
+msgstr "Taiga「Si originalmente éramos criaturas＿marinas, deberíamos saber nadar.」"
+
+msgid "Ryuuji「Taiga?」"
+msgstr "Ryuuji「¿Taiga?」"
+
+msgid "Taiga「I'm gonna swim.」"
+msgstr "Taiga「Voy a nadar.」"
+
+msgid "Ryuuji「What are you thinking, Taiga!? You'll＿sink like a hammer!」"
+msgstr "Ryuuji「¡¿Qué estás pensando, Taiga?! ¡Te＿hundirás como un martillo!」"
+
+msgid "Taiga「Hmph. Even so, there's gotta be some＿kind of hammer swimming technique!」"
+msgstr "Taiga「Jum. ¡Aun así, debe haber alguna＿técnica de nado para martillos!」"
+
+msgid "Taiga「I'll learn how to swim, and not even a＿tsunami will be able to stop me!」"
+msgstr "Taiga「¡Aprenderé a nadar, y ni un＿tsunami podrá detenerme!」"
+
+msgid "Ryuuji「A tsunami? Where the hell are you＿gonna swim?」"
+msgstr "Ryuuji「¿Un tsunami? ¿Dónde diablos vas a nadar?」"
+
+msgid "Taiga「Anywhere! I'm gonna prove that I can＿swim on my own!!」"
+msgstr "Taiga「¡Donde sea! ¡¡Voy a demostrar que＿puedo nadar por mi cuenta!!」"
+
+msgid "Ryuuji「Taiga! Are you okay!?」"
+msgstr "Ryuuji「¡Taiga! ¡¿Estás bien?!」"
+
+msgid "Taiga「I-- *blublublublub* I'M FI--＿*blublublublub*......」"
+msgstr "Taiga「Es-- *glubglubglub* ESTOY BI--＿*glubglubglub*......」"
+
+msgid "Ryuuji「What part of that is \"fine\"!?」"
+msgstr "Ryuuji「¡¿Qué parte de eso es estar \"bien\"?!」"
+
+msgid "Ryuuji「（Good lord, just how reckless is she?）」"
+msgstr "Ryuuji「（Por Dios, ¿qué tan imprudente es?）」"
+
+msgid "Ryuuji「Come on, stretch your arms more.」"
+msgstr "Ryuuji「Vamos, estira más los brazos.」"
+
+msgid "Taiga「SHUT! UP! I told you, I don't need your＿help!」"
+msgstr "Taiga「¡CÁLLATE! ¡Te dije que＿no necesito tu ayuda!」"
+
+msgid "Taiga「This will all be meaningless if I go and＿accept help from you!!」"
+msgstr "Taiga「¡¡Todo esto no tendrá sentido＿si acepto ayuda tuya!!」"
+
+msgid "Taiga「Yeah, but...... the process is important＿too!」"
+msgstr "Taiga「Sí, pero...... ¡el proceso＿también es importante!」"
+
+msgid "Ryuuji「（What's the matter with Taiga? Why is＿she being so fussy about this?）」"
+msgstr "Ryuuji「（¿Qué le pasa a Taiga? ¿Por qué se＿pone tan quisquillosa con esto?）」"
+
+msgid "Ryuuji「Okay, consider it like this. I'm the only＿one here right now, so you're forced to＿let me help you. Think of it that way.」"
+msgstr "Ryuuji「Bien, míralo así. Soy el único aquí＿ahora mismo, así que no te queda otra＿que dejar que te ayude. Piénsalo así.」"
+
+msgid "Taiga「But... But I... *glub glub glub glub glub*」"
+msgstr "Taiga「Pero... Pero yo... *glub＿glub glub glub glub*」"
+
+msgid "Ryuuji「Hey, quit running your mouth and＿move your legs! Don't stop kicking!」"
+msgstr "Ryuuji「¡Oye, deja de hablar tanto y mueve＿las piernas! ¡No dejes de patear!」"
+
+msgid "Taiga「*Gasp* G-Grrarrrgh～～～!!」"
+msgstr "Taiga「*Jadeo* ¡¡G-Grrarrrgh～～～!!」"
+
+msgid "Ryuuji「Good! ......Oh, things are looking pretty＿good!」"
+msgstr "Ryuuji「¡Bien! ......Oh, ¡va saliendo＿bastante bien!」"
+
+msgid "Taiga「Really!?」"
+msgstr "Taiga「¡¿En serio?!」"
+
+msgid "Ryuuji「Yeah! Keep it up! I'll help you for the＿next 10 meters.」"
+msgstr "Ryuuji「¡Sí! ¡Sigue así! Te ayudaré＿los próximos 10 metros.」"
+
+msgid "Taiga「Okay!」"
+msgstr "Taiga「¡Está bien!」"
+
+msgid "Taiga「Hehehehehe!」"
+msgstr "Taiga「¡Jejejejeje!」"
+
+msgid "Ryuuji「What are you laughing about?」"
+msgstr "Ryuuji「¿De qué te ríes?」"
+
+msgid "Taiga「The water seems just a little less＿scary.」"
+msgstr "Taiga「El agua da un poquito menos de miedo.」"
+
+msgid "Ryuuji「Oh, you've made great progress!」"
+msgstr "Ryuuji「¡Oh, has progresado muchísimo!」"
+
+msgid "Taiga「Hehehe...... Oh!」"
+msgstr "Taiga「Jejeje...... ¡Ah!」"
+
+msgid "Ryuuji「What's the matter?」"
+msgstr "Ryuuji「¿Qué pasa?」"
+
+msgid "Taiga「I promised Minorin we'd go have＿dessert together. I gotta get going!」"
+msgstr "Taiga「Le prometí a Minorin que iríamos a comer＿postre juntas. ¡Me tengo que ir!」"
+
+msgid "Taiga「......Are you coming?」"
+msgstr "Taiga「......¿Vas a venir?」"
+
+msgid "Ryuuji「Nah, I'm fine. I'll rest here.」"
+msgstr "Ryuuji「Nah, estoy bien. Descansaré aquí.」"
+
+msgid "Taiga「Okay. I understand.」"
+msgstr "Taiga「Bien. Entiendo.」"
+
+msgid "Taiga「............It's not like I don't...... appreciate＿you helping me practice.」"
+msgstr "Taiga「............No es que no...... agradezca＿que me ayudaras a practicar.」"
+
+msgid "Ryuuji「It's really no big deal.」"
+msgstr "Ryuuji「De verdad no es nada.」"
+
+msgid "Taiga「I knew you would say that......」"
+msgstr "Taiga「Sabía que dirías eso......」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Taiga「I want to keep the practice a secret, so＿don't tell anyone. Not even Minorin.＿Got it?」"
+msgstr "Taiga「Quiero mantener la práctica en secreto,＿así que no se lo digas a nadie. Ni＿siquiera a Minorin. ¿Entendido?」"
+
+msgid "Ryuuji「Oh, okay.」"
+msgstr "Ryuuji「Ah, está bien.」"
+
+msgid "Taiga「Okay, see you later.」"
+msgstr "Taiga「Bueno, nos vemos luego.」"
+
+msgid "Ryuuji「（It wasn't anything she really needs to＿hide. What's she so worried about?）」"
+msgstr "Ryuuji「（No era algo que tuviera que ocultar＿de verdad. ¿Qué le preocupa tanto?）」"
+
+msgid "Ryuuji「（Well, thinking about it isn't going to＿solve anything...... I'll take a breather.）」"
+msgstr "Ryuuji「（Bueno, darle vueltas no va a resolver＿nada...... Me tomaré un respiro.）」"
+
+msgid "Ryuuji「You can't learn to swim without help＿from someone. Forget about the＿process and think about the end」"
+msgstr "Ryuuji「No puedes aprender a nadar sin ayuda＿de alguien. Olvídate del proceso＿y piensa en el resultado」"
+
+msgid "Ryuuji「result. You do want to learn to swim,＿right?」"
+msgstr "Ryuuji「final. ¿Sí quieres aprender＿a nadar, verdad?」"

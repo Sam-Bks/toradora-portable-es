@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「........................」"
+msgstr "Ryuuji「........................」"
+
+msgid "Minori「Oh, sorry! I've been going on a tangent,＿huh? Don't let me stop you from＿joining in!」"
+msgstr "Minori「¡Ah, perdón! Me fui por las ramas,＿¿verdad? ¡No dejes que te impida＿participar en la charla!」"
+
+msgid "Ryuuji「Nah, I'm interested in what you have to＿say.」"
+msgstr "Ryuuji「No, me interesa lo que tienes que decir.」"
+
+msgid "Minori「What～? Really? Aww shucks!」"
+msgstr "Minori「¿Qué～? ¿En serio? ¡Ay,＿me haces sonrojar!」"
+
+msgid "Ryuuji「（Yeah, talking with Kushieda is so much＿fun. But there's a part of me that's also＿nervous......）」"
+msgstr "Ryuuji「（Sí, hablar con Kushieda es muy＿divertido. Pero una parte de mí＿también está nerviosa......）」"
+
+msgid "Ryuuji「Say, Kushieda...... You see............」"
+msgstr "Ryuuji「Oye, Kushieda...... Verás............」"
+
+msgid "Minori「Hm? 'Sup?」"
+msgstr "Minori「¿Hm? ¿Qué pasa?」"
+
+msgid "Ryuuji「......I, uhh............ No, it's nothing.」"
+msgstr "Ryuuji「......Yo, eh............ No, no es nada.」"
+
+msgid "Minori「What? What is it? Now you've got me＿all curious.」"
+msgstr "Minori「¿Qué? ¿Qué pasa? Ahora ya me＿dejaste con la curiosidad.」"
+
+msgid "Ryuuji「No, it's really nothing.」"
+msgstr "Ryuuji「No, en serio no es nada.」"
+
+msgid "Minori「Whaaat? Trying to be mysterious?＿Hmmm. Okay, how about this?」"
+msgstr "Minori「¿Quéee? ¿Te haces el misterioso?＿Mmmm. Bien, ¿qué tal esto?」"
+
+msgid "Minori「If you tell me what you were gonna say,＿I'll let you have this brand new lip＿balm!」"
+msgstr "Minori「¡Si me dices lo que ibas a decir,＿te regalo este bálsamo labial＿totalmente nuevo!」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Minori「How about it? Feel like talkin'? C'mon,＿go ahead and spit it out. You don't＿wanna make your mama cry, do ya?」"
+msgstr "Minori「¿Qué me dices? ¿Te animas a hablar?＿Anda, suéltalo de una vez. No querrás＿hacer llorar a tu mamá, ¿verdad?」"
+
+msgid "Ryuuji「......Kushieda, are you trying to play the＿bad cop?」"
+msgstr "Ryuuji「......Kushieda, ¿estás intentando＿hacer de policía malo?」"
+
+msgid "Minori「You can call me Sergeant...... So? Feel＿like spillin' the beans?」"
+msgstr "Minori「Puedes llamarme Sargento...... Y bien,＿¿te animas a soltarlo todo?」"
+
+msgid "Ryuuji「No beans for you. It's really not a big＿deal.」"
+msgstr "Ryuuji「No voy a soltar nada. De＿verdad no es gran cosa.」"
+
+msgid "Ryuuji「Huh? But I was only supposed to get＿this if I talked.」"
+msgstr "Ryuuji「¿Eh? Pero se suponía que solo＿me darías esto si hablaba.」"
+
+msgid "Minori「It's fine, it's fine! See, your lips are all＿chapped. I've been wanting to help you＿fix that for a while now, bud.」"
+msgstr "Minori「¡Está bien, está bien! Tienes los labios＿muy resecos. Hace tiempo que quería＿ayudarte a cuidarlos, amigo.」"
+
+msgid "Minori「I bought that one as a spare, so it's＿never been used. Give 'er a whirl!」"
+msgstr "Minori「Ese lo compré de repuesto, así＿que está sin usar. ¡Pruébalo!」"
+
+msgid "Ryuuji「......You sure? This is one of those＿fancy \"cooling and smoothing\" ones,＿right?」"
+msgstr "Ryuuji「......¿Segura? Es de esos caros de＿\"efecto frío y suavizante\", ¿verdad?」"
+
+msgid "Minori「Oh yeah! Let 'er rip!」"
+msgstr "Minori「¡Sí, claro! ¡Dale uso!」"
+
+msgid "Ryuuji「Okay then. I appreciate it......」"
+msgstr "Ryuuji「Está bien entonces. Te＿lo agradezco......」"
+
+msgid "Ryuuji「（An inadvertent gift from Kushieda......＿I'll treasure it for the rest of my life.）」"
+msgstr "Ryuuji「（Un regalo inesperado de Kushieda......＿Lo atesoraré por el resto de mi vida.）」"
+
+msgid "Minori「...So... Feel like talking NOW?」"
+msgstr "Minori「...Entonces... ¿Tienes ganas＿de hablar AHORA?」"
+
+msgid "Ryuuji「Not now, not ever.」"
+msgstr "Ryuuji「Ni ahora ni nunca.」"
+
+msgid "Minori「Awwww.」"
+msgstr "Minori「Aaaay.」"
+
+msgid "Ryuuji「（......I can't bring myself to say...... \"I＿believe in love, even if I can't see it.\"）」"
+msgstr "Ryuuji「（......No me atrevo a decir......＿\"Yo creo en el amor, aunque＿no pueda verlo\".）」"
+
+msgid "Minori「Well then, let's be on our way to the＿main event!」"
+msgstr "Minori「¡Bueno, entonces sigamos camino＿hacia el plato fuerte!」"
+
+msgid "Ryuuji「......Okay.」"
+msgstr "Ryuuji「......Está bien.」"
+
+msgid "Ryuuji「（A different sort of nervous from how I＿feel around other girls...... Probably＿because I want to impress her...... I）」"
+msgstr "Ryuuji「（Un nerviosismo distinto al que siento＿con otras chicas...... Seguramente es＿porque quiero impresionarla...... Yo）」"
+
+msgid "Ryuuji「（must really......）」"
+msgstr "Ryuuji「（de verdad debo......）」"
+
+msgid "Minori「What!? But now I wanna know even＿more. Well, I never meant to try to＿force it out of you. Okay, you can have」"
+msgstr "Minori「¡¿Qué?! Ahora quiero saber aún más.＿Nunca quise sacártelo a la fuerza.＿Está bien, puedes quedarte con」"
+
+msgid "Minori「this lip balm.」"
+msgstr "Minori「este bálsamo labial.」"

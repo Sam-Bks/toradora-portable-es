@@ -1,0 +1,686 @@
+msgid ""
+msgstr ""
+
+msgid "Noto「Okay, here we are!」"
+msgstr "Noto「¡Bien, aquí estamos!」"
+
+msgid "Kitamura「Ohh! I heard the rumors, but this place＿really is as large as they say.」"
+msgstr "Kitamura「¡Ohh! Escuché los rumores, pero este＿lugar sí que es tan grande como dicen.」"
+
+msgid "Minori「Even still, our day is stuffed to the＿gills! Much obliged.」"
+msgstr "Minori「Aun así, ¡tenemos el día lleno hasta＿reventar! Muchas gracias.」"
+
+msgid "Ryuuji「Kitamura, I have a pamphlet right here.＿Wanna see?」"
+msgstr "Ryuuji「Kitamura, aquí tengo un folleto.＿¿Quieres verlo?」"
+
+msgid "Kitamura「Sure. Hm? But where did you get this?」"
+msgstr "Kitamura「Claro. ¿Mm? ¿Pero de dónde lo sacaste?」"
+
+msgid "Ryuuji「I found one lying around near the＿entrance.」"
+msgstr "Ryuuji「Encontré uno por ahí,＿cerca de la entrada.」"
+
+msgid "Kitamura「Alright then. Let me see it, please.」"
+msgstr "Kitamura「Está bien. Déjame verlo, por favor.」"
+
+msgid "Kihara「Nanako～ Where should we go first?」"
+msgstr "Kihara「Nanako～ ¿A dónde vamos primero?」"
+
+msgid "Kashii「Hmm, what should we do? It's hard to＿decide. If time permits, I'd like to see a＿bit of everything.」"
+msgstr "Kashii「Mmm, ¿qué deberíamos hacer? Cuesta＿decidirse. Si da el tiempo, me gustaría＿ver un poco de todo.」"
+
+msgid "Ami「Let's go, let's go! C'mon!」"
+msgstr "Ami「¡Vamos, vamos! ¡Apúrense!」"
+
+msgid "Both「Okie-doke①」"
+msgstr "Ambas「Oki-doki①」"
+
+msgid "Ami「Sounds good, but what's on the agenda＿for today?」"
+msgstr "Ami「Suena bien, pero ¿qué hay＿en la agenda para hoy?」"
+
+msgid "Noto「Err...... Good question......」"
+msgstr "Noto「Ehm...... Buena pregunta......」"
+
+msgid "Kitamura「Once you've worn yourself out, relax to＿your liking in the lounge.」"
+msgstr "Kitamura「Cuando ya estén agotados, relájense＿a su gusto en el salón.」"
+
+msgid "Kitamura「All in favor, say aye.」"
+msgstr "Kitamura「Los que estén a favor, digan sí.」"
+
+msgid "Ryuuji「Kitamura, you're a natural at this.」"
+msgstr "Ryuuji「Kitamura, esto se te da de maravilla.」"
+
+msgid "Kitamura「I suppose so.」"
+msgstr "Kitamura「Supongo que sí.」"
+
+msgid "Yuri「Kitamura-kun, I'd like to pass on＿exercising today, please...... I came here＿to REDUCE my pain, after all......」"
+msgstr "Yuri「Kitamura-kun, hoy prefiero pasar del＿ejercicio, por favor...... Después de＿todo, vine a ALIVIAR mi dolor......」"
+
+msgid "Kitamura「Understood. Then let's meet up for＿lunch. How about we all meet at the＿seventh floor restaurant at 12?」"
+msgstr "Kitamura「Entendido. Entonces reunámonos para＿almorzar. ¿Qué tal si nos vemos todos en＿el restaurante del piso 7 a las 12?」"
+
+msgid "Yuri「Sure.」"
+msgstr "Yuri「Claro.」"
+
+msgid "Ryuuji「（It's as if Kitamura's the teacher here.）」"
+msgstr "Ryuuji「（Es como si Kitamura fuera＿el profesor aquí.）」"
+
+msgid "Haruta「C'mon, let's go already～ C'mon!」"
+msgstr "Haruta「¡Vamos, apúrense ya～ Vamos!」"
+
+msgid "Kitamura「Alright, alright. Let's go.」"
+msgstr "Kitamura「Está bien, está bien. Vamos.」"
+
+msgid "Haruta「YAHOO～!! Welcome to Lucid!!」"
+msgstr "Haruta「¡¡YUJÚ～!! ¡¡Bienvenidos a Lucid!!」"
+
+msgid "Ryuuji「（I can't even begin to correct that,＿Haruta......）」"
+msgstr "Ryuuji「（Ni siquiera sé por dónde empezar＿a corregir eso, Haruta......）」"
+
+msgid "Ryuuji「Hey Kitamura. Have you used gym＿equipment before? As it happens, it's＿my first time.」"
+msgstr "Ryuuji「Oye, Kitamura. ¿Ya habías usado＿máquinas de gimnasio? Resulta＿que es mi primera vez.」"
+
+msgid "Kitamura「Oh really? I've used it a bit during＿practice. But there's nothing to worry＿about. It's simpler than it looks.」"
+msgstr "Kitamura「¿En serio? Las usé un poco en las＿prácticas. Pero no te preocupes, es＿más simple de lo que parece.」"
+
+msgid "Ryuuji「Oh, okay...... Whoa!」"
+msgstr "Ryuuji「Ah, está bien...... ¡Vaya!」"
+
+msgid "Kitamura「What's the matter?」"
+msgstr "Kitamura「¿Qué sucede?」"
+
+msgid "Ryuuji「Kitamura, you're so ripped!」"
+msgstr "Ryuuji「Kitamura, ¡estás súper marcado!」"
+
+msgid "Kitamura「Am I?」"
+msgstr "Kitamura「¿Tú crees?」"
+
+msgid "Ryuuji「Yeah. Even more so than you were＿during summer break.」"
+msgstr "Ryuuji「Sí. Incluso más que durante＿las vacaciones de verano.」"
+
+msgid "Ryuuji「No thanks. I'll pass. Wouldn't want to＿traumatize myself.」"
+msgstr "Ryuuji「No, gracias. Paso. No quisiera＿quedar traumatizado.」"
+
+msgid "Kitamura「You'll be okay. Come on, give 'em a＿touch.」"
+msgstr "Kitamura「Estarás bien. Vamos, tócalos.」"
+
+msgid "Ryuuji「Cut it out. Ain't no way I wanna fondle＿some dude's muscles.」"
+msgstr "Ryuuji「Ya basta. Ni loco voy a andar manoseando＿los músculos de otro tipo.」"
+
+msgid "Kitamura「Don't call me \"some dude.\" Now I'm＿gonna MAKE you touch them.」"
+msgstr "Kitamura「No me llames \"otro tipo\". Ahora＿voy a OBLIGARTE a tocarlos.」"
+
+msgid "Ryuuji「Make me!? You want me to do it that＿badly!?」"
+msgstr "Ryuuji「¡¿Obligarme?! ¡¿Tantas ganas＿tienes de que lo haga?!」"
+
+msgid "Kitamura「Yes, I do. For healthy high school guys,＿denial of the flesh could lead to＿insecurity later on.」"
+msgstr "Kitamura「Sí, claro. Para chicos sanos de＿preparatoria, negar la carne podría＿generar inseguridad más adelante.」"
+
+msgid "Ryuuji「What!? You're just exaggerating,＿Kitamura!!」"
+msgstr "Ryuuji「¡¿Qué?! ¡¡Solo estás exagerando,＿Kitamura!!」"
+
+msgid "Kitamura「Takasu, prepare yourself!!」"
+msgstr "Kitamura「¡¡Takasu, prepárate!!」"
+
+msgid "Ryuuji「GAAAAAHHH!!」"
+msgstr "Ryuuji「¡¡GAAAAAHHH!!」"
+
+msgid "Kitamura「Ahahahaha! This is hardly worth the＿fetal position. I was joking, Takasu.」"
+msgstr "Kitamura「¡Ajajajaja! Tampoco es para＿ponerse en posición fetal.＿Solo bromeaba, Takasu.」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Ryuuji「Don't scare me like that! With you, the＿boundary between \"joking\" and＿\"serious\" is totally ambiguous!」"
+msgstr "Ryuuji「¡No me asustes así! ¡Contigo,＿la línea entre \"broma\" y \"en serio\"＿es totalmente difusa!」"
+
+msgid "Kitamura「Sorry. The joy went to my head and I＿got carried away.」"
+msgstr "Kitamura「Perdón. La alegría se me subió＿a la cabeza y me dejé llevar.」"
+
+msgid "Ryuuji「What joy?」"
+msgstr "Ryuuji「¿Qué alegría?」"
+
+msgid "Kitamura「The joy of knowing you can remember＿summer break.」"
+msgstr "Kitamura「La alegría de saber que recuerdas＿las vacaciones de verano.」"
+
+msgid "Ryuuji「Oh...... Good point.」"
+msgstr "Ryuuji「Ah...... Tienes razón.」"
+
+msgid "Kitamura「Your memories really are coming back＿bit by bit, huh? I'm happy for you,＿Takasu.」"
+msgstr "Kitamura「Tus recuerdos de verdad están＿volviendo poco a poco, ¿eh? Me＿alegro por ti, Takasu.」"
+
+msgid "Ryuuji「Yeah...... Sorry for making you worry.」"
+msgstr "Ryuuji「Sí...... Perdón por preocuparte.」"
+
+msgid "Kitamura「Don't sweat it.」"
+msgstr "Kitamura「No te preocupes.」"
+
+msgid "???「Surprise back attack～!」"
+msgstr "???「¡Ataque sorpresa por la espalda～!」"
+
+msgid "Ryuuji「Blegh!」"
+msgstr "Ryuuji「¡Agh!」"
+
+msgid "Kitamura「Gah!」"
+msgstr "Kitamura「¡Gah!」"
+
+msgid "Ryuuji「What the hell!?」"
+msgstr "Ryuuji「¡¿Qué demonios?!」"
+
+msgid "Haruta「C'mooon～ Two dudes staring at each＿other～? Pretty gross, bro～ Oh, I left a＿handprint～ Pffft!」"
+msgstr "Haruta「Vaaamos～ ¿Dos chicos mirándose＿así～? Qué asco, amigo～ ¡Oh, dejé＿marcada mi mano～! ¡Pffft!」"
+
+msgid "Kitamura「Oh, I'll hurry and get changed, then......」"
+msgstr "Kitamura「Oh, me daré prisa en cambiarme,＿entonces......」"
+
+msgid "Noto「*Sigh* What rotten luck, to see＿Kitamura half naked so soon into the＿new year.」"
+msgstr "Noto「*Suspiro* Qué mala suerte, ver＿a Kitamura medio desnudo apenas＿empieza el año nuevo.」"
+
+msgid "Haruta「I know, right～ If I gotta walk in on＿someone, I'd prefer a girl, ya know.」"
+msgstr "Haruta「¿Verdad～? Si voy a entrar de golpe,＿prefiero sorprender a una chica, ¿sabes?」"
+
+msgid "Ryuuji「Hey now, that would make you a＿peeping tom.」"
+msgstr "Ryuuji「Oye, eso te convertiría en un mirón.」"
+
+msgid "Haruta「I'm not sayin' I'm gonna do it for reals～＿But I'm a little curious, ya know?」"
+msgstr "Haruta「No digo que vaya a hacerlo de＿verdad～ Pero me da un poco de＿curiosidad, ¿sabes?」"
+
+msgid "Haruta「Oh man～ Talk about a forbidden＿flower garden～」"
+msgstr "Haruta「Caray～ Hablando de un jardín＿de flores prohibido～」"
+
+msgid "Kihara「Aww man, Nanako's boobs got bigger＿again!!」"
+msgstr "Kihara「¡¡Ay no, a Nanako le crecieron＿los pechos otra vez!!」"
+
+msgid "Kashii「S-Stop! Don't go yelling about it!」"
+msgstr "Kashii「¡P-Para! ¡No vayas gritándolo por ahí!」"
+
+msgid "Kihara「But it bothers me! Right, Ami-chan?」"
+msgstr "Kihara「¡Pero me molesta! ¿Verdad, Ami-chan?」"
+
+msgid "Ami「What～? But Maya-chan, yours are＿bigger too.」"
+msgstr "Ami「¿Qué～? Pero Maya-chan, los＿tuyos también crecieron.」"
+
+msgid "Kihara「What? You think so～?」"
+msgstr "Kihara「¿Qué? ¿Tú crees～?」"
+
+msgid "Kashii「But I think being fit is more important＿than having big breasts.」"
+msgstr "Kashii「Pero creo que estar en forma importa＿más que tener pechos grandes.」"
+
+msgid "Ami「Oh, I totally agree～」"
+msgstr "Ami「Ay, estoy totalmente de acuerdo～」"
+
+msgid "Kashii「Ami-chan has the best of both worlds!」"
+msgstr "Kashii「¡Ami-chan tiene lo mejor＿de ambos mundos!」"
+
+msgid "Kihara「Agreed～ Your back is SUPER sexy.＿Take this! Poke attack!」"
+msgstr "Kihara「Totalmente～ Tu espalda es SÚPER sexy.＿¡Toma esto! ¡Ataque de piquete!」"
+
+msgid "Ami「Eeek! No! Aaah! Oh, Maya-chan～①」"
+msgstr "Ami「¡Iiiik! ¡No! ¡Aaah! Ay, Maya-chan～①」"
+
+msgid "Haruta「That's the kinda stuff they're talking＿about～ For SURE!! All hail the flower＿garden!!」"
+msgstr "Haruta「¡De ese tipo de cosas están hablando～!＿¡¡SEGURO!! ¡¡Larga vida al jardín＿de flores!!」"
+
+msgid "Ryuuji「There is definitely something wrong＿with you. There's no way girls talk to＿each other like that in real life.」"
+msgstr "Ryuuji「Definitivamente tienes un problema. No＿hay forma de que las chicas hablen así＿entre ellas en la vida real.」"
+
+msgid "Noto「Exactly. At least include Kushieda and＿the Tiger.」"
+msgstr "Noto「Exacto. Al menos incluye＿a Kushieda y a Tigre.」"
+
+msgid "Ryuuji「Hey, what do you mean \"at least\"?」"
+msgstr "Ryuuji「Oye, ¿a qué te refieres con \"al menos\"?」"
+
+msgid "Haruta「Okay～ In that case～」"
+msgstr "Haruta「Bueno～ En ese caso～」"
+
+msgid "Minori「Say, Taiga...... what do you think of this＿swimsuit? Too bold, maybe?」"
+msgstr "Minori「Dime, Taiga...... ¿qué te parece＿este traje de baño? ¿Demasiado＿atrevido, quizás?」"
+
+msgid "Taiga「Not at all, Minorin. It flatters your nice,＿toned body. It's really lovely!」"
+msgstr "Taiga「Para nada, Minorin. Resalta tu lindo＿y tonificado cuerpo. ¡Es precioso!」"
+
+msgid "Minori「Oh jeez, Taiga, you silly goose! Right＿back at you～ Flaunt that porcelain＿skin, sexy～!」"
+msgstr "Minori「¡Ay, Taiga, qué tontita eres!＿¡Lo mismo digo～! ¡Presume esa＿piel de porcelana, sexy～!」"
+
+msgid "Taiga「Gosh, Minorin, don't ogle meee～」"
+msgstr "Taiga「Cielos, Minorin, ¡no me comas＿con la miradaaa～!」"
+
+msgid "Minori「Ahaa①」"
+msgstr "Minori「Ajaa①」"
+
+msgid "Taiga「Ufuu①」"
+msgstr "Taiga「Ufuu①」"
+
+msgid "Ryuuji「Hey! Haruta! Is your brain working!?＿That would NEVER happen!!」"
+msgstr "Ryuuji「¡Oye, Haruta! ¡¿Te funciona el cerebro?!＿¡¡Eso JAMÁS pasaría!!」"
+
+msgid "Noto「Never ever!! You got their＿personalities totally wrong!!」"
+msgstr "Noto「¡¡Jamás de los jamases!! ¡¡Te＿equivocaste por completo de＿personalidad!!」"
+
+msgid "Haruta「What～? But it's more fun this way.」"
+msgstr "Haruta「¿Qué～? Pero así es más divertido.」"
+
+msgid "Ryuuji「More terrifying, actually.」"
+msgstr "Ryuuji「Más aterrador, en realidad.」"
+
+msgid "Kitamura「Heeey, I thought we agreed no＿talking...... Hm? Takasu, Noto, what's＿the matter? You both look upset.」"
+msgstr "Kitamura「Oyeee, creí que quedamos en no＿hablar...... ¿Mm? Takasu, Noto, ¿qué＿sucede? Los dos se ven alterados.」"
+
+msgid "Ryuuji「It's nothing.」"
+msgstr "Ryuuji「No es nada.」"
+
+msgid "Kitamura「That so? Let's get going, then. The＿ladies are surely waiting for us.」"
+msgstr "Kitamura「¿En serio? Entonces vamos. Seguro las＿chicas ya nos están esperando.」"
+
+msgid "Everyone「Okaaay!」"
+msgstr "Todos「¡Está bieeen!」"
+
+msgid "Ryuuji「Wow, this pool is the real deal.」"
+msgstr "Ryuuji「Vaya, esta piscina es cosa seria.」"
+
+msgid "Minori「Oh, there you are!」"
+msgstr "Minori「¡Oh, ahí están!」"
+
+msgid "Kitamura「Sorry we're late.」"
+msgstr "Kitamura「Perdón por la tardanza.」"
+
+msgid "Minori「It's fine, it's fine! We've been doing＿some warmup stretches.」"
+msgstr "Minori「¡No pasa nada! Estuvimos haciendo＿estiramientos para calentar.」"
+
+msgid "Kitamura「Alright guys, let's do some warmups of＿our own.」"
+msgstr "Kitamura「Muy bien, chicos, hagamos nuestro＿propio calentamiento.」"
+
+msgid "Haruta「Whaaat? Lame. Let's just skip it.」"
+msgstr "Haruta「¿Quéee? Qué aburrido. Saltémoslo.」"
+
+msgid "Kitamura「No. Skipping the warmup stage can＿lead to unexpected injuries later.」"
+msgstr "Kitamura「No. Saltarse el calentamiento puede＿provocar lesiones inesperadas luego.」"
+
+msgid "Minori「He's right, write, WRIGHT!」"
+msgstr "Minori「¡Cierto, acierto, CONCIERTO!」"
+
+msgid "Taiga「Minorin, wanna do warmups one more＿time?」"
+msgstr "Taiga「Minorin, ¿hacemos＿el calentamiento otra vez?」"
+
+msgid "Minori「Huh? Sure, I guess.」"
+msgstr "Minori「¿Eh? Claro, supongo.」"
+
+msgid "Taiga「Okay.」"
+msgstr "Taiga「Bien.」"
+
+msgid "Kitamura「......Okay, let's do some stretches next.＿1, 2, 3, 4! 2, 2, 3, 4......」"
+msgstr "Kitamura「......Bien, ahora estiramientos.＿¡1, 2, 3, 4! 2, 2, 3, 4......」"
+
+msgid "Taiga「Ryuuji......」"
+msgstr "Taiga「Ryuuji......」"
+
+msgid "Ryuuji「What?」"
+msgstr "Ryuuji「¿Qué?」"
+
+msgid "Taiga「Go pair up with Minorin for this next＿one.」"
+msgstr "Taiga「Haz pareja con Minorin＿para el siguiente.」"
+
+msgid "Ryuuji「Huh? What do you mean?」"
+msgstr "Ryuuji「¿Eh? ¿A qué te refieres?」"
+
+msgid "Taiga「I've got a plan.」"
+msgstr "Taiga「Tengo un plan.」"
+
+msgid "Kitamura「Alright, everyone pair up for＿calisthenics.」"
+msgstr "Kitamura「Bien, todos en parejas para＿hacer calistenia.」"
+
+msgid "Haruta「Alriiight, I'm gonna give you a push,＿Notocchi. There!」"
+msgstr "Haruta「Bieeen, te voy a empujar,＿Notocchi. ¡Ahí va!」"
+
+msgid "Noto「EEEEK～～!?」"
+msgstr "Noto「¡¿IIIIK～～?!」"
+
+msgid "Kitamura「Okay, Takasu. I'll pair up with......」"
+msgstr "Kitamura「Bien, Takasu. Haré pareja con......」"
+
+msgid "Taiga「K-Kitamura-kun, will you pair up with＿me?」"
+msgstr "Taiga「K-Kitamura-kun, ¿harías pareja conmigo?」"
+
+msgid "Minori「Huh? Hey now, you're leavin' me high＿and dry, baby!」"
+msgstr "Minori「¿Eh? ¡Oye, me dejas colgada, cariño!」"
+
+msgid "Taiga「Minorin, whenever you pair with me,＿you never push hard enough. So do me＿a favor and pair up with Ryuuji.」"
+msgstr "Taiga「Minorin, cuando haces pareja conmigo,＿nunca empujas con fuerza. Hazme el＿favor de hacerla con Ryuuji.」"
+
+msgid "Taiga「That way you can push without holding＿back. Enough to dislocate some joints.」"
+msgstr "Taiga「Así puedes empujar sin contenerte. Lo＿bastante para dislocar articulaciones.」"
+
+msgid "Ryuuji「What am I, a chew toy?」"
+msgstr "Ryuuji「¿Qué soy, un juguete para morder?」"
+
+msgid "Minori「In that case, you can count on me. I'll＿give my utmost support!」"
+msgstr "Minori「En ese caso, cuenta conmigo.＿¡Daré mi mayor apoyo!」"
+
+msgid "Ryuuji「Huh? Uhh, you serious?」"
+msgstr "Ryuuji「¿Eh? Ehm, ¿hablas en serio?」"
+
+msgid "Minori「I'm serious. Now, Takasu-dono, be＿seated.」"
+msgstr "Minori「Hablo en serio. Ahora, Takasu-dono,＿tome asiento.」"
+
+msgid "Ryuuji「Uh, okay.」"
+msgstr "Ryuuji「Eh, está bien.」"
+
+msgid "Minori「Alright then, here I go!」"
+msgstr "Minori「¡Muy bien, allá voy!」"
+
+msgid "Ryuuji「O-Okay.」"
+msgstr "Ryuuji「E-Está bien.」"
+
+msgid "Minori「One, two, THREE......」"
+msgstr "Minori「Uno, dos, TRES......」"
+
+msgid "Ryuuji「Eeeergh! You're really not holding＿back, huh?」"
+msgstr "Ryuuji「¡Aaagh! De verdad que no＿te contienes, ¿eh?」"
+
+msgid "Minori「Bwahahahahaha! But of course!＿Eternal Full-Power!」"
+msgstr "Minori「¡Buajajajajaja! ¡Por supuesto!＿¡Máxima Potencia Eterna!」"
+
+msgid "Ryuuji「（That's Kushieda for you.）」"
+msgstr "Ryuuji「（Típico de Kushieda.）」"
+
+msgid "Ryuuji「........................」"
+msgstr "Ryuuji「........................」"
+
+msgid "Ryuuji「（When it comes down to it...... how do I＿feel about Kushieda?）」"
+msgstr "Ryuuji「（A fin de cuentas...... ¿qué＿siento por Kushieda?）」"
+
+msgid "Ryuuji「（Before the amnesia, I liked her. But＿what about now? How do I feel about＿her right now......?）」"
+msgstr "Ryuuji「（Antes de la amnesia, me gustaba.＿¿Pero y ahora? ¿Qué siento por ella＿en este momento......?）」"
+
+msgid "Minori「......Earth to Takasu-kun! Y'okay?」"
+msgstr "Minori「......¡Tierra llamando a Takasu-kun!＿¿Estás bien?」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Minori「Warmups are over. You were spacing＿out for a while there. You alright?」"
+msgstr "Minori「Terminó el calentamiento. Llevabas un＿rato en las nubes. ¿Estás bien?」"
+
+msgid "Ryuuji「......Yeah, I'm okay.」"
+msgstr "Ryuuji「......Sí, estoy bien.」"
+
+msgid "Minori「Were you thinking about your＿memories again?」"
+msgstr "Minori「¿Estabas pensando en tus＿recuerdos otra vez?」"
+
+msgid "Ryuuji「Uhh, well, I guess. Nothing serious,＿though. Don't worry about me.」"
+msgstr "Ryuuji「Eh, bueno, supongo. Pero nada grave.＿No te preocupes por mí.」"
+
+msgid "Kitamura「Takasu, care to go for a swim? There's＿plenty of room at the deep end.」"
+msgstr "Kitamura「Takasu, ¿quieres ir a nadar? Hay mucho＿espacio en la parte honda.」"
+
+msgid "Ryuuji「Yeah, sure.」"
+msgstr "Ryuuji「Sí, claro.」"
+
+msgid "Kihara「Maruo! Can you do the butterfly＿stroke? If you don't mind, show me the＿ropes～」"
+msgstr "Kihara「¡Maruo! ¿Sabes nadar estilo＿mariposa? Si no te molesta,＿enséñame cómo se hace～」"
+
+msgid "Kitamura「Sure, I don't mind. Meet you in the＿shallow end......」"
+msgstr "Kitamura「Claro, no me molesta. Nos vemos＿en la zona poco profunda......」"
+
+msgid "Noto「Hang on, Kitamura should be watching＿the Tiger. She's failing miserably at＿water walking.」"
+msgstr "Noto「Espera, Kitamura debería estar vigilando＿a Tigre. Está fracasando miserablemente＿al caminar en el agua.」"
+
+msgid "Kitamura「Really? Then I'll......」"
+msgstr "Kitamura「¿De verdad? Entonces yo......」"
+
+msgid "Kihara「What? But I asked first!」"
+msgstr "Kihara「¿Qué? ¡Pero yo pregunté primero!」"
+
+msgid "Noto「You can have Ami-chan teach you.」"
+msgstr "Noto「Puedes pedirle a Ami-chan que te enseñe.」"
+
+msgid "Kihara「Shut up, Noto, I wasn't talking to you!」"
+msgstr "Kihara「¡Cállate, Noto, no estaba＿hablando contigo!」"
+
+msgid "Noto「Excuse me!?」"
+msgstr "Noto「¡¿Perdón?!」"
+
+msgid "Kitamura「Guys, calm down.」"
+msgstr "Kitamura「Chicos, cálmense.」"
+
+msgid "Ryuuji「Kitamura, I'll swim with you later.」"
+msgstr "Ryuuji「Kitamura, luego nado contigo.」"
+
+msgid "Ryuuji「I guess not.」"
+msgstr "Ryuuji「Supongo que no.」"
+
+msgid "Kitamura「Since we're here, I wanted to make＿memories with everyone, but......」"
+msgstr "Kitamura「Ya que estamos aquí, quería crear＿recuerdos con todos, pero......」"
+
+msgid "Kitamura「That's it! I just thought of something!」"
+msgstr "Kitamura「¡Eso es! ¡Acabo de tener una idea!」"
+
+msgid "Ryuuji「You did?」"
+msgstr "Ryuuji「¿En serio?」"
+
+msgid "Kitamura「Here's a way for all of us to have fun＿together!」"
+msgstr "Kitamura「¡Esta es una forma de que todos＿nos divirtamos juntos!」"
+
+msgid "Ryuuji「A-Aerobics for Men...... Underwater!?」"
+msgstr "Ryuuji「¡¿A-Aeróbicos para hombres......＿bajo el agua?!」"
+
+msgid "Noto「Haruta, you idiot! Use your other left!＿And stay on rhythm!」"
+msgstr "Noto「¡Haruta, idiota! ¡La otra izquierda!＿¡Y sigue el ritmo!」"
+
+msgid "Haruta「Whaaat～? What's it matter? I'm havin'＿fun!」"
+msgstr "Haruta「¿Quéee～? ¿Qué importa? ¡Me＿estoy divirtiendo!」"
+
+msgid "Ami「Pfft! Ami-chan does aerobics every＿day! This is a piece of cake!」"
+msgstr "Ami「¡Pff! ¡Ami-chan hace aeróbicos todos＿los días! ¡Esto es pan comido!」"
+
+msgid "Haruta「Wooo! That's our Ami-chan! Wouldn't＿mind seein' ya in a leotard!」"
+msgstr "Haruta「¡Uuuuh! ¡Esa es nuestra Ami-chan! ¡No＿me molestaría verte en leotardo!」"
+
+msgid "Taiga「Disgusting......」"
+msgstr "Taiga「Qué asco......」"
+
+msgid "Minori「Taiga, use your left hand for that part!」"
+msgstr "Minori「¡Taiga, en esa parte usa＿la mano izquierda!」"
+
+msgid "Kihara「Wow, Nanako, you're so good!」"
+msgstr "Kihara「¡Vaya, Nanako, qué bien lo haces!」"
+
+msgid "Kashii「Ufu! It's fairly easy indeed.」"
+msgstr "Kashii「¡Ufu! La verdad es bastante fácil.」"
+
+msgid "Minori「Taiga, watch your feet! Forward,＿forward, right, left!」"
+msgstr "Minori「¡Taiga, ojo con los pies! ¡Adelante,＿adelante, derecha, izquierda!」"
+
+msgid "Taiga「Huh!? W-What!? Like this!? Eeek!」"
+msgstr "Taiga「¡¿Eh?! ¡¿Q-Qué?! ¡¿Así?! ¡Iiik!」"
+
+msgid "Minori「Taiga, look out--!」"
+msgstr "Minori「¡Taiga, cuidado--!」"
+
+msgid "Ryuuji「I-Idiot!」"
+msgstr "Ryuuji「¡I-Idiota!」"
+
+msgid "Minori「Right, write, WRIGHT! Alriiight, I'm＿gonna eat! Gobble! Devour!」"
+msgstr "Minori「¡Cierto, acierto, CONCIERTO! ¡Bieeen,＿voy a comer! ¡A tragar! ¡A devorar!」"
+
+msgid "Kitamura「Oh, you're raring to chow down,＿Kushieda! But you're not the only one!」"
+msgstr "Kitamura「¡Oh, estás ansiosa por comer, Kushieda!＿¡Pero no eres la única!」"
+
+msgid "Noto「After all that exercising he's not even＿out of breath...... That's our leader.」"
+msgstr "Noto「Después de tanto ejercicio ni＿siquiera se quedó sin aliento......＿Ese es nuestro líder.」"
+
+msgid "Haruta「Ugggh, that dude ain't human......」"
+msgstr "Haruta「Ugggh, ese tipo no es humano......」"
+
+msgid "Ami「We really worked up a sweat!」"
+msgstr "Ami「¡Sí que sudamos la gota gorda!」"
+
+msgid "Kihara「Yeah! That felt amazing!」"
+msgstr "Kihara「¡Sí! ¡Se sintió increíble!」"
+
+msgid "Kashii「I wouldn't mind relaxing in a jacuzzi＿later.」"
+msgstr "Kashii「No me molestaría relajarme＿en un jacuzzi después.」"
+
+msgid "Ami「Oh, good idea～」"
+msgstr "Ami「Oh, buena idea～」"
+
+msgid "Ryuuji「Are you okay?」"
+msgstr "Ryuuji「¿Estás bien?」"
+
+msgid "Taiga「I handled it just fine. Hmph. I'm not＿wimpy enough to need your concern.」"
+msgstr "Taiga「Lo manejé sin problemas. Jum. No＿soy tan débil como para necesitar＿que te preocupes por mí.」"
+
+msgid "Ryuuji「（Well, she might be clumsy, but she's＿certainly strong.）」"
+msgstr "Ryuuji「（Bueno, será torpe, pero＿sin duda es fuerte.）」"
+
+msgid "Kitamura「Alright, let's be off!」"
+msgstr "Kitamura「¡Muy bien, en marcha!」"
+
+msgid "Ryuuji「Okay.」"
+msgstr "Ryuuji「De acuerdo.」"
+
+msgid "Ryuuji「（Now then, I've got some food in me, so I＿guess I can take it easy this afternoon.）」"
+msgstr "Ryuuji「（Bueno, ya comí algo, así que＿supongo que puedo tomármelo＿con calma esta tarde.）」"
+
+msgid "Kitamura「Oh, Takasu! I'm planning to head to the＿gym now. What about you?」"
+msgstr "Kitamura「¡Oh, Takasu! Planeo ir al＿gimnasio ahora. ¿Y tú?」"
+
+msgid "Ryuuji「You're going to the gym right after the＿pool? As expected of the softball＿captain. You're pretty strong.」"
+msgstr "Ryuuji「¿Vas al gimnasio justo después de la＿piscina? Como era de esperar del capitán＿de sóftbol. Eres muy fuerte.」"
+
+msgid "Kitamura「Well, a little post-meal exercise helps＿with digestion.」"
+msgstr "Kitamura「Bueno, un poco de ejercicio tras＿comer ayuda a la digestión.」"
+
+msgid "Noto「Hey Takasu, wanna go for another＿swim with us?」"
+msgstr "Noto「Oye, Takasu, ¿quieres volver＿a nadar con nosotros?」"
+
+msgid "Haruta「Let's swim like fishies!」"
+msgstr "Haruta「¡Nademos como pececitos!」"
+
+msgid "Ryuuji「Hmm...... Nah, I'll pass. I wanna relax for＿a bit.」"
+msgstr "Ryuuji「Mmm...... Nah, paso. Quiero＿relajarme un rato.」"
+
+msgid "Haruta「Whaaat? Seriously～?」"
+msgstr "Haruta「¿Quéee? ¿En serio～?」"
+
+msgid "Ryuuji「Sorry, guys. I'm still recovering, after＿all.」"
+msgstr "Ryuuji「Perdón, chicos. Al fin y al cabo,＿aún me estoy recuperando.」"
+
+msgid "Noto「Oh yeah...... But for what it's worth, you＿seem fine to me.」"
+msgstr "Noto「Ah, cierto...... Pero, por lo que veo,＿a mí me parece que estás bien.」"
+
+msgid "Kitamura「Takasu, if you start feeling any worse,＿tell one of the staff straight away. No＿recklessness permitted.」"
+msgstr "Kitamura「Takasu, si te empiezas a sentir＿mal, avísale al personal de inmediato.＿Nada de imprudencias.」"
+
+msgid "Ryuuji「I understand.」"
+msgstr "Ryuuji「Entendido.」"
+
+msgid "Kitamura「Come to think of it, do you remember＿where the girls said they'd be going?」"
+msgstr "Kitamura「Ahora que lo pienso, ¿recuerdas a dónde＿dijeron las chicas que irían?」"
+
+msgid "Kitamura「The fourth floor......? As I recall, that's＿where the kiddie pool is.」"
+msgstr "Kitamura「¿Al cuarto piso......? Si mal no＿recuerdo, ahí está la piscina infantil.」"
+
+msgid "Kitamura「Anyway, no matter which floor you go＿to, you've got friends nearby. Takasu, if＿you need help, reach out to one of us.」"
+msgstr "Kitamura「En fin, vayas al piso que vayas, tienes＿amigos cerca. Takasu, si necesitas＿ayuda, recurre a alguno de nosotros.」"
+
+msgid "Haruta「Yell for us and we'll come running,＿dude!! Don't die, Taka-chan!」"
+msgstr "Haruta「¡¡Grita y vendremos corriendo, amigo!!＿¡No te mueras, Taka-chan!」"
+
+msgid "Ryuuji「Don't blow this out of proportion!＿Thanks, though.」"
+msgstr "Ryuuji「¡No exageres tanto! Pero gracias.」"
+
+msgid "Kitamura「No thanks needed. Well, see you later.」"
+msgstr "Kitamura「No hay de qué. Bueno, nos vemos luego.」"
+
+msgid "Noto「Take care.」"
+msgstr "Noto「Cuídate.」"
+
+msgid "Haruta「POOL! POOL!」"
+msgstr "Haruta「¡PISCINA! ¡PISCINA!」"
+
+msgid "Ryuuji「（Now then, where should I go after I get＿changed?）」"
+msgstr "Ryuuji「（Ahora bien, ¿a dónde debería＿ir después de cambiarme?）」"
+
+msgid "To the third floor with Minori"
+msgstr "Al tercer piso con Minori"
+
+msgid "To the fourth floor with Taiga"
+msgstr "Al cuarto piso con Taiga"
+
+msgid "To the fifth floor with Ami & Co."
+msgstr "Al quinto piso con Ami y compañía"
+
+msgid "Ryuuji「（For now, I guess I'll check out the＿lower floor.）」"
+msgstr "Ryuuji「（Por ahora, supongo que iré＿a ver el piso inferior.）」"
+
+msgid "Ryuuji「（Against my better judgment, I'll check＿out the fourth floor.）」"
+msgstr "Ryuuji「（Aunque no me parece buena idea,＿iré a ver el cuarto piso.）」"
+
+msgid "Ryuuji「（Guess I'll start from the top and work＿my way down.）」"
+msgstr "Ryuuji「（Supongo que empezaré desde＿arriba e iré bajando.）」"
+
+msgid "Noto「Well yeah, there's even a planetarium＿here. My tickets can only be used for＿the relaxation areas, like the gym or」"
+msgstr "Noto「Sí, hay hasta planetario. Pero mis＿entradas solo cubren zonas de＿relajación, como el gimnasio o」"
+
+msgid "Noto「hot springs, though.」"
+msgstr "Noto「las aguas termales.」"
+
+msgid "Noto「Just past the reception area are the＿men's and women's locker rooms. For＿now, why don't we get changed and」"
+msgstr "Noto「Tras la recepción están los vestidores＿de hombres y mujeres. Por ahora, ¿por＿qué no nos cambiamos y」"
+
+msgid "Noto「meet up later?」"
+msgstr "Noto「nos vemos luego?」"
+
+msgid "Kitamura「According to this pamphlet, the first＿floor is the lobby. The second through＿fifth floors are for the pool and lounge,」"
+msgstr "Kitamura「Según este folleto, el primer piso es＿el vestíbulo. Del segundo al quinto piso＿están la piscina y el salón,」"
+
+msgid "Kitamura「and the gym seems to be on the sixth＿floor.」"
+msgstr "Kitamura「y el gimnasio parece estar＿en el sexto piso.」"
+
+msgid "Kitamura「We're in a big group today, so first let's＿all hit the pool. After that, those of us＿with brawn to spare can swing by the」"
+msgstr "Kitamura「Hoy somos un grupo grande, así que＿primero vamos a la piscina. Luego,＿quienes aún tengan fuerzas pueden ir al」"
+
+msgid "Kitamura「gym.」"
+msgstr "Kitamura「gimnasio.」"
+
+msgid "Kitamura「That way, we'll exercise in the morning＿and have free time in the afternoon.＿For now, how about we all get into our」"
+msgstr "Kitamura「Así haremos ejercicio por la mañana y＿tendremos la tarde libre. Por ahora,＿¿qué tal si nos ponemos los」"
+
+msgid "Kitamura「swimsuits?」"
+msgstr "Kitamura「trajes de baño?」"
+
+msgid "Kitamura「All thanks to softball practice. Indeed, I＿feel they're more toned now compared＿to six months ago. Want to touch」"
+msgstr "Kitamura「Todo gracias a las prácticas de sóftbol.＿De verdad siento que están más definidos＿que hace seis meses. ¿Quieres」"
+
+msgid "Kitamura「them?」"
+msgstr "Kitamura「tocarlos?」"
+
+msgid "Noto「And to make it worse, Master＿Kitamura's in the middle of changing!＿Save the chatter for after your clothes」"
+msgstr "Noto「¡Y para colmo, el Maestro Kitamura está＿a medio cambiarse! Dejen la charla para＿cuando tengan la ropa」"
+
+msgid "Noto「are back on.」"
+msgstr "Noto「puesta otra vez.」"
+
+msgid "Kitamura「Okay. Still, I totally forgot the pool here＿only allows for independent swimming.＿We can't really swim \"together,\" as it」"
+msgstr "Kitamura「Bien. Olvidé que aquí solo se permite＿nadar por separado. En realidad no＿podemos nadar \"juntos\", por así」"
+
+msgid "Kitamura「were.」"
+msgstr "Kitamura「decirlo.」"
+
+msgid "Kitamura「Alright, we've refreshed ourselves by＿breaking a sweat! Let's get changed＿and go have lunch. Sensei is waiting」"
+msgstr "Kitamura「¡Bien, sudar nos dejó renovados!＿Cambiémonos y vamos a almorzar. Sensei＿nos está esperando,」"
+
+msgid "Kitamura「for us, after all.」"
+msgstr "Kitamura「después de todo.」"
+
+msgid "Noto「Ami-chan wanted to go to the fifth＿floor lounge with her friends. They＿were talking about massages or」"
+msgstr "Noto「Ami-chan quería ir al salón＿del quinto piso con sus amigas.＿Estaban hablando de masajes o」"
+
+msgid "Noto「something.」"
+msgstr "Noto「algo así.」"
+
+msgid "Noto「Kushieda said she was headed to the＿third floor pool for more swimming,＿and the Tiger went to the fourth floor,」"
+msgstr "Noto「Kushieda dijo que iba a la piscina＿del tercer piso a nadar más, y Tigre＿fue al cuarto piso,」"
+
+msgid "Noto「apparently.」"
+msgstr "Noto「al parecer.」"

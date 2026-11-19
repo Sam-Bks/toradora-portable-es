@@ -1,0 +1,1409 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「......Kawashima!」"
+msgstr "Ryuuji「......¡Kawashima!」"
+
+msgid "Ami「Takasu-kun......」"
+msgstr "Ami「Takasu-kun......」"
+
+msgid "Ryuuji「*Pant* *Pant*...... I knew you'd be＿here......」"
+msgstr "Ryuuji「*Jadeo* *Jadeo*...... Sabía＿que estarías aquí......」"
+
+msgid "Ami「What about the opening ceremony?」"
+msgstr "Ami「¿Y la ceremonia de apertura?」"
+
+msgid "Ryuuji「Haruta said he'd seen you, so I was＿looking for you.」"
+msgstr "Ryuuji「Haruta dijo que te había visto,＿así que te estuve buscando.」"
+
+msgid "Ami「............」"
+msgstr "Ami「............」"
+
+msgid "Ryuuji「Kawashima...... I'm sorry.」"
+msgstr "Ryuuji「Kawashima...... Lo siento.」"
+
+msgid "Ami「Huh?」"
+msgstr "Ami「¿Eh?」"
+
+msgid "Ryuuji「I'm sorry.」"
+msgstr "Ryuuji「Lo siento.」"
+
+msgid "Ami「......It's fine. I was at fault for that too, I＿think.」"
+msgstr "Ami「......Está bien. Yo también tuve＿la culpa en eso, creo.」"
+
+msgid "Ami「What, you came here just to say that?」"
+msgstr "Ami「¿Qué, viniste aquí solo para decir eso?」"
+
+msgid "Ami「In that case, could you get going＿already? I want to enjoy my drink here＿in peace.」"
+msgstr "Ami「En ese caso, ¿podrías irte ya? Quiero＿disfrutar mi bebida aquí en paz.」"
+
+msgid "Ryuuji「Drink? What kind?」"
+msgstr "Ryuuji「¿Bebida? ¿De cuál?」"
+
+msgid "Ami「Why do you care?」"
+msgstr "Ami「¿Y a ti qué te importa?」"
+
+msgid "Ryuuji「I'll buy you something.」"
+msgstr "Ryuuji「Yo te invito algo.」"
+
+msgid "Ami「You don't need to do that.」"
+msgstr "Ami「No hace falta que hagas eso.」"
+
+msgid "Ryuuji「But you're leaving, right?」"
+msgstr "Ryuuji「Pero te vas a ir, ¿verdad?」"
+
+msgid "Ami「......It's pricey.」"
+msgstr "Ami「......Cuesta caro.」"
+
+msgid "Ryuuji「That's okay.」"
+msgstr "Ryuuji「No importa.」"
+
+msgid "Ami「............Straight tea.」"
+msgstr "Ami「............Té solo.」"
+
+msgid "Ryuuji「Okay.」"
+msgstr "Ryuuji「Está bien.」"
+
+msgid "Ryuuji「Here.」"
+msgstr "Ryuuji「Toma.」"
+
+msgid "Ami「Thanks.」"
+msgstr "Ami「Gracias.」"
+
+msgid "Ami「What did you get? Oh, I bet it's the＿stamina drink with the obscene label,＿right?」"
+msgstr "Ami「¿Qué compraste? Seguro fue la＿bebida energética de la etiqueta＿obscena, ¿verdad?」"
+
+msgid "Ryuuji「Like hell anyone would buy that. I got＿plain coffee.」"
+msgstr "Ryuuji「Ni loco compraría eso. Compré café solo.」"
+
+msgid "Ami「......Deja vu.」"
+msgstr "Ami「......Deja vu.」"
+
+msgid "Ryuuji「Huh? Oh yeah, it's just like the first＿time I found you here.」"
+msgstr "Ryuuji「¿Eh? Ah, sí, es igual que la primera＿vez que te encontré aquí.」"
+
+msgid "Ami「......Hmm, so you remember that.」"
+msgstr "Ami「......Mmm, así que recuerdas eso.」"
+
+msgid "Ryuuji「Yeah.」"
+msgstr "Ryuuji「Sí.」"
+
+msgid "Ami「............It's warm. Deliciously warm.」"
+msgstr "Ami「............Está tibio.＿Deliciosamente tibio.」"
+
+msgid "Ryuuji「You said \"refreshingly cold\" last time＿though.」"
+msgstr "Ryuuji「Aunque la última vez dijiste＿\"refrescantemente frío\".」"
+
+msgid "Ami「Did I? Well, it WAS over six months＿ago.」"
+msgstr "Ami「¿En serio? Bueno, FUE hace＿más de seis meses.」"
+
+msgid "Ryuuji「Yeah.」"
+msgstr "Ryuuji「Sí.」"
+
+msgid "Ryuuji「......Kawashima, listen.」"
+msgstr "Ryuuji「......Kawashima, escucha.」"
+
+msgid "Ami「What is it?」"
+msgstr "Ami「¿Qué pasa?」"
+
+msgid "Ryuuji「At the test of courage, I asked you,＿\"What should I do?\" Remember?」"
+msgstr "Ryuuji「En la prueba de valor te pregunté: \"¿Qué＿debería hacer?\". ¿Lo recuerdas?」"
+
+msgid "Ami「Yeah......」"
+msgstr "Ami「Sí......」"
+
+msgid "Ryuuji「I think I'm going to forget about＿Kushieda bit by bit.」"
+msgstr "Ryuuji「Creo que voy a olvidarme de＿Kushieda poco a poco.」"
+
+msgid "Ami「Huh?」"
+msgstr "Ami「¿Eh?」"
+
+msgid "Ryuuji「When I tried to confess to her, she just＿told me not to. She rejected me.」"
+msgstr "Ryuuji「Cuando intenté declararme, me dijo＿que no lo hiciera. Me rechazó.」"
+
+msgid "Ryuuji「I lost my memory soon after that, so I＿didn't think it strange until now, but＿Kushieda hasn't acted any differently.」"
+msgstr "Ryuuji「Perdí la memoria poco después, así que＿no me pareció raro hasta ahora, pero＿Kushieda no ha actuado distinto.」"
+
+msgid "Ami「So you're going to forget her? Are you＿sure about this?」"
+msgstr "Ami「¿Así que vas a olvidarla?＿¿Estás seguro de esto?」"
+
+msgid "Ryuuji「......」"
+msgstr "Ryuuji「......」"
+
+msgid "Ryuuji「......It hurts.」"
+msgstr "Ryuuji「......Duele.」"
+
+msgid "Ryuuji「It hurts, but it's my burden to bear.」"
+msgstr "Ryuuji「Duele, pero es la carga que debo llevar.」"
+
+msgid "Ami「Hmmm......」"
+msgstr "Ami「Mmmm......」"
+
+msgid "Ami「Why would you talk to me about this?」"
+msgstr "Ami「¿Por qué me cuentas esto a mí?」"
+
+msgid "Ami「Are you trying to insinuate＿something?」"
+msgstr "Ami「¿Estás tratando de insinuar algo?」"
+
+msgid "Ryuuji「No no, that's not it!!」"
+msgstr "Ryuuji「¡¡No, no, no es eso!!」"
+
+msgid "Ryuuji「It's just...... After I took it out on you, I＿figured I should tell you my decision, I＿guess......」"
+msgstr "Ryuuji「Es solo que...... Como me desquité＿contigo, pensé que debía contarte＿mi decisión, supongo......」"
+
+msgid "Ryuuji「After I asked that question, you were a＿little concerned, weren't you?」"
+msgstr "Ryuuji「Después de hacerte esa pregunta, te＿quedaste un poco preocupada, ¿no?」"
+
+msgid "Ami「............」"
+msgstr "Ami「............」"
+
+msgid "Ryuuji「......Is it true you're transferring?」"
+msgstr "Ryuuji「......¿Es verdad que te transfieres?」"
+
+msgid "Ami「......Yeah.」"
+msgstr "Ami「......Sí.」"
+
+msgid "Ryuuji「It's really sudden.」"
+msgstr "Ryuuji「Es muy repentino.」"
+
+msgid "Ami「We had this conversation a while back.＿Regarding my debut as an actress.」"
+msgstr "Ami「Ya habíamos hablado de esto hace tiempo.＿Sobre mi debut como actriz.」"
+
+msgid "Ryuuji「An actress?」"
+msgstr "Ryuuji「¿Actriz?」"
+
+msgid "Ami「Yeah. I spent a lot of my childhood on＿set with my mother, so I've had some＿interest in acting.」"
+msgstr "Ami「Sí. Pasé gran parte de mi infancia＿en el set con mi madre, así que siempre＿me interesó la actuación.」"
+
+msgid "Ami「Then it really kicked in around the end＿of last year...... And my previous school＿would make more sense.」"
+msgstr "Ami「A fines del año pasado la idea cobró＿fuerza...... Y mi escuela anterior＿me queda mucho más práctica.」"
+
+msgid "Ami「I've had my fill of the high school＿scene, and I don't have to worry about＿stalkers anymore either.」"
+msgstr "Ami「Ya tuve suficiente de la vida de＿preparatoria, y tampoco tendré que＿preocuparme más por acosadores.」"
+
+msgid "Ryuuji「Stalkers?」"
+msgstr "Ryuuji「¿Acosadores?」"
+
+msgid "Ami「Oh......」"
+msgstr "Ami「Ah......」"
+
+msgid "Ami「I guess you haven't remembered that＿part yet.」"
+msgstr "Ami「Supongo que todavía no＿recuerdas esa parte.」"
+
+msgid "Ami「Or maybe you really have forgotten.」"
+msgstr "Ami「O tal vez de verdad lo olvidaste.」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Ami「No one's expected to remember every＿second of their pasts. Much less some＿random girl's.」"
+msgstr "Ami「Nadie tiene que recordar cada segundo＿de su pasado. Y mucho menos el de＿una chica cualquiera.」"
+
+msgid "Ami「C'mon, we should get going.」"
+msgstr "Ami「Vamos, ya deberíamos irnos.」"
+
+msgid "Ryuuji「Already?」"
+msgstr "Ryuuji「¿Ya?」"
+
+msgid "Ryuuji「Which was expensive, by the way. Send＿me a check once you're famous.」"
+msgstr "Ryuuji「Por cierto, sí estaba caro. Mándame＿un cheque cuando seas famosa.」"
+
+msgid "Ami「............To repay you for a drink? Yeah＿right.」"
+msgstr "Ami「............¿Para pagarte＿una bebida? Sí, claro.」"
+
+msgid "Ami「Bye, Takasu-kun.」"
+msgstr "Ami「Adiós, Takasu-kun.」"
+
+msgid "Ryuuji「Bye.」"
+msgstr "Ryuuji「Adiós.」"
+
+msgid "Ami「Oh, and feel free to forget about me.」"
+msgstr "Ami「Ah, y siéntete libre de olvidarte de mí.」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Ami「Though I doubt it'll be so easy to＿forget Ami-chan's legendary cuteness.＿Ufu①」"
+msgstr "Ami「Aunque dudo que sea tan fácil＿olvidar la legendaria lindura＿de Ami-chan. Juju①」"
+
+msgid "Ryuuji「Oh Jesus......」"
+msgstr "Ryuuji「Por Dios......」"
+
+msgid "Ami「I don't want to be remembered. If you＿forget something once, it should stay＿forgotten.」"
+msgstr "Ami「No quiero que me recuerden.＿Si olvidas algo una vez, debería＿quedarse olvidado.」"
+
+msgid "Ryuuji「（That expression......）」"
+msgstr "Ryuuji「（Esa expresión......）」"
+
+msgid "Ryuuji「（That same fragile, unguarded look I＿saw that night......）」"
+msgstr "Ryuuji「（Esa misma mirada frágil y sin defensas＿que vi aquella noche......）」"
+
+msgid "Ami「Goodbye.」"
+msgstr "Ami「Adiós.」"
+
+msgid "Ryuuji「......!」"
+msgstr "Ryuuji「......!」"
+
+msgid "Ryuuji「（At this rate...... Can I really just let＿Kawashima go?）」"
+msgstr "Ryuuji「（A este paso...... ¿De verdad puedo＿dejar que Kawashima se vaya así?）」"
+
+msgid "Ryuuji「（Can I let her say goodbye with that sad＿look on her face!?）」"
+msgstr "Ryuuji「（¡¿Puedo dejar que se despida con esa＿mirada tan triste en su rostro?!）」"
+
+msgid "Ryuuji「（But what should I say......?）」"
+msgstr "Ryuuji「（Pero ¿qué debería decirle......?）」"
+
+msgid "I can't say anything......"
+msgstr "No puedo decir nada......"
+
+msgid "By stalkers, did she mean......!?"
+msgstr "Con acosadores, ¿se refería a......?!"
+
+msgid "I dreamed about you last night"
+msgstr "Anoche soñé contigo"
+
+msgid "Ryuuji「I can't say anything......」"
+msgstr "Ryuuji「No puedo decir nada......」"
+
+msgid "Ryuuji「（She's chosen to become an actress of＿her own will. I don't have the right to＿try and stop her.）」"
+msgstr "Ryuuji「（Ella eligió convertirse en actriz＿por voluntad propia. No tengo derecho＿a intentar detenerla.）」"
+
+msgid "Ryuuji「Besides...... I don't have an answer for＿her......」"
+msgstr "Ryuuji「Además...... no tengo una respuesta＿para ella......」"
+
+msgid "\"You'd never see me the same way you＿see them......!\""
+msgstr "\"¡Nunca me verías igual que como las＿ves a ellas......!\""
+
+msgid "Ryuuji「I............」"
+msgstr "Ryuuji「Yo............」"
+
+msgid "Ryuuji「（I still can't answer her......）」"
+msgstr "Ryuuji「（Todavía no puedo responderle......）」"
+
+msgid "Ryuuji「（So I have to...... say goodbye.）」"
+msgstr "Ryuuji「（Así que tengo que...... decir adiós.）」"
+
+msgid "Taiga「Ryuuji!」"
+msgstr "Taiga「¡Ryuuji!」"
+
+msgid "Ryuuji「What is it?」"
+msgstr "Ryuuji「¿Qué pasa?」"
+
+msgid "Taiga「You skipped the opening ceremony.」"
+msgstr "Taiga「Te saltaste la ceremonia de apertura.」"
+
+msgid "Ryuuji「......How did you know?」"
+msgstr "Ryuuji「......¿Cómo lo supiste?」"
+
+msgid "Taiga「Without your vicious pervy face＿around, it felt way more refreshing for＿some reason.」"
+msgstr "Taiga「Sin tu cara de pervertido amenazante＿por ahí, por alguna razón todo se sintió＿mucho más refrescante.」"
+
+msgid "Ryuuji「My face ain't vicious or pervy.」"
+msgstr "Ryuuji「Mi cara no es amenazante ni pervertida.」"
+
+msgid "Taiga「Get a clue, or a mirror. So what were＿you up to, skipping the opening＿ceremony?」"
+msgstr "Taiga「Date cuenta, o mírate en un espejo.＿¿Y qué estabas haciendo al saltarte＿la ceremonia de apertura?」"
+
+msgid "Ryuuji「Not much, really. I was just a little＿thirsty, so I hit up the water fountain.」"
+msgstr "Ryuuji「Nada especial, en realidad. Tenía un＿poco de sed, así que fui al bebedero.」"
+
+msgid "Taiga「Hmm......」"
+msgstr "Taiga「Mmm......」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Taiga「What is it?」"
+msgstr "Taiga「¿Qué pasa?」"
+
+msgid "Ryuuji「That shirt hasn't been ironed!」"
+msgstr "Ryuuji「¡Esa camisa no está planchada!」"
+
+msgid "Taiga「Huh? Oh yeah. It's fine.」"
+msgstr "Taiga「¿Eh? Ah, sí. No pasa nada.」"
+
+msgid "Ryuuji「Like hell it's fine!」"
+msgstr "Ryuuji「¡Cómo que no pasa nada!」"
+
+msgid "Taiga「Oh, shut it. I took my other shirts to＿the dry cleaner's yesterday, so this'll＿have to do for today.」"
+msgstr "Taiga「Ay, cállate. Ayer llevé mis otras＿camisas a la tintorería, así que tendré＿que arreglármelas con esta hoy.」"
+
+msgid "Ryuuji「So this is you on your own, huh? The＿day before school starts, you rush all＿your clothes to the dry cleaner's?」"
+msgstr "Ryuuji「Así eres cuando vives sola, ¿eh? ¿Un＿día antes de clases llevas toda tu ropa＿a toda prisa a la tintorería?」"
+
+msgid "Taiga「Yeah, sounds about right.」"
+msgstr "Taiga「Sí, más o menos eso.」"
+
+msgid "Ryuuji「WRONG! Listen. When you leave today,＿come straight to my place. I'll do the＿ironing.」"
+msgstr "Ryuuji「¡PUES NO! Escucha. Hoy al salir, ven＿directo a mi casa. Yo te la plancho.」"
+
+msgid "Taiga「I don't need you to! I can do the ironing＿just fine!」"
+msgstr "Taiga「¡No hace falta! ¡Yo puedo plancharla＿perfectamente!」"
+
+msgid "Ryuuji「Yeah right!! The most you could＿accomplish is a third degree bur......!?」"
+msgstr "Ryuuji「¡¡Sí, claro!! ¡¿Lo único que＿lograrías sería una quemadura＿de tercer gra......?!」"
+
+msgid "\"How about you open your eyes before＿you get really hurt?\""
+msgstr "\"¿Qué tal si abres los ojos antes＿de salir muy herido?\""
+
+msgid "Ryuuji「Oh......」"
+msgstr "Ryuuji「Ah......」"
+
+msgid "Taiga「What's wrong?」"
+msgstr "Taiga「¿Qué ocurre?」"
+
+msgid "Ryuuji「（Who was it that said that to me? ......Oh,＿that's right, I believe it was＿Kawashima......）」"
+msgstr "Ryuuji「（¿Quién me dijo eso? ......Ah, cierto,＿creo que fue Kawashima......）」"
+
+msgid "Ryuuji「I almost forgot......」"
+msgstr "Ryuuji「Casi lo olvido......」"
+
+msgid "Taiga「Huh? Hey, are you okay? Don't tell me＿you got amnesia again!」"
+msgstr "Taiga「¿Eh? Oye, ¿estás bien? ¡No me digas＿que te dio amnesia otra vez!」"
+
+msgid "Ryuuji「No, I'm okay. It's not that.」"
+msgstr "Ryuuji「No, estoy bien. No es eso.」"
+
+msgid "Taiga「What the!? Christ, you're such a＿difficult dog.」"
+msgstr "Taiga「¡¿Qué pasa?! Cielos, qué＿perro tan difícil eres.」"
+
+msgid "Minori「HEEEY! TAIGAAA!」"
+msgstr "Minori「¡OOOYYE! ¡TAIGAAA!」"
+
+msgid "Taiga「Oh! Wait, Minorin! I'll be right there!」"
+msgstr "Taiga「¡Ah! ¡Espera, Minorin! ¡Ya voy!」"
+
+msgid "Taiga「Let's see, where was I? Training a dog＿is such a pain, or something?」"
+msgstr "Taiga「A ver, ¿en qué estaba? Que entrenar a un＿perro es un fastidio, ¿o algo así?」"
+
+msgid "Ryuuji「No...... We were talking about me＿skipping the opening ceremony,＿remember?」"
+msgstr "Ryuuji「No...... Estábamos hablando＿de que me salté la ceremonia＿de apertura, ¿recuerdas?」"
+
+msgid "Taiga「That's right. You shouldn't do things＿that'll make Yacchan sad!」"
+msgstr "Taiga「Es cierto. ¡No deberías hacer cosas＿que pongan triste a Yacchan!」"
+
+msgid "Ryuuji「............\"If you forget something once,＿don't try to remember,\" huh?」"
+msgstr "Ryuuji「............\"Si olvidas algo una vez,＿no intentes recordarlo\", ¿eh?」"
+
+msgid "Ryuuji「Is your \"truth\" in there somewhere,＿Kawashima?」"
+msgstr "Ryuuji「¿Tu \"verdad\" está ahí en alguna＿parte, Kawashima?」"
+
+msgid "Ryuuji「What \"truth\" does your last lie contain?」"
+msgstr "Ryuuji「¿Qué \"verdad\" encierra＿tu última mentira?」"
+
+msgid "Yuri「Hello. First of all, perhaps I should＿thank you for your hard work,＿Takasu-kun.」"
+msgstr "Yuri「Hola. Antes que nada, quizá debería＿agradecerte por tu esfuerzo, Takasu-kun.」"
+
+msgid "Yuri「Now that you got this ending, the＿reason I brought you here......」"
+msgstr "Yuri「Ahora que llegaste a este final, la＿razón por la que te traje aquí......」"
+
+msgid "Yuri「......is none other than to discuss the＿route you chose. I thought we could＿ponder it together.」"
+msgstr "Yuri「......no es otra que hablar sobre la＿ruta que elegiste. Pensé que podríamos＿reflexionar juntos al respecto.」"
+
+msgid "Yuri「Well then, let's evaluate the ending you＿just saw.」"
+msgstr "Yuri「Bien, entonces evaluemos el＿final que acabas de ver.」"
+
+msgid "Yuri「Welcome, Takasu-kun.」"
+msgstr "Yuri「Bienvenido, Takasu-kun.」"
+
+msgid "Yuri「Well then, let's begin to evaluate the＿ending you just saw.」"
+msgstr "Yuri「Bien, comencemos a evaluar el＿final que acabas de ver.」"
+
+msgid "Yuri「I see...... You couldn't find the words to＿stop Kawashima-san from leaving.＿What a shame.」"
+msgstr "Yuri「Ya veo...... No encontraste las palabras＿para impedir que Kawashima-san se＿fuera. Qué lástima.」"
+
+msgid "Yuri「For your sake, let me tell you＿something useful. Got a pen and paper＿handy?」"
+msgstr "Yuri「Por tu bien, déjame decirte algo útil.＿¿Tienes lápiz y papel a mano?」"
+
+msgid "Yuri「If you have something you need to tell＿Kawashima-san, try thoroughly＿cleaning around the vending machines.」"
+msgstr "Yuri「Si tienes algo que decirle a＿Kawashima-san, intenta limpiar a fondo＿alrededor de las máquinas expendedoras.」"
+
+msgid "Yuri「In doing so, you might find a new＿opportunity to talk to Kawashima-san.」"
+msgstr "Yuri「Si lo haces, tal vez encuentres＿otra oportunidad de hablar＿con Kawashima-san.」"
+
+msgid "Yuri「Now then, if I were to grade this＿ending, I guess I'd give it 70 points.＿Let's put more effort into this!」"
+msgstr "Yuri「Ahora bien, si calificara este final,＿supongo que te daría 70 puntos.＿¡Esforcémonos más en esto!」"
+
+msgid "Yuri「Okay, that's all for today. Until next＿time!」"
+msgstr "Yuri「Bueno, eso es todo por hoy.＿¡Hasta la próxima!」"
+
+msgid "『Music』 is now available in 『Extra』"
+msgstr "『Música』 ya está disponible en 『Extra』"
+
+msgid "『Album』 is now available in 『Extra』"
+msgstr "『Álbum』 ya está disponible en 『Extra』"
+
+msgid "Ryuuji「Kawashima!」"
+msgstr "Ryuuji「¡Kawashima!」"
+
+msgid "Ami「What?」"
+msgstr "Ami「¿Qué?」"
+
+msgid "Ryuuji「Umm...... I had a dream about you last＿night.」"
+msgstr "Ryuuji「Ehm...... Anoche tuve un sueño contigo.」"
+
+msgid "Ryuuji「（Of all the things to say, why that!? Now＿Kawashima's definitely gonna......）」"
+msgstr "Ryuuji「（¡¿De todo lo que podía decir,＿por qué eso?! Ahora Kawashima＿seguro va a......）」"
+
+msgid "Ami「You did? What kind of dream?」"
+msgstr "Ami「¿En serio? ¿Qué clase de sueño?」"
+
+msgid "Ryuuji「--!!」"
+msgstr "Ryuuji「--!!」"
+
+msgid "Ryuuji「（I can't tell her flat-out I dreamed about＿dating her! I just can't!!）」"
+msgstr "Ryuuji「（¡No puedo decirle sin más＿que soñé que teníamos una cita!＿¡¡Simplemente no!!）」"
+
+msgid "Ami「Come on, how'd the dream go?」"
+msgstr "Ami「Vamos, ¿cómo fue el sueño?」"
+
+msgid "Ryuuji「Uh, well, umm......」"
+msgstr "Ryuuji「Eh, bueno, ehm......」"
+
+msgid "Ami「Ugh! So it was something so bad you＿can't talk about it! You're the worst～」"
+msgstr "Ami「¡Agh! ¡Entonces fue algo tan malo que＿no puedes contarlo! Eres lo peor～」"
+
+msgid "Ryuuji「D-Don't be absurd! We were just on a＿date! And then you came on to me,＿telling me to kiss y...... Oh.」"
+msgstr "Ryuuji「¡N-No digas tonterías! ¡Solo estábamos＿en una cita! Y luego te me insinuaste,＿pidiendo que te bes...... Ah.」"
+
+msgid "Ami「......It really was one of THOSE dreams,＿then.」"
+msgstr "Ami「......Entonces sí fue＿uno de ESOS sueños.」"
+
+msgid "Ryuuji「Well, umm......」"
+msgstr "Ryuuji「Bueno, ehm......」"
+
+msgid "Ami「Christ, you men really do only think＿about one thing!」"
+msgstr "Ami「¡Cielos, ustedes los hombres sí＿que piensan en una sola cosa!」"
+
+msgid "Ryuuji「B-But I turned you down! We didn't＿kiss!」"
+msgstr "Ryuuji「¡P-Pero te rechacé! ¡No nos besamos!」"
+
+msgid "Ami「......What?」"
+msgstr "Ami「......¿Qué?」"
+
+msgid "Ryuuji「......What?」"
+msgstr "Ryuuji「......¿Qué?」"
+
+msgid "Ami「You rejected me in a dream.」"
+msgstr "Ami「Me rechazaste en un sueño.」"
+
+msgid "Ryuuji「Yeah......」"
+msgstr "Ryuuji「Sí......」"
+
+msgid "Ami「Why?」"
+msgstr "Ami「¿Por qué?」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Ami「It was a dream, right? You should've＿gone for it.」"
+msgstr "Ami「Era un sueño, ¿no? Deberías＿haber aprovechado.」"
+
+msgid "Ryuuji「I couldn't!」"
+msgstr "Ryuuji「¡No pude!」"
+
+msgid "Ami「Why not?」"
+msgstr "Ami「¿Por qué no?」"
+
+msgid "Ryuuji「......I just...... felt it wasn't right, I guess.」"
+msgstr "Ryuuji「......Solo...... sentí que＿no estaba bien, supongo.」"
+
+msgid "Ami「But the Ami-chan in your dream gave＿you her consent, didn't she?」"
+msgstr "Ami「Pero la Ami-chan de tu sueño te＿dio su consentimiento, ¿no?」"
+
+msgid "Ryuuji「Yeah, but like...... I got the feeling I＿really shouldn't.」"
+msgstr "Ryuuji「Sí, pero como que...... tuve la＿sensación de que de verdad no debía.」"
+
+msgid "Ami「Hmmm.」"
+msgstr "Ami「Mmmm.」"
+
+msgid "Ryuuji「（......Why am I making excuses?）」"
+msgstr "Ryuuji「（......¿Por qué estoy poniendo excusas?）」"
+
+msgid "Ami「Takasu-kun...」"
+msgstr "Ami「Takasu-kun...」"
+
+msgid "Ryuuji「What is it?」"
+msgstr "Ryuuji「¿Qué pasa?」"
+
+msgid "Ami「Let's go on a date.」"
+msgstr "Ami「Vamos a una cita.」"
+
+msgid "Ryuuji「Huh!?」"
+msgstr "Ryuuji「¡¿Eh?!」"
+
+msgid "Ryuuji「R-Retarded!? H-Hey, now who's being＿offensive!?」"
+msgstr "Ryuuji「¡¿I-Idiota?! O-Oye, ¡¿ahora quién＿está siendo ofensivo?!」"
+
+msgid "Ami「Like, are you delirious or something?＿Well, not like it matters.」"
+msgstr "Ami「O sea, ¿estás delirando o algo así?＿Bueno, tampoco es que importe.」"
+
+msgid "Ami「I hate being concerned, so I figure I＿can determine your sanity for myself＿on a date～ Mkay?」"
+msgstr "Ami「Odio quedarme preocupada, así que＿creo que comprobaré tu cordura por＿mí misma en una cita～ ¿Sí?」"
+
+msgid "Ami「The supremely cute Ami-chan said＿she's willing to go on a date with you,＿so you'll take her, right?」"
+msgstr "Ami「La supremamente linda Ami-chan dijo＿que acepta tener una cita contigo,＿así que la llevarás, ¿verdad?」"
+
+msgid "Ryuuji「Do you have time for that?」"
+msgstr "Ryuuji「¿Tienes tiempo para eso?」"
+
+msgid "Ami「Yeah. I should have time for just one＿date.」"
+msgstr "Ami「Sí. Debería tener tiempo＿para una sola cita.」"
+
+msgid "Ami「Now, let's go!」"
+msgstr "Ami「¡Ahora, vámonos!」"
+
+msgid "Ryuuji「H-Hey!!」"
+msgstr "Ryuuji「¡¡O-Oye!!」"
+
+msgid "Ami「Mm...... Yeah, this flavor really is＿nothing like vending machine tea.」"
+msgstr "Ami「Mmm...... Sí, este sabor de＿verdad no se compara al té＿de máquina expendedora.」"
+
+msgid "Ami「Say, Takasu-kun. Shall I feed you a bite＿of cake, all lovey-dovey?」"
+msgstr "Ami「Oye, Takasu-kun. ¿Te doy un bocado＿de pastel, así bien acaramelados?」"
+
+msgid "Ryuuji「Kawashima......」"
+msgstr "Ryuuji「Kawashima......」"
+
+msgid "Ami「What is it?」"
+msgstr "Ami「¿Qué pasa?」"
+
+msgid "Ryuuji「Umm...... Aren't we out of place here?」"
+msgstr "Ryuuji「Ehm...... ¿No estamos＿fuera de lugar aquí?」"
+
+msgid "Ami「Why do you ask? Isn't this typical for a＿date?」"
+msgstr "Ami「¿Por qué preguntas? ¿No es esto＿lo típico en una cita?」"
+
+msgid "Ryuuji「Typical......? Really?」"
+msgstr "Ryuuji「¿Típico......? ¿En serio?」"
+
+msgid "Ami「Oh, is this perhaps your first time on a＿date?」"
+msgstr "Ami「Oh, ¿acaso es tu primera＿vez en una cita?」"
+
+msgid "Ryuuji「......Well, excuuuse me.」"
+msgstr "Ryuuji「......Bueno, perdooón.」"
+
+msgid "Ami「......Fufu! Good for you! Your first-ever＿date is with a hottie like Ami-chan①」"
+msgstr "Ami「......¡Juju! ¡Qué suerte! Tu primera＿cita en la vida es con una belleza＿como Ami-chan①」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Ryuuji「（To think she'd bring me to such a＿stylish cafe...... I'm a little daunted......）」"
+msgstr "Ryuuji「（Pensar que me traería a un＿café tan elegante...... Me＿intimida un poco......）」"
+
+msgid "Ryuuji「（Does Kawashima always go on dates at＿places like this? What kind of guys＿does she take with her......?）」"
+msgstr "Ryuuji「（¿Kawashima siempre tiene citas＿en lugares así? ¿Con qué clase de＿chicos suele venir......?）」"
+
+msgid "Ryuuji「Hm?」"
+msgstr "Ryuuji「¿Mmm?」"
+
+msgid "Ryuuji「（Kawashima's teacup looks pretty＿expensive. And it's perfectly polished.＿Even the bottom is shiny.）」"
+msgstr "Ryuuji「（La taza de Kawashima se ve bastante＿cara. Y está perfectamente pulida.＿Hasta el fondo brilla.）」"
+
+msgid "Ryuuji「（Maybe the owner is just that＿talented...... No no, that's not it.）」"
+msgstr "Ryuuji「（Tal vez el dueño es así de＿talentoso...... No, no, no es eso.）」"
+
+msgid "Ryuuji「（......Kawashima's already finished her＿tea? But not her cake?）」"
+msgstr "Ryuuji「（......¿Kawashima ya se terminó＿el té? ¿Pero no su pastel?）」"
+
+msgid "Ami「What are you staring at? Are you＿perhaps trying to burn Ami-chan's＿cuteness into your very retinas?」"
+msgstr "Ami「¿Qué tanto miras? ¿Acaso intentas＿grabar la lindura de Ami-chan＿en tus propias retinas?」"
+
+msgid "Ryuuji「No...... Kawashima, you drink like a fish.」"
+msgstr "Ryuuji「No...... Kawashima, bebes muchísimo.」"
+
+msgid "Ami「Huh? Oh, really? I'm just thirsty,＿probably.」"
+msgstr "Ami「¿Eh? Ah, ¿sí? Solo tengo＿sed, seguramente.」"
+
+msgid "Ryuuji「Didn't you just have some black tea＿from the school vending machine?」"
+msgstr "Ryuuji「¿No acabas de tomar té negro de la＿máquina expendedora de la escuela?」"
+
+msgid "Ami「......What does it matter? Ami-chan likes＿black tea.」"
+msgstr "Ami「......¿Y qué importa? A Ami-chan＿le gusta el té negro.」"
+
+msgid "Ryuuji「（Be that as it may, normally, one would＿drink their tea while eating their＿cake......）」"
+msgstr "Ryuuji「（Sea como sea, normalmente uno toma su＿té mientras come el pastel......）」"
+
+msgid "Ryuuji「Is this...... your first time on a date, too?」"
+msgstr "Ryuuji「¿Acaso es...... tu primera cita también?」"
+
+msgid "Ami「..................」"
+msgstr "Ami「..................」"
+
+msgid "Ryuuji「Bingo......」"
+msgstr "Ryuuji「Bingo......」"
+
+msgid "Ryuuji「（Even Kawashima's out of her element＿in this cafe, huh......）」"
+msgstr "Ryuuji「（Hasta Kawashima está fuera de lugar＿en este café, ¿eh......?）」"
+
+msgid "Ryuuji「I get it, I get it.」"
+msgstr "Ryuuji「Ya entiendo, ya entiendo.」"
+
+msgid "Ami「Just what do you \"get\"......?」"
+msgstr "Ami「¿Qué se supone que \"entiendes\"......?」"
+
+msgid "Ryuuji「......After you finish your cake, let's head＿out. We don't need to be \"typical.\" Let's＿just find a place that suits us.」"
+msgstr "Ryuuji「......Cuando acabes tu pastel, vámonos.＿No hace falta ser \"típicos\". Busquemos＿un lugar que vaya con nosotros.」"
+
+msgid "Ami「So THIS is a place that suits us?」"
+msgstr "Ami「¿Así que ESTE es un lugar＿que va con nosotros?」"
+
+msgid "Ryuuji「Yeah! No need to try to seem fancy＿here, you know?」"
+msgstr "Ryuuji「¡Sí! Aquí no hace falta intentar＿verse sofisticados, ¿sabes?」"
+
+msgid "Ryuuji「......You wanna take pics of just the two＿of us?」"
+msgstr "Ryuuji「......¿Quieres tomarnos＿fotos los dos solos?」"
+
+msgid "Ami「You could use them as a good luck＿charm, right?」"
+msgstr "Ami「Podrías usarlas como amuleto＿de buena suerte, ¿verdad?」"
+
+msgid "Ryuuji「Don't talk about yourself like you're＿Buddha. Let's just play one of these＿arcade games.」"
+msgstr "Ryuuji「No hables de ti misma como si fueras＿Buda. Mejor juguemos una de estas＿máquinas recreativas.」"
+
+msgid "Ami「Excuse me!? Together!? Seriously!?＿Unbelievable!」"
+msgstr "Ami「¡¿Disculpa?! ¡¿Juntos?! ¡¿En＿serio?! ¡Increíble!」"
+
+msgid "Ryuuji「Since we're here, it wouldn't be nearly＿as fun to play alone, obviously.」"
+msgstr "Ryuuji「Ya que estamos aquí, no sería ni de＿cerca igual de divertido jugar solos.」"
+
+msgid "Ami「But I'm not much of a gamer.」"
+msgstr "Ami「Pero no soy muy buena en videojuegos.」"
+
+msgid "Ryuuji「Me either, so it's okay. For now, let's＿give that one a try. A racing game＿shouldn't be too complicated, right?」"
+msgstr "Ryuuji「Yo tampoco, así que no pasa nada. Por＿ahora probemos esa. Un juego de carreras＿no será complicado, ¿no?」"
+
+msgid "Ami「Wha-- Huh? How does this thing＿work!? Let's see, there's a steering＿wheel, a gas pedal and a brake pedal?」"
+msgstr "Ami「¿Qu-- Eh? ¡¿Cómo funciona esto?!＿A ver, hay un volante, un acelerador＿y ¿un pedal de freno?」"
+
+msgid "Ryuuji「Start!」"
+msgstr "Ryuuji「¡Arranca!」"
+
+msgid "Ami「What!? Hey!!」"
+msgstr "Ami「¡¿Qué?! ¡¡Oye!!」"
+
+msgid "Ami「Whoa, I crashed! Man, this goes pretty＿fast!!」"
+msgstr "Ami「¡Uah, choqué! ¡¡Vaya que＿esto va muy rápido!!」"
+
+msgid "Ryuuji「Oh man, Kawashima, is this really your＿first time!? You're a natural!」"
+msgstr "Ryuuji「¡Vaya, Kawashima! ¡¿De verdad es tu＿primera vez?! ¡Eres toda una experta!」"
+
+msgid "Ami「Fufu! I won't lose to you!」"
+msgstr "Ami「¡Juju! ¡No perderé contra ti!」"
+
+msgid "Ami「I'm gonna lap you!」"
+msgstr "Ami「¡Te voy a sacar una vuelta!」"
+
+msgid "Ryuuji「（Despite all her hemming and hawing,＿she's enjoying this.）」"
+msgstr "Ryuuji「（Con todo y lo que se quejaba,＿sí lo está disfrutando.）」"
+
+msgid "Ryuuji「（She can be condescending, poised＿with a distant expression, but she's＿still a teenager......）」"
+msgstr "Ryuuji「（Puede ser altiva y mostrarse serena＿y distante, pero sigue siendo una＿adolescente......）」"
+
+msgid "Ryuuji「Whoa! Taking the inside track!?」"
+msgstr "Ryuuji「¡Uah! ¡¿Tomando la curva por dentro?!」"
+
+msgid "Ami「Fufu! I got this, I got this!!」"
+msgstr "Ami「¡Juju! ¡¡Esto es mío, es mío!!」"
+
+msgid "Ryuuji「I ain't losing!!」"
+msgstr "Ryuuji「¡¡No pienso perder!!」"
+
+msgid "Ami「Let's finish this......!!」"
+msgstr "Ami「¡¡Terminemos con esto......!!」"
+
+msgid "Fan「Whoa there! Isn't that the model＿Kawashima Ami-chan?」"
+msgstr "Fan「¡Pero bueno! ¿Esa no es la modelo＿Kawashima Ami-chan?」"
+
+msgid "Ryuuji「Hm?」"
+msgstr "Ryuuji「¿Mmm?」"
+
+msgid "Ryuuji「（Who's this? That uniform...... Does he＿go to the rival high school?）」"
+msgstr "Ryuuji「（¿Quién es este? Ese uniforme......＿¿Va a la preparatoria rival?）」"
+
+msgid "Fan「It IS! No doubt about it! See, I'm a big＿fan of yours. I can't believe how lucky I＿am to meet you here!」"
+msgstr "Fan「¡SÍ ES! ¡Sin duda alguna! Verás, soy＿un gran fan tuyo. ¡No puedo creer la＿suerte de encontrarte aquí!」"
+
+msgid "Ami「............」"
+msgstr "Ami「............」"
+
+msgid "Fan「Wow, so you like to hang out at＿arcades? That's pretty unexpected～」"
+msgstr "Fan「Vaya, ¿así que te gusta pasar＿el rato en los salones recreativos?＿Qué inesperado～」"
+
+msgid "Ami「............Gotta ease off the gas here......」"
+msgstr "Ami「............Aquí hay que soltar＿el acelerador......」"
+
+msgid "Fan「Hey, you listening? I'm a fan! For reals!＿While we're at it, won't you take some＿pics in the photo booth with me?」"
+msgstr "Fan「Oye, ¿me escuchas? ¡Soy fan! ¡En serio!＿Ya que estamos, ¿no te tomas unas fotos＿conmigo en la cabina fotográfica?」"
+
+msgid "Ami「Takasu-kun, you're losing speed.」"
+msgstr "Ami「Takasu-kun, estás perdiendo velocidad.」"
+
+msgid "Ryuuji「O-Oh!」"
+msgstr "Ryuuji「¡A-Ah!」"
+
+msgid "Fan「Come on, Ami-chan!!」"
+msgstr "Fan「¡¡Anda, Ami-chan!!」"
+
+msgid "Fan「Ugh, you're seriously ignoring me?＿Oh...... Is that guy threatening you or＿something?」"
+msgstr "Fan「Agh, ¿en serio me estás ignorando?＿Ah...... ¿Ese tipo te está amenazando＿o algo así?」"
+
+msgid "Ryuuji「（Uh, me?）」"
+msgstr "Ryuuji「（Eh, ¿yo?）」"
+
+msgid "Fan「That guy looks like a gangster,＿Ami-chan. He doesn't suit you. I know!＿I'll call my buddies over.」"
+msgstr "Fan「Ese tipo parece un pandillero,＿Ami-chan. No te queda bien. ¡Ya＿sé! Llamaré a mis amigos.」"
+
+msgid "Fan「It'll be okay! Guys like him are all bark＿and no bite. And there's only one of＿him, so we'll rescue you! Don't worry!」"
+msgstr "Fan「¡Todo irá bien! Tipos como él solo＿ladran y no muerden. Y está solo, ¡así＿que te rescataremos! ¡No temas!」"
+
+msgid "Ryuuji「（What!? Wha-- How'd it come to this!?）」"
+msgstr "Ryuuji「（¡¿Qué?! ¡¿Q-Cómo llegamos a esto?!）」"
+
+msgid "Fan「I mean, geez, how could someone so＿ugly even think of asking you out? I＿feel for you, girl.」"
+msgstr "Fan「O sea, caray, ¿cómo a alguien tan feo＿se le ocurre invitarte a salir? Lo＿siento mucho por ti, linda.」"
+
+msgid "Ami「Excuse you......」"
+msgstr "Ami「Disculpa......」"
+
+msgid "Ami「Excuse me? Pics with you!? Keep＿dreaming!」"
+msgstr "Ami「¿Disculpa? ¡¿Fotos contigo?!＿¡Sigue soñando!」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Ami「Were you even listening to yourself?＿\"How could an ugly person ask me＿out?\" YOU'RE one to talk!」"
+msgstr "Ami「¿Siquiera te escuchaste? \"¿Cómo＿alguien feo puede invitarme a salir?\".＿¡MIRA QUIÉN HABLA!」"
+
+msgid "Ryuuji「H-Hey! Kawashima?」"
+msgstr "Ryuuji「¡O-Oye! ¿Kawashima?」"
+
+msgid "Ami「I'm having fun playing this game, so＿don't go interrupting me, you fucking＿EGGPLANT!」"
+msgstr "Ami「¡Me estoy divirtiendo jugando＿esto, así que no me interrumpas,＿maldita BERENJENA!」"
+
+msgid "Ryuuji「（He DOES look kinda eggplanty...... Wait,＿this isn't the time for that!）」"
+msgstr "Ryuuji「（SÍ que tiene cara de berenjena......＿¡Espera, no es momento para eso!）」"
+
+msgid "Ami「Just because he isn't responding＿doesn't mean you get to keep＿blabbering!」"
+msgstr "Ami「¡Que no te responda no significa que＿puedas seguir soltando tonterías!」"
+
+msgid "Fan「Huh? Uh, Ami-chan, what's the matter＿with you?」"
+msgstr "Fan「¿Eh? Eh, Ami-chan, ¿qué te pasa?」"
+
+msgid "Ami「Anyone would be hurt after having to＿go through THAT!!」"
+msgstr "Ami「¡¡Cualquiera saldría lastimado después＿de tener que pasar por ESO!!」"
+
+msgid "Ryuuji「Kawashima...... you......」"
+msgstr "Ryuuji「Kawashima...... tú......」"
+
+msgid "Ami「You DIPSHIT!!」"
+msgstr "Ami「¡¡IMBÉCIL!!」"
+
+msgid "Fan「..................」"
+msgstr "Fan「..................」"
+
+msgid "Ryuuji「K-Kawashima!!」"
+msgstr "Ryuuji「¡¡K-Kawashima!!」"
+
+msgid "Ryuuji「（Not good! He said his buddies are＿nearby!）」"
+msgstr "Ryuuji「（¡Qué mal! ¡Dijo que sus＿amigos están cerca!）」"
+
+msgid "Ryuuji「Let's get out of here!」"
+msgstr "Ryuuji「¡Salgamos de aquí!」"
+
+msgid "Ami「Huh?」"
+msgstr "Ami「¿Eh?」"
+
+msgid "Ryuuji「Let's just go!!」"
+msgstr "Ryuuji「¡¡Solo vámonos!!」"
+
+msgid "Ami「T-Takasu-kun, don't drag me! That＿hurts!」"
+msgstr "Ami「¡T-Takasu-kun, no me arrastres!＿¡Eso duele!」"
+
+msgid "Ryuuji「Just run!! Before you lose your＿willpower like before!!」"
+msgstr "Ryuuji「¡¡Solo corre!! ¡¡Antes de que te＿falte valor como aquella vez!!」"
+
+msgid "Ami「I, I'm losing it...... I was scared......」"
+msgstr "Ami「M-Me falta...... Tenía miedo......」"
+
+msgid "Ryuuji「W-Wait!! Just a little further!!」"
+msgstr "Ryuuji「¡¡E-Espera!! ¡¡Solo un poco más!!」"
+
+msgid "Ami「*Pant* *Pant* *Pant*......」"
+msgstr "Ami「*Jadeo* *Jadeo* *Jadeo*......」"
+
+msgid "Ryuuji「We...... We should be safe here......」"
+msgstr "Ryuuji「Ya...... Ya deberíamos estar＿a salvo aquí......」"
+
+msgid "Ami「Yeah......」"
+msgstr "Ami「Sí......」"
+
+msgid "Ryuuji「Kawashima...... Thanks.」"
+msgstr "Ryuuji「Kawashima...... Gracias.」"
+
+msgid "Ami「............」"
+msgstr "Ami「............」"
+
+msgid "Ryuuji「Thanks for standing up for me.」"
+msgstr "Ryuuji「Gracias por defenderme.」"
+
+msgid "Ami「No big deal...... I was sick of him, that's＿all.」"
+msgstr "Ami「No es gran cosa...... Me tenía＿harta, eso es todo.」"
+
+msgid "Ryuuji「But that was nuts...... Who knew you＿could blow up at someone like that?」"
+msgstr "Ryuuji「Pero eso fue una locura...... ¿Quién＿diría que podías explotar así?」"
+
+msgid "Ryuuji「I would've thought you'd just find some＿way to get rid of him while in＿model-mode.」"
+msgstr "Ryuuji「Habría pensado que buscarías＿la forma de quitártelo de encima＿en modo modelo.」"
+
+msgid "Ami「I know, right...... If only I'd gone with＿that, we wouldn't have had to run.」"
+msgstr "Ami「¿Verdad que sí......? Si hubiera hecho＿eso, no habríamos tenido que correr.」"
+
+msgid "Ami「But whatever. I feel a lot better after＿cussing him out. What a load off!」"
+msgstr "Ami「Pero da igual. Me siento mucho mejor＿tras maldecirlo. ¡Qué alivio me dio!」"
+
+msgid "Ryuuji「Haven't seen you attack someone like＿that since the stalker incident.」"
+msgstr "Ryuuji「No te veía atacar a alguien＿así desde lo del acosador.」"
+
+msgid "Ami「Oh yeah, that. This was the first time＿since then.」"
+msgstr "Ami「Ah, sí, eso. Esta fue la primera＿vez desde entonces.」"
+
+msgid "Ami「......I dunno. When I'm with you, I feel like＿it's okay to flat-out punch someone if I＿have to.」"
+msgstr "Ami「......No sé. Cuando estoy contigo,＿siento que está bien soltarle un golpe＿a alguien si hace falta.」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Ami「No matter how cursed I am, I feel like＿you'll be able to handle me just fine......」"
+msgstr "Ami「Por más maldita que sea, siento＿que tú podrás lidiar conmigo＿sin problemas......」"
+
+msgid "Ami「Haha...... Aww man, now I sound like＿Tiger. Not good.」"
+msgstr "Ami「Jaja...... Qué mal, ya hasta hablo＿como Tigre. Qué horror.」"
+
+msgid "Ryuuji「Meh, who cares?」"
+msgstr "Ryuuji「Bah, ¿qué más da?」"
+
+msgid "Ami「What?」"
+msgstr "Ami「¿Qué?」"
+
+msgid "Ryuuji「I feel better when you're yourself.」"
+msgstr "Ryuuji「Me siento mejor cuando eres tú misma.」"
+
+msgid "Ryuuji「Better than when you're in＿model-mode............ Oh.」"
+msgstr "Ryuuji「Mejor que cuando estás en modo＿modelo............ Ah.」"
+
+msgid "Ami「What's wrong?」"
+msgstr "Ami「¿Qué pasa?」"
+
+msgid "Ryuuji「I see...... I get it now.」"
+msgstr "Ryuuji「Ya veo...... Ahora lo entiendo.」"
+
+msgid "Ami「Get what?」"
+msgstr "Ami「¿Entender qué?」"
+
+msgid "Ryuuji「I get why I didn't...... uh, kiss you in my＿dream.」"
+msgstr "Ryuuji「Entiendo por qué no......＿eh, te besé en mi sueño.」"
+
+msgid "Ami「......Tell me.」"
+msgstr "Ami「......Dime.」"
+
+msgid "Ryuuji「In that dream, you felt somehow fake,＿like the content on that DVD. So...... I＿couldn't kiss you.」"
+msgstr "Ryuuji「En ese sueño parecías algo falsa,＿como lo de aquel DVD. Por eso......＿no pude besarte.」"
+
+msgid "Ryuuji「Because it wasn't the real you.」"
+msgstr "Ryuuji「Porque no eras la verdadera tú.」"
+
+msgid "Ami「The real me......?」"
+msgstr "Ami「¿La verdadera yo......?」"
+
+msgid "Ryuuji「Yeah.」"
+msgstr "Ryuuji「Sí.」"
+
+msgid "Ami「......Then what about now?」"
+msgstr "Ami「......Entonces, ¿qué hay de ahora?」"
+
+msgid "Ami「If I'm being myself, like right now, could＿you...... kiss me?」"
+msgstr "Ami「Si estoy siendo yo misma, como ahora,＿¿podrías...... besarme?」"
+
+msgid "Ryuuji「--!!」"
+msgstr "Ryuuji「--!!」"
+
+msgid "Ami「............Just kidding.」"
+msgstr "Ami「............Es broma.」"
+
+msgid "Ami「I wasn't serious. It was a joke. Just felt＿like saying it.」"
+msgstr "Ami「No hablaba en serio. Era una broma.＿Solo me dieron ganas de decirlo.」"
+
+msgid "Ami「For now, Ami-chan's satisfied just＿knowing why you didn't kiss me in your＿dream.」"
+msgstr "Ami「Por ahora, Ami-chan se conforma con＿saber por qué no la besaste en tu sueño.」"
+
+msgid "Ryuuji「（That reason...... Is this sympathy I'm＿feeling......?）」"
+msgstr "Ryuuji「（Ese motivo...... ¿Lo que siento＿es compasión......?）」"
+
+msgid "Ryuuji「（No, that's not it. This girl called＿Kawashima Ami......）」"
+msgstr "Ryuuji「（No, no es eso. Esta chica llamada＿Kawashima Ami......）」"
+
+msgid "Ryuuji「...Kawashima...」"
+msgstr "Ryuuji「...Kawashima...」"
+
+msgid "Ami「What......?」"
+msgstr "Ami「¿Qué......?」"
+
+msgid "Ryuuji「About that dream. I was with the fake＿you. However......」"
+msgstr "Ryuuji「Sobre ese sueño. Estaba con una versión＿falsa de ti. Sin embargo......」"
+
+msgid "Ryuuji「Right now, the \"Kawashima Ami\" I see＿before me is unmistakably the real＿deal.」"
+msgstr "Ryuuji「Ahora mismo, la \"Kawashima Ami\" que veo＿ante mí es, sin duda, la auténtica.」"
+
+msgid "Ami「So......?」"
+msgstr "Ami「¿Y entonces......?」"
+
+msgid "Ryuuji「So......」"
+msgstr "Ryuuji「Entonces......」"
+
+msgid "Ryuuji「And just like that, Kawashima was＿gone.」"
+msgstr "Ryuuji「Y así sin más, Kawashima＿se había marchado.」"
+
+msgid "Ryuuji「Leaving behind only the memories of＿the cold wind blowing across the river,＿and her warm lips--」"
+msgstr "Ryuuji「Dejando atrás solo el recuerdo del＿frío viento que soplaba sobre el＿río y sus cálidos labios--」"
+
+msgid "Ami「\"A single pebble falls into a peaceful＿lake.\"」"
+msgstr "Ami「\"Un solo guijarro cae en＿un lago tranquilo.\"」"
+
+msgid "Ami「\"The pebble thinks, 'I am a foreign＿entity in this peaceful lake. That much＿will never change.' \"」"
+msgstr "Ami「\"El guijarro piensa: 'Soy un elemento＿extraño en este lago tranquilo.＿Eso nunca cambiará'.\"」"
+
+msgid "Ami「\"However, the pebble learns that this＿'peaceful' lake sees rain, and the lake＿bottom is ever-changing.\"」"
+msgstr "Ami「\"Sin embargo, el guijarro aprende que＿en este lago 'tranquilo' llueve y que＿su fondo cambia sin cesar.\"」"
+
+msgid "Ami「\"And the lake felt much the same.\"」"
+msgstr "Ami「\"Y el lago sentía casi lo mismo.\"」"
+
+msgid "Ami「\"However, this was a new change. The＿lake learned that change is possible.\"」"
+msgstr "Ami「\"Sin embargo, este era un cambio＿nuevo. El lago aprendió que el＿cambio es posible.\"」"
+
+msgid "Ami「\"Yes -- the world never stops changing.＿Every element equally effects change.\"」"
+msgstr "Ami「\"Sí: el mundo nunca deja de cambiar.＿Todo elemento genera cambio por igual.\"」"
+
+msgid "Ami「\"Effects change,\" huh...... Isn't this a＿little too long for the opening lines of a＿drama?」"
+msgstr "Ami「\"Genera cambio\", ¿eh......? ¿No＿es esto un poco largo para las primeras＿líneas de un drama?」"
+
+msgid "Ami「Still, I guess everything turned out＿alright for me.」"
+msgstr "Ami「Aun así, supongo que todo＿me salió bien al final.」"
+
+msgid "Haruta「H-Huh? AMI-CHAN!?」"
+msgstr "Haruta「¿E-Eh? ¡¿AMI-CHAN?!」"
+
+msgid "Ami「Long time no see.」"
+msgstr "Ami「Cuánto tiempo.」"
+
+msgid "Haruta「WHAAAT!? Huh!? What are you doing＿here!?」"
+msgstr "Haruta「¡¿QUÉEE?! ¿Eh? ¡¿Qué estás＿haciendo aquí?!」"
+
+msgid "Ami「Fufu! You'll see.」"
+msgstr "Ami「¡Juju! Ya verás.」"
+
+msgid "Haruta「Whaaat～!? Seriously!?」"
+msgstr "Haruta「¡¿Quéee～?! ¡¿En serio?!」"
+
+msgid "Ami「H-Haruta-kun, if you shout like that......」"
+msgstr "Ami「H-Haruta-kun, si gritas así......」"
+
+msgid "Student♀「H-Hey! Haven't we seen that person＿somewhere?」"
+msgstr "Estudiante♀「¡O-Oye! ¿No hemos visto a esa＿persona en alguna parte?」"
+
+msgid "Student♀「Yeah...... Isn't she the lead in that new＿movie that's coming out?」"
+msgstr "Estudiante♀「Sí...... ¿No es la protagonista de esa＿nueva película que va a salir?」"
+
+msgid "Student♀「Then the rumor about the actress＿student at our school was TRUE!?」"
+msgstr "Estudiante♀「¡¿Entonces el rumor de la estudiante＿actriz en nuestra escuela era CIERTO?!」"
+
+msgid "Student♂「A-A-Ami-chan! It's Ami-chan!!」"
+msgstr "Estudiante♂「¡A-A-Ami-chan! ¡¡Es Ami-chan!!」"
+
+msgid "Student♂「There's no mistaking it!! It's Ami-chan!!」"
+msgstr "Estudiante♂「¡¡No hay error alguno!! ¡¡Es Ami-chan!!」"
+
+msgid "Student♂「The girl who suddenly disappeared at＿the start of this year! Our idol!!」"
+msgstr "Estudiante♂「¡La chica que desapareció de pronto al＿iniciar el año! ¡¡Nuestra ídolo!!」"
+
+msgid "Student♂「Ami-chaaan!!」"
+msgstr "Estudiante♂「¡¡Ami-chaaan!!」"
+
+msgid "Ami「Hi①」"
+msgstr "Ami「Hola①」"
+
+msgid "Student♂「Oh my god! She waved at me!!」"
+msgstr "Estudiante♂「¡Dios mío! ¡¡Me saludó a mí!!」"
+
+msgid "Student♂「Idiot, she was waving at ME!!」"
+msgstr "Estudiante♂「¡¡Idiota, me estaba saludando a MÍ!!」"
+
+msgid "Ami「*Sigh* Thought I'd have more time＿before this happened......」"
+msgstr "Ami「*Suspiro* Pensé que tendría más tiempo＿antes de que pasara esto......」"
+
+msgid "Ami「Well, see you around, Haruta-kun.」"
+msgstr "Ami「Bueno, nos vemos luego, Haruta-kun.」"
+
+msgid "Haruta「Huh? Y-Yeah, totally!!」"
+msgstr "Haruta「¿Eh? ¡¡S-Sí, claro!!」"
+
+msgid "Noto「WHAT!? If it isn't Ami-chan!! I-Is it really＿you!? Wow!!」"
+msgstr "Noto「¡¿QUÉ?! ¡¡Pero si es Ami-chan!! ¡¿D-De＿verdad eres tú?! ¡¡Guau!!」"
+
+msgid "Ami「Noto-kun, it's been a long time. How've＿you been?」"
+msgstr "Ami「Noto-kun, cuánto tiempo.＿¿Cómo has estado?」"
+
+msgid "Ami「The shoot wrapped up. So I \"came＿home,\" I guess.」"
+msgstr "Ami「Terminó el rodaje. Así que＿\"volví a casa\", supongo.」"
+
+msgid "Noto「You're back!?」"
+msgstr "Noto「¡¿Volviste?!」"
+
+msgid "Ami「Yes. Well, I've gotta run, so I'll be＿seeing you.」"
+msgstr "Ami「Sí. Bueno, tengo prisa,＿así que nos vemos.」"
+
+msgid "Noto「Okay, see ya!!」"
+msgstr "Noto「¡¡Está bien, nos vemos!!」"
+
+msgid "Ami「Once an outsider, always an outsider,＿or so I thought.」"
+msgstr "Ami「Una forastera siempre será＿forastera, o eso pensaba.」"
+
+msgid "Ami「However, after being away for so long,＿I realized something.」"
+msgstr "Ami「Sin embargo, tras estar lejos tanto＿tiempo, me di cuenta de algo.」"
+
+msgid "Ami「I thought nothing would change, that I＿wouldn't change. But actually I was＿changing a little.」"
+msgstr "Ami「Creí que nada cambiaría, que yo＿no cambiaría. Pero en realidad sí＿estaba cambiando un poco.」"
+
+msgid "Ami「And he's the one who made me see it.」"
+msgstr "Ami「Y él fue quien me lo hizo ver.」"
+
+msgid "Kihara「AAAHHH!! Ami-chan!!」"
+msgstr "Kihara「¡¡AAAHHH!! ¡¡Ami-chan!!」"
+
+msgid "Kashii「Huh? What's going on!?」"
+msgstr "Kashii「¿Eh? ¡¿Qué está pasando?!」"
+
+msgid "Ami「Eek～～～! Maya-chan, Nanako, long＿time no see!!」"
+msgstr "Ami「¡Iiiik～～～! ¡¡Maya-chan, Nanako,＿cuánto tiempo sin vernos!!」"
+
+msgid "Kashii「It really has been a long time!! It's been,＿what...... three months since you＿transferred?」"
+msgstr "Kashii「¡¡De verdad ha pasado mucho tiempo!!＿¿Ya van, qué...... tres meses desde＿que te transferiste?」"
+
+msgid "Kihara「You're too cruel, Ami-chan, suddenly＿transferring out like that! It was a＿HUUUGE shock, you know!」"
+msgstr "Kihara「¡Eres muy cruel, Ami-chan, por＿irte así de repente! ¡Fue un impacto＿ENOORME, ¿sabes?!」"
+
+msgid "Ami「Sorry I made you worry. But I'm back＿now.」"
+msgstr "Ami「Perdón por preocuparlas. Pero＿ya estoy de vuelta.」"
+
+msgid "Kihara「What? You mean it!?」"
+msgstr "Kihara「¿Qué? ¡¿Lo dices en serio?!」"
+
+msgid "Kashii「So you've transferred back in?」"
+msgstr "Kashii「¿Entonces regresaste a esta escuela?」"
+
+msgid "Ami「Yeah! I still wanna hang out with you＿two, you know!」"
+msgstr "Ami「¡Sí! ¡Todavía quiero pasar el rato＿con ustedes dos, ¿saben?!」"
+
+msgid "Kihara「Eee～! I'm SOOO happy!!」"
+msgstr "Kihara「¡Iii～! ¡¡Estoy TAAAN feliz!!」"
+
+msgid "Kashii「This is cause for celebration! How＿about we go to Sudoh-Bucks?」"
+msgstr "Kashii「¡Esto merece celebrarse! ¿Qué＿tal si vamos a Sudoh-Bucks?」"
+
+msgid "Ami「Oh, sorry. I have plans after this, so＿can I give you a rain check?」"
+msgstr "Ami「Ah, perdón. Tengo planes después de＿esto, ¿lo dejamos para otro día?」"
+
+msgid "Kihara「Okay. We can just see you at school＿now!」"
+msgstr "Kihara「Está bien. ¡Ahora podremos＿verte en la escuela!」"
+
+msgid "Kashii「Well then, see you soon, Ami-chan.」"
+msgstr "Kashii「Bueno, nos vemos pronto, Ami-chan.」"
+
+msgid "Ami「Bye.」"
+msgstr "Ami「Adiós.」"
+
+msgid "Ami「For the longest time, I thought this＿\"world\" was complete.」"
+msgstr "Ami「Durante muchísimo tiempo creí que＿este \"mundo\" ya estaba completo.」"
+
+msgid "Ami「But just as the world has an impact on＿me, I too have my own effect on the＿world.」"
+msgstr "Ami「Pero así como el mundo influye＿en mí, yo también tengo mi propio＿efecto en el mundo.」"
+
+msgid "Ami「With each introduction of a new＿\"foreign entity,\" the world is slowly＿changing.」"
+msgstr "Ami「Con la llegada de cada nuevo＿\"elemento extraño\", el mundo＿cambia poco a poco.」"
+
+msgid "Ryuuji「......Kawashima!?」"
+msgstr "Ryuuji「......¡¿Kawashima?!」"
+
+msgid "Ami「We meet again.」"
+msgstr "Ami「Nos volvemos a ver.」"
+
+msgid "Kitamura「Oh, you finally came! It was hard work＿to secretly gather everybody here.」"
+msgstr "Kitamura「¡Ah, por fin llegaste! Costó trabajo＿reunir a todos aquí en secreto.」"
+
+msgid "Ami「Thank you, Yuusaku.」"
+msgstr "Ami「Gracias, Yuusaku.」"
+
+msgid "Taiga「W-W-Wha!?」"
+msgstr "Taiga「¡¿Q-Q-Qué?!」"
+
+msgid "Minori「WOOOOW! Amin!? What's going on!?」"
+msgstr "Minori「¡GUAAAU! ¡¿Amin?! ¡¿Qué está pasando?!」"
+
+msgid "Ami「I'm home.」"
+msgstr "Ami「Ya volví.」"
+
+msgid "Minori「You're back!?」"
+msgstr "Minori「¡¿Regresaste?!」"
+
+msgid "Kitamura「You heard the woman. I hear you've＿got your next acting role lined up.＿Congratulations.」"
+msgstr "Kitamura「Ya la oyeron. Escuché que ya tienes＿listo tu siguiente papel como＿actriz. Felicidades.」"
+
+msgid "Ami「Thank you. We're only at the＿read-through stage, but I'm looking＿forward to it.」"
+msgstr "Ami「Gracias. Apenas estamos leyendo el＿guion, pero me hace mucha ilusión.」"
+
+msgid "Kitamura「You're a full-fledged actress now......＿Takasu, what's the matter?」"
+msgstr "Kitamura「Ya eres toda una actriz......＿Takasu, ¿qué te pasa?」"
+
+msgid "Ryuuji「Well......」"
+msgstr "Ryuuji「Bueno......」"
+
+msgid "Ami「Thinking about what happened＿between us before I left?」"
+msgstr "Ami「¿Pensando en lo que pasó entre nosotros＿antes de que me fuera?」"
+
+msgid "Ryuuji「Wha-- Y-You idiot!! What are you＿saying!?」"
+msgstr "Ryuuji「¿Qu-- ¡¡I-Idiota!! ¡¿Qué＿estás diciendo?!」"
+
+msgid "Ami「Well, it's the truth, isn't it?」"
+msgstr "Ami「Bueno, es la verdad, ¿no?」"
+
+msgid "Ryuuji「E-Even so--!」"
+msgstr "Ryuuji「¡A-Aun así--!」"
+
+msgid "Minori「Huh? What'sa matter?」"
+msgstr "Minori「¿Eh? ¿Qué ocurre?」"
+
+msgid "Ami「Fufu! Okay, let me make this clear for＿everyone.」"
+msgstr "Ami「¡Juju! Bien, déjenme＿aclarárselo a todos.」"
+
+msgid "Ryuuji「Hey!!」"
+msgstr "Ryuuji「¡¡Oye!!」"
+
+msgid "Ami「I came back to win over Ryuuji's heart.」"
+msgstr "Ami「Volví para conquistar el＿corazón de Ryuuji.」"
+
+msgid "Everyone「............」"
+msgstr "Todos「............」"
+
+msgid "Everyone「WHAAAT～～～!?」"
+msgstr "Todos「¡¿QUÉEE～～～?!」"
+
+msgid "Ryuuji「Y-Y-You--!」"
+msgstr "Ryuuji「¡T-T-Tú--!」"
+
+msgid "Ami「What is it, Ryuuji?」"
+msgstr "Ami「¿Qué pasa, Ryuuji?」"
+
+msgid "Minori「NOOOOO! Scandal!!」"
+msgstr "Minori「¡NOOOOO! ¡¡Escándalo!!」"
+
+msgid "Ami「Thank you, Yuusaku. But this is only＿the beginning.」"
+msgstr "Ami「Gracias, Yuusaku. Pero esto＿es solo el comienzo.」"
+
+msgid "Taiga「W-W-What!? Did you eat something＿weird while you were filming!?」"
+msgstr "Taiga「¡¿Q-Q-Qué?! ¡¿Comiste algo raro＿mientras estabas grabando?!」"
+
+msgid "Ami「Whaaat? I'm fine. I just finally＿understand now.」"
+msgstr "Ami「¿Quéee? Estoy bien. Es solo que＿por fin lo entiendo ahora.」"
+
+msgid "Ryuuji「U-Understand what!?」"
+msgstr "Ryuuji「¡¿E-Entender qué?!」"
+
+msgid "Ami「Hmm, the relationship between a lake＿and a pebble?」"
+msgstr "Ami「Mmm, ¿la relación entre＿un lago y un guijarro?」"
+
+msgid "Ryuuji「Huh!?」"
+msgstr "Ryuuji「¡¿Eh?!」"
+
+msgid "Ami「Now now, what's the hurry? I have＿plenty of time to show you①」"
+msgstr "Ami「Calma, calma, ¿qué prisa tienes? Tengo＿tiempo de sobra para mostrártelo①」"
+
+msgid "Ami「Here's to us, Ryuuji.」"
+msgstr "Ami「Por nosotros, Ryuuji.」"
+
+msgid "Ami「You showed me more than just your＿love, you know?」"
+msgstr "Ami「Me mostraste más que solo＿tu amor, ¿sabes?」"
+
+msgid "Ami「And so the outsider was welcomed in,＿an \"outsider\" no longer.」"
+msgstr "Ami「Y así la forastera fue bienvenida,＿y dejó de ser una \"forastera\".」"
+
+msgid "Ami「Let's have a nice long chat, Ryuuji.」"
+msgstr "Ami「Hablemos largo y tendido, Ryuuji.」"
+
+msgid "Yuri「Hello. First of all, perhaps I should＿thank you for your hard work,＿Takasu-kun.」"
+msgstr "Yuri「Hola. Antes que nada, quizá debería＿agradecerte por tu esfuerzo, Takasu-kun.」"
+
+msgid "Yuri「Now that you got this ending, the＿reason I brought you here......」"
+msgstr "Yuri「Ahora que llegaste a este final, la＿razón por la que te traje aquí......」"
+
+msgid "Yuri「......is none other than to discuss the＿route you chose. I thought we could＿ponder it together.」"
+msgstr "Yuri「......no es otra que hablar sobre la＿ruta que elegiste. Pensé que podríamos＿reflexionar juntos al respecto.」"
+
+msgid "Yuri「Well then, let's evaluate the ending you＿just saw.」"
+msgstr "Yuri「Bien, entonces evaluemos el＿final que acabas de ver.」"
+
+msgid "Yuri「Welcome, Takasu-kun.」"
+msgstr "Yuri「Bienvenido, Takasu-kun.」"
+
+msgid "Yuri「Well then, let's begin to evaluate the＿ending you just saw.」"
+msgstr "Yuri「Bien, comencemos a evaluar el＿final que acabas de ver.」"
+
+msgid "Yuri「Congratulations, Takasu-kun!＿Wonderful! You've snagged＿Kawashima-san's heart!」"
+msgstr "Yuri「¡Felicidades, Takasu-kun! ¡Maravilloso!＿¡Conquistaste el corazón de＿Kawashima-san!」"
+
+msgid "Yuri「I wish you both happiness from the＿bottom of my heart. Shall I be your＿wedding planner?」"
+msgstr "Yuri「Les deseo felicidad desde el＿fondo de mi corazón. ¿Me dejan＿organizarles la boda?」"
+
+msgid "Yuri「......I bet you're thinking \"Throw your＿own wedding first!\" You got me～＿Hahahahaha!」"
+msgstr "Yuri「......Apuesto a que piensas: \"¡Organiza＿primero tu propia boda!\". ¡Me diste～!＿¡Jajajajaja!」"
+
+msgid "Yuri「Okay, let's set aside the cheap laughs.」"
+msgstr "Yuri「Bien, dejemos a un lado＿las bromas baratas.」"
+
+msgid "Yuri「This ending is obviously worth the full＿100 points! Keep this level of effort＿going forward!」"
+msgstr "Yuri「¡Este final obviamente vale los＿100 puntos completos! ¡Sigue＿esforzándote a este mismo nivel!」"
+
+msgid "Yuri「Okay, that's all for today. Until next＿time!」"
+msgstr "Yuri「Bueno, eso es todo por hoy.＿¡Hasta la próxima!」"
+
+msgid "『Music』 is now available in 『Extra』"
+msgstr "『Música』 ya está disponible en 『Extra』"
+
+msgid "『Album』 is now available in 『Extra』"
+msgstr "『Álbum』 ya está disponible en 『Extra』"
+
+msgid "Ryuuji「At the test of courage...... I＿remembered something that freaked＿me out, and I ended up saying some」"
+msgstr "Ryuuji「En la prueba de valor...... recordé＿algo que me alteró mucho y terminé＿diciéndote algunas」"
+
+msgid "Ryuuji「things to you that crossed the line.」"
+msgstr "Ryuuji「cosas que cruzaron la línea.」"
+
+msgid "Ryuuji「Even though she rejected me, she's＿still been casual and friendly with me,＿so I think the rest of the problem is on」"
+msgstr "Ryuuji「Aunque me rechazó, sigue siendo cercana＿y amigable conmigo, así que creo que＿el resto del problema está de」"
+
+msgid "Ryuuji「my end.」"
+msgstr "Ryuuji「mi parte.」"
+
+msgid "Ami「Yeah. I never intended to come here in＿the first place. But on a whim I decided＿to have one last plain old vending」"
+msgstr "Ami「Sí. Ni pensaba venir aquí. Pero＿por capricho decidí tomar una última＿bebida común de máquina」"
+
+msgid "Ami「machine drink.」"
+msgstr "Ami「expendedora.」"
+
+msgid "Yuri「I'll come and see you every time you＿reach an ending.」"
+msgstr "Yuri「Vendré a verte cada vez＿que alcances un final.」"
+
+msgid "Yuri「I want you to reflect on the actions you＿made this time and keep them in mind＿for next time.」"
+msgstr "Yuri「Quiero que reflexiones sobre las＿decisiones que tomaste esta vez y las＿tengas en cuenta para la próxima.」"
+
+msgid "Ami「Look, I'm a little offended you'd reject a＿proposition from the ultra-cute＿Ami-chan. It's like, are you」"
+msgstr "Ami「Mira, me ofende un poco que rechaces＿una propuesta de la ultralinda Ami-chan.＿O sea, ¿acaso eres」"
+
+msgid "Ami「RETARDED?」"
+msgstr "Ami「IDIOTA?」"
+
+msgid "Ami「It's not my fault! Work always kept me＿so busy that I never had time for any!＿Besides, there aren't any guys that」"
+msgstr "Ami「¡No es mi culpa! ¡El trabajo siempre＿me tuvo tan ocupada que nunca tuve＿tiempo! Además, ¡no hay chicos que」"
+
+msgid "Ami「look good with Ami-chan!」"
+msgstr "Ami「se vean bien con Ami-chan!」"
+
+msgid "Ryuuji「（Wow, so this is what Kawashima's＿pouty face looks like...... I get the＿feeling that's another expression I've）」"
+msgstr "Ryuuji「（Vaya, así es como se ve la cara de＿puchero de Kawashima...... Tengo la＿sensación de que esa es otra expresión）」"
+
+msgid "Ryuuji「（never seen her make......）」"
+msgstr "Ryuuji「（que nunca le había visto hacer......）」"
+
+msgid "Ami「Be that as it may...... What, are you＿gonna win me a plushie or something?＿Or are we taking pictures in a photo」"
+msgstr "Ami「Sea como sea...... ¿Qué, vas a ganarme＿un peluche o algo así? ¿O nos vamos＿a tomar fotos en una cabina」"
+
+msgid "Ami「booth?」"
+msgstr "Ami「fotográfica?」"
+
+msgid "Ryuuji「（You're going to ignore him＿completely? You sure? He's a＿self-proclaimed fan, you know? Well,）」"
+msgstr "Ryuuji「（¿Vas a ignorarlo por completo? ¿Segura?＿Dice ser tu fan, ¿sabes? Bueno,）」"
+
+msgid "Ryuuji「（he does seem pretty obnoxious.）」"
+msgstr "Ryuuji「（la verdad sí parece bastante molesto.）」"
+
+msgid "Fan「What, what? Oh, are you scared? It'll＿be okay! Since he hasn't had a＿comeback for any of my jabs, he's all」"
+msgstr "Fan「¿Qué, qué? Ah, ¿tienes miedo?＿¡No pasa nada! Como no responde＿a mis pullas, él es pura」"
+
+msgid "Fan「show, guaranteed.」"
+msgstr "Fan「fachada, garantizado.」"
+
+msgid "Fan「Oh man, no need to thank me. I'm your＿fan, after all. If I can get some＿commemorative pics taken with you,」"
+msgstr "Fan「Vaya, no hace falta que me agradezcas.＿Soy tu fan, después de todo. Si logro＿tomarme fotos de recuerdo contigo,」"
+
+msgid "Fan「I'm all set.」"
+msgstr "Fan「con eso me doy por servido.」"
+
+msgid "Ami「Here you are, running your fucking＿mouth. You don't know this person.＿What gives you the right to say that」"
+msgstr "Ami「Aquí estás, abriendo tu maldita bocota.＿No conoces a esta persona. ¿Qué te＿da derecho a decir esa」"
+
+msgid "Ami「shit?」"
+msgstr "Ami「mierda?」"
+
+msgid "Ami「You think if they show no resistance＿it's the same as a green light? DO＿YOU!? Like I'd forgive you? Be sweet」"
+msgstr "Ami「¿Crees que si no pone resistencia es＿como tener luz verde? ¡¿EN SERIO?! ¿Como＿si fuera a perdonarte? ¿Ser linda」"
+
+msgid "Ami「to you? UNBELIEVABLE!」"
+msgstr "Ami「contigo? ¡INCREÍBLE!」"
+
+msgid "Ami「\"Leaving a ripple on the surface, the＿pebble quietly sinks to the lake＿bottom, and the lake once again」"
+msgstr "Ami「\"Dejando una onda en la superficie, el＿guijarro se hunde en silencio hasta el＿fondo del lago, y el lago otra vez」"
+
+msgid "Ami「becomes peaceful like nothing ever＿happened.\"」"
+msgstr "Ami「queda tranquilo como si＿nada hubiera pasado.\"」"
+
+msgid "Ami「\"It thought no one would visit beyond＿rain and wind, but then the pebble＿came. That ripple in the peaceful」"
+msgstr "Ami「\"Creyó que nadie llegaría más allá de la＿lluvia y el viento, pero el guijarro＿llegó. Esa onda en la superficie del」"
+
+msgid "Ami「lake's surface was a very small＿change.\"」"
+msgstr "Ami「lago tranquilo fue un＿cambio muy pequeño.\"」"
+
+msgid "Noto「Great, of course! But Ami-chan, why＿are you here? What about the movie?＿Didn't you transfer because of the film」"
+msgstr "Noto「¡Genial, claro! Pero Ami-chan, ¿por＿qué estás aquí? ¿Y la película? ¿No＿te transferiste por el」"
+
+msgid "Noto「shoot?」"
+msgstr "Noto「rodaje?」"
+
+msgid "Ami「Last time I was here, I thought of＿myself as a \"foreign entity\" -- not＿unlike the pebble from that script」"
+msgstr "Ami「La última vez que estuve aquí, me veía＿como un \"elemento extraño\", igual que＿el guijarro del monólogo de ese」"
+
+msgid "Ami「monologue.」"
+msgstr "Ami「guion.」"
+
+msgid "Ami「I was this \"outsider\" breaking into a＿completely established setting. I＿pretended to fit in with an exterior」"
+msgstr "Ami「Yo era esa \"forastera\" irrumpiendo＿en un entorno ya establecido. Fingía＿encajar con una fachada」"
+
+msgid "Ami「persona, but somehow I was still so＿distant from everyone.」"
+msgstr "Ami「exterior, pero aun así seguía＿muy distante de todos.」"
+
+msgid "Kitamura「S-So that's the situation...... Alright,＿leave it to me. As student council＿president, it is my duty to ensure your」"
+msgstr "Kitamura「A-Así es la situación...... Muy bien,＿déjamelo a mí. Como presidente del＿consejo estudiantil, debo velar por tu」"
+
+msgid "Kitamura「safety. I'll take care of the paparazzi at＿once!」"
+msgstr "Kitamura「seguridad. ¡Me encargaré de los＿paparazzi de inmediato!」"
+
+msgid "Ami「The \"world\" I thought to be so distant＿was surprisingly close at hand. And＿before I knew it, it became the place I」"
+msgstr "Ami「El \"mundo\" que creía tan lejano estaba＿sorprendentemente cerca. Y sin darme＿cuenta, se volvió el lugar al que」"
+
+msgid "Ami「called home.」"
+msgstr "Ami「llamaba hogar.」"
+
+msgid "Yuri「I'll come and see you every time you＿reach an ending.」"
+msgstr "Yuri「Vendré a verte cada vez＿que alcances un final.」"
+
+msgid "Yuri「I want you to reflect on the actions you＿made this time and keep them in mind＿for next time.」"
+msgstr "Yuri「Quiero que reflexiones sobre las＿decisiones que tomaste esta vez y las＿tengas en cuenta para la próxima.」"

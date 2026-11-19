@@ -1,0 +1,260 @@
+msgid ""
+msgstr ""
+
+msgid "Taiga「You're late! Where have you been＿wandering around all this time?」"
+msgstr "Taiga「¡Llegas tarde! ¿Por dónde has estado＿dando vueltas todo este tiempo?」"
+
+msgid "Ryuuji「It's not even dark yet. What, did you＿need me for something?」"
+msgstr "Ryuuji「Ni siquiera ha oscurecido aún.＿¿Qué, necesitabas algo de mí?」"
+
+msgid "Taiga「I'm here for dinner, obviously. You can＿cook again, right?」"
+msgstr "Taiga「Vine a cenar, obviamente. Ya puedes＿cocinar de nuevo, ¿verdad?」"
+
+msgid "Ryuuji「Oh, that's right, I should get dinner＿started...... What shall we have?」"
+msgstr "Ryuuji「Ah, es cierto, debería empezar a＿preparar la cena...... ¿Qué comemos?」"
+
+msgid "Taiga「......Since it's New Year's Eve, soba＿noodles?」"
+msgstr "Taiga「......Como es Nochevieja, ¿fideos soba?」"
+
+msgid "Ryuuji「Following tradition, huh...... We should＿have the ingredients. Alright, let's go＿with that.」"
+msgstr "Ryuuji「Siguiendo la tradición, eh......＿Deberíamos tener los ingredientes.＿Bien, hagamos eso.」"
+
+msgid "Ryuuji「（The other ingredients...... Oh, nameko＿mushrooms and radishes. We'll have＿mushroom soba!）」"
+msgstr "Ryuuji「（Los demás ingredientes......＿Ah, hongos nameko y rábanos. ¡Cenaremos＿soba de hongos!）」"
+
+msgid "Taiga「Ryuujiii～ I want tempura soba. And＿fried prawns on top!」"
+msgstr "Taiga「¡Ryuujiii～! Quiero soba con tempura.＿¡Y camarones fritos encima!」"
+
+msgid "Ryuuji「This isn't a restaurant. We're having＿mushroom soba tonight.」"
+msgstr "Ryuuji「Esto no es un restaurante. Hoy＿cenaremos soba de hongos.」"
+
+msgid "Taiga「Whaaaat～～?」"
+msgstr "Taiga「¿Quéééé～～?」"
+
+msgid "Ryuuji「If you have a problem with that, feel＿free not to eat it.」"
+msgstr "Ryuuji「Si tienes algún problema con eso,＿eres libre de no comerlo.」"
+
+msgid "Taiga「I'll eat it!」"
+msgstr "Taiga「¡Me lo comeré!」"
+
+msgid "Taiga「......But it would be way better if there＿was tempura on top.」"
+msgstr "Taiga「......Pero estaría mucho mejor＿si tuviera tempura encima.」"
+
+msgid "Ryuuji「Drop it.」"
+msgstr "Ryuuji「Déjalo ya.」"
+
+msgid "Host「Now, let's introduce the super-popular＿idol group, Thunder!」"
+msgstr "Presentador「¡Y ahora, les presentamos al＿superpopular grupo idol, Thunder!」"
+
+msgid "Taiga「Ugh. I hate them.」"
+msgstr "Taiga「Agh. Los odio.」"
+
+msgid "Ryuuji「Hey now, don't change the channel.」"
+msgstr "Ryuuji「Oye, no cambies de canal.」"
+
+msgid "Reporter「Good evening～! This New Year's Eve I＿have arrived at the bustling bridge＿shrine～!」"
+msgstr "Reportero「¡Buenas noches～! ¡Esta Nochevieja＿he llegado al concurrido santuario＿del puente～!」"
+
+msgid "Taiga「Oh, look! The shrine on TV, it's the one＿right up the street!」"
+msgstr "Taiga「¡Oh, mira! ¡El santuario de la tele＿es el que está subiendo la calle!」"
+
+msgid "Ryuuji「Now that you mention it, it does look＿familiar.」"
+msgstr "Ryuuji「Ahora que lo mencionas, sí＿que me resulta familiar.」"
+
+msgid "Reporter「Patrons have gathered one after＿another to celebrate Hatsumode～＿Everyone's in the New Year's spirit～!」"
+msgstr "Reportero「¡Los visitantes se reúnen uno tras otro＿para celebrar el Hatsumode～ Todos tienen＿el espíritu de Año Nuevo～!」"
+
+msgid "Ryuuji「Looks pretty crowded.」"
+msgstr "Ryuuji「Parece que hay mucha gente.」"
+
+msgid "Taiga「Hatsumode, huh......」"
+msgstr "Taiga「Hatsumode, eh......」"
+
+msgid "Taiga「Hey, if you went to celebrate＿Hatsumode, what would you wish for?」"
+msgstr "Taiga「Oye, si fueras a celebrar el＿Hatsumode, ¿qué pedirías?」"
+
+msgid "Ryuuji「I'd wish for all of my memories to＿return, of course.」"
+msgstr "Ryuuji「Pediría que volvieran todos mis＿recuerdos, por supuesto.」"
+
+msgid "Taiga「Of course you would. That was a silly＿thing to ask.」"
+msgstr "Taiga「Claro que sí. Qué pregunta＿más tonta hice.」"
+
+msgid "Ryuuji「What about you? What would you wish＿for?」"
+msgstr "Ryuuji「¿Y tú? ¿Qué es lo que pedirías?」"
+
+msgid "Taiga「Nothing, really.」"
+msgstr "Taiga「Nada, en realidad.」"
+
+msgid "Ryuuji「What? Don't wanna tell me?」"
+msgstr "Ryuuji「¿Qué? ¿No quieres decírmelo?」"
+
+msgid "Taiga「Then try and guess. If you're right, I'll＿tell you.」"
+msgstr "Taiga「Entonces intenta adivinar.＿Si aciertas, te lo digo.」"
+
+msgid "Ryuuji「（\"Try and guess,\" she says...... What＿would Taiga wish for?）」"
+msgstr "Ryuuji「（\"Intenta adivinar\", dice......＿¿Qué pediría Taiga?）」"
+
+msgid "Can't think of anything"
+msgstr "No se me ocurre nada"
+
+msgid "For bigger breasts"
+msgstr "Tener pechos más grandes"
+
+msgid "Not to be clumsy"
+msgstr "No ser torpe"
+
+msgid "Ryuuji「Not to be clumsy?」"
+msgstr "Ryuuji「¿No ser torpe?」"
+
+msgid "Taiga「Excuse you!? Why would I wish for＿that?!」"
+msgstr "Taiga「¡¿Cómo dices?! ¡¿Por qué pediría eso?!」"
+
+msgid "Ryuuji「It just sprang to mind. I remembered＿one of your clumsy-girl moments.」"
+msgstr "Ryuuji「Simplemente se me vino a la mente.＿Recordé una de tus torpezas.」"
+
+msgid "Taiga「Which one?」"
+msgstr "Taiga「¿Cuál?」"
+
+msgid "Ryuuji「One time, you spilled strawberry milk＿all over the inside of your locker at＿school, right?」"
+msgstr "Ryuuji「Una vez derramaste leche de fresa＿por todo el interior de tu casillero＿en la escuela, ¿verdad?」"
+
+msgid "Ryuuji「In that locker, a horrific milk-covered＿scene...... Mm, it was like a haven of＿gross, really.」"
+msgstr "Ryuuji「En ese casillero, una escena terrible＿cubierta de leche...... Mmm, era como＿un paraíso del asco, la verdad.」"
+
+msgid "Ryuuji「Yep yep. As thanks, you gave me a＿premium-brand towel. It was so soft on＿my skin......」"
+msgstr "Ryuuji「Sí, sí. Como agradecimiento, me diste＿una toalla de marca fina. Era tan＿suave en mi piel......」"
+
+msgid "Taiga「Quit grinning...... Sheesh, don't＿remember such pointless stuff.」"
+msgstr "Taiga「Deja de sonreír así...... Cielos,＿no recuerdes cosas tan inútiles.」"
+
+msgid "Ryuuji「Oh, so that really did happen.」"
+msgstr "Ryuuji「Ah, así que eso sí pasó de verdad.」"
+
+msgid "Taiga「That DID happen, but that isn't what＿I'd wish for.」"
+msgstr "Taiga「Eso SÍ pasó, pero no es＿lo que yo pediría.」"
+
+msgid "Ryuuji「Then what would you wish for?」"
+msgstr "Ryuuji「Entonces, ¿qué pedirías?」"
+
+msgid "Taiga「I'm not telling unless you guess it.」"
+msgstr "Taiga「No te lo diré a menos que adivines.」"
+
+msgid "Taiga「......But you managed to remember＿something, so as a reward, I'll take you＿to the shrine.」"
+msgstr "Taiga「......Pero lograste recordar＿algo, así que como premio, te＿llevaré al santuario.」"
+
+msgid "Ryuuji「Why is a national holiday my reward?」"
+msgstr "Ryuuji「¿Por qué mi premio es un día festivo?」"
+
+msgid "Taiga「Weren't you going to make your wish?＿For all your memories to return?」"
+msgstr "Taiga「¿No ibas a pedir tu deseo? ¿Que＿regresaran todos tus recuerdos?」"
+
+msgid "Ryuuji「Guess there's no harm in doing it.」"
+msgstr "Ryuuji「Supongo que no hace daño intentarlo.」"
+
+msgid "Taiga「So, like I said, I'll take you to celebrate＿Hatsumode.」"
+msgstr "Taiga「Así que, como dije, te llevaré＿a celebrar el Hatsumode.」"
+
+msgid "Ryuuji「I bet you just want to go, huh?」"
+msgstr "Ryuuji「Apuesto a que solo quieres ir, ¿eh?」"
+
+msgid "Taiga「Shut up! Are you going or not?」"
+msgstr "Taiga「¡Cállate! ¿Vas a ir o no?」"
+
+msgid "Ryuuji「Bingo.」"
+msgstr "Ryuuji「Bingo.」"
+
+msgid "Taiga「Shut up! Die! Go to hell!」"
+msgstr "Taiga「¡Cállate! ¡Muérete! ¡Vete al infierno!」"
+
+msgid "Ryuuji「I'll go, I'm going, so please take me with＿you.」"
+msgstr "Ryuuji「Voy, voy, así que por favor＿llévame contigo.」"
+
+msgid "Taiga「You should've said that from the start.＿Quick, finish your food and let's go.」"
+msgstr "Taiga「Debiste decir eso desde el principio.＿Rápido, termina de comer y vámonos.」"
+
+msgid "Ryuuji「No idea. Nothing's coming to mind.」"
+msgstr "Ryuuji「Ni idea. No se me ocurre nada.」"
+
+msgid "Taiga「What a boring mongrel～ The point of＿guessing is to GUESS, you know?」"
+msgstr "Taiga「Qué perro tan aburrido～ La gracia＿de adivinar es ADIVINAR, ¿sabes?」"
+
+msgid "Ryuuji「I can't even guess my own guess. So,＿what was the answer?」"
+msgstr "Ryuuji「Ni siquiera puedo hacer una suposición.＿Entonces, ¿cuál era la respuesta?」"
+
+msgid "Taiga「I'm not telling someone who won't even＿try to guess.」"
+msgstr "Taiga「No se lo digo a alguien que ni＿siquiera intenta adivinar.」"
+
+msgid "Taiga「......Thanks for the food. I'm going home.」"
+msgstr "Taiga「......Gracias por la comida. Me voy.」"
+
+msgid "Ryuuji「Going home already?」"
+msgstr "Ryuuji「¿Ya te vas a casa?」"
+
+msgid "Taiga「I only came for the food, so obviously＿I'd go home now that I'm full. Happy＿New Year, see ya.」"
+msgstr "Taiga「Solo vine por la comida, así que es＿obvio que me voy ahora que estoy llena.＿Feliz Año Nuevo, nos vemos.」"
+
+msgid "Ryuuji「O-Oh, you too.」"
+msgstr "Ryuuji「A-Ah, igualmente.」"
+
+msgid "Ryuuji「（I should take it easy on a day like＿this...... Since Yasuko's out, I guess I'm＿spending New Year's with Inko-chan......）」"
+msgstr "Ryuuji「（Debería tomármelo con calma un día como＿hoy...... Como Yasuko salió, pasaré Año＿Nuevo con Inko-chan......）」"
+
+msgid "Ryuuji「For bigger breasts?」"
+msgstr "Ryuuji「¿Tener pechos más grandes?」"
+
+msgid "Taiga「......Excuse me? W-W-What?! What did＿you say!?」"
+msgstr "Taiga「......¿Cómo dices? ¡¿Q-Q-Qué?!＿¡¿Qué dijiste?!」"
+
+msgid "Ryuuji「Aargh!」"
+msgstr "Ryuuji「¡Aaagh!」"
+
+msgid "Taiga「Why would I wish for THAT?! Are you＿STUPID!?」"
+msgstr "Taiga「¡¿Por qué pediría ESO?!＿¡¿Eres ESTÚPIDO?!」"
+
+msgid "Ryuuji「Taiga...... Don't punch me in the face......＿Thought my nose was broken for a＿moment there......」"
+msgstr "Ryuuji「Taiga...... No me des en la cara......＿Por un momento pensé que me habías＿roto la nariz......」"
+
+msgid "Taiga「Be quiet, Satan!」"
+msgstr "Taiga「¡Cállate, Satanás!」"
+
+msgid "Ryuuji「But...... You had me put chest pads in＿your swimsuit, right? So in other＿words......」"
+msgstr "Ryuuji「Pero...... Me hiciste poner relleno＿en tu traje de baño, ¿no? Así que,＿en otras palabras......」"
+
+msgid "Taiga「Don't bring that back up!　For god's＿sake, is your skull clogged up with＿filth!?」"
+msgstr "Taiga「¡No vuelvas a sacar eso! Por el＿amor de Dios, ¡¿tienes la cabeza＿llena de porquería?!」"
+
+msgid "Ryuuji「Sorry.」"
+msgstr "Ryuuji「Perdón.」"
+
+msgid "Taiga「Thanks for the food.」"
+msgstr "Taiga「Gracias por la comida.」"
+
+msgid "Ryuuji「You're done already? But there's still＿dessert.」"
+msgstr "Ryuuji「¿Ya terminaste? Pero todavía＿queda postre.」"
+
+msgid "Taiga「I've had enough.」"
+msgstr "Taiga「Ya comí suficiente.」"
+
+msgid "Ryuuji「Are you upset?」"
+msgstr "Ryuuji「¿Estás molesta?」"
+
+msgid "Taiga「Whatever!」"
+msgstr "Taiga「¡Como sea!」"
+
+msgid "Ryuuji「Hey, I'm really sorry.」"
+msgstr "Ryuuji「Oye, lo siento de verdad.」"
+
+msgid "Taiga「Leave me alone! Happy New Year, see＿ya!」"
+msgstr "Taiga「¡Déjame en paz! ¡Feliz＿Año Nuevo, nos vemos!」"
+
+msgid "Ryuuji「What was that about? She WAS＿upset......」"
+msgstr "Ryuuji「¿Y eso a qué vino? Sí que＿ESTABA molesta......」"
+
+msgid "Ryuuji「（Since Yasuko's out, I guess I'm＿spending New Year's with Inko-chan......）」"
+msgstr "Ryuuji「（Como Yasuko salió, supongo que pasaré＿Año Nuevo con Inko-chan......）」"
+
+msgid "Ryuuji「（I'd like to make it from scratch for this＿occasion, but I guess I'll have to＿compromise with premade broth......）」"
+msgstr "Ryuuji「（Me gustaría hacerlo desde cero esta＿vez, pero tendré que conformarme＿con caldo preparado......）」"
+
+msgid "Ryuuji「（Taiga's not the most patient.）」"
+msgstr "Ryuuji「（Taiga no tiene mucha paciencia.）」"

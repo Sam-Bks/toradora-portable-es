@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+
+msgid "Kitamura「Oh, Takasu! Early bird as always, I see.＿Admirable, admirable!」"
+msgstr "Kitamura「¡Oh, Takasu! Madrugador como siempre,＿por lo que veo. ¡Admirable, admirable!」"
+
+msgid "Ryuuji「Look in the mirror. Weren't YOU the＿first to get here?」"
+msgstr "Ryuuji「Mírate en el espejo. ¿No fuiste＿TÚ el primero en llegar aquí?」"
+
+msgid "Kitamura「I know we're having a test of courage,＿but it just wouldn't do to make the＿girls wait alone in the dark.」"
+msgstr "Kitamura「Sé que haremos una prueba de valor, pero＿no estaría bien hacer esperar a las＿chicas solas en la oscuridad.」"
+
+msgid "Ryuuji「Makes sense. I'd expect nothing less＿from you.」"
+msgstr "Ryuuji「Tiene sentido. No esperaba menos de ti.」"
+
+msgid "Kitamura「Aren't you here for the same reason?」"
+msgstr "Kitamura「¿No estás aquí por la misma razón?」"
+
+msgid "Ryuuji「I just happened to get here.」"
+msgstr "Ryuuji「Solo llegué aquí por casualidad.」"
+
+msgid "Kitamura「I see.」"
+msgstr "Kitamura「Ya veo.」"
+
+msgid "Ryuuji「Research? For what, student council?」"
+msgstr "Ryuuji「¿Investigando? ¿Para qué, para＿el consejo estudiantil?」"
+
+msgid "Kitamura「No, I was researching the haunted＿observatory.」"
+msgstr "Kitamura「No, estaba investigando el＿observatorio embrujado.」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Ryuuji「Sounds like what Sensei was saying......」"
+msgstr "Ryuuji「Suena a lo que decía Sensei......」"
+
+msgid "Kitamura「Yeah, it does......」"
+msgstr "Kitamura「Sí, así es......」"
+
+msgid "Ryuuji「......」"
+msgstr "Ryuuji「......」"
+
+msgid "Kitamura「......」"
+msgstr "Kitamura「......」"
+
+msgid "Ryuuji「No, there's no need for us to get all＿serious about this.」"
+msgstr "Ryuuji「No, no hace falta que nos pongamos＿tan serios con esto.」"
+
+msgid "Ryuuji「But that's nothing out of the ordinary,＿right? Wouldn't it be weird if it did?」"
+msgstr "Ryuuji「Pero eso no es nada fuera de lo común,＿¿verdad? ¿No sería raro si así fuera?」"
+
+msgid "Kitamura「I guess. But I thought if we figured out＿some kind of pattern to it, we'd get an＿idea of what it really is.」"
+msgstr "Kitamura「Supongo. Pero pensé que si lográbamos＿hallar algún patrón, nos haríamos una＿idea de lo que es en realidad.」"
+
+msgid "Ryuuji「What it really is? So you don't think it's＿a ghost?」"
+msgstr "Ryuuji「¿Lo que es en realidad? ¿Entonces＿no crees que sea un fantasma?」"
+
+msgid "Kitamura「I suppose it's possible it's a ghost.」"
+msgstr "Kitamura「Supongo que es posible＿que sea un fantasma.」"
+
+msgid "Kitamura「So I narrowed down the places where＿the most sightings occur, just in＿case......」"
+msgstr "Kitamura「Así que reduje la lista a los＿lugares con más avistamientos,＿por si acaso......」"
+
+msgid "Ryuuji「Really!?」"
+msgstr "Ryuuji「¡¿En serio?!」"
+
+msgid "Kitamura「Yeah. But I'm not telling just yet. It＿would spoil the fun if everyone knew in＿advance.」"
+msgstr "Kitamura「Sí. Pero aún no lo diré. Arruinaría＿la diversión si todos lo supieran＿de antemano.」"
+
+msgid "Ryuuji「Is it a ghost? Or is it some hoax?」"
+msgstr "Ryuuji「¿Es un fantasma? ¿O es algún engaño?」"
+
+msgid "Kitamura「Hmm, I wonder.」"
+msgstr "Kitamura「Mmm, me lo pregunto.」"
+
+msgid "Kitamura「By the way, Takasu, what did you bring＿in that bag?」"
+msgstr "Kitamura「Por cierto, Takasu, ¿qué＿trajiste en esa bolsa?」"
+
+msgid "Ryuuji「Oh, this? I figured it would be cold, so I＿brought hot oolong tea.」"
+msgstr "Ryuuji「¿Ah, esto? Supuse que haría frío, así＿que traje té oolong caliente.」"
+
+msgid "Kitamura「As always, you're prepared for＿anything. Certainly, wearing layers can＿only do so much in the way of warmth.」"
+msgstr "Kitamura「Como siempre, estás preparado para todo.＿Sin duda, abrigarse por capas solo＿calienta hasta cierto punto.」"
+
+msgid "Ryuuji「Oh, that reminds me. Kitamura, have＿you seen this lunchbox before?」"
+msgstr "Ryuuji「Ah, eso me recuerda. Kitamura, ¿has＿visto antes esta caja de almuerzo?」"
+
+msgid "Kitamura「Lunchbox?」"
+msgstr "Kitamura「¿Una caja de almuerzo?」"
+
+msgid "Ryuuji「I don't think it's one of ours. But it＿somehow ended up in my house.」"
+msgstr "Ryuuji「No creo que sea nuestra. Pero de＿algún modo terminó en mi casa.」"
+
+msgid "Kitamura「I...... I've seen this somewhere before.」"
+msgstr "Kitamura「Yo...... Ya he visto esto＿antes en algún lado.」"
+
+msgid "Ryuuji「Really?」"
+msgstr "Ryuuji「¿En serio?」"
+
+msgid "Kitamura「Yeah. Let's see, where was it......」"
+msgstr "Kitamura「Sí. Veamos, dónde fue......」"
+
+msgid "Kitamura「Oh! I remember! Isn't this Kushieda's＿lunchbox?」"
+msgstr "Kitamura「¡Oh! ¡Lo recuerdo! ¿No es esta la＿caja de almuerzo de Kushieda?」"
+
+msgid "Ryuuji「Kushieda's?」"
+msgstr "Ryuuji「¿De Kushieda?」"
+
+msgid "Ryuuji「..................Oh!」"
+msgstr "Ryuuji「..................¡Ah!」"
+
+msgid "Ryuuji「I remember! In the end, you and＿Kushieda had to leave because you＿had practice, right?」"
+msgstr "Ryuuji「¡Lo recuerdo! Al final, tú y Kushieda＿tuvieron que irse porque tenían＿práctica, ¿verdad?」"
+
+msgid "Kitamura「Yes! Precisely! Seems your memory is＿steadily returning. How delightful!」"
+msgstr "Kitamura「¡Sí! ¡Exacto! Parece que tu memoria＿regresa poco a poco. ¡Qué alegría!」"
+
+msgid "Ryuuji「......Yeah.」"
+msgstr "Ryuuji「......Sí.」"
+
+msgid "Kitamura「So how did you come by Kushieda's＿lunchbox?」"
+msgstr "Kitamura「¿Y cómo terminaste con la caja＿de almuerzo de Kushieda?」"
+
+msgid "Ryuuji「I think...... it was Taiga.」"
+msgstr "Ryuuji「Creo que...... fue Taiga.」"
+
+msgid "Kitamura「Aisaka? She left Kushieda's lunchbox＿in your house?」"
+msgstr "Kitamura「¿Aisaka? ¿Ella dejó la caja de almuerzo＿de Kushieda en tu casa?」"
+
+msgid "Ryuuji「Most likely......」"
+msgstr "Ryuuji「Lo más probable......」"
+
+msgid "Kitamura「Perhaps Aisaka got that lunchbox＿from Kushieda, but carelessly forgot it＿at your house.」"
+msgstr "Kitamura「Tal vez Aisaka recibió esa caja＿de Kushieda, pero por descuido＿la olvidó en tu casa.」"
+
+msgid "Kitamura「Ah, but this is all just conjecture. Why＿don't you ask her directly later?」"
+msgstr "Kitamura「Ah, pero todo esto son solo＿conjeturas. ¿Por qué no＿le preguntas directamente luego?」"
+
+msgid "Ryuuji「Yeah, I'll do that.」"
+msgstr "Ryuuji「Sí, haré eso.」"
+
+msgid "Kitamura「Look at the time! Let's get going to the＿rendezvous point. It'd be unwise to＿leave anyone waiting around alone.」"
+msgstr "Kitamura「¡Mira la hora! Vamos al punto de＿encuentro. No sería prudente dejar＿a nadie esperando solo.」"
+
+msgid "Ryuuji「Right!」"
+msgstr "Ryuuji「¡Claro!」"
+
+msgid "Kitamura「If I'd known you would get here early, I＿wouldn't have been in such a rush. But＿I ended up leaving halfway through my」"
+msgstr "Kitamura「De saber que vendrías temprano,＿no habría tenido tanta prisa.＿Pero dejé a medias mi」"
+
+msgid "Kitamura「research.」"
+msgstr "Kitamura「investigación.」"
+
+msgid "Kitamura「Through my personal network, I＿learned that the reports of ghost＿sightings first appeared at the start of」"
+msgstr "Kitamura「Gracias a mis contactos, supe que＿los reportes de avistamientos empezaron＿a aparecer al inicio del」"
+
+msgid "Kitamura「winter.」"
+msgstr "Kitamura「invierno.」"
+
+msgid "Kitamura「Most of the witnesses were young＿couples looking for somewhere they＿could be alone. All those who ventured」"
+msgstr "Kitamura「La mayoría de los testigos eran parejas＿jóvenes buscando un lugar donde estar a＿solas. Todos los que se aventuraron」"
+
+msgid "Kitamura「into the observatory claim to have＿seen it.」"
+msgstr "Kitamura「dentro del observatorio aseguran＿haberlo visto.」"
+
+msgid "Kitamura「You're right. Besides, the witness＿accounts all list different times. In any＿case, it would seem the ghost doesn't」"
+msgstr "Kitamura「Tienes razón. Además, los testimonios＿indican horas distintas. En cualquier＿caso, parece que el fantasma no」"
+
+msgid "Kitamura「appear at a set time of day.」"
+msgstr "Kitamura「aparece a una hora fija del día.」"
+
+msgid "Kitamura「This is everything I've learned. I really＿wanted to know if there was any＿dramatic event that took place at the」"
+msgstr "Kitamura「Esto es todo lo que averigüé.＿De verdad quería saber si＿hubo un suceso dramático al」"
+
+msgid "Kitamura「end of autumn, though......」"
+msgstr "Kitamura「final del otoño, aunque......」"
+
+msgid "Kitamura「Don't you remember? You know, that＿time near the start of our second year＿when you, me, Kushieda and Aisaka all」"
+msgstr "Kitamura「¿No recuerdas? Al inicio＿del segundo año, aquella vez＿que tú, yo, Kushieda y Aisaka」"
+
+msgid "Kitamura「had lunch together?」"
+msgstr "Kitamura「almorzamos juntos?」"
+
+msgid "Kitamura「Ostensibly, Kushieda made a boxed＿lunch for Aisaka, but when she went to＿return the lunchbox she carelessly」"
+msgstr "Kitamura「En apariencia, Kushieda le preparó un＿almuerzo a Aisaka, pero cuando fue a＿devolver la caja, por descuido」"
+
+msgid "Kitamura「forgot it at your house.」"
+msgstr "Kitamura「la olvidó en tu casa.」"
+
+msgid "Ryuuji「（Taiga probably left Kushieda's＿lunchbox at my house on purpose......＿So I could remember more about）」"
+msgstr "Ryuuji「（Seguramente Taiga dejó la caja de＿Kushieda en mi casa a propósito......＿Para que recordara más sobre）」"
+
+msgid "Ryuuji「（Kushieda.）」"
+msgstr "Ryuuji「（Kushieda.）」"

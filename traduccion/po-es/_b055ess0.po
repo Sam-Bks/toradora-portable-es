@@ -1,0 +1,479 @@
+msgid ""
+msgstr ""
+
+msgid "Kitamura「One, two, three...... Good, we're all here.＿Well then, that's it for today.」"
+msgstr "Kitamura「Uno, dos, tres...... Bien, ya estamos＿todos. Bueno, eso es todo por hoy.」"
+
+msgid "Kitamura「For inviting us out of the kindness of＿his heart, let's give a round of＿applause to Noto!」"
+msgstr "Kitamura「¡Por invitarnos con toda la＿amabilidad de su corazón, démosle＿un aplauso a Noto!」"
+
+msgid "Noto「Aww shucks～ Hahahaha......」"
+msgstr "Noto「Ay, no es nada～ Jajajaja......」"
+
+msgid "Kitamura「Alright, dismissed! Everyone, be safe＿on the way home.」"
+msgstr "Kitamura「¡Bien, pueden retirarse! Todos, tengan＿cuidado de camino a casa.」"
+
+msgid "Ryuuji「Okay.」"
+msgstr "Ryuuji「De acuerdo.」"
+
+msgid "Noto「Well, me and Haruta live in the＿opposite direction.」"
+msgstr "Noto「Bueno, Haruta y yo vivimos＿en la dirección opuesta.」"
+
+msgid "Ryuuji「Oh, really?」"
+msgstr "Ryuuji「Ah, ¿en serio?」"
+
+msgid "Haruta「Okie-doke, see ya at school～!」"
+msgstr "Haruta「¡Muy bien, nos vemos en la escuela～!」"
+
+msgid "Ryuuji「Okay. Take care.」"
+msgstr "Ryuuji「Bien. Cuídense.」"
+
+msgid "Kitamura「While we're at it, shall we have supper＿together?」"
+msgstr "Kitamura「Ya que estamos aquí, ¿cenamos juntos?」"
+
+msgid "Minori「Whoa, for real? Nice! I can get my buds＿at work to sneak us some free fries.」"
+msgstr "Minori「¡Uau! ¿En serio? ¡Genial! Puedo hacer＿que mis amigos del trabajo nos pasen＿unas papas fritas gratis.」"
+
+msgid "Taiga「......Count me in.」"
+msgstr "Taiga「......Cuenten conmigo.」"
+
+msgid "Ryuuji「（What, she's not coming over tonight＿either? At this rate, the leftovers in＿the fridge will never get eaten......）」"
+msgstr "Ryuuji「（¿Cómo, tampoco vendrá esta noche? A＿este paso, las sobras del refrigerador＿no se van a acabar nunca......）」"
+
+msgid "Minori「Takasu-kun? What about you?」"
+msgstr "Minori「¿Takasu-kun? ¿Y tú qué?」"
+
+msgid "Ryuuji「（......Oh?）」"
+msgstr "Ryuuji「（......¿Eh?）」"
+
+msgid "Ryuuji「（There it is again......）」"
+msgstr "Ryuuji「（Ahí está otra vez......）」"
+
+msgid "Ryuuji「（When I look at Kushieda, I'm happy, but＿it hurts......）」"
+msgstr "Ryuuji「（Cuando miro a Kushieda, soy＿feliz, pero me duele......）」"
+
+msgid "Ryuuji「（Do I still like Kushieda after all?）」"
+msgstr "Ryuuji「（¿Será que aún me gusta Kushieda?）」"
+
+msgid "Ryuuji「（What was that......?）」"
+msgstr "Ryuuji「（¿Qué fue eso......?）」"
+
+msgid "Ryuuji「（This feeling...... It's like when I first＿talked to Kushieda......）」"
+msgstr "Ryuuji「（Esta sensación...... Es como la primera＿vez que hablé con Kushieda......）」"
+
+msgid "Ryuuji「（I...... like Kushieda......?）」"
+msgstr "Ryuuji「（¿A mí...... me gusta Kushieda......?）」"
+
+msgid "Minori「What's wrong, Takasu-kun?」"
+msgstr "Minori「¿Qué pasa, Takasu-kun?」"
+
+msgid "Ryuuji「Uhh...... I'll grab a bite to eat with you.」"
+msgstr "Ryuuji「Ehm...... Iré a comer algo con ustedes.」"
+
+msgid "Ami「I don't mind either way. What do you＿guys think?」"
+msgstr "Ami「Me da igual de cualquier forma.＿¿Ustedes qué opinan?」"
+
+msgid "Kihara「Hmm～ I'm not sure.」"
+msgstr "Kihara「Mmm～ No estoy segura.」"
+
+msgid "Kashii「Maya, the look on your face says you＿want to go eat.」"
+msgstr "Kashii「Maya, tu cara dice que＿quieres ir a comer.」"
+
+msgid "Kihara「What!? Lies! Geez Nanako, what are＿you saying!?」"
+msgstr "Kihara「¡¿Qué?! ¡Mentiras! ¡Ay, Nanako,＿¿qué cosas dices?!」"
+
+msgid "Kashii「Hehehe.........」"
+msgstr "Kashii「Jejeje.........」"
+
+msgid "Ami「Yuusaku, these two want to come with＿you.」"
+msgstr "Ami「Yuusaku, ellas dos quieren ir contigo.」"
+
+msgid "Kitamura「Alright. Sensei, you'll be joining us too,＿won't you?」"
+msgstr "Kitamura「Bien. Sensei, usted también＿nos acompañará, ¿verdad?」"
+
+msgid "Yuri「Huh? I mean, that'd be great, but......＿are you sure?」"
+msgstr "Yuri「¿Eh? Digo, sería estupendo,＿pero...... ¿están seguros?」"
+
+msgid "Kitamura「Since we're all here, we may as well.」"
+msgstr "Kitamura「Ya que todos estamos aquí, aprovechemos.」"
+
+msgid "Yuri「Okay, I'll take you up on that kind offer.」"
+msgstr "Yuri「Bien, aceptaré esa amable invitación.」"
+
+msgid "Kitamura「Alright. Kushieda, can you find out if＿they have a table for 8 available?」"
+msgstr "Kitamura「Perfecto. Kushieda, ¿puedes averiguar si＿tienen una mesa para 8 disponible?」"
+
+msgid "Minori「Roger!」"
+msgstr "Minori「¡Entendido!」"
+
+msgid "Kitamura「Eating with Sensei like this reminds＿me of the end of the Culture Festival.」"
+msgstr "Kitamura「Comer así con Sensei me recuerda＿al final del Festival Cultural.」"
+
+msgid "Yuri「The whole class came and took over＿this diner.」"
+msgstr "Yuri「Toda la clase vino y se apoderó＿de este restaurante.」"
+
+msgid "Minori「The Culture Festival, huh? I wanna do＿a haunted house this year.」"
+msgstr "Minori「El Festival Cultural, ¿eh? Este año＿quiero hacer una casa embrujada.」"
+
+msgid "Kihara「Haha, Kushieda, are you still gonna＿bring that up～?」"
+msgstr "Kihara「Jaja, Kushieda, ¿todavía＿sigues con eso～?」"
+
+msgid "Kashii「You were quite frustrated, hmm?」"
+msgstr "Kashii「Te quedaste bastante frustrada, ¿eh?」"
+
+msgid "Ami「Why don't you start setting up in＿advance～?」"
+msgstr "Ami「¿Por qué no empiezas a prepararlo＿con anticipación～?」"
+
+msgid "Minori「Fufufu. I'll start rallying my supporters＿from the new class sometime in April.」"
+msgstr "Minori「Jujuju. Empezaré a reunir seguidores＿de la nueva clase por abril.」"
+
+msgid "Yuri「That reminds me...... Have you guys＿heard the story of the haunted＿observatory?」"
+msgstr "Yuri「Eso me recuerda...... ¿Ustedes＿han oído la historia del observatorio＿embrujado?」"
+
+msgid "Minori「Say WHAT!?」"
+msgstr "Minori「¡¿QUÉ DICE?!」"
+
+msgid "Kitamura「A haunted observatory? First I've＿heard of it. You mean the one on the＿outskirts of town?」"
+msgstr "Kitamura「¿Un observatorio embrujado? Nunca lo＿había oído. ¿Se refiere al que está＿a las afueras de la ciudad?」"
+
+msgid "Yuri「Yes, the one just past the Shinto＿shrine.」"
+msgstr "Yuri「Sí, el que está justo pasando＿el santuario sintoísta.」"
+
+msgid "Minori「Sensei, Sensei! Who was the-- How was＿the-- What happened!?! Blood!? Was＿there blood?!?」"
+msgstr "Minori「¡Sensei, Sensei! ¡¿Quién fue--＿Cómo fue-- Qué pasó!?! ¡¿Sangre?!＿¡¿Hubo sangre?!?」"
+
+msgid "Kitamura「Calm down, Kushieda. Sensei, please＿continue.」"
+msgstr "Kitamura「Cálmate, Kushieda. Sensei,＿por favor continúe.」"
+
+msgid "Kitamura「Have you seen it, Sensei?」"
+msgstr "Kitamura「¿Usted lo ha visto, Sensei?」"
+
+msgid "Yuri「I...... don't want to go there.」"
+msgstr "Yuri「Yo...... no quiero ir allá.」"
+
+msgid "Minori「D-Don't tell me -- you HAVE!?」"
+msgstr "Minori「N-No me diga -- ¡¿SÍ lo vio?!」"
+
+msgid "Yuri「......Yes...... I saw it......」"
+msgstr "Yuri「......Sí...... Lo vi......」"
+
+msgid "Minori「Eeeek......!」"
+msgstr "Minori「¡Aaah......!」"
+
+msgid "Minori「......And then......?」"
+msgstr "Minori「......¿Y luego......?」"
+
+msgid "Yuri「......Goddammit! He was at OUR special＿spot putting the moves on his new＿girl!!」"
+msgstr "Yuri「......¡Maldita sea! ¡Estaba en＿NUESTRO lugar especial coqueteando＿con su nueva chica!!」"
+
+msgid "Minori「Uhh...... Uh huh......」"
+msgstr "Minori「Eh...... Ajá......」"
+
+msgid "Kitamura「Sensei...... Would you like me to fetch＿you another drink?」"
+msgstr "Kitamura「Sensei...... ¿Quiere que＿le traiga otra bebida?」"
+
+msgid "Yuri「......It's fine, I'll get it myself.」"
+msgstr "Yuri「......Está bien, iré yo misma.」"
+
+msgid "Ami「It would seem we've struck a nerve.」"
+msgstr "Ami「Parece que tocamos una fibra sensible.」"
+
+msgid "Kihara「Guys can be so insensitive.」"
+msgstr "Kihara「Los chicos pueden ser tan insensibles.」"
+
+msgid "Kashii「But if she hadn't gone to their \"special＿spot,\" she wouldn't have been so hurt.」"
+msgstr "Kashii「Pero si no hubiera ido a su \"lugar＿especial\", no habría salido tan herida.」"
+
+msgid "Taiga「Wanna hold a test of courage?」"
+msgstr "Taiga「¿Quieren hacer una prueba de valor?」"
+
+msgid "Ryuuji「Huh? A test of courage?」"
+msgstr "Ryuuji「¿Eh? ¿Una prueba de valor?」"
+
+msgid "Minori「Taiga!! Nice!! That's a great idea!!＿When? When's it going down!?」"
+msgstr "Minori「¡¡Taiga!! ¡¡Genial!! ¡¡Gran idea!!＿¿Cuándo? ¡¿Cuándo será?!」"
+
+msgid "Taiga「Winter break's almost over, so how＿about tomorrow?」"
+msgstr "Taiga「Las vacaciones de invierno casi＿acaban, ¿qué tal mañana?」"
+
+msgid "Minori「Tomorrow? Okay! You can count on＿me!」"
+msgstr "Minori「¿Mañana? ¡Bien! ¡Cuenten conmigo!」"
+
+msgid "Ryuuji「（And what, exactly, are we counting on＿you for......?）」"
+msgstr "Ryuuji「（¿Y para qué, exactamente,＿contamos contigo......?）」"
+
+msgid "Kihara「What～? I'm gonna pass. I have plans＿tomorrow.」"
+msgstr "Kihara「¿Qué～? Paso. Tengo planes para mañana.」"
+
+msgid "Kashii「Yeah, I'm not really interested in such＿things.」"
+msgstr "Kashii「Sí, la verdad no me interesan＿esas cosas.」"
+
+msgid "Ami「Really? I think it sounds fun.」"
+msgstr "Ami「¿En serio? A mí me parece divertido.」"
+
+msgid "Kihara「Really? I never would have expected＿you to be into that kinda stuff,＿Ami-chan.」"
+msgstr "Kihara「¿De verdad? Nunca habría esperado＿que te gustara ese tipo de＿cosas, Ami-chan.」"
+
+msgid "Ami「Whaaat? Don't be sillyyy. It sounds fun,＿in a lot of ways①」"
+msgstr "Ami「¿Quéee? No seas tontaaa. Suena＿divertido, en muchos sentidos①」"
+
+msgid "Kitamura「A test of courage in the middle of＿winter...... Sounds good. Count me in.」"
+msgstr "Kitamura「Una prueba de valor＿en pleno invierno......＿Suena bien. Cuenten conmigo.」"
+
+msgid "Kihara「What? Maruo's going too? Hmm...... I＿really do have stuff to do tomorrow, so＿I gotta pass.」"
+msgstr "Kihara「¿Qué? ¿Maruo también va? Mmm......＿De verdad tengo cosas que hacer mañana,＿así que tengo que pasar.」"
+
+msgid "Kitamura「Yeah? What about you, Takasu?」"
+msgstr "Kitamura「¿Sí? ¿Y tú qué dices, Takasu?」"
+
+msgid "Ryuuji「Decisions, decisions......」"
+msgstr "Ryuuji「Qué dilema, qué dilema......」"
+
+msgid "Taiga「Ryuuji, you're gonna join in, right?＿Right?」"
+msgstr "Taiga「Ryuuji, vas a participar,＿¿verdad? ¿Verdad?」"
+
+msgid "Ryuuji「Y-Yeah.」"
+msgstr "Ryuuji「S-Sí.」"
+
+msgid "Kitamura「Alright. Then perhaps we'd better get＿in contact with Noto and Haruta as＿well.」"
+msgstr "Kitamura「Bien. Entonces quizá convenga avisar＿también a Noto y a Haruta.」"
+
+msgid "Yuri「Oh? What trip are you planning this＿time?」"
+msgstr "Yuri「¿Oh? ¿Qué salida están＿planeando esta vez?」"
+
+msgid "Kitamura「Uh...... Well...... A test of courage at the＿observatory............」"
+msgstr "Kitamura「Eh...... Bueno...... Una prueba de valor＿en el observatorio............」"
+
+msgid "Yuri「......Hmmm...... Really...... Wow.」"
+msgstr "Yuri「......Mmm...... En serio...... Vaya.」"
+
+msgid "Kitamura「Yeah...... I guess.」"
+msgstr "Kitamura「Sí...... Eso parece.」"
+
+msgid "Yuri「Wow, THAT observatory, huh......」"
+msgstr "Yuri「Vaya, ESE observatorio, ¿eh......?」"
+
+msgid "Ryuuji「（Sooo awkward......!）」"
+msgstr "Ryuuji「（¡Qué incómodooo......!）」"
+
+msgid "Kitamura「Oh, that's right! We must be going now!＿Let's all leave and then go home!!」"
+msgstr "Kitamura「¡Ah, es cierto! ¡Debemos irnos ya!＿¡¡Salgamos todos y vayámonos a casa!!」"
+
+msgid "Ryuuji「Y-Yeah, we're pretty much done eating.＿Let's go home!」"
+msgstr "Ryuuji「S-Sí, ya casi terminamos de＿comer. ¡Vámonos a casa!」"
+
+msgid "Ryuuji「Hey, Taiga. Why'd you suggest a test of＿courage?」"
+msgstr "Ryuuji「Oye, Taiga. ¿Por qué sugeriste＿una prueba de valor?」"
+
+msgid "Taiga「What? Don't you get it?」"
+msgstr "Taiga「¿Qué? ¿No lo captas?」"
+
+msgid "Ryuuji「You want to get to the bottom of the＿ghost mystery?」"
+msgstr "Ryuuji「¿Quieres llegar al fondo del＿misterio del fantasma?」"
+
+msgid "Taiga「No, that's not it! I'm doing this for you,＿DUH!」"
+msgstr "Taiga「¡No, no es eso! ¡Lo hago por ti, OBVIO!」"
+
+msgid "Ryuuji「For me?」"
+msgstr "Ryuuji「¿Por mí?」"
+
+msgid "Taiga「That's right. Weren't we just talking＿about getting you closer to Minorin in＿a group setting?」"
+msgstr "Taiga「Así es. ¿No estábamos hablando＿justo de acercarte a Minorin＿en una salida en grupo?」"
+
+msgid "Ryuuji「Is THAT why you did this?」"
+msgstr "Ryuuji「¿Por ESO hiciste esto?」"
+
+msgid "Taiga「Obviously. I knew Minorin would be＿completely on board for a test of＿courage.」"
+msgstr "Taiga「Obvio. Sabía que Minorin se apuntaría＿de inmediato a una prueba de valor.」"
+
+msgid "Ryuuji「Oh, I see......」"
+msgstr "Ryuuji「Ah, ya veo......」"
+
+msgid "Ryuuji「Taiga, about that......」"
+msgstr "Ryuuji「Taiga, sobre eso......」"
+
+msgid "Taiga「What? I don't want to hear you crying＿that you're too scared.」"
+msgstr "Taiga「¿Qué? No quiero oírte lloriquear＿que tienes demasiado miedo.」"
+
+msgid "Ryuuji「That's not it. Uhh...... Well, it's umm,＿about Kushieda.」"
+msgstr "Ryuuji「No es eso. Ehm...... Bueno,＿es sobre Kushieda.」"
+
+msgid "Ryuuji「I had, uh...... feelings...... for her. I＿remember that for sure.」"
+msgstr "Ryuuji「Tenía, eh...... sentimientos......＿por ella. Eso sí lo recuerdo＿con seguridad.」"
+
+msgid "Taiga「......What's that supposed to mean?」"
+msgstr "Taiga「......¿Qué se supone que significa eso?」"
+
+msgid "Ryuuji「Well, sometimes I DO get curious about＿her, but...... I can't determine whether I＿really like her, I guess......」"
+msgstr "Ryuuji「Bueno, a veces SÍ siento curiosidad por＿ella, pero...... no logro decidir si de＿verdad me gusta, supongo......」"
+
+msgid "Ryuuji「I'm not sure I'm okay with this＿uncertainty of mine.」"
+msgstr "Ryuuji「No estoy seguro de estar bien＿con esta incertidumbre mía.」"
+
+msgid "Taiga「......You didn't just \"like\" Minorin. You＿were serious about her. I can attest to＿that much.」"
+msgstr "Taiga「......No solo \"te gustaba\" Minorin.＿Ibas en serio con ella. De eso＿sí puedo dar fe.」"
+
+msgid "Ryuuji「Will I, though?」"
+msgstr "Ryuuji「¿Pero volveré a sentirlo?」"
+
+msgid "Taiga「Yes you will! Because Minorin really......!」"
+msgstr "Taiga「¡Claro que sí! Porque Minorin＿de verdad......!」"
+
+msgid "Ryuuji「She really what?」"
+msgstr "Ryuuji「¿De verdad qué?」"
+
+msgid "Taiga「It's nothing!! Listen. The bottom line is,＿you'd better do your damnedest＿tomorrow!!」"
+msgstr "Taiga「¡¡No es nada!! Escucha. ¡¡En＿resumen, más te vale esforzarte＿al máximo mañana!!」"
+
+msgid "Taiga「Have a good night!!」"
+msgstr "Taiga「¡¡Que tengas buenas noches!!」"
+
+msgid "Ryuuji「And she's gone......」"
+msgstr "Ryuuji「Y ya se fue......」"
+
+msgid "Ryuuji「..............................」"
+msgstr "Ryuuji「..............................」"
+
+msgid "Ryuuji「*Sneeze*」"
+msgstr "Ryuuji「*Estornudo*」"
+
+msgid "Ryuuji「（For now I'll go home and figure out＿what to do with those leftovers......）」"
+msgstr "Ryuuji「（Por ahora iré a casa y pensaré qué＿hacer con esas sobras......）」"
+
+msgid "Ryuuji「......Whew. A perfect meal, if I do say so＿myself. Be jealous, Taiga.」"
+msgstr "Ryuuji「......Uf. Una comida perfecta,＿aunque lo diga yo mismo. Muérete＿de envidia, Taiga.」"
+
+msgid "Ryuuji「（...But still, a test of courage in the＿middle of the freakin' winter...）」"
+msgstr "Ryuuji「（...Pero aun así, una prueba de valor＿en pleno maldito invierno...）」"
+
+msgid "Ryuuji「（Ghosts, huh...... Come to think of it,＿Kushieda mentioned them before......）」"
+msgstr "Ryuuji「（Fantasmas, ¿eh......? Ahora＿que lo pienso, Kushieda los＿mencionó antes......）」"
+
+msgid "Minori「Personally, I believe in ghosts.」"
+msgstr "Minori「Personalmente, creo en los fantasmas.」"
+
+msgid "Minori「But as it happens, I've never seen one.＿And I don't believe anyone who says＿they have.」"
+msgstr "Minori「Pero resulta que nunca he visto uno. Y＿no le creo a nadie que diga que sí.」"
+
+msgid "Minori「The same goes for--」"
+msgstr "Minori「Lo mismo pasa con--」"
+
+msgid "Minori「Because I can't \"see\" it.」"
+msgstr "Minori「Porque no puedo \"verlo\".」"
+
+msgid "Minori「Since I haven't seen any ghosts, I think＿to myself \"I'll never see them\" and give＿up......」"
+msgstr "Minori「Como no he visto ningún fantasma, pienso＿\"nunca los veré\" y me rindo......」"
+
+msgid "Ryuuji「（......I wonder how Kushieda feels about＿ghosts now?）」"
+msgstr "Ryuuji「（......¿Qué pensará Kushieda＿sobre los fantasmas ahora?）」"
+
+msgid "Minori「The same goes for--」"
+msgstr "Minori「Lo mismo pasa con--」"
+
+msgid "Ryuuji「（......）」"
+msgstr "Ryuuji「（......）」"
+
+msgid "Ryuuji「（That night I get the feeling we talked＿about something besides ghosts...... but＿what was it?）」"
+msgstr "Ryuuji「（Siento que esa noche hablamos＿de algo más aparte de fantasmas......＿pero ¿qué era?）」"
+
+msgid "Ryuuji「（Something more... important... Dammit!＿I can't remember!）」"
+msgstr "Ryuuji「（Algo más... importante... ¡Maldición!＿¡No puedo recordarlo!）」"
+
+msgid "Ryuuji「......Who's there?」"
+msgstr "Ryuuji「......¿Quién anda ahí?」"
+
+msgid "Ami「Good evening.」"
+msgstr "Ami「Buenas noches.」"
+
+msgid "Ryuuji「Oh, that's right, you're here for the＿DVD. I'll go get it. Be right back.」"
+msgstr "Ryuuji「Ah, es cierto, vienes por el DVD. Voy＿a buscarlo. Vuelvo enseguida.」"
+
+msgid "Ami「Okay.」"
+msgstr "Ami「Está bien.」"
+
+msgid "Ryuuji「Should be somewhere around...... Here＿it is!」"
+msgstr "Ryuuji「Debería estar por aquí...... ¡Aquí está!」"
+
+msgid "Ryuuji「Kawashima, this is the one, right?」"
+msgstr "Ryuuji「Kawashima, es este, ¿verdad?」"
+
+msgid "Ami「Yeah, that!! What a relief. Now to put＿an end to Ami-chan's dark past......」"
+msgstr "Ami「¡¡Sí, ese!! Qué alivio. Ahora a poner＿fin al oscuro pasado de Ami-chan......」"
+
+msgid "Ryuuji「Your friends went home already, so I＿thought you'd forgotten.」"
+msgstr "Ryuuji「Tus amigas ya se fueron a casa, así＿que pensé que lo habías olvidado.」"
+
+msgid "Ami「I didn't forget. I just had a little errand＿to run, that's all...... But how did you get＿this?」"
+msgstr "Ami「No lo olvidé. Solo tenía que hacer＿un encargo, eso es todo...... Pero＿¿cómo conseguiste esto?」"
+
+msgid "Ryuuji「I'm not too sure...... I feel like I've had it＿for a while now, but I couldn't tell you＿why.」"
+msgstr "Ryuuji「No estoy muy seguro...... Siento＿que lo tengo desde hace tiempo, pero＿no sabría decirte por qué.」"
+
+msgid "Ami「......Hmm. Oh well. Bye.」"
+msgstr "Ami「......Mmm. En fin. Adiós.」"
+
+msgid "Ryuuji「Bye.」"
+msgstr "Ryuuji「Adiós.」"
+
+msgid "Ryuuji「She's sure in a rush......」"
+msgstr "Ryuuji「Vaya que tiene prisa......」"
+
+msgid "Ryuuji「（Now then, time to do the dishes.）」"
+msgstr "Ryuuji「（Ahora sí, hora de lavar los platos.）」"
+
+msgid "Ryuuji「（It's not like I'll find the answer just by＿thinking about it......）」"
+msgstr "Ryuuji「（Tampoco encontraré la respuesta＿solo pensando en ello......）」"
+
+msgid "Ryuuji「Alright, it's dishes time!」"
+msgstr "Ryuuji「¡Bien, hora de lavar los platos!」"
+
+msgid "Ryuuji「Hmhmhm～......♪」"
+msgstr "Ryuuji「Mjmjm～......♪」"
+
+msgid "Ryuuji「（If I stay with Kushieda a little longer, I＿might be able to find the cause of this＿fuzzy feeling...... And I'll eat the）」"
+msgstr "Ryuuji「（Si sigo con Kushieda un poco más, quizá＿dé con la causa de esta sensación＿confusa...... Y me comeré las）」"
+
+msgid "Ryuuji「（leftovers myself later. Let's do this.）」"
+msgstr "Ryuuji「（sobras yo mismo más tarde. ¡Hagámoslo!）」"
+
+msgid "Yuri「Mm...... Apparently a friend of mine＿sees it quite often. It's...... some＿unidentified creature, standing on」"
+msgstr "Yuri「Mm...... Al parecer una amiga mía lo ve＿muy a menudo. Es...... una criatura no＿identificada, de pie sobre」"
+
+msgid "Yuri「ground that doesn't exist......」"
+msgstr "Yuri「suelo que no existe......」"
+
+msgid "Minori「Eeeeeek! I-Is it the guy who was so＿tormented by his debts that he hanged＿himself among the sakura trees!? Did」"
+msgstr "Minori「¡Aaaaah! ¡¿E-Es el tipo que estaba tan＿atormentado por sus deudas que se ahorcó＿entre los cerezos?! ¡¿Acaso」"
+
+msgid "Minori「they turn red from the BLOOOOOD!?!」"
+msgstr "Minori「se tiñeron de rojo por la SAAAANGRE!?!」"
+
+msgid "Yuri「One night, I was out for a stroll,＿enjoying the breeze alone...... I was＿heartbroken at the time...... Unable to」"
+msgstr "Yuri「Una noche paseaba a solas, disfrutando＿la brisa...... Tenía el corazón roto en＿ese entonces...... Incapaz de」"
+
+msgid "Yuri「forget a certain face...... Then......」"
+msgstr "Yuri「olvidar cierto rostro......＿Entonces......」"
+
+msgid "Taiga「Yeah. There's no way monsters＿actually exist, but with all the rumors,＿it makes you want to see for yourself,」"
+msgstr "Taiga「Sí. Es imposible que los monstruos＿existan de verdad, pero tantos rumores＿dan ganas de verlo en persona,」"
+
+msgid "Taiga「you know?」"
+msgstr "Taiga「¿sabes?」"
+
+msgid "Taiga「Good grief, what a completely useless＿dog you are. Listen. Tomorrow you had＿better figure out a way to bond with」"
+msgstr "Taiga「Por Dios, qué perro más inútil eres.＿Escucha. ¡Mañana más te vale encontrar＿la forma de acercarte a」"
+
+msgid "Taiga「Minorin while you're together! Got it!?」"
+msgstr "Taiga「Minorin mientras estén＿juntos! ¡¿Entendido?!」"
+
+msgid "Ryuuji「But you know, I don't know if it's＿because my memory's not perfect, but＿right now...... I'm not confident I still feel」"
+msgstr "Ryuuji「Sabes, no sé si será por mis lagunas de＿memoria, pero ahora mismo...... no estoy＿seguro de sentir por ella」"
+
+msgid "Ryuuji「for her the way I used to.」"
+msgstr "Ryuuji「lo mismo que antes.」"
+
+msgid "Taiga「I don't think feelings like that would＿just disappear. Even with your＿messed-up memory, I'm sure you'll fall」"
+msgstr "Taiga「No creo que sentimientos así＿desaparezcan sin más. Incluso con tu＿memoria hecha un lío, seguro volverás a」"
+
+msgid "Taiga「for her again.」"
+msgstr "Taiga「enamorarte de ella.」"

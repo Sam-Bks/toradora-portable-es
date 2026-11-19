@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+
+msgid "Taiga「Ryuu-Ryuuji!!」"
+msgstr "Taiga「¡¡Ryuu-Ryuuji!!」"
+
+msgid "Ryuuji「Ohh!? Hey, don't startle someone with＿a kitchen knife in his hand!」"
+msgstr "Ryuuji「¡¿Ehh?! ¡Oye, no asustes a alguien con＿un cuchillo de cocina en la mano!」"
+
+msgid "Taiga「Forget about that! Come over here!＿Hurry!」"
+msgstr "Taiga「¡Olvídate de eso! ¡Ven acá! ¡Rápido!」"
+
+msgid "Ryuuji「What is it? Breakfast won't be ready＿on time.」"
+msgstr "Ryuuji「¿Qué pasa? El desayuno no＿estará listo a tiempo.」"
+
+msgid "Taiga「Just hurry!」"
+msgstr "Taiga「¡Solo apúrate!」"
+
+msgid "Ryuuji「Jeez, what are you shouting about＿first thing in the morning?」"
+msgstr "Ryuuji「Cielos, ¿por qué gritas tan＿temprano por la mañana?」"
+
+msgid "Taiga「It's gone......」"
+msgstr "Taiga「No está......」"
+
+msgid "Ryuuji「What's......? Huh? Aaah!!」"
+msgstr "Ryuuji「¿Qué cosa......? ¿Eh? ¡¡Aaah!!」"
+
+msgid "Ryuuji「I-Inko-chan's cage is empty......!?」"
+msgstr "Ryuuji「¡¿L-La jaula de Inko-chan＿está vacía......?!」"
+
+msgid "Taiga「Just now, I caught a glimpse of it＿taking off.」"
+msgstr "Taiga「Justo ahora, alcancé a ver＿cuando salía volando.」"
+
+msgid "Ryuuji「W-Where could you have gone,＿Inko-chan......?」"
+msgstr "Ryuuji「¿A-A dónde pudiste haber＿ido, Inko-chan......?」"
+
+msgid "Taiga「It ran away from home, right?」"
+msgstr "Taiga「Se escapó de casa, ¿no?」"
+
+msgid "Ryuuji「That's not possible! I gently, carefully＿raised Inko-chan since it was a baby!」"
+msgstr "Ryuuji「¡Eso es imposible! ¡Cuidé y crié con＿cariño a Inko-chan desde que era bebé!」"
+
+msgid "Taiga「As if a bird's tiny brain could＿remember any of that.」"
+msgstr "Taiga「Como si el cerebro diminuto de un pájaro＿pudiera recordar algo de eso.」"
+
+msgid "Ryuuji「Wha......! B-But it's my Inko-chan!」"
+msgstr "Ryuuji「¡Qué......! ¡P-Pero es mi Inko-chan!」"
+
+msgid "Taiga「Yeah, yeah. But how could it have＿escaped, I wonder? It's not like it could＿open its own cage, right?」"
+msgstr "Taiga「Sí, sí. Pero me pregunto cómo pudo＿escaparse. Tampoco es que pudiera abrir＿su propia jaula, ¿verdad?」"
+
+msgid "Ryuuji「Don't tell me Yasuko left it open while＿she was drunk or something!?」"
+msgstr "Ryuuji「¡¿No me digas que Yasuko la dejó abierta＿estando borracha o algo así?!」"
+
+msgid "Taiga「Hmmm～ ......That IS the most likely＿possibility.」"
+msgstr "Taiga「Mmmm～ ......Eso SÍ es lo más probable.」"
+
+msgid "Ryuuji「Argh, I hope Inko-chan is safe...... At＿this rate, someone will find it and take＿it home...... Arrrgh!!」"
+msgstr "Ryuuji「Argh, ojalá Inko-chan esté bien...... Si＿sigue así, alguien lo encontrará y se lo＿llevará a casa...... ¡¡Arrrgh!!」"
+
+msgid "Taiga「With those looks, no one in their right＿mind would take it home. It's more＿likely to die in a ditch somewhere.」"
+msgstr "Taiga「Con esa pinta, nadie en su sano juicio＿se lo llevaría a casa. Es más probable＿que muera en alguna zanja.」"
+
+msgid "Ryuuji「Don't say that about my precious＿Inko-chan!」"
+msgstr "Ryuuji「¡No digas eso de mi querido Inko-chan!」"
+
+msgid "Taiga「Just chill out! Listen, Ryuuji, go out＿and look for Inko-chan right now. It＿might still be flying around here.」"
+msgstr "Taiga「¡Ya cálmate! Escucha, Ryuuji, sal a＿buscar a Inko-chan ahora mismo. Puede＿que siga volando por aquí.」"
+
+msgid "Ryuuji「Y-You're right. Yeah, I'll do that.」"
+msgstr "Ryuuji「T-Tienes razón. Sí, eso haré.」"
+
+msgid "Taiga「I'll try looking a few blocks down.」"
+msgstr "Taiga「Intentaré buscar unas cuadras más allá.」"
+
+msgid "Ryuuji「Oh, that'd be a big help.」"
+msgstr "Ryuuji「Ah, sería de gran ayuda.」"
+
+msgid "Taiga「If I find it, I'll call your cell phone. You＿should do the same.」"
+msgstr "Taiga「Si lo encuentro, te llamo al＿celular. Tú haz lo mismo.」"
+
+msgid "Ryuuji「Will do. Thanks, Taiga.」"
+msgstr "Ryuuji「Eso haré. Gracias, Taiga.」"
+
+msgid "Taiga「No worries. At this rate, if it's really＿lost forever, my conscience will never＿let me live it down. Later.」"
+msgstr "Taiga「No hay problema. Si de verdad se pierde＿para siempre, mi conciencia no me＿dejará en paz. Nos vemos.」"
+
+msgid "Ryuuji「（Inko-chan...... Please be safe!）」"
+msgstr "Ryuuji「（Inko-chan...... ¡Por favor,＿que estés bien!）」"
+
+msgid "Ryuuji「R-Right, okay...... Oh, but what about＿the plan for today......? Argh, what do I＿do?!」"
+msgstr "Ryuuji「C-Claro, está bien...... Ah, ¿y el plan＿de hoy......? ¡Argh! ¿Qué hago?」"
+
+msgid "Taiga「Cut that out already! Me and StuChi＿will figure something out. You should＿make finding Inko-chan your priority.」"
+msgstr "Taiga「¡Ya deja eso! StuChi y yo nos las＿arreglaremos. Tu prioridad ahora debe＿ser encontrar a Inko-chan.」"
+
+msgid "Ryuuji「T-Thanks, Taiga! You're a lifesaver!」"
+msgstr "Ryuuji「¡G-Gracias, Taiga! ¡Me salvas la vida!」"
+
+msgid "Taiga「I'll explain the situation to StuChi. We'll＿definitely find Inko-chan.」"
+msgstr "Taiga「Le explicaré la situación a StuChi.＿Seguro encontraremos a Inko-chan.」"
+
+msgid "Ryuuji「Yeah, no matter what!」"
+msgstr "Ryuuji「¡Sí, pase lo que pase!」"
+
+msgid "Ryuuji「（Inko-chan...... Please be safe!）」"
+msgstr "Ryuuji「（Inko-chan...... ¡Por favor,＿que estés bien!）」"

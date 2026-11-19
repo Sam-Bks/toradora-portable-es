@@ -1,0 +1,311 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「（The show has been over for a while＿now...... Where are Taiga and＿Kawashima......?）」"
+msgstr "Ryuuji「（La función terminó hace un buen＿rato...... ¿Dónde estarán Taiga＿y Kawashima......?）」"
+
+msgid "Taiga「Ryuuji!」"
+msgstr "Taiga「¡Ryuuji!」"
+
+msgid "Ryuuji「Oh, Taiga! What happened with＿Kitamura?」"
+msgstr "Ryuuji「¡Ah, Taiga! ¿Qué pasó con Kitamura?」"
+
+msgid "Taiga「He said he was going home...... He said＿to give you his regards.」"
+msgstr "Taiga「Dijo que se iba a casa...... Dijo＿que te enviaba saludos.」"
+
+msgid "Ryuuji「......Did you explain the plan to him?」"
+msgstr "Ryuuji「......¿Le explicaste el plan?」"
+
+msgid "Taiga「......Yeah.」"
+msgstr "Taiga「......Sí.」"
+
+msgid "Ryuuji「When?」"
+msgstr "Ryuuji「¿Cuándo?」"
+
+msgid "Taiga「Right after we entered the＿planetarium......」"
+msgstr "Taiga「Justo después de entrar＿al planetario......」"
+
+msgid "Ryuuji「Right after!? So that's why Kitamura＿headed over to Senpai and me.」"
+msgstr "Ryuuji「¡¿Justo después?! Con razón Kitamura se＿acercó adonde estábamos Senpai y yo.」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Taiga「Kitamura-kun had a really scary look in＿his eyes...... But he was so direct that I--」"
+msgstr "Taiga「Kitamura-kun tenía una mirada＿que daba mucho miedo...... Pero＿fue tan directo que yo--」"
+
+msgid "Ryuuji「I get it. You don't have to say any more.」"
+msgstr "Ryuuji「Entiendo. No hace falta que digas más.」"
+
+msgid "Taiga「......Maybe we were able to support＿Kitamura-kun after all?」"
+msgstr "Taiga「......¿Tal vez sí pudimos apoyar＿a Kitamura-kun después de todo?」"
+
+msgid "Ryuuji「Yeah, I think we were. Let's be happy＿for him.」"
+msgstr "Ryuuji「Sí, creo que sí. Alegrémonos por él.」"
+
+msgid "Taiga「Yeah......」"
+msgstr "Taiga「Sí......」"
+
+msgid "Ryuuji「So, how was it? This purportedly＿amazing planetarium. I left before I＿could watch any of it.」"
+msgstr "Ryuuji「Y bien, ¿qué tal estuvo? Ese planetario＿supuestamente increíble. Me fui antes＿de poder ver nada.」"
+
+msgid "Taiga「I...... didn't watch it.」"
+msgstr "Taiga「Yo...... no lo vi.」"
+
+msgid "Ryuuji「You didn't? Did you guys leave before＿it started, too?」"
+msgstr "Ryuuji「¿No? ¿Ustedes también se fueron＿antes de que empezara?」"
+
+msgid "Taiga「No, no. I fell asleep.」"
+msgstr "Taiga「No, no. Me quedé dormida.」"
+
+msgid "Ryuuji「You slept through it!?」"
+msgstr "Ryuuji「¡¿Te dormiste durante la función?!」"
+
+msgid "Ryuuji「......I hope you didn't drool all over that＿brand-new loveseat.」"
+msgstr "Ryuuji「......Espero que no hayas babeado＿ese sofá doble nuevo.」"
+
+msgid "Taiga「It's okay, I wiped it up.」"
+msgstr "Taiga「Tranquilo, lo limpié.」"
+
+msgid "Ryuuji「With what?」"
+msgstr "Ryuuji「¿Con qué?」"
+
+msgid "Taiga「With my skirt.」"
+msgstr "Taiga「Con mi falda.」"
+
+msgid "Ryuuji「You-- little-- SHIT!!」"
+msgstr "Ryuuji「¡¡Eres una-- maldita-- COCHINA!!」"
+
+msgid "Taiga「S-Shut up! What about you, huh? What＿happened after you and Kanou Sumire＿took off?」"
+msgstr "Taiga「¡C-Cállate! ¿Y qué hay de ti, eh?＿¿Qué pasó después de que Kanou＿Sumire y tú se largaron?」"
+
+msgid "Ryuuji「W-Well......」"
+msgstr "Ryuuji「B-Bueno......」"
+
+msgid "Ryuuji「（There's no way I'm telling her Senpai＿was straddling me......）」"
+msgstr "Ryuuji「（Ni loco le voy a decir que Senpai＿estuvo a horcajadas sobre mí......）」"
+
+msgid "Ryuuji「......We went to her house and had a＿discussion.」"
+msgstr "Ryuuji「......Fuimos a su casa＿y tuvimos una charla.」"
+
+msgid "Taiga「You're talking like peanut butter's＿stuck to the roof of your mouth. Kinda＿fishy.」"
+msgstr "Taiga「Hablas como si tuvieras mantequilla＿de maní pegada en el paladar.＿Qué sospechoso.」"
+
+msgid "Ryuuji「We settled things peacefully. The＿result was vastly different from our＿original plan, though.」"
+msgstr "Ryuuji「Arreglamos las cosas en paz. Aunque＿el resultado fue muy distinto a＿nuestro plan original.」"
+
+msgid "Taiga「......Huh.」"
+msgstr "Taiga「......Ajá.」"
+
+msgid "Ryuuji「What happened to Kawashima?」"
+msgstr "Ryuuji「¿Qué pasó con Kawashima?」"
+
+msgid "Taiga「That's what I'd like to know. Neither＿you nor StuChi were answering your＿cell phones.」"
+msgstr "Taiga「Eso quisiera saber yo. Ni tú ni StuChi＿contestaban el teléfono.」"
+
+msgid "Loudspeaker「If you are listening to this＿announcement, please contact the＿nearest staff member. I repeat......」"
+msgstr "Altavoz「Si está escuchando este anuncio,＿por favor comuníquese con el personal＿más cercano. Repito......」"
+
+msgid "Taiga「StuChi's the missing person, not us.」"
+msgstr "Taiga「La persona perdida es＿StuChi, no nosotros.」"
+
+msgid "Ryuuji「*Sigh*...... Let's just go.」"
+msgstr "Ryuuji「*Suspiro*...... Vámonos ya.」"
+
+msgid "Ami「YOU GUYS! What the hell have you＿DONE, you MORONS!?」"
+msgstr "Ami「¡OIGAN, USTEDES! ¡¿Qué demonios＿han HECHO, PAR DE IDIOTAS?!」"
+
+msgid "Taiga「StuChi, I wouldn't get too upset if I＿were you. Unless you want more＿wrinkles. Ohhh noooo.」"
+msgstr "Taiga「StuChi, yo no me alteraría tanto＿si fuera tú. A menos que quieras＿más arrugas. Ohhh, noooo.」"
+
+msgid "Ryuuji「Calm down, Kawashima. It was our＿fault. Now let's just go home, okay?」"
+msgstr "Ryuuji「Cálmate, Kawashima. Fue culpa nuestra.＿Vámonos ya a casa, ¿sí?」"
+
+msgid "Ami「Don't wanna. Ami-chan's too tired and＿can't move.」"
+msgstr "Ami「No quiero. Ami-chan está muy＿cansada y no puede moverse.」"
+
+msgid "Ryuuji「What have you being doing until now?＿It seems we weren't able to contact＿you for a while.」"
+msgstr "Ryuuji「¿Qué estuviste haciendo hasta ahora?＿Parece que no pudimos comunicarnos＿contigo durante un buen rato.」"
+
+msgid "Ami「Rrrrrnnngggghh!! Just remembering it＿pisses me OFF!!」"
+msgstr "Ami「¡¡Grrrrrnnnngggghh!! ¡¡Solo recordarlo＿me saca de QUICIO!!」"
+
+msgid "Ryuuji「Oh!?」"
+msgstr "Ryuuji「¡¿Eh?!」"
+
+msgid "Ami「I thought if I stuck close to them, I'd＿surely find Takasu-kun bringing Miss＿Bossy back! BUT I NEVER DID!!」"
+msgstr "Ami「Pensé que si no les perdía el rastro,＿¡vería a Takasu-kun trayendo de vuelta＿a la Mandona! ¡¡PERO NUNCA PASÓ!!」"
+
+msgid "Ryuuji「S-Sorry......」"
+msgstr "Ryuuji「P-Perdón......」"
+
+msgid "Taiga「Yikes～」"
+msgstr "Taiga「Uy～」"
+
+msgid "Ryuuji「T-There's more?」"
+msgstr "Ryuuji「¿H-Hay más?」"
+
+msgid "Ami「In the brief moment of aching pain＿from slipping in it, a crow shit on me＿three times!!」"
+msgstr "Ami「¡¡En el breve instante de dolor＿agudo por resbalarme en eso, un＿cuervo me cagó tres veces!!」"
+
+msgid "Ami「FUCK MY LIFE!!!!」"
+msgstr "Ami「¡¡¡¡QUÉ VIDA DE MIERDA!!!!」"
+
+msgid "Ryuuji「I feel so, so bad for you......」"
+msgstr "Ryuuji「Lo siento mucho, mucho por ti......」"
+
+msgid "Taiga「Sounds like some primo secondhand＿misfortune......」"
+msgstr "Taiga「Suena a una mala suerte＿ajena de primera......」"
+
+msgid "Both「............」"
+msgstr "Ambos「............」"
+
+msgid "Ami「W-What?」"
+msgstr "Ami「¿Q-Qué?」"
+
+msgid "Ami「Why? You're giving up? Y-You're＿abandoning Yuusaku? Takasu-kun,＿you're horrible, HORRIBLE～」"
+msgstr "Ami「¿Por qué? ¿Te rindes? ¿V-Vas a＿abandonar a Yuusaku? Takasu-kun,＿eres horrible, HORRIBLE～」"
+
+msgid "Ryuuji「That's not it. I'm saying, no matter how＿many times we retry, the paths they've＿chosen won't change.」"
+msgstr "Ryuuji「No es eso. Digo que, sin importar＿cuántas veces lo intentemos, el camino＿que eligieron no va a cambiar.」"
+
+msgid "Ami「............」"
+msgstr "Ami「............」"
+
+msgid "Ami「W-What? Talking like a know-it-all＿makes me feel bad.」"
+msgstr "Ami「¿Q-Qué? Que hables como un sabelotodo＿me hace sentir mal.」"
+
+msgid "Ami「Even I...... I know it's not something we＿can redo, but......」"
+msgstr "Ami「Hasta yo...... sé que no es algo＿que podamos rehacer, pero......」"
+
+msgid "Taiga「............」"
+msgstr "Taiga「............」"
+
+msgid "Ryuuji「Kawashima......?」"
+msgstr "Ryuuji「¿Kawashima......?」"
+
+msgid "Ami「I'm going home.」"
+msgstr "Ami「Me voy a casa.」"
+
+msgid "Ryuuji「Hey!」"
+msgstr "Ryuuji「¡Oye!」"
+
+msgid "Ami「Don't follow me!!」"
+msgstr "Ami「¡¡No me sigas!!」"
+
+msgid "Ryuuji「She's gone...... Maybe I fucked up......＿She really put her heart into this plan,＿after all.」"
+msgstr "Ryuuji「Se fue...... Quizá la cagué......＿Después de todo, de verdad puso＿el corazón en este plan.」"
+
+msgid "Taiga「Yeah.」"
+msgstr "Taiga「Sí.」"
+
+msgid "Ryuuji「She actually cares a lot about her＿friends......」"
+msgstr "Ryuuji「En realidad se preocupa mucho＿por sus amigos......」"
+
+msgid "Taiga「No way. StuChi's not that kind of＿person.」"
+msgstr "Taiga「Para nada. StuChi no es＿esa clase de persona.」"
+
+msgid "Ryuuji「Then what do you think?」"
+msgstr "Ryuuji「Entonces, ¿tú qué piensas?」"
+
+msgid "Taiga「She wanted to think she could get a＿second chance for herself, right? But＿you shot her down.」"
+msgstr "Taiga「Quería creer que podía tener una segunda＿oportunidad para ella, ¿no? Pero tú＿le quitaste la ilusión.」"
+
+msgid "Ryuuji「A second chance? With who? To do＿what?」"
+msgstr "Ryuuji「¿Una segunda oportunidad? ¿Con＿quién? ¿Para hacer qué?」"
+
+msgid "Taiga「Who knows? Only StuChi could say for＿sure. I wouldn't know.」"
+msgstr "Taiga「¿Quién sabe? Solo StuChi podría saberlo＿con certeza. Yo no tengo idea.」"
+
+msgid "Ryuuji「......?」"
+msgstr "Ryuuji「¿......?」"
+
+msgid "Taiga「We should head home soon. I'm＿starving. What's for dinner?」"
+msgstr "Taiga「Deberíamos irnos ya a casa. Me muero＿de hambre. ¿Qué habrá de cenar?」"
+
+msgid "Ryuuji「Oh, I haven't decided yet. Guess I'll＿decide after I go grocery shopping.」"
+msgstr "Ryuuji「Ah, aún no lo decido. Supongo que lo＿decidiré después de hacer las compras.」"
+
+msgid "Taiga「I won't make excuses, but...... As soon＿as we sat down, I got the third degree＿from Kitamura-kun. He was like, \"What」"
+msgstr "Taiga「No pondré excusas, pero......＿Al sentarnos, Kitamura-kun＿me interrogó. Me dijo: \"¿Qué」"
+
+msgid "Taiga「are you plotting with Takasu?\"」"
+msgstr "Taiga「tramas con Takasu?\"」"
+
+msgid "Taiga「But after Kitamura-kun came back＿from talking with Kanou Sumire, he＿said, \"Thanks to you guys, I was able to」"
+msgstr "Taiga「Pero cuando Kitamura-kun volvió＿de hablar con Kanou Sumire, dijo:＿\"Gracias a ustedes, pude」"
+
+msgid "Taiga「sort out my feelings for the better.\"」"
+msgstr "Taiga「aclarar mis sentimientos para bien\".」"
+
+msgid "Taiga「Well, it was dark in there! And it＿smelled good, and the seats were soft!＿Once I carried out my part of the plan,」"
+msgstr "Taiga「¡Bueno, estaba oscuro ahí dentro! ¡Y＿olía bien, y los asientos eran suaves!＿Cuando cumplí mi parte del plan,」"
+
+msgid "Taiga「I was just so relieved and exhausted!」"
+msgstr "Taiga「¡sentí tanto alivio y cansancio!」"
+
+msgid "Ryuuji「You couldn't get a hold of her? That's＿weird. But I did get a call from＿someone right as I was leaving the」"
+msgstr "Ryuuji「¿No pudiste contactarla? Qué＿raro. Pero sí recibí una llamada＿de alguien justo al salir del」"
+
+msgid "Ryuuji「planetarium.」"
+msgstr "Ryuuji「planetario.」"
+
+msgid "Loudspeaker「Reporting from the Lost and Found＿Center: Takasu Ryuuji-kun, Aisaka＿Taiga-chan, your guardian Kawashima」"
+msgstr "Altavoz「Aviso de Objetos Perdidos: Takasu＿Ryuuji-kun, Aisaka Taiga-chan,＿su tutora Kawashima」"
+
+msgid "Loudspeaker「Ami-san is looking for you.」"
+msgstr "Altavoz「Ami-san los está buscando.」"
+
+msgid "Ami「Shut it, BIRDBRAIN!! Our plans went to＿hell because all of a sudden YOU＿weren't following the script anymore,」"
+msgstr "Ami「¡¡Cállate, CEREBRO DE PÁJARO!! ¡El＿plan se fue al diablo porque de＿pronto TÚ dejaste de seguir el guion,」"
+
+msgid "Ami「you ULTRA-MIDGET!!」"
+msgstr "Ami「pedazo de ULTRA-ENANA!!」"
+
+msgid "Ami「You and the harpy disappeared, and＿Tiger was still asleep next to Yuusaku＿by the time the show had ended, so」"
+msgstr "Ami「Tú y la arpía desaparecieron, y Tigre＿seguía dormida junto a Yuusaku cuando＿terminó la función, así que」"
+
+msgid "Ami「Ami-chan had to follow Kota and＿Sakura!」"
+msgstr "Ami「¡Ami-chan tuvo que seguir＿a Kota y a Sakura!」"
+
+msgid "Ami「And then THEY got on the fuckin'＿ferris wheel, all lovey-dovey! When I＿darted after them through the crowd,」"
+msgstr "Ami「¡Y ELLOS subieron a la maldita rueda＿de la fortuna, bien melosos! Cuando＿corrí tras ellos entre la multitud,」"
+
+msgid "Ami「some weird old man mistook me for a＿slut!」"
+msgstr "Ami「¡un viejo raro me confundió＿con una cualquiera!」"
+
+msgid "Ami「\"Ami-chan's a good girl, ASSHOLE～!\" I＿thought to myself, but after＿apologizing sweetly, that old man」"
+msgstr "Ami「\"¡Ami-chan es una buena chica,＿IMBÉCIL～!\", pensé, pero después de＿disculparme con dulzura, ¡ese viejo」"
+
+msgid "Ami「FOLLOWED me instead! And THEN--!」"
+msgstr "Ami「se puso a SEGUIRME! ¡¡Y ENTONCES--!!」"
+
+msgid "Ami「Bitchtits was like \"I want ice cream＿before we go home～①\" so Misfortune＿Incarnate: Deredere Mode left to buy」"
+msgstr "Ami「La maldita tetona dijo \"Quiero helado＿antes de ir a casa～①\", así que Desgracia＿Encarnada: Modo Deredere fue a comprar」"
+
+msgid "Ami「her some, and then I stepped in a big＿glob of it!!」"
+msgstr "Ami「helado para ella, ¡¡y entonces pisé＿un enorme pegote de eso!!」"
+
+msgid "Ami「Pissed off, I took out my cell phone to＿call up fuckin' Tiger. Then the crow＿took off with Ami-chan's bedazzled」"
+msgstr "Ami「Furiosa, saqué mi teléfono para llamar＿a la maldita Tigre. ¡Entonces el cuervo＿se llevó volando el」"
+
+msgid "Ami「phone!」"
+msgstr "Ami「teléfono con brillos de Ami-chan!」"
+
+msgid "Ami「When I hurried after it, it SHIT right＿into my face, and while I was raging＿about it, Tittyfat and her boytoy WENT」"
+msgstr "Ami「Cuando corrí tras él, me CAGÓ justo en＿la cara, y mientras yo rabiaba por eso,＿¡¡la gorda tetona y su juguetito」"
+
+msgid "Ami「HOME!!」"
+msgstr "Ami「SE FUERON A CASA!!」"
+
+msgid "Ami「Takasu-kun! TIGER! We're going home＿and rethinking our strategy!＿Ami-chan's Operation Venus is FAR」"
+msgstr "Ami「¡Takasu-kun! ¡TIGRE! ¡A casa a＿replantear la estrategia! ¡La＿Operación Venus de Ami-chan está MUY」"
+
+msgid "Ami「from over!」"
+msgstr "Ami「lejos de terminar!」"
+
+msgid "Ryuuji「No, let's quit while we're ahead. We＿don't need to do anything else for＿Kitamura, Kanou-senpai, or their」"
+msgstr "Ryuuji「No, mejor dejémoslo así. Ya no＿hace falta hacer nada más por＿Kitamura, Kanou-senpai ni por su」"
+
+msgid "Ryuuji「relationship.」"
+msgstr "Ryuuji「relación.」"

@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+
+msgid "Minori「......!」"
+msgstr "Minori「......!」"
+
+msgid "Ryuuji「Don't run away!」"
+msgstr "Ryuuji「¡No huyas!」"
+
+msgid "Minori「As if I could! ......Sorry, please give me a＿second......!」"
+msgstr "Minori「¡Como si pudiera! ......¡Perdón, dame＿un segundo, por favor......!」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Minori「Goddamn it, WHY!? Why did this have＿to happen......!?」"
+msgstr "Minori「¡Maldición! ¿POR QUÉ? ¿Por qué＿tuvo que pasar esto......!?」"
+
+msgid "Minori「......Sorry. I'm really sorry...... I didn't＿intend to...... I didn't mean to start＿crying.」"
+msgstr "Minori「......Perdón. De verdad perdón......＿No quería...... No era mi intención＿ponerme a llorar.」"
+
+msgid "Ryuuji「It's fine.」"
+msgstr "Ryuuji「Está bien.」"
+
+msgid "Minori「I...... really, really do put Taiga first...... If＿I could, I'd always be there for her......＿But I know that's impossible.」"
+msgstr "Minori「Yo...... de verdad pongo primero a＿Taiga...... Si pudiera, estaría siempre＿ahí...... Pero sé que es imposible.」"
+
+msgid "Ryuuji「Don't worry about me.」"
+msgstr "Ryuuji「No te preocupes por mí.」"
+
+msgid "Minori「In the end, I guess I was just running＿away...... Sorry. I'm sorry, Takasu-kun......」"
+msgstr "Minori「Al final, supongo que solo estaba＿huyendo...... Perdón. Perdóname,＿Takasu-kun......」"
+
+msgid "Ryuuji「Hey, Kushieda......」"
+msgstr "Ryuuji「Oye, Kushieda......」"
+
+msgid "Ryuuji「If you regret running away, then won't＿you...... let me say what I wanted to tell＿you that day?」"
+msgstr "Ryuuji「Si te arrepientes de huir, entonces＿¿me dejarías...... decirte lo que＿quería decirte ese día?」"
+
+msgid "Minori「......Huh?」"
+msgstr "Minori「......¿Eh?」"
+
+msgid "Minori「............」"
+msgstr "Minori「............」"
+
+msgid "Minori「......Yeah, but first, I have a favor to ask.」"
+msgstr "Minori「......Sí, pero antes tengo＿un favor que pedirte.」"
+
+msgid "Ryuuji「......What is it?」"
+msgstr "Ryuuji「......¿Qué es?」"
+
+msgid "Ryuuji「......No.」"
+msgstr "Ryuuji「......No.」"
+
+msgid "Ryuuji「Regrets it?」"
+msgstr "Ryuuji「¿Se arrepiente?」"
+
+msgid "Minori「Yeah...... She was sobbing.」"
+msgstr "Minori「Sí...... Estaba sollozando.」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Minori「After you remember...... I'll listen to＿what you have to say, Takasu-kun. I＿promise.」"
+msgstr "Minori「Cuando lo recuerdes...... escucharé＿lo que tienes que decir, Takasu-kun.＿Lo prometo.」"
+
+msgid "Minori「Eventually we'll go our separate＿ways...... But you know how she is,＿right? She's awkward, clumsy......」"
+msgstr "Minori「Con el tiempo cada quien seguirá su＿camino...... Pero ya sabes cómo es ella,＿¿no? Es torpe, tosca......」"
+
+msgid "Minori「genuine, fragile......」"
+msgstr "Minori「sincera, frágil......」"
+
+msgid "Minori「That's why I need to help Taiga find＿happiness...... do my best to make Taiga＿happy...... lend a hand when she loses」"
+msgstr "Minori「Por eso debo ayudar a Taiga a ser＿feliz...... esforzarme para hacerla＿feliz...... darle la mano si pierde」"
+
+msgid "Minori「her way......」"
+msgstr "Minori「el camino......」"
+
+msgid "Minori「But when I try to make things work, it＿always backfires, and I end up making＿Taiga sad over and over...... I end up」"
+msgstr "Minori「Pero cuando intento arreglar todo, sale＿mal y termino entristeciendo a Taiga＿una y otra vez...... Termino」"
+
+msgid "Minori「hating my own stupidity...... and hurting＿you......」"
+msgstr "Minori「odiando mi propia estupidez......＿y lastimándote a ti......」"
+
+msgid "Ryuuji「I mean, I already know the answer, so＿I'm not concerned about that, but at＿this rate, I won't be able to show my」"
+msgstr "Ryuuji「Digo, ya sé la respuesta, así que＿eso no me preocupa, pero a este＿paso no podré mostrarle la」"
+
+msgid "Ryuuji「face around Taiga.」"
+msgstr "Ryuuji「cara a Taiga.」"
+
+msgid "Ryuuji「Oh, I'm not asking you to rethink your＿answer or anything. I'll just say it, and＿then you can shoot me down...... I admit」"
+msgstr "Ryuuji「Ah, no te pido que reconsideres tu＿respuesta ni nada. Solo lo diré y luego＿puedes rechazarme...... Admito」"
+
+msgid "Ryuuji「it's a strange request.」"
+msgstr "Ryuuji「que es una petición rara.」"
+
+msgid "Minori「Takasu-kun, on the night of Christmas＿Eve, before you met with me, you were＿probably with Taiga...... Did you」"
+msgstr "Minori「Takasu-kun, en Nochebuena, antes＿de verte conmigo, seguro estuviste＿con Taiga...... ¿Ya」"
+
+msgid "Minori「remember that?」"
+msgstr "Minori「recordaste eso?」"
+
+msgid "Minori「I see...... In that case, I want you to＿remember what happened back then＿first. Taiga probably really regrets it,」"
+msgstr "Minori「Ya veo...... En ese caso, quiero que＿primero recuerdes lo que pasó entonces.＿Seguro Taiga se arrepiente mucho,」"
+
+msgid "Minori「after all.」"
+msgstr "Minori「después de todo.」"

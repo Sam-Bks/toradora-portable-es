@@ -1,0 +1,236 @@
+msgid ""
+msgstr ""
+
+msgid "???「Well, if it isn't Takasu.」"
+msgstr "???「Vaya, pero si es Takasu.」"
+
+msgid "Ryuuji「Oh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Ryuuji「（W-Who is this......?）」"
+msgstr "Ryuuji「（¿Q-Quién es......?）」"
+
+msgid "???「Come to think of it, I heard you were＿hospitalized. Sorry I couldn't visit you.＿When did you get discharged?」"
+msgstr "???「Ahora que lo pienso, oí que estabas＿hospitalizado. Perdón por no visitarte.＿¿Cuándo te dieron el alta?」"
+
+msgid "Ryuuji「Oh, uh...... Just this morning.」"
+msgstr "Ryuuji「Ah, eh...... Apenas esta mañana.」"
+
+msgid "Ryuuji「（......So, this person knows me well＿enough to have considered visiting me＿in the hospital?）」"
+msgstr "Ryuuji「（......¿Así que esta persona me conoce＿tan bien como para haber pensado en＿visitarme en el hospital?）」"
+
+msgid "???「And already out walking around on＿your own? I take it you're all better?」"
+msgstr "???「¿Y ya estás caminando por ahí tú solo?＿Supongo que ya estás bien, ¿no?」"
+
+msgid "Ryuuji「Yeah...... I'm fit as a fiddle, it seems.」"
+msgstr "Ryuuji「Sí...... Estoy como nuevo, al parecer.」"
+
+msgid "???「That's what's important. Aisaka has＿been worried sick, you know.」"
+msgstr "???「Eso es lo importante. Aisaka ha estado＿muerta de preocupación, ¿sabes?」"
+
+msgid "Ryuuji「Uh, \"Aisaka\"......?」"
+msgstr "Ryuuji「Eh, ¿\"Aisaka\"......?」"
+
+msgid "Ryuuji「（Another unfamiliar name...... Who is＿that?）」"
+msgstr "Ryuuji「（Otro nombre que no me suena......＿¿Quién es?）」"
+
+msgid "???「Hmm? What's wrong? Is it strange to＿hear me refer to Aisaka by her last＿name?」"
+msgstr "???「¿Hmm? ¿Qué pasa? ¿Te resulta extraño＿oírme llamar a Aisaka por su apellido?」"
+
+msgid "Ryuuji「I, I guess?」"
+msgstr "Ryuuji「¿S-Supongo?」"
+
+msgid "Ryuuji「（......So, this Aisaka person is someone＿that I normally call by their first name.）」"
+msgstr "Ryuuji「（......Así que a esta tal Aisaka＿suelo llamarla por su nombre.）」"
+
+msgid "???「Well, that aside...... Seems Yasuko-san＿and Aisaka took turns watching over＿you. I'm a little jealous.」"
+msgstr "???「Bueno, dejando eso de lado...... Parece＿que Yasuko-san y Aisaka se turnaron para＿cuidarte. Me da un poco de envidia.」"
+
+msgid "Ryuuji「（Watched over by Yasuko......?）」"
+msgstr "Ryuuji「（¿Cuidado por Yasuko......?）」"
+
+msgid "Ryuuji「......Aha, you mean Taiga!」"
+msgstr "Ryuuji「......¡Ajá, te refieres a Taiga!」"
+
+msgid "Ryuuji「（That's right, Aisaka Taiga...... I＿remember now.）」"
+msgstr "Ryuuji「（Es cierto, Aisaka Taiga......＿Ya me acuerdo.）」"
+
+msgid "???「Yeah, I mean Aisaka Taiga...... What's＿the matter?」"
+msgstr "???「Sí, hablo de Aisaka Taiga......＿¿Qué ocurre?」"
+
+msgid "Ryuuji「Nothing, why?」"
+msgstr "Ryuuji「Nada, ¿por qué?」"
+
+msgid "???「Did something happen between you＿and Aisaka?」"
+msgstr "???「¿Pasó algo entre Aisaka y tú?」"
+
+msgid "Ryuuji「No, not really...... Rather, I should be＿the one asking you.」"
+msgstr "Ryuuji「No, en realidad no...... Más bien,＿yo debería preguntarte eso a ti.」"
+
+msgid "???「Hahahaha, seeing you like this, it's like＿nothing happened.」"
+msgstr "???「Jajajaja, al verte así, es como＿si no hubiera pasado nada.」"
+
+msgid "Ryuuji「（Nothing happened except amnesia......）」"
+msgstr "Ryuuji「（No pasó nada salvo la amnesia......）」"
+
+msgid "Ryuuji「......Sorry, you lost me.」"
+msgstr "Ryuuji「......Perdón, me perdí.」"
+
+msgid "???「What? I thought perhaps you were so＿excited that you forced your way out＿of the hospital. Hahaha!」"
+msgstr "???「¿Qué? Pensé que tal vez estabas tan＿emocionado que te habías escapado a＿la fuerza del hospital. ¡Jajaja!」"
+
+msgid "Ryuuji「Sorry, I still don't follow you.」"
+msgstr "Ryuuji「Perdón, sigo sin entenderte.」"
+
+msgid "???「......Well, don't people normally do a lot＿of cleaning around this time?」"
+msgstr "???「......Bueno, ¿la gente no suele hacer＿mucha limpieza por estas fechas?」"
+
+msgid "Ryuuji「Oh, housecleaning! I'm a big fan!」"
+msgstr "Ryuuji「¡Ah, limpiar la casa! ¡Me encanta!」"
+
+msgid "Ryuuji「Oh, uh...... Is that the impression I give＿you?」"
+msgstr "Ryuuji「Ah, eh...... ¿Esa es la＿impresión que te doy?」"
+
+msgid "Ryuuji「Is that supposed to be a compliment?」"
+msgstr "Ryuuji「¿Se supone que eso es un cumplido?」"
+
+msgid "???「Of course. It's the highest of praise.」"
+msgstr "???「Por supuesto. Es el máximo elogio.」"
+
+msgid "Ryuuji「I, I see......」"
+msgstr "Ryuuji「Y-Ya veo......」"
+
+msgid "???「Whoops. Sorry for holding you up, but I＿have to take care of something at＿school, so I must be going now.」"
+msgstr "???「Uy. Perdón por entretenerte, pero tengo＿que encargarme de un asunto en la＿escuela, así que ya me voy.」"
+
+msgid "Ryuuji「（......Huh!? Something came to mind all＿of a sudden. He's going to school to......）」"
+msgstr "Ryuuji「（......¡¿Eh?! De pronto me vino＿algo a la mente. Él va a la＿escuela para......）」"
+
+msgid "......clean the swimming pool?"
+msgstr "......¿limpiar la piscina?"
+
+msgid "......attend student council?"
+msgstr "......¿ir al consejo estudiantil?"
+
+msgid "......do a photo shoot?"
+msgstr "......¿hacer una sesión de fotos?"
+
+msgid "Ryuuji「......Going to clean the pool?」"
+msgstr "Ryuuji「......¿Vas a limpiar la piscina?」"
+
+msgid "???「Hm? Isn't that a springtime chore?」"
+msgstr "???「¿Hm? ¿No es esa una tarea de primavera?」"
+
+msgid "Ryuuji「O-Oh yeah......」"
+msgstr "Ryuuji「A-Ah, es verdad......」"
+
+msgid "Ryuuji「（I was wrong......）」"
+msgstr "Ryuuji「（Me equivoqué......）」"
+
+msgid "???「Or perhaps, are you proposing that＿pool-cleaning should be added to the＿student council-sponsored events?」"
+msgstr "???「¿O acaso propones que agreguemos la＿limpieza de la piscina a los eventos＿del consejo estudiantil?」"
+
+msgid "Ryuuji「Huh? No, I......」"
+msgstr "Ryuuji「¿Eh? No, yo......」"
+
+msgid "???「For imparting your wisdom on student＿council management, I'm grateful,＿Takasu.」"
+msgstr "???「Te agradezco por compartir tu sabiduría＿sobre la gestión del consejo＿estudiantil, Takasu.」"
+
+msgid "Ryuuji「Uh, I......」"
+msgstr "Ryuuji「Eh, yo......」"
+
+msgid "Ryuuji「（So, he's part of the student council......＿Is that why he's going to school?）」"
+msgstr "Ryuuji「（Es del consejo estudiantil......＿¿Por eso va a la escuela?）」"
+
+msgid "???「Well, I'm off. I'll be in touch. Let's hang＿out sometime, if you like.」"
+msgstr "???「Bueno, me voy. Estamos en contacto.＿Salgamos algún día, si quieres.」"
+
+msgid "Ryuuji「......Student council matters?」"
+msgstr "Ryuuji「......¿Asuntos del consejo estudiantil?」"
+
+msgid "???「That's right. Even though it's almost＿New Year's Eve, there's still mountains＿of work to be done.」"
+msgstr "???「Así es. Aunque ya casi es Nochevieja,＿todavía hay una montaña de trabajo＿por hacer.」"
+
+msgid "Ryuuji「（Oh, I was right...... This is unexpected.＿At this rate, getting my memories back＿will be a breeze.）」"
+msgstr "Ryuuji「（Oh, acerté...... Esto no me lo＿esperaba. A este paso, recuperar＿mis recuerdos será pan comido.）」"
+
+msgid "???「Well, I have some free time coming up,＿so if you want, let's hang out sometime.」"
+msgstr "???「Bueno, pronto tendré tiempo libre.＿Salgamos algún día, si quieres.」"
+
+msgid "Ryuuji「S-Sure.」"
+msgstr "Ryuuji「C-Claro.」"
+
+msgid "???「I'll be in touch. Bye.」"
+msgstr "???「Estamos en contacto. Adiós.」"
+
+msgid "Ryuuji「......Doing a photo shoot?」"
+msgstr "Ryuuji「......¿Hacer una sesión de fotos?」"
+
+msgid "???「Photo shoot? Is that one of our events＿now?」"
+msgstr "???「¿Sesión de fotos? ¿Acaso ese es＿uno de nuestros eventos ahora?」"
+
+msgid "Ryuuji「（Fail......）」"
+msgstr "Ryuuji「（Fallé......）」"
+
+msgid "???「That's strange, I haven't heard＿anything about it in student council......」"
+msgstr "???「Qué extraño, no he escuchado＿nada al respecto en el consejo＿estudiantil......」"
+
+msgid "Ryuuji「（......Student council?）」"
+msgstr "Ryuuji「（......¿Consejo estudiantil?）」"
+
+msgid "???「Don't tell me 一 will this photo shoot＿be, ahem, private? Is that it, Takasu!?」"
+msgstr "???「No me digas 一 ¿esta sesión de fotos＿será, ejem, privada? ¡¿Es eso, Takasu?!」"
+
+msgid "Ryuuji「N-No, that's not what I mean...... Sorry, I＿think I confused you. There isn't a＿photo shoot. Take it easy.」"
+msgstr "Ryuuji「N-No, no me refiero a eso...... Perdón,＿creo que te confundí. No hay ninguna＿sesión de fotos. Tranquilo.」"
+
+msgid "???「Oh, that's good then......」"
+msgstr "???「Ah, qué bien entonces......」"
+
+msgid "Ryuuji「O-Okay......」"
+msgstr "Ryuuji「E-Está bien......」"
+
+msgid "???「I'm willing to do nudes, if you so desire.」"
+msgstr "???「Posaría desnudo, si así lo deseas.」"
+
+msgid "Ryuuji「（I get it, so he's part of the student＿council...... Is that why he's going to＿school?）」"
+msgstr "Ryuuji「（Ya entiendo, así que es del＿consejo estudiantil...... ¿Por＿eso va a la escuela?）」"
+
+msgid "???「Well, I'm off. I'll be in touch. Let's hang＿out sometime, if you like.」"
+msgstr "???「Bueno, me voy. Estamos en contacto.＿Salgamos algún día, si quieres.」"
+
+msgid "Ryuuji「Sure. Later!」"
+msgstr "Ryuuji「Claro. ¡Hasta luego!」"
+
+msgid "Ryuuji「（......A student council member who's＿close to me and Taiga...... Crap, I didn't＿ask his name!）」"
+msgstr "Ryuuji「（......Un miembro del consejo＿estudiantil cercano a Taiga y a mí......＿¡Rayos, no le pregunté su nombre!）」"
+
+msgid "???「Well, it's a relief to see you back to＿normal.」"
+msgstr "???「Bueno, es un alivio ver que＿volviste a la normalidad.」"
+
+msgid "???「If you had to stay in bed at this time of＿year, I'm sure you would regret it for＿the next 12 months.」"
+msgstr "???「Si tuvieras que quedarte en cama＿en estas fechas, seguro te arrepentirías＿los próximos 12 meses.」"
+
+msgid "???「......Are you sure you've fully＿recovered? Normally cleaning would＿be all you can think of this time of」"
+msgstr "???「......¿Seguro que＿te recuperaste del todo?」"
+
+msgid "???「year.」"
+msgstr "???「Normalmente solo piensas en limpiar＿en esta época del año.」"
+
+msgid "???「I've never seen a teenage guy more＿motherly than you...」"
+msgstr "???「Nunca he visto a un chico adolescente＿más maternal que tú...」"
+
+msgid "???「...Well, I don't think there are others＿out there, so it's more accurate to say＿you're the one and only.」"
+msgstr "???「...Bueno, no creo que haya otros por＿ahí, así que es más exacto decir que＿eres único en tu especie.」"
+
+msgid "???「Breaking a sweat in tandem, the＿approaching summer firm in our＿minds......」"
+msgstr "???「Sudar la gota gorda juntos, con＿la llegada del verano firme en＿nuestras mentes......」"
+
+msgid "???「That might actually work! I'll put it on＿the agenda for next year.」"
+msgstr "???「¡Eso podría funcionar! Lo pondré en＿la agenda para el próximo año.」"
+
+msgid "???「If you want to do a photo shoot, by all＿means, swing by the student council＿room. We can discuss it there.」"
+msgstr "???「Si quieres una sesión de fotos, pásate＿sin falta por el salón del consejo＿estudiantil. Podemos hablarlo ahí.」"
+
+msgid "???「I can model for you, if you like.」"
+msgstr "???「Puedo modelar para ti, si quieres.」"

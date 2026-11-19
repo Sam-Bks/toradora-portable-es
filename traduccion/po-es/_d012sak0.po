@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+
+msgid "Kota「*Pant* *Pant*.... S-Sakura-chan....＿*Pant* *Pant*....」"
+msgstr "Kota「*Jadeo* *Jadeo*.... S-Sakura-chan....＿*Jadeo* *Jadeo*....」"
+
+msgid "Kota「（She's...... been waiting...... nearly an＿hour......）」"
+msgstr "Kota「（Lleva...... casi una hora......＿esperando......）」"
+
+msgid "Kota「There she is!」"
+msgstr "Kota「¡Ahí está!」"
+
+msgid "Sakura「......Huh!?」"
+msgstr "Sakura「......¡¿Eh?!」"
+
+msgid "Kota「S-Sakura-chan!」"
+msgstr "Kota「¡S-Sakura-chan!」"
+
+msgid "Sakura「Uh, y-y-y-y-yes!?!?」"
+msgstr "Sakura「Eh, ¡¿s-s-s-s-sí?!?!」"
+
+msgid "Kota「I'm so, so sorry for making you wait!!」"
+msgstr "Kota「¡¡Perdóname, de verdad,＿por hacerte esperar!!」"
+
+msgid "Sakura「H-Huh? W-w-w-what? I, I wasn't waiting＿for you!」"
+msgstr "Sakura「¿E-Eh? ¿Q-q-q-qué? ¡Y-Yo＿no te estaba esperando!」"
+
+msgid "Kota「Sakura-chan!?」"
+msgstr "Kota「¡¿Sakura-chan?!」"
+
+msgid "Sakura「W-W-W-What do you want? I, I, I know＿you're my senpai, but being s-so＿f-f-forward with me...... freaks me out!」"
+msgstr "Sakura「¿Q-Q-Q-Qué quieres? S-S-Sé que eres＿mi senpai, pero que seas tan＿a-a-atrevido conmigo...... ¡me asusta!」"
+
+msgid "Kota「*Gasp*! T-That's right...... W-Wait! Listen＿to me!!」"
+msgstr "Kota「¡Ah! E-Es verdad...... ¡E-Espera!＿¡¡Escúchame!!」"
+
+msgid "Sakura「Aaaaahhh!!」"
+msgstr "Sakura「¡¡Aaaaahhh!!」"
+
+msgid "Woman「Oh no! That girl's in danger!」"
+msgstr "Mujer「¡Ay, no! ¡Esa chica está en peligro!」"
+
+msgid "Woman「Police! Call the police!」"
+msgstr "Mujer「¡La policía! ¡Llamen a la policía!」"
+
+msgid "Kota「Wha!? The cops!?」"
+msgstr "Kota「¡¿Qué?! ¡¿La policía?!」"
+
+msgid "Woman「EEEEK! He's gonna kill me!」"
+msgstr "Mujer「¡HIIII! ¡Me va a matar!」"
+
+msgid "Woman「Call 911!」"
+msgstr "Mujer「¡Llamen al 911!」"
+
+msgid "Kota「Seriously?」"
+msgstr "Kota「¿En serio?」"
+
+msgid "Sakura「P-P-Please wait!」"
+msgstr "Sakura「¡P-P-Por favor, esperen!」"
+
+msgid "Sakura「T-This is my upperclassman! Please＿don't call the cops on him!」"
+msgstr "Sakura「¡E-Es mi compañero de un curso superior!＿¡Por favor, no llamen a la policía!」"
+
+msgid "Woman「......A-Are you really okay?」"
+msgstr "Mujer「......¿D-De verdad estás bien?」"
+
+msgid "Sakura「I, I'm fine! Sorry for causing trouble!」"
+msgstr "Sakura「¡E-Estoy bien! ¡Perdón＿por las molestias!」"
+
+msgid "Woman「O-Okay, but be careful.」"
+msgstr "Mujer「B-Bueno, pero ten cuidado.」"
+
+msgid "Sakura「I will. Thank you very much.」"
+msgstr "Sakura「Lo tendré. Muchas gracias.」"
+
+msgid "Kota「Whew...... That was a close one......」"
+msgstr "Kota「Uf...... Estuvo cerca......」"
+
+msgid "Sakura「............」"
+msgstr "Sakura「............」"
+
+msgid "Kota「......Oh, that's right. Takasu-senpai was＿on the ChrisPar planning committee＿too, come to think of it.」"
+msgstr "Kota「......Ah, cierto. Takasu-senpai también＿era del comité de la fiesta navideña,＿ahora que lo pienso.」"
+
+msgid "Sakura「......W-What are you talking about,＿senpai?」"
+msgstr "Sakura「......¿D-De qué hablas, senpai?」"
+
+msgid "Kota「Sorry, Saku...... I mean...... umm......」"
+msgstr "Kota「Perdón, Saku...... Digo...... ehm......」"
+
+msgid "Sakura「......?」"
+msgstr "Sakura「¿......?」"
+
+msgid "Kota「Look...... Can you listen to me and＿promise not to freak out?」"
+msgstr "Kota「Mira...... ¿Puedes escucharme y prometer＿que no te vas a asustar?」"
+
+msgid "Sakura「W-What is it?」"
+msgstr "Sakura「¿Q-Qué pasa?」"
+
+msgid "Kota「Well...... I know I look like＿Takasu-senpai, but it's me, Kouta.」"
+msgstr "Kota「Pues...... Aunque parezca Takasu-senpai,＿soy yo, Kouta.」"
+
+msgid "Sakura「............Huh?」"
+msgstr "Sakura「............¿Eh?」"
+
+msgid "Kota「I crashed into Takasu-senpai earlier,＿and somehow we switched bodies.」"
+msgstr "Kota「Choqué con Takasu-senpai hace rato y de＿alguna forma intercambiamos cuerpos.」"
+
+msgid "Sakura「W-W-W-What are you saying? Do you＿really think anyone would buy that?＿P-P-Please stop with the bad jokes!」"
+msgstr "Sakura「¿Q-Q-Q-Qué dices? ¿Crees que alguien＿se creería eso? ¡P-P-Por favor, deja＿las bromas de mal gusto!」"
+
+msgid "Kota「I-It's true!」"
+msgstr "Kota「¡E-Es verdad!」"
+
+msgid "Sakura「Eek......!」"
+msgstr "Sakura「¡Hiii......!」"
+
+msgid "Kota「Listen to me! I'm sure you'll＿understand!」"
+msgstr "Kota「¡Escúchame! ¡Seguro que lo entenderás!」"
+
+msgid "Sakura「*Sob*...... *Sob*......」"
+msgstr "Sakura「*Sollozo*...... *Sollozo*......」"
+
+msgid "Kota「（O-Okay, it looks like she'll listen, at＿least. Gotta be careful......）」"
+msgstr "Kota「（B-Bien, al menos parece que va a＿escucharme. Debo tener cuidado......）」"
+
+msgid "Kota「（Damn it...... If only I'd memorized her＿number...... And I was just at my＿house...... Why...... didn't I grab my）」"
+msgstr "Kota「（Maldición...... De haber memorizado＿su número...... Y venía de casa......＿¿Por qué...... no tomé mi）」"
+
+msgid "Kota「（phone......?）」"
+msgstr "Kota「（teléfono......?）」"

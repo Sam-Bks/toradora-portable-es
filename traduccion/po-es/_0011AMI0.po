@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「（......Oh!）」"
+msgstr "Ryuuji「（......¡Ah!）」"
+
+msgid "???「......」"
+msgstr "???「......」"
+
+msgid "Ryuuji「（Wh...... What? Do I know her? Is she＿looking at me?）」"
+msgstr "Ryuuji「（¿Qu...... Qué? ¿La conozco?＿¿Me está mirando a mí?）」"
+
+msgid "Ryuuji「（Oh...... She left...... I guess I didn't know＿her......）」"
+msgstr "Ryuuji「（Ah...... Se fue...... Supongo＿que no la conocía......）」"
+
+msgid "Ryuuji「（I gotta say, she was incredibly＿beautiful. So pretty, a person could fall＿in love just looking at her......）」"
+msgstr "Ryuuji「（Debo admitir que era bellísima.＿Tan linda que uno podría enamorarse＿con solo mirarla......）」"
+
+msgid "Ryuuji「（Is she a model or something?）」"
+msgstr "Ryuuji「（¿Será modelo o algo así?）」"
+
+msgid "???「Excuse you!」"
+msgstr "???「¡Oye, más respeto!」"
+
+msgid "Ryuuji「Ohh!?」"
+msgstr "Ryuuji「¡¿Ehh?!」"
+
+msgid "???「Why are you ignoring me?」"
+msgstr "???「¿Por qué me ignoras?」"
+
+msgid "Ryuuji「Err... W-What do you mean?」"
+msgstr "Ryuuji「Ehm... ¿A-A qué te refieres?」"
+
+msgid "???「I mean what I said, Takasu-kun. I don't＿get why you're ignoring me!」"
+msgstr "???「A lo que dije, Takasu-kun. ¡No＿entiendo por qué me ignoras!」"
+
+msgid "Ryuuji「It's just, since you didn't say anything, I＿thought......」"
+msgstr "Ryuuji「Es solo que, como no dijiste＿nada, pensé......」"
+
+msgid "Ryuuji「（I never would have guessed that I＿knew this girl......）」"
+msgstr "Ryuuji「（Jamás habría imaginado que conocía＿a esta chica......）」"
+
+msgid "???「......You thought what?」"
+msgstr "???「......¿Pensaste qué?」"
+
+msgid "Ryuuji「Uh, well......」"
+msgstr "Ryuuji「Eh, bueno......」"
+
+msgid "Schoolgirl「Is that Ami-chan? Oh my god, it's really＿her～!」"
+msgstr "Estudiante「¿Esa es Ami-chan? ¡Dios mío,＿de verdad es ella～!」"
+
+msgid "Ami「Oh...... Ufu♪」"
+msgstr "Ami「Ah...... Ufu♪」"
+
+msgid "Schoolgirl「Hey Ami-chan, can I have your＿autograph～? I've got that magazine＿with you on the cover～ Please sign it!」"
+msgstr "Estudiante「Oye, Ami-chan, ¿me das tu autógrafo～?＿Tengo esa revista en la que sales en＿portada～ ¡Fírmala, por favor!」"
+
+msgid "Ami「What～? Like, you really want an＿autograph from little old me? Aww, I'm＿like, SO happy～ ① Give me a second......」"
+msgstr "Ami「¿Qué～? O sea, ¿de verdad quieres un＿autógrafo mío? Ay, o sea, ¡estoy SÚPER＿feliz～! ① Dame un segundo......」"
+
+msgid "Ryuuji「（So she's a model for fashion＿magazines, no surprise there......）」"
+msgstr "Ryuuji「（Así que es modelo de revistas de＿moda, no me sorprende......）」"
+
+msgid "Ryuuji「（But she wrote her name \"Kawashima＿Ami\" in print. If it's an autograph......＿shouldn't it at least be in cursive?）」"
+msgstr "Ryuuji「（Pero escribió \"Kawashima Ami\" en letra＿de imprenta. Si es un autógrafo......＿¿no debería ir al menos en cursiva?）」"
+
+msgid "Schoolgirl「Wow～ Thank you～!」"
+msgstr "Estudiante「¡Guau～ Muchas gracias～!」"
+
+msgid "Schoolgirl「......! Hey, that guy with Ami-chan is kind＿of scary.」"
+msgstr "Estudiante「¡......! Oye, ese chico que está con＿Ami-chan da un poco de miedo.」"
+
+msgid "Schoolgirl「......Aah!」"
+msgstr "Estudiante「......¡Aah!」"
+
+msgid "Ryuuji「Oh...... I, uh......」"
+msgstr "Ryuuji「Ah...... Y-Yo, eh......」"
+
+msgid "Ami「Oh, this is my classmate. We bumped＿into each other just now～」"
+msgstr "Ami「Ah, él es mi compañero de clase. Nos＿acabamos de encontrar por casualidad～」"
+
+msgid "Schoolgirl「Oh, I see. Hmm, that makes sense. He＿doesn't seem like your boyfriend.」"
+msgstr "Estudiante「Ah, ya veo. Mmm, tiene sentido.＿No parece ser tu novio.」"
+
+msgid "Ami「True, he's not my boyfriend, but like......＿don't you think that was rude～?」"
+msgstr "Ami「No es mi novio, pero, o sea......＿¿no crees que fue grosero～?」"
+
+msgid "Schoolgirl「Huh? Oh, gosh...... I'm sorry!」"
+msgstr "Estudiante「¿Eh? Ay, cielos...... ¡Lo siento!」"
+
+msgid "Ryuuji「O-Oh...... it's fine, really.」"
+msgstr "Ryuuji「A-Ah...... no pasa nada, de verdad.」"
+
+msgid "Ami「Sorry about that～」"
+msgstr "Ami「Perdona por eso～」"
+
+msgid "Schoolgirl「You don't have to apologize,＿Ami-chan～ It was my fault.」"
+msgstr "Estudiante「No tienes por qué disculparte,＿Ami-chan～ Fue culpa mía.」"
+
+msgid "Schoolgirl「Sorry, Ami-chan. See ya～」"
+msgstr "Estudiante「Perdón, Ami-chan. Nos vemos～」"
+
+msgid "Ami「You bet～! See you around!」"
+msgstr "Ami「¡Claro～! ¡Nos vemos luego!」"
+
+msgid "Ami「......Good grief. It's hard work being an＿idol.」"
+msgstr "Ami「......Por Dios. Qué difícil＿es ser una ídolo.」"
+
+msgid "Ryuuji「Umm......」"
+msgstr "Ryuuji「Mmm......」"
+
+msgid "Ami「......What?」"
+msgstr "Ami「......¿Qué?」"
+
+msgid "Ryuuji「Um, I just wanted to say... Thank you.」"
+msgstr "Ryuuji「Eh, solo quería decirte... Gracias.」"
+
+msgid "Ami「It's nothing. I didn't do it to earn your＿gratitude.」"
+msgstr "Ami「No es nada. No lo hice para＿ganarme tu gratitud.」"
+
+msgid "Ryuuji「I, I see......」"
+msgstr "Ryuuji「Y-Ya veo......」"
+
+msgid "Ami「You know, today you've been kind of......＿Nah, forget it. I gotta go.」"
+msgstr "Ami「Sabes, hoy has estado un poco......＿Bah, olvídalo. Me tengo que ir.」"
+
+msgid "Ryuuji「Huh? Oh, er, alright!」"
+msgstr "Ryuuji「¿Eh? ¡Ah, ehm, está bien!」"
+
+msgid "Ryuuji「（Kawashima Ami...... She said she's my＿classmate......）」"
+msgstr "Ryuuji「（Kawashima Ami...... Dijo que es＿mi compañera de clase......）」"

@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+
+msgid "Taiga「Oh, Ryuuji, look at that.」"
+msgstr "Taiga「Oye, Ryuuji, mira eso.」"
+
+msgid "Ryuuji「Hm?」"
+msgstr "Ryuuji「¿Mmm?」"
+
+msgid "Taiga「Dullo Four-Eyes is taking a Dullo＿Stroll.」"
+msgstr "Taiga「Cuatro Ojos Soso está＿dando un Paseo Soso.」"
+
+msgid "Ryuuji「Ohh, you're right. Noto!」"
+msgstr "Ryuuji「Ohh, tienes razón. ¡Noto!」"
+
+msgid "Noto「............」"
+msgstr "Noto「............」"
+
+msgid "Ryuuji「He didn't hear me? HEYYY, NOTO!!」"
+msgstr "Ryuuji「¿No me oyó? ¡¡OYEEE, NOTO!!」"
+
+msgid "Taiga「For some reason I sense an extra-dull＿aura from him today.」"
+msgstr "Taiga「Por alguna razón siento un aura＿extra sosa en él hoy.」"
+
+msgid "Ami「Let's see. Noto-kuuun①」"
+msgstr "Ami「A ver. Noto-kuuun①」"
+
+msgid "Noto「*Gasp* Ami-chan, Tiger...... and Takasu＿too I guess.」"
+msgstr "Noto「¡Ah! Ami-chan, Tigre...... y＿Takasu también, supongo.」"
+
+msgid "Ryuuji「I was the one who called out to you in＿the first place.」"
+msgstr "Ryuuji「Yo fui quien te llamó en primer lugar.」"
+
+msgid "Noto「Look at the three of you. Best of＿friends as always. Ha, haha, I envy you,＿Takasu......」"
+msgstr "Noto「Mírense los tres. Tan buenos amigos＿como siempre. Ja, jaja, qué envidia＿me das, Takasu......」"
+
+msgid "Taiga「That aura is as sinister as I thought......」"
+msgstr "Taiga「Esa aura es tan siniestra＿como pensaba......」"
+
+msgid "Noto「Ahaha, you can tell? ......Truth is, I took＿part in a raffle at the mall yesterday.」"
+msgstr "Noto「Ajaja, ¿se nota? ......La verdad,＿ayer participé en una rifa del＿centro comercial.」"
+
+msgid "Ryuuji「Oh yeah?」"
+msgstr "Ryuuji「¿Ah, sí?」"
+
+msgid "Noto「I got the prize I wanted in one try.」"
+msgstr "Noto「Gané el premio que quería＿al primer intento.」"
+
+msgid "Ryuuji「Isn't that a good thing? You should be＿happy. So why are you so bummed＿out?」"
+msgstr "Ryuuji「¿No es algo bueno? Deberías＿estar feliz. Entonces, ¿por＿qué estás tan deprimido?」"
+
+msgid "Ryuuji「......This is awkward.」"
+msgstr "Ryuuji「......Qué incómodo.」"
+
+msgid "Ryuuji「Oh, that sounds good! Instead of being＿vague, I think you can set yourself a＿constructive goal that way.」"
+msgstr "Ryuuji「¡Oh, suena bien! En vez de algo＿vago, creo que así puedes fijarte＿una meta constructiva.」"
+
+msgid "Noto「Right? I was so motivated, but...... a＿little while ago, I lost the tickets......」"
+msgstr "Noto「¿Verdad? Estaba tan motivado,＿pero...... hace un rato perdí＿las entradas......」"
+
+msgid "Ryuuji「Uh-oh.」"
+msgstr "Ryuuji「Oh, no.」"
+
+msgid "Both「Shut up......」"
+msgstr "Ambas「Cállate......」"
+
+msgid "Ryuuji「Cheer up, Noto. I understand. I'll get in＿touch with you if I find them.」"
+msgstr "Ryuuji「Ánimo, Noto. Te entiendo. Me pondré en＿contacto contigo si las encuentro.」"
+
+msgid "Noto「It's fine, if you find them, you should＿use them. You're blessed in that＿department, I'm sure.」"
+msgstr "Noto「Está bien, si las encuentras,＿úsalas tú. Seguro que tienes＿suerte en ese tema.」"
+
+msgid "Ryuuji「No I'm not. Don't give up hope, Noto!」"
+msgstr "Ryuuji「Claro que no. ¡No pierdas＿la esperanza, Noto!」"
+
+msgid "Noto「I don't need your pity. Please just＿forget about me and go...... I wish you＿the best of luck, Takasu. SEE YA!」"
+msgstr "Noto「No necesito tu lástima. Por favor,＿olvídate de mí y vete...... Te deseo＿la mejor suerte, Takasu. ¡NOS VEMOS!」"
+
+msgid "Ryuuji「Noto......」"
+msgstr "Ryuuji「Noto......」"
+
+msgid "Taiga「Forget it. Just imagine what he'll be＿like once spring rolls around.」"
+msgstr "Taiga「Déjalo. Solo imagina cómo se pondrá＿cuando llegue la primavera.」"
+
+msgid "Ami「Agreed.」"
+msgstr "Ami「De acuerdo.」"
+
+msgid "Ryuuji「You two could stand to be a little＿nicer......」"
+msgstr "Ryuuji「Ustedes dos podrían ser un＿poco más amables......」"
+
+msgid "Noto「That prize, y'see, was a pair of tickets＿to the latest craze on the date spot＿scene...... Come on, as if I have a」"
+msgstr "Noto「Verás, el premio eran dos entradas＿para el lugar de citas más de moda......＿Vamos, ¿como si yo tuviera」"
+
+msgid "Noto「girlfriend?」"
+msgstr "Noto「novia?」"
+
+msgid "Noto「So y'see, with this opportunity, I＿decided I had until spring to get a＿girlfriend that I could take on a date」"
+msgstr "Noto「Así que, con esta oportunidad, decidí＿que tenía hasta primavera para conseguir＿una novia a quien llevar a una cita」"
+
+msgid "Noto「with these tickets. Whaddya call it? A＿pep talk?」"
+msgstr "Noto「con estas entradas. ¿Cómo se＿le llama? ¿Una motivación?」"
+
+msgid "Noto「This is probably telling me I have no＿hope in getting a girlfriend, right? The＿new year just started, and God has」"
+msgstr "Noto「Esto seguro me dice que no tengo＿esperanzas de tener novia, ¿verdad?＿El año nuevo apenas empezó y Dios ya」"
+
+msgid "Noto「forsaken my luck with the ladies,＿right?」"
+msgstr "Noto「abandonó mi suerte con＿las chicas, ¿verdad?」"

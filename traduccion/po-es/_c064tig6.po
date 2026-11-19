@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+
+msgid "Taiga「Ryuuji...... Honestly, you've brought up＿nothing but boring stuff.」"
+msgstr "Taiga「Ryuuji...... Sinceramente, solo＿has sacado temas aburridos.」"
+
+msgid "Ryuuji「Oh, my bad.」"
+msgstr "Ryuuji「Ah, culpa mía.」"
+
+msgid "Taiga「It's fine. Just means your memory＿holes have been filled, right?」"
+msgstr "Taiga「Está bien. Solo significa que los huecos＿de tu memoria se llenaron, ¿no?」"
+
+msgid "Ryuuji「I guess so.」"
+msgstr "Ryuuji「Supongo que sí.」"
+
+msgid "Taiga「......Alright, time for a reward. I'll give＿you this.」"
+msgstr "Taiga「......Bueno, hora de la recompensa.＿Te daré esto.」"
+
+msgid "Ryuuji「What is it?」"
+msgstr "Ryuuji「¿Qué es?」"
+
+msgid "Taiga「Don't you recognize it? It's the same＿as the one at my place.」"
+msgstr "Taiga「¿No lo reconoces? Es igual＿al que tengo en mi casa.」"
+
+msgid "Ryuuji「......Feels vaguely familiar.」"
+msgstr "Ryuuji「......Me resulta vagamente familiar.」"
+
+msgid "Taiga「It was sitting all by itself on a shelf at＿the general store. And it was SUPER＿cheap since it's out of season.」"
+msgstr "Taiga「Estaba solito en un estante del＿bazar. Y estaba SÚPER barato porque＿está fuera de temporada.」"
+
+msgid "Ryuuji「What do you mean, \"final blow\"?」"
+msgstr "Ryuuji「¿A qué te refieres con \"golpe final\"?」"
+
+msgid "Taiga「Crush it to pieces and, hmmm, sprinkle＿them in a river, perhaps?」"
+msgstr "Taiga「Hacerlo pedazos y, mmm, esparcirlos＿en un río, ¿quizás?」"
+
+msgid "Ryuuji「That's why you bought it? MOTTAINAI!」"
+msgstr "Ryuuji「¿Para eso lo compraste?＿¡QUÉ DESPERDICIO!」"
+
+msgid "Taiga「Heh, I thought you'd say that. So why＿don't you take it?」"
+msgstr "Taiga「Je, sabía que dirías eso. Entonces,＿¿por qué no te lo quedas tú?」"
+
+msgid "Ryuuji「In that case, I will.」"
+msgstr "Ryuuji「En ese caso, lo acepto.」"
+
+msgid "Taiga「Now then, I've gotta get going.」"
+msgstr "Taiga「Bueno, ya me tengo que ir.」"
+
+msgid "Ryuuji「What, you're not going home yet?」"
+msgstr "Ryuuji「¿Qué, todavía no te vas a casa?」"
+
+msgid "Taiga「I still have some shopping to do, so you＿go on without me.」"
+msgstr "Taiga「Todavía tengo compras que hacer,＿así que vete sin mí.」"
+
+msgid "Ryuuji「Okay. And thanks.」"
+msgstr "Ryuuji「Está bien. Y gracias.」"
+
+msgid "Taiga「You owe me one! Bye.」"
+msgstr "Taiga「¡Me debes una! Adiós.」"
+
+msgid "Ryuuji「（Wow, she really seems to be handling＿herself just fine......）」"
+msgstr "Ryuuji「（Vaya, de verdad parece que se las＿arregla muy bien sola......）」"
+
+msgid "Ryuuji「（......）」"
+msgstr "Ryuuji「（......）」"
+
+msgid "Ryuuji「（No, I'm not lonely or anything!＿Absolutely not!）」"
+msgstr "Ryuuji「（¡No, no me siento solo＿ni nada! ¡Para nada!）」"
+
+msgid "Taiga「I was pretty curious, and it seemed to＿be living a miserable life, so I felt kinda＿upset, or maybe just sad...... Then I」"
+msgstr "Taiga「Me dio curiosidad, y parecía llevar una＿vida miserable, así que me dio rabia, o＿tal vez tristeza...... Y entonces」"
+
+msgid "Taiga「thought, why don't I deliver the final＿blow myself?」"
+msgstr "Taiga「pensé: ¿por qué no darle el＿golpe final yo misma?」"

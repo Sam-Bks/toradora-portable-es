@@ -1,0 +1,140 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「（The northerly wind is strong...... and＿cold!）」"
+msgstr "Ryuuji「（El viento del norte está＿fuerte...... ¡y frío!）」"
+
+msgid "Ryuuji「（Hm......? What's that piece of paper＿flying around......?）」"
+msgstr "Ryuuji「（¿Mmm......? ¿Qué es ese papel＿que anda volando......?）」"
+
+msgid "Ryuuji「Aaaand GOT IT! Whew.」"
+msgstr "Ryuuji「¡Yyyy LO ATRAPÉ! Uf.」"
+
+msgid "Ryuuji「（Nice midair catch, if I do say so＿myself......! Hm?）」"
+msgstr "Ryuuji「（¡Buena atrapada en el aire, si se＿me permite decirlo......! ¿Mmm?）」"
+
+msgid "Ryuuji「（This is...... a fortune? Oh, it's \"very＿lucky\".）」"
+msgstr "Ryuuji「（Esto es...... ¿una papeleta de la＿suerte? Ah, dice \"muy buena suerte\".）」"
+
+msgid "Ryuuji「（And there's a strangely familiar＿footprint on it... Why is this thing flying＿around in the first place? Anyway...）」"
+msgstr "Ryuuji「（Y tiene una huella extrañamente＿familiar... ¿Por qué anda volando＿esto para empezar? Como sea...）」"
+
+msgid "Ryuuji「（...Why is this thing flying around here?＿Anyway...）」"
+msgstr "Ryuuji「（...¿Por qué vuela esto＿por aquí? Como sea...）」"
+
+msgid "Ryuuji「（MOTTAINAI! Pick it......）」"
+msgstr "Ryuuji「（¡QUÉ DESPERDICIO! ¡Recóge......）」"
+
+msgid "???「Aaahh!」"
+msgstr "???「¡Aaahh!」"
+
+msgid "Ryuuji「Hmm?」"
+msgstr "Ryuuji「¿Mmm?」"
+
+msgid "Ryuuji「Oh, you're Tomiie Kota, right?」"
+msgstr "Ryuuji「Ah, eres Tomiie Kota, ¿verdad?」"
+
+msgid "Kota「Y-Y-Yeah. You remembered my full＿name...... Great......」"
+msgstr "Kota「S-S-Sí. Recordaste mi nombre＿completo...... Genial......」"
+
+msgid "Ryuuji「......Umm, is something bothering you?」"
+msgstr "Ryuuji「......Ehm, ¿te preocupa algo?」"
+
+msgid "Ryuuji「（That's right...... Taiga calls him \"the＿Black Cat\". He spreads misfortune＿every time he appears.）」"
+msgstr "Ryuuji「（Es cierto...... Taiga lo llama＿\"el Gato Negro\". Esparce desgracia＿cada vez que aparece.）」"
+
+msgid "Kota「D-D-DEEPLY? \"Involved\"? Stop joking＿around! I don't want to be involved with＿you much......」"
+msgstr "Kota「¿P-P-PROFUNDAMENTE? ¿\"Involucrados\"?＿¡Deja de bromear! No quiero tener＿mucho que ver contigo......」"
+
+msgid "Kota「Aww, it's no use. Kitamura-senpai has＿already......」"
+msgstr "Kota「Ay, no sirve de nada.＿Kitamura-senpai ya......」"
+
+msgid "Ryuuji「Kitamura? What's wrong with＿Kitamura?」"
+msgstr "Ryuuji「¿Kitamura? ¿Qué pasa con Kitamura?」"
+
+msgid "Kota「N-Nothing! He was just walking with＿Palmtop...... I mean, Aisaka-senpai!」"
+msgstr "Kota「¡N-Nada! Solo iba caminando con＿Tigre...... ¡Digo, con Aisaka-senpai!」"
+
+msgid "Ryuuji「Oh, you saw that too?」"
+msgstr "Ryuuji「Ah, ¿tú también los viste?」"
+
+msgid "Kota「Huh? Yeah......」"
+msgstr "Kota「¿Eh? Sí......」"
+
+msgid "Ryuuji「（So they've been wandering around all＿over the place, huh......? Just what are＿they up to?）」"
+msgstr "Ryuuji「（Así que han andado dando vueltas＿por todas partes, ¿eh......? ¿Qué＿diablos están tramando?）」"
+
+msgid "Ryuuji「Taiga was with Kitamura? Is that true?」"
+msgstr "Ryuuji「¿Taiga estaba con Kitamura? ¿Es cierto?」"
+
+msgid "Kota「W-What do I stand to gain by lying right＿now?」"
+msgstr "Kota「¿Q-Qué ganaría yo mintiendo ahora mismo?」"
+
+msgid "Ryuuji「Good point...... Hmmm.」"
+msgstr "Ryuuji「Buen punto...... Mmmm.」"
+
+msgid "Ryuuji「（Since when has Taiga......?）」"
+msgstr "Ryuuji「（¿Desde cuándo Taiga......?）」"
+
+msgid "Kota「I only caught a glimpse earlier through＿my bedroom window, but...... Ummm～?」"
+msgstr "Kota「Solo alcancé a verlos antes por la＿ventana de mi cuarto, pero...... ¿Ehm～?」"
+
+msgid "Ryuuji「......Oh, sorry for the holdup. Carry on.」"
+msgstr "Ryuuji「......Ah, perdón por retrasarte. Sigue.」"
+
+msgid "Kota「Uh, okay...... I mean, but first, could you＿give me that fortune......?」"
+msgstr "Kota「Eh, está bien...... Digo, primero,＿¿podrías darme esa papeleta......?」"
+
+msgid "Ryuuji「Oh, this was yours?」"
+msgstr "Ryuuji「Ah, ¿esto era tuyo?」"
+
+msgid "Kota「Y-Yes. It flew out through my open＿bedroom window, and I've been＿chasing it ever since.」"
+msgstr "Kota「S-Sí. Salió volando por la ventana＿abierta de mi cuarto, y la he estado＿persiguiendo desde entonces.」"
+
+msgid "Ryuuji「Really? That's some bad luck for a＿\"very lucky\" fortune.」"
+msgstr "Ryuuji「¿En serio? Qué mala suerte para una＿papeleta de \"muy buena suerte\".」"
+
+msgid "Kota「Ugh, p-please don't say that.」"
+msgstr "Kota「Agh, p-por favor, no digas eso.」"
+
+msgid "Ryuuji「Here, take it. I'm glad it didn't get too＿far.」"
+msgstr "Ryuuji「Toma. Qué bueno que no llegó muy lejos.」"
+
+msgid "Kota「Y-Yeah! Thank you so much! Bye!」"
+msgstr "Kota「¡S-Sí! ¡Muchas gracias! ¡Adiós!」"
+
+msgid "Ryuuji「Bye.」"
+msgstr "Ryuuji「Adiós.」"
+
+msgid "Ryuuji「（Whew. Now then......）」"
+msgstr "Ryuuji「（Uf. Bueno, ahora......）」"
+
+msgid "Kota「AAAAAAAAAAHHHHHHH!」"
+msgstr "Kota「¡AAAAAAAAAAHHHHHHH!」"
+
+msgid "Ryuuji「Hmm?」"
+msgstr "Ryuuji「¿Mmm?」"
+
+msgid "Ryuuji「（Something's flying off...... Oh, what a＿flimsy UFO.）」"
+msgstr "Ryuuji「（Algo salió volando...... Ah,＿qué OVNI tan endeble.）」"
+
+msgid "Ryuuji「（Yeah, right...... Seriously, what an＿unlucky dude.）」"
+msgstr "Ryuuji「（Sí, claro...... En serio, qué＿tipo tan desafortunado.）」"
+
+msgid "Kota「N-Not at all, but shouldn't I be, like,＿Stranger A or Student B to you,＿Takasu-senpai? W-Why do you」"
+msgstr "Kota「P-Para nada, pero ¿no debería ser como＿Desconocido A o Estudiante B para ti,＿Takasu-senpai? ¿P-Por qué me」"
+
+msgid "Kota「remember me?」"
+msgstr "Kota「recuerdas?」"
+
+msgid "Ryuuji「That's a mystery to me, too...... Oh,＿that's right, I remember now. You＿probably aren't aware of this, but you」"
+msgstr "Ryuuji「Eso es un misterio para mí también......＿Ah, cierto, ya me acordé. Seguro no lo＿sabes, pero tú y yo estamos」"
+
+msgid "Ryuuji「and I are deeply involved.」"
+msgstr "Ryuuji「profundamente involucrados.」"
+
+msgid "Ryuuji「（Actually, one time, just by stepping on＿Tomiie Kota's notebook...... Well, no, I＿feel like there was a real reason, but I）」"
+msgstr "Ryuuji「（De hecho, una vez, solo por pisar el＿cuaderno de Tomiie Kota...... Bueno, no,＿siento que había una razón real, pero）」"
+
+msgid "Ryuuji「（remember Taiga said that's what put＿me in the hospital.）」"
+msgstr "Ryuuji「（recuerdo que Taiga dijo que eso fue＿lo que me mandó al hospital.）」"

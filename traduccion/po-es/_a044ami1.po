@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+
+msgid "Ami「Ufufu①」"
+msgstr "Ami「Jujuju①」"
+
+msgid "Ryuuji「W-What's with that creepy voice all of a＿sudden?」"
+msgstr "Ryuuji「¿Y-Y esa voz tenebrosa tan de repente?」"
+
+msgid "Ami「I was just thinking, we do get along＿after all.」"
+msgstr "Ami「Solo pensaba que, después de＿todo, sí nos llevamos bien.」"
+
+msgid "Ryuuji「You think so?」"
+msgstr "Ryuuji「¿Tú crees?」"
+
+msgid "Ami「Yup. I have a feeling that we can build＿a better relationship, Takasu-kun. I'm＿glad we talked.」"
+msgstr "Ami「Sip. Presiento que podemos construir＿una mejor relación, Takasu-kun. Me＿alegra que hayamos hablado.」"
+
+msgid "Ryuuji「I dread the day you can be your true＿self openly.」"
+msgstr "Ryuuji「Me aterra el día en que puedas mostrar＿tu verdadero yo abiertamente.」"
+
+msgid "Ami「That's rude! ......Well, whatever. Take＿these.」"
+msgstr "Ami「¡Qué grosero! ......Bueno,＿como sea. Toma esto.」"
+
+msgid "Ryuuji「Sunglasses? In the middle of winter?」"
+msgstr "Ryuuji「¿Gafas de sol? ¿En pleno invierno?」"
+
+msgid "Ami「You can use them when you take＿modeling pics with Ami-chan. Better＿than showing your face, right?」"
+msgstr "Ami「Puedes usarlas cuando te tomes fotos＿de modelaje con Ami-chan. Mejor que＿mostrar tu cara, ¿verdad?」"
+
+msgid "Ryuuji「I have no plans to take modeling pics＿with you.」"
+msgstr "Ryuuji「No tengo planes de tomarme fotos＿de modelaje contigo.」"
+
+msgid "Ami「Fufu, I'm kidding. Consider it a symbol＿of our renewed acquaintanceship?」"
+msgstr "Ami「Juju, es broma. ¿Lo tomarías como un＿símbolo de nuestro trato renovado?」"
+
+msgid "Ryuuji「In that case......」"
+msgstr "Ryuuji「En ese caso......」"
+
+msgid "Ami「See you tomorrow. I look forward to＿your answer!」"
+msgstr "Ami「Hasta mañana. ¡Espero con＿ansias tu respuesta!」"
+
+msgid "Ryuuji「Weirdo......」"
+msgstr "Ryuuji「Rarita......」"

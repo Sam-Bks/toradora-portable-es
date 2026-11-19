@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+
+msgid "Taiga「Shall we take a little break? I want＿some hot tea.」"
+msgstr "Taiga「¿Tomamos un pequeño descanso? Quiero＿un poco de té caliente.」"
+
+msgid "Ami「Ami-chan does too～」"
+msgstr "Ami「Ami-chan también～」"
+
+msgid "Ryuuji「Oh, then come on in.」"
+msgstr "Ryuuji「Ah, entonces pasen.」"
+
+msgid "Taiga「Ryuuji, make mine milk tea.」"
+msgstr "Taiga「Ryuuji, el mío que sea té con leche.」"
+
+msgid "Ryuuji「You got it. Take a seat and wait. Want＿the same thing, Kawashima?」"
+msgstr "Ryuuji「Claro. Siéntense y esperen. ¿Quieres＿lo mismo, Kawashima?」"
+
+msgid "Ami「Anything's fine as long as it's, like,＿hot～ ① Gosh, it's freezing outside......」"
+msgstr "Ami「Cualquier cosa me sirve mientras＿esté, o sea, caliente～ ① Ay, hace＿muchísimo frío afuera......」"
+
+msgid "Ami「......Ugggh!! My fingers are all dried out!＿No no no! Takasu-kun, where do you＿keep the lotion!?」"
+msgstr "Ami「......¡¡Agggh!! ¡Tengo los dedos muy＿resecos! ¡No, no, no! Takasu-kun,＿¡¿dónde guardas la crema?!」"
+
+msgid "Ryuuji「Hey, Kawashima! It's fine to hang out＿here but we have to be quieter......」"
+msgstr "Ryuuji「¡Oye, Kawashima! Está bien pasar＿el rato aquí, pero hay que hablar＿más bajo......」"
+
+msgid "Yasuko「Ryu......u......chaaan......」"
+msgstr "Yasuko「Ryu......u......chaaan......」"
+
+msgid "Ryuuji「See what you've done!」"
+msgstr "Ryuuji「¡Mira lo que hiciste!」"
+
+msgid "Ami「Oh, I'm sorry!」"
+msgstr "Ami「¡Ay, lo siento!」"
+
+msgid "Yasuko「Ami......tan......?」"
+msgstr "Yasuko「¿Ami......tan......?」"
+
+msgid "Taiga「Yacchan, did we wake you? We're＿sorry. I'll make sure to teach StuChi a＿lesson.」"
+msgstr "Taiga「Yacchan, ¿te despertamos? Lo＿sentimos. Me encargaré de darle＿una lección a StuChi.」"
+
+msgid "Yasuko「Nnnyaah～ Taiga-chaaan...... What time＿is ittt......?」"
+msgstr "Yasuko「Nnnyaah～ Taiga-chaaan......＿¿Qué hora esss......?」"
+
+msgid "Taiga「It's a little past noon.」"
+msgstr "Taiga「Ya pasó un poco del mediodía.」"
+
+msgid "Yasuko「Time to get uppp......」"
+msgstr "Yasuko「Hora de levantarseee......」"
+
+msgid "Ryuuji「Will you be alright? Did you get＿enough sleep?」"
+msgstr "Ryuuji「¿Estarás bien? ¿Dormiste lo suficiente?」"
+
+msgid "Yasuko「Yup...... Hmm? Huh?」"
+msgstr "Yasuko「Sip...... ¿Mmm? ¿Eh?」"
+
+msgid "Ryuuji「What's up?」"
+msgstr "Ryuuji「¿Qué pasa?」"
+
+msgid "Yasuko「Ryuu-channn...... looks maddd......」"
+msgstr "Yasuko「Ryuu-channn...... parece enojadooo......」"
+
+msgid "Both「Pfft!」"
+msgstr "Ambas「¡Pfft!」"
+
+msgid "Ryuuji「I was born this way!!」"
+msgstr "Ryuuji「¡¡Así nací yo!!」"
+
+msgid "Ryuuji「Up to no good? Nothing comes to＿mind......」"
+msgstr "Ryuuji「¿Tramando algo malo? No se＿me ocurre nada......」"
+
+msgid "Yasuko「Reallyyy? But your eyes say you're＿thinking of bad thiiings～」"
+msgstr "Yasuko「¿De verdaaad? Pero tus ojos dicen＿que piensas en cosas malaaas～」"
+
+msgid "Ryuuji「Bad things?」"
+msgstr "Ryuuji「¿Cosas malas?」"
+
+msgid "Ami「M-O-M-M-Y①」"
+msgstr "Ami「M-A-M-I①」"
+
+msgid "Yasuko「Kyaaan! Ami-chaaan①」"
+msgstr "Yasuko「¡Kyaaan! Ami-chaaan①」"
+
+msgid "Ami「He's not \"up to no good\"～ Takasu-kun＿is about to do something, like, SUPER＿selfless. He's going to play Cupid①」"
+msgstr "Ami「No está \"tramando nada malo\"～ Takasu-kun＿va a hacer algo, o sea, SÚPER＿desinteresado. Va a hacer de Cupido①」"
+
+msgid "Yasuko「Golly gosh, she called Yacchan＿mommyyy☆」"
+msgstr "Yasuko「Caramba, llamó a Yacchan mamiii☆」"
+
+msgid "Ami「OUCH!!」"
+msgstr "Ami「¡¡AUCH!!」"
+
+msgid "Yasuko「Help someoneee～?」"
+msgstr "Yasuko「¿Ayudar a alguieeen～?」"
+
+msgid "Taiga「Yes. It's a crucial plan to save a little＿lamb lost in the darkness.」"
+msgstr "Taiga「Sí. Es un plan crucial para salvar a una＿ovejita perdida en la oscuridad.」"
+
+msgid "Yasuko「Is that sooo......? Hmmm, kinda＿confusing, but be extra careful in the＿dark～ Here, you can have this～」"
+msgstr "Yasuko「¿De verdaaad......? Mmm, es algo＿confuso, pero tengan mucho cuidado en＿lo oscuro～ Tomen, quédense con esto～」"
+
+msgid "Ryuuji「（A flashlight...... I feel like she's thinking＿of a different kind of \"darkness\", but oh＿well.）」"
+msgstr "Ryuuji「（Una linterna...... Siento que＿está pensando en otro tipo de＿\"oscuridad\", pero en fin.）」"
+
+msgid "Ami「I've had enough of this running gag.＿What if all your kicking leaves bruises＿on me?! Grr!」"
+msgstr "Ami「Ya tuve suficiente de este chiste＿repetido. ¡¿Y si de tanto patearme＿me dejas moretones?! ¡Grr!」"
+
+msgid "Taiga「Ryuuji, hurry up with the tea.」"
+msgstr "Taiga「Ryuuji, apúrate con el té.」"
+
+msgid "Ryuuji「Oh, wait just a little longer. Want some,＿Yasuko?」"
+msgstr "Ryuuji「Ah, espera un poco más. ¿Quieres＿un poco, Yasuko?」"
+
+msgid "Yasuko「Do wanttt～ Listen, Ryuu-chan.」"
+msgstr "Yasuko「Sí quierooo～ Escucha, Ryuu-chan.」"
+
+msgid "Ryuuji「Hm?」"
+msgstr "Ryuuji「¿Mmm?」"
+
+msgid "Yasuko「If someone tries to meddle with your＿love life, kick them in the llama and＿send them flying☆」"
+msgstr "Yasuko「Si alguien intenta meterse en＿tu vida amorosa, patéalo en la＿llama y mándalo a volar☆」"
+
+msgid "Ryuuji「Eek......」"
+msgstr "Ryuuji「Hii......」"
+
+msgid "Both「......」"
+msgstr "Ambas「......」"
+
+msgid "Yasuko「......Have you heard of that saying?」"
+msgstr "Yasuko「......¿Habías oído ese dicho?」"
+
+msgid "Ryuuji「......Never. And I think you made a＿couple mistakes there.」"
+msgstr "Ryuuji「......Nunca. Y creo que cometiste＿un par de errores ahí.」"
+
+msgid "Yasuko「Ehe ☆ Maybeee～」"
+msgstr "Yasuko「Eje ☆ Tal veeez～」"
+
+msgid "Ryuuji「For your information, I'm not meddling＿with anyone's love life. I'm supporting＿it.」"
+msgstr "Ryuuji「Para que lo sepas, no me meto＿en la vida amorosa de nadie.＿La estoy apoyando.」"
+
+msgid "Yasuko「Ohh～ Reallyyy?」"
+msgstr "Yasuko「Ahh～ ¿De verdaaad?」"
+
+msgid "Ryuuji「（It's true...... right?）」"
+msgstr "Ryuuji「（Es verdad...... ¿no?）」"
+
+msgid "Yasuko「Nuh uhhh～ Yacchan loooves＿Ryuu-chan's eyes. But this time's＿different......」"
+msgstr "Yasuko「Nopeee～ A Yacchan le encaaantan＿los ojos de Ryuu-chan. Pero esta＿vez es diferente......」"
+
+msgid "Yasuko「Ryuu-chan, are you up to no gooddd?」"
+msgstr "Yasuko「Ryuu-chan, ¿estás tramando algo malooo?」"
+
+msgid "Ami「Oh, I'm sorry, that was forward of me. It＿wasn't on purpose～ Dumb ol'＿Ami-chan. It just came naturally to」"
+msgstr "Ami「Ay, perdón, qué atrevida. No fue＿a propósito～ Tonta Ami-chan. Solo＿me salió natural a」"
+
+msgid "Ami「m......」"
+msgstr "Ami「m......」"
+
+msgid "Taiga「Yacchan, don't worry. Ryuuji may look＿like a criminal, but he'd never do＿anything bad.」"
+msgstr "Taiga「Yacchan, no te preocupes. Aunque＿Ryuuji parezca un criminal, nunca＿haría nada malo.」"
+
+msgid "Taiga「We're just formulating a plan to try and＿seriously help someone.」"
+msgstr "Taiga「Solo estamos ideando un plan para＿intentar ayudar en serio a alguien.」"

@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「Argh, the winter sunshine hurts my＿eyes...... And as a bonus, my foot＿hurts......」"
+msgstr "Ryuuji「Agh, el sol de invierno me lastima＿los ojos...... Y por si fuera poco,＿me duele el pie......」"
+
+msgid "Ryuuji「（Taiga should be meeting up with＿Kitamura right about now......）」"
+msgstr "Ryuuji「（Taiga debería estar reuniéndose con＿Kitamura en este momento......）」"
+
+msgid "Ami「Takasu-kun, good morning～①」"
+msgstr "Ami「Takasu-kun, buenos días～①」"
+
+msgid "Ryuuji「Oh, hey......」"
+msgstr "Ryuuji「Ah, hola......」"
+
+msgid "Ami「What's with that reply? You're such a＿dullard first thing in the morning～」"
+msgstr "Ami「¿Y esa respuesta? Qué apagado estás＿a primera hora de la mañana～」"
+
+msgid "Ryuuji「A lot happened while I was playing my＿part in this......」"
+msgstr "Ryuuji「Pasaron muchas cosas mientras＿hacía mi parte en esto......」"
+
+msgid "Ryuuji「You're in a good mood all of a sudden.＿But the weather doesn't affect the＿planetarium, you know.」"
+msgstr "Ryuuji「Qué buen humor de repente. Pero el clima＿no afecta al planetario, ¿sabes?」"
+
+msgid "Ryuuji「Don't worry, that's just my physical＿and mental fatigue showing. So, did＿Taiga make it?」"
+msgstr "Ryuuji「No te preocupes, solo se me nota＿el agotamiento físico y mental.＿Y bien, ¿Taiga lo logró?」"
+
+msgid "Ryuuji「W-Was she now......」"
+msgstr "Ryuuji「V-Vaya, así que sí......」"
+
+msgid "Ami「That little Tiger had the nervous jitters＿pretty bad. Is she really alright?」"
+msgstr "Ami「Esa pequeña Tigre estaba hecha un manojo＿de nervios. ¿De verdad estará bien?」"
+
+msgid "Ryuuji「She's the worst actor out of the three＿of us......」"
+msgstr "Ryuuji「Es la peor actriz de los tres......」"
+
+msgid "Ami「Well, all we can do is count on her.＿Here's two tickets for you and that＿haughty woman.」"
+msgstr "Ami「Bueno, solo nos queda confiar en＿ella. Aquí tienes dos entradas para＿ti y esa mujer altanera.」"
+
+msgid "Ryuuji「You have exactly the right amount of＿tickets. Impressive.」"
+msgstr "Ryuuji「Tienes la cantidad exacta de＿entradas. Impresionante.」"
+
+msgid "Ryuuji「Thank you. You're a lifesaver.」"
+msgstr "Ryuuji「Gracias. Me salvaste la vida.」"
+
+msgid "Ami「Let's get going, then①」"
+msgstr "Ami「Vámonos entonces①」"
+
+msgid "Ryuuji「......Hey.」"
+msgstr "Ryuuji「......Oye.」"
+
+msgid "Ami「What?」"
+msgstr "Ami「¿Qué?」"
+
+msgid "Ryuuji「What's with the arm?」"
+msgstr "Ryuuji「¿Y ese brazo?」"
+
+msgid "Ami「Takasu-kun, don't tell me you've never＿linked arms with a girl before?」"
+msgstr "Ami「Takasu-kun, ¿me vas a decir que nunca＿has ido del brazo con una chica?」"
+
+msgid "Ryuuji「That's not the problem here! I'm asking＿WHY you're linking arms with me!」"
+msgstr "Ryuuji「¡Ese no es el problema! ¡Te pregunto＿POR QUÉ me agarras del brazo!」"
+
+msgid "Ami「What's it matter? We're finally going to＿Luxure. Be honored that Ami-chan＿would escort you halfway.」"
+msgstr "Ami「¿Qué más da? Por fin vamos a Luxure.＿Siéntete honrado de que Ami-chan te＿acompañe hasta la mitad del camino.」"
+
+msgid "Ryuuji「How would we explain it to＿Kanou-senpai if she saw us? Let go.」"
+msgstr "Ryuuji「¿Cómo se lo explicaríamos a Kanou-senpai＿si nos viera? Suéltame.」"
+
+msgid "Ami「Boooringgg～ Oh well. Let's get going.＿It's almost time for you to meet up with＿that woman.」"
+msgstr "Ami「Qué aburridooo～ Qué más da. Vámonos.＿Ya casi es hora de que te encuentres＿con esa mujer.」"
+
+msgid "Ryuuji「Oh, okay.」"
+msgstr "Ryuuji「Ah, está bien.」"
+
+msgid "Ryuuji「（You're not alone, Taiga...... I'm nervous＿too.）」"
+msgstr "Ryuuji「（No estás sola, Taiga...... Yo＿también estoy nervioso.）」"
+
+msgid "Ami「I don't really get it, but...... In any case,＿thank god it's sunny!」"
+msgstr "Ami「No lo entiendo bien, pero...... De todos＿modos, ¡gracias a Dios hace sol!」"
+
+msgid "Ami「As you might expect, even the God of＿Sunshine loves Ami-chan♪」"
+msgstr "Ami「Como era de esperarse, ¡hasta el＿Dios del Sol ama a Ami-chan♪」"
+
+msgid "Ami「Nonsense. The proper weather is＿essential to kindling a romance!」"
+msgstr "Ami「Tonterías. ¡El clima adecuado es＿esencial para encender un romance!」"
+
+msgid "Ami「Sheesh, what's with that perma-weird＿expression? You look really dejected.」"
+msgstr "Ami「Cielos, ¿qué pasa con esa cara rara＿de siempre? Te ves muy desanimado.」"
+
+msgid "Ami「Yup, I saw her before she met up with＿Yuusaku in order to give her the＿planetarium tickets.」"
+msgstr "Ami「Sip, la vi antes de que se reuniera＿con Yuusaku para darle las entradas＿del planetario.」"
+
+msgid "Ami「She was raving about your convincing＿fake-sick acting～」"
+msgstr "Ami「Estaba elogiando tu convincente＿actuación de enfermo～」"
+
+msgid "Ami「Of course! Everything's a piece of cake＿for Ami-chan ♪ ......That's what I'd like＿to say.」"
+msgstr "Ami「¡Por supuesto! Todo es pan＿comido para Ami-chan ♪ ......Eso＿me gustaría decir.」"
+
+msgid "Ami「It was so sudden that even Mama said＿it was impossible.」"
+msgstr "Ami「Fue tan repentino que hasta mamá＿dijo que era imposible.」"

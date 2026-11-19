@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+
+msgid "Ami「Takasu-kun, I gotta go.」"
+msgstr "Ami「Takasu-kun, ya me tengo que ir.」"
+
+msgid "Ryuuji「Huh? Oh. Already, huh?」"
+msgstr "Ryuuji「¿Eh? Ah. Tan pronto, ¿eh?」"
+
+msgid "Ami「Yeah. I don't have all day, you know.」"
+msgstr "Ami「Sí. No tengo todo el día, ¿sabes?」"
+
+msgid "Ryuuji「......I see.」"
+msgstr "Ryuuji「......Ya veo.」"
+
+msgid "Ryuuji「（What did I want to talk to Kawashima＿about......?）」"
+msgstr "Ryuuji「（¿De qué quería hablar＿con Kawashima......?）」"
+
+msgid "Ami「Takasu-kun...」"
+msgstr "Ami「Takasu-kun...」"
+
+msgid "Ryuuji「What?」"
+msgstr "Ryuuji「¿Qué?」"
+
+msgid "Ami「I'm glad I managed to understand that＿in time.」"
+msgstr "Ami「Me alegra haber podido entender＿eso a tiempo.」"
+
+msgid "Ryuuji「Sure thing......」"
+msgstr "Ryuuji「Claro......」"
+
+msgid "Ami「Well, Takasu-kun, take care.」"
+msgstr "Ami「Bueno, Takasu-kun, cuídate.」"
+
+msgid "Ryuuji「Yeah, you too. Don't push yourself too＿hard.」"
+msgstr "Ryuuji「Sí, tú también. No te＿esfuerces demasiado.」"
+
+msgid "Ami「Okay. Likewise, remember to look after＿yourself now and then, not just＿everyone else.」"
+msgstr "Ami「Está bien. Igual tú, recuerda cuidar＿de ti mismo de vez en cuando, no＿solo de los demás.」"
+
+msgid "Ami「......You have to come to terms with＿yourself about Minori-chan, right?」"
+msgstr "Ami「......Tienes que hacer las paces contigo＿mismo respecto a Minori-chan, ¿verdad?」"
+
+msgid "Ryuuji「Yeah.」"
+msgstr "Ryuuji「Sí.」"
+
+msgid "Ami「......I'm rooting for you.」"
+msgstr "Ami「......Te apoyo.」"
+
+msgid "Ami「Bye-bye.」"
+msgstr "Ami「Adiós.」"
+
+msgid "Ryuuji「And just like that, Kawashima was＿gone.」"
+msgstr "Ryuuji「Y así, sin más, Kawashima se fue.」"
+
+msgid "Ryuuji「A few months later, the actress＿Kawashima Ami made her debut.」"
+msgstr "Ryuuji「Unos meses después, la actriz＿Kawashima Ami debutó.」"
+
+msgid "Ryuuji「It's been a few years since then -- and＿even now, sometimes I'm reminded of＿her.」"
+msgstr "Ryuuji「Han pasado unos años desde entonces --＿y aun ahora, a veces me acuerdo de ella.」"
+
+msgid "Ryuuji「Not Kawashima Ami the actress, but＿the girl who was my friend.」"
+msgstr "Ryuuji「No de Kawashima Ami la actriz, sino＿de la chica que fue mi amiga.」"
+
+msgid "Ryuuji「Merely fleeting thoughts.」"
+msgstr "Ryuuji「Solo pensamientos fugaces.」"
+
+msgid "Ryuuji「Maybe she remembers me, too.」"
+msgstr "Ryuuji「Tal vez ella también me recuerde.」"
+
+msgid "Yuri「Hello. First of all, perhaps I should＿thank you for your hard work,＿Takasu-kun.」"
+msgstr "Yuri「Hola. Antes que nada, quizá debería＿agradecerte por tu esfuerzo, Takasu-kun.」"
+
+msgid "Yuri「Now that you got this ending, the＿reason I brought you here......」"
+msgstr "Yuri「Ahora que llegaste a este final, la＿razón por la que te traje aquí......」"
+
+msgid "Yuri「......is none other than to discuss the＿route you chose. I thought we could＿ponder it together.」"
+msgstr "Yuri「......no es otra que hablar sobre la＿ruta que elegiste. Pensé que podríamos＿reflexionar juntos al respecto.」"
+
+msgid "Yuri「Well then, let's evaluate the ending you＿just saw.」"
+msgstr "Yuri「Bien, entonces evaluemos el＿final que acabas de ver.」"
+
+msgid "Yuri「Welcome, Takasu-kun.」"
+msgstr "Yuri「Bienvenido, Takasu-kun.」"
+
+msgid "Yuri「Well then, let's begin to evaluate the＿ending you just saw.」"
+msgstr "Yuri「Bien, comencemos a evaluar el＿final que acabas de ver.」"
+
+msgid "Yuri「Let's see, this time...... You caught up to＿Kawashima-san, but you couldn't talk＿to her, hm?」"
+msgstr "Yuri「Veamos, esta vez...... Alcanzaste＿a Kawashima-san, pero no pudiste＿hablar con ella, ¿eh?」"
+
+msgid "Yuri「Good grief, boys these days...... If you＿can't make decisions when you need＿to, how can you expect a girl to do it?」"
+msgstr "Yuri「Ay, los chicos de hoy...... Si no puedes＿decidirte cuando hace falta, ¿cómo＿esperas que una chica lo haga?」"
+
+msgid "Yuri「With high hopes for next time, I give＿this ending 50 points. Why don't you＿give it one more try?」"
+msgstr "Yuri「Con grandes esperanzas para la próxima,＿le doy 50 puntos a este final. ¿Por qué＿no lo intentas una vez más?」"
+
+msgid "Yuri「Okay, that's all for today. Until next＿time!」"
+msgstr "Yuri「Bueno, eso es todo por hoy.＿¡Hasta la próxima!」"
+
+msgid "『Music』 is now available in 『Extra』"
+msgstr "『Música』 ya está disponible en 『Extra』"
+
+msgid "『Album』 is now available in 『Extra』"
+msgstr "『Álbum』 ya está disponible en 『Extra』"
+
+msgid "Ami「Thanks for remembering. I didn't＿appreciate you forgetting it, but＿remembering it means I'm in your」"
+msgstr "Ami「Gracias por recordarlo. No me gustó＿que lo olvidaras, pero recordarlo＿significa que estoy en tus」"
+
+msgid "Ami「thoughts.」"
+msgstr "Ami「pensamientos.」"
+
+msgid "Yuri「I'll come and see you every time you＿reach an ending.」"
+msgstr "Yuri「Vendré a verte cada vez que＿llegues a un final.」"
+
+msgid "Yuri「I want you to reflect on the actions you＿made this time and keep them in mind＿for next time.」"
+msgstr "Yuri「Quiero que reflexiones sobre las＿decisiones que tomaste esta vez y las＿tengas en cuenta para la próxima.」"
+
+msgid "Yuri「You know, way back when, if I could＿have just confessed to him without＿hesitation...... Sorry. Setting that」"
+msgstr "Yuri「Sabes, hace tiempo, si tan solo＿me hubiera declarado a él sin＿dudar...... Perdón. Dejando eso」"
+
+msgid "Yuri「aside......」"
+msgstr "Yuri「de lado......」"

@@ -1,0 +1,296 @@
+msgid ""
+msgstr ""
+
+msgid "Taiga「You moron, Ryuuji!」"
+msgstr "Taiga「¡Eres un idiota, Ryuuji!」"
+
+msgid "Ryuuji「Oh!?」"
+msgstr "Ryuuji「¡¿Eh?!」"
+
+msgid "Taiga「Where did you wander off to?!」"
+msgstr "Taiga「¡¿A dónde te fuiste a vagar?!」"
+
+msgid "Ryuuji「W-Where......?」"
+msgstr "Ryuuji「¿A-A dónde......?」"
+
+msgid "Taiga「I'm asking you!」"
+msgstr "Taiga「¡Te estoy preguntando!」"
+
+msgid "Taiga「Where!」"
+msgstr "Taiga「¡Dónde!」"
+
+msgid "Taiga「Have you!」"
+msgstr "Taiga「¡Has estado!」"
+
+msgid "Taiga「Been screwing off!!」"
+msgstr "Taiga「¡Perdiendo el tiempo!!」"
+
+msgid "Ryuuji「Ouch, ouch, ouch!」"
+msgstr "Ryuuji「¡Auch, auch, auch!」"
+
+msgid "Ryuuji「Oh...... That's right, I forgot to let her＿know beforehand.」"
+msgstr "Ryuuji「Ah...... Es verdad, olvidé＿avisarle de antemano.」"
+
+msgid "Ryuuji「OUCH! You better hope I don't lose＿even more of my memory!」"
+msgstr "Ryuuji「¡AUCH! ¡Más vale que no me hagas＿perder todavía más la memoria!」"
+
+msgid "Taiga「Be quiet! Go apologize to Yacchan!」"
+msgstr "Taiga「¡Cállate! ¡Ve a disculparte con Yacchan!」"
+
+msgid "Ryuuji「I-I get it! That hurts! I said stop hitting＿me!」"
+msgstr "Ryuuji「¡Y-Ya entendí! ¡Eso duele! ¡Te＿dije que dejes de pegarme!」"
+
+msgid "Taiga「You some kind of stray dog, roaming＿around with amnesia!?」"
+msgstr "Taiga「¡¿Acaso eres un perro callejero,＿vagando por ahí con amnesia?!」"
+
+msgid "Ryuuji「S-Stray......? I know where I live!」"
+msgstr "Ryuuji「¿C-Callejero......? ¡Sí sé dónde vivo!」"
+
+msgid "Taiga「......Really?」"
+msgstr "Taiga「......¿En serio?」"
+
+msgid "Taiga「Cleaning...... Pfft.」"
+msgstr "Taiga「Limpiando...... Pfft.」"
+
+msgid "Ryuuji「W-What?」"
+msgstr "Ryuuji「¿Q-Qué?」"
+
+msgid "Taiga「Seriously, of all the things, cleaning?＿Hehehe...... \"Chores cured my＿amnesia\"...... Hahahaha!」"
+msgstr "Taiga「En serio, de todas las cosas, ¿limpiar?＿Jejeje...... \"Los quehaceres curaron＿mi amnesia\"...... ¡Jajajaja!」"
+
+msgid "Ryuuji「Is it really that funny?」"
+msgstr "Ryuuji「¿De verdad da tanta risa?」"
+
+msgid "Taiga「It's just, it's so like you, Ryuuji!＿Hahahaha! Heehee!」"
+msgstr "Taiga「¡Es que eso es tan típico de ti,＿Ryuuji! ¡Jajajaja! ¡Jijiji!」"
+
+msgid "Ryuuji「......Hmmm, Yasuko did call me a＿\"top-notch househusband\" earlier, but＿it seems that's how I really was.」"
+msgstr "Ryuuji「......Hmmm, antes Yasuko me llamó＿\"amo de casa de primera\", pero parece＿que así era yo en realidad.」"
+
+msgid "Taiga「\"Was\"? That's how you are. Knowing＿you, I'm sure you'll make a man very＿happy someday. Pfft......」"
+msgstr "Taiga「¿\"Eras\"? Así es como eres. Conociéndote,＿seguro harás muy feliz a algún hombre＿algún día. Pfft......」"
+
+msgid "Ryuuji「Very funny......」"
+msgstr "Ryuuji「Qué graciosa......」"
+
+msgid "Taiga「Hey Ryuuji, when you were doing＿chores, did it all start coming back to＿you?」"
+msgstr "Taiga「Oye, Ryuuji, cuando＿hacías los quehaceres,＿¿empezaste a recordarlo todo?」"
+
+msgid "Ryuuji「The housework helped a little, but......＿walking around outside and talking to＿people has helped more......」"
+msgstr "Ryuuji「Las tareas de la casa ayudaron un poco,＿pero...... caminar afuera y hablar con＿la gente me ha ayudado más......」"
+
+msgid "Taiga「Yeah......」"
+msgstr "Taiga「Sí......」"
+
+msgid "Ryuuji「Seems that way...... Oh, and hitting or＿kicking me won't help!」"
+msgstr "Ryuuji「Eso parece...... ¡Ah, y pegarme＿o patearme no va a ayudar!」"
+
+msgid "Taiga「Oh, shut up. I didn't resort to violence＿for the fun of it, you know.」"
+msgstr "Taiga「Oh, cállate. No recurrí a la violencia＿por diversión, ¿sabes?」"
+
+msgid "Ryuuji「Oh really?」"
+msgstr "Ryuuji「¿Ah, sí?」"
+
+msgid "Taiga「......What?」"
+msgstr "Taiga「......¿Qué?」"
+
+msgid "Ryuuji「N-No, it's nothing!」"
+msgstr "Ryuuji「¡N-No, no es nada!」"
+
+msgid "Ryuuji「（W-What was that!? Am I seeing things?＿I thought I saw something ridiculously＿ominous behind her!）」"
+msgstr "Ryuuji「（¡¿Q-Qué fue eso?! ¿Estoy alucinando?＿¡Creí ver algo terriblemente siniestro＿detrás de ella!）」"
+
+msgid "Ryuuji「（A-At any rate, it seems it's best not to＿upset her too much......）」"
+msgstr "Ryuuji「（E-En todo caso, parece que es mejor＿no hacerla enojar demasiado......）」"
+
+msgid "Taiga「Hmph, don't flip out...... Wait. Come to＿think of it, you remember my name,＿don't you?」"
+msgstr "Taiga「Jum, no te alteres...... Espera.＿Ahora que lo pienso, te acuerdas＿de mi nombre, ¿verdad?」"
+
+msgid "Ryuuji「T-Taiga...... right?」"
+msgstr "Ryuuji「T-Taiga...... ¿cierto?」"
+
+msgid "Taiga「......Good.」"
+msgstr "Taiga「......Bien.」"
+
+msgid "Ryuuji「Uhh, err...... Shouldn't I use an＿honorific? Although, I do get the＿feeling that I know you pretty well.」"
+msgstr "Ryuuji「Ehh, ehm...... ¿No debería usar un＿honorífico? Aunque tengo la sensación＿de que te conozco bastante bien.」"
+
+msgid "Ryuuji「M-Master?」"
+msgstr "Ryuuji「¿A-Ama?」"
+
+msgid "Taiga「That's right. You're my dog.」"
+msgstr "Taiga「Así es. Eres mi perro.」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Taiga「Helpless mongrel that you are, you're＿my servant dog.」"
+msgstr "Taiga「Como el mestizo inútil que eres,＿eres mi perro sirviente.」"
+
+msgid "Ryuuji「......I feel like I've heard that before.」"
+msgstr "Ryuuji「......Creo que ya he oído eso antes.」"
+
+msgid "Ryuuji「......Uh, excuse you.」"
+msgstr "Ryuuji「......Eh, oye, más respeto.」"
+
+msgid "Taiga「Oh crap! I have to call Yacchan and tell＿her I found the stray一 I mean, Ryuuji.＿Sit! Stay!」"
+msgstr "Taiga「¡Oh, rayos! Tengo que llamar a Yacchan＿y decirle que encontré al callejero一＿digo, a Ryuuji. ¡Siéntate! ¡Quieto!」"
+
+msgid "Ryuuji「Uh...... S-Stray......? Mongrel......?」"
+msgstr "Ryuuji「Eh...... ¿C-Callejero......?＿¿Mestizo......?」"
+
+msgid "Ryuuji「（......Who am I really?）」"
+msgstr "Ryuuji「（......¿Quién soy yo en realidad?）」"
+
+msgid "Taiga「Sorry for the wait. I'll have you＿apologize properly to Yacchan later.」"
+msgstr "Taiga「Perdón por la espera. Más tarde haré＿que te disculpes bien con Yacchan.」"
+
+msgid "Ryuuji「Sure thing.」"
+msgstr "Ryuuji「Claro que sí.」"
+
+msgid "Taiga「You, you probably don't...... have plans＿later, huh?」"
+msgstr "Taiga「Tú, probablemente no...... tengas＿planes más tarde, ¿verdad?」"
+
+msgid "Ryuuji「Well, not really, no.」"
+msgstr "Ryuuji「Bueno, la verdad es que no.」"
+
+msgid "Taiga「Then I'll have you accompany me.」"
+msgstr "Taiga「Entonces haré que me acompañes.」"
+
+msgid "Ryuuji「Didn't you come here to take me＿home?」"
+msgstr "Ryuuji「¿Acaso no viniste para llevarme a casa?」"
+
+msgid "Taiga「Didn't you say you needed to walk all＿around to get your memories back?＿Less talking, more doing.」"
+msgstr "Taiga「¿No dijiste que necesitabas caminar＿por todos lados para recuperar la＿memoria? Menos charla y más acción.」"
+
+msgid "Ryuuji「（I don't think I said it like that......）」"
+msgstr "Ryuuji「（No creo haberlo dicho así......）」"
+
+msgid "Taiga「Well, I already told Yacchan you'd be＿out past dark.」"
+msgstr "Taiga「Bueno, ya le dije a Yacchan que＿volverías después del anochecer.」"
+
+msgid "Ryuuji「Oh yeah, can I ask you something?」"
+msgstr "Ryuuji「Ah, por cierto, ¿puedo preguntarte algo?」"
+
+msgid "Taiga「What?」"
+msgstr "Taiga「¿Qué?」"
+
+msgid "Ryuuji「How do you and Yacchan...... I mean,＿Yasuko know each other?」"
+msgstr "Ryuuji「¿De qué se conocen Yacchan......＿digo, Yasuko y tú?」"
+
+msgid "Taiga「What...... what do you mean?」"
+msgstr "Taiga「¿Qué...... a qué te refieres?」"
+
+msgid "Ryuuji「You said you're my master, but I live＿with Yasuko as a house-husband...... so＿what's the story?」"
+msgstr "Ryuuji「Dijiste que eres mi ama, pero＿vivo con Yasuko como amo de casa......＿¿cómo encaja eso?」"
+
+msgid "Taiga「I see. We're your co-owners, I suppose.」"
+msgstr "Taiga「Ya veo. Somos tus codueñas, supongo.」"
+
+msgid "Ryuuji「......I don't get it.」"
+msgstr "Ryuuji「......No lo entiendo.」"
+
+msgid "Taiga「Oh, are you really that confused?」"
+msgstr "Taiga「Oh, ¿de verdad estás tan confundido?」"
+
+msgid "Ryuuji「Yeah, a little.」"
+msgstr "Ryuuji「Sí, un poco.」"
+
+msgid "Taiga「I guess that makes sense...... Fine. I'll＿explain everything.」"
+msgstr "Taiga「Supongo que tiene sentido......＿Bien. Te lo explicaré todo.」"
+
+msgid "Ryuuji「......Oh, please do.」"
+msgstr "Ryuuji「......Ah, por favor.」"
+
+msgid "Taiga「Truth is, you could say I'm indebted to＿you and Yacchan. It's kind of＿mortifying, but it's an undeniable fact.」"
+msgstr "Taiga「La verdad, podría decirse que estoy en＿deuda contigo y con Yacchan. Es algo＿humillante, pero es un hecho innegable.」"
+
+msgid "Ryuuji「Is that so?」"
+msgstr "Ryuuji「¿Ah, sí?」"
+
+msgid "Taiga「We started as neighbors, but since＿spring of this year, you've cooked for＿me and done my chores.」"
+msgstr "Taiga「Empezamos como vecinos, pero desde la＿primavera de este año me has cocinado＿y has hecho mis quehaceres.」"
+
+msgid "Ryuuji「......」"
+msgstr "Ryuuji「......」"
+
+msgid "Taiga「Thanks to you, I've been able to live a＿normal, decent life...... Yeah, that's a＿fact, no doubt about it.」"
+msgstr "Taiga「Gracias a ti, he podido llevar una＿vida normal y decente...... Sí, ese＿es un hecho, sin lugar a dudas.」"
+
+msgid "Ryuuji「I see.」"
+msgstr "Ryuuji「Ya veo.」"
+
+msgid "Ryuuji「Is it that serious?」"
+msgstr "Ryuuji「¿Tan grave es?」"
+
+msgid "Ryuuji「O-Oh!?」"
+msgstr "Ryuuji「¡¿O-Oh?!」"
+
+msgid "Taiga「Therefore, I've decided to have you＿meet people, so that Yacchan and I＿can continue to live comfortably.」"
+msgstr "Taiga「Por lo tanto, decidí llevarte a ver a＿algunas personas para que Yacchan y yo＿sigamos viviendo cómodamente.」"
+
+msgid "Ryuuji「Huh? Meet who?」"
+msgstr "Ryuuji「¿Eh? ¿Ver a quién?」"
+
+msgid "Ryuuji「C-Coming!」"
+msgstr "Ryuuji「¡Y-Ya voy!」"
+
+msgid "Taiga「The second we take our eyes off you,＿you disappear! You made Yacchan cry!」"
+msgstr "Taiga「¡Te pierdes en cuanto no te vemos!＿¡Hiciste llorar a Yacchan!」"
+
+msgid "Taiga「She was so happy you were finally＿discharged! Useless, vapid, stupid＿Ryuuji!」"
+msgstr "Taiga「¡Estaba tan feliz de que por fin＿te dieran el alta! ¡Inútil, hueco＿y estúpido Ryuuji!」"
+
+msgid "Ryuuji「Yeah, really. When I was cleaning the＿house earlier, for the first time I really＿felt like it was my home.」"
+msgstr "Ryuuji「Sí, en serio. Cuando estuve limpiando＿la casa hace rato, por primera vez sentí＿de verdad que era mi hogar.」"
+
+msgid "Ryuuji「I remembered the address, too.」"
+msgstr "Ryuuji「También recordé la dirección.」"
+
+msgid "Ryuuji「Like, I did meet a few people who＿seemed to know me, but I didn't tell＿them about my amnesia.」"
+msgstr "Ryuuji「Por ejemplo, me topé con algunas＿personas que parecían conocerme, pero＿no les conté lo de mi amnesia.」"
+
+msgid "Ryuuji「So I didn't really know what they were＿talking about......」"
+msgstr "Ryuuji「Así que en realidad no sabía de＿qué me estaban hablando......」"
+
+msgid "Ryuuji「Just from doing that, I keep getting＿these fuzzy images in the back of my＿mind.」"
+msgstr "Ryuuji「Con solo hacer eso, me siguen＿viniendo imágenes borrosas＿al fondo de la mente.」"
+
+msgid "Ryuuji「I have a hunch that they're the clues＿to regaining my memories.」"
+msgstr "Ryuuji「Tengo el presentimiento de que son las＿pistas para recuperar mis recuerdos.」"
+
+msgid "Taiga「Really? Hmmm～ So, in order to＿stimulate your brain, you......」"
+msgstr "Taiga「¿En serio? Hmmm～ Entonces, para＿estimular tu cerebro, tú......」"
+
+msgid "Taiga「You should just walk around and talk＿to everyone you meet?」"
+msgstr "Taiga「¿Solo tienes que caminar por ahí y＿hablar con todos los que te cruces?」"
+
+msgid "Taiga「......I'll allow it JUST - FOR - NOW.」"
+msgstr "Taiga「......Lo permitiré SOLO - POR - AHORA.」"
+
+msgid "Taiga「Consider it a reward for having firmly＿carved your master's name into that＿tiny brain of yours.」"
+msgstr "Taiga「Considéralo un premio por haberte＿grabado bien el nombre de tu ama＿en ese diminuto cerebro tuyo.」"
+
+msgid "Taiga「That's right. It took forever to train＿you. *Sigh* Now I have to start from＿scratch!」"
+msgstr "Taiga「Así es. Me costó una eternidad＿entrenarte. *Suspiro* ¡Ahora tengo＿que empezar de cero!」"
+
+msgid "Taiga「Hmph! It couldn't possibly get more＿annoying than this!」"
+msgstr "Taiga「¡Jum! ¡No podría haber nada＿más molesto que esto!」"
+
+msgid "Taiga「So Ryuuji...... We need you to turn back＿to normal fast, or me and Yacchan will＿be in a pinch. It's a life or death cu-」"
+msgstr "Taiga「Así que Ryuuji...... Vuelve pronto＿a ser el de antes o Yacchan y yo＿estaremos en apuros.」"
+
+msgid "Taiga「cur- CRISIS.」"
+msgstr "Taiga「Es de vida o muerte, una＿cri- cri- CRISIS.」"
+
+msgid "Taiga「Of course! That's why, above all, you＿need your household perception back!」"
+msgstr "Taiga「¡Por supuesto! ¡Por eso, ante todo,＿debes recuperar tu sentido doméstico!」"
+
+msgid "Taiga「Otherwise me and Yacchan will deviate＿from society, be ostracized, and fall＿into despair!」"
+msgstr "Taiga「¡Si no, Yacchan y yo nos apartaremos＿de la sociedad, seremos marginadas y＿caeremos en la desesperación!」"
+
+msgid "Taiga「You'll know when you get there. The＿way you are now, this will get you＿going more than anything, I bet......」"
+msgstr "Taiga「Ya lo sabrás cuando lleguemos. Tal＿como estás ahora, apuesto a que esto＿te animará más que nada......」"
+
+msgid "Taiga「Anyway, we're going, so don't＿dilly-dally, you lazy dog!」"
+msgstr "Taiga「En fin, ya nos vamos, ¡así que＿no te demores, perro flojo!」"

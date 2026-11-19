@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「..................」"
+msgstr "Ryuuji「..................」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Ryuuji「......」"
+msgstr "Ryuuji「......」"
+
+msgid "Ryuuji「*Sigh*」"
+msgstr "Ryuuji「*Suspiro*」"
+
+msgid "Ryuuji「（Is Taiga not gonna come over for＿breakfast either? I already went to the＿trouble of making it......）」"
+msgstr "Ryuuji「（¿Taiga tampoco vendrá a desayunar?＿Y eso que ya me tomé la molestia＿de prepararlo......）」"
+
+msgid "Ryuuji「（With the cleaning and the laundry out＿of the way, I'm bored...... And it's still too＿early to make lunch.）」"
+msgstr "Ryuuji「（Ya terminé de limpiar y lavar la ropa,＿así que estoy aburrido...... Y aún es＿muy pronto para el almuerzo.）」"
+
+msgid "Ryuuji「Oh, I know!」"
+msgstr "Ryuuji「¡Ah, ya sé!」"
+
+msgid "Ryuuji「（I should reorganize the photo album......＿And add in the photo from the other＿day.）」"
+msgstr "Ryuuji「（Debería ordenar el álbum de fotos......＿Y añadir la foto del otro día.）」"
+
+msgid "Ryuuji「Photo album, photo album...... There it＿is.」"
+msgstr "Ryuuji「Álbum de fotos, álbum de＿fotos...... Aquí está.」"
+
+msgid "Ryuuji「（Oh, here's a photo from when I started＿middle school...... Even then I had a＿scary face......）」"
+msgstr "Ryuuji「（Ah, aquí hay una foto de cuando entré＿a la secundaria...... Ya desde entonces＿tenía una cara aterradora......）」"
+
+msgid "Ryuuji「Oops. This is no time for reminiscing.＿Gotta organize the photos.」"
+msgstr "Ryuuji「Uy. No es momento de ponerse a recordar.＿Tengo que ordenar las fotos.」"
+
+msgid "Ryuuji「........................」"
+msgstr "Ryuuji「........................」"
+
+msgid "Ryuuji「OHHH MY GOD!! YASUKO IS MY OWN＿MOTHER!!」"
+msgstr "Ryuuji「¡¡DIOS MÍOOO!! ¡¡YASUKO＿ES MI PROPIA MADRE!!」"
+
+msgid "Yasuko「Ryuu-chan～ What's wrooong?」"
+msgstr "Yasuko「Ryuu-chan～ ¿Qué pasaaa?」"
+
+msgid "Ryuuji「Yasuko!」"
+msgstr "Ryuuji「¡Yasuko!」"
+
+msgid "Yasuko「Shouting...... mega-surprise...... gansu......」"
+msgstr "Yasuko「Gritos...... megasorpresa......＿gansu......」"
+
+msgid "Ryuuji「（I, I can't! I can never speak of this! Oh＿god, I feel so guilty!!）」"
+msgstr "Ryuuji「（¡N-No puedo! ¡Nunca podré decir esto!＿¡Por Dios, me siento tan culpable!!）」"
+
+msgid "Ryuuji「Yasuko...... Sorry.」"
+msgstr "Ryuuji「Yasuko...... Perdón.」"
+
+msgid "Yasuko「Huh? What's the matter?」"
+msgstr "Yasuko「¿Eh? ¿Qué sucede?」"
+
+msgid "Ryuuji「I uh, I just felt like I needed to＿apologize.」"
+msgstr "Ryuuji「Yo, eh, solo sentí que tenía＿que disculparme.」"
+
+msgid "Yasuko「Ryuu-chan's so weird...... *Yaaawn*」"
+msgstr "Yasuko「Ryuu-chan es tan raro...... *Bostezooo*」"
+
+msgid "Ryuuji「You're probably tired after working so＿much. Sleep in a little longer.」"
+msgstr "Ryuuji「Seguro estás cansada de trabajar＿tanto. Duerme un poco más.」"
+
+msgid "Yasuko「Okay. Ehehe～ Ryuu-chan's so sweet ①＿Good niiight～......」"
+msgstr "Yasuko「Bueno. Ejeje～ Ryuu-chan es tan lindo＿① Buenas nocheees～......」"
+
+msgid "Ryuuji「（T-The guilt won't go away!）」"
+msgstr "Ryuuji「（¡L-La culpa no se va!）」"
+
+msgid "Ryuuji「（Taiga's been acting weird lately......＿never coming over for food anymore.＿Though, she did say she's just doing）」"
+msgstr "Ryuuji「（Taiga ha estado actuando raro＿últimamente...... ya no viene a comer.＿Aunque dijo que solo está haciendo）」"
+
+msgid "Ryuuji「（what she wants.）」"
+msgstr "Ryuuji「（lo que quiere.）」"
+
+msgid "Ryuuji「（Here's a photo from my first Culture＿Festival. Kitamura was thinner back＿then. Or should I say scrawnier? Dang,）」"
+msgstr "Ryuuji「（Aquí hay una foto de mi primer Festival＿Cultural. Kitamura era más flaco antes.＿¿O escuálido? Caray,）」"
+
+msgid "Ryuuji「（he's gained so much muscle over the＿course of a single year.）」"
+msgstr "Ryuuji「（ganó muchísimo músculo en el＿transcurso de un solo año.）」"
+
+msgid "Ryuuji「（God, I look terrifying. If only I could＿have inherited Yasuko's face＿instead...... No, maybe I should just be）」"
+msgstr "Ryuuji「（Dios, me veo aterrador. Ojalá hubiera＿heredado la cara de Yasuko en su＿lugar...... No, quizá debería estar）」"
+
+msgid "Ryuuji「（grateful I didn't inherit her brains......）」"
+msgstr "Ryuuji「（agradecido de no haber heredado＿su cerebro......）」"
+
+msgid "Ryuuji「（I'll just go ahead and take it to my＿grave...... Oh, I should go buy groceries!＿I should at least try to make a fancy）」"
+msgstr "Ryuuji「（Mejor me lo llevo a la tumba...... ¡Ah,＿debo ir a hacer las compras! Al menos＿intentaré hacer un almuerzo）」"
+
+msgid "Ryuuji「（lunch! Yeah!）」"
+msgstr "Ryuuji「（elegante. ¡Sí!）」"

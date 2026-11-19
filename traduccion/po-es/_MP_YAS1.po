@@ -1,0 +1,788 @@
+msgid ""
+msgstr ""
+
+msgid "Stare"
+msgstr "Mirar fijamente"
+
+msgid "Stare passionately"
+msgstr "Mirar con pasión"
+
+msgid "Stare calmly"
+msgstr "Mirar con calma"
+
+msgid "Stare blankly"
+msgstr "Mirar distraído"
+
+msgid "About Yasuko"
+msgstr "Sobre Yasuko"
+
+msgid "Isn't that a little too much makeup?"
+msgstr "¿No es demasiado maquillaje?"
+
+msgid "\"Mirano\" is a great name"
+msgstr "\"Mirano\" es un gran nombre"
+
+msgid "Don't drink too much"
+msgstr "No bebas demasiado"
+
+msgid "About Me"
+msgstr "Sobre mí"
+
+msgid "My amnesia is causing trouble for people"
+msgstr "Mi amnesia le causa problemas a la gente"
+
+msgid "Guess I can't change my menacing eyes"
+msgstr "Supongo que no puedo cambiar mis ojos amenazantes"
+
+msgid "Calling me \"Ryuu-chan\" is embarrassing"
+msgstr "Que me llames \"Ryuu-chan\" me da vergüenza"
+
+msgid "About Taiga"
+msgstr "Sobre Taiga"
+
+msgid "Somehow, I just can't leave her alone"
+msgstr "De algún modo, no puedo dejarla sola"
+
+msgid "Why does she come over every day?"
+msgstr "¿Por qué viene todos los días?"
+
+msgid "For a midget, she sure does eat a lot"
+msgstr "Para ser tan enana, sí que come mucho"
+
+msgid "About Work"
+msgstr "Sobre el trabajo"
+
+msgid "Is it hard in the service industry?"
+msgstr "¿Es duro el sector de servicios?"
+
+msgid "Why not switch to a day job?"
+msgstr "¿Por qué no cambias a un trabajo de día?"
+
+msgid "What kinds of girls work here?"
+msgstr "¿Qué tipo de chicas trabajan aquí?"
+
+msgid "About Inko-chan"
+msgstr "Sobre Inko-chan"
+
+msgid "It has a surprisingly cute side"
+msgstr "Tiene un lado sorprendentemente lindo"
+
+msgid "It's soothing to talk to it"
+msgstr "Es relajante hablar con él"
+
+msgid "I hope it learns a few more words"
+msgstr "Espero que aprenda algunas palabras más"
+
+msgid "--Let's Have a Fun Chat with Yasuko!--"
+msgstr "--¡Una charla divertida con Yasuko!--"
+
+msgid "Yasuko「Ehehe～ Well? Does Yacchan look＿good?」"
+msgstr "Yasuko「Jejeje～ ¿Y bien? ¿Yacchan se ve bien?」"
+
+msgid "Ryuuji「Well...... Not bad, I guess?」"
+msgstr "Ryuuji「Bueno...... ¿No está mal, supongo?」"
+
+msgid "Yasuko「Thanks, Ryuu-chan～」"
+msgstr "Yasuko「Gracias, Ryuu-chan～」"
+
+msgid "Yasuko「Whaaat? Want your allowance～?」"
+msgstr "Yasuko「¿Quéee? ¿Quieres tu mesada～?」"
+
+msgid "Ryuuji「No, that wasn't what I meant by that＿look......」"
+msgstr "Ryuuji「No, no era eso lo que quería＿decir con esa mirada......」"
+
+msgid "Yasuko「Kyaaa～～ ① That expression of＿Ryuu-chan's looks just like hiiis～!!」"
+msgstr "Yasuko「¡Kyaaa～～ ① Esa expresión de Ryuu-chan＿es igualita a la de éeel～!!」"
+
+msgid "Ryuuji「\"His\"......?」"
+msgstr "Ryuuji「¿\"Él\"......?」"
+
+msgid "Yasuko「Hey, hey～ Do that look again～①」"
+msgstr "Yasuko「Oye, oye～ Pon esa mirada otra vez～①」"
+
+msgid "Ryuuji「It's no use. She's not listening......」"
+msgstr "Ryuuji「Es inútil. No está escuchando......」"
+
+msgid "Yasuko「What's wrooong? Sleepyyy?」"
+msgstr "Yasuko「¿Qué pasaaa? ¿Tienes sueñooo?」"
+
+msgid "Ryuuji「Nah...... is that how I look?」"
+msgstr "Ryuuji「No...... ¿así es como me veo?」"
+
+msgid "Yasuko「Ryuu-chan's eyes are glitteringgg～」"
+msgstr "Yasuko「Los ojos de Ryuu-chan brillaaan～」"
+
+msgid "Ryuuji「......Sure you didn't mean \"glaring\"?＿Great, even I'm saying it now.」"
+msgstr "Ryuuji「......¿Segura de que no quisiste＿decir \"fulminan\"? Genial, ahora＿hasta yo lo digo.」"
+
+msgid "Yasuko「Glitteringgg☆」"
+msgstr "Yasuko「¡Brillaaan☆!」"
+
+msgid "Yasuko「Whaaat? Boreddd?」"
+msgstr "Yasuko「¿Quéee? ¿Aburridooo?」"
+
+msgid "Ryuuji「I'm not bored.」"
+msgstr "Ryuuji「No estoy aburrido.」"
+
+msgid "Yasuko「That's fine thennn～」"
+msgstr "Yasuko「Entonces está bieeen～」"
+
+msgid "Yasuko「This is the perfect amount～」"
+msgstr "Yasuko「Esta es la cantidad perfecta～」"
+
+msgid "Ryuuji「Is that so?」"
+msgstr "Ryuuji「¿Eso crees?」"
+
+msgid "Yasuko「It is～」"
+msgstr "Yasuko「Así es～」"
+
+msgid "Yasuko「That's not trueee. This makeup is in＿vogue. It says so in all the＿magazinesss.」"
+msgstr "Yasuko「No es ciertooo. Este maquillaje＿está de modaaa. Lo dicen todas＿las revistasss.」"
+
+msgid "Ryuuji「In vogue...... There's no comeback to＿that.」"
+msgstr "Ryuuji「De moda...... Ante eso＿no tengo respuesta.」"
+
+msgid "Yasuko「Does ittt...... not look that gooddd?」"
+msgstr "Yasuko「¿Acasooo...... no se ve tan bieeen?」"
+
+msgid "Ryuuji「It's not that it doesn't look good.」"
+msgstr "Ryuuji「No es que no se vea bien.」"
+
+msgid "Yasuko「Hmmm～ This makeup isn't even that＿thickkk～」"
+msgstr "Yasuko「Mmmm～ Este maquillaje ni siquiera＿es tan cargadooo～」"
+
+msgid "Yasuko「It's fine, it's fine～ The customers＿compliment it and say it's cute.」"
+msgstr "Yasuko「No pasa nada～ Los clientes lo elogian＿y dicen que es lindo.」"
+
+msgid "Ryuuji「I see. If it's popular with the＿customers, then it would seem I have＿no right to criticize it.」"
+msgstr "Ryuuji「Ya veo. Si es popular entre los＿clientes, parece que no tengo＿derecho a criticarlo.」"
+
+msgid "Yasuko「Whaa～? It's normalll～」"
+msgstr "Yasuko「¿Quéee～? Es normaaal～」"
+
+msgid "Ryuuji「Normal, huh......」"
+msgstr "Ryuuji「Normal, ¿eh......?」"
+
+msgid "Yasuko「Whaaat～? It's a name that Yacchan's＿SUPER fond of～」"
+msgstr "Yasuko「¿Quéee～? ¡Es un nombre que a Yacchan＿le encanta MUCHÍSIMO～!」"
+
+msgid "Ryuuji「What about it do you like, exactly?」"
+msgstr "Ryuuji「¿Qué te gusta de él, exactamente?」"
+
+msgid "Yasuko「How it's written, maybeee? It's like＿\"Miracle\" plus \"Rambo\"～」"
+msgstr "Yasuko「¿Cómo se escribe, tal veeez? Es＿como \"Miracle\" más \"Rambo\"～」"
+
+msgid "Ryuuji「I don't get how those two equal＿Mirano......」"
+msgstr "Ryuuji「No entiendo cómo esos dos＿forman Mirano......」"
+
+msgid "Yasuko「That's how the customers remember it＿so easilyyy～」"
+msgstr "Yasuko「Así los clientes lo recuerdan＿muy fácilmenteee～」"
+
+msgid "Ryuuji「Now I get it. Feels like it's hard to＿forget.」"
+msgstr "Ryuuji「Ahora lo entiendo. Parece＿difícil de olvidar.」"
+
+msgid "Yasuko「Is that a complimeeent? Thank you'n☆」"
+msgstr "Yasuko「¿Eso es un cumpliiido? ¡Graciaaas☆!」"
+
+msgid "Ryuuji「Oh, yeah......」"
+msgstr "Ryuuji「Ah, sí......」"
+
+msgid "Yasuko「But that's part of the jobbb～」"
+msgstr "Yasuko「Pero eso es parte del trabajooo～」"
+
+msgid "Ryuuji「......Well, drink in moderation, then.」"
+msgstr "Ryuuji「......Bueno, bebe con moderación.」"
+
+msgid "Yasuko「Nnnn...... You don't have to say it.＿Yacchan will be careful not to overdo＿it～」"
+msgstr "Yasuko「Mmmm...... No hace falta que lo digas.＿Yacchan tendrá cuidado de no pasarse～」"
+
+msgid "Ryuuji「I see. Sorry, that was unnecessary of＿me.」"
+msgstr "Ryuuji「Ya veo. Perdón, estuvo＿de más que lo dijera.」"
+
+msgid "Yasuko「Okaaay～ Yacchan will be carefulll.」"
+msgstr "Yasuko「Bieeen～ Yacchan tendrá cuidadooo.」"
+
+msgid "Ryuuji「Good on you for being straightforward.」"
+msgstr "Ryuuji「Qué bien que seas tan receptiva.」"
+
+msgid "Yasuko「Worried for Yacchan's saaake?＿Thanks～①」"
+msgstr "Yasuko「¿Preocupado por Yacchaaan? ¡Gracias～①!」"
+
+msgid "Ryuuji「I guess. \"Safety first\" and all that.」"
+msgstr "Ryuuji「Supongo. \"La seguridad ante todo\" y eso.」"
+
+msgid "Yasuko「Yacchan can stand to gain something＿if Ryuu-chan troubles her, you＿knowww?」"
+msgstr "Yasuko「Yacchan hasta puede salir ganando si＿Ryuu-chan le da problemas, ¿sabeees?」"
+
+msgid "Ryuuji「What does that mean? I don't get it.」"
+msgstr "Ryuuji「¿Qué significa eso? No entiendo.」"
+
+msgid "Yasuko「Ehehe☆ Don't hold anything back from＿Yacchan, okay'n?」"
+msgstr "Yasuko「Jejeje☆ No te cohíbas＿con Yacchan, ¿síii?」"
+
+msgid "Yasuko「Don't worry about thattt～ But it would＿be good if your memory came back＿soonnn.」"
+msgstr "Yasuko「No te preocupes por esooo～ Pero＿sería bueno que recuperaras＿la memoria prontooo.」"
+
+msgid "Ryuuji「......True that.」"
+msgstr "Ryuuji「......Es verdad.」"
+
+msgid "Yasuko「Yacchan just loooves Ryuu-chan's＿eyesss～①」"
+msgstr "Yasuko「¡A Yacchan le encaaantan los＿ojos de Ryuu-chan～①!」"
+
+msgid "Ryuuji「This scary glare?」"
+msgstr "Ryuuji「¿Esta mirada aterradora?」"
+
+msgid "Yasuko「You don't get ittt～ That's what makes＿them coolll.」"
+msgstr "Yasuko「No lo entiendeees～ Eso es lo＿que los hace geniales.」"
+
+msgid "Ryuuji「I get the feeling Yasuko's the only one＿who thinks that......」"
+msgstr "Ryuuji「Tengo la sensación de que Yasuko es＿la única que piensa eso......」"
+
+msgid "Yasuko「You want to change themmm?」"
+msgstr "Yasuko「¿Quieres cambiarlosss?」"
+
+msgid "Ryuuji「Well, I guess.」"
+msgstr "Ryuuji「Bueno, supongo.」"
+
+msgid "Yasuko「They're fine as isss.」"
+msgstr "Yasuko「Están bien asíii.」"
+
+msgid "Ryuuji「......Oh really.」"
+msgstr "Ryuuji「......Ah, en serio.」"
+
+msgid "Yasuko「Whaaa～? That's how you feel,＿Ryuu-channn......? That's kinda......＿meannn......」"
+msgstr "Yasuko「¿Quéee～? ¿Eso es lo que piensas,＿Ryuu-channn......? Eso es un＿poco...... cruel......」"
+
+msgid "Ryuuji「Uh, no, that's, er, that's not really what＿I meant......」"
+msgstr "Ryuuji「Eh, no, o sea, ehm, no era eso＿lo que quería decir......」"
+
+msgid "Yasuko「But Ryuu-chan is just so＿Ryuu-channn......」"
+msgstr "Yasuko「Pero es que Ryuu-chan es＿tan Ryuu-channn......」"
+
+msgid "Ryuuji「Yeah, no complaints there.」"
+msgstr "Ryuuji「Sí, ahí no tengo quejas.」"
+
+msgid "Yasuko「Then what should I call youuu?」"
+msgstr "Yasuko「Entonces, ¿cómo debería llamarteee?」"
+
+msgid "Ryuuji「What about...... \"Ryuuji\"?」"
+msgstr "Ryuuji「¿Qué tal...... \"Ryuuji\"?」"
+
+msgid "Yasuko「......Ryuuji-chan?」"
+msgstr "Yasuko「......¿Ryuuji-chan?」"
+
+msgid "Ryuuji「Not that...... Actually, never mind, let's＿leave it as it is.」"
+msgstr "Ryuuji「Eso no...... La verdad, olvídalo,＿dejémoslo como está.」"
+
+msgid "Yasuko「Don't call you Ryuu-chan anymore?」"
+msgstr "Yasuko「¿Ya no te llamo Ryuu-chan?」"
+
+msgid "Ryuuji「Ah, no, I didn't mean it like that.」"
+msgstr "Ryuuji「Ah, no, no lo decía en ese sentido.」"
+
+msgid "Yasuko「Yacchan's so lonely, gansu......」"
+msgstr "Yasuko「Yacchan está tan solita, gansu......」"
+
+msgid "Ryuuji「Sorry, I take it back!」"
+msgstr "Ryuuji「¡Perdón, lo retiro!」"
+
+msgid "Yasuko「Why is it embarrassinggg? Yacchan＿isn't embarrassed at all, you knowww?」"
+msgstr "Yasuko「¿Por qué da vergüenzaaa? A Yacchan no＿le da nada de vergüenza, ¿sabeees?」"
+
+msgid "Ryuuji「Well, you're not on the receiving end,＿so of course you're not embarrassed.」"
+msgstr "Ryuuji「Bueno, a ti no es a quien llaman así,＿así que claro que no te da vergüenza.」"
+
+msgid "Yasuko「But Ryuu-chan is Ryuu-chan, so that＿won't change～」"
+msgstr "Yasuko「Pero Ryuu-chan es Ryuu-chan,＿así que eso no cambiará～」"
+
+msgid "Ryuuji「I don't get her reasoning, but I guess＿she doesn't feel like calling me＿anything other than \"Ryuu-chan\".」"
+msgstr "Ryuuji「No entiendo su lógica, pero supongo＿que no tiene ganas de llamarme de otra＿forma que no sea \"Ryuu-chan\".」"
+
+msgid "Yasuko「I totally understanddd～ Yacchan can't＿leave Taiga-chan alone eitherrr.」"
+msgstr "Yasuko「Lo entiendooo del todo～ Yacchan tampoco＿puede dejar sola a Taiga-channn.」"
+
+msgid "Ryuuji「You too, huh?」"
+msgstr "Ryuuji「¿Tú también, eh?」"
+
+msgid "Yasuko「Ryuu-chan is a good nurturer. You＿take care of Yacchan too, after all～」"
+msgstr "Yasuko「Ryuu-chan cuida muy bien a los＿demás. Después de todo, también＿cuidas a Yacchan～」"
+
+msgid "Ryuuji「Yeah, since I can't exactly leave you＿alone either......」"
+msgstr "Ryuuji「Sí, ya que a ti tampoco puedo＿dejarte sola......」"
+
+msgid "Yasuko「Is that bad?」"
+msgstr "Yasuko「¿Eso es malo?」"
+
+msgid "Ryuuji「It's not \"bad\", but......」"
+msgstr "Ryuuji「No es \"malo\", pero......」"
+
+msgid "Yasuko「Yacchan is happy when Taiga-chan＿comes over. So it's fine～」"
+msgstr "Yasuko「Yacchan se alegra cuando viene＿Taiga-chan. Así que está bien～」"
+
+msgid "Yasuko「Ryuu-chan, do you hate Taiga-chan～?」"
+msgstr "Yasuko「Ryuu-chan, ¿odias a Taiga-chan～?」"
+
+msgid "Ryuuji「I don't hate her. I was just wondering.」"
+msgstr "Ryuuji「No la odio. Solo me lo preguntaba.」"
+
+msgid "Yasuko「Why would you wonderrr? It's nothing＿out of the ordinary～」"
+msgstr "Yasuko「¿Por qué te lo preguntarías? No＿es nada fuera de lo común～」"
+
+msgid "Yasuko「Waaah～ Your words sound so colddd～」"
+msgstr "Yasuko「¡Uaaah～! Qué fríaaas son tus palabras～」"
+
+msgid "Ryuuji「Don't cry! I wasn't trying to say she＿shouldn't come over.」"
+msgstr "Ryuuji「¡No llores! No quería decir＿que no debiera venir.」"
+
+msgid "Yasuko「......Reallyyy?」"
+msgstr "Yasuko「......¿De verdaddd?」"
+
+msgid "Ryuuji「Yeah. So don't make that face, please.」"
+msgstr "Ryuuji「Sí. No pongas esa cara, por favor.」"
+
+msgid "Yasuko「Huh? If Ryuu-chan makes enough food＿for Taiga-chan, shouldn't she come＿overrr?」"
+msgstr "Yasuko「¿Eh? Si Ryuu-chan prepara comida＿suficiente para Taiga-chan,＿¿no debería veniiir?」"
+
+msgid "Ryuuji「......Good point.」"
+msgstr "Ryuuji「......Buen punto.」"
+
+msgid "Yasuko「What do you mean by \"midget\"～? Isn't＿that being mean to Taiga-channn?」"
+msgstr "Yasuko「¿Cómo que \"enana\"～? ¿No es eso＿ser malo con Taiga-channn?」"
+
+msgid "Ryuuji「......Sorry, wrong word choice.」"
+msgstr "Ryuuji「......Perdón, elegí mal la palabra.」"
+
+msgid "Ryuuji「Is she even capable of restraint......?」"
+msgstr "Ryuuji「¿Acaso es capaz de contenerse......?」"
+
+msgid "Yasuko「Yup. And Taiga-chan eats like your＿food is a delicacyyy～」"
+msgstr "Yasuko「Sip. ¡Y Taiga-chan come como si＿tu comida fuera un manjarrr～!」"
+
+msgid "Ryuuji「Yeah, she loves to eat, after all.」"
+msgstr "Ryuuji「Sí, le encanta comer, después de todo.」"
+
+msgid "Yasuko「Yacchan loooves girls that eat a lot～」"
+msgstr "Yasuko「Yacchan adooora a las chicas comilonas～」"
+
+msgid "Ryuuji「Seeing her eat makes me feel good,＿admittedly.」"
+msgstr "Ryuuji「Verla comer me hace sentir＿bien, hay que admitirlo.」"
+
+msgid "Yasuko「Are you worried for Yacchan's sake～?＿Thank you'n.」"
+msgstr "Yasuko「¿Estás preocupado por＿Yacchan～? Graciaaas.」"
+
+msgid "Ryuuji「I guess. You might get some＿unpleasant customers......」"
+msgstr "Ryuuji「Supongo. Podrías toparte con algunos＿clientes desagradables......」"
+
+msgid "Yasuko「There are hard times, but it's okay!＿This job is Yacchan's faaaavorite☆」"
+msgstr "Yasuko「Hay momentos duros, ¡pero está＿bien! Este trabajo es el faaavorito＿de Yacchan☆」"
+
+msgid "Yasuko「But talking to customers is pretty＿fun～ You can learn things that you＿never knew beforeee.」"
+msgstr "Yasuko「Pero hablar con los clientes es＿muy divertido～ Puedes aprender cosas＿que no sabías anteees.」"
+
+msgid "Ryuuji「When you put it that way, it does seem＿interesting.」"
+msgstr "Ryuuji「Cuando lo dices así, sí＿parece interesante.」"
+
+msgid "Yasuko「Whyyy～?」"
+msgstr "Yasuko「¿Por quéee～?」"
+
+msgid "Ryuuji「That way you could have a more＿healthy lifestyle.」"
+msgstr "Ryuuji「Así podrías llevar un estilo＿de vida más saludable.」"
+
+msgid "Yasuko「But Yacchan's always been a night＿owlll～ It's too late to change～」"
+msgstr "Yasuko「Pero Yacchan siempre＿ha sido muy nocturnaaa～＿Ya es muy tarde para cambiar～」"
+
+msgid "Yasuko「Can't do thattt. After all, Yacchan is＿the proprietress of the bar.」"
+msgstr "Yasuko「No puedo hacer esooo. Después de todo,＿Yacchan es la propietaria del bar.」"
+
+msgid "Ryuuji「That's true...... Sorry I made such an＿irresponsible suggestion.」"
+msgstr "Ryuuji「Es cierto...... Perdón por hacer una＿sugerencia tan irresponsable.」"
+
+msgid "Yasuko「Does Ryuu-chan get lonely when＿Yacchan's not at home?」"
+msgstr "Yasuko「¿Ryuu-chan se siente solo cuando＿Yacchan no está en casa?」"
+
+msgid "Ryuuji「It's not that I'm lonely. I'm concerned＿about your health.」"
+msgstr "Ryuuji「No es que me sienta solo.＿Me preocupa tu salud.」"
+
+msgid "Yasuko「In that case, Yacchan is just fine, so no＿need to worryyy～」"
+msgstr "Yasuko「En ese caso, Yacchan está de maravilla,＿así que no te preocupesss～」"
+
+msgid "Yasuko「No plans to change jobs right now～」"
+msgstr "Yasuko「Por ahora no planeo cambiar de trabajo～」"
+
+msgid "Ryuuji「I see. If you're not interested, there's＿nothing more for me to say.」"
+msgstr "Ryuuji「Ya veo. Si no te interesa, no＿tengo nada más que decir.」"
+
+msgid "Yasuko「No stretching allowed～」"
+msgstr "Yasuko「No se permite estirarse～」"
+
+msgid "Ryuuji「I'm not.」"
+msgstr "Ryuuji「No lo estoy haciendo.」"
+
+msgid "Yasuko「It's not allowed～」"
+msgstr "Yasuko「No está permitido～」"
+
+msgid "Ryuuji「Okay, okay......」"
+msgstr "Ryuuji「Está bien, está bien......」"
+
+msgid "Yasuko「There's this cute girl here called＿Mirano-channn.」"
+msgstr "Yasuko「Aquí hay una chica linda＿llamada Mirano-channn.」"
+
+msgid "Ryuuji「I know that. I mean what other......」"
+msgstr "Ryuuji「Ya lo sé. Me refiero a qué otras......」"
+
+msgid "Yasuko「There's this SUPER POPULAR girl＿here called Mirano-channn.」"
+msgstr "Yasuko「Aquí hay una chica SÚPER POPULAR＿llamada Mirano-channn.」"
+
+msgid "Ryuuji「......Forget it.」"
+msgstr "Ryuuji「......Olvídalo.」"
+
+msgid "Yasuko「Look forward to it when you become＿an adult～」"
+msgstr "Yasuko「Espéralo con ansias cuando＿te conviertas en adulto～」"
+
+msgid "Ryuuji「I see.」"
+msgstr "Ryuuji「Ya veo.」"
+
+msgid "Yasuko「There's all kinds of girls here～ but＿recently we got a new recruittt. She's＿young and spunky☆」"
+msgstr "Yasuko「Aquí hay todo tipo de chicas～＿pero hace poco llegó una nuevaaa.＿Es joven y pizpireta☆」"
+
+msgid "Ryuuji「\"Young and spunky\" sure is an＿old-fashioned word choice. Take care＿she doesn't laugh at you.」"
+msgstr "Ryuuji「\"Joven y pizpireta\" es una elección＿de palabras muy anticuada. Ten cuidado＿de que no se ría de ti.」"
+
+msgid "Yasuko「Inko-chan's so cuuute～☆ Yacchan's＿FAVORITE favoriteee～①」"
+msgstr "Yasuko「¡Inko-chan es tan liiindo～☆! ¡El＿FAVORITO favoritooo de Yacchan～①!」"
+
+msgid "Ryuuji「Oh, you think so too, huh? That's＿awesome.」"
+msgstr "Ryuuji「Ah, ¿tú también lo crees, eh? Qué bien.」"
+
+msgid "Yasuko「Yup. I'm just like Ryuu-chan～」"
+msgstr "Yasuko「Sip. Soy igual que Ryuu-chan～」"
+
+msgid "Ryuuji「......I'm not too crazy about that part.」"
+msgstr "Ryuuji「......Esa parte no me entusiasma mucho.」"
+
+msgid "Yasuko「Yacchan agrees～! Inko-chan always＿seems to understand the most＿important things～」"
+msgstr "Yasuko「¡Yacchan coincide～! Inko-chan＿siempre parece entender las＿cosas más importantes～」"
+
+msgid "Ryuuji「Oh, I was thinking the same thing,＿actually.」"
+msgstr "Ryuuji「Ah, la verdad estaba pensando lo mismo.」"
+
+msgid "Yasuko「Yacchan's always having Inko-chan＿listen to her talk～」"
+msgstr "Yasuko「Yacchan siempre hace que Inko-chan＿la escuche hablar～」"
+
+msgid "Ryuuji「......Is that why it's like that?」"
+msgstr "Ryuuji「......¿Por eso es así?」"
+
+msgid "Yasuko「......Hmm?」"
+msgstr "Yasuko「......¿Mmm?」"
+
+msgid "Ryuuji「Never mind......」"
+msgstr "Ryuuji「No importa......」"
+
+msgid "Yasuko「Yacchan likes the way Inko-chan is＿nooow.」"
+msgstr "Yasuko「A Yacchan le gusta Inko-chan＿tal como está ahoraaa.」"
+
+msgid "Ryuuji「But it's a parakeet, so it could handle a＿little more......」"
+msgstr "Ryuuji「Pero es un periquito, así que＿podría dar un poco más......」"
+
+msgid "Yasuko「Ryuu-chan, it's parrots, not parakeets,＿that can handle a lot of talkinggg.」"
+msgstr "Yasuko「Ryuu-chan, los que hablan muchooo son＿los loros, no los periquitos.」"
+
+msgid "Ryuuji「I see...... Crap, Yasuko totally got me＿there......」"
+msgstr "Ryuuji「Ya veo...... Rayos, ahí Yasuko＿me dejó sin respuesta......」"
+
+msgid "Yasuko「Yacchan would suppose～ maybe＿that's its own form of talking?」"
+msgstr "Yasuko「Yacchan diría～ ¿tal vez esa es＿su propia forma de hablar?」"
+
+msgid "Ryuuji「Its own language, huh?」"
+msgstr "Ryuuji「Su propio idioma, ¿eh?」"
+
+msgid "Yasuko「Yacchan's sure of it～ So go easy on it,＿okay?」"
+msgstr "Yasuko「Yacchan está segura～ Así que＿tenle paciencia, ¿sí?」"
+
+msgid "Yasuko「Even if it isn't fluent, Yacchan can get＿the gist of what it wants to say'n.」"
+msgstr "Yasuko「Aunque no hable fluido, Yacchan capta＿la idea de lo que quiere deciiir.」"
+
+msgid "Ryuuji「They can understand each other,＿huh......」"
+msgstr "Ryuuji「Se entienden entre ellos, ¿eh......?」"
+
+msgid "Yasuko「Yacchan wants to hear Inko-chan＿sing～」"
+msgstr "Yasuko「Yacchan quiere oír cantar a Inko-chan～」"
+
+msgid "Ryuuji「Singing would be even harder......」"
+msgstr "Ryuuji「Cantar sería aún más difícil......」"
+
+msgid "HAP_A1_LV2:"
+msgstr "HAP_A1_LV2:"
+
+msgid "ANG_A1_LV1:"
+msgstr "ANG_A1_LV1:"
+
+msgid "ANG_A1_LV2:"
+msgstr "ANG_A1_LV2:"
+
+msgid "SAD_A1_LV1:"
+msgstr "SAD_A1_LV1:"
+
+msgid "SAD_A1_LV2:"
+msgstr "SAD_A1_LV2:"
+
+msgid "FUN_A1_LV2:"
+msgstr "FUN_A1_LV2:"
+
+msgid "HAP_A2_LV2:"
+msgstr "HAP_A2_LV2:"
+
+msgid "ANG_A2_LV1:"
+msgstr "ANG_A2_LV1:"
+
+msgid "ANG_A2_LV2:"
+msgstr "ANG_A2_LV2:"
+
+msgid "SAD_A2_LV1:"
+msgstr "SAD_A2_LV1:"
+
+msgid "SAD_A2_LV2:"
+msgstr "SAD_A2_LV2:"
+
+msgid "FUN_A2_LV2:"
+msgstr "FUN_A2_LV2:"
+
+msgid "HAP_A3_LV2:"
+msgstr "HAP_A3_LV2:"
+
+msgid "ANG_A3_LV1:"
+msgstr "ANG_A3_LV1:"
+
+msgid "ANG_A3_LV2:"
+msgstr "ANG_A3_LV2:"
+
+msgid "SAD_A3_LV1:"
+msgstr "SAD_A3_LV1:"
+
+msgid "SAD_A3_LV2:"
+msgstr "SAD_A3_LV2:"
+
+msgid "FUN_A3_LV2:"
+msgstr "FUN_A3_LV2:"
+
+msgid "HAP_B1_LV1:"
+msgstr "HAP_B1_LV1:"
+
+msgid "HAP_B1_LV2:"
+msgstr "HAP_B1_LV2:"
+
+msgid "SAD_B1_LV2:"
+msgstr "SAD_B1_LV2:"
+
+msgid "FUN_B1_LV2:"
+msgstr "FUN_B1_LV2:"
+
+msgid "HAP_B2_LV1:"
+msgstr "HAP_B2_LV1:"
+
+msgid "HAP_B2_LV2:"
+msgstr "HAP_B2_LV2:"
+
+msgid "SAD_B2_LV1:"
+msgstr "SAD_B2_LV1:"
+
+msgid "SAD_B2_LV2:"
+msgstr "SAD_B2_LV2:"
+
+msgid "HAP_B3_LV1:"
+msgstr "HAP_B3_LV1:"
+
+msgid "HAP_B3_LV2:"
+msgstr "HAP_B3_LV2:"
+
+msgid "SAD_B3_LV1:"
+msgstr "SAD_B3_LV1:"
+
+msgid "SAD_B3_LV2:"
+msgstr "SAD_B3_LV2:"
+
+msgid "HAP_C1_LV2:"
+msgstr "HAP_C1_LV2:"
+
+msgid "ANG_C1_LV1:"
+msgstr "ANG_C1_LV1:"
+
+msgid "ANG_C1_LV2:"
+msgstr "ANG_C1_LV2:"
+
+msgid "SAD_C1_LV1:"
+msgstr "SAD_C1_LV1:"
+
+msgid "SAD_C1_LV2:"
+msgstr "SAD_C1_LV2:"
+
+msgid "FUN_C1_LV2:"
+msgstr "FUN_C1_LV2:"
+
+msgid "HAP_C2_LV2:"
+msgstr "HAP_C2_LV2:"
+
+msgid "ANG_C2_LV1:"
+msgstr "ANG_C2_LV1:"
+
+msgid "ANG_C2_LV2:"
+msgstr "ANG_C2_LV2:"
+
+msgid "SAD_C2_LV1:"
+msgstr "SAD_C2_LV1:"
+
+msgid "SAD_C2_LV2:"
+msgstr "SAD_C2_LV2:"
+
+msgid "FUN_C2_LV2:"
+msgstr "FUN_C2_LV2:"
+
+msgid "HAP_C3_LV1:"
+msgstr "HAP_C3_LV1:"
+
+msgid "HAP_C3_LV2:"
+msgstr "HAP_C3_LV2:"
+
+msgid "SAD_C3_LV2:"
+msgstr "SAD_C3_LV2:"
+
+msgid "FUN_C3_LV2:"
+msgstr "FUN_C3_LV2:"
+
+msgid "HAP_D1_LV2:"
+msgstr "HAP_D1_LV2:"
+
+msgid "ANG_D1_LV1:"
+msgstr "ANG_D1_LV1:"
+
+msgid "ANG_D1_LV2:"
+msgstr "ANG_D1_LV2:"
+
+msgid "SAD_D1_LV1:"
+msgstr "SAD_D1_LV1:"
+
+msgid "SAD_D1_LV2:"
+msgstr "SAD_D1_LV2:"
+
+msgid "FUN_D1_LV2:"
+msgstr "FUN_D1_LV2:"
+
+msgid "HAP_D2_LV1:"
+msgstr "HAP_D2_LV1:"
+
+msgid "HAP_D2_LV2:"
+msgstr "HAP_D2_LV2:"
+
+msgid "//SAD_D2_LV2:"
+msgstr "//SAD_D2_LV2:"
+
+msgid "FUN_D2_LV2:"
+msgstr "FUN_D2_LV2:"
+
+msgid "HAP_D3_LV1:"
+msgstr "HAP_D3_LV1:"
+
+msgid "HAP_D3_LV2:"
+msgstr "HAP_D3_LV2:"
+
+msgid "SAD_D3_LV1:"
+msgstr "SAD_D3_LV1:"
+
+msgid "SAD_D3_LV2:"
+msgstr "SAD_D3_LV2:"
+
+msgid "HAP_E1_LV2:"
+msgstr "HAP_E1_LV2:"
+
+msgid "ANG_E1_LV1:"
+msgstr "ANG_E1_LV1:"
+
+msgid "ANG_E1_LV2:"
+msgstr "ANG_E1_LV2:"
+
+msgid "SAD_E1_LV1:"
+msgstr "SAD_E1_LV1:"
+
+msgid "SAD_E1_LV2:"
+msgstr "SAD_E1_LV2:"
+
+msgid "FUN_E1_LV2:"
+msgstr "FUN_E1_LV2:"
+
+msgid "HAP_E2_LV1:"
+msgstr "HAP_E2_LV1:"
+
+msgid "HAP_E2_LV2:"
+msgstr "HAP_E2_LV2:"
+
+msgid "SAD_E2_LV2:"
+msgstr "SAD_E2_LV2:"
+
+msgid "FUN_E2_LV2:"
+msgstr "FUN_E2_LV2:"
+
+msgid "HAP_E3_LV1:"
+msgstr "HAP_E3_LV1:"
+
+msgid "HAP_E3_LV2:"
+msgstr "HAP_E3_LV2:"
+
+msgid "SAD_E3_LV1:"
+msgstr "SAD_E3_LV1:"
+
+msgid "SAD_E3_LV2:"
+msgstr "SAD_E3_LV2:"
+
+msgid "HAP_F1_LV2:"
+msgstr "HAP_F1_LV2:"
+
+msgid "ANG_F1_LV1:"
+msgstr "ANG_F1_LV1:"
+
+msgid "ANG_F1_LV2:"
+msgstr "ANG_F1_LV2:"
+
+msgid "SAD_F1_LV1:"
+msgstr "SAD_F1_LV1:"
+
+msgid "SAD_F1_LV2:"
+msgstr "SAD_F1_LV2:"
+
+msgid "FUN_F1_LV2:"
+msgstr "FUN_F1_LV2:"
+
+msgid "HAP_F2_LV2:"
+msgstr "HAP_F2_LV2:"
+
+msgid "ANG_F2_LV1:"
+msgstr "ANG_F2_LV1:"
+
+msgid "ANG_F2_LV2:"
+msgstr "ANG_F2_LV2:"
+
+msgid "SAD_F2_LV1:"
+msgstr "SAD_F2_LV1:"
+
+msgid "SAD_F2_LV2:"
+msgstr "SAD_F2_LV2:"
+
+msgid "FUN_F2_LV2:"
+msgstr "FUN_F2_LV2:"
+
+msgid "HAP_F3_LV1:"
+msgstr "HAP_F3_LV1:"
+
+msgid "HAP_F3_LV2:"
+msgstr "HAP_F3_LV2:"
+
+msgid "SAD_F3_LV1:"
+msgstr "SAD_F3_LV1:"
+
+msgid "SAD_F3_LV2:"
+msgstr "SAD_F3_LV2:"
+
+msgid "Yasuko「You can't say that in front of＿Taiga-channn. If you do, you might＿make her feel uncomfortable next time」"
+msgstr "Yasuko「No puedes decir eso delante de＿Taiga-channn. Si lo haces, podrías＿incomodarla la próxima vez que」"
+
+msgid "Yasuko「she eats.」"
+msgstr "Yasuko「coma.」"

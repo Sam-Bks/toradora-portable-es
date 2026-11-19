@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「（......Oh, it's getting late. Guess I'll have＿to put Taiga's share of oyakodon in the＿fridge.）」"
+msgstr "Ryuuji「（......Ah, ya es tarde. Tendré que＿guardar la porción de oyakodon de＿Taiga en el refrigerador.）」"
+
+msgid "Inko-chan「......OYA! OYA, KO!」"
+msgstr "Inko-chan「......¡OYA! ¡OYA, KO!」"
+
+msgid "Ryuuji「Ohh!?」"
+msgstr "Ryuuji「¡¿Ehh?!」"
+
+msgid "Inko-chan「BIRD! MEAT! BIRD MEAT!」"
+msgstr "Inko-chan「¡AVE! ¡CARNE! ¡CARNE DE AVE!」"
+
+msgid "Ryuuji「So you figured out it's a chicken＿dish...... I guess Operation Bye-Bye＿Birdy had other consequences......」"
+msgstr "Ryuuji「Así que te diste cuenta de que lleva＿pollo...... Supongo que la Operación＿Adiós Pajarito tuvo secuelas......」"
+
+msgid "Inko-chan「BIIIIRD! EEEEEK!」"
+msgstr "Inko-chan「¡PÁJAROOO! ¡IIIIK!」"
+
+msgid "Ryuuji「No no, it's okay, Inko-chan. I'm not＿going to make oyakodon out of you......」"
+msgstr "Ryuuji「No, no, tranquilo, Inko-chan. No voy＿a hacer oyakodon contigo......」"
+
+msgid "Inko-chan「GAAAAAAAAH!」"
+msgstr "Inko-chan「¡GAAAAAAAAH!」"
+
+msgid "Ryuuji「I need to calm it down...... What should I＿do......?」"
+msgstr "Ryuuji「Tengo que calmarlo...... ¿Qué＿debería hacer......?」"
+
+msgid "Talk it down"
+msgstr "Calmarlo hablando"
+
+msgid "I shouldn't risk making it worse"
+msgstr "No debería arriesgarme a empeorarlo"
+
+msgid "Ryuuji「（No...... Perhaps I shouldn't risk making＿it any worse. I'm sure it'll calm down by＿morning.）」"
+msgstr "Ryuuji「（No...... Quizá no debería arriesgarme＿a empeorarlo. Seguro se calmará＿para la mañana.）」"
+
+msgid "Ryuuji「（Think I'll head to bed......）」"
+msgstr "Ryuuji「（Creo que me iré a dormir......）」"

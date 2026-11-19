@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「（Dishes are all done......）」"
+msgstr "Ryuuji「（Los platos ya están lavados......）」"
+
+msgid "Ryuuji「（I finished all the cleaning this morning,＿so I can take it easy and wait for＿midnight.）」"
+msgstr "Ryuuji「（Acabé toda la limpieza esta mañana,＿así que puedo relajarme y esperar＿la medianoche.）」"
+
+msgid "Ryuuji「（Oh, come to think of it...... I don't think I＿cleaned Yasuko's room yet.）」"
+msgstr "Ryuuji「（Ah, ahora que lo pienso...... creo que＿aún no limpio el cuarto de Yasuko.）」"
+
+msgid "Ryuuji「（I'd like to clean it if possible, but I'd＿feel bad going into her room without＿permission......）」"
+msgstr "Ryuuji「（Quisiera limpiarlo, pero me＿sentiría mal entrando a su cuarto＿sin permiso......）」"
+
+msgid "Don't clean it"
+msgstr "No limpiarlo"
+
+msgid "Clean it"
+msgstr "Limpiarlo"
+
+msgid "Ryuuji「（......Yeah, I should clean it. I'm sure＿Yasuko would want me to.）」"
+msgstr "Ryuuji「（......Sí, debería limpiarlo. Seguro＿que Yasuko querría que lo hiciera.）」"
+
+msgid "Ryuuji「（Living under the same roof, I have to＿respect her privacy...... I'll leave it as it＿is.）」"
+msgstr "Ryuuji「（Viviendo bajo el mismo techo,＿debo respetar su privacidad......＿Lo dejaré como está.）」"
+
+msgid "Ryuuji「（Yasuko, I'm going to clean it up for you,＿so forgive my rudeness.）」"
+msgstr "Ryuuji「（Yasuko, voy a limpiártelo, así＿que perdona la intromisión.）」"
+
+msgid "Ryuuji「（......Hm?）」"
+msgstr "Ryuuji「（......¿Mmm?）」"
+
+msgid "Ryuuji「（What's this? \"Extra-Strength GET＿BLACK! For Men\"......?　A chemical to＿return bleached hair to black, huh.）」"
+msgstr "Ryuuji「（¿Qué es esto? ¿\"GET BLACK! Extrafuerte＿Para Hombres\"......? Un químico para＿devolver el negro al pelo decolorado.）」"
+
+msgid "Ryuuji「（Why is something \"For Men\" in the very＿female Yasuko's room......?）」"
+msgstr "Ryuuji「（¿Algo \"Para Hombres\" en el cuarto＿de Yasuko, tan femenina......?）」"
+
+msgid "Ryuuji「（I don't quite get it, but still......）」"
+msgstr "Ryuuji「（No lo entiendo, pero aun así......）」"
+
+msgid "Ryuuji「（MOTTAINAI! Pick it up!）」"
+msgstr "Ryuuji「（¡QUÉ DESPERDICIO! ¡Recógelo!）」"
+
+msgid "Ryuuji「（Oho? What's this soft thing......?）」"
+msgstr "Ryuuji「（¿Oh? ¿Qué es esta cosa suave......?）」"
+
+msgid "Ryuuji「（T-This is...... a pillow with \"YES\" on one＿side and \"NO\" on the other...... Why＿would she have......?）」"
+msgstr "Ryuuji「（E-Esto es...... una almohada con＿\"SÍ\" de un lado y \"NO\" del otro......＿¿Por qué tendría......?）」"
+
+msgid "Ryuuji「（Hm? There's a letter attached.）」"
+msgstr "Ryuuji「（¿Mmm? Tiene una carta adjunta.）」"
+
+msgid "Ryuuji「（Then why would she leave it here＿instead of giving it to me directly......?＿*Gasp*......!）」"
+msgstr "Ryuuji「（¿Entonces por qué la dejaría＿aquí en vez de dármela＿directamente......? ¡Ah......!）」"
+
+msgid "Ryuuji「（That damn Yasuko knew I would clean＿her room on New Year's Eve...... A＿surprise present for me......?）」"
+msgstr "Ryuuji「（La maldita de Yasuko sabía que＿limpiaría su cuarto en Nochevieja......＿¿Un regalo sorpresa para mí......?）」"
+
+msgid "Ryuuji「（......Well, maybe she meant to give it to＿me directly but accidentally left it＿here. I'll accept it. Thanks!）」"
+msgstr "Ryuuji「（......Bueno, quizá quería dármela＿en persona, pero la dejó aquí por＿error. La aceptaré. ¡Gracias!）」"
+
+msgid "Ryuuji「（Hmmm?）」"
+msgstr "Ryuuji「（¿Mmmm?）」"
+
+msgid "Ryuuji「（Empty plastic bottles, left here with＿the intention of being tossed out＿together. What fatal carelessness.）」"
+msgstr "Ryuuji「（Botellas de plástico vacías, dejadas＿con la intención de tirarlas juntas.＿Qué descuido tan fatal.）」"
+
+msgid "Ryuuji「（Couldn't find anything......）」"
+msgstr "Ryuuji「（No pude encontrar nada......）」"
+
+msgid "Ryuuji「（It's getting late, so I'll leave it at that.）」"
+msgstr "Ryuuji「（Se hace tarde, así que lo dejo así.）」"
+
+msgid "Ryuuji「（Oh...... Perhaps it has something to do＿with when Kitamura rebelled and＿bleached his hair in the past.）」"
+msgstr "Ryuuji「（Ah...... Quizá tenga algo que ver＿con cuando Kitamura se rebeló y se＿decoloró el pelo en el pasado.）」"
+
+msgid "Ryuuji「（Well, regardless of the reason......）」"
+msgstr "Ryuuji「（Bueno, sea cual sea el motivo......）」"
+
+msgid "Ryuuji「\"Dear Ryuu-chan, This is a Christmas＿present Yacchan won at the store's＿Christmas party, yansuu.\"」"
+msgstr "Ryuuji「\"Querido Ryuu-chan: Este es un regalo＿de Navidad que Yacchan ganó en la fiesta＿navideña de la tienda, yansuu.\"」"
+
+msgid "Ryuuji「\"Ryuu-chan can have it. Sweet＿dreams～①\"」"
+msgstr "Ryuuji「\"Ryuu-chan puede quedárselo.＿Dulces sueños～①\"」"
+
+msgid "Ryuuji「（This is the kind of thing you should＿throw out frequently! It's the number＿one rule to keeping a room clean!）」"
+msgstr "Ryuuji「（¡Este es el tipo de cosas que debes＿tirar seguido! ¡Es la regla número uno＿para mantener un cuarto limpio!）」"
+
+msgid "Ryuuji「（......Guess I'll throw them away.）」"
+msgstr "Ryuuji「（......Supongo que las tiraré.）」"

@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「（......Freezing! Maybe I should've stayed＿home like a good boy...... Hm?）」"
+msgstr "Ryuuji「（......¡Qué frío! Debí quedarme en casa＿como un buen chico...... ¿Mm?）」"
+
+msgid "Ryuuji「（Cloaked in an aura even drearier than＿the wintry weather...... It's......）」"
+msgstr "Ryuuji「（Envuelto en un aura aún más sombría que＿el clima invernal...... Es......）」"
+
+msgid "Ryuuji「Haruta?」"
+msgstr "Ryuuji「¿Haruta?」"
+
+msgid "Haruta「Taka......chan......」"
+msgstr "Haruta「Taka......chan......」"
+
+msgid "Ryuuji「What's wrong? I can barely hear you.＿Were you always like this?」"
+msgstr "Ryuuji「¿Qué pasa? Apenas te oigo.＿¿Siempre fuiste así?」"
+
+msgid "Haruta「TAKA-CHAAAN～～～! WHAT SHOULD I＿DOOO?」"
+msgstr "Haruta「¡TAKA-CHAAAN～～～! ¡¿QUÉ HAGOOO?!」"
+
+msgid "Ryuuji「H-Haruta! Don't burst into tears!」"
+msgstr "Ryuuji「¡H-Haruta! ¡No te eches a llorar!」"
+
+msgid "Haruta「I'm glad I ran into you, Taka-chan.＿Really glad...... Once I saw your face, I＿decided to turn myself in.」"
+msgstr "Haruta「Qué bueno que me topé contigo,＿Taka-chan. De verdad...... Al verte＿la cara, decidí entregarme.」"
+
+msgid "Ryuuji「Turn yourself in!?」"
+msgstr "Ryuuji「¡¿Entregarte?!」"
+
+msgid "Ryuuji「Wait, what did you do? I'll listen to your＿story, so calm down.」"
+msgstr "Ryuuji「Espera, ¿qué hiciste? Escucharé＿tu historia, así que cálmate.」"
+
+msgid "Haruta「WAAAAAH, TAKA-CHAAAAN～～～!＿You're so kind, I love ya～～～!!」"
+msgstr "Haruta「¡BUAAAAAH, TAKA-CHAAAAN～～～! ¡Eres＿tan bueno, te quiero～～～!!」"
+
+msgid "Ryuuji「Gah! I appreciate how you feel, but＿please stop wiping your runny nose on＿my clothes!」"
+msgstr "Ryuuji「¡Gah! Agradezco tus sentimientos,＿¡pero deja de limpiarte los mocos＿en mi ropa, por favor!」"
+
+msgid "Haruta「Sniff...... Well...... In my first dream of the＿year, there was this SUPER cute girl.」"
+msgstr "Haruta「*Snif*...... Bueno...... En＿mi primer sueño del año, había＿una chica SÚPER linda.」"
+
+msgid "Ryuuji「Dream? Weren't we talking about a＿crime?」"
+msgstr "Ryuuji「¿Un sueño? ¿No estábamos＿hablando de un crimen?」"
+
+msgid "Haruta「Just listen. She had them tig ol' bitties＿and flashed her panties at every＿opportunity. This girl was cute, man.」"
+msgstr "Haruta「Solo escucha. Tenía unos tremendos＿melones y mostraba su ropa interior en＿cada oportunidad. Qué chica tan linda.」"
+
+msgid "Ryuuji「Here we go......」"
+msgstr "Ryuuji「Ya empezamos......」"
+
+msgid "Ryuuji「......Frankly, no idea.」"
+msgstr "Ryuuji「......Francamente, ni idea.」"
+
+msgid "Ryuuji「I see. You were surprisingly stoic＿about it.」"
+msgstr "Ryuuji「Ya veo. Fuiste sorprendentemente＿estoico al respecto.」"
+
+msgid "Haruta「So I've been wondering what to do.＿Those TIG - OL' - BITTAYS!」"
+msgstr "Haruta「Así que no sabía qué hacer. ¡Esos＿TRE - MEN - DOS ME - LONES!」"
+
+msgid "Haruta「And while I was trying to decide...... I＿followed that girl all the way to her＿house～!!」"
+msgstr "Haruta「Y mientras intentaba decidirme......＿¡terminé siguiendo a esa chica＿hasta su casa～!!」"
+
+msgid "Ryuuji「That's nothing to cry over!」"
+msgstr "Ryuuji「¡Eso no es motivo para llorar!」"
+
+msgid "Haruta「I'm a STALKER! It's a CRIME! I'm a＿MONSTER!」"
+msgstr "Haruta「¡Soy un ACOSADOR! ¡Es un CRIMEN!＿¡Soy un MONSTRUO!」"
+
+msgid "Ryuuji「Wait, let's sort this out. About how far＿did you follow her?」"
+msgstr "Ryuuji「Espera, aclaremos esto. ¿Más o menos＿qué tan lejos la seguiste?」"
+
+msgid "Ryuuji「10 meters is practically nothing!」"
+msgstr "Ryuuji「¡10 metros no es prácticamente nada!」"
+
+msgid "Haruta「But I already have a crush. This is like＿CHEATING! And in some countries, the＿penalty for cheating is DEATH!!」"
+msgstr "Haruta「Pero ya me gusta alguien. ¡Esto es como＿ser INFIEL! Y en algunos países, ¡la＿pena por infidelidad es la MUERTE!!」"
+
+msgid "Ryuuji「This is Japan. But first of all, are you＿even dating this crush of yours?」"
+msgstr "Ryuuji「Esto es Japón. Pero antes que＿nada, ¿acaso estás saliendo con＿esa chica que te gusta?」"
+
+msgid "Haruta「Nope, it's just a one-sided puppy love.」"
+msgstr "Haruta「No, es un amor inocente＿no correspondido.」"
+
+msgid "Ryuuji「Then it's not remotely cheating.」"
+msgstr "Ryuuji「Entonces ni de lejos es infidelidad.」"
+
+msgid "Haruta「Hmm? Wha? Really?」"
+msgstr "Haruta「¿Mm? ¿Qué? ¿En serio?」"
+
+msgid "Ryuuji「Yeah. So? What was this \"dream girl\"＿like?」"
+msgstr "Ryuuji「Sí. ¿Y bien? ¿Cómo era esa＿\"chica de tus sueños\"?」"
+
+msgid "Haruta「Let's see, she had long hair past her＿chest, a slender figure, a catlike＿appearance, and tig ol' bitties.」"
+msgstr "Haruta「A ver, tenía el cabello largo más allá＿del pecho, figura esbelta, aspecto＿gatuno y unos tremendos melones.」"
+
+msgid "Ryuuji「And the girl you passed by earlier?」"
+msgstr "Ryuuji「¿Y con la que te cruzaste hace rato?」"
+
+msgid "Haruta「Well, she had bobbed hair, a curvy＿figure, a rabbit-like appearance, and＿tig ol' bitties.」"
+msgstr "Haruta「Bueno, tenía corte bob, una figura＿curvilínea, aspecto de conejo y＿unos tremendos melones.」"
+
+msgid "Ryuuji「......Just for future reference, what is＿your crush like?」"
+msgstr "Ryuuji「......Solo por curiosidad, ¿cómo＿es la chica que te gusta?」"
+
+msgid "Ryuuji「......I see, now I understand.」"
+msgstr "Ryuuji「......Ya veo, ahora lo entiendo.」"
+
+msgid "Haruta「Understand what? You figured it out＿just from that? You're amazing,＿Taka-chan!」"
+msgstr "Haruta「¿Entender qué? ¿Lo descubriste solo con＿eso? ¡Eres increíble, Taka-chan!」"
+
+msgid "Ryuuji「Let me be frank. You're only looking at＿their tits!!」"
+msgstr "Ryuuji「Seré franco. ¡¡Solo les estás＿viendo las tetas!!」"
+
+msgid "Haruta「............Huh?」"
+msgstr "Haruta「............¿Eh?」"
+
+msgid "Ryuuji「Your \"dream girl\" was just your crush＿with bigger boobs. In other words, it's＿your wish.」"
+msgstr "Ryuuji「La \"chica de tus sueños\" era solo la＿que te gusta con pechos más grandes.＿En otras palabras, es tu deseo.」"
+
+msgid "Haruta「Ohhh! ......So that's what it was, huh?」"
+msgstr "Haruta「¡Ohhh! ......Así que era eso, ¿eh?」"
+
+msgid "Ryuuji「So the girl outside of Super＿Kanou-Mart just happened to have＿boobs of a similar size.」"
+msgstr "Ryuuji「Y la chica de afuera del Super＿Kanou-Mart simplemente tenía los＿pechos de un tamaño parecido.」"
+
+msgid "Haruta「Ugh～ Sorry, I started thinking while＿you were talking and now my head＿kinda hurts～」"
+msgstr "Haruta「Ugh～ Perdón, me puse a pensar＿mientras hablabas y ahora me＿duele un poco la cabeza～」"
+
+msgid "Ryuuji「In conclusion, it's not cheating in any＿way, so you shouldn't feel guilty. Calm＿down.」"
+msgstr "Ryuuji「En conclusión, no es infidelidad＿de ningún modo, así que no debes＿sentirte culpable. Cálmate.」"
+
+msgid "Haruta「R-REALLY!? You mean it, Taka-chan!?」"
+msgstr "Haruta「¡¿E-EN SERIO?! ¡¿Seguro, Taka-chan?!」"
+
+msgid "Haruta「I seeee! I was my usual self! Alright, I'm＿done thinking! I'm free. FREEDOOOOM!」"
+msgstr "Haruta「¡Ya veooo! ¡Era el mismo de siempre!＿¡Listo, dejé de pensar! Soy libre.＿¡¡LIBERTAAAAD!!」"
+
+msgid "Ryuuji「......I'm so tired.」"
+msgstr "Ryuuji「......Qué cansado estoy.」"
+
+msgid "Haruta「Yup. If you do something bad, you＿gotta go to the police, right? I know I＿do, but when push comes to shove, I......」"
+msgstr "Haruta「Sip. Si haces algo malo, tienes que＿ir a la policía, ¿no? Lo sé, pero a＿la hora de la verdad, yo......」"
+
+msgid "Haruta「I'm...... s-scared......」"
+msgstr "Haruta「Tengo...... m-miedo......」"
+
+msgid "Haruta「And then, just now, I passed by a girl＿THAT LOOKED JUST LIKE HERRRRR!!＿What do I do, what do I do, WHAT DO I」"
+msgstr "Haruta「¡Y entonces, justo ahora, me crucé＿con una chica IDÉNTICA A ELLAAAAA!!＿¿Qué hago, qué hago? ¡¿QUÉ」"
+
+msgid "Haruta「DOOOO!?」"
+msgstr "Haruta「HAGOOOO?!」"
+
+msgid "Haruta「Don't you think this might have been,＿like, a \"fated encounter\"? Oh, but I＿already have a crush on someone, so」"
+msgstr "Haruta「¿No crees que esto pudo ser como un＿\"encuentro del destino\"? Ah, pero＿ya me gusta alguien, así que」"
+
+msgid "Haruta「it's a little late for a fated encounter.＿I'm freaking out, man.」"
+msgstr "Haruta「ya es algo tarde para un encuentro del＿destino. Me estoy volviendo loco.」"
+
+msgid "Haruta「I first saw her in front of Super＿Kanou-Mart...... She went up those＿stairs just behind the store, so about」"
+msgstr "Haruta「La vi primero frente al Super＿Kanou-Mart...... Subió las escaleras＿detrás de la tienda, así que unos」"
+
+msgid "Haruta「10 meters.」"
+msgstr "Haruta「10 metros.」"
+
+msgid "Haruta「Umm, she has long hair past her chest,＿a slender figure, a catlike appearance,＿and her boobs are a little」"
+msgstr "Haruta「Ehm, tiene el cabello largo pasando＿el pecho, figura esbelta, aspecto gatuno＿y sus pechos son un poco」"
+
+msgid "Haruta「disappointing.」"
+msgstr "Haruta「decepcionantes.」"
+
+msgid "Ryuuji「Yeah. You can stop thinking so hard.＿You didn't do anything wrong, so＿naturally, there's no need to turn」"
+msgstr "Ryuuji「Sí. Deja de darle tantas vueltas.＿No hiciste nada malo, así que,＿naturalmente, no hace falta que te」"
+
+msgid "Ryuuji「yourself in. It was just you being your＿usual stupid horny self.」"
+msgstr "Ryuuji「entregues. Solo estabas siendo el＿tonto pervertido de siempre.」"

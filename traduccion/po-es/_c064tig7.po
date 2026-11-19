@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+
+msgid "Taiga「Ryuuji, I'm sorry but I'm out of time.」"
+msgstr "Taiga「Ryuuji, lo siento, pero＿me quedé sin tiempo.」"
+
+msgid "Ryuuji「Oh, alright.」"
+msgstr "Ryuuji「Ah, está bien.」"
+
+msgid "Taiga「I'll listen to your other questions next＿time. Okay, I'm off.」"
+msgstr "Taiga「Escucharé tus otras preguntas la＿próxima vez. Bueno, me voy.」"
+
+msgid "Ryuuji「What? You're not going home?」"
+msgstr "Ryuuji「¿Qué? ¿No te vas a casa?」"
+
+msgid "Taiga「I have a little more shopping to do.＿Alright, I'm really leaving now.」"
+msgstr "Taiga「Tengo que hacer unas compras más.＿Bueno, ahora sí me voy.」"
+
+msgid "Ryuuji「Okay.」"
+msgstr "Ryuuji「Está bien.」"
+
+msgid "Ryuuji「（Wow, she really seems to be handling＿herself just fine......）」"
+msgstr "Ryuuji「（Vaya, de verdad parece que se las＿arregla muy bien sola......）」"
+
+msgid "Ryuuji「（......）」"
+msgstr "Ryuuji「（......）」"
+
+msgid "Ryuuji「（No, I'm not lonely or anything!＿Absolutely not!）」"
+msgstr "Ryuuji「（¡No, no me siento solo＿ni nada! ¡Para nada!）」"

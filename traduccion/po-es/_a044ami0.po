@@ -1,0 +1,185 @@
+msgid ""
+msgstr ""
+
+msgid "Ami「Taaakasu-kuuun～!」"
+msgstr "Ami「¡Taaakasu-kuuun～!」"
+
+msgid "Taiga「Ugh.」"
+msgstr "Taiga「Ugh.」"
+
+msgid "Ami「I caught up～① Gosh, you walk so fast!＿Ami-chan broke a sweat.」"
+msgstr "Ami「Te alcancé～① ¡Cielos, caminas tan＿rápido! Ami-chan hasta sudó.」"
+
+msgid "Ryuuji「What the? I thought we just said our＿goodbyes.」"
+msgstr "Ryuuji「¿Y ahora qué? Creí que acabábamos＿de despedirnos.」"
+
+msgid "Ami「Only uncool guys worry about the＿small details. ① You see, Ami-chan just＿came up with a great idea.」"
+msgstr "Ami「Solo los chicos poco geniales se fijan＿en los pequeños detalles. ① Verás, a＿Ami-chan se le ocurrió una gran idea.」"
+
+msgid "Ami「I wanted to tell you straight away, so I＿rushed right after you, Takasu-kun.」"
+msgstr "Ami「Quería decírtelo de inmediato,＿así que salí corriendo tras＿de ti, Takasu-kun.」"
+
+msgid "Taiga「Gross.」"
+msgstr "Taiga「Qué asco.」"
+
+msgid "Taiga「Thbbbbt!」"
+msgstr "Taiga「¡Prrrrt!」"
+
+msgid "Ami「Eeww! You're filthy!」"
+msgstr "Ami「¡Iuu! ¡Eres una cochina!」"
+
+msgid "Ryuuji「Guys......」"
+msgstr "Ryuuji「Chicas......」"
+
+msgid "Ami「Well, this will work just fine. I'll let Tiger＿join us.」"
+msgstr "Ami「Bueno, así funcionará bien. Dejaré＿que Tigre se una a nosotros.」"
+
+msgid "Taiga「No thanks, I'd rather not. You two dogs＿go have fun humping some legs.」"
+msgstr "Taiga「No, gracias, paso. Vayan ustedes dos,＿perros, a frotarse con alguna pierna.」"
+
+msgid "Ami「This is about Yuusaku and Kanou＿Sumire.」"
+msgstr "Ami「Se trata de Yuusaku y Kanou Sumire.」"
+
+msgid "Taiga「......What?」"
+msgstr "Taiga「......¿Qué?」"
+
+msgid "Ami「You want to know, don't you?」"
+msgstr "Ami「Quieres saberlo, ¿verdad?」"
+
+msgid "Taiga「H-Hmph, as if! This is absurd. I'm going＿home!」"
+msgstr "Taiga「J-Jum, ¡ni loca! Esto es absurdo.＿¡Me voy a casa!」"
+
+msgid "Ami「Oh please, you know you're dying to＿know.」"
+msgstr "Ami「Ay, por favor, sabes que＿te mueres por saberlo.」"
+
+msgid "Ryuuji「So, what's this thing you wanted to tell＿me?」"
+msgstr "Ryuuji「Y bien, ¿qué era eso que＿querías decirme?」"
+
+msgid "Ami「I was thinking, why don't we play Cupid＿for Yuusaku and Kanou Sumire?」"
+msgstr "Ami「Estaba pensando, ¿por qué no hacemos de＿Cupido para Yuusaku y Kanou Sumire?」"
+
+msgid "Ryuuji「Huh? But wasn't Kitamura soundly＿rejected by her?」"
+msgstr "Ryuuji「¿Eh? Pero ¿acaso ella no rechazó＿a Kitamura rotundamente?」"
+
+msgid "Ami「Indeed he was. But as far as I can see,＿that woman IS interested in Yuusaku～」"
+msgstr "Ami「Así es. Pero por lo que veo, a esa＿mujer SÍ le interesa Yuusaku～」"
+
+msgid "Ryuuji「Really?」"
+msgstr "Ryuuji「¿De verdad?」"
+
+msgid "Ami「Nothing gets past Ami-chan. In front of＿Tiger, that woman......」"
+msgstr "Ami「A Ami-chan no se le escapa nada.＿Frente a Tigre, esa mujer......」"
+
+msgid "Ryuuji「......In front of Taiga?」"
+msgstr "Ryuuji「......¿Frente a Taiga?」"
+
+msgid "Ami「Not telling①」"
+msgstr "Ami「No te lo digo①」"
+
+msgid "Ryuuji「Oh for crying out loud!」"
+msgstr "Ryuuji「¡Ay, por el amor de Dios!」"
+
+msgid "Ami「Anyway, there's still hope! I'm sure of＿it! Now that Kanou Sumire's back＿home, it's our only chance, right?」"
+msgstr "Ami「¡En fin, aún hay esperanza! ¡Seguro!＿Ahora que Kanou Sumire volvió a casa,＿es nuestra única oportunidad, ¿no?」"
+
+msgid "Ryuuji「Why are you so supportive of＿Kitamura?」"
+msgstr "Ryuuji「¿Por qué apoyas tanto a Kitamura?」"
+
+msgid "Ami「No reason. Just thought it might be＿interesting. Killing time. When I saw＿you, I realized how fun it would be.」"
+msgstr "Ami「Sin razón. Solo pensé que sería＿interesante. Para pasar el rato. Al＿verte, noté lo divertido que sería.」"
+
+msgid "Ryuuji「Me?」"
+msgstr "Ryuuji「¿Yo?」"
+
+msgid "Ami「Yeah. Forgetting is an impressive＿thing. In your head, it's as if none of＿this ever happened.」"
+msgstr "Ami「Sí. Olvidar es algo impresionante.＿En tu cabeza, es como si nada de＿esto hubiera pasado nunca.」"
+
+msgid "Ryuuji「Well, I'm sure plenty of things have＿happened......」"
+msgstr "Ryuuji「Bueno, seguro que han pasado＿muchas cosas......」"
+
+msgid "Ami「I thought someone like that could put＿their past mistakes or lost time behind＿them and start from scratch.」"
+msgstr "Ami「Pensé que alguien así podría dejar＿atrás sus errores pasados o el tiempo＿perdido y empezar de cero.」"
+
+msgid "Ryuuji「......I'm not sure I follow you.」"
+msgstr "Ryuuji「......No estoy seguro de entenderte.」"
+
+msgid "Ami「Aha ① Anyway, Yuusaku will be our＿guinea pig!」"
+msgstr "Ami「Ajá ① ¡En fin, Yuusaku será nuestro＿conejillo de indias!」"
+
+msgid "Ryuuji「Guinea pig?」"
+msgstr "Ryuuji「¿Conejillo de indias?」"
+
+msgid "Ryuuji「Oh, really? I'm not fully convinced,＿though.」"
+msgstr "Ryuuji「Ah, ¿en serio? Aunque no estoy＿del todo convencido.」"
+
+msgid "Ryuuji「You're really fired up......」"
+msgstr "Ryuuji「Vaya que estás entusiasmada......」"
+
+msgid "Ami「You saw Yuusaku get upset when he＿found out she was back, right? He's＿definitely got some lingering feelings.」"
+msgstr "Ami「Viste que Yuusaku se alteró al saber＿que ella volvió, ¿no? Sin duda aún＿guarda sentimientos por ella.」"
+
+msgid "Ami「Takasu-kun, aren't you his friend?＿Don't you want to do whatever you can＿for him?」"
+msgstr "Ami「Takasu-kun, ¿no eres su amigo?＿¿Acaso no quieres hacer todo＿lo que puedas por él?」"
+
+msgid "Ryuuji「W-Well......」"
+msgstr "Ryuuji「B-Bueno......」"
+
+msgid "Ami「Right?」"
+msgstr "Ami「¿Verdad?」"
+
+msgid "Ryuuji「（I admit, if the feelings are as mutual as＿Kawashima claims, I wanna support＿Kitamura, but......）」"
+msgstr "Ryuuji「（Admito que, si lo que sienten es tan＿mutuo como dice Kawashima, quiero apoyar＿a Kitamura, pero......）」"
+
+msgid "Ryuuji「（The way she's talking, I feel like she's＿luring me into something......）」"
+msgstr "Ryuuji「（Por como habla, siento que me está＿atrayendo hacia algo......）」"
+
+msgid "Ryuuji「......Let me sleep on it.」"
+msgstr "Ryuuji「......Déjame pensarlo esta noche.」"
+
+msgid "Ami「Lame～ That's not very manly of you.」"
+msgstr "Ami「Qué aburrido～ Qué poco varonil eres.」"
+
+msgid "Ryuuji「Leave me alone. Talking to you wears＿me out since you just dodge the＿important questions.」"
+msgstr "Ryuuji「Déjame en paz. Hablar contigo＿me agota porque solo esquivas＿las preguntas importantes.」"
+
+msgid "Ami「Jerk! ......But you're right. Ami-chan＿needs your help with her plan, so she＿can answer a few questions for you.」"
+msgstr "Ami「¡Idiota! ......Pero tienes razón.＿Ami-chan necesita tu ayuda con su plan,＿así que te responderá algunas dudas.」"
+
+msgid "Talk"
+msgstr "Hablar"
+
+msgid "Don't talk"
+msgstr "No hablar"
+
+msgid "Ryuuji「No, I haven't said that I'd help you, and＿talking to you seems costly, so I'm＿done.」"
+msgstr "Ryuuji「No, no he dicho que vaya a ayudarte,＿y hablar contigo sale caro, así＿que ya terminé.」"
+
+msgid "Ami「After shooting down my act of＿kindness, I don't care if you come＿begging for my forgiveness later.」"
+msgstr "Ami「Después de rechazar mi gesto de＿amabilidad, me da igual si luego＿vienes a rogarme perdón.」"
+
+msgid "Ryuuji「Let's drop the subject for now. I'll give＿you an answer by tomorrow.」"
+msgstr "Ryuuji「Dejemos el tema por ahora. Te daré＿una respuesta para mañana.」"
+
+msgid "Ami「Hmmm. Well, whatever.」"
+msgstr "Ami「Mmmm. Bueno, como sea.」"
+
+msgid "Ryuuji「（I'll think it over carefully on the way＿home......）」"
+msgstr "Ryuuji「（Lo pensaré con cuidado de＿camino a casa......）」"
+
+msgid "Ami「Oh, Aisaka-san's here too. Sowwy, it's＿not that you're so small that I couldn't＿see you.」"
+msgstr "Ami「Ah, Aisaka-san también está aquí.＿Perdooon, no es que seas tan pequeña＿que no pudiera verte.」"
+
+msgid "Ami「You're just so easily overlooked.」"
+msgstr "Ami「Es solo que pasas muy desapercibida.」"
+
+msgid "Ami「Come on, let's do it. We're not doing＿anything bad, giving the long-lost＿lovers a chance to unite their hearts.」"
+msgstr "Ami「Vamos, hagámoslo. No hacemos nada malo＿al darles a unos amantes separados la＿oportunidad de unir sus corazones.」"
+
+msgid "Ami「We're being good Samaritans, you see?」"
+msgstr "Ami「Somos buenos samaritanos, ¿ves?」"
+
+msgid "Ami「You will be! I'll convince you! Ami-chan＿is practically the Goddess of Love!＿Venus incarnate!」"
+msgstr "Ami「¡Lo estarás! ¡Te convenceré! ¡Ami-chan＿es prácticamente la Diosa del Amor!＿¡Venus encarnada!」"
+
+msgid "Ami「Ooh, that's just too fitting, oh my①」"
+msgstr "Ami「Uy, eso me queda perfecto, cielos①」"

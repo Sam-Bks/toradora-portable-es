@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+
+msgid "Inko-chan「SIIIIGH......」"
+msgstr "Inko-chan「SUUUSPIRO......」"
+
+msgid "Ryuuji「What the? What's got you sighing,＿Inko-chan......?」"
+msgstr "Ryuuji「¿Qué pasa? ¿Por qué suspiras,＿Inko-chan......?」"
+
+msgid "Inko-chan「THAT, UGH......」"
+msgstr "Inko-chan「YA, PASA......」"
+
+msgid "Ryuuji「......\"What's up\"?」"
+msgstr "Ryuuji「......¿\"Qué pasa\"?」"
+
+msgid "Ryuuji「......*Gasp*! Don't tell me, you were＿trying to say \"that's enough\"!?」"
+msgstr "Ryuuji「......¡Ah! ¡¿No me digas que intentabas＿decir \"ya basta\"?!」"
+
+msgid "Inko-chan「......」"
+msgstr "Inko-chan「......」"
+
+msgid "Ryuuji「Yeah...... I should get some sleep too.＿Good night, Inko-chan......」"
+msgstr "Ryuuji「Sí...... Yo también debería dormir.＿Buenas noches, Inko-chan......」"
+
+msgid "Ryuuji「L-Listen, Inko-chan. I admit the＿conversation may have been boring,＿but I'm sleepy right now. I'm not at my」"
+msgstr "Ryuuji「E-Escucha, Inko-chan. Admito que la＿charla pudo ser aburrida, pero tengo＿sueño. No estoy en mi mejor」"
+
+msgid "Ryuuji「best.」"
+msgstr "Ryuuji「momento.」"

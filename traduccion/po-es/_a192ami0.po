@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「（For now, I'll drink some coffee to calm＿myself down......）」"
+msgstr "Ryuuji「（Por ahora tomaré un poco de＿café para calmarme......）」"
+
+msgid "Ami「Hey you. Get rejected?」"
+msgstr "Ami「Oye, tú. ¿Te rechazaron?」"
+
+msgid "Ryuuji「......Kawashima, you squeezed yourself＿in there again?」"
+msgstr "Ryuuji「......Kawashima, ¿otra vez＿te apretujaste ahí?」"
+
+msgid "Ami「Oh, you changed the subject.」"
+msgstr "Ami「Ah, cambiaste de tema.」"
+
+msgid "Ryuuji「From what......? Oh, by the way, don't＿use Haruta and Noto to spread your＿weird rumors.」"
+msgstr "Ryuuji「¿De qué......? Ah, por cierto,＿no uses a Haruta y a Noto para＿esparcir tus rumores raros.」"
+
+msgid "Ami「Rumors～? Like, I wonder what you＿mean. Ami-chan doesn't get it.」"
+msgstr "Ami「¿Rumores～? O sea, me pregunto a qué te＿refieres. Ami-chan no entiende nada.」"
+
+msgid "Ryuuji「Don't play dumb with me. Rumors like I＿brought you to the planetarium and......＿and came onto you or something!」"
+msgstr "Ryuuji「No te hagas la tonta. ¡Rumores de que＿te llevé al planetario y...... y me＿insinué contigo o algo así!」"
+
+msgid "Ami「......Or are you perhaps concerned that＿someone might get the wrong idea if＿they heard a weird rumor like that?」"
+msgstr "Ami「......¿O acaso te preocupa que alguien＿se haga una idea equivocada si escucha＿un rumor raro como ese?」"
+
+msgid "Ryuuji「Not really. Taiga was there at the time,＿so there's nothing for her to＿misunderstand.」"
+msgstr "Ryuuji「La verdad no. Taiga estuvo ahí en＿ese momento, así que no hay nada＿que pueda malinterpretar.」"
+
+msgid "Ami「I didn't say anything about Tiger.」"
+msgstr "Ami「Yo no dije nada sobre Tigre.」"
+
+msgid "Ryuuji「......」"
+msgstr "Ryuuji「......」"
+
+msgid "Ami「Aha! The little shit rejected you, so＿she's all you can think of, huh?」"
+msgstr "Ami「¡Ajá! La maldita mocosa te rechazó,＿así que solo piensas en ella, ¿eh?」"
+
+msgid "Ami「Suits me just fine. Could you stop＿lashing out about Tiger rejecting you?」"
+msgstr "Ami「Por mí está bien. ¿Podrías dejar de＿desquitarte porque Tigre te rechazó?」"
+
+msgid "Ryuuji「Who's lashing out? I'm just stating＿facts.」"
+msgstr "Ryuuji「¿Quién se desquita? Solo digo＿las cosas como son.」"
+
+msgid "Ami「I'm stating the facts here, too.」"
+msgstr "Ami「Yo también digo las cosas como son.」"
+
+msgid "Ryuuji「She didn't reject me, okay? I just＿wanted to give her this lunchbox.」"
+msgstr "Ryuuji「No me rechazó, ¿entendido? Solo quería＿darle esta caja de almuerzo.」"
+
+msgid "Ami「You \"just wanted to give her this＿lunchbox\"? Don't give me that crap.＿You're just trying to be cool.」"
+msgstr "Ami「¿Que \"solo querías darle esta caja＿de almuerzo\"? No me vengas con eso.＿Solo intentas parecer genial.」"
+
+msgid "Ryuuji「......You're really trying to start an＿argument.」"
+msgstr "Ryuuji「......De verdad buscas empezar＿una discusión.」"
+
+msgid "Ami「You couldn't give that lunchbox to＿Tiger, right? In that case, give it to＿Ami-chan.」"
+msgstr "Ami「No pudiste darle esa caja de＿almuerzo a Tigre, ¿no? En ese＿caso, dásela a Ami-chan.」"
+
+msgid "Ryuuji「That's......」"
+msgstr "Ryuuji「Eso es......」"
+
+msgid "Ami「......Just kidding, stupid.」"
+msgstr "Ami「......Es broma, tonto.」"
+
+msgid "Ryuuji「......You really are hungry, aren't you?」"
+msgstr "Ryuuji「......De verdad tienes hambre, ¿no?」"
+
+msgid "Ami「I, I'm on a diet right now! Leave me＿alone!」"
+msgstr "Ami「¡E-Estoy a dieta ahora mismo!＿¡Déjame en paz!」"
+
+msgid "Ryuuji「Then I'll buy you some juice. That＿should be fine, right? I want to talk to＿you about something.」"
+msgstr "Ryuuji「Entonces te compro un jugo. Eso＿sí se puede, ¿verdad? Quiero＿hablar contigo de algo.」"
+
+msgid "Ami「I have nothing to say. Your stupidity is＿contagious.」"
+msgstr "Ami「No tengo nada que decir. Tu＿estupidez se contagia.」"
+
+msgid "Ryuuji「Would you prefer tea?」"
+msgstr "Ryuuji「¿Prefieres té?」"
+
+msgid "Ryuuji「Here.」"
+msgstr "Ryuuji「Toma.」"
+
+msgid "Ami「Ugh, you're gonna sit there!?」"
+msgstr "Ami「Ugh, ¡¿te vas a sentar ahí?!」"
+
+msgid "Ryuuji「So what?」"
+msgstr "Ryuuji「¿Y qué?」"
+
+msgid "Ami「Cramped. Stinks. Stifling.」"
+msgstr "Ami「Estrecho. Apesta. Asfixiante.」"
+
+msgid "Ryuuji「I don't stink.」"
+msgstr "Ryuuji「Yo no apesto.」"
+
+msgid "Ami「I'm sure that \"something\" you want to＿talk about is just that shitty little＿Tiger. How dull.」"
+msgstr "Ami「Seguro que ese \"algo\" del que quieres＿hablar es sobre esa maldita mocosa＿de Tigre. Qué aburrido.」"
+
+msgid "Ryuuji「She hasn't come over since that day.＿She won't even talk to me.」"
+msgstr "Ryuuji「No ha venido a casa desde ese día.＿Ni siquiera me dirige la palabra.」"
+
+msgid "Ami「............」"
+msgstr "Ami「............」"
+
+msgid "Ami「............」"
+msgstr "Ami「............」"
+
+msgid "Ami「......Everyone's so stupid. In the end,＿they know the least about themselves.」"
+msgstr "Ami「......Todos son tan tontos.＿Al final, son los que menos＿se conocen a sí mismos.」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Ami「I knew that. I was...... envious of Tiger......」"
+msgstr "Ami「Lo sabía. Yo...... le tenía＿envidia a Tigre......」"
+
+msgid "Ryuuji「Kawashima......?」"
+msgstr "Ryuuji「¿Kawashima......?」"
+
+msgid "Ami「I mean, making food for me and＿cleaning up after me? I wish I had a＿dog like that～①」"
+msgstr "Ami「O sea, ¿que me preparen la comida＿y limpien lo mío? Ojalá tuviera＿un perro así～①」"
+
+msgid "Ryuuji「Excuse me?」"
+msgstr "Ryuuji「¿Disculpa?」"
+
+msgid "Ami「Argh, no, no, wet dog smell! This place＿brings back memories～」"
+msgstr "Ami「¡Agh, no, no, olor a perro mojado!＿Este lugar me trae recuerdos～」"
+
+msgid "Ryuuji「Quit saying I stink!」"
+msgstr "Ryuuji「¡Deja de decir que apesto!」"
+
+msgid "Ami「Takasu-kun, don't slip up.」"
+msgstr "Ami「Takasu-kun, no metas la pata.」"
+
+msgid "Ryuuji「......?」"
+msgstr "Ryuuji「......?」"
+
+msgid "Ami「Here's some money for the tea.」"
+msgstr "Ami「Aquí tienes dinero para el té.」"
+
+msgid "Ryuuji「I said I was treating you.」"
+msgstr "Ryuuji「Dije que yo invitaba.」"
+
+msgid "Ryuuji「Don't you treat me like a dog too.」"
+msgstr "Ryuuji「Tú tampoco me trates como a un perro.」"
+
+msgid "Ami「Fufu. Off I go～」"
+msgstr "Ami「Juju. Me voy～」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Ami「Whatcha getting so serious for? It's a＿harmless little prank. HILARIOUS,＿though～! It's punishment for ruining」"
+msgstr "Ami「¿Por qué te pones tan serio? Es solo＿una bromita inofensiva. ¡GRACIOSÍSIMA,＿eso sí～! Es castigo por arruinar」"
+
+msgid "Ami「Ami-chan's plans. This much is＿nothing.」"
+msgstr "Ami「los planes de Ami-chan. Esto no es nada.」"
+
+msgid "Ryuuji「It's just like you said. I spend so much＿time with Taiga, and yet I don't know＿anything. So I want to ask you what」"
+msgstr "Ryuuji「Como dijiste, paso tanto tiempo con＿Taiga y aun así no sé nada. Por eso＿quiero preguntarte lo que」"
+
+msgid "Ryuuji「you know.」"
+msgstr "Ryuuji「tú sabes.」"
+
+msgid "Ami「But there will come a time when you＿understand everything, as if all the＿pieces of the puzzle fit perfectly. I」"
+msgstr "Ami「Pero llegará un día en que lo entiendas＿todo, como si todas las piezas del＿rompecabezas encajaran. Yo」"
+
+msgid "Ami「think that moment has come for Tiger.」"
+msgstr "Ami「creo que ese momento llegó para Tigre.」"
+
+msgid "Ami「But you know, once you finally notice,＿giving up once it's too late, thinking＿too much and making wrong」"
+msgstr "Ami「Pero sabes, una vez que por fin te das＿cuenta, rendirte cuando ya es tarde,＿pensar demasiado y tomar malas」"
+
+msgid "Ami「decisions...... it's all so stupid.」"
+msgstr "Ami「decisiones...... todo es tan estúpido.」"
+
+msgid "Ami「Hey, just how long are you planning to＿dawdle here? Sure you don't want to＿take that big ol' lunchbox to your」"
+msgstr "Ami「Oye, ¿hasta cuándo vas a holgazanear?＿¿No quieres llevarle esa enorme caja de＿almuerzo a tu」"
+
+msgid "Ami「owner?」"
+msgstr "Ami「dueña?」"
+
+msgid "Ami「Ami-chan's not so desolate as to let＿someone else's dog treat her. I＿wouldn't want to have to pay you back」"
+msgstr "Ami「Ami-chan no está tan desesperada como＿para que el perro de otra la invite. No＿querría tener que pagarte」"
+
+msgid "Ami「double for this.」"
+msgstr "Ami「el doble por esto.」"

@@ -1,0 +1,11 @@
+msgid ""
+msgstr ""
+
+msgid "Inko-chan「......」"
+msgstr "Inko-chan「......」"
+
+msgid "Ryuuji「W-What's wrong all of a sudden......? Did＿you fall asleep already?」"
+msgstr "Ryuuji「¿Q-Qué pasa de repente......?＿¿Ya te dormiste?」"
+
+msgid "Ryuuji「......I envy your mad sleeping skills......＿Good night, Inko-chan.」"
+msgstr "Ryuuji「......Envidio tu increíble facilidad＿para dormir...... Buenas noches,＿Inko-chan.」"

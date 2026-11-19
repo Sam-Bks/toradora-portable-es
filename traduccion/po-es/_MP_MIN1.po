@@ -1,0 +1,947 @@
+msgid ""
+msgstr ""
+
+msgid "Stare"
+msgstr "Mirar fijamente"
+
+msgid "Stare passionately"
+msgstr "Mirar con pasión"
+
+msgid "Stare calmly"
+msgstr "Mirar con calma"
+
+msgid "Stare blankly"
+msgstr "Mirar distraído"
+
+msgid "About Kushieda"
+msgstr "Sobre Kushieda"
+
+msgid "Tell me if I'm being overly friendly"
+msgstr "Dime si soy demasiado confianzudo"
+
+msgid "How long have we known each other?"
+msgstr "¿Desde cuándo nos conocemos?"
+
+msgid "Could you tell me a bit about yourself?"
+msgstr "¿Me contarías un poco sobre ti?"
+
+msgid "About New Year's"
+msgstr "Sobre Año Nuevo"
+
+msgid "You helped me a lot this year...... right?"
+msgstr "Me ayudaste mucho este año...... ¿verdad?"
+
+msgid "Public transit looks crowded everywhere"
+msgstr "El transporte público se ve muy lleno"
+
+msgid "Did you clean your house for New Year's?"
+msgstr "¿Limpiaste tu casa para Año Nuevo?"
+
+msgid "About Winter Break"
+msgstr "Sobre las vacaciones de invierno"
+
+msgid "Frankly, are you making a lot of money?"
+msgstr "Sinceramente, ¿ganas mucho dinero?"
+
+msgid "It's already halfway over"
+msgstr "Ya van por la mitad"
+
+msgid "Didn't we get homework over the break?"
+msgstr "¿No teníamos tarea para las vacaciones?"
+
+msgid "About Work"
+msgstr "Sobre el trabajo"
+
+msgid "You've got some serious work ethic!"
+msgstr "¡Sí que tienes ética de trabajo!"
+
+msgid "Are you saving up for something?"
+msgstr "¿Estás ahorrando para algo?"
+
+msgid "Must be hard working in food service"
+msgstr "Debe ser duro trabajar en restaurantes"
+
+msgid "About Taiga"
+msgstr "Sobre Taiga"
+
+msgid "Seems you two get along really well"
+msgstr "Parece que se llevan muy bien"
+
+msgid "She visited me while I was hospitalized"
+msgstr "Me visitó cuando estuve hospitalizado"
+
+msgid "I've had it up to here with her violence"
+msgstr "Ya estoy harto de su violencia"
+
+msgid "--Let's Have a Fun Chat with Minori!--"
+msgstr "--¡Una charla divertida con Minori!--"
+
+msgid "Minori「EYEEEE BEAMMM!」"
+msgstr "Minori「¡RAYOOO OCULAAAR!」"
+
+msgid "Ryuuji「No such luck.」"
+msgstr "Ryuuji「No hay tanta suerte.」"
+
+msgid "Minori「Ahaha, I must have imagined it!」"
+msgstr "Minori「¡Ajaja, me lo habré imaginado!」"
+
+msgid "Ryuuji「No, it's cold.」"
+msgstr "Ryuuji「No, hace frío.」"
+
+msgid "Minori「Oh, you've got a good point there!＿Thank ya kindly. Hehe!」"
+msgstr "Minori「¡Ah, buen punto! ¡Te lo＿agradezco! ¡Jeje!」"
+
+msgid "Minori「Umm, that's kinda......」"
+msgstr "Minori「Emm, eso es un poco......」"
+
+msgid "Ryuuji「Oh......?」"
+msgstr "Ryuuji「¿Eh......?」"
+
+msgid "Minori「Nah, forget it, bud.」"
+msgstr "Minori「Nah, olvídalo, amigo.」"
+
+msgid "Minori「What is it? Sup?」"
+msgstr "Minori「¿Qué pasa? ¿Qué hay?」"
+
+msgid "Ryuuji「Uhh, well......」"
+msgstr "Ryuuji「Ehh, bueno......」"
+
+msgid "Minori「Aaaah! It's the rumored TAKASU＿BLIZZARDDDD!」"
+msgstr "Minori「¡Aaaah! ¡Es la famosa＿VENTISCA TAKASUUUU!」"
+
+msgid "Ryuuji「Wha-- Is there really a rumor like that＿going around?」"
+msgstr "Ryuuji「¿Qu-- En serio corre un＿rumor así por ahí?」"
+
+msgid "Minori「Nope. Haha!」"
+msgstr "Minori「Nop. ¡Jaja!」"
+
+msgid "Minori「Yes, I died! And then, when your＿guard's down, I'LL RETURN!!」"
+msgstr "Minori「¡Sí, morí! ¡¡Y luego, cuando＿bajes la guardia, VOLVERÉ!!」"
+
+msgid "Ryuuji「O-Oh? I had no time to react to that.」"
+msgstr "Ryuuji「¿A-Ah? No alcancé a reaccionar.」"
+
+msgid "Minori「Hehehe.」"
+msgstr "Minori「Jejeje.」"
+
+msgid "Minori「......'Sup?」"
+msgstr "Minori「......¿Qué hay?」"
+
+msgid "Ryuuji「Oh, err......」"
+msgstr "Ryuuji「Ah, ehm......」"
+
+msgid "Minori「Uh...... err......」"
+msgstr "Minori「Eh...... ehm......」"
+
+msgid "Ryuuji「What's the matter?」"
+msgstr "Ryuuji「¿Qué pasa?」"
+
+msgid "Minori「Nah, it's nothin'.」"
+msgstr "Minori「Nah, no es nada.」"
+
+msgid "Minori「............」"
+msgstr "Minori「............」"
+
+msgid "Ryuuji「Uh...... w-what's wrong?」"
+msgstr "Ryuuji「Eh...... ¿q-qué sucede?」"
+
+msgid "Minori「......Nothing...... Yeah, it's nothing.」"
+msgstr "Minori「......Nada...... Sí, no es nada.」"
+
+msgid "Minori「......Hmm?」"
+msgstr "Minori「......¿Mmm?」"
+
+msgid "Minori「......Oho, a staring contest, eh?」"
+msgstr "Minori「......Jojo, ¿un duelo de miradas, eh?」"
+
+msgid "Ryuuji「No, no, let's not.」"
+msgstr "Ryuuji「No, no, mejor no.」"
+
+msgid "Minori「Stop right there!」"
+msgstr "Minori「¡Alto ahí!」"
+
+msgid "Ryuuji「S-Sorry! Did I offend you?」"
+msgstr "Ryuuji「¡P-Perdón! ¿Te ofendí?」"
+
+msgid "Minori「Haha! Back at ya! Worrywart! Honestly,＿keep that up and you could get ulcers!」"
+msgstr "Minori「¡Jaja, te la devolví, preocupón! ¡Así＿te va a salir una úlcera, en serio!」"
+
+msgid "Ryuuji「O-Oh...... Alright. Thanks.」"
+msgstr "Ryuuji「A-Ah...... Está bien. Gracias.」"
+
+msgid "Minori「Ooh, aah...... God, I can't stand it!」"
+msgstr "Minori「Ooh, aah...... ¡Dios, no lo soporto!」"
+
+msgid "Ryuuji「Oh, did I say something weird?」"
+msgstr "Ryuuji「Ah, ¿dije algo raro?」"
+
+msgid "Minori「Ehehe, everything you say is weird!」"
+msgstr "Minori「¡Ejeje, todo lo que dices es raro!」"
+
+msgid "Minori「That's MY line. Seriously.」"
+msgstr "Minori「Esa es MI frase. En serio.」"
+
+msgid "Ryuuji「But I don't seem to recall that being＿the case.」"
+msgstr "Ryuuji「Pero no recuerdo que ese＿haya sido el caso.」"
+
+msgid "Minori「That might be true right now, but......＿Sorry, it's nothing. Thanks.」"
+msgstr "Minori「Puede que ahora sea así, pero......＿Perdón, no es nada. Gracias.」"
+
+msgid "Ryuuji「O-Okay......」"
+msgstr "Ryuuji「E-Está bien......」"
+
+msgid "Minori「Ohoho, shall I unleash the Kushieda?」"
+msgstr "Minori「Ojojo, ¿desato a la Kushieda?」"
+
+msgid "Minori「Snicker...... What wouldst thou prefer?」"
+msgstr "Minori「Jijiji...... ¿Qué elige vuestra merced?」"
+
+msgid "Ryuuji「No no, I have no preference in this.」"
+msgstr "Ryuuji「No, no, no tengo ninguna preferencia.」"
+
+msgid "Ryuuji「Well, I wasn't really hoping for a joke.」"
+msgstr "Ryuuji「Bueno, tampoco esperaba un chiste.」"
+
+msgid "Minori「I reckon that's its own kind of＿loneliness.」"
+msgstr "Minori「Supongo que eso tiene su＿propio tipo de soledad.」"
+
+msgid "Ryuuji「Alright, moving on!」"
+msgstr "Ryuuji「¡Bien, sigamos adelante!」"
+
+msgid "Minori「My butt's cracked! Wait, I messed up,＿sorry. Forget I said that.」"
+msgstr "Minori「¡Se me partió el trasero! Espera, me＿equivoqué, perdón. Olvida lo que dije.」"
+
+msgid "Ryuuji「No, there's no way I can forget it when＿you're making that expression.」"
+msgstr "Ryuuji「No, no hay forma de olvidarlo＿cuando pones esa cara.」"
+
+msgid "Minori「Since it's come to this, I must＿apologize with an act of hara-kiri.」"
+msgstr "Minori「Ya que llegamos a esto, debo disculparme＿haciéndome el harakiri.」"
+
+msgid "Ryuuji「Alright, I'll forget it!」"
+msgstr "Ryuuji「¡Está bien, lo olvidaré!」"
+
+msgid "Minori「Let's see, I'd say we knew each other's＿faces as freshmen.」"
+msgstr "Minori「Veamos, diría que nos conocíamos＿de vista desde primer año.」"
+
+msgid "Ryuuji「......Oh really?」"
+msgstr "Ryuuji「......¿Ah, en serio?」"
+
+msgid "Minori「Now now, there's nothing wrong with＿remembering gradually, see.」"
+msgstr "Minori「Vamos, vamos, no tiene nada de malo＿ir recordando poco a poco, ¿ves?」"
+
+msgid "Ryuuji「O-Oh......」"
+msgstr "Ryuuji「A-Ah......」"
+
+msgid "Ryuuji「......Uhhh, well, I sure hope you evolve＿into a human soon.」"
+msgstr "Ryuuji「......Ehhh, bueno, espero que＿pronto evoluciones a humano.」"
+
+msgid "Minori「Right back at you.」"
+msgstr "Minori「Lo mismo te digo.」"
+
+msgid "Minori「Any closer to the fire and you'll get＿burned!」"
+msgstr "Minori「¡Si te acercas más al fuego＿te vas a quemar!」"
+
+msgid "Ryuuji「Seriously?」"
+msgstr "Ryuuji「¿En serio?」"
+
+msgid "Minori「Seriously. Pa-KOW!」"
+msgstr "Minori「En serio. ¡Pa-PUM!」"
+
+msgid "Ryuuji「......Was that a warning shot?」"
+msgstr "Ryuuji「......¿Fue un disparo de advertencia?」"
+
+msgid "Minori「Fufufu.」"
+msgstr "Minori「Jujuju.」"
+
+msgid "Minori「My BWH measurements, in order: 100,＿100, 100.」"
+msgstr "Minori「Mis medidas son, en orden:＿100, 100, 100.」"
+
+msgid "Ryuuji「What's with that look......? I mean, uhh,＿are you some kind of oil drum?」"
+msgstr "Ryuuji「¿Y esa mirada......? Digo, ehh, ¿acaso＿eres un barril de petróleo?」"
+
+msgid "Minori「Thanks for playing along!」"
+msgstr "Minori「¡Gracias por seguirme el juego!」"
+
+msgid "Ryuuji「Short version, please.」"
+msgstr "Ryuuji「La versión corta, por favor.」"
+
+msgid "Minori「I'm Kushieda Minori!」"
+msgstr "Minori「¡Soy Kushieda Minori!」"
+
+msgid "Ryuuji「......That's it!?」"
+msgstr "Ryuuji「......¡¿Eso es todo?!」"
+
+msgid "Minori「Hehehe.」"
+msgstr "Minori「Jejeje.」"
+
+msgid "Minori「Haha! With that unsure attitude of＿yours, I feel like saying \"You bet,＿maybe!\"」"
+msgstr "Minori「¡Jaja! Con esa actitud tuya tan＿insegura, me dan ganas de decir＿\"¡Por supuesto, tal vez!\"」"
+
+msgid "Ryuuji「Was I always an unsure person?」"
+msgstr "Ryuuji「¿Siempre fui una persona insegura?」"
+
+msgid "Minori「Yup yup!」"
+msgstr "Minori「¡Sip, sip!」"
+
+msgid "Minori「And with that one thing, and the other＿thing, and the OTHER other thing!」"
+msgstr "Minori「¡Y con aquella cosa, y la otra＿cosa, y la OTRA otra cosa!」"
+
+msgid "Ryuuji「Uhh, I...... I'm sorry I don't remember!」"
+msgstr "Ryuuji「Ehh, yo...... ¡Perdón por no recordarlo!」"
+
+msgid "Minori「Hold it right there! I wasn't trying to＿stress you out, bud. Sorry, sorry!」"
+msgstr "Minori「¡Alto ahí! No quería estresarte,＿amigo. ¡Perdón, perdón!」"
+
+msgid "Minori「Ah, yeah, well, shit happens, bud. Same＿goes for me. Likewise, you helped me＿with heaps of stuff too.」"
+msgstr "Minori「Ah, sí, bueno, pasan mierdas, amigo.＿Lo mismo digo. Tú también me ayudaste＿con un montón de cosas.」"
+
+msgid "Ryuuji「Hmm, did \"shit\" really happen?」"
+msgstr "Ryuuji「Mmm, ¿de verdad pasaron \"mierdas\"?」"
+
+msgid "Minori「......Whoops, I guess that was the wrong＿choice of words. Well, let's both make a＿fresh start this new year, bud.」"
+msgstr "Minori「......Ups, supongo que no elegí bien＿las palabras. Bueno, empecemos de＿cero este año nuevo, amigo.」"
+
+msgid "Ryuuji「Oh, okay.」"
+msgstr "Ryuuji「Ah, está bien.」"
+
+msgid "Minori「Oh please, you helped ME out ten＿times as much. Look after Taiga this＿next year, too.」"
+msgstr "Minori「Por favor, tú ME ayudaste diez＿veces más. Cuida de Taiga este＿año que viene también.」"
+
+msgid "Ryuuji「Likewise...... Wait, how does Taiga＿factor in?」"
+msgstr "Ryuuji「Igualmente...... Espera, ¿qué＿tiene que ver Taiga en esto?」"
+
+msgid "Minori「Hehehe.」"
+msgstr "Minori「Jejeje.」"
+
+msgid "Minori「As expected of a Kushieda, I cringe at＿the thought, bud.」"
+msgstr "Minori「Como buena Kushieda, me da escalofríos＿de solo pensarlo, amigo.」"
+
+msgid "Ryuuji「Oh, sorry, I meant from now on.」"
+msgstr "Ryuuji「Ah, perdón, decía de ahora en adelante.」"
+
+msgid "Minori「Don't worry. I get it, bud.」"
+msgstr "Minori「No te preocupes. Lo entiendo, amigo.」"
+
+msgid "Minori「Please pick up my bones.」"
+msgstr "Minori「Por favor, recoge mis huesos.」"
+
+msgid "Ryuuji「......Oh?」"
+msgstr "Ryuuji「......¿Eh?」"
+
+msgid "Minori「Marching to a tough battle like that is＿a sign of tragic determination, see.」"
+msgstr "Minori「Marchar a una batalla así de dura＿muestra una trágica determinación, ¿ves?」"
+
+msgid "Ryuuji「Oh, right, sorry. Do your best!」"
+msgstr "Ryuuji「Ah, claro, perdón. ¡Esfuérzate!」"
+
+msgid "Minori「Thanks...... *Sigh*」"
+msgstr "Minori「Gracias...... *Suspiro*」"
+
+msgid "Minori「Once you start thinking like that, it's＿all over.」"
+msgstr "Minori「En cuanto empiezas a pensar＿así, todo se acabó.」"
+
+msgid "Ryuuji「True that.」"
+msgstr "Ryuuji「Es cierto.」"
+
+msgid "Ryuuji「Wow, you said all that with a perfect＿straight face. I'm a little impressed.」"
+msgstr "Ryuuji「Guau, dijiste todo eso tan seria.＿Me impresiona un poco.」"
+
+msgid "Minori「But I'll sit down at the first＿opportunity.」"
+msgstr "Minori「Pero me sentaré en cuanto tenga＿la menor oportunidad.」"
+
+msgid "Ryuuji「......O-Oh, don't hesitate to sit.」"
+msgstr "Ryuuji「......A-Ah, no dudes en sentarte.」"
+
+msgid "Ryuuji「Oh? Don't! Don't get depressed!」"
+msgstr "Ryuuji「¿Eh? ¡No! ¡No te deprimas!」"
+
+msgid "Minori「It's okay. This, too, shall pass.」"
+msgstr "Minori「Está bien. Esto también pasará.」"
+
+msgid "Ryuuji「I, I never said that, and I'm not a god＿either.」"
+msgstr "Ryuuji「Y-Yo nunca dije eso, y＿tampoco soy un dios.」"
+
+msgid "Minori「Sorry, it was just a joke. I was just＿concerned about my own＿inexperience.」"
+msgstr "Minori「Perdón, solo era una broma. Solo me＿preocupaba mi propia inexperiencia.」"
+
+msgid "Ryuuji「Sorry, I went a little too far.」"
+msgstr "Ryuuji「Perdón, me pasé un poco.」"
+
+msgid "Minori「If you had said something like that, I＿would have been shocked even if I was＿finished.」"
+msgstr "Minori「Si hubieras dicho algo así, me＿habría impresionado incluso si＿ya estuviera acabada.」"
+
+msgid "Ryuuji「Am I that intimidating?」"
+msgstr "Ryuuji「¿Tan intimidante soy?」"
+
+msgid "Minori「Not THAT much, but I get the feeling＿our interpretations of \"finished\" are＿much different, bud.」"
+msgstr "Minori「No TANTO, pero me da la sensación＿de que entendemos \"acabada\" de forma＿muy distinta, amigo.」"
+
+msgid "Minori「Fufufu, I shalt not heareth that from＿thee, cretin!」"
+msgstr "Minori「Jujuju, ¡no escucharé tal＿cosa de vos, cretino!」"
+
+msgid "Ryuuji「Yeah, that's most important.」"
+msgstr "Ryuuji「Sí, eso es lo más importante.」"
+
+msgid "Minori「'Tis the season, y'know, for cold＿yellowtail!」"
+msgstr "Minori「¡Es temporada, ya sabes, de jurel frío!」"
+
+msgid "Ryuuji「......Oh, making fish rolls?」"
+msgstr "Ryuuji「......Ah, ¿harás rollos de pescado?」"
+
+msgid "Minori「And they shall gleam! Probably burn＿'em, set 'em on fire!」"
+msgstr "Minori「¡Y relucirán! ¡Seguro los＿quemo, les prendo fuego!」"
+
+msgid "Ryuuji「......Don't play with fire, okay?」"
+msgstr "Ryuuji「......No juegues con fuego, ¿sí?」"
+
+msgid "Minori「Of course hot!」"
+msgstr "Minori「¡Caliente, por supuesto!」"
+
+msgid "Minori「Haha, you found me out! Am I that easy＿to read?」"
+msgstr "Minori「¡Jaja, me descubriste! ¿Tan＿fácil soy de leer?」"
+
+msgid "Ryuuji「Nah, it was just a feeling I had.」"
+msgstr "Ryuuji「Nah, solo fue una corazonada.」"
+
+msgid "Minori「I'm not THAT greedy...... am I? I＿probably am. I am! And this girl is fine＿with that! Wahahaha!」"
+msgstr "Minori「No soy TAN codiciosa...... ¿o sí? Seguro＿que sí. ¡Lo soy! ¡Y a esta chica le＿parece bien! ¡Guajajaja!」"
+
+msgid "Minori「I want to think it's more than that, but＿that's how it is.」"
+msgstr "Minori「Quiero creer que es más que eso,＿pero así son las cosas.」"
+
+msgid "Ryuuji「Uh...... W-Well, do your best.」"
+msgstr "Ryuuji「Eh...... B-Bueno, esfuérzate.」"
+
+msgid "Minori「I will. Thanks.」"
+msgstr "Minori「Lo haré. Gracias.」"
+
+msgid "Minori「Oho, but of course.」"
+msgstr "Minori「Oho, por supuesto que sí.」"
+
+msgid "Ryuuji「Okay, just don't wear yourself out.」"
+msgstr "Ryuuji「Está bien, solo no te agotes.」"
+
+msgid "Minori「Roger!」"
+msgstr "Minori「¡Entendido!」"
+
+msgid "Minori「Ahh, yup, that's true. That's your way＿of thinking, though. Try looking at it as＿though there's still half remaining, bud.」"
+msgstr "Minori「Ahh, sip, es verdad. Pero esa es tu＿forma de pensar. Intenta verlo como＿que aún queda la mitad, amigo.」"
+
+msgid "Ryuuji「......Hmm, you're right. It's more positive＿that way.」"
+msgstr "Ryuuji「......Mmm, tienes razón.＿Así es más positivo.」"
+
+msgid "Minori「Sorry, it kinda came off as a lecture.」"
+msgstr "Minori「Perdón, sonó un poco a sermón.」"
+
+msgid "Ryuuji「Nah, it's fine.」"
+msgstr "Ryuuji「Nah, no pasa nada.」"
+
+msgid "Minori「Repeat after me! \"Still half to go!\"」"
+msgstr "Minori「¡Repite conmigo! \"¡Aún falta la mitad!\"」"
+
+msgid "Ryuuji「S-Still half to go!」"
+msgstr "Ryuuji「¡A-Aún falta la mitad!」"
+
+msgid "Minori「Okay!! See you, bye!」"
+msgstr "Minori「¡¡Bien!! ¡Nos vemos, adiós!」"
+
+msgid "Ryuuji「B-Bye......」"
+msgstr "Ryuuji「A-Adiós......」"
+
+msgid "Minori「Time flies with godspeed.」"
+msgstr "Minori「El tiempo vuela a velocidad divina.」"
+
+msgid "Ryuuji「......Uhhh?」"
+msgstr "Ryuuji「......¿Ehhh?」"
+
+msgid "Minori「Oh, too hard? Sorry, sorry.」"
+msgstr "Minori「Ah, ¿muy difícil? Perdón, perdón.」"
+
+msgid "Minori「There will come a plague wherein＿homework shall be forgotten.」"
+msgstr "Minori「Vendrá una plaga en la que＿la tarea será olvidada.」"
+
+msgid "Ryuuji「No, it doesn't work like that.」"
+msgstr "Ryuuji「No, eso no funciona así.」"
+
+msgid "Minori「......Right now, I'm ashamed of myself for＿wishing for amnesia right in front of＿you. Better yet, hit me. Go on.」"
+msgstr "Minori「......Ahora mismo me avergüenzo de mí＿misma por desear amnesia justo delante＿de ti. Mejor pégame. Anda.」"
+
+msgid "Ryuuji「No no, you don't have to worry. Let's＿fight against reality.」"
+msgstr "Ryuuji「No, no, no te preocupes. Luchemos＿contra la realidad.」"
+
+msgid "Minori「Your words pain me.」"
+msgstr "Minori「Tus palabras me hieren.」"
+
+msgid "Minori「.........」"
+msgstr "Minori「.........」"
+
+msgid "Ryuuji「......Hey, when you're making that face,＿you look kinda, what's the word?＿Uncomfortable.」"
+msgstr "Ryuuji「......Oye, cuando pones esa＿cara, te ves como, ¿cuál es＿la palabra? Incómoda.」"
+
+msgid "Ryuuji「I got it loud and clear. Gimme a break.」"
+msgstr "Ryuuji「Me quedó clarísimo. Dame un respiro.」"
+
+msgid "Minori「Hehehe.」"
+msgstr "Minori「Jejeje.」"
+
+msgid "Minori「What washes up on tiny beaches?」"
+msgstr "Minori「¿Qué llega a las playas diminutas?」"
+
+msgid "Ryuuji「No, I'm not making a punchline.」"
+msgstr "Ryuuji「No, no voy a rematar el chiste.」"
+
+msgid "Minori「The sightseeing fee is costly, you＿know?」"
+msgstr "Minori「La tarifa turística sale cara, ¿sabes?」"
+
+msgid "Ryuuji「Uh...... err, microwaves?」"
+msgstr "Ryuuji「Eh...... ehm, ¿microondas?」"
+
+msgid "Minori「Nice! Keep it up! Bring it on!」"
+msgstr "Minori「¡Bien! ¡Sigue así! ¡Con todo!」"
+
+msgid "Minori「If you don't keep this conversation＿going, you'll die. Don't tell anyone.」"
+msgstr "Minori「Si no mantienes esta charla viva,＿morirás. No se lo digas a nadie.」"
+
+msgid "Ryuuji「......Are you trying to say that you're＿suffering money-wise?」"
+msgstr "Ryuuji「......¿Estás tratando de decir＿que andas mal de dinero?」"
+
+msgid "Minori「I meant like, if a fish stops swimming it＿stops living, but...... to sum it up like＿that is way more embarrassing.」"
+msgstr "Minori「Quería decir que, si un pez deja de＿nadar, muere, pero...... resumirlo＿así da mucha más vergüenza.」"
+
+msgid "Ryuuji「S-Sorry!」"
+msgstr "Ryuuji「¡P-Perdón!」"
+
+msgid "Minori「Fufufu, no doubt you have the eyes of＿a dead fish right now.」"
+msgstr "Minori「Jujuju, sin duda tienes ojos＿de pez muerto ahora mismo.」"
+
+msgid "Ryuuji「No I don't!」"
+msgstr "Ryuuji「¡Claro que no!」"
+
+msgid "Minori「Something, maybe? Could be＿nothing...... Nope, it's probably＿something.」"
+msgstr "Minori「¿Para algo, tal vez? Puede que＿para nada...... Nop, probablemente＿sea para algo.」"
+
+msgid "Ryuuji「You lost me.」"
+msgstr "Ryuuji「Me perdí.」"
+
+msgid "Ryuuji「Well, that's......」"
+msgstr "Ryuuji「Bueno, eso es......」"
+
+msgid "Minori「The world, I guess.」"
+msgstr "Minori「El mundo, supongo.」"
+
+msgid "Ryuuji「......Oh? Is that more important than＿your part-time job at the diner?」"
+msgstr "Ryuuji「......¿Ah? ¿Importa más que tu trabajo＿de medio tiempo en el restaurante?」"
+
+msgid "Minori「I have a long way to go, bud.」"
+msgstr "Minori「Aún me queda mucho camino, amigo.」"
+
+msgid "Minori「The thing I truly want is priceless.」"
+msgstr "Minori「Lo que de verdad quiero no tiene precio.」"
+
+msgid "Ryuuji「Uh...... Umm......」"
+msgstr "Ryuuji「Eh...... Emm......」"
+
+msgid "Minori「Whoops, sorry. Disregard that, please.」"
+msgstr "Minori「Ups, perdón. Ignora eso, por favor.」"
+
+msgid "Minori「Fufufu...... It's a secret. Why? Because＿it's more interesting that way!」"
+msgstr "Minori「Jujuju...... Es un secreto. ¿Por qué?＿¡Porque así es más interesante!」"
+
+msgid "Ryuuji「G-Got it...... though I don't get it.」"
+msgstr "Ryuuji「E-Entendido...... aunque no entiendo.」"
+
+msgid "Minori「Well, that's because there are all kinds＿of customers, see.」"
+msgstr "Minori「Bueno, eso es porque hay todo＿tipo de clientes, ¿ves?」"
+
+msgid "Ryuuji「Uh...... Did I make you remember＿something bad? Sorry.」"
+msgstr "Ryuuji「Eh...... ¿Te hice recordar＿algo malo? Perdón.」"
+
+msgid "Minori「No way, I'm totally fine.」"
+msgstr "Minori「Para nada, estoy perfectamente bien.」"
+
+msgid "Minori「If I look at it from the customer's point＿of view, I'm not fit to be in the service＿industry.」"
+msgstr "Minori「Si lo miro desde el punto de vista＿del cliente, no sirvo para el＿sector de servicios.」"
+
+msgid "Ryuuji「W-Wait! I didn't mean it like that!」"
+msgstr "Ryuuji「¡E-Espera! ¡No lo decía por eso!」"
+
+msgid "Minori「......Alright, I got a little ahead of myself＿there. But I want you to think about＿the meaning of \"daily reflection.\"」"
+msgstr "Minori「......Bueno, me precipité un poco.＿Pero quiero que pienses en el sentido＿de la \"reflexión diaria\".」"
+
+msgid "Ryuuji「......I kinda feel bad now.」"
+msgstr "Ryuuji「......Ahora me siento un poco mal.」"
+
+msgid "Minori「Don't forget the pay rate, bud.」"
+msgstr "Minori「No olvides la paga por hora, amigo.」"
+
+msgid "Ryuuji「Oh, that's kinda cool.」"
+msgstr "Ryuuji「Ah, eso suena bastante genial.」"
+
+msgid "Minori「Thanks!」"
+msgstr "Minori「¡Gracias!」"
+
+msgid "Minori「Wanna give it a try?」"
+msgstr "Minori「¿Quieres intentarlo?」"
+
+msgid "Ryuuji「......Is this a scam?」"
+msgstr "Ryuuji「......¿Esto es una estafa?」"
+
+msgid "Minori「You can't give up at the starting line!」"
+msgstr "Minori「¡No te rindas en la línea de salida!」"
+
+msgid "Ryuuji「R-Right.」"
+msgstr "Ryuuji「C-Claro.」"
+
+msgid "Minori「Of course, see! It's called the gambler's＿best friend! I mean childhood friend!＿Can't gamble with that! Haha!」"
+msgstr "Minori「¡Claro! ¡Es el mejor amigo del＿apostador! ¡Digo, amigo de la infancia!＿¡Eso no se apuesta! ¡Jaja!」"
+
+msgid "Ryuuji「......True that.」"
+msgstr "Ryuuji「......Es verdad.」"
+
+msgid "Minori「Hehe! Come on, having that said right＿to my face makes me, like, randomly＿awkward!」"
+msgstr "Minori「¡Jeje! ¡Vamos, que me digan eso＿a la cara me hace sentir, no sé,＿como incómoda de la nada!」"
+
+msgid "Ryuuji「You don't have to feel awkward＿though.」"
+msgstr "Ryuuji「Aunque no tienes por qué＿sentirte incómoda.」"
+
+msgid "Minori「That's a deep, deep, DEEP friendship,＿see. OHO, the ultimate depth～!」"
+msgstr "Minori「Amistad profunda, profunda, PROFUNDA,＿¿ves? ¡OHO, la máxima profundidad～!」"
+
+msgid "Ryuuji「That's what I want to say.」"
+msgstr "Ryuuji「Eso es lo que yo quiero decir.」"
+
+msgid "Minori「We don't \"seem\" to get along. We get＿along for a fact～!」"
+msgstr "Minori「No \"parece\" que nos llevemos bien.＿¡Nos llevamos bien de verdad～!」"
+
+msgid "Ryuuji「I see. Forgive my choice of words.」"
+msgstr "Ryuuji「Ya veo. Perdona cómo lo dije.」"
+
+msgid "Minori「Good, good. Well? Doesn't Taiga have＿quite the admirable side, bud?」"
+msgstr "Minori「Bien, bien. ¿Y? ¿Verdad que Taiga＿tiene su lado admirable, amigo?」"
+
+msgid "Ryuuji「I guess...... but she said \"Get back to＿your senses already so you can do＿housework.\"」"
+msgstr "Ryuuji「Supongo...... pero dijo: \"Recobra＿ya el juicio para que puedas hacer＿las tareas de la casa\".」"
+
+msgid "Minori「Fufu, sounds like her!」"
+msgstr "Minori「Juju, ¡suena muy propio de ella!」"
+
+msgid "Ryuuji「W-What are you talking about?!」"
+msgstr "Ryuuji「¡¿D-De qué estás hablando?!」"
+
+msgid "Minori「But you know, I won't get in the way of＿two people connected by deeper ties!」"
+msgstr "Minori「Pero sabes, ¡no me interpondré＿entre dos personas unidas por＿lazos más profundos!」"
+
+msgid "Ryuuji「Like I said, what are you talking＿about?!」"
+msgstr "Ryuuji「Como te dije, ¡¿de qué estás hablando?!」"
+
+msgid "Minori「I see...... Oh, I'm really sorry I didn't visit＿you in the hospital.」"
+msgstr "Minori「Ya veo...... Ah, siento mucho no haberte＿visitado en el hospital.」"
+
+msgid "Ryuuji「It's fine. Don't sweat it.」"
+msgstr "Ryuuji「Está bien. No te preocupes.」"
+
+msgid "Minori「You're ALWAYS looking after me＿usually, so I'm glad I left it in Taiga's＿hands.」"
+msgstr "Minori「Normalmente SIEMPRE estás cuidando＿de mí, así que me alegra habérselo＿dejado a Taiga.」"
+
+msgid "Ryuuji「Really?」"
+msgstr "Ryuuji「¿En serio?」"
+
+msgid "Minori「Yup yup, really.」"
+msgstr "Minori「Sip, sip, en serio.」"
+
+msgid "Minori「Do ya think talking to me about it will＿lead to a solution, bud? Or are ya just＿complainin'?」"
+msgstr "Minori「¿Crees que hablarlo conmigo llevará＿a una solución, amigo? ¿O solo＿te estás quejando?」"
+
+msgid "Ryuuji「Uh, no, well...... I'm not sure.」"
+msgstr "Ryuuji「Eh, no, bueno...... No estoy seguro.」"
+
+msgid "Minori「I don't know either...... Well, it would be＿rude for the two of us to stick our＿noses into it now. It's too late.」"
+msgstr "Minori「Yo tampoco lo sé...... Bueno, sería＿grosero que nosotros dos nos metiéramos＿ahora. Ya es muy tarde.」"
+
+msgid "Ryuuji「O-Oh......」"
+msgstr "Ryuuji「A-Ah......」"
+
+msgid "Minori「Shouldn't you say that to her face＿directly!?」"
+msgstr "Minori「¡¿No deberías decírselo a ella＿directamente en la cara?!」"
+
+msgid "Ryuuji「D-Did I upset you?」"
+msgstr "Ryuuji「¿T-Te molesté?」"
+
+msgid "Minori「I don't like gossipy stuff.」"
+msgstr "Minori「No me gustan los chismes.」"
+
+msgid "Ryuuji「I understand. I'll stop.」"
+msgstr "Ryuuji「Entiendo. Ya paro.」"
+
+msgid "Minori「Hmmm...... It kinda bothers me that you＿said that, Takasu-kun.」"
+msgstr "Minori「Mmmm...... Me molesta un poco que＿hayas dicho eso, Takasu-kun.」"
+
+msgid "Minori「Well, I understand, but I wanted to let＿you know, bud.」"
+msgstr "Minori「Bueno, lo entiendo, pero quería＿que lo supieras, amigo.」"
+
+msgid "Ryuuji「Sorry.」"
+msgstr "Ryuuji「Perdón.」"
+
+msgid "ANG_A1_LV1:"
+msgstr "ANG_A1_LV1:"
+
+msgid "ANG_A1_LV2:"
+msgstr "ANG_A1_LV2:"
+
+msgid "SAD_A1_LV2:"
+msgstr "SAD_A1_LV2:"
+
+msgid "FUN_A1_LV2:"
+msgstr "FUN_A1_LV2:"
+
+msgid "ANG_A2_LV1:"
+msgstr "ANG_A2_LV1:"
+
+msgid "ANG_A2_LV2:"
+msgstr "ANG_A2_LV2:"
+
+msgid "SAD_A2_LV1:"
+msgstr "SAD_A2_LV1:"
+
+msgid "SAD_A2_LV2:"
+msgstr "SAD_A2_LV2:"
+
+msgid "FUN_A2_LV2:"
+msgstr "FUN_A2_LV2:"
+
+msgid "HAP_A3_LV1:"
+msgstr "HAP_A3_LV1:"
+
+msgid "HAP_A3_LV2:"
+msgstr "HAP_A3_LV2:"
+
+msgid "ANG_B1_LV1:"
+msgstr "ANG_B1_LV1:"
+
+msgid "ANG_B1_LV2:"
+msgstr "ANG_B1_LV2:"
+
+msgid "SAD_B1_LV2:"
+msgstr "SAD_B1_LV2:"
+
+msgid "//FUN_B1_LV2:"
+msgstr "//FUN_B1_LV2:"
+
+msgid "HAP_B2_LV1:"
+msgstr "HAP_B2_LV1:"
+
+msgid "HAP_B2_LV2:"
+msgstr "HAP_B2_LV2:"
+
+msgid "ANG_B3_LV1:"
+msgstr "ANG_B3_LV1:"
+
+msgid "ANG_B3_LV2:"
+msgstr "ANG_B3_LV2:"
+
+msgid "SAD_B3_LV1:"
+msgstr "SAD_B3_LV1:"
+
+msgid "SAD_B3_LV2:"
+msgstr "SAD_B3_LV2:"
+
+msgid "FUN_B3_LV2:"
+msgstr "FUN_B3_LV2:"
+
+msgid "ANG_C1_LV1:"
+msgstr "ANG_C1_LV1:"
+
+msgid "ANG_C1_LV2:"
+msgstr "ANG_C1_LV2:"
+
+msgid "SAD_C1_LV2:"
+msgstr "SAD_C1_LV2:"
+
+msgid "FUN_C1_LV2:"
+msgstr "FUN_C1_LV2:"
+
+msgid "HAP_C2_LV1:"
+msgstr "HAP_C2_LV1:"
+
+msgid "HAP_C2_LV2:"
+msgstr "HAP_C2_LV2:"
+
+msgid "HAP_C3_LV1:"
+msgstr "HAP_C3_LV1:"
+
+msgid "HAP_C3_LV2:"
+msgstr "HAP_C3_LV2:"
+
+msgid "ANG_D1_LV1:"
+msgstr "ANG_D1_LV1:"
+
+msgid "ANG_D1_LV2:"
+msgstr "ANG_D1_LV2:"
+
+msgid "SAD_D1_LV2:"
+msgstr "SAD_D1_LV2:"
+
+msgid "FUN_D1_LV2:"
+msgstr "FUN_D1_LV2:"
+
+msgid "HAP_D2_LV1:"
+msgstr "HAP_D2_LV1:"
+
+msgid "HAP_D2_LV2:"
+msgstr "HAP_D2_LV2:"
+
+msgid "SAD_D2_LV2:"
+msgstr "SAD_D2_LV2:"
+
+msgid "FUN_D2_LV1:"
+msgstr "FUN_D2_LV1:"
+
+msgid "FUN_D2_LV2:"
+msgstr "FUN_D2_LV2:"
+
+msgid "HAP_D3_LV1:"
+msgstr "HAP_D3_LV1:"
+
+msgid "HAP_D3_LV2:"
+msgstr "HAP_D3_LV2:"
+
+msgid "ANG_E1_LV1:"
+msgstr "ANG_E1_LV1:"
+
+msgid "ANG_E1_LV2:"
+msgstr "ANG_E1_LV2:"
+
+msgid "SAD_E1_LV1:"
+msgstr "SAD_E1_LV1:"
+
+msgid "SAD_E1_LV2:"
+msgstr "SAD_E1_LV2:"
+
+msgid "//FUN_E1_LV2:"
+msgstr "//FUN_E1_LV2:"
+
+msgid "ANG_E2_LV1:"
+msgstr "ANG_E2_LV1:"
+
+msgid "ANG_E2_LV2:"
+msgstr "ANG_E2_LV2:"
+
+msgid "SAD_E2_LV2:"
+msgstr "SAD_E2_LV2:"
+
+msgid "//FUN_E2_LV2:"
+msgstr "//FUN_E2_LV2:"
+
+msgid "HAP_E3_LV1:"
+msgstr "HAP_E3_LV1:"
+
+msgid "HAP_E3_LV2:"
+msgstr "HAP_E3_LV2:"
+
+msgid "ANG_F1_LV1:"
+msgstr "ANG_F1_LV1:"
+
+msgid "ANG_F1_LV2:"
+msgstr "ANG_F1_LV2:"
+
+msgid "SAD_F1_LV1:"
+msgstr "SAD_F1_LV1:"
+
+msgid "SAD_F1_LV2:"
+msgstr "SAD_F1_LV2:"
+
+msgid "FUN_F1_LV2:"
+msgstr "FUN_F1_LV2:"
+
+msgid "ANG_F2_LV1:"
+msgstr "ANG_F2_LV1:"
+
+msgid "ANG_F2_LV2:"
+msgstr "ANG_F2_LV2:"
+
+msgid "SAD_F2_LV2:"
+msgstr "SAD_F2_LV2:"
+
+msgid "FUN_F2_LV2:"
+msgstr "FUN_F2_LV2:"
+
+msgid "HAP_F3_LV1:"
+msgstr "HAP_F3_LV1:"
+
+msgid "HAP_F3_LV2:"
+msgstr "HAP_F3_LV2:"
+
+msgid "SAD_F3_LV2:"
+msgstr "SAD_F3_LV2:"
+
+msgid "FUN_F3_LV1:"
+msgstr "FUN_F3_LV1:"
+
+msgid "FUN_F3_LV2:"
+msgstr "FUN_F3_LV2:"
+
+msgid "Minori「What, what? What's got your goat all of＿a sudden? \"Whoops, the problem is me,＿'cuz it's so hot!\" Maybe you should」"
+msgstr "Minori「¿Qué, qué? ¿Qué te picó de＿repente? \"¡Ups, soy yo, que＿estoy ardiente!\" ¿Quizá deberías」"
+
+msgid "Minori「strip?」"
+msgstr "Minori「desnudarte?」"
+
+msgid "Ryuuji「S-Sorry, I haven't got a solid grasp on＿my personal relationships yet...... No,＿wait a second. Kushieda, what are you」"
+msgstr "Ryuuji「P-Perdón, aún no tengo claras mis＿relaciones personales...... No, espera＿un segundo. Kushieda, ¿qué estás」"
+
+msgid "Ryuuji「\"releasing\" exactly?」"
+msgstr "Ryuuji「\"desatando\" exactamente?」"
+
+msgid "Minori「......Oh, sorry, Takasu-kun. Right now,＿I'm really disappointed in myself for＿not knowing whether to answer」"
+msgstr "Minori「......Ah, perdón, Takasu-kun.＿Ahora estoy muy decepcionada＿conmigo por no saber si responderte」"
+
+msgid "Minori「honestly or with a joke.」"
+msgstr "Minori「en serio o con un chiste.」"
+
+msgid "Minori「Let's see, it was back when this girl＿was but a mere flea. Back then, you＿were algae floating in a corner of a」"
+msgstr "Minori「Veamos, fue cuando esta chica no era más＿que una pulga. En aquel entonces, tú＿eras un alga flotando en un rincón」"
+
+msgid "Minori「rice field, comfortably enjoying＿photosynthesis, mayhaps.」"
+msgstr "Minori「de un arrozal, disfrutando a gusto＿de la fotosíntesis, quizá.」"
+
+msgid "Minori「Would you prefer the long version or＿the short version, bud? By the way,＿the long version would easily take half」"
+msgstr "Minori「¿Prefieres la versión larga o la versión＿corta, amigo? Por cierto, la versión＿larga tomaría fácilmente medio」"
+
+msgid "Minori「a day to tell, not including breaks.」"
+msgstr "Minori「día en contarse, sin contar pausas.」"
+
+msgid "Minori「Standing in a crowded train is like＿training to hone the foot senses. Foot＿senses, also known as basic body」"
+msgstr "Minori「Ir de pie en un tren lleno es como＿entrenar los sentidos del pie. Esos＿sentidos, o sea el equilibrio corporal」"
+
+msgid "Minori「balance, is the common thread in all＿sports, see.」"
+msgstr "Minori「básico, son el eje común de＿todos los deportes, ¿ves?」"
+
+msgid "Minori「I can't puff up my chest and say it's＿finished in front of you. This has been＿the easily depressed Kushieda, signing」"
+msgstr "Minori「No puedo sacar pecho y decirte＿que terminé. Aquí la Kushieda＿que se deprime fácilmente, se」"
+
+msgid "Minori「off.」"
+msgstr "Minori「despide.」"
+
+msgid "Minori「On that day, I was easily immersed in＿the satisfaction of having finished＿cleaning. However, the God of Cleaning」"
+msgstr "Minori「Ese día me dejé llevar fácil por la＿satisfacción de haber terminado de＿limpiar. Pero el Dios de la Limpieza」"
+
+msgid "Minori「said, \"Finished? Ha, you call that＿finished?\"」"
+msgstr "Minori「dijo: \"¿Acabado? Ja, ¿a eso＿le llamas acabado?\"」"
+
+msgid "Minori「Yep, I wanted to perfectly convey to＿you that I find myself uncomfortable＿when I think about homework. It was」"
+msgstr "Minori「Sip, quería transmitirte a la perfección＿que me siento incómoda al pensar＿en la tarea. Era」"
+
+msgid "Minori「an act.」"
+msgstr "Minori「una actuación.」"
+
+msgid "Minori「This beaming smile attempts to＿distract from the fact that I'm getting＿embarrassed about how immature the」"
+msgstr "Minori「¡Esta sonrisa radiante intenta＿distraerte de que me da vergüenza＿lo inmaduro que es todo este」"
+
+msgid "Minori「thing is! How's that?!」"
+msgstr "Minori「asunto! ¡¿Qué tal?!」"
+
+msgid "Minori「......Aww crap, this Kushieda just＿remembered that one time. Whoa, not＿good, this isn't good for a girl of」"
+msgstr "Minori「......Ay, rayos, esta Kushieda acaba＿de recordar aquella vez. ¡Uy, qué mal!＿¡Esto no es bueno para una chica en su」"
+
+msgid "Minori「radiant youth! Ehehehe.」"
+msgstr "Minori「radiante juventud! Ejejeje.」"

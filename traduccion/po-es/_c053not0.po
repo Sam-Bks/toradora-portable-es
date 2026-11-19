@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+
+msgid "Noto「'Suuup! You look bored, Takasu.」"
+msgstr "Noto「¡Qué taaal! Te ves aburrido, Takasu.」"
+
+msgid "Ryuuji「Hey. You're one to talk, Noto.」"
+msgstr "Ryuuji「Hola. Mira quién habla, Noto.」"
+
+msgid "Ryuuji「That sounds like extortion.」"
+msgstr "Ryuuji「Eso suena a extorsión.」"
+
+msgid "Noto「Oh yeah. There's something I need to＿apologize for, come to think of it.」"
+msgstr "Noto「Ah, sí. Ahora que lo pienso, hay algo＿por lo que tengo que disculparme.」"
+
+msgid "Ryuuji「What is it?」"
+msgstr "Ryuuji「¿Qué pasa?」"
+
+msgid "Noto「Look, do you remember Haruta inviting＿you to hang out earlier?」"
+msgstr "Noto「Oye, ¿recuerdas cuando Haruta＿te invitó a salir hace rato?」"
+
+msgid "Ryuuji「I remember something like that.」"
+msgstr "Ryuuji「Recuerdo algo así.」"
+
+msgid "Noto「Well, the truth is, while you were in the＿hospital, I was invited to a mixer. And＿they wanted us to RSVP ahead of time.」"
+msgstr "Noto「Bueno, es que mientras estabas en el＿hospital, me invitaron a una cita＿grupal. Y pedían confirmar con tiempo.」"
+
+msgid "Ryuuji「Aww, you don't have to apologize. Have＿fun.」"
+msgstr "Ryuuji「Ah, no tienes que disculparte.＿Diviértete.」"
+
+msgid "Noto「I'm really sorry. Next time I have some＿juicy gossip, I'll hit you up, man.」"
+msgstr "Noto「De verdad lo siento. La próxima＿vez que tenga un buen chisme,＿te aviso, amigo.」"
+
+msgid "Ryuuji「I said don't worry about it.」"
+msgstr "Ryuuji「Te digo que no te preocupes por eso.」"
+
+msgid "Ryuuji「Oh, you were there too?」"
+msgstr "Ryuuji「Ah, ¿tú también estabas ahí?」"
+
+msgid "Noto「Huh? What, you witnessed it as well?」"
+msgstr "Noto「¿Eh? ¿Cómo, tú también lo viste?」"
+
+msgid "Ryuuji「No, I just heard it through the＿grapevine, that's all.」"
+msgstr "Ryuuji「No, solo me enteré por ahí, eso es todo.」"
+
+msgid "Ryuuji「Something happened between Taiga＿and Kitamura?」"
+msgstr "Ryuuji「¿Pasó algo entre Taiga y Kitamura?」"
+
+msgid "Noto「Well, as far as I'm concerned, it's like,＿I'm happy as long as things go＿smoothly for them.」"
+msgstr "Noto「Bueno, por mi parte, digamos que＿soy feliz mientras las cosas les＿salgan bien a ellos.」"
+
+msgid "Ryuuji「......Oh, now I remember. Come to think＿of it, Noto, weren't you trying hard to＿get Kitamura and Taiga together?」"
+msgstr "Ryuuji「......Ah, ya me acordé. Pensándolo bien,＿Noto, ¿no estabas esforzándote por＿juntar a Kitamura y a Taiga?」"
+
+msgid "Ryuuji「Incidentally, there's one other thing I＿remembered......」"
+msgstr "Ryuuji「Por cierto, hay otra cosa＿más que recordé......」"
+
+msgid "Noto「Oh, NICE! Keep it up and your amnesia＿is history! So, what did you remember,＿man?」"
+msgstr "Noto「¡Oh, GENIAL! ¡Sigue así y tu＿amnesia será historia! Y bien,＿¿qué recordaste, amigo?」"
+
+msgid "Ryuuji「......Well, let me ask you a question first.」"
+msgstr "Ryuuji「......Bueno, primero déjame＿hacerte una pregunta.」"
+
+msgid "Noto「Sure, sure! Ask away!」"
+msgstr "Noto「¡Claro, claro! ¡Pregunta sin miedo!」"
+
+msgid "Ryuuji「Noto, don't you have feelings for＿Kihara?」"
+msgstr "Ryuuji「Noto, ¿acaso no sientes algo por Kihara?」"
+
+msgid "Noto「..................」"
+msgstr "Noto「..................」"
+
+msgid "Ryuuji「......Noto?」"
+msgstr "Ryuuji「......¿Noto?」"
+
+msgid "Noto「......Wait, hold up, Takasu. What's the＿deal? I mean, how do you figure?」"
+msgstr "Noto「......Espera, alto ahí, Takasu. ¿A qué＿viene eso? O sea, ¿cómo lo deduces?」"
+
+msgid "Ryuuji「Oh, want me to explain?」"
+msgstr "Ryuuji「Ah, ¿quieres que te lo explique?」"
+
+msgid "Noto「Start at the beginning.」"
+msgstr "Noto「Empieza por el principio.」"
+
+msgid "Ryuuji「Okay, first...... Is it true that you've been＿trying to hook Taiga up with＿Kitamura?」"
+msgstr "Ryuuji「Bien, primero...... ¿Es cierto＿que has estado tratando de emparejar＿a Taiga con Kitamura?」"
+
+msgid "Noto「Yeah, I admit it.」"
+msgstr "Noto「Sí, lo admito.」"
+
+msgid "Ryuuji「Next, about what I remembered......＿Kihara's been all over Kitamura, right?＿Calling him \"Maruo\" and such.」"
+msgstr "Ryuuji「Luego, sobre lo que recordé...... Kihara＿anda detrás de Kitamura, ¿no? Llamándolo＿\"Maruo\" y todo eso.」"
+
+msgid "Ryuuji「Yeah, exactly.」"
+msgstr "Ryuuji「Sí, exacto.」"
+
+msgid "Noto「Ha haaa～ Now I get it. What a tactician＿I must be.」"
+msgstr "Noto「Ja jaaa～ Ya entiendo. Qué＿gran estratega debo ser.」"
+
+msgid "Ryuuji「......Based on that response, I must be＿way off the mark. My bad.」"
+msgstr "Ryuuji「......Por esa respuesta, debo estar＿muy equivocado. Culpa mía.」"
+
+msgid "Noto「It's fine, really! I know you're not＿completely up to speed yet, so don't＿sweat it!」"
+msgstr "Noto「¡No pasa nada, en serio! Sé que＿aún no estás del todo al corriente,＿¡así que no te preocupes!」"
+
+msgid "Ryuuji「I guess. If I make mistakes, it's no big＿deal.」"
+msgstr "Ryuuji「Supongo. Si me equivoco,＿no es la gran cosa.」"
+
+msgid "Noto「Yeah, you should be fine as long as you＿fact-check with the people around＿you...... Oh, sorry. I gotta get going.」"
+msgstr "Noto「Sí, estarás bien si confirmas las＿cosas con quienes te rodean......＿Ah, perdón. Me tengo que ir.」"
+
+msgid "Ryuuji「Oh, see you later then.」"
+msgstr "Ryuuji「Ah, nos vemos luego entonces.」"
+
+msgid "Noto「Take it easy!」"
+msgstr "Noto「¡Cuídate!」"
+
+msgid "Noto「Haha, you got me there. It's New＿Year's, so I collected the spending＿money from all my relatives and now」"
+msgstr "Noto「Jaja, me atrapaste. Es Año Nuevo,＿así que junté el dinero que me dieron＿todos mis parientes y ahora」"
+
+msgid "Noto「there's nothing to do.」"
+msgstr "Noto「no hay nada que hacer.」"
+
+msgid "Noto「I tried to get in touch with you, but you＿didn't answer your phone, and it ended＿up only being a double date, man. And」"
+msgstr "Noto「Intenté comunicarme contigo, pero no＿contestaste el teléfono y al final solo＿fue una cita doble, amigo. Y」"
+
+msgid "Noto「it's tomorrow.」"
+msgstr "Noto「es mañana.」"
+
+msgid "Noto「We gotta pick up where we left off＿about Master Kitamura, man. Some＿crazy things happened between him」"
+msgstr "Noto「Tenemos que retomar lo que dejamos＿pendiente del Maestro Kitamura, amigo.＿Pasaron cosas locas entre él」"
+
+msgid "Noto「and the Tiger.」"
+msgstr "Noto「y Tigre.」"
+
+msgid "Noto「I see, I see. Earlier I saw them -- they＿were pretty far away, but it was them＿without a doubt. I was like, when did」"
+msgstr "Noto「Ya veo, ya veo. Hace rato los vi--＿estaban bastante lejos, pero eran ellos＿sin duda. Pensé: ¿desde cuándo pasó」"
+
+msgid "Noto「that happen～?」"
+msgstr "Noto「eso～?」"
+
+msgid "Noto「That's right. I saw them walking＿together earlier, man -- they were＿pretty far away, but it was them」"
+msgstr "Noto「Así es. Los vi caminando juntos＿hace rato, amigo-- estaban bastante＿lejos, pero eran ellos」"
+
+msgid "Noto「without a doubt. Shocking, right＿Takasu?」"
+msgstr "Noto「sin duda. Impactante, ¿verdad, Takasu?」"
+
+msgid "Noto「I wouldn't say I was trying HARD, but＿for the most part, yeah. I'm just＿expressing the beautiful friendship I」"
+msgstr "Noto「No diría que me esforzaba TANTO,＿pero en gran parte, sí. Solo expreso＿la hermosa amistad que」"
+
+msgid "Noto「have with the Master, yep yep.」"
+msgstr "Noto「tengo con el Maestro, sí, sí.」"
+
+msgid "Noto「Nah, Kihara's not the only one who＿calls him Maruo, man. I mean, the＿Master's ultra-popular for some」"
+msgstr "Noto「No, Kihara no es la única que lo llama＿Maruo, amigo. O sea, el Maestro es＿ultrapopular por alguna」"
+
+msgid "Noto「reason.」"
+msgstr "Noto「razón.」"
+
+msgid "Ryuuji「Really? Wait a sec...... Well, for some＿reason, Kihara's the only one who＿comes to mind out of everyone I」"
+msgstr "Ryuuji「¿En serio? Espera...... Bueno, por＿alguna razón, Kihara es la única que＿me viene a la mente de todos los que」"
+
+msgid "Ryuuji「know...... I wonder why.」"
+msgstr "Ryuuji「conozco...... Me pregunto por qué.」"
+
+msgid "Noto「I don't know either...... So in short, you＿thought that \"by pairing the Tiger with＿Master Kitamura, Noto-kun would get a」"
+msgstr "Noto「Yo tampoco sé...... ¿Así que pensaste＿que \"al juntar a Tigre con el Maestro＿Kitamura, Noto-kun tendría una」"
+
+msgid "Noto「chance with Kihara\"?」"
+msgstr "Noto「oportunidad con Kihara\"?」"
+
+msgid "Noto「Don't take this the wrong way, but＿you're interesting, dude. Are you trying＿to fit your memories together like」"
+msgstr "Noto「No lo tomes a mal, pero eres＿interesante, amigo. ¿Estás tratando＿de encajar tus recuerdos como si fueran」"
+
+msgid "Noto「pieces of a puzzle?」"
+msgstr "Noto「piezas de un rompecabezas?」"
+
+msgid "Ryuuji「（......Huh? Come to think of it, Noto＿never exactly denied having feelings＿for Kihara...... Well, I guess I shouldn't）」"
+msgstr "Ryuuji「（......¿Eh? Pensándolo bien, Noto nunca＿negó exactamente sentir algo por＿Kihara...... Bueno, no creo que deba）」"
+
+msgid "Ryuuji「（pry any further.）」"
+msgstr "Ryuuji「（indagar más.）」"

@@ -1,0 +1,272 @@
+msgid ""
+msgstr ""
+
+msgid "Kota「Oh......」"
+msgstr "Kota「Ah......」"
+
+msgid "Kota「I'm sorry if I made you wait. Do you＿recognize this place?」"
+msgstr "Kota「Perdón si te hice esperar.＿¿Reconoces este lugar?」"
+
+msgid "Ryuuji「Oh, yeah. It all came back to me, just＿like you said.」"
+msgstr "Ryuuji「Ah, sí. Lo recordé todo,＿tal como dijiste.」"
+
+msgid "Kota「Ouch, what rotten luck...... No, that＿aside, you're probably already aware,＿but......」"
+msgstr "Kota「Auch, qué mala suerte......＿No, aparte de eso, seguro que＿ya lo sabes, pero......」"
+
+msgid "Ryuuji「......Yeah, I knew it...... I thought it might＿come to this.」"
+msgstr "Ryuuji「......Sí, lo sabía......＿Pensé que podría pasar.」"
+
+msgid "Kota「Yeah...... Let's go inside. Aisaka-senpai＿should already be here.」"
+msgstr "Kota「Sí...... Entremos. Aisaka-senpai＿ya debe estar aquí.」"
+
+msgid "Yasuko「Whaaat～!?」"
+msgstr "Yasuko「¡¿Quééé～?!」"
+
+msgid "Taiga「Disappear......?」"
+msgstr "Taiga「¿Desaparecer......?」"
+
+msgid "Yasuko「What? D-Don't dieee! Nooo～!」"
+msgstr "Yasuko「¿Qué? ¡N-No te mueraaas! ¡Nooo～!」"
+
+msgid "Kota「No, I don't think that will happen......＿probably.」"
+msgstr "Kota「No, no creo que eso pase......＿probablemente.」"
+
+msgid "Taiga「So in short...... Like I was thinking＿earlier this morning, you'll become＿Ryuuji completely?」"
+msgstr "Taiga「O sea...... Como pensé esta mañana, ¿te＿convertirás del todo en Ryuuji?」"
+
+msgid "Kota「Most likely......」"
+msgstr "Kota「Lo más probable......」"
+
+msgid "Yasuko「Huh? W-What? T-Then, what about the＿other Ryuu-channn?」"
+msgstr "Yasuko「¿Eh? ¿Q-Qué? E-Entonces, ¿qué＿será del otro Ryuu-channn?」"
+
+msgid "Kota「Not sure. He'll probably become＿Tomiie Kota completely...... Well? Have＿you remembered anything else?」"
+msgstr "Kota「No sé. Probablemente será Tomiie＿Kota por completo...... Bueno, ¿has＿recordado algo más?」"
+
+msgid "Ryuuji「Oh, yeah...... It comes in bits and pieces,＿umm...... like, about student council＿work and stuff.」"
+msgstr "Ryuuji「Ah, sí...... Me viene en fragmentos,＿ehm...... cosas del trabajo del consejo＿estudiantil y eso.」"
+
+msgid "Taiga「No! That's not Ryuuji at all!」"
+msgstr "Taiga「¡No! ¡Eso no es propio de Ryuuji!」"
+
+msgid "Kota「Yeah, they're my memories. Or＿perhaps I should say, they were......」"
+msgstr "Kota「Sí, son mis recuerdos. O quizá＿deba decir que lo eran......」"
+
+msgid "Yasuko「N-Now that you mention it...... The signs＿of Ryuu-chan are getting more＿faintttt......」"
+msgstr "Yasuko「A-Ahora que lo dices...... Las＿señales de Ryuu-chan son cada vez más＿tenueees......」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Kota「Can you sense those \"signs\" of＿Takasu-senpai in me?」"
+msgstr "Kota「¿Puedes sentir esas \"señales\"＿de Takasu-senpai en mí?」"
+
+msgid "Yasuko「......It's still too early to be sureee.＿But...... Ko-chan...... well......」"
+msgstr "Yasuko「......Aún es pronto para estar＿seguraaa. Pero...... Ko-chan......＿bueno......」"
+
+msgid "Yasuko「But what does that meannn? Yacchan＿doesn't get it! Not at allll～!」"
+msgstr "Yasuko「¿Pero qué significaaa? ¡Yacchan＿no entiende! ¡Nada de nadaaa～!」"
+
+msgid "Taiga「Yacchan, calm down...... She's freaking＿out. How can you be so calm about＿this?」"
+msgstr "Taiga「Yacchan, cálmate...... Está alterada.＿¿Cómo puedes estar tan tranquilo?」"
+
+msgid "Kota「I mean, I did panic at first, but the time＿for that has passed.」"
+msgstr "Kota「Sí, al principio entré en pánico,＿pero esa etapa ya pasó.」"
+
+msgid "Taiga「I see......」"
+msgstr "Taiga「Ya veo......」"
+
+msgid "Taiga「......」"
+msgstr "Taiga「......」"
+
+msgid "Ryuuji「Are you sure about this?」"
+msgstr "Ryuuji「¿Estás seguro?」"
+
+msgid "Kota「Oh...... What a relief. Sounds like you're＿still yourself.」"
+msgstr "Kota「Ah...... Qué alivio. Parece＿que aún eres tú.」"
+
+msgid "Ryuuji「Well...... I think so, but who knows.」"
+msgstr "Ryuuji「Bueno...... Eso creo, pero quién sabe.」"
+
+msgid "Kota「......I'm sure about this!」"
+msgstr "Kota「......¡Estoy seguro!」"
+
+msgid "Yasuko「K-Ko-chan......」"
+msgstr "Yasuko「K-Ko-chan......」"
+
+msgid "Taiga「............」"
+msgstr "Taiga「............」"
+
+msgid "Kota「Well then, sorry for all the trouble.」"
+msgstr "Kota「Bueno, perdón por todas las molestias.」"
+
+msgid "Kota「*Sigh*......」"
+msgstr "Kota「*Suspiro*......」"
+
+msgid "Kota「（This is for the best...... right?）」"
+msgstr "Kota「（Es lo mejor...... ¿verdad?）」"
+
+msgid "Kota「............」"
+msgstr "Kota「............」"
+
+msgid "Kota「（I wanted to meet Sakura-chan one last＿time...... but that won't be possible＿now......）」"
+msgstr "Kota「（Quería ver a Sakura-chan una＿última vez...... pero ya no＿será posible......）」"
+
+msgid "Kota「............*Sob*」"
+msgstr "Kota「............*Sollozo*」"
+
+msgid "Taiga「Fake-Ryuuji!」"
+msgstr "Taiga「¡Ryuuji falso!」"
+
+msgid "Kota「Huh?」"
+msgstr "Kota「¿Eh?」"
+
+msgid "Taiga「I mean, Tomiie Kota.」"
+msgstr "Taiga「Digo, Tomiie Kota.」"
+
+msgid "Kota「......What is it? Please, you shouldn't＿abandon Takasu-senpai.」"
+msgstr "Kota「......¿Qué pasa? Por favor, no deberías＿abandonar a Takasu-senpai.」"
+
+msgid "Taiga「Be quiet.」"
+msgstr "Taiga「Cállate.」"
+
+msgid "Kota「Argh...... What the heck do you want? I＿thought I was going to have a touching＿ending......」"
+msgstr "Kota「Argh...... ¿Qué demonios quieres?＿Pensé que iba a tener un final＿conmovedor......」"
+
+msgid "Taiga「Listen to me!」"
+msgstr "Taiga「¡Escúchame!」"
+
+msgid "Kota「Okay.」"
+msgstr "Kota「Está bien.」"
+
+msgid "Taiga「......Last night, I said you couldn't prove＿to me that you're Tomiie Kota, right?」"
+msgstr "Taiga「......Anoche dije que no podías＿demostrarme que eres Tomiie Kota, ¿no?」"
+
+msgid "Kota「Well, yeah......」"
+msgstr "Kota「Pues sí......」"
+
+msgid "Taiga「Well, even now, I can't be sure if you're＿really Tomiie Kota.」"
+msgstr "Taiga「Bueno, ni ahora estoy segura＿de que seas Tomiie Kota.」"
+
+msgid "Kota「Pouring salt on my wounds? You're＿mean.」"
+msgstr "Kota「¿Echas sal en mis heridas? Qué cruel.」"
+
+msgid "Taiga「Enough! Hear me out!」"
+msgstr "Taiga「¡Basta! ¡Escúchame!」"
+
+msgid "Kota「Okay, okay......」"
+msgstr "Kota「Está bien, está bien......」"
+
+msgid "Kota「Huh......?」"
+msgstr "Kota「¿Eh......?」"
+
+msgid "Taiga「Thanks for letting me see him.」"
+msgstr "Taiga「Gracias por dejarme verlo.」"
+
+msgid "Kota「............」"
+msgstr "Kota「............」"
+
+msgid "Taiga「So...... you can be at peace.」"
+msgstr "Taiga「Así que...... puedes estar en paz.」"
+
+msgid "Kota「......Senpai, you're actually a good＿person, aren't you?」"
+msgstr "Kota「......Senpai, en realidad eres＿buena persona, ¿verdad?」"
+
+msgid "Taiga「......Like I care.」"
+msgstr "Taiga「......Qué me importa.」"
+
+msgid "Kota「Can I ask for...... just one favor?」"
+msgstr "Kota「¿Puedo pedirte...... un solo favor?」"
+
+msgid "Taiga「What?」"
+msgstr "Taiga「¿Qué?」"
+
+msgid "Kota「There's a first-year named Kanou＿Sakura...... The other me knows her......＿Tell her I'll always love her.」"
+msgstr "Kota「Hay una chica de primero, Kanou＿Sakura...... El otro yo la conoce......＿Dile que siempre la amaré.」"
+
+msgid "Taiga「I understand.」"
+msgstr "Taiga「Entendido.」"
+
+msgid "Kota「Tell her to take care of the other me, if＿he happens to be a good guy...... Tell＿her to forget about me. Please.」"
+msgstr "Kota「Dile que cuide del otro yo, si resulta＿ser buen chico...... Dile que se＿olvide de mí. Por favor.」"
+
+msgid "Taiga「......You sure?」"
+msgstr "Taiga「......¿Seguro?」"
+
+msgid "Kota「Yeah...... You won't forget, will you,＿senpai?」"
+msgstr "Kota「Sí...... No lo olvidarás,＿¿verdad, senpai?」"
+
+msgid "Taiga「......」"
+msgstr "Taiga「......」"
+
+msgid "Kota「Haha...... The Palmtop Tiger is crying......＿That's a nice sendoff.」"
+msgstr "Kota「Jaja...... La Tigre de Bolsillo está＿llorando...... Una bonita despedida.」"
+
+msgid "Taiga「Shut up.」"
+msgstr "Taiga「Cállate.」"
+
+msgid "Kota「......Well, it's...... really almost time......」"
+msgstr "Kota「......Bueno, ya...... casi＿es la hora......」"
+
+msgid "Taiga「......Okay.」"
+msgstr "Taiga「......Está bien.」"
+
+msgid "Kota「（What the......? She looks so pretty......）」"
+msgstr "Kota「（¿Qué......? Se ve tan bonita......）」"
+
+msgid "Ryuuji「Well...... This ain't...... so bad, I guess......」"
+msgstr "Ryuuji「Bueno...... Esto no está......＿tan mal, supongo......」"
+
+msgid "Ryuuji「Which is good, but...... Afterwards, I had＿to help clean the house and some＿detergent got in my eyes. It was so bad」"
+msgstr "Ryuuji「Eso está bien, pero...... Luego ayudé＿a limpiar y me entró detergente en＿los ojos. Fue tan malo que」"
+
+msgid "Ryuuji「I couldn't even open them. I'm glad I＿made it here in one piece.」"
+msgstr "Ryuuji「ni podía abrirlos. Me alegra＿haber llegado de una pieza.」"
+
+msgid "Kota「The truth is, I've been feeling off for a＿while now...... So my sense of self will＿probably...... Oh, sorry, what am I」"
+msgstr "Kota「La verdad, hace rato me siento＿raro...... Así que mi identidad＿quizá...... Ah, perdón, ¿qué estoy」"
+
+msgid "Kota「saying......?」"
+msgstr "Kota「diciendo......?」"
+
+msgid "Kota「Yeah, it'll probably start soon...... In＿other words, the people we are now＿will disappear, and we'll become copies」"
+msgstr "Kota「Sí, probablemente empiece＿pronto...... O sea, quienes somos ahora＿desaparecerán y seremos copias」"
+
+msgid "Kota「of each other......」"
+msgstr "Kota「el uno del otro......」"
+
+msgid "Kota「So I have a favor to ask...... It's for after＿he turns into Tomiie Kota and I turn＿into Takasu-senpai. I'll just put it out」"
+msgstr "Kota「Por eso quiero pedir un favor......＿Para cuando él sea Tomiie Kota y yo sea＿Takasu-senpai. Lo diré sin」"
+
+msgid "Kota「there.」"
+msgstr "Kota「rodeos.」"
+
+msgid "Kota「Could you talk to Takasu-senpai while＿he still has some sense of self left? It＿might not help, but I ask you bear with」"
+msgstr "Kota「¿Puedes hablar con Takasu-senpai＿mientras aún le quede algo de sí? Quizá＿no sirva, pero ten paciencia」"
+
+msgid "Kota「me......」"
+msgstr "Kota「conmigo......」"
+
+msgid "Kota「Okay, here's the number to my house.＿I'll be waiting outside...... Though the＿next time we meet, we might be」"
+msgstr "Kota「Bien, este es el número de mi casa.＿Esperaré afuera...... Aunque la próxima＿vez que nos veamos, quizá seamos」"
+
+msgid "Kota「completely different people.」"
+msgstr "Kota「personas completamente distintas.」"
+
+msgid "Taiga「Well...... I may not know who you are,＿but it doesn't matter anymore......＿Thanks for letting me see that」"
+msgstr "Taiga「Bueno...... Quizá no sepa quién＿eres, pero ya no importa...... Gracias＿por dejarme ver a ese」"
+
+msgid "Taiga「unlucky-face Ryuuji one last time.」"
+msgstr "Taiga「Ryuuji con cara de mala＿suerte una última vez.」"
+
+msgid "Taiga「He's...... Even with half of himself gone,＿he couldn't really tell he was＿disappearing, he said. So...... No, he」"
+msgstr "Taiga「Él...... Dijo que, aun con la＿mitad de sí mismo perdida, no notaba que＿desaparecía. Así que...... No, él」"
+
+msgid "Taiga「WAS still Ryuuji, slightly.」"
+msgstr "Taiga「aún ERA un poco Ryuuji.」"
+
+msgid "Taiga「I'll never forget that you brought him＿to me. I'll never forget you...... After you＿become Ryuuji completely, I'll take」"
+msgstr "Taiga「Nunca olvidaré que me lo trajiste.＿Nunca te olvidaré...... Cuando seas＿Ryuuji por completo, me haré cargo」"
+
+msgid "Taiga「care of you.」"
+msgstr "Taiga「de ti.」"

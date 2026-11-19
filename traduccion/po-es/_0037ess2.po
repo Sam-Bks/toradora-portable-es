@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+
+msgid "Inko-chan「GOO」"
+msgstr "Inko-chan「BUE」"
+
+msgid "Inko-chan「GOOD, GOOD NI」"
+msgstr "Inko-chan「BUENAS, BUENAS NO」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Inko-chan「......」"
+msgstr "Inko-chan「......」"
+
+msgid "Ryuuji「It fell asleep...... Guess I wasn't able to＿get it into \"dere\" mode after all.＿Tsunderes are definitely complicated.」"
+msgstr "Ryuuji「Se quedó dormido...... Supongo que al＿final no pude ponerlo en modo \"dere\".＿Los tsundere sí que son complicados.」"
+
+msgid "Ryuuji「In any case, I don't even have all my＿memories back, so why do I remember＿an otaku word like \"tsundere\"......?」"
+msgstr "Ryuuji「En fin, si ni siquiera tengo todos mis＿recuerdos, ¿por qué recuerdo una palabra＿otaku como \"tsundere\"......?」"
+
+msgid "Ryuuji「......」"
+msgstr "Ryuuji「......」"
+
+msgid "Ryuuji「......Bedtime.」"
+msgstr "Ryuuji「......Hora de dormir.」"

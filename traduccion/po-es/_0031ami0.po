@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+
+msgid "Ami「Ta-ka-su-KUN①」"
+msgstr "Ami「Ta-ka-su-KUN①」"
+
+msgid "Ryuuji「Yo, Kawashima.」"
+msgstr "Ryuuji「Hola, Kawashima.」"
+
+msgid "Ami「Happy New Year, Takasu-kun～!」"
+msgstr "Ami「¡Feliz Año Nuevo, Takasu-kun～!」"
+
+msgid "Ryuuji「Happy New Year. What, you need me＿for something?」"
+msgstr "Ryuuji「Feliz Año Nuevo. ¿Qué pasa,＿necesitas algo de mí?」"
+
+msgid "Ami「Ehehe, the cat's, like, out of the bag ①＿The truth is, my mind is full of＿Takasu-kun since, like, yesterday.」"
+msgstr "Ami「Jejeje, o sea, me descubriste ① La＿verdad es que no dejo de pensar en＿Takasu-kun desde, o sea, ayer.」"
+
+msgid "Ami「It got to a point where I just couldn't＿stand it anymore①」"
+msgstr "Ami「Llegó a un punto en que ya＿no pude soportarlo más①」"
+
+msgid "Ryuuji「Oh, are you that worried? Sorry, I still＿can't remember much.」"
+msgstr "Ryuuji「Ah, ¿tan preocupada estás? Perdón,＿todavía no recuerdo mucho.」"
+
+msgid "Ami「Oh, the thing about your memory is＿part of it, but...... I've been thinking＿about you for other reasons too.」"
+msgstr "Ami「Ah, lo de tu memoria es parte de ello,＿pero...... también he estado pensando＿en ti por otras razones.」"
+
+msgid "Ryuuji「......Like what?」"
+msgstr "Ryuuji「......¿Como cuáles?」"
+
+msgid "Ami「Hey, won't you go on a date with me?」"
+msgstr "Ami「Oye, ¿no quieres tener una cita conmigo?」"
+
+msgid "Ryuuji「A d-DATE!?」"
+msgstr "Ryuuji「¡¿Una c-CITA?!」"
+
+msgid "Ami「Yup, I want to go on, like, a date with＿Takasu-kun①」"
+msgstr "Ami「Sip, quiero tener, o sea,＿una cita con Takasu-kun①」"
+
+msgid "Ryuuji「(Go on a date? With this beautiful＿model? Seriously!?)」"
+msgstr "Ryuuji「(¿Ir a una cita? ¿Con esta hermosa＿modelo? ¡¿En serio?!)」"
+
+msgid "Ami「Can't we? Takasu-kun, don't you like＿me?」"
+msgstr "Ami「¿No podemos? Takasu-kun,＿¿acaso no te gusto?」"
+
+msgid "Ryuuji「W-What are you saying?」"
+msgstr "Ryuuji「¿Q-Qué estás diciendo?」"
+
+msgid "Ryuuji「（I mean, didn't I like her enough to the＿point of confessing? Damn it, why＿can't I remember!?）」"
+msgstr "Ryuuji「（Es decir, ¿no me gustaba tanto como＿para declararme? Maldición, ¡¿por＿qué no puedo recordar?!）」"
+
+msgid "Ami「Then let's go. I'm sure, like, a New＿Year's date will be fun.」"
+msgstr "Ami「Entonces vamos. Seguro que, o sea, una＿cita de Año Nuevo será divertida.」"
+
+msgid "Ryuuji「......With someone like me?」"
+msgstr "Ryuuji「......¿Con alguien como yo?」"
+
+msgid "Ami「Of course～! Like, where do you want＿to go?」"
+msgstr "Ami「¡Por supuesto～！ O sea,＿¿a dónde quieres ir?」"
+
+msgid "Ryuuji「I'm not really sure...... What about you?」"
+msgstr "Ryuuji「No estoy muy seguro...... ¿Y tú?」"
+
+msgid "Ami「Huh? Let's see...... Fufu, to be honest,＿there's a place I've always wanted to＿take you①」"
+msgstr "Ami「¿Eh? A ver...... Juju, a decir＿verdad, hay un lugar al que siempre＿te he querido llevar①」"
+
+msgid "Ryuuji「Th-then...... let's go there.」"
+msgstr "Ryuuji「E-Entonces...... vamos allá.」"
+
+msgid "Ami「Yaaay, I'm like, SUPER happy～ ① Shall＿we get going?」"
+msgstr "Ami「¡Bieeen, estoy, o sea, SÚPER＿feliz～! ① ¿Nos vamos?」"
+
+msgid "Ryuuji「Oh, sure!」"
+msgstr "Ryuuji「¡Ah, claro!」"
+
+msgid "Ryuuji「(......Is this a dream? The first dream of＿the year?)」"
+msgstr "Ryuuji「(......¿Esto es un sueño? ¿El＿primer sueño del año?)」"

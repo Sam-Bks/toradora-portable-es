@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+
+msgid "Inko-chan「COO①」"
+msgstr "Inko-chan「CUU①」"
+
+msgid "Ryuuji「Oh, are you feeling shy?」"
+msgstr "Ryuuji「Ah, ¿estás tímido?」"
+
+msgid "Inko-chan「COO, COO, COOO」"
+msgstr "Inko-chan「CUU, CUU, CUUU」"
+
+msgid "Ryuuji「......S-Stop that, Inko-chan! You're not a＿pigeon!」"
+msgstr "Ryuuji「......¡D-Deja eso, Inko-chan!＿¡No eres una paloma!」"
+
+msgid "Inko-chan「......I KNOW」"
+msgstr "Inko-chan「......LO SÉ」"
+
+msgid "Ryuuji「Yeah, just chill out for a bit. Good＿night, Inko-chan.」"
+msgstr "Ryuuji「Sí, cálmate un poco. Buenas＿noches, Inko-chan.」"
+
+msgid "Inko-chan「NIGHT」"
+msgstr "Inko-chan「NOCHES」"
+
+msgid "Ryuuji「（Now then...... For now I'll at least＿prepare some space for me to sleep＿in......）」"
+msgstr "Ryuuji「（Bueno...... Por ahora al menos＿haré algo de espacio para poder＿dormir......）」"

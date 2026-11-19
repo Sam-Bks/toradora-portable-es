@@ -1,0 +1,84 @@
+======================================================================
+  TORADORA! PORTABLE — PARCHE DE TRADUCCIÓN AL ESPAÑOL (v7)
+  Toradora! Portable — Spanish Translation Patch (v7)
+======================================================================
+
+ESPAÑOL
+-------
+
+¿Qué es esto?
+  Este archivo es un PARCHE que traduce al español neutro el juego
+  Toradora! Portable (PSP). Convierte la ISO del parche inglés v1.10
+  en la ISO en español v7.
+
+  IMPORTANTE: aquí SOLO se distribuye el parche. NUNCA se distribuye
+  la ISO del juego. Necesitas tu propia copia legal de la ISO en
+  inglés del parche v1.10 para aplicar este parche.
+
+ISO de origen (requerida)
+  Toradora! Portable — parche inglés v1.10
+  Archivo: toradora-portable-en-v1.10.iso
+  Tamaño:  1.708.947.456 bytes
+  MD5:     24bac0ccfd6b293f585804eab86d82c2
+
+  Si tu ISO no tiene ese MD5, el parche puede fallar o el resultado
+  no será el correcto. Verifica el MD5 antes de aplicar el parche.
+
+Cómo aplicar el parche — interfaz gráfica (Windows)
+  1. Descarga e instala xdelta UI (o Delta Patcher), gratuitos.
+  2. En "Patch file" / "Parche": selecciona
+     toradora-portable-ES-v7.xdelta
+  3. En "Source file" / "Archivo original": selecciona tu ISO en
+     inglés (toradora-portable-en-v1.10.iso).
+  4. En "Output file" / "Archivo de salida": elige un nombre nuevo,
+     por ejemplo toradora-portable-ES-v7.iso, en otra carpeta.
+  5. Pulsa "Apply patch" / "Aplicar parche" y espera a que termine.
+
+Cómo aplicar el parche — línea de comandos
+  Necesitas xdelta3 instalado (Linux: sudo apt-get install xdelta3;
+  Windows: descarga el binario de xdelta3; macOS: brew install xdelta).
+
+    xdelta3 -d -s toradora-portable-en-v1.10.iso \
+            toradora-portable-ES-v7.xdelta \
+            toradora-portable-ES-v7.iso
+
+Verificación (obligatoria)
+  La ISO resultante DEBE tener este MD5 exacto:
+
+    62a5416791fbe20e8896320a830bb90f
+
+  Si el MD5 no coincide, NO uses esa ISO: borra el archivo generado
+  y repite el proceso con una ISO de origen correcta.
+
+  Para comprobar el MD5:
+    Windows (PowerShell):  Get-FileHash toradora-portable-ES-v7.iso -Algorithm MD5
+    Linux / macOS:         md5sum toradora-portable-ES-v7.iso
+
+Contenido de este paquete
+  toradora-portable-ES-v7.xdelta   Parche xdelta3 (ES v7)
+  LEEME.txt                        Este archivo
+  documentacion-proceso.pdf        Documentación completa del proceso
+                                   de traducción (26 páginas, español)
+
+Notas
+  - Traducción al español neutro, sin modismos regionales.
+  - Solo se distribuye el parche; nunca la ISO del juego.
+  - Compatible con PPSSPP y con PSP real (con custom firmware).
+
+----------------------------------------------------------------------
+ENGLISH SUMMARY
+----------------------------------------------------------------------
+
+This is a Spanish translation patch (v7) for Toradora! Portable (PSP).
+Apply it to your own copy of the English v1.10 patched ISO
+(toradora-portable-en-v1.10.iso, MD5 24bac0ccfd6b293f585804eab86d82c2)
+using xdelta3:
+
+  xdelta3 -d -s toradora-portable-en-v1.10.iso \
+          toradora-portable-ES-v7.xdelta \
+          toradora-portable-ES-v7.iso
+
+The resulting ISO must have MD5 exactly:
+  62a5416791fbe20e8896320a830bb90f
+
+Only the patch is distributed here — never the game ISO.

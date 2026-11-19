@@ -1,0 +1,863 @@
+msgid ""
+msgstr ""
+
+msgid "Stare"
+msgstr "Mirar fijamente"
+
+msgid "Stare passionately"
+msgstr "Mirar con pasión"
+
+msgid "Stare calmly"
+msgstr "Mirar con calma"
+
+msgid "Stare blankly"
+msgstr "Mirar distraído"
+
+msgid "About Swimsuits"
+msgstr "Sobre los trajes de baño"
+
+msgid "The laser things spruce up the swimsuits"
+msgstr "Lo del láser realza los trajes de baño"
+
+msgid "Bikinis are common among the women here"
+msgstr "Aquí los bikinis son comunes entre mujeres"
+
+msgid "Swimsuits raise a variety of concerns"
+msgstr "Los trajes de baño traen varias inquietudes"
+
+msgid "About Sports"
+msgstr "Sobre los deportes"
+
+msgid "Is softball fun?"
+msgstr "¿Es divertido el sóftbol?"
+
+msgid "You're a fast swimmer"
+msgstr "Nadas muy rápido"
+
+msgid "I'm not opposed to watching sports"
+msgstr "No me opongo a ver deportes"
+
+msgid "About Kawashima"
+msgstr "Sobre Kawashima"
+
+msgid "She can be really surprising"
+msgstr "Puede ser muy sorprendente"
+
+msgid "She really is a model, huh"
+msgstr "De verdad es modelo, ¿eh?"
+
+msgid "Have you seen her on magazine covers?"
+msgstr "¿La has visto en portadas de revistas?"
+
+msgid "About Everyone"
+msgstr "Sobre todos"
+
+msgid "There's never a dull moment around them"
+msgstr "Con ellos nunca hay un momento aburrido"
+
+msgid "I wonder what everyone else is doing"
+msgstr "Me pregunto qué estarán haciendo los demás"
+
+msgid "I can't believe Sensei came along"
+msgstr "No puedo creer que Sensei haya venido"
+
+msgid "About Inko-chan"
+msgstr "Sobre Inko-chan"
+
+msgid "Can parakeets learn to do tricks?"
+msgstr "¿Los periquitos aprenden a hacer trucos?"
+
+msgid "I made sure to punish it for puking"
+msgstr "Me aseguré de castigarlo por vomitar"
+
+msgid "I wonder what a parakeet's lifespan is"
+msgstr "Me pregunto cuánto vive un periquito"
+
+msgid "--Let's Chat with Minori!--"
+msgstr "--¡Charlemos con Minori!--"
+
+msgid "Minori「Whoa! Do you require a one-liner,＿perhaps!?」"
+msgstr "Minori「¡Vaya! ¡¿Acaso necesitas＿un chiste rápido?!」"
+
+msgid "Ryuuji「Why would you think that!?」"
+msgstr "Ryuuji「¡¿Por qué pensarías eso?!」"
+
+msgid "Minori「Oh, do I reek of natto? I had a side dish＿of natto with my lunch. My bad, bro!」"
+msgstr "Minori「Ah, ¿apesto a natto?＿Lo comí de guarnición＿al almorzar. ¡Perdón, hermano!」"
+
+msgid "Ryuuji「Look, it's not the natto............」"
+msgstr "Ryuuji「Mira, no es el natto............」"
+
+msgid "Minori「It's not the natto?」"
+msgstr "Minori「¿No es el natto?」"
+
+msgid "Ryuuji「Yeah, it's............ *Sigh* Never mind.」"
+msgstr "Ryuuji「Sí, es............ *Suspiro* No importa.」"
+
+msgid "Minori「What is it? Something important?」"
+msgstr "Minori「¿Qué pasa? ¿Algo importante?」"
+
+msgid "Ryuuji「Oh, uh, nothing important, no.」"
+msgstr "Ryuuji「Ah, eh, nada importante, no.」"
+
+msgid "Minori「Whoa, Takasu-kun, that's the spirit!＿You're like some kind of elite A-rank＿sniper and I'm the target!」"
+msgstr "Minori「¡Vaya, Takasu-kun, ese es el espíritu!＿¡Eres como un francotirador de élite＿rango A y yo el blanco!」"
+
+msgid "Ryuuji「Don't you stand behind me...... Wait, I＿walked right into that!」"
+msgstr "Ryuuji「No te pongas detrás de mí...... ¡Espera,＿caí directo en la trampa!」"
+
+msgid "Minori「Ahahaha! I appreciate you playing＿along with my joke!」"
+msgstr "Minori「¡Ajajaja! ¡Agradezco que me sigas＿el juego con mi broma!」"
+
+msgid "Ryuuji「......I'm happy to be of service, then.」"
+msgstr "Ryuuji「......Me alegra ser útil, entonces.」"
+
+msgid "Minori「Whoa, talk about a Kodak moment!＿Click, zoom, snap!」"
+msgstr "Minori「¡Vaya, todo un momento Kodak!＿¡Clic, zoom, foto!」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Minori「Never mind, never mind!」"
+msgstr "Minori「¡No importa, no importa!」"
+
+msgid "Minori「Takasu-kun, listen......」"
+msgstr "Minori「Takasu-kun, escucha......」"
+
+msgid "Ryuuji「Hm?」"
+msgstr "Ryuuji「¿Hm?」"
+
+msgid "Minori「No, never mind.」"
+msgstr "Minori「No, olvídalo.」"
+
+msgid "Minori「Oho, I've never seen you make that＿face.」"
+msgstr "Minori「Vaya, nunca te había visto＿poner esa cara.」"
+
+msgid "Ryuuji「What do you mean?」"
+msgstr "Ryuuji「¿A qué te refieres?」"
+
+msgid "Minori「Hehe!」"
+msgstr "Minori「¡Jeje!」"
+
+msgid "Minori「Do you...... wanna swim? It's a real＿shame, since we're at Luxure and all......」"
+msgstr "Minori「¿Tienes...... ganas de nadar? Es una＿lástima, estando en Luxure y todo......」"
+
+msgid "Ryuuji「Nah, I'm satisfied just being able to＿take a load off.」"
+msgstr "Ryuuji「Nah, me conformo con poder＿descansar un rato.」"
+
+msgid "Minori「Do you...... still feel sick?」"
+msgstr "Minori「¿Todavía...... te sientes mal?」"
+
+msgid "Ryuuji「No, that's not it.」"
+msgstr "Ryuuji「No, no es eso.」"
+
+msgid "Minori「Hm～～ You don't look pale. Looks like＿there's no need to worry about your＿health any more.」"
+msgstr "Minori「Hm～～ No te ves pálido. Parece＿que ya no hay razón para preocuparse＿por tu salud.」"
+
+msgid "Ryuuji「Yeah. I'm just playing it safe by taking＿it easy today.」"
+msgstr "Ryuuji「Sí. Solo voy a lo seguro tomándomelo＿con calma hoy.」"
+
+msgid "Minori「It seems the time has come to settle＿the glaring contest.」"
+msgstr "Minori「Parece que ha llegado la hora de＿resolver el duelo de miradas.」"
+
+msgid "Ryuuji「Couldn't ask for more...... Yeah, right.」"
+msgstr "Ryuuji「No podría pedir más...... Sí, claro.」"
+
+msgid "Minori「Awww.」"
+msgstr "Minori「Aaaah.」"
+
+msgid "Minori「Yeah, that! I'm so curious～～! I wonder＿how much faster it makes you!」"
+msgstr "Minori「¡Sí, eso! ¡Qué curiosidad～～! ¡Me＿pregunto cuánto más rápido te hace ir!」"
+
+msgid "Ryuuji「Kushieda, I bet you're the type to want＿to try it on.」"
+msgstr "Ryuuji「Kushieda, apuesto a que eres de＿las que querrían probárselo.」"
+
+msgid "Minori「That's right! Gosh～ You got me!」"
+msgstr "Minori「¡Así es! ¡Caramba～ Me descubriste!」"
+
+msgid "Ryuuji「Why are you blushing about it?」"
+msgstr "Ryuuji「¿Por qué te sonrojas por eso?」"
+
+msgid "Ryuuji「I-It's impossible NOT to picture it!」"
+msgstr "Ryuuji「¡E-Es imposible NO imaginárselo!」"
+
+msgid "Minori「STOOOP! It's so embarrassing! NOOO!」"
+msgstr "Minori「¡BASTAAA! ¡Qué vergüenza! ¡NOOO!」"
+
+msgid "Minori「Apparently they're CRAZY expensive.＿Not exactly an impulse buy.」"
+msgstr "Minori「Por lo visto son CARÍSIMOS. No＿son precisamente un capricho.」"
+
+msgid "Ryuuji「Oh, I see...... Out of your league, eh?」"
+msgstr "Ryuuji「Ah...... Fuera de tu alcance, ¿eh?」"
+
+msgid "Minori「It is the east, and I am the sun!」"
+msgstr "Minori「¡Es el oriente, y yo soy el sol!」"
+
+msgid "Minori「Oh, I was wondering about that too. I＿wonder what it's like?」"
+msgstr "Minori「Ah, yo también me preguntaba＿eso. ¿Cómo se sentirá?」"
+
+msgid "Ryuuji「What IS it like? I wish we could get＿someone to find out for us.」"
+msgstr "Ryuuji「¿Cómo SE sentirá? Ojalá pudiéramos＿hacer que alguien lo averigüe.」"
+
+msgid "Minori「Whether you're a girl or a boy, being＿seen in that kinda thing is no fun.」"
+msgstr "Minori「Seas chica o chico, que te vean con＿algo así no es nada divertido.」"
+
+msgid "Ryuuji「R-Really?」"
+msgstr "Ryuuji「¿E-En serio?」"
+
+msgid "Minori「Really!」"
+msgstr "Minori「¡En serio!」"
+
+msgid "Ryuuji「......I wasn't trying to imply anything, but＿I apologize for spoiling your mood.」"
+msgstr "Ryuuji「......No intentaba insinuar nada, pero＿perdón por arruinarte el humor.」"
+
+msgid "Minori「RAAAAAARGH! HATE SPEEEEECH!」"
+msgstr "Minori「¡RAAAAAARGH! ¡DISCURSO DE ODIOOOOO!」"
+
+msgid "Ryuuji「Huh? Hate speech!? Wha? Uhh, err,＿sorry!」"
+msgstr "Ryuuji「¿Eh? ¡¿Discurso de odio?!＿¿Qué? Ehh, ehm, ¡perdón!」"
+
+msgid "Minori「Hmph!」"
+msgstr "Minori「¡Jum!」"
+
+msgid "Minori「I wanted to wear trunks, too.」"
+msgstr "Minori「También quería usar pantalón de baño.」"
+
+msgid "Ryuuji「What!?」"
+msgstr "Ryuuji「¡¿Qué?!」"
+
+msgid "Minori「Just kidding.」"
+msgstr "Minori「Era broma.」"
+
+msgid "Minori「Yeah, it sure is tough being a diet＿warrior...... Exhausting......」"
+msgstr "Minori「Sí, vaya que es duro ser una guerrera＿de la dieta...... Agotador......」"
+
+msgid "Ryuuji「Uh, I'm talking about me here, not＿you......」"
+msgstr "Ryuuji「Eh, estoy hablando de mí, no de ti......」"
+
+msgid "Minori「Don't remind me......」"
+msgstr "Minori「No me lo recuerdes......」"
+
+msgid "Ryuuji「I said I didn't mean you!!」"
+msgstr "Ryuuji「¡¡Dije que no hablaba de ti!!」"
+
+msgid "Minori「OOOOOH!」"
+msgstr "Minori「¡OOOOOH!」"
+
+msgid "Minori「SHUT UP! Never, ever say that!」"
+msgstr "Minori「¡CÁLLATE! ¡Nunca, jamás digas eso!」"
+
+msgid "Ryuuji「Oh, I'm sorry!」"
+msgstr "Ryuuji「¡Oh, lo siento!」"
+
+msgid "Minori「Fufu!」"
+msgstr "Minori「¡Juju!」"
+
+msgid "Minori「Oh, a variety, huh? What \"variety\"＿would that be?」"
+msgstr "Minori「¿Ah, varias, eh? ¿Qué clase＿de \"varias\" serían esas?」"
+
+msgid "Ryuuji「Well, basically...... Nah, let's not go＿there.」"
+msgstr "Ryuuji「Bueno, básicamente...... Nah,＿mejor no entremos en eso.」"
+
+msgid "Ryuuji「Kitamura's team, huh...... Could be fun,＿or horrible. It's a toss-up.」"
+msgstr "Ryuuji「El equipo de Kitamura...... Puede ser＿divertido u horrible. Es puro azar.」"
+
+msgid "Minori「It is Kitamura-kun, after all!」"
+msgstr "Minori「¡Es Kitamura-kun, después de todo!」"
+
+msgid "Ryuuji「Yep, it's Kitamura......」"
+msgstr "Ryuuji「Sí, es Kitamura......」"
+
+msgid "Minori「See, it's embarrassing, but the＿Captains work hard too, bud.」"
+msgstr "Minori「Mira, da vergüenza, pero los capitanes＿también trabajan duro, amigo.」"
+
+msgid "Ryuuji「Come to think of it...... I suppose so.＿Gotta set an example.」"
+msgstr "Ryuuji「Ahora que lo pienso...... Supongo＿que sí. Hay que dar el ejemplo.」"
+
+msgid "Minori「Aww, shucks, you're making me blush.」"
+msgstr "Minori「Ay, caramba, me haces sonrojar.」"
+
+msgid "Minori「Of course! Haven't you ever wanted to＿join a club or anything? You've got the＿height for it.」"
+msgstr "Minori「¡Claro! ¿Nunca has querido unirte＿a un club o algo? Tienes la＿estatura para eso.」"
+
+msgid "Ryuuji「Really? I thought I was average.」"
+msgstr "Ryuuji「¿En serio? Pensé que era promedio.」"
+
+msgid "Minori「No, really～ The ideal is like 170ish.」"
+msgstr "Minori「No, de verdad～ Lo ideal es como 1.70.」"
+
+msgid "Ryuuji「Ideal, huh...... Well, 170cm is tall for a＿girl, I guess.」"
+msgstr "Ryuuji「Ideal, eh...... Bueno, 170 cm es＿alto para una chica, supongo.」"
+
+msgid "Minori「Really? I don't think so～」"
+msgstr "Minori「¿En serio? Yo no lo creo～」"
+
+msgid "Ryuuji「I really mean it. Your form is, um......＿beautiful.」"
+msgstr "Ryuuji「Lo digo en serio. Tu técnica＿es, ehm...... hermosa.」"
+
+msgid "Minori「Why thank you!」"
+msgstr "Minori「¡Pues muchas gracias!」"
+
+msgid "Minori「Aww, you're just saying that.」"
+msgstr "Minori「Bah, solo lo dices por decir.」"
+
+msgid "Ryuuji「No, I really mean it......」"
+msgstr "Ryuuji「No, lo digo de verdad......」"
+
+msgid "Minori「I do love to swim. Well, I'm a sports fan＿in general, see.」"
+msgstr "Minori「Sí que me encanta nadar. Bueno, soy fan＿de los deportes en general, ¿ves?」"
+
+msgid "Ryuuji「Yeah, I can kinda tell.」"
+msgstr "Ryuuji「Sí, más o menos se nota.」"
+
+msgid "Minori「Ahaha! I give off that impression, don't＿I?」"
+msgstr "Minori「¡Ajaja! Doy esa impresión, ¿no?」"
+
+msgid "Minori「Fu fu fu...... Truth is, I was a mermaid in＿my past life! Don't tell anyone, bud!」"
+msgstr "Minori「Jujuju...... ¡De verdad, fui＿sirena en mi vida pasada! ¡No＿lo cuentes, amigo!」"
+
+msgid "Ryuuji「O-Okay. But a mermaid, though?＿What's wrong with a fish......?」"
+msgstr "Ryuuji「E-Está bien. ¿Pero una sirena? ¿Qué＿tiene de malo un pez......?」"
+
+msgid "Ryuuji「My heart!? Oh god, please spare me.」"
+msgstr "Ryuuji「¡¿Mi corazón?! Ay Dios, ten piedad.」"
+
+msgid "Ryuuji「You really do love your sports, huh.」"
+msgstr "Ryuuji「De verdad te encantan los deportes, ¿eh?」"
+
+msgid "Minori「Ehehe! You know how it is!」"
+msgstr "Minori「¡Ejeje! ¡Ya sabes cómo es!」"
+
+msgid "Minori「Oh really? If I'd known that, I would＿have invited you to one of＿Kitamura-kun's games.」"
+msgstr "Minori「¿Ah, en serio? De haberlo sabido,＿te habría invitado a un partido＿de Kitamura-kun.」"
+
+msgid "Ryuuji「Oh yeah? Well, could you give me a＿heads up next time?」"
+msgstr "Ryuuji「¿Ah, sí? Bueno, ¿podrías avisarme＿la próxima vez?」"
+
+msgid "Minori「Roger that!」"
+msgstr "Minori「¡Entendido!」"
+
+msgid "Minori「I love it, bud! I like playing sports too,＿though!」"
+msgstr "Minori「¡Me encanta, amigo! ¡Aunque también＿me gusta practicar deportes!」"
+
+msgid "Ryuuji「I could already kinda tell.」"
+msgstr "Ryuuji「Eso ya más o menos se notaba.」"
+
+msgid "Minori「Hehe!」"
+msgstr "Minori「¡Jeje!」"
+
+msgid "Minori「Whoa there, Takasu-kun, retiring so＿soon!? Amin's pranks are customized＿for your enjoyment! So enjoy it, boy!」"
+msgstr "Minori「¡Alto ahí, Takasu-kun! ¿Te retiras＿tan pronto? ¡Las bromas de Amin＿son para tu disfrute!」"
+
+msgid "Ryuuji「She's got me wrapped around her＿finger......」"
+msgstr "Ryuuji「Me tiene comiendo de la＿palma de su mano......」"
+
+msgid "Minori「Amin's mature, that's why. She＿surprises me too.」"
+msgstr "Minori「Amin es madura, por eso. A＿mí también me sorprende.」"
+
+msgid "Ryuuji「Mature......?」"
+msgstr "Ryuuji「¿Madura......?」"
+
+msgid "Minori「But what Amin says...... is always right.」"
+msgstr "Minori「Pero Amin...... siempre tiene razón.」"
+
+msgid "Ryuuji「Huh? Really......?」"
+msgstr "Ryuuji「¿Eh? ¿De verdad......?」"
+
+msgid "Minori「Oho! Like what?」"
+msgstr "Minori「¡Vaya! ¿Como qué?」"
+
+msgid "Ryuuji「Well, in a lot of ways. When she opens＿up, there's no end to it.」"
+msgstr "Ryuuji「Bueno, en muchos sentidos. Cuando＿se abre, no tiene fin.」"
+
+msgid "Minori「Well, I'll admit she can really get your＿pound hearting～」"
+msgstr "Minori「Bueno, admito que puede hacer que＿te dé un corazón el vuelco～」"
+
+msgid "Ryuuji「No, that is not how I meant it......」"
+msgstr "Ryuuji「No, no lo decía en ese sentido......」"
+
+msgid "Minori「So what you're saying is...... Looking at＿Amin in her swimsuit gives you dirty＿thoughts, am I right?」"
+msgstr "Minori「O sea que dices...... ¿ver a＿Amin en traje de baño te da malos＿pensamientos, verdad?」"
+
+msgid "Ryuuji「You're wrong!!」"
+msgstr "Ryuuji「¡¡Te equivocas!!」"
+
+msgid "Minori「So what you're saying is...!! Amin in her＿swimsuit... in her swimsuit...!! OH,＿YOUUUTH!!」"
+msgstr "Minori「¡¡O sea que dices...!! ¡¡Amin en traje＿de baño...!! ¡¡OH, JUVENTUUUD!!」"
+
+msgid "Ryuuji「Y-You got it all wrong!!」"
+msgstr "Ryuuji「¡¡L-Lo entendiste todo mal!!」"
+
+msgid "Minori「When I see Amin in her swimsuit, I＿can't believe we're part of the same＿species......」"
+msgstr "Minori「Cuando veo a Amin en traje de＿baño, no creo que seamos de＿la misma especie......」"
+
+msgid "Ryuuji「B-But you still...... look......」"
+msgstr "Ryuuji「P-Pero tú...... también te ves......」"
+
+msgid "Minori「What?」"
+msgstr "Minori「¿Qué?」"
+
+msgid "Ryuuji「Nothing......」"
+msgstr "Ryuuji「Nada......」"
+
+msgid "Minori「Hmm......」"
+msgstr "Minori「Mmm......」"
+
+msgid "Ryuuji「......Hm? What's the matter?」"
+msgstr "Ryuuji「......¿Hm? ¿Qué pasa?」"
+
+msgid "Ryuuji「I, I didn't mean any harm by it. I just＿noticed one recently with her on the＿cover.」"
+msgstr "Ryuuji「N-No lo decía con mala intención.＿Solo vi una hace poco con ella＿en la portada.」"
+
+msgid "Minori「That's good then...... Sorry, I read too＿much into it. Forget it.」"
+msgstr "Minori「Qué bueno entonces...... Perdón,＿lo malinterpreté. Olvídalo.」"
+
+msgid "Minori「I've seen 'em, but haven't bought any.＿Magazines are pretty expensive, see......」"
+msgstr "Minori「Las he visto, pero no compré＿ninguna. Las revistas son muy＿caras, ya ves......」"
+
+msgid "Ryuuji「Expensive indeed.」"
+msgstr "Ryuuji「Muy caras, sin duda.」"
+
+msgid "Minori「Of course! OFF course! Cartwheel!」"
+msgstr "Minori「¡Por supuesto, por su puesto, voltereta!」"
+
+msgid "Ryuuji「......Cartwheel?」"
+msgstr "Ryuuji「......¿Voltereta?」"
+
+msgid "Minori「I have. She was posing all like......＿Whoops, I could show you but I'd have＿to charge.」"
+msgstr "Minori「Sí. Estaba posando así como......＿Uy, podría mostrártelo, pero＿tendría que cobrarte.」"
+
+msgid "Ryuuji「Wha--!? It can't have been that explicit!」"
+msgstr "Ryuuji「¡¿Qué--?! ¡No pudo ser tan explícita!」"
+
+msgid "Minori「Fufufu, that's what you think!」"
+msgstr "Minori「Jujuju, ¡eso es lo que tú crees!」"
+
+msgid "Minori「EXAAACTLY! Talking together and＿bonding is the BEST way to revel in＿our youth!」"
+msgstr "Minori「¡EXAAACTO! ¡Charlar y estrechar＿lazos es la MEJOR forma de disfrutar＿la juventud!」"
+
+msgid "Ryuuji「Oh, right! But could you keep your＿voice down, please? Literally everyone＿is staring at us.」"
+msgstr "Ryuuji「¡Ah, claro! Pero baja la voz,＿por favor. Todo el mundo se nos＿está quedando mirando.」"
+
+msgid "Minori「Say what? The mighty sun laughs at＿your worries!」"
+msgstr "Minori「¿Cómo dices? ¡El poderoso sol se＿ríe de tus preocupaciones!」"
+
+msgid "Ryuuji「I, I see......」"
+msgstr "Ryuuji「Y-Ya veo......」"
+
+msgid "Minori「True that! Whenever I see Haruta-kun＿acting a fool, I think to myself, \"I could＿do better!\"」"
+msgstr "Minori「¡Tal cual! Cada vez que veo a Haruta-kun＿haciendo el tonto, pienso: \"¡Yo＿lo haría mejor!\"」"
+
+msgid "Ryuuji「Don't worry, uh, you're doing just fine.」"
+msgstr "Ryuuji「Tranquila, eh, lo estás haciendo bien.」"
+
+msgid "Minori「Takasu-kun, your comebacks are as＿strong as ever.」"
+msgstr "Minori「Takasu-kun, tus respuestas son＿tan agudas como siempre.」"
+
+msgid "Ryuuji「Huh? Really?」"
+msgstr "Ryuuji「¿Eh? ¿De verdad?」"
+
+msgid "Minori「Really!」"
+msgstr "Minori「¡En serio!」"
+
+msgid "Minori「That's our Takasu-kun! Your mind is＿always on everyone else, isn't it!? We＿are eternally obliged! Hah!」"
+msgstr "Minori「¡Ese es nuestro Takasu-kun! ¡Siempre＿piensas en los demás, ¿no?! ¡Estamos＿agradecidos! ¡Ja!」"
+
+msgid "Ryuuji「No, I'm just wondering, that's all......」"
+msgstr "Ryuuji「No, solo tenía curiosidad, es todo......」"
+
+msgid "Minori「Amin and her friends are covered in......＿Oh jeez, I nearly went and said it!」"
+msgstr "Minori「Amin y sus amigas están cubiertas＿de...... ¡Ay cielos, casi lo suelto!」"
+
+msgid "Ryuuji「W-What was it......?」"
+msgstr "Ryuuji「¿Q-Qué era......?」"
+
+msgid "Minori「Not telling! Can't say!」"
+msgstr "Minori「¡No te digo! ¡No se puede contar!」"
+
+msgid "Ryuuji「That was... suggestive...」"
+msgstr "Ryuuji「Eso sonó... sugestivo...」"
+
+msgid "Minori「Taiga's on the fourth floor. I wanted to＿swim with her, but she turned me＿down, bud.」"
+msgstr "Minori「Taiga está en el cuarto piso. Quería＿nadar con ella, pero me rechazó, amigo.」"
+
+msgid "Ryuuji「Don't you think Taiga just wanted you＿to have fun swimming without＿worrying about her?」"
+msgstr "Ryuuji「¿No crees que Taiga solo quería＿que te divirtieras nadando sin＿preocuparte por ella?」"
+
+msgid "Minori「Yeah. That's probably it.」"
+msgstr "Minori「Sí. Seguramente es eso.」"
+
+msgid "Minori「Taiga said she's gonna hang out on the＿fourth floor.」"
+msgstr "Minori「Taiga dijo que se va a quedar＿por el cuarto piso.」"
+
+msgid "Ryuuji「I see. What about Kawashima and her＿friends?」"
+msgstr "Ryuuji「Ya veo. ¿Y qué hay de Kawashima＿y sus amigas?」"
+
+msgid "Ryuuji「Aromatherapy massages? That＿sounds practically made for them.」"
+msgstr "Ryuuji「¿Masajes de aromaterapia? Eso suena＿prácticamente hecho para ellas.」"
+
+msgid "Minori「So you think of it like that too? I＿happen to like her.」"
+msgstr "Minori「¿Así que tú también lo ves así?＿A mí me cae bastante bien.」"
+
+msgid "Ryuuji「Hey, I don't exactly hate her myself.」"
+msgstr "Ryuuji「Oye, yo tampoco es que la odie.」"
+
+msgid "Minori「Since we came all this way, I wanted＿her to do underwater aerobics with＿us......」"
+msgstr "Minori「Ya que vinimos hasta acá, quería＿que hiciera aeróbicos acuáticos＿con nosotros......」"
+
+msgid "Ryuuji「Underwater aerobics......? Well, as long＿as she's happy relaxing to her heart's＿content, it's not a big deal, right?」"
+msgstr "Ryuuji「¿Aeróbicos acuáticos......? Mientras＿sea feliz relajándose a gusto,＿no es gran cosa, ¿no?」"
+
+msgid "Minori「You're right.」"
+msgstr "Minori「Tienes razón.」"
+
+msgid "Minori「It was a total stroke of fate, huh?」"
+msgstr "Minori「Fue todo un golpe del destino, ¿eh?」"
+
+msgid "Ryuuji「That it was.」"
+msgstr "Ryuuji「Vaya que sí.」"
+
+msgid "Minori「What do you think she's up to right＿now?」"
+msgstr "Minori「¿Qué crees que esté haciendo＿ahora mismo?」"
+
+msgid "Ryuuji「Probably relaxing...... Wait, what weird＿ideas are you getting?」"
+msgstr "Ryuuji「Seguramente relajándose......＿Espera, ¿qué ideas raras se＿te están ocurriendo?」"
+
+msgid "Minori「Teeheehee......」"
+msgstr "Minori「Jijiji......」"
+
+msgid "Minori「Yours totally could! Teach it to jump or＿something!!」"
+msgstr "Minori「¡El tuyo seguro que sí! ¡¡Enséñale＿a saltar o algo!!」"
+
+msgid "Ryuuji「Uhh, it can FLY.」"
+msgstr "Ryuuji「Ehh, puede VOLAR.」"
+
+msgid "Minori「Truth is, last time around I secretly......＿Hehehe!」"
+msgstr "Minori「La verdad, la última vez a＿escondidas...... ¡Jejeje!」"
+
+msgid "Ryuuji「W-What did you do?」"
+msgstr "Ryuuji「¿Q-Qué hiciste?」"
+
+msgid "Minori「Hehehe!」"
+msgstr "Minori「¡Jejeje!」"
+
+msgid "Minori「It's cruel to try and force it, you know?」"
+msgstr "Minori「Es cruel intentar obligarlo, ¿sabes?」"
+
+msgid "Ryuuji「I won't force it!」"
+msgstr "Ryuuji「¡No lo voy a obligar!」"
+
+msgid "Minori「Inko-chan is funny, with or without any＿tricks!」"
+msgstr "Minori「¡Inko-chan es gracioso,＿con o sin trucos!」"
+
+msgid "Ryuuji「That's true.」"
+msgstr "Ryuuji「Eso es cierto.」"
+
+msgid "Minori「Hang on, Takasu-kun! I, Kushieda＿Minori, am not so cowardly as to fret＿over such trifles!」"
+msgstr "Minori「¡Espera, Takasu-kun! ¡Yo, Kushieda＿Minori, no soy tan cobarde como para＿afligirme por nimiedades!」"
+
+msgid "Ryuuji「Huh? B-But......」"
+msgstr "Ryuuji「¿Eh? P-Pero......」"
+
+msgid "Minori「If you scold Inko-chan any further......＿I'mma get mad!」"
+msgstr "Minori「Si sigues regañando a Inko-chan......＿¡me voy a enojar!」"
+
+msgid "Ryuuji「O-Okay, understood......」"
+msgstr "Ryuuji「E-Está bien, entendido......」"
+
+msgid "Minori「Surely you didn't make Inko-chan＿suffer domestic violence because of＿it!?」"
+msgstr "Minori「¡¿No habrás hecho que Inko-chan sufra＿violencia doméstica por eso?!」"
+
+msgid "Ryuuji「No! Absolutely not!」"
+msgstr "Ryuuji「¡No! ¡Para nada!」"
+
+msgid "Minori「If you scold Inko-chan any further, I＿won't forgive you!」"
+msgstr "Minori「Si sigues regañando a Inko-chan,＿¡no te lo perdonaré!」"
+
+msgid "Ryuuji「Okay......」"
+msgstr "Ryuuji「Está bien......」"
+
+msgid "Minori「No more worrying about it. And please＿don't scold Inko-chan.」"
+msgstr "Minori「Ya no te preocupes por eso. Y por＿favor no regañes a Inko-chan.」"
+
+msgid "Ryuuji「Yeah? Alright. But I really am sorry.」"
+msgstr "Ryuuji「¿Sí? Bien. Pero de verdad lo siento.」"
+
+msgid "Minori「It's okay. Don't sweat it.」"
+msgstr "Minori「No pasa nada. Ni te preocupes.」"
+
+msgid "Minori「No matter the animal, it won't live as＿long as a human......」"
+msgstr "Minori「Sea el animal que sea, no vivirá＿tanto como un humano......」"
+
+msgid "Ryuuji「Yeah, you're right.」"
+msgstr "Ryuuji「Sí, tienes razón.」"
+
+msgid "Minori「Parting is such sweet sorrow......」"
+msgstr "Minori「La despedida es tan dulce pena......」"
+
+msgid "Ryuuji「Yeah...... But the moment we decided to＿adopt it, we had to be prepared for the＿inevitable outcome......」"
+msgstr "Ryuuji「Sí...... Pero al decidir adoptarlo,＿debíamos prepararnos para el desenlace＿inevitable......」"
+
+msgid "Minori「Yeah.」"
+msgstr "Minori「Sí.」"
+
+msgid "Minori「I'm not sure, but I think Inko-chan will＿live longer than you'd expect!」"
+msgstr "Minori「No estoy segura, ¡pero creo que＿Inko-chan vivirá más de lo que esperas!」"
+
+msgid "Ryuuji「You think so?」"
+msgstr "Ryuuji「¿Tú crees?」"
+
+msgid "Minori「Yep. I just have a feeling.」"
+msgstr "Minori「Sip. Solo tengo un presentimiento.」"
+
+msgid "Ryuuji「Hmm... Well, it's certainly a little...＿different.」"
+msgstr "Ryuuji「Hmm... Bueno, sin duda es＿un poco... diferente.」"
+
+msgid "Minori「In Inko-chan's case, it'll outlive even＿you!」"
+msgstr "Minori「En el caso de Inko-chan, ¡vivirá＿incluso más que tú!」"
+
+msgid "Ryuuji「In that case, I won't have anyone to＿entrust its care to, so I can't die......」"
+msgstr "Ryuuji「Entonces no tendré a quién＿confiarle su cuidado, así que＿no puedo morir......」"
+
+msgid "Minori「I was kidding!」"
+msgstr "Minori「¡Era broma!」"
+
+msgid "ANG_A1_LV1:"
+msgstr "ANG_A1_LV1:"
+
+msgid "ANG_A1_LV2:"
+msgstr "ANG_A1_LV2:"
+
+msgid "SAD_A1_LV1:"
+msgstr "SAD_A1_LV1:"
+
+msgid "SAD_A1_LV2:"
+msgstr "SAD_A1_LV2:"
+
+msgid "FUN_A1_LV2:"
+msgstr "FUN_A1_LV2:"
+
+msgid "ANG_A2_LV1:"
+msgstr "ANG_A2_LV1:"
+
+msgid "ANG_A2_LV2:"
+msgstr "ANG_A2_LV2:"
+
+msgid "SAD_A2_LV2:"
+msgstr "SAD_A2_LV2:"
+
+msgid "FUN_A2_LV2:"
+msgstr "FUN_A2_LV2:"
+
+msgid "HAP_A3_LV1:"
+msgstr "HAP_A3_LV1:"
+
+msgid "HAP_A3_LV2:"
+msgstr "HAP_A3_LV2:"
+
+msgid "ANG_B1_LV1:"
+msgstr "ANG_B1_LV1:"
+
+msgid "ANG_B1_LV2:"
+msgstr "ANG_B1_LV2:"
+
+msgid "SAD_B1_LV2:"
+msgstr "SAD_B1_LV2:"
+
+msgid "FUN_B1_LV2:"
+msgstr "FUN_B1_LV2:"
+
+msgid "HAP_B2_LV1:"
+msgstr "HAP_B2_LV1:"
+
+msgid "HAP_B2_LV2:"
+msgstr "HAP_B2_LV2:"
+
+msgid "SAD_B2_LV2:"
+msgstr "SAD_B2_LV2:"
+
+msgid "FUN_B2_LV1:"
+msgstr "FUN_B2_LV1:"
+
+msgid "FUN_B2_LV2:"
+msgstr "FUN_B2_LV2:"
+
+msgid "HAP_B3_LV1:"
+msgstr "HAP_B3_LV1:"
+
+msgid "HAP_B3_LV2:"
+msgstr "HAP_B3_LV2:"
+
+msgid "ANG_C1_LV1:"
+msgstr "ANG_C1_LV1:"
+
+msgid "ANG_C1_LV2:"
+msgstr "ANG_C1_LV2:"
+
+msgid "SAD_C1_LV1:"
+msgstr "SAD_C1_LV1:"
+
+msgid "SAD_C1_LV2:"
+msgstr "SAD_C1_LV2:"
+
+msgid "FUN_C1_LV2:"
+msgstr "FUN_C1_LV2:"
+
+msgid "HAP_C2_LV1:"
+msgstr "HAP_C2_LV1:"
+
+msgid "HAP_C2_LV2:"
+msgstr "HAP_C2_LV2:"
+
+msgid "ANG_C3_LV1:"
+msgstr "ANG_C3_LV1:"
+
+msgid "ANG_C3_LV2:"
+msgstr "ANG_C3_LV2:"
+
+msgid "SAD_C3_LV2:"
+msgstr "SAD_C3_LV2:"
+
+msgid "FUN_C3_LV2:"
+msgstr "FUN_C3_LV2:"
+
+msgid "ANG_D1_LV1:"
+msgstr "ANG_D1_LV1:"
+
+msgid "ANG_D1_LV2:"
+msgstr "ANG_D1_LV2:"
+
+msgid "SAD_D1_LV2:"
+msgstr "SAD_D1_LV2:"
+
+msgid "FUN_D1_LV2:"
+msgstr "FUN_D1_LV2:"
+
+msgid "HAP_D2_LV1:"
+msgstr "HAP_D2_LV1:"
+
+msgid "HAP_D2_LV2:"
+msgstr "HAP_D2_LV2:"
+
+msgid "SAD_D2_LV2:"
+msgstr "SAD_D2_LV2:"
+
+msgid "FUN_D2_LV1:"
+msgstr "FUN_D2_LV1:"
+
+msgid "FUN_D2_LV2:"
+msgstr "FUN_D2_LV2:"
+
+msgid "HAP_D3_LV1:"
+msgstr "HAP_D3_LV1:"
+
+msgid "HAP_D3_LV2:"
+msgstr "HAP_D3_LV2:"
+
+msgid "ANG_E1_LV1:"
+msgstr "ANG_E1_LV1:"
+
+msgid "ANG_E1_LV2:"
+msgstr "ANG_E1_LV2:"
+
+msgid "SAD_E1_LV1:"
+msgstr "SAD_E1_LV1:"
+
+msgid "SAD_E1_LV2:"
+msgstr "SAD_E1_LV2:"
+
+msgid "FUN_E1_LV2:"
+msgstr "FUN_E1_LV2:"
+
+msgid "ANG_E2_LV1:"
+msgstr "ANG_E2_LV1:"
+
+msgid "ANG_E2_LV2:"
+msgstr "ANG_E2_LV2:"
+
+msgid "SAD_E2_LV2:"
+msgstr "SAD_E2_LV2:"
+
+msgid "FUN_E2_LV2:"
+msgstr "FUN_E2_LV2:"
+
+msgid "HAP_E3_LV1:"
+msgstr "HAP_E3_LV1:"
+
+msgid "HAP_E3_LV2:"
+msgstr "HAP_E3_LV2:"
+
+msgid "ANG_F1_LV1:"
+msgstr "ANG_F1_LV1:"
+
+msgid "ANG_F1_LV2:"
+msgstr "ANG_F1_LV2:"
+
+msgid "SAD_F1_LV2:"
+msgstr "SAD_F1_LV2:"
+
+msgid "FUN_F1_LV2:"
+msgstr "FUN_F1_LV2:"
+
+msgid "HAP_F2_LV1:"
+msgstr "HAP_F2_LV1:"
+
+msgid "HAP_F2_LV2:"
+msgstr "HAP_F2_LV2:"
+
+msgid "SAD_F2_LV2:"
+msgstr "SAD_F2_LV2:"
+
+msgid "FUN_F2_LV1:"
+msgstr "FUN_F2_LV1:"
+
+msgid "FUN_F2_LV2:"
+msgstr "FUN_F2_LV2:"
+
+msgid "HAP_F3_LV1:"
+msgstr "HAP_F3_LV1:"
+
+msgid "HAP_F3_LV2:"
+msgstr "HAP_F3_LV2:"
+
+msgid "Minori「The whole-body ones are crazy＿constricting. Even if you have＿someone helping you, they take like」"
+msgstr "Minori「Los de cuerpo completo＿aprietan muchísimo. Incluso si＿alguien te ayuda, tardas como」"
+
+msgid "Minori「half an hour to put on.」"
+msgstr "Minori「media hora en ponértelos.」"
+
+msgid "Minori「Wellll, even around other girls, being＿butt naked for so long is just...... Wait!＿HEY! Don't you start blushing too!」"
+msgstr "Minori「Bueeeno, hasta entre chicas, estar＿desnuda tanto rato es...... ¡Espera!＿¡EY! ¡No te sonrojes!」"
+
+msgid "Minori「Don't try to picture it!」"
+msgstr "Minori「¡No intentes imaginártelo!」"
+
+msgid "Minori「Softball? Oh yeah～～ It's so fun! You＿should join the boys' team!＿Kitamura-kun would be happy to have」"
+msgstr "Minori「¿Sóftbol? ¡Sí～～ Es muy divertido!＿¡Únete al equipo! A Kitamura-kun＿le encantaría contar」"
+
+msgid "Minori「you.」"
+msgstr "Minori「contigo.」"
+
+msgid "Minori「Ohh, how exquisite! In that case, you＿should go watch Kitamura-kun's next＿game! Kitamura-kun's so cool～! He」"
+msgstr "Minori「¡Ohh, qué exquisito! ¡En ese caso,＿ve el próximo partido de Kitamura-kun!＿¡Es tan genial～! ¡Él」"
+
+msgid "Minori「could steal your heart!」"
+msgstr "Minori「podría robarte el corazón!」"
+
+msgid "Minori「Watching sports is great. Seeing it in＿person makes you feel more＿connected...... Whoa there, at this rate」"
+msgstr "Minori「Ver deportes es genial. Verlos＿en persona te conecta más......＿Uy, a este ritmo」"
+
+msgid "Minori「I'll never shut up. Three strikes, I'm＿out!」"
+msgstr "Minori「no me callaré nunca. ¡Tres＿strikes, estoy fuera!」"
+
+msgid "Minori「Uhh, well...... Just now, about Amin,＿umm...... No, I know you're not the kind＿of person who would say something」"
+msgstr "Minori「Ehh, bueno...... Lo de Amin,＿ehm...... No, sé que no eres＿de los que dirían algo」"
+
+msgid "Minori「like that.」"
+msgstr "Minori「así.」"
+
+msgid "Minori「Amin and the others said they were＿going to the lounge on the fifth floor.＿They wanted aromatherapy massages,」"
+msgstr "Minori「Amin y las demás iban al salón＿del quinto piso. Querían masajes＿de aromaterapia,」"
+
+msgid "Minori「see.」"
+msgstr "Minori「¿ves?」"

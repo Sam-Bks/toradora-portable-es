@@ -1,0 +1,395 @@
+msgid ""
+msgstr ""
+
+msgid "Yasuko「From now onnn, let's make our home a＿place where we can talk about＿anything～」"
+msgstr "Yasuko「De ahora en adelanteee, hagamos de＿nuestro hogar un lugar donde podamos＿hablar de cualquier cosa～」"
+
+msgid "Ryuuji「O-Oh......」"
+msgstr "Ryuuji「A-Ah......」"
+
+msgid "Ryuuji「（Me and Yasuko...... living together......）」"
+msgstr "Ryuuji「（Yasuko y yo...... vivir juntos......）」"
+
+msgid "Ryuuji「W-What are you talking about?」"
+msgstr "Ryuuji「¿D-De qué estás hablando?」"
+
+msgid "Yasuko「Earlier when you came to her rescue,＿and even now just talking like this,＿Yacchan's so happy.」"
+msgstr "Yasuko「Antes, cuando viniste a su rescate,＿e incluso ahora hablando así,＿Yacchan es muy feliz.」"
+
+msgid "Ryuuji「\"Rescue\" is an overstatement. It was a＿mouse.」"
+msgstr "Ryuuji「\"Rescate\" es una exageración.＿Era un ratón.」"
+
+msgid "Yasuko「No no. Not that part. The part where＿you got worried and rushed right＿overrr.」"
+msgstr "Yasuko「No, no. Esa parte no. La parte＿en la que te preocupaste y＿viniste corriendooo.」"
+
+msgid "Ryuuji「Well............」"
+msgstr "Ryuuji「Bueno............」"
+
+msgid "Yasuko「......Hmm?」"
+msgstr "Yasuko「......¿Mmm?」"
+
+msgid "Yasuko「Whaaat?」"
+msgstr "Yasuko「¿Quééé?」"
+
+msgid "Ryuuji「W-Well, that's...... because Y-Yasuko is＿important to me......」"
+msgstr "Ryuuji「B-Bueno, eso es...... porque Y-Yasuko＿es importante para mí......」"
+
+msgid "Yasuko「Awww ☆ Ryuu-chan really is just like＿his papa～」"
+msgstr "Yasuko「Awww ☆ Ryuu-chan de verdad＿es igual a su papá～」"
+
+msgid "Ryuuji「......Papa?」"
+msgstr "Ryuuji「......¿Papá?」"
+
+msgid "Yasuko「See, Ryuu-chan's papa protected＿Yacchan too, so many times. He was＿SUPER cool～」"
+msgstr "Yasuko「Mira, el papá de Ryuu-chan también＿protegió a Yacchan muchas veces.＿Era SÚPER genial～」"
+
+msgid "Ryuuji「What? What did you just......? \"Papa\"?＿My father?」"
+msgstr "Ryuuji「¿Qué? ¿Qué acabas de......?＿¿\"Papá\"? ¿Mi padre?」"
+
+msgid "Yasuko「That's right～ Ryuu-chan's papa and＿Yacchan's faaavorite husband①」"
+msgstr "Yasuko「Así es～ El papá de Ryuu-chan y el＿esposo favoriiito de Yacchan①」"
+
+msgid "Ryuuji「（My father...... was Yasuko's＿husband............ So that means--!?）」"
+msgstr "Ryuuji「（Mi padre...... era esposo de＿Yasuko............ ¡¿Entonces--?!）」"
+
+msgid "Ryuuji「Are you saying...... you're...... my＿MOTHER......?」"
+msgstr "Ryuuji「¿Estás diciendo que...... tú＿eres...... mi MADRE......?」"
+
+msgid "Yasuko「Yeah, sooo～?」"
+msgstr "Yasuko「Sí, ¿y quééé～?」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Yasuko「......Ryuu-chan, what's wronggg? Wait,＿didn't you rememberrr?」"
+msgstr "Yasuko「......Ryuu-chan, ¿qué pasaaa?＿Espera, ¿no lo recordabaaas?」"
+
+msgid "Ryuuji「Oh, yeah, well...... That's a little, no,＿that's pretty damn shocking.」"
+msgstr "Ryuuji「Ah, sí, bueno...... Eso es un poco,＿no, es bastante impactante.」"
+
+msgid "Yasuko「Nonsenseee, it shouldn't be that much＿of a surpriseee.」"
+msgstr "Yasuko「Tonteríaaas, no debería＿ser tanta sorpresaaa.」"
+
+msgid "Ryuuji「（This just blows my mind!! Seriously!?＿SERIOUSLY!?!）」"
+msgstr "Ryuuji「（¡¡Esto me vuela la cabeza!! ¡¿En＿serio?! ¡¿¡EN SERIO!?!）」"
+
+msgid "Yasuko「No matter how you look at it,＿Ryuu-chan and Yacchan are clearly＿mother and son, right?」"
+msgstr "Yasuko「Lo mires por donde lo mires, Ryuu-chan＿y Yacchan son claramente madre＿e hijo, ¿verdad?」"
+
+msgid "Ryuuji「M-Maybe? I can't see it...... You seem a＿little too young......」"
+msgstr "Ryuuji「¿T-Tal vez? No lo veo...... Pareces＿demasiado joven......」"
+
+msgid "Ryuuji「（She's way too young! Look at her!）」"
+msgstr "Ryuuji「（¡Es demasiado joven! ¡Mírala!）」"
+
+msgid "Yasuko「Ehehe～ Yacchan's a 23-year-old at＿the bar～」"
+msgstr "Yasuko「Ejeje～ Yacchan tiene 23 años en el bar～」"
+
+msgid "Ryuuji「Oh, yeah, that sounds about right......＿Holy shit......」"
+msgstr "Ryuuji「Ah, sí, eso tiene sentido......＿Maldita sea......」"
+
+msgid "Yasuko「......Hmm? Whaa? Then who did＿Ryuu-chan think Yacchan was? His big＿sister?」"
+msgstr "Yasuko「......¿Mmm? ¿Eh? ¿Entonces quién＿creía Ryuu-chan que era Yacchan?＿¿Su hermana mayor?」"
+
+msgid "Ryuuji「L-Let's just drop it!」"
+msgstr "Ryuuji「¡D-Dejemos el tema!」"
+
+msgid "Yasuko「Ryuu-chan?」"
+msgstr "Yasuko「¿Ryuu-chan?」"
+
+msgid "Ryuuji「Now, let's head back home, Mom.」"
+msgstr "Ryuuji「Bueno, volvamos a casa, mamá.」"
+
+msgid "Yasuko「Stop thaaat～ You have to say Yasuko,＿not mom～」"
+msgstr "Yasuko「Basta de esooo～ Tienes que＿decir Yasuko, no mamá～」"
+
+msgid "Ryuuji「Uhhh...... Is this the way to our house?」"
+msgstr "Ryuuji「Ehhh...... ¿Por aquí vamos a casa?」"
+
+msgid "Ryuuji「（Goddamnit! Any holes around here!?＿Shall I dig one!? Shall I go ahead and＿dig myself one!?）」"
+msgstr "Ryuuji「（¡Maldita sea! ¡¿No hay algún agujero＿por aquí?! ¡¿Cavo uno?! ¡¿Me pongo＿a cavar uno ahora mismo?!）」"
+
+msgid "Yasuko「Ryuu-chan～ Don't just walk offff～」"
+msgstr "Yasuko「Ryuu-chan～ No te vayas asííí～」"
+
+msgid "Ryuuji「It's dark and I can't really see where I'm＿walking...... Whoa!」"
+msgstr "Ryuuji「Está oscuro y no veo bien por＿dónde camino...... ¡Uah!」"
+
+msgid "Ryuuji「AAAAAAAHHHH!!」"
+msgstr "Ryuuji「¡¡AAAAAAAHHHH!!」"
+
+msgid "Yasuko「RYUU-CHAAAAAAAAN!」"
+msgstr "Yasuko「¡RYUU-CHAAAAAAAAN!」"
+
+msgid "???「......chan......? Ryuu-chan......?」"
+msgstr "???「......¿chan......? ¿Ryuu-chan......?」"
+
+msgid "Ryuuji「（It's...... Yasuko's voice......?）」"
+msgstr "Ryuuji「（¿Es...... la voz de Yasuko......?）」"
+
+msgid "Yasuko「Oh! Ryuu-chan woke up! Thank＿goodness～～」"
+msgstr "Yasuko「¡Ah! ¡Ryuu-chan despertó! Menos mal～～」"
+
+msgid "Ryuuji「Is this...... the hospital?」"
+msgstr "Ryuuji「¿Esto es...... el hospital?」"
+
+msgid "Yasuko「That's righttt. You've been＿unconscious since yesterdayyy.」"
+msgstr "Yasuko「Así eees. Has estado inconsciente＿desde ayeeer.」"
+
+msgid "Ryuuji「......That's right! As I recall, on our way＿home from the observatory......」"
+msgstr "Ryuuji「......¡Es cierto! Recuerdo que, al＿volver a casa desde el mirador......」"
+
+msgid "Yasuko「Ryuu-chan, you took quite a tumble.＿Yacchan was shocked～」"
+msgstr "Yasuko「Ryuu-chan, te diste una buena caída.＿Yacchan se llevó un gran susto～」"
+
+msgid "Ryuuji「I tripped on a rock and fell......」"
+msgstr "Ryuuji「Tropecé con una piedra y me caí......」"
+
+msgid "Yasuko「Yacchan shook you, but Ryuu-chan＿wouldn't wake up～ so Yacchan called＿an ambulance faaast.」"
+msgstr "Yasuko「Yacchan te sacudió, pero Ryuu-chan＿no despertaba～ así que Yacchan llamó＿rápidooo a una ambulancia.」"
+
+msgid "Ryuuji「I see...... Sorry for causing trouble.」"
+msgstr "Ryuuji「Ya veo...... Perdón por las molestias.」"
+
+msgid "Yasuko「How do you feel? The doctor said you＿were barely even injured, but......」"
+msgstr "Yasuko「¿Cómo te sientes? El doctor dijo que＿apenas te habías lastimado, pero......」"
+
+msgid "Ryuuji「......It doesn't hurt anywhere in＿particular. I think I'm alright.」"
+msgstr "Ryuuji「......No me duele nada en particular.＿Creo que estoy bien.」"
+
+msgid "Yasuko「*Sigh*～ Yacchan was so worrieddd～＿The employees here were asking \"Did＿something happen AGAIN?\"」"
+msgstr "Yasuko「*Suspiro*～ Yacchan estaba tan＿preocupadaaa～ El personal de aquí＿preguntaba \"¿Pasó algo OTRA VEZ?\"」"
+
+msgid "Ryuuji「Seems I've been nothing but a handful＿these days.」"
+msgstr "Ryuuji「Parece que no he dado más que＿problemas estos días.」"
+
+msgid "Yasuko「But really, thank goodness＿Ryuu-chan's just fine.」"
+msgstr "Yasuko「Pero de verdad, menos mal＿que Ryuu-chan está bien.」"
+
+msgid "Ryuuji「Yeah............ Huh?」"
+msgstr "Ryuuji「Sí............ ¿Eh?」"
+
+msgid "Yasuko「Hmm? What's wronggg? Did the pain＿hit youuu?」"
+msgstr "Yasuko「¿Mmm? ¿Qué pasaaa? ¿Te empezó a doleeer?」"
+
+msgid "Ryuuji「No, that's not it...... I had amnesia, didn't＿I?」"
+msgstr "Ryuuji「No, no es eso...... Tenía＿amnesia, ¿verdad?」"
+
+msgid "Yasuko「Yeah, and?」"
+msgstr "Yasuko「Sí, ¿y?」"
+
+msgid "Ryuuji「I think my memories are back......」"
+msgstr "Ryuuji「Creo que recuperé la memoria......」"
+
+msgid "Yasuko「R-Really!?」"
+msgstr "Yasuko「¡¿D-De verdad?!」"
+
+msgid "Ryuuji「I think...... I can remember everything＿that happened before the amnesia.」"
+msgstr "Ryuuji「Creo que...... puedo recordar todo＿lo que pasó antes de la amnesia.」"
+
+msgid "Yasuko「Let's see...... Wanna try talking about＿Yacchan?」"
+msgstr "Yasuko「A ver...... ¿Quieres intentar＿hablar sobre Yacchan?」"
+
+msgid "Ryuuji「Takasu Yasuko, my mother and＿proprietress of a hostess bar.」"
+msgstr "Ryuuji「Takasu Yasuko, mi madre y encargada＿de un bar de acompañantes.」"
+
+msgid "Yasuko「You had already remembered those＿thingsss～」"
+msgstr "Yasuko「Esas cosas ya las habías recordadooo～」"
+
+msgid "Ryuuji「Oh yeah...... Oh, then how about this? In＿your third year of middle school, you＿scored a 17 in math class.」"
+msgstr "Ryuuji「Ah, sí...... Entonces, ¿qué tal esto?＿En tercero de secundaria sacaste un＿17 en la clase de matemáticas.」"
+
+msgid "Yasuko「That's right～! And that's something＿only Ryuu-chan would knooow.」"
+msgstr "Yasuko「¡Así es～! Y eso es algo que＿solo Ryuu-chan sabrííía.」"
+
+msgid "Ryuuji「Well, that's not something you should＿really go around telling people.」"
+msgstr "Ryuuji「Bueno, no es algo que deberías＿ir contándole a la gente.」"
+
+msgid "Yasuko「Anything else? Wanna try talking＿about something else?」"
+msgstr "Yasuko「¿Algo más? ¿Quieres intentar＿hablar de alguna otra cosa?」"
+
+msgid "Yasuko「It's all true～! Ryuu-chan, your＿amnesia's goneee!」"
+msgstr "Yasuko「¡Todo es cierto～! ¡Ryuu-chan,＿tu amnesia desaparecióóó!」"
+
+msgid "Ryuuji「Yeah.」"
+msgstr "Ryuuji「Sí.」"
+
+msgid "Ryuuji「（And I clearly remember my amnesiac＿shenanigans...... Yeah......）」"
+msgstr "Ryuuji「（Y recuerdo claramente mis disparates＿durante la amnesia...... Sí......）」"
+
+msgid "Yasuko「Ryuu-chan? Is something wronggg?」"
+msgstr "Yasuko「¿Ryuu-chan? ¿Pasa algooo?」"
+
+msgid "Ryuuji「Oh...... No, it's nothing.」"
+msgstr "Ryuuji「Ah...... No, no es nada.」"
+
+msgid "Ryuuji「（My memories are back, but now it's too＿late to be able to do anything......）」"
+msgstr "Ryuuji「（Recuperé mis recuerdos, pero ya es muy＿tarde para poder hacer algo......）」"
+
+msgid "Yasuko「But why did the memories return all of＿a sudden～?」"
+msgstr "Yasuko「¿Pero por qué volvieron tus＿recuerdos tan de repente～?」"
+
+msgid "Ryuuji「Maybe because I hit my head at some＿point after tripping and falling.」"
+msgstr "Ryuuji「Tal vez porque me golpeé la cabeza en＿algún momento al tropezar y caer.」"
+
+msgid "Yasuko「Maybeee～ In that case, we should＿have hit you much soonerrr.」"
+msgstr "Yasuko「Tal veeez～ En ese caso, deberíamos＿haberte golpeado mucho anteees.」"
+
+msgid "Ryuuji「That...... would probably not have been＿the best solution.」"
+msgstr "Ryuuji「Esa...... probablemente no habría＿sido la mejor solución.」"
+
+msgid "Yasuko「Oh, that's ittt～! Today we gotta throw＿a \"Yay, Ryuu-chan's Memories＿Returned\" Party～」"
+msgstr "Yasuko「¡Ah, eso eees～! Hoy tenemos que hacer＿una fiesta de \"¡Bien, volvieron los＿recuerdos de Ryuu-chan!\"～」"
+
+msgid "Ryuuji「No, I couldn't ask that of you. I caused＿you a ton of trouble while I had＿amnesia.」"
+msgstr "Ryuuji「No, no podría pedirte eso. Te＿causé un montón de problemas＿mientras tenía amnesia.」"
+
+msgid "Yasuko「Then let's have a \"Yacchan Put Up＿With Ryuu-chan's Amnesia\" Party～」"
+msgstr "Yasuko「Entonces hagamos una fiesta de \"Yacchan＿aguantó la amnesia de Ryuu-chan\"～」"
+
+msgid "Ryuuji「Excuse me?」"
+msgstr "Ryuuji「¿Disculpa?」"
+
+msgid "Yasuko「Ryuu-chan can hold it in Yacchan's＿honor～ Make a big feast, 'kay?」"
+msgstr "Yasuko「Ryuu-chan puede organizarla en honor a＿Yacchan～ Haz un gran banquete, ¿sí?」"
+
+msgid "Ryuuji「......Guess I'm not getting out of it. What＿do you want to eat?」"
+msgstr "Ryuuji「......Supongo que no me salvaré＿de esta. ¿Qué quieres comer?」"
+
+msgid "Yasuko「Yaaay! Yacchan wants eel!」"
+msgstr "Yasuko「¡Bieeen! ¡Yacchan quiere anguila!」"
+
+msgid "Ryuuji「I'll make an exception just for today.」"
+msgstr "Ryuuji「Haré una excepción solo por hoy.」"
+
+msgid "Yasuko「Ehehe, thank you. Ryuu-chan is＿Yacchan's faaavorite～①」"
+msgstr "Yasuko「Ejeje, gracias. Ryuu-chan es＿el favoriiito de Yacchan～①」"
+
+msgid "Ryuuji「――And so, I was somehow able to＿regain my memories.」"
+msgstr "Ryuuji「――Y así, de alguna manera logré＿recuperar mis recuerdos.」"
+
+msgid "Ryuuji「......No, I have to tell myself that. Take＿my word for it, please.」"
+msgstr "Ryuuji「......No, tengo que convencerme＿de eso. Créanme, por favor.」"
+
+msgid "Yasuko「Since we're having eel, Taiga-chan＿should come over and have someee.」"
+msgstr "Yasuko「Ya que vamos a comer anguila, Taiga-chan＿debería venir a comer un pocooo.」"
+
+msgid "Ryuuji「......Well, I'm sure she'll turn up out of＿the blue.」"
+msgstr "Ryuuji「......Bueno, seguro aparecerá＿cuando menos lo esperemos.」"
+
+msgid "Ryuuji「I don't know why Taiga's avoiding me.＿She's probably just sulking a bit.」"
+msgstr "Ryuuji「No sé por qué Taiga me evita. Seguro＿solo está un poco enfurruñada.」"
+
+msgid "Yasuko「SUPER tastyyy～ Ryuu-chan, be sure＿to keep making tons of tasty food for＿Yacchan this year.」"
+msgstr "Yasuko「SÚPER ricooo～ Ryuu-chan, asegúrate＿de seguir preparando mucha comida＿rica para Yacchan este año.」"
+
+msgid "Ryuuji「Sure thing. I'm gonna make something＿tasty every day.」"
+msgstr "Ryuuji「Por supuesto. Voy a preparar＿algo rico todos los días.」"
+
+msgid "Ryuuji「Above all, those peaceful days had＿returned――」"
+msgstr "Ryuuji「Ante todo, esos días tranquilos＿habían regresado――」"
+
+msgid "Yuri「Hello. First of all, perhaps I should＿thank you for your hard work,＿Takasu-kun.」"
+msgstr "Yuri「Hola. Antes que nada, quizá＿debería agradecerte por tu arduo＿trabajo, Takasu-kun.」"
+
+msgid "Yuri「Now that you got this ending, the＿reason I brought you here......」"
+msgstr "Yuri「Ahora que obtuviste este final, la razón＿por la que te traje aquí......」"
+
+msgid "Yuri「......is none other than to discuss the＿route you chose. I thought we could＿ponder it together.」"
+msgstr "Yuri「......no es otra que hablar sobre la＿ruta que elegiste. Pensé que podríamos＿reflexionar al respecto juntos.」"
+
+msgid "Yuri「Well then, let's evaluate the ending you＿just saw.」"
+msgstr "Yuri「Bien, evaluemos el final＿que acabas de ver.」"
+
+msgid "Yuri「Welcome, Takasu-kun.」"
+msgstr "Yuri「Bienvenido, Takasu-kun.」"
+
+msgid "Yuri「Well then, let's begin to evaluate the＿ending you just saw.」"
+msgstr "Yuri「Bien, empecemos a evaluar el＿final que acabas de ver.」"
+
+msgid "Yuri「Let's see, this ending was spent with＿your mother. I'm glad you were able to＿remember everything about her.」"
+msgstr "Yuri「A ver, este final lo pasaste con＿tu madre. Me alegra que hayas podido＿recordar todo sobre ella.」"
+
+msgid "Yuri「When you're always with your eternally＿young and beautiful mother, it must be＿quite the struggle as her son～」"
+msgstr "Yuri「Estar siempre con tu madre, eternamente＿joven y hermosa, debe de ser toda＿una lucha como hijo～」"
+
+msgid "Yuri「But you know, boys have to leave the＿nest sooner or later, so you can't just＿be a mama's boy.」"
+msgstr "Yuri「Pero sabes, los chicos tienen que dejar＿el nido tarde o temprano, así que no＿puedes ser solo un niño de mamá.」"
+
+msgid "Yuri「Also, you can't give up halfway on＿something you've only tried once! You＿gotta see things through to the end.」"
+msgstr "Yuri「¡Además, no puedes rendirte a mitad de＿camino en algo que solo intentaste una＿vez! Debes llegar hasta el final.」"
+
+msgid "Yuri「Now then. If I were to grade this＿ending, I guess I'd give it 80 points.＿Take good care of your mother.」"
+msgstr "Yuri「Ahora bien. Si tuviera que calificar＿este final, supongo que le daría 80＿puntos. Cuida bien a tu madre.」"
+
+msgid "Yuri「Okay, that's all for today. Until next＿time!」"
+msgstr "Yuri「Bueno, eso es todo por hoy.＿¡Hasta la próxima!」"
+
+msgid "『Music』 is now available in 『Extra』"
+msgstr "『Música』 ya está disponible en 『Extra』"
+
+msgid "『Album』 is now available in 『Extra』"
+msgstr "『Álbum』 ya está disponible en 『Extra』"
+
+msgid "Yasuko「Alsooo, when Yacchan realized＿Ryuu-chan's still himself, she felt so＿much betterrr.」"
+msgstr "Yasuko「Ademááás, cuando Yacchan vio que＿Ryuu-chan seguía siendo el mismo,＿se sintió mucho mejoooor.」"
+
+msgid "Yasuko「Even without your memories,＿Ryuu-chan sure is kinddd.」"
+msgstr "Yasuko「Incluso sin tus recuerdos, Ryuu-chan＿sí que es amableee.」"
+
+msgid "Ryuuji「（I see...... Before I lost my memory,＿Yasuko was probably my...... So that's＿why I was in such a desperate rush......）」"
+msgstr "Ryuuji「（Ya veo...... Antes de perder la＿memoria, Yasuko seguro era mi......＿Por eso corrí tan desesperado......）」"
+
+msgid "Ryuuji「（Even when my brain forgot, my body＿still remembered......）」"
+msgstr "Ryuuji「（Aunque mi cerebro lo olvidó, mi＿cuerpo aún lo recordaba......）」"
+
+msgid "Ryuuji「（Hm? For some reason, my instincts＿are putting on the brakes, but...... If I＿don't say it, my feelings won't reach）」"
+msgstr "Ryuuji「（¿Mm? Mi instinto me frena, pero......＿¡¡Si no lo digo, mis sentimientos＿no llegarán a）」"
+
+msgid "Ryuuji「（her!!）」"
+msgstr "Ryuuji「（ella!!）」"
+
+msgid "Ryuuji「（I'll say it! I'm saying it!!）」"
+msgstr "Ryuuji「（¡Lo diré! ¡¡Lo voy a decir!!）」"
+
+msgid "Ryuuji「（Fuck, I had butterflies in my stomach＿for my own mom! To the point that I＿nearly confessed my love to her!）」"
+msgstr "Ryuuji「（¡Mierda, sentí mariposas en el estómago＿por mi propia mamá! ¡Tanto que casi＿le confieso mi amor!）」"
+
+msgid "Ryuuji「（I want to crawl in a hole and die!!）」"
+msgstr "Ryuuji「（¡¡Quiero entrar en un hoyo y morir!!）」"
+
+msgid "Ryuuji「You drink soy milk every day to make＿your chest bigger. You say you're＿eternally 23, but you're really 33.」"
+msgstr "Ryuuji「Tomas leche de soya a diario para que te＿crezca el pecho. Dices tener 23 eternos＿años, pero en realidad tienes 33.」"
+
+msgid "Ryuuji「You got pregnant in high school and＿dropped out to keep me.」"
+msgstr "Ryuuji「Te embarazaste en la preparatoria y＿dejaste los estudios para tenerme.」"
+
+msgid "Ryuuji「While amnesiac, I regretfully ended up＿harboring weird feelings for my own＿mother.」"
+msgstr "Ryuuji「Mientras tenía amnesia, por desgracia＿terminé albergando sentimientos extraños＿por mi propia madre.」"
+
+msgid "Ryuuji「But I decided to tell myself I had＿mistaken parental love for romantic＿love.」"
+msgstr "Ryuuji「Pero decidí convencerme de que＿había confundido el amor filial＿con amor romántico.」"
+
+msgid "Ryuuji「For me, a lot of issues had to be left＿unresolved, but...... Well, I'll start＿getting depressed if I'm not careful.」"
+msgstr "Ryuuji「Para mí, muchos asuntos quedaron sin＿resolver, pero...... Bueno, empezaré＿a deprimirme si no tengo cuidado.」"
+
+msgid "Ryuuji「What's important right now is the eel＿right in front of me!」"
+msgstr "Ryuuji「¡Lo importante ahora mismo es la＿anguila que tengo enfrente!」"
+
+msgid "Ryuuji「......Is it tasty? It's out of season right＿now, but I went ahead and splurged on＿it.」"
+msgstr "Ryuuji「......¿Está rica? Ahora no es temporada,＿pero me di el lujo de comprarla.」"
+
+msgid "Ryuuji「Though I only just managed to snag it＿during the limited-time offer.」"
+msgstr "Ryuuji「Aunque apenas logré conseguirla durante＿la oferta por tiempo limitado.」"
+
+msgid "Yuri「I'll come and see you every time you＿reach an ending.」"
+msgstr "Yuri「Vendré a verte cada vez que＿llegues a un final.」"
+
+msgid "Yuri「I want you to reflect on the actions you＿made this time and keep them in mind＿for next time.」"
+msgstr "Yuri「Quiero que reflexiones sobre las＿decisiones que tomaste esta vez y las＿tengas en cuenta para la próxima.」"
+
+msgid "Yuri「Seems like things were on the verge of＿getting dangerous partway through,＿but......」"
+msgstr "Yuri「Parece que las cosas estuvieron＿a punto de ponerse peligrosas a＿mitad de camino, pero......」"
+
+msgid "Yuri「Well, since you didn't make that＿mistake, I suppose it's fine.」"
+msgstr "Yuri「Bueno, como no cometiste ese error,＿supongo que está bien.」"

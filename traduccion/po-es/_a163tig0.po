@@ -1,0 +1,227 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「（I'm such an idiot. Like you said, I'm a＿worthless mongrel......）」"
+msgstr "Ryuuji「（Soy un idiota. Como dijiste,＿soy un perro inútil......）」"
+
+msgid "Ryuuji「Taiga!」"
+msgstr "Ryuuji「¡Taiga!」"
+
+msgid "Taiga「Let go of me!」"
+msgstr "Taiga「¡Suéltame!」"
+
+msgid "Ryuuji「I'm not letting go!」"
+msgstr "Ryuuji「¡No te voy a soltar!」"
+
+msgid "Taiga「LET GO!」"
+msgstr "Taiga「¡SUÉLTAME!」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Taiga「......」"
+msgstr "Taiga「......」"
+
+msgid "Ryuuji「I'm sorry.」"
+msgstr "Ryuuji「Lo siento.」"
+
+msgid "Taiga「\"Sorry\" for what? \"Sorry for inviting＿you to help us\"? \"Sorry I forgot that＿you love Kitamura\"?」"
+msgstr "Taiga「¿\"Lo siento\" por qué? ¿\"Perdón por＿invitarte a ayudarnos\"? ¿\"Perdón por＿olvidar que amas a Kitamura\"?」"
+
+msgid "Ryuuji「Yeah, that's right.」"
+msgstr "Ryuuji「Sí, así es.」"
+
+msgid "Taiga「That, that......!」"
+msgstr "Taiga「¡Eso, eso......!」"
+
+msgid "Ryuuji「Why would you work so hard!? What＿happened to your feelings, then!?」"
+msgstr "Ryuuji「¡¿Por qué te esforzarías tanto?! ¡¿Qué＿pasó con tus sentimientos, entonces?!」"
+
+msgid "Kitamura「Well, for Aisaka, there's something＿even worse than me dating the Prez,＿right?」"
+msgstr "Kitamura「Bueno, para Aisaka hay algo incluso＿peor que el que yo salga con la＿Presidenta, ¿verdad?」"
+
+msgid "Taiga「......!」"
+msgstr "Taiga「......!」"
+
+msgid "Ryuuji「Kitamura! Kanou-senpai...... Why are＿you here?」"
+msgstr "Ryuuji「¡Kitamura! Kanou-senpai......＿¿Por qué están aquí?」"
+
+msgid "Kitamura「The Prez and myself were rather＿uneasy in close quarters. I thought we＿might stop by the diner and talk.」"
+msgstr "Kitamura「La Presidenta y yo estábamos algo＿incómodos sentados tan juntos. Pensé＿en ir a la cafetería a hablar.」"
+
+msgid "Sumire「You idiots, you stand out too much.＿Don't have a lover's spat in public.」"
+msgstr "Sumire「Idiotas, llaman demasiado la＿atención. No tengan una pelea＿de enamorados en público.」"
+
+msgid "Ryuuji「This isn't a lover's......」"
+msgstr "Ryuuji「Esto no es una pelea de......」"
+
+msgid "Taiga「......Ryuuji, let me go. I'm going home.」"
+msgstr "Taiga「......Ryuuji, suéltame. Me voy a casa.」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Taiga「I said let me GO!」"
+msgstr "Taiga「¡Dije que me SUELTES!」"
+
+msgid "Ryuuji「Hey......!」"
+msgstr "Ryuuji「¡Oye......!」"
+
+msgid "Sumire「Let her go.」"
+msgstr "Sumire「Suéltala.」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Sumire「You look miserable.」"
+msgstr "Sumire「Te ves miserable.」"
+
+msgid "Ryuuji「Gee, thanks.」"
+msgstr "Ryuuji「Vaya, gracias.」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Kitamura「I talked to Aisaka about a lot of things＿at the planetarium. She told me all＿about your little conspiracy.」"
+msgstr "Kitamura「Hablé de muchas cosas con Aisaka＿en el planetario. Me contó todo sobre＿su pequeña conspiración.」"
+
+msgid "Ryuuji「I'm sorry......」"
+msgstr "Ryuuji「Lo siento......」"
+
+msgid "Kitamura「After she explained everything, Aisaka＿told me something.」"
+msgstr "Kitamura「Luego de explicarlo todo,＿Aisaka me dijo algo.」"
+
+msgid "Kitamura「\"I want you to be happy with the＿person you love, Kitamura-kun.\"」"
+msgstr "Kitamura「\"Quiero que seas feliz con la persona＿que amas, Kitamura-kun\".」"
+
+msgid "Kitamura「\"That's why I took part in this,\" she＿said.」"
+msgstr "Kitamura「\"Por eso participé en esto\", me dijo.」"
+
+msgid "Ryuuji「......What does that mean?」"
+msgstr "Ryuuji「......¿Qué significa eso?」"
+
+msgid "Kitamura「What do you think it means?」"
+msgstr "Kitamura「¿Tú qué crees que significa?」"
+
+msgid "Ryuuji「Taiga had given up on you from the＿start? Taiga couldn't be happy with＿you?」"
+msgstr "Ryuuji「¿Que Taiga se había rendido contigo＿desde el principio? ¿Que Taiga no＿podría ser feliz contigo?」"
+
+msgid "Ami「You're such a moron.」"
+msgstr "Ami「Eres tan idiota.」"
+
+msgid "Ami「Is that what you really think? You're＿with Tiger all the time and yet you＿don't understand?」"
+msgstr "Ami「¿De verdad piensas eso? ¿Estás＿todo el tiempo con Tigre y aun＿así no lo entiendes?」"
+
+msgid "Ryuuji「Kawashima......」"
+msgstr "Ryuuji「Kawashima......」"
+
+msgid "Ami「Why so startled? I've been behind you＿guys the whole time.」"
+msgstr "Ami「¿Por qué tan sorprendido? Estuve detrás＿de ustedes todo el tiempo.」"
+
+msgid "Ami「You and Tiger suddenly left, so I went＿after you, duh. Didn't you notice?」"
+msgstr "Ami「Tigre y tú se fueron de golpe,＿así que los seguí, obvio. ¿No＿te diste cuenta?」"
+
+msgid "Sumire「Kawashima. It's not your place to say＿anything more.」"
+msgstr "Sumire「Kawashima. No te corresponde＿decir nada más.」"
+
+msgid "Ami「............」"
+msgstr "Ami「............」"
+
+msgid "Ryuuji「Kawashima?」"
+msgstr "Ryuuji「¿Kawashima?」"
+
+msgid "Ami「......It's nothing. I'm going home!」"
+msgstr "Ami「......No es nada. ¡Me voy a casa!」"
+
+msgid "Ryuuji「ARRRRGH, I don't get it at all! Every＿last one of you stops halfway through＿your fucking rants!」"
+msgstr "Ryuuji「¡ARRRRGH, no entiendo nada! ¡Todos＿y cada uno se quedan a la mitad＿de sus malditos discursos!」"
+
+msgid "Kitamura「Takasu, whenever you feel like you＿know everything about Aisaka, you＿always tend to overestimate things.」"
+msgstr "Kitamura「Takasu, cada vez que sientes que sabes＿todo sobre Aisaka, siempre tiendes＿a sobrestimar las cosas.」"
+
+msgid "Ryuuji「That ain't how I feel. You trying to pick＿a fight?」"
+msgstr "Ryuuji「No siento eso para nada.＿¿Estás buscando pelea?」"
+
+msgid "Kitamura「I'm glad you don't feel that way. Right＿now, I can understand her better.」"
+msgstr "Kitamura「Me alegra que no lo sientas así. Ahora＿mismo, yo puedo entenderla mejor.」"
+
+msgid "Ryuuji「Wha......!?」"
+msgstr "Ryuuji「¡¿Qué......?!」"
+
+msgid "Ryuuji「Restraints......?」"
+msgstr "Ryuuji「¿Ataduras......?」"
+
+msgid "Kitamura「Having forgotten those restraints,＿perhaps you will save her.」"
+msgstr "Kitamura「Al haber olvidado esas ataduras,＿quizá logres salvarla.」"
+
+msgid "Sumire「Kitamura, stop right there. Anything＿you say will just confuse Takasu right＿now.」"
+msgstr "Sumire「Kitamura, detente ahí. Cualquier＿cosa que digas solo confundirá＿a Takasu ahora mismo.」"
+
+msgid "Sumire「Takasu, compose yourself, then try to＿think it over.」"
+msgstr "Sumire「Takasu, serénate y luego＿intenta pensarlo bien.」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Sumire「Let's go, Kitamura.」"
+msgstr "Sumire「Vámonos, Kitamura.」"
+
+msgid "Kitamura「......Right.」"
+msgstr "Kitamura「......De acuerdo.」"
+
+msgid "Ryuuji「（I......?）」"
+msgstr "Ryuuji「（¿Yo......?）」"
+
+msgid "Taiga「What pisses me off the most is, the＿moment you remembered, you decided＿to give up on the very plan that we」"
+msgstr "Taiga「¡Lo que más me enfurece es que, en＿el momento en que recordaste, decidiste＿abandonar el mismo plan que」"
+
+msgid "Taiga「devised for Kitamura's sake!」"
+msgstr "Taiga「ideamos por el bien de Kitamura!」"
+
+msgid "Taiga「I--! I really wanted things to go well for＿Kitamura-kun and Kanou Sumire!＿That's why I went through all that」"
+msgstr "Taiga「¡Yo--! ¡De verdad quería que les fuera＿bien a Kitamura-kun y a Kanou Sumire!＿¡Por eso hice todo ese」"
+
+msgid "Taiga「effort!」"
+msgstr "Taiga「esfuerzo!」"
+
+msgid "Sumire「Doesn't matter. Act all lovey-dovey in＿the station square and people will＿start to talk. Put yourself in our fuckin'」"
+msgstr "Sumire「Da igual. Si se ponen melosos en la＿plaza de la estación, la gente hablará.＿¡Piensa de una maldita vez en nuestra」"
+
+msgid "Sumire「shoes for once.」"
+msgstr "Sumire「situación!」"
+
+msgid "Sumire「For someone who gets involved with＿other people's lives, you look＿altogether useless when it comes to」"
+msgstr "Sumire「Para alguien que se mete en la vida＿de los demás, te ves completamente＿inútil cuando se trata de」"
+
+msgid "Sumire「your own dilemmas.」"
+msgstr "Sumire「tus propios dilemas.」"
+
+msgid "Kitamura「She was reluctant at first, but I'm glad＿she talked to me. Running into Prez in＿a place like that could have given me a」"
+msgstr "Kitamura「Al principio dudó, pero me alegra que me＿hablara. Ver a la Presidenta en un lugar＿así pudo darme un」"
+
+msgid "Kitamura「heart attack. You trying to kill me?」"
+msgstr "Kitamura「infarto. ¿Intentas matarme?」"
+
+msgid "Ami「......the hell? So this is how you are. You＿put Tiger's feelings first and foremost,＿while she says \"Yuusaku this\" and」"
+msgstr "Ami「......¿qué diablos? Así eres tú. Pones＿los sentimientos de Tigre ante todo,＿mientras ella dice \"Yuusaku esto\" y」"
+
+msgid "Ami「\"Yuusaku that,\" but in the end--」"
+msgstr "Ami「\"Yuusaku aquello\", pero al final--」"
+
+msgid "Ami「I knew this would happen. I'm back to＿square one. How many times have I＿tried to rebuild relationships and find」"
+msgstr "Ami「Sabía que esto pasaría. Volví al punto＿de partida. ¿Cuántas veces he intentado＿rehacer relaciones y encontrar」"
+
+msgid "Ami「where I belong......?」"
+msgstr "Ami「el lugar al que pertenezco......?」"
+
+msgid "Kitamura「Right now, something is undoubtedly＿changing inside Aisaka. But as for＿whether she can accept that」"
+msgstr "Kitamura「Ahora mismo, sin duda algo cambia dentro＿de Aisaka. Pero en cuanto a si podrá＿aceptar ese」"
+
+msgid "Kitamura「change...... She has too many＿restraints.」"
+msgstr "Kitamura「cambio...... Tiene demasiadas ataduras.」"
+
+msgid "Ryuuji「（Restraints? Think it over? Think＿WHAT over? Taiga likes Kitamura,＿right? Kitamura likes Kanou-senpai,）」"
+msgstr "Ryuuji「（¿Ataduras? ¿Pensarlo? ¿Pensar QUÉ? A＿Taiga le gusta Kitamura, ¿verdad? A＿Kitamura le gusta Kanou-senpai,）」"
+
+msgid "Ryuuji「（and I......）」"
+msgstr "Ryuuji「（y yo......）」"

@@ -1,0 +1,197 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「Yo, Kawashima.」"
+msgstr "Ryuuji「Hola, Kawashima.」"
+
+msgid "Ami「......Oh, it's you, Takasu-kun.」"
+msgstr "Ami「......Ah, eres tú, Takasu-kun.」"
+
+msgid "Ryuuji「Quite a greeting that was.」"
+msgstr "Ryuuji「Vaya saludo fue ese.」"
+
+msgid "Ami「I wasn't trying to offend you...... Well?＿Has your memory returned at all?」"
+msgstr "Ami「No intentaba ofenderte...... ¿Y bien?＿¿Ha vuelto algo de tu memoria?」"
+
+msgid "Ryuuji「Are you worried for my sake?」"
+msgstr "Ryuuji「¿Te preocupas por mí?」"
+
+msgid "Ryuuji「Yeah, I figured it was something like＿that...... And yeah, it's pretty meh.」"
+msgstr "Ryuuji「Sí, me imaginé que era algo así......＿Y sí, ahí va, más o menos.」"
+
+msgid "Ami「Hmmm～」"
+msgstr "Ami「Mmmm～」"
+
+msgid "Ryuuji「What about you? What are you doing＿here?」"
+msgstr "Ryuuji「¿Y tú? ¿Qué estás haciendo aquí?」"
+
+msgid "Ami「Whaaat? Are you, like, interested in＿me～?」"
+msgstr "Ami「¿Quéee? ¿Acaso estás interesado en mí～?」"
+
+msgid "Ryuuji「I'm being polite.」"
+msgstr "Ryuuji「Solo soy educado.」"
+
+msgid "Ami「Oh, I see. Well, to answer you, I'm on my＿way to the gym.」"
+msgstr "Ami「Ah, ya veo. Bueno, para responderte,＿voy camino al gimnasio.」"
+
+msgid "Ryuuji「Hmmm～」"
+msgstr "Ryuuji「Mmmm～」"
+
+msgid "Ami「......What are you doing? You copying＿me?」"
+msgstr "Ami「......¿Qué haces? ¿Me estás copiando?」"
+
+msgid "Ryuuji「Me? What put this idea into your＿head?」"
+msgstr "Ryuuji「¿Yo? ¿Qué te metió esa＿idea en la cabeza?」"
+
+msgid "Ryuuji「No chance in hell...... Wait, you saw＿them too?」"
+msgstr "Ryuuji「Ni de broma...... Espera,＿¿tú también los viste?」"
+
+msgid "Ryuuji「No chance in hell...... Wait, Taiga and＿Kitamura?」"
+msgstr "Ryuuji「Ni de broma...... Espera,＿¿Taiga y Kitamura?」"
+
+msgid "Ryuuji「Who cares?」"
+msgstr "Ryuuji「¿A quién le importa?」"
+
+msgid "Ami「You jelly?」"
+msgstr "Ami「¿Estás celoso?」"
+
+msgid "Ryuuji「As if.」"
+msgstr "Ryuuji「Ni hablar.」"
+
+msgid "Ryuuji「Pfft...... Haha!」"
+msgstr "Ryuuji「Pfft...... ¡Jaja!」"
+
+msgid "Ami「......What?」"
+msgstr "Ami「......¿Qué?」"
+
+msgid "Ryuuji「It's just, Kitamura said something＿along those lines before.」"
+msgstr "Ryuuji「Es solo que Kitamura dijo＿algo parecido antes.」"
+
+msgid "Ami「Yuusaku?」"
+msgstr "Ami「¿Yuusaku?」"
+
+msgid "Ryuuji「\"Move your body until your mind goes＿blank.\" Though it'd be \"until your heart＿goes black\" in your case.」"
+msgstr "Ryuuji「\"Mueve el cuerpo hasta dejar la mente en＿blanco.\" Aunque en tu caso sería \"hasta＿que tu corazón se vuelva negro\".」"
+
+msgid "Ami「Heyyy......」"
+msgstr "Ami「Oyeee......」"
+
+msgid "Ryuuji「I guess childhood friends even think＿alike.」"
+msgstr "Ryuuji「Supongo que los amigos de la infancia＿hasta piensan igual.」"
+
+msgid "Ami「Cut it out. I don't want to be compared＿to THAT.」"
+msgstr "Ami「Ya basta. No quiero que＿me comparen con ESO.」"
+
+msgid "Ryuuji「Give it up.」"
+msgstr "Ryuuji「Ríndete.」"
+
+msgid "Ami「I. Don't. Think. So.」"
+msgstr "Ami「No. Lo. Creo.」"
+
+msgid "Ryuuji「I wish it was that easy to remember.」"
+msgstr "Ryuuji「Ojalá fuera así de fácil recordar.」"
+
+msgid "Ami「Oh really.」"
+msgstr "Ami「Ah, en serio.」"
+
+msgid "Ryuuji「Plus, in your case it's less \"until my＿mind goes blank\" and more \"until my＿heart turns black.\"」"
+msgstr "Ryuuji「Además, en tu caso es menos \"hasta dejar＿la mente en blanco\" y más \"hasta que＿mi corazón se vuelva negro\".」"
+
+msgid "Ami「Shut. Your. Pie. Hole.」"
+msgstr "Ami「Cie. Rra. La. Boca.」"
+
+msgid "Ami「More importantly, are you coming or＿not? The train will be here any minute＿now.」"
+msgstr "Ami「Más importante aún, ¿vienes o no? El＿tren estará aquí en cualquier momento.」"
+
+msgid "Ryuuji「Hmm, I don't have any plans--」"
+msgstr "Ryuuji「Mmm, no tengo planes--」"
+
+msgid "Ryuuji「Oh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Ami「......What's the matter?」"
+msgstr "Ami「......¿Qué pasa?」"
+
+msgid "Ryuuji「Hey, any chance I've been to that gym＿before?」"
+msgstr "Ryuuji「Oye, ¿hay alguna posibilidad de que＿ya haya ido antes a ese gimnasio?」"
+
+msgid "Ami「You have, but...... Oh, I see. You＿remembered. You visited with Tiger a＿little while back when she was chubby.」"
+msgstr "Ami「Sí has ido, pero...... Ah, ya veo. Lo＿recordaste. Fuiste con Tigre hace un＿tiempo, cuando estaba gordita.」"
+
+msgid "Ami「Ohh, that sounds like the ladies'＿hangout not too far from here. Yep,＿you remembered correctly.」"
+msgstr "Ami「Ohh, eso suena al punto de reunión＿de chicas no muy lejos de aquí.＿Sí, lo recordaste bien.」"
+
+msgid "Ryuuji「......Oh, and poison-colored people were＿violently dancing beyond a cloudy＿glass window.」"
+msgstr "Ryuuji「......Ah, y gente de colores venenosos＿bailaba con violencia tras un＿cristal empañado.」"
+
+msgid "Ami「That was an aerobics class. As I recall,＿I picked you up and then we danced＿like crazy together.」"
+msgstr "Ami「Era una clase de aeróbicos. Si mal＿no recuerdo, te levanté y luego bailamos＿como locos juntos.」"
+
+msgid "Ryuuji「*Sigh* And then, I felt like I lost＿something important to me...... Ngh.」"
+msgstr "Ryuuji「*Suspiro* Y luego sentí que perdí algo＿importante para mí...... Agh.」"
+
+msgid "Ami「Sounds like you had some bizarre＿trauma. Did you remember a little too＿much?」"
+msgstr "Ami「Suena a que tuviste algún trauma＿raro. ¿Acaso recordaste un poco＿más de la cuenta?」"
+
+msgid "Ryuuji「......Kawashima, I appreciate your offer,＿but I'm gonna pass on the gym.」"
+msgstr "Ryuuji「......Kawashima, agradezco tu oferta,＿pero prefiero no ir al gimnasio.」"
+
+msgid "Ami「Oh, I see. Well, it doesn't really matter＿to me...... Okay, I gotta go.」"
+msgstr "Ami「Ah, ya veo. Bueno, la verdad no me＿importa...... Bien, tengo que irme.」"
+
+msgid "Ryuuji「Oh, see ya.」"
+msgstr "Ryuuji「Ah, nos vemos.」"
+
+msgid "Ami「Not really. It's just polite to ask. O＿great Takasu-sama, how fareth thy＿memory in this harsh cold～? Just」"
+msgstr "Ami「En realidad no. Es cortesía preguntar.＿Oh, gran Takasu-sama, ¿cómo va vuestra＿memoria con este crudo frío～? Es」"
+
+msgid "Ami「kidding.」"
+msgstr "Ami「broma.」"
+
+msgid "Ryuuji「Not really. But frankly, I'm a little＿impressed that you're going to the gym＿first thing in the new year. That's a pro」"
+msgstr "Ryuuji「No mucho. Pero francamente, me＿impresiona un poco que vayas al gimnasio＿apenas empieza el año. Eso es ser toda」"
+
+msgid "Ryuuji「for you.」"
+msgstr "Ryuuji「una profesional.」"
+
+msgid "Ami「Gee, thanks～ I've been on a＿high-calorie diet, and my photo shoot's＿right around the corner, so I gotta」"
+msgstr "Ami「Vaya, gracias～ He estado con una dieta＿alta en calorías y mi sesión de fotos ya＿está a la vuelta de la esquina, así」"
+
+msgid "Ami「whip myself into shape. Wanna come＿with?」"
+msgstr "Ami「que debo ponerme en forma.＿¿Quieres venir conmigo?」"
+
+msgid "Ami「Oh, nothing...... It's just, I saw your pet＿Tiger on a walk with Yuusaku and＿thought to myself, maybe Takasu-kun's」"
+msgstr "Ami「Ah, nada...... Es solo que vi a tu＿mascota Tigre paseando con Yuusaku y＿pensé que tal vez Takasu-kun se sentía」"
+
+msgid "Ami「lonely～」"
+msgstr "Ami「solo～」"
+
+msgid "Ami「See, the kindhearted Ami-chan's＿philanthropic spirit has awakened. It＿wouldn't be a stretch to call me a」"
+msgstr "Ami「Verás, el espíritu filantrópico de la＿bondadosa Ami-chan ha despertado. No＿sería exagerado llamarme toda una」"
+
+msgid "Ami「goddess, you know? So why don't you＿start?」"
+msgstr "Ami「diosa, ¿sabes? Así que＿¿por qué no empiezas?」"
+
+msgid "Ami「Earlier, they were walking along＿cheerfully. I never would have＿predicted something like that would」"
+msgstr "Ami「Hace rato caminaban muy alegres＿juntos. Jamás habría predicho＿que algo así fuera a」"
+
+msgid "Ami「happen...... You jelly?」"
+msgstr "Ami「pasar...... ¿Estás celoso?」"
+
+msgid "Ami「Earlier, they were walking along＿cheerfully. I never would have＿predicted something like that would」"
+msgstr "Ami「Hace rato caminaban muy alegres＿juntos. Jamás habría predicho＿que algo así fuera a」"
+
+msgid "Ami「happen...... I see, so you didn't know＿about it.」"
+msgstr "Ami「pasar...... Ya veo, así＿que no lo sabías.」"
+
+msgid "Ami「Oh, you ① Jealousy makes your mind＿go blank and your body just moves on＿its own, you know. With that kind of」"
+msgstr "Ami「Ay, tú ① Los celos te dejan la mente＿en blanco y tu cuerpo se mueve solo,＿¿sabes? Con esa clase de」"
+
+msgid "Ami「stimulus, your memories would come＿flooding back～」"
+msgstr "Ami「estímulo, tus recuerdos＿volverían de golpe～」"
+
+msgid "Ryuuji「I see. But I have this weird little＿feeling...... The strong smell of perfume＿clogging up my nose, and gaudy colors」"
+msgstr "Ryuuji「Ya veo. Pero tengo una extraña＿sensación...... Un fuerte olor a perfume＿tapándome la nariz, y colores chillones」"
+
+msgid "Ryuuji「flashing......」"
+msgstr "Ryuuji「destellando......」"

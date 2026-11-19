@@ -1,0 +1,17 @@
+msgid ""
+msgstr ""
+
+msgid "Inko-chan「......」"
+msgstr "Inko-chan「......」"
+
+msgid "Ryuuji「That was fast! You passed out in an＿instant, dammit...... What, do you hate＿talking to me that much? Playing」"
+msgstr "Ryuuji「¡Qué rápido! Te dormiste al instante,＿maldición...... ¿Tanto odias hablar＿conmigo? ¿Te haces el」"
+
+msgid "Ryuuji「ostrich?」"
+msgstr "Ryuuji「avestruz?」"
+
+msgid "Ryuuji「（Now then...... For now I'll at least＿prepare some space for me to sleep＿in...... I'm the one that wants to play）」"
+msgstr "Ryuuji「（Bueno...... Por ahora al menos haré＿algo de espacio para dormir...... Soy＿yo el que quiere hacerse el）」"
+
+msgid "Ryuuji「（ostrich......）」"
+msgstr "Ryuuji「（avestruz......）」"

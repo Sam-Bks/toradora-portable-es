@@ -1,0 +1,293 @@
+msgid ""
+msgstr ""
+
+msgid "Minori「Alrighty, one special Taiga yogurt＿parfait, coming right up!」"
+msgstr "Minori「¡Muy bien, un parfait de yogur especial＿Taiga, saliendo de inmediato!」"
+
+msgid "Taiga「Thanks, Minorin. You're busy even＿during the holidays, huh?」"
+msgstr "Taiga「Gracias, Minorin. Estás ocupada＿hasta en vacaciones, ¿eh?」"
+
+msgid "Ryuuji「Are there fewer employees here than＿usual?」"
+msgstr "Ryuuji「¿Hay menos empleados aquí＿que de costumbre?」"
+
+msgid "Minori「You betcha～ The college-age＿part-timers all took time off to go＿home for the holidays.」"
+msgstr "Minori「¡Ya lo creo～! Los universitarios de＿medio tiempo pidieron días libres para＿volver a casa por las fiestas.」"
+
+msgid "Taiga「So your winter break isn't much of a＿break, is it, Minorin?」"
+msgstr "Taiga「Así que tus vacaciones de invierno no＿son de mucho descanso, ¿verdad, Minorin?」"
+
+msgid "Taiga「Oh, okay.」"
+msgstr "Taiga「Ah, está bien.」"
+
+msgid "Ryuuji「......Hey Taiga, shouldn't we leave after＿you eat that?」"
+msgstr "Ryuuji「......Oye, Taiga, ¿no deberíamos＿irnos después de que comas eso?」"
+
+msgid "Taiga「Why?」"
+msgstr "Taiga「¿Por qué?」"
+
+msgid "Ryuuji「\"Why?\"...... Well, it's overcrowded. Look,＿there are people waiting in line to get＿in.」"
+msgstr "Ryuuji「¿\"Por qué\"?...... Bueno, está＿llenísimo. Mira, hay gente haciendo＿fila para entrar.」"
+
+msgid "Ryuuji「Well, I guess that's alright, then.」"
+msgstr "Ryuuji「Bueno, supongo que está bien, entonces.」"
+
+msgid "Ryuuji「Oh...... You want anything?」"
+msgstr "Ryuuji「Ah...... ¿Quieres algo?」"
+
+msgid "Taiga「Let me see. Perhaps I shall request＿Darjeeling tea with milk.」"
+msgstr "Taiga「Déjame ver. Tal vez solicite＿té Darjeeling con leche.」"
+
+msgid "Ryuuji「What's with that pretentious turn of＿phrase?」"
+msgstr "Ryuuji「¿Y esa forma tan pretenciosa de hablar?」"
+
+msgid "Taiga「Oh dear, it seems my noble breeding is＿shooing. Ohohoho!」"
+msgstr "Taiga「Oh cielos, parece que mi noble＿cuna se reduce. ¡Ohohoho!」"
+
+msgid "Ryuuji「Don't you mean \"showing\"? You're not＿shooing it anywhere.」"
+msgstr "Ryuuji「¿No querrás decir \"reluce\"?＿No estás reduciendo nada.」"
+
+msgid "Taiga「You're so nitpicky.」"
+msgstr "Taiga「Eres tan quisquilloso.」"
+
+msgid "Taiga「You sure know a lot for being a stupid＿COFFEE drinker.」"
+msgstr "Taiga「Vaya que sabes mucho para ser＿un tonto bebedor de CAFÉ.」"
+
+msgid "Ryuuji「You have tea so often that I ended up＿learning it, that's all...... Oh!? When did I＿remember this stuff?」"
+msgstr "Ryuuji「Tomas té tan seguido que acabé＿aprendiéndolo, eso es todo...... ¡¿Eh?!＿¿Cuándo recordé estas cosas?」"
+
+msgid "Taiga「How should I know? But you have＿been acting more normal lately.」"
+msgstr "Taiga「¿Cómo voy a saberlo? Pero últimamente＿has estado actuando más normal.」"
+
+msgid "Ryuuji「So it seems...... So, is Assam tea okay?」"
+msgstr "Ryuuji「Eso parece...... Entonces,＿¿está bien el té Assam?」"
+
+msgid "Taiga「Mm, I leave the matter to your＿discretion.」"
+msgstr "Taiga「Mm, dejo el asunto a tu＿entera discreción.」"
+
+msgid "Ryuuji「You some kind of princess now?」"
+msgstr "Ryuuji「¿Ahora te crees princesa o qué?」"
+
+msgid "Minori「What's this, Taiga no Tsukaima?」"
+msgstr "Minori「¿Qué es esto, Taiga no Tsukaima?」"
+
+msgid "Ryuuji「......What's that?」"
+msgstr "Ryuuji「......¿Y eso qué es?」"
+
+msgid "Minori「Whoops, it's nothing! Forget I said it!」"
+msgstr "Minori「¡Ups, no es nada! ¡Olvida que lo dije!」"
+
+msgid "Minori「Don't sweat it, don't sweat it. Please＿enjoy your stay.」"
+msgstr "Minori「No te preocupes, no te preocupes. Por＿favor, disfruten su estancia.」"
+
+msgid "Ryuuji「But......」"
+msgstr "Ryuuji「Pero......」"
+
+msgid "Ryuuji「Maybe I am?」"
+msgstr "Ryuuji「¿Será que sí lo soy?」"
+
+msgid "Minori「Yup yup, you will. Hey now, you should＿take more milk and sugar than that.」"
+msgstr "Minori「Sip, sip, lo harás. Oye, deberías llevar＿más leche y azúcar que eso.」"
+
+msgid "Ryuuji「Only Taiga will use them, so any more＿would be too much.」"
+msgstr "Ryuuji「Solo Taiga los usará, así que＿más de esto sería demasiado.」"
+
+msgid "Minori「Whoops, Kushieda's trying to help too＿much! Beg your pardon, sir～♪」"
+msgstr "Minori「¡Ups, Kushieda está ayudando de más!＿¡Mil disculpas, caballero～♪」"
+
+msgid "Ryuuji「......Haha.」"
+msgstr "Ryuuji「......Jaja.」"
+
+msgid "Ryuuji「I'm back.」"
+msgstr "Ryuuji「Ya volví.」"
+
+msgid "Taiga「What, back so soon?」"
+msgstr "Taiga「¿Qué, ya volviste tan pronto?」"
+
+msgid "Ryuuji「What's with that attitude?」"
+msgstr "Ryuuji「¿Y esa actitud?」"
+
+msgid "Taiga「I saw you and Minorin flirting over＿there.」"
+msgstr "Taiga「Los vi a ti y a Minorin＿coqueteando por allá.」"
+
+msgid "Ryuuji「W-We weren't flirting!」"
+msgstr "Ryuuji「¡N-No estábamos coqueteando!」"
+
+msgid "Taiga「Don't shout.」"
+msgstr "Taiga「No grites.」"
+
+msgid "Ryuuji「Oh, shit!」"
+msgstr "Ryuuji「¡Ah, mierda!」"
+
+msgid "Taiga「But I noticed Minorin was working her＿way closer to you. Pretty good＿atmosphere you two had going on.」"
+msgstr "Taiga「Pero noté que Minorin se te estaba＿acercando poco a poco. Había muy buen＿ambiente entre ustedes dos.」"
+
+msgid "Ryuuji「Are you trying to instigate something?」"
+msgstr "Ryuuji「¿Intentas provocar algo o qué?」"
+
+msgid "Taiga「I was merely describing what I＿witnessed...... But maybe......」"
+msgstr "Taiga「Solo describía lo que presencié......＿Pero tal vez......」"
+
+msgid "Ryuuji「What's the matter?」"
+msgstr "Ryuuji「¿Qué pasa?」"
+
+msgid "Ryuuji「Is that \"complex\" train of thought even＿reliable?」"
+msgstr "Ryuuji「¿Ese hilo de ideas \"complejo\"＿es siquiera fiable?」"
+
+msgid "Taiga「D-Did you really just say that!?」"
+msgstr "Taiga「¡¿D-De verdad acabas de decir eso?!」"
+
+msgid "Minori「Now now, you two, no fighting.」"
+msgstr "Minori「Ya, ya, ustedes dos, no peleen.」"
+
+msgid "Taiga「Oh, Minorin!」"
+msgstr "Taiga「¡Ah, Minorin!」"
+
+msgid "Minori「Whatcha wanna talk to little ol' me＿about? Make it quick for me, if you＿can.」"
+msgstr "Minori「¿De qué quieres hablar conmigo? Hazlo＿rápido si puedes, por favor.」"
+
+msgid "Taiga「Huh? Q-Quick? Uhh, well......」"
+msgstr "Taiga「¿Eh? ¿R-Rápido? Eh, bueno......」"
+
+msgid "Minori「5, 4, 3......」"
+msgstr "Minori「5, 4, 3......」"
+
+msgid "Taiga「Aaah! Wait a second! Oh, um, err......」"
+msgstr "Taiga「¡Aaah! ¡Espera un segundo! Ah, ehm......」"
+
+msgid "Minori「I'm just joking. No rush. Shall I clear＿away these plates?」"
+msgstr "Minori「Solo bromeo. Sin prisa.＿¿Retiro estos platos?」"
+
+msgid "Taiga「Uh, sure...... I was wondering, when did＿you send out your New Year's cards?」"
+msgstr "Taiga「Eh, claro...... Me preguntaba cuándo＿enviaste tus tarjetas de Año Nuevo.」"
+
+msgid "Minori「New Year's cards? This question you＿have, it goes beyond the realms of my＿imagination. Am I right, Takasu-kun?」"
+msgstr "Minori「¿Tarjetas de Año Nuevo? Esa pregunta＿tuya supera los límites de mi＿imaginación. ¿Verdad, Takasu-kun?」"
+
+msgid "Ryuuji「Yeah, why do you ask?」"
+msgstr "Ryuuji「Sí, ¿por qué lo preguntas?」"
+
+msgid "Taiga「Just making sure of something.」"
+msgstr "Taiga「Solo confirmaba algo.」"
+
+msgid "Minori「Hmmm, alrighty then...... Let's see, the＿26th...... or maybe the 27th. One of＿those two, bud.」"
+msgstr "Minori「Mmmm, muy bien...... Veamos, el＿26...... o tal vez el 27. Uno＿de esos dos días, amiga.」"
+
+msgid "Taiga「I see......」"
+msgstr "Taiga「Ya veo......」"
+
+msgid "Minori「Wait, don't tell me it still hasn't＿arrived?」"
+msgstr "Minori「Espera, ¿no me digas que＿todavía no llega?」"
+
+msgid "Taiga「Oh, no, it arrived just fine.」"
+msgstr "Taiga「Ah, no, llegó perfectamente.」"
+
+msgid "Minori「Didja grasp the full brunt of my love?」"
+msgstr "Minori「¿Captaste toda la fuerza de mi amor?」"
+
+msgid "Taiga「Yeah, it was almost too much to＿swallow.」"
+msgstr "Taiga「Sí, casi fue demasiado para digerir.」"
+
+msgid "Ryuuji「That means a lot coming from her.」"
+msgstr "Ryuuji「Eso vale mucho viniendo de ella.」"
+
+msgid "Minori「Fufufu, my love for Taiga knows no＿bounds...... Was that all?」"
+msgstr "Minori「Jujuju, mi amor por Taiga no tiene＿límites...... ¿Eso era todo?」"
+
+msgid "Taiga「Yeah, that's all.」"
+msgstr "Taiga「Sí, eso es todo.」"
+
+msgid "Minori「Alrighty, I'mma go back to work. Ta-ta,＿you two!」"
+msgstr "Minori「¡Muy bien, vuelvo al trabajo!＿¡Nos vemos, chicos!」"
+
+msgid "Taiga「Oh, okay.」"
+msgstr "Taiga「Ah, está bien.」"
+
+msgid "Ryuuji「Okay.」"
+msgstr "Ryuuji「Está bien.」"
+
+msgid "Taiga「......」"
+msgstr "Taiga「......」"
+
+msgid "Ryuuji「......What's wrong?」"
+msgstr "Ryuuji「......¿Qué pasa?」"
+
+msgid "Taiga「Nothing...... I'm just thinking. Don't talk＿to me for a while.」"
+msgstr "Taiga「Nada...... Solo estoy pensando.＿No me hables por un rato.」"
+
+msgid "Ryuuji「Oh, okay......」"
+msgstr "Ryuuji「Ah, está bien......」"
+
+msgid "Ryuuji「（......Is she upset or something?）」"
+msgstr "Ryuuji「（......¿Estará molesta o algo así?）」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Ryuuji「This conversation is disturbing me.」"
+msgstr "Ryuuji「Esta conversación me está inquietando.」"
+
+msgid "Taiga「It's still too early to explain. Drink that＿and let's head out.」"
+msgstr "Taiga「Aún es muy pronto para explicarlo.＿Tómate eso y vámonos.」"
+
+msgid "Ryuuji「Oh, okay......」"
+msgstr "Ryuuji「Ah, está bien......」"
+
+msgid "Minori「Families have pouring on in since this＿morning. They're all shirking their＿housework. Well dammit, Kushieda's」"
+msgstr "Minori「Han llegado familias toda la mañana.＿Todas evitan sus tareas del hogar.＿¡Pues maldita sea, Kushieda」"
+
+msgid "Minori「gonna work!」"
+msgstr "Minori「va a trabajar!」"
+
+msgid "Minori「Guess not. I'm always doing something,＿whether it's work or practice......＿Whoopsie, they're calling for me.」"
+msgstr "Minori「Supongo que no. Siempre estoy haciendo＿algo, sea trabajo o entrenamiento......＿¡Ups, me están llamando!」"
+
+msgid "Minori「Laters, you two.」"
+msgstr "Minori「Luego nos vemos, chicos.」"
+
+msgid "Taiga「You don't have to worry about that.＿After I take my time enjoying my＿dessert, I'll be sure to make it up to」"
+msgstr "Taiga「No te preocupes por eso. Tras disfrutar＿mi postre con calma, me aseguraré＿de compensárselo a」"
+
+msgid "Taiga「her.」"
+msgstr "Taiga「ella.」"
+
+msgid "Taiga「Besides, there's something I want to＿ask Minorin, so we have to wait for it to＿settle down a bit in here...... Say, why」"
+msgstr "Taiga「Además, quiero preguntarle algo a＿Minorin; esperemos a que esto se calme＿un poco...... Oye, ¿por qué」"
+
+msgid "Taiga「don't you get another cup of coffee?」"
+msgstr "Taiga「no te pides otro café?」"
+
+msgid "Ryuuji「Well, YOU're so careless. By the way,＿the Darjeeling here hasn't aged＿enough. It won't go with milk. You」"
+msgstr "Ryuuji「Bueno, TÚ eres muy descuidada. Por＿cierto, el Darjeeling de aquí no está＿bien añejado. No va con leche.」"
+
+msgid "Ryuuji「should stick with Assam tea.」"
+msgstr "Ryuuji「Deberías quedarte con el té Assam.」"
+
+msgid "Ryuuji「It's fine...... Taiga said she wanted to＿talk about something with you, but＿don't you think we should head out」"
+msgstr "Ryuuji「No hace falta...... Taiga quería＿hablar contigo de algo, pero ¿no＿crees que deberíamos irnos」"
+
+msgid "Ryuuji「instead?」"
+msgstr "Ryuuji「en vez de eso?」"
+
+msgid "Minori「Geez, you put other people before＿yourself way too much, Takasu-kun. It＿can be a good thing at times, but you'll」"
+msgstr "Minori「Ay, antepones demasiado a los demás,＿Takasu-kun. A veces puede ser bueno,＿pero terminarás」"
+
+msgid "Minori「suffer for it, you know?」"
+msgstr "Minori「sufriendo por ello, ¿sabes?」"
+
+msgid "Taiga「......Arrrgh, can you not interrupt me?＿Unlike you, my train of thought is＿delicate and complex, so it's hard for」"
+msgstr "Taiga「......Aaagh, ¿puedes no interrumpirme? A＿diferencia de ti, mi hilo de ideas es＿delicado y complejo, así que me cuesta」"
+
+msgid "Taiga「me to get back on track once I'm＿derailed.」"
+msgstr "Taiga「retomar el rumbo una vez＿que me descarrilo.」"
+
+msgid "Taiga「......Actually, on second thought, it's＿occurred to me that thinking about it＿is pointless. That was a narrow escape,」"
+msgstr "Taiga「......De hecho, pensándolo bien, me di＿cuenta de que darle vueltas no tiene＿sentido. Te salvaste por poco,」"
+
+msgid "Taiga「Ryuuji.」"
+msgstr "Taiga「Ryuuji.」"
+
+msgid "Taiga「I was starting to think you needed a＿beatdown, but then I decided it's still＿too early to pass judgment on you.」"
+msgstr "Taiga「Ya empezaba a pensar que necesitabas una＿paliza, pero decidí que aún es muy＿pronto para dictar sentencia sobre ti.」"
+
+msgid "Taiga「Enjoy the time you have left to the＿fullest.」"
+msgstr "Taiga「Disfruta al máximo el＿tiempo que te queda.」"

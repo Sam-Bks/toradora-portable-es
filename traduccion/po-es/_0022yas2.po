@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+
+msgid "Yasuko「How was Yacchan's customer service?」"
+msgstr "Yasuko「¿Qué tal la atención de Yacchan?」"
+
+msgid "Ryuuji「It was like talking to you at home, same＿as usual.」"
+msgstr "Ryuuji「Fue como hablar contigo en＿casa, igual que siempre.」"
+
+msgid "Yasuko「Heehee. When talking to Ryuu-chan, it＿happens☆」"
+msgstr "Yasuko「Jiji. Cuando hablo con＿Ryuu-chan, así pasa☆」"
+
+msgid "Yasuko「Ah, gotta go. It's time to prepare for＿business hours!」"
+msgstr "Yasuko「Ah, tengo que irme. ¡Es hora＿de prepararse para abrir!」"
+
+msgid "Ryuuji「Oh, alright. Sorry to disturb you. I'm＿going home.」"
+msgstr "Ryuuji「Ah, está bien. Perdón por＿molestar. Me voy a casa.」"
+
+msgid "Yasuko「Yeah, see you at home, Ryuu-chan.＿Happy New Year～」"
+msgstr "Yasuko「Sí, nos vemos en casa, Ryuu-chan.＿¡Feliz Año Nuevo～!」"
+
+msgid "Ryuuji「Oh, you too, Yasuko.」"
+msgstr "Ryuuji「Ah, tú también, Yasuko.」"

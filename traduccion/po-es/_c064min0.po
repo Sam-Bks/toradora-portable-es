@@ -1,0 +1,140 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「Y-Yo.」"
+msgstr "Ryuuji「H-Hola.」"
+
+msgid "Minori「Oh, 'sup dude!」"
+msgstr "Minori「¡Ah, qué tal, amigo!」"
+
+msgid "Ryuuji「（Ugh...... After yesterday, this is so＿awkward! Why did I talk to her!?）」"
+msgstr "Ryuuji「（Ugh...... Después de lo de＿ayer, ¡esto es tan incómodo!＿¿Por qué le hablé!?）」"
+
+msgid "Minori「It sure gets cold once the sun goes＿down. I should have put on a couple＿more layers.」"
+msgstr "Minori「Sí que hace frío en cuanto se＿pone el sol. Debí haberme puesto＿un par de prendas más.」"
+
+msgid "Ryuuji「O-Oh, yeah...... Practice today?」"
+msgstr "Ryuuji「A-Ah, sí...... ¿Hubo práctica hoy?」"
+
+msgid "Minori「YES! Practice starts every year on the＿4th. I worked up a great sweat today～＿Hehe!」"
+msgstr "Minori「¡SÍ! La práctica empieza cada año el＿4. ¡Hoy sudé de maravilla～ Jeje!」"
+
+msgid "Ryuuji「Uh...... Then was Kitamura there too?」"
+msgstr "Ryuuji「Eh...... ¿Entonces Kitamura＿también estaba?」"
+
+msgid "Minori「Oh, yeah. The boys' team started＿earlier than we did, so they've probably＿gone home by now.」"
+msgstr "Minori「Ah, sí. El equipo de chicos empezó＿antes que nosotras, así que seguro＿ya se fueron a casa.」"
+
+msgid "Ryuuji「I, I see......」"
+msgstr "Ryuuji「Y-Ya veo......」"
+
+msgid "Ryuuji「（Why does this feel so normal......? Well,＿thinking back, Kushieda's always been＿normal......）」"
+msgstr "Ryuuji「（¿Por qué se siente tan normal......?＿Bueno, pensándolo bien, Kushieda siempre＿ha sido normal......）」"
+
+msgid "Minori「Whoopsie, look at the time!」"
+msgstr "Minori「¡Uy, mira la hora que es!」"
+
+msgid "Ryuuji「Oh, were you in a hurry? Sorry for＿holding you up.」"
+msgstr "Ryuuji「Ah, ¿tenías prisa? Perdón＿por entretenerte.」"
+
+msgid "Minori「Nah, it's totally fine! I was just saying＿it's later than I thought it was, so don't＿sweat it!」"
+msgstr "Minori「¡Nah, todo bien! Solo decía que＿es más tarde de lo que pensaba,＿¡así que no te preocupes!」"
+
+msgid "Ryuuji「Oh, okay......」"
+msgstr "Ryuuji「Ah, está bien......」"
+
+msgid "Ryuuji「（But being aware of the time＿mid-conversation......）」"
+msgstr "Ryuuji「（Pero fijarse en la hora en medio＿de la conversación......）」"
+
+msgid "Minori「Well～ Truth is, I promised to go over＿to Taiga's house later, but first I asked＿my job to let me work for a bit, see.」"
+msgstr "Minori「Bueno～ La verdad, prometí ir a casa de＿Taiga más tarde, pero primero pedí＿trabajar un rato en mi empleo, ¿ves?」"
+
+msgid "Ryuuji「It's been a while since you last went to＿Taiga's place, huh Kushieda?」"
+msgstr "Ryuuji「Hace tiempo que no vas a casa＿de Taiga, ¿no, Kushieda?」"
+
+msgid "Minori「Yep, it's been like FOREVER. So I＿wanna get there fast, but first I gotta＿work at least a 2 hour shift.」"
+msgstr "Minori「Sip, ha pasado una ETERNIDAD. Así que＿quiero ir rápido, pero antes debo hacer＿un turno de al menos 2 horas.」"
+
+msgid "Ryuuji「Sounds complicated.」"
+msgstr "Ryuuji「Suena complicado.」"
+
+msgid "Minori「Hey, Takasu-kun...... Why do you think＿Taiga invited me over all of a sudden?」"
+msgstr "Minori「Oye, Takasu-kun...... ¿Por qué crees que＿Taiga me invitó así tan de repente?」"
+
+msgid "Ryuuji「......No idea.」"
+msgstr "Ryuuji「......Ni idea.」"
+
+msgid "Minori「Really? No idea at all?」"
+msgstr "Minori「¿De verdad? ¿Ninguna idea?」"
+
+msgid "Ryuuji「What are you trying to say?」"
+msgstr "Ryuuji「¿Qué intentas decir?」"
+
+msgid "Minori「So I want you to think carefully about＿the cause of her reasoning deep down.」"
+msgstr "Minori「Así que quiero que pienses bien en lo＿que realmente la lleva a pensar así.」"
+
+msgid "Ryuuji「Have you figured it out?」"
+msgstr "Ryuuji「¿Tú ya lo descubriste?」"
+
+msgid "Minori「I've got a hunch, and it's probably right＿on the money. So I'm going to confirm＿it tonight.」"
+msgstr "Minori「Tengo una corazonada, y seguro＿doy en el clavo. Así que lo voy＿a confirmar esta noche.」"
+
+msgid "Ryuuji「Confirm it how, exactly?」"
+msgstr "Ryuuji「¿Confirmarlo cómo, exactamente?」"
+
+msgid "Minori「I'm not sure...... But still, with my＿thinking and my faith, I plan to find a＿way.」"
+msgstr "Minori「No estoy segura...... Pero aun＿así, con mi ingenio y mi fe, pienso＿encontrar la manera.」"
+
+msgid "Ryuuji「Why...... Why are you like this,＿Kushieda?」"
+msgstr "Ryuuji「¿Por qué...... Por qué＿eres así, Kushieda?」"
+
+msgid "Minori「......Huh? D-Did I say something weird?」"
+msgstr "Minori「......¿Eh? ¿D-Dije algo raro?」"
+
+msgid "Ryuuji「No, it wasn't weird...... That's not it. I＿was wondering why you're so direct.」"
+msgstr "Ryuuji「No, no fue raro...... No es eso. Me＿preguntaba por qué eres tan directa.」"
+
+msgid "Minori「Am I really?」"
+msgstr "Minori「¿De verdad lo soy?」"
+
+msgid "Ryuuji「Yeah, charmingly so.」"
+msgstr "Ryuuji「Sí, de una forma admirable.」"
+
+msgid "Minori「Oh, stop that. I'm not that awesome!」"
+msgstr "Minori「¡Ay, ya basta! ¡No soy tan genial!」"
+
+msgid "Ryuuji「（It's certainly awful, talking about what＿\"didn't\" happen......）」"
+msgstr "Ryuuji「（Sin duda es horrible hablar＿de lo que \"no\" pasó......）」"
+
+msgid "Ryuuji「（Yet Kushieda carries on......＿Overcoming the awkwardness,＿charmingly direct......）」"
+msgstr "Ryuuji「（Pero Kushieda sigue adelante......＿Superando la incomodidad, tan directa＿que resulta admirable......）」"
+
+msgid "Minori「......Now then, the time for pleasantries＿has come to an end. I, Kushieda Minori,＿call for a recess. As for you?」"
+msgstr "Minori「......Ahora bien, el tiempo de charla＿ha llegado a su fin. Yo, Kushieda＿Minori, declaro un receso. ¿Y tú?」"
+
+msgid "Ryuuji「......Me?」"
+msgstr "Ryuuji「......¿Yo?」"
+
+msgid "Minori「No, not \"me\"...... Hmmm, a bit too \"out＿there\" for you, huh. Well, don't fret,＿Fred! Take a break, Jake!」"
+msgstr "Minori「No, no \"yo\"...... Mmm, muy \"rebuscado\"＿para ti, ¿eh? ¡No te estreses, Ulises!＿¡A descansar, Gaspar!」"
+
+msgid "Minori「Ta-ta! Adios, amigo!」"
+msgstr "Minori「¡Ta-ta! ¡Bye-bye, my friend!」"
+
+msgid "Ryuuji「You're a foreigner all of a sudden?」"
+msgstr "Ryuuji「¿Ahora eres extranjera de repente?」"
+
+msgid "Minori「Farewell!」"
+msgstr "Minori「¡Hasta luego!」"
+
+msgid "Ryuuji「Oh...... Okay!」"
+msgstr "Ryuuji「Ah...... ¡Está bien!」"
+
+msgid "Ryuuji「（Nevertheless...... I wonder where my＿feelings went......）」"
+msgstr "Ryuuji「（Aun así...... me pregunto adónde se＿fueron mis sentimientos......）」"
+
+msgid "Minori「It's probably...... This is just a guess,＿but I think she wants you to＿understand her reasoning behind this」"
+msgstr "Minori「Seguramente...... Es solo una idea,＿pero creo que quiere que comprendas＿la razón detrás de esto」"
+
+msgid "Minori「more than anyone else.」"
+msgstr "Minori「más que nadie.」"

@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+
+msgid "Inko-chan「*SIGH*～～～......」"
+msgstr "Inko-chan「*SUSPIRO*～～～......」"
+
+msgid "Ryuuji「Ohh? Inko-chan's looking at me＿intensely!」"
+msgstr "Ryuuji「¿Ohh? ¡Inko-chan me está＿mirando fijamente!」"
+
+msgid "Inko-chan「*SIGH*......」"
+msgstr "Inko-chan「*SUSPIRO*......」"
+
+msgid "Ryuuji「Hold on, this isn't tsundere, it's pure＿deredere......」"
+msgstr "Ryuuji「Espera, esto no es tsundere,＿es puro deredere......」"
+
+msgid "Inko-chan「*SIIIGH*......①」"
+msgstr "Inko-chan「*SUUUSPIRO*......①」"
+
+msgid "Ryuuji「W-Wait, Inko-chan. Let's just calm＿down. Okay?」"
+msgstr "Ryuuji「E-Espera, Inko-chan. Vamos＿a calmarnos. ¿Sí?」"
+
+msgid "Inko-chan「GRRR...... STUUUPID......」"
+msgstr "Inko-chan「GRRR...... TOOOONTO......」"
+
+msgid "Ryuuji「G-Good night!」"
+msgstr "Ryuuji「¡B-Buenas noches!」"

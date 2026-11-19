@@ -1,0 +1,749 @@
+msgid ""
+msgstr ""
+
+msgid "Taiga「............」"
+msgstr "Taiga「............」"
+
+msgid "Ryuuji「......Oh?」"
+msgstr "Ryuuji「......¿Eh?」"
+
+msgid "Taiga「............」"
+msgstr "Taiga「............」"
+
+msgid "Ryuuji「What is it? Is there something on my＿face?」"
+msgstr "Ryuuji「¿Qué pasa? ¿Tengo algo en la cara?」"
+
+msgid "Taiga「......No, that's not it.」"
+msgstr "Taiga「......No, no es eso.」"
+
+msgid "Taiga「Grr, what's with you? You really think＿the worst of me!」"
+msgstr "Taiga「Grr, ¿qué te pasa? ¡De verdad＿piensas lo peor de mí!」"
+
+msgid "Ryuuji「Oh, was I wrong?」"
+msgstr "Ryuuji「Ah, ¿me equivoqué?」"
+
+msgid "Taiga「Yeah, you're wrong! It's just...... I was＿just thinking that you're acting＿completely like yourself again, Ryuuji.」"
+msgstr "Taiga「¡Sí, te equivocaste! Es solo que......＿pensaba que ya actúas otra vez＿totalmente como tú mismo, Ryuuji.」"
+
+msgid "Taiga「Oh, yeah, about that...... I'm going to＿stop depending on you, Ryuuji.」"
+msgstr "Taiga「Ah, sí, sobre eso...... Voy a dejar＿de depender de ti, Ryuuji.」"
+
+msgid "Ryuuji「......Oh? What did you just say?」"
+msgstr "Ryuuji「......¿Eh? ¿Qué acabas de decir?」"
+
+msgid "Taiga「Ugh, listen to my every word when I'm＿speaking. I said I'm gonna become＿self-reliant.」"
+msgstr "Taiga「Agh, escucha cada palabra que digo. Dije＿que voy a volverme autosuficiente.」"
+
+msgid "Ryuuji「Huh? What's going on all of a sudden?」"
+msgstr "Ryuuji「¿Eh? ¿Y eso tan de repente?」"
+
+msgid "Taiga「This isn't some random impulse or＿anything. I've been considering it for a＿long time, but I kept procrastinating.」"
+msgstr "Taiga「No es un impulso repentino ni nada.＿Llevo mucho tiempo considerándolo,＿pero siempre lo postergaba.」"
+
+msgid "Ryuuji「But why? What's wrong with the way＿things are now?」"
+msgstr "Ryuuji「¿Pero por qué? ¿Qué tienen de malo＿las cosas tal como están ahora?」"
+
+msgid "Taiga「It's wrong for me and for you, Ryuuji.」"
+msgstr "Taiga「Está mal para mí y para ti, Ryuuji.」"
+
+msgid "Ryuuji「For me?」"
+msgstr "Ryuuji「¿Para mí?」"
+
+msgid "Ryuuji「I have no idea what you're talking＿about.」"
+msgstr "Ryuuji「No tengo idea de qué estás hablando.」"
+
+msgid "Taiga「Oh, no, just forget it. What's important＿is that I'm definitely missing＿something.」"
+msgstr "Taiga「Ah, no, olvídalo. Lo importante es＿que sin duda me hace falta algo.」"
+
+msgid "Ryuuji「Taiga......」"
+msgstr "Ryuuji「Taiga......」"
+
+msgid "Taiga「That's why I'm not going to rely on you.＿After today, I'm done with that＿dependent lifestyle.」"
+msgstr "Taiga「Por eso no voy a depender de ti.＿Desde hoy, se acabó ese estilo＿de vida tan dependiente.」"
+
+msgid "Ryuuji「Are you serious?」"
+msgstr "Ryuuji「¿Hablas en serio?」"
+
+msgid "Taiga「Yup.」"
+msgstr "Taiga「Sip.」"
+
+msgid "Ryuuji「Are you really going to live on your＿own?」"
+msgstr "Ryuuji「¿De verdad vas a valerte por ti misma?」"
+
+msgid "Taiga「I said I'll be okay. Jeez, don't worry so＿much. You'll get ulcers that way.」"
+msgstr "Taiga「Dije que estaré bien. Cielos, no te＿preocupes tanto. Te va a dar una úlcera.」"
+
+msgid "Ryuuji「But, I mean......」"
+msgstr "Ryuuji「Pero, es que......」"
+
+msgid "Taiga「Arrrgh, you're SO naggy! You give me＿no choice but to PROVE I can do just＿fine on my own.」"
+msgstr "Taiga「¡Aaaagh, qué fastidioso eres! No＿me dejas más opción que DEMOSTRAR＿que puedo arreglármelas sola.」"
+
+msgid "Ryuuji「Oh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Taiga「Yes, for now, I'll help with the cooking.＿Come on, say the word.」"
+msgstr "Taiga「Sí, por ahora ayudaré con la cocina.＿Anda, dime qué hacer.」"
+
+msgid "Ryuuji「Hmmm, if you insist......」"
+msgstr "Ryuuji「Mmmm, si insistes......」"
+
+msgid "Ryuuji「（Oh!? W-What's this feeling? I've got a＿slightly...... No, a REALLY bad feeling.＿An atrocious feeling!）」"
+msgstr "Ryuuji「（¡¿Eh?! ¿Q-Qué es esta sensación? Tengo＿un ligero...... No, ¡un presentimiento＿muy malo! ¡Un presentimiento atroz!）」"
+
+msgid "Taiga「......Ryuuji?」"
+msgstr "Taiga「......¿Ryuuji?」"
+
+msgid "Ryuuji「Uh, well, l-let's see......」"
+msgstr "Ryuuji「Eh, bueno, v-veamos......」"
+
+msgid "Ryuuji「（I don't want to crush her motivation,＿but...... but still...... Fuck, what do I do?）」"
+msgstr "Ryuuji「（No quiero aplastar su motivación,＿pero...... aun así...... Mierda,＿¿qué hago?）」"
+
+msgid "No, nothing comes to mind"
+msgstr "No, no se me ocurre nada"
+
+msgid "T-The dishes......"
+msgstr "L-Los platos......"
+
+msgid "F-Fried eggs, or boiled spinach......"
+msgstr "H-Huevos fritos o espinaca hervida......"
+
+msgid "Ryuuji「No, nothing comes to mind.」"
+msgstr "Ryuuji「No, no se me ocurre nada.」"
+
+msgid "Taiga「Huh? There's gotta be SOMETHING. I＿can make one little dish! Look, I can do＿the dishes!」"
+msgstr "Taiga「¿Eh? Tiene que haber ALGO. ¡Puedo＿hacer un plato sencillo! ¡Mira,＿puedo lavar los platos!」"
+
+msgid "Ryuuji「W-Well, that's true...... How do I put＿this? I feel strangely uneasy.」"
+msgstr "Ryuuji「B-Bueno, eso es cierto...... ¿Cómo lo＿digo? Me siento extrañamente inquieto.」"
+
+msgid "Taiga「Uneasy?」"
+msgstr "Taiga「¿Inquieto?」"
+
+msgid "Taiga「So you're saying you've decided letting＿me do something is too risky based on＿some vague memory?」"
+msgstr "Taiga「¿Así que decidiste que dejarme hacer＿algo es demasiado arriesgado por culpa＿de un recuerdo borroso?」"
+
+msgid "Ryuuji「Uh, well, err......」"
+msgstr "Ryuuji「Eh, bueno, ehm......」"
+
+msgid "Ryuuji「Eek!」"
+msgstr "Ryuuji「¡Hii!」"
+
+msgid "Taiga「J-Just...... pretend......」"
+msgstr "Taiga「S-Solo...... finge......」"
+
+msgid "Taiga「............Ngh.」"
+msgstr "Taiga「............Ngh.」"
+
+msgid "Ryuuji「......T-Taiga?」"
+msgstr "Ryuuji「......¿T-Taiga?」"
+
+msgid "Taiga「Don't talk to me for a second! Let me＿think.」"
+msgstr "Taiga「¡No me hables por un segundo!＿Déjame pensar.」"
+
+msgid "Ryuuji「O-Oh?」"
+msgstr "Ryuuji「¿E-Eh?」"
+
+msgid "Taiga「..................」"
+msgstr "Taiga「..................」"
+
+msgid "Ryuuji「（W-What's going on? What's the matter＿with Taiga......?）」"
+msgstr "Ryuuji「（¿Q-Qué está pasando? ¿Qué＿le ocurre a Taiga......?）」"
+
+msgid "Taiga「Ryuuji!」"
+msgstr "Taiga「¡Ryuuji!」"
+
+msgid "Ryuuji「Oh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Taiga「I've made up my mind.」"
+msgstr "Taiga「Ya tomé una decisión.」"
+
+msgid "Ryuuji「About becoming independent?」"
+msgstr "Ryuuji「¿Sobre volverte independiente?」"
+
+msgid "Taiga「No! I mean, yeah, but that's a separate＿issue!」"
+msgstr "Taiga「¡No! Bueno, sí, ¡pero＿ese es otro asunto!」"
+
+msgid "Ryuuji「Then what is it?」"
+msgstr "Ryuuji「Entonces, ¿qué es?」"
+
+msgid "Taiga「Your memories. I'm going to get them＿all back for you.」"
+msgstr "Taiga「Tus recuerdos. Voy a hacer＿que los recuperes todos.」"
+
+msgid "Ryuuji「Oh, okay...... Wait, what?」"
+msgstr "Ryuuji「Ah, está bien...... Espera, ¿qué?」"
+
+msgid "Ryuuji「Did that really happen?」"
+msgstr "Ryuuji「¿De verdad pasó eso?」"
+
+msgid "Taiga「Now I've decided to get you all those＿memories back. No more going easy on＿you.」"
+msgstr "Taiga「Ya decidí hacer que recuperes＿todos esos recuerdos. Se acabó＿ser blanda contigo.」"
+
+msgid "Ryuuji「G-Going easy......? Huh?」"
+msgstr "Ryuuji「¿S-Ser blanda......? ¿Eh?」"
+
+msgid "Taiga「Now that's decided, there's only one＿thing to do, Ryuuji!」"
+msgstr "Taiga「Ahora que está decidido, ¡solo queda＿una cosa por hacer, Ryuuji!」"
+
+msgid "Ryuuji「W-What are you getting me into?」"
+msgstr "Ryuuji「¿E-En qué me estás metiendo?」"
+
+msgid "Taiga「Isn't it obvious? We're starting with＿food!」"
+msgstr "Taiga「¿No es obvio? ¡Empezaremos＿por la comida!」"
+
+msgid "Ryuuji「Oh, okay!」"
+msgstr "Ryuuji「¡Ah, está bien!」"
+
+msgid "Ryuuji「Then, t-the dishes......」"
+msgstr "Ryuuji「Entonces, l-los platos......」"
+
+msgid "Taiga「The dishes? You got it!」"
+msgstr "Taiga「¿Los platos? ¡Hecho!」"
+
+msgid "Ryuuji「（Oh! D-Deja vu......）」"
+msgstr "Ryuuji「（¡Ah! D-Deja vu......）」"
+
+msgid "Ryuuji「S-Stop right there!」"
+msgstr "Ryuuji「¡A-Alto ahí!」"
+
+msgid "Taiga「What?」"
+msgstr "Taiga「¿Qué?」"
+
+msgid "Ryuuji「Well...... I seem to recall...... this exact＿situation......」"
+msgstr "Ryuuji「Bueno...... creo recordar......＿esta misma situación......」"
+
+msgid "Taiga「Can you remember anything?」"
+msgstr "Taiga「¿Logras recordar algo?」"
+
+msgid "Ryuuji「What the...... In addition to the awful＿uneasiness from earlier......」"
+msgstr "Ryuuji「Pero qué...... Además de esa terrible＿inquietud de hace rato......」"
+
+msgid "Taiga「......What's wrong?」"
+msgstr "Taiga「......¿Qué ocurre?」"
+
+msgid "Ryuuji「It's pretty vague, but...... I remember＿you standing in front of the sink......＿Shit, what happened!?」"
+msgstr "Ryuuji「Es muy borroso, pero...... te recuerdo＿parada frente al fregadero......＿Mierda, ¡¿qué pasó?!」"
+
+msgid "Ryuuji「Wait, let me calmly think it over...... This＿awful feeling...... The likely result...... Oh,＿a flood?」"
+msgstr "Ryuuji「Espera, déjame pensarlo con calma......＿Esta mala sensación...... El resultado＿probable...... Oh, ¿una inundación?」"
+
+msgid "Taiga「Ryuuji......」"
+msgstr "Taiga「Ryuuji......」"
+
+msgid "Ryuuji「But just from dishes......? Oh, sorry,＿Taiga. Don't mind me. Carry on.」"
+msgstr "Ryuuji「Pero ¿solo por los platos......? Ah,＿perdón, Taiga. No me hagas caso. Sigue.」"
+
+msgid "Taiga「......Are you sure?」"
+msgstr "Taiga「......¿Estás seguro?」"
+
+msgid "Ryuuji「Yeah, I don't mind.」"
+msgstr "Ryuuji「Sí, no me importa.」"
+
+msgid "Taiga「......There! All done!」"
+msgstr "Taiga「......¡Listo! ¡Terminé!」"
+
+msgid "Taiga「See? Look, Ryuuji! Didn't I do a great＿job?」"
+msgstr "Taiga「¿Ves? ¡Mira, Ryuuji! ¿Verdad＿que hice un gran trabajo?」"
+
+msgid "Ryuuji「Oh, yeah...... You sure did.」"
+msgstr "Ryuuji「Ah, sí...... Claro que sí.」"
+
+msgid "Ryuuji「（ARRRRGH! How did she get water＿everywhere just from dishes......? Was＿this the root of my uneasiness?）」"
+msgstr "Ryuuji「（¡AAAAAGH! ¿Cómo salpicó agua por todas＿partes solo lavando platos......? ¿Era＿esto la raíz de mi inquietud?）」"
+
+msgid "Ryuuji「（Wait! Does that mean this same thing＿happened before......? Shit, I can't＿remember clearly!）」"
+msgstr "Ryuuji「（¡Espera! ¿Eso quiere decir que esto＿ya pasó antes......? ¡Mierda, no logro＿recordarlo con claridad!）」"
+
+msgid "Taiga「......What's wrong, Ryuuji?」"
+msgstr "Taiga「......¿Qué pasa, Ryuuji?」"
+
+msgid "Ryuuji「Hey Taiga...... Did something like this＿happen in the past?」"
+msgstr "Ryuuji「Oye, Taiga...... ¿Pasó algo＿como esto en el pasado?」"
+
+msgid "Taiga「What? I've done the dishes and stuff＿before...... What about it?」"
+msgstr "Taiga「¿Qué? Ya he lavado los platos y cosas＿así antes...... ¿Y qué con eso?」"
+
+msgid "Taiga「............」"
+msgstr "Taiga「............」"
+
+msgid "Ryuuji「......Oh, sorry. I'm okay.」"
+msgstr "Ryuuji「......Ah, perdón. Estoy bien.」"
+
+msgid "Taiga「Hey Ryuuji...... I've made up my mind.」"
+msgstr "Taiga「Oye, Ryuuji...... Ya me decidí.」"
+
+msgid "Ryuuji「......About what?」"
+msgstr "Ryuuji「......¿Sobre qué?」"
+
+msgid "Taiga「Your memories. I've decided I'm going＿to get them all back for you. Both the＿good ones and the not-so-good ones.」"
+msgstr "Taiga「Tus recuerdos. Decidí que voy a hacer＿que los recuperes todos. Tanto los＿buenos como los no tan buenos.」"
+
+msgid "Ryuuji「......Okay, but why are you being so＿formal about it?」"
+msgstr "Ryuuji「......Está bien, ¿pero por qué＿te pones tan seria con eso?」"
+
+msgid "Taiga「Up until now...... I was fine with you＿never remembering those not-so-good＿memories. But now......」"
+msgstr "Taiga「Hasta ahora...... no me importaba que＿nunca recordaras esos recuerdos no＿tan buenos. Pero ahora......」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Taiga「So I'm going to get them all back for＿you. No more going easy on you.」"
+msgstr "Taiga「Así que voy a devolvértelos todos.＿Se acabó ser blanda contigo.」"
+
+msgid "Ryuuji「G-Going easy......? Huh?」"
+msgstr "Ryuuji「¿S-Ser blanda......? ¿Eh?」"
+
+msgid "Taiga「Now that's decided, there's only one＿thing to do, Ryuuji!」"
+msgstr "Taiga「Ahora que está decidido, ¡solo queda＿una cosa por hacer, Ryuuji!」"
+
+msgid "Ryuuji「W-What are you getting me into?」"
+msgstr "Ryuuji「¿E-En qué me estás metiendo?」"
+
+msgid "Taiga「Isn't it obvious? We're starting with＿food!」"
+msgstr "Taiga「¿No es obvio? ¡Empezaremos＿por la comida!」"
+
+msgid "Ryuuji「Oh, okay!」"
+msgstr "Ryuuji「¡Ah, está bien!」"
+
+msgid "Ryuuji「How about f-fried eggs, or boiled＿spinach......?」"
+msgstr "Ryuuji「¿Qué tal h-huevos fritos o＿espinaca hervida......?」"
+
+msgid "Taiga「Sure, you got it! Fried eggs it is!」"
+msgstr "Taiga「¡Claro, hecho! ¡Huevos fritos serán!」"
+
+msgid "Ryuuji「（Ohh! What's this...... outrageous sense＿of danger!?）」"
+msgstr "Ryuuji「（¡Ohh! ¡¿Qué es esta...... terrible＿sensación de peligro?!）」"
+
+msgid "Ryuuji「S-Stop right there!」"
+msgstr "Ryuuji「¡A-Alto ahí!」"
+
+msgid "Taiga「What?」"
+msgstr "Taiga「¿Qué?」"
+
+msgid "Taiga「Alright, I don't mind, but...... Ryuuji,＿you're acting weird.」"
+msgstr "Taiga「Bien, no me importa, pero......＿Ryuuji, estás actuando raro.」"
+
+msgid "Taiga「Nope. You're not the one who should＿be doing this.」"
+msgstr "Taiga「Nop. Tú no eres quien debería＿estar haciendo esto.」"
+
+msgid "Ryuuji「Sorry, I'll let you handle it.」"
+msgstr "Ryuuji「Perdón, te dejo encargarte a ti.」"
+
+msgid "Taiga「Got it. So? What do I do next?」"
+msgstr "Taiga「Entendido. ¿Y bien? ¿Qué hago ahora?」"
+
+msgid "Taiga「So what you're saying is, I have to boil＿the water first, right?」"
+msgstr "Taiga「O sea que primero tengo que＿hervir el agua, ¿verdad?」"
+
+msgid "Ryuuji「You need that many steps!? There are＿pots under the sink, so use one of＿those.」"
+msgstr "Ryuuji「¡¿Necesitas tantos pasos?! Hay＿ollas bajo el fregadero, así＿que usa una de esas.」"
+
+msgid "Taiga「Will I need a lid for this?」"
+msgstr "Taiga「¿Voy a necesitar una tapa para esto?」"
+
+msgid "Ryuuji「Doesn't really matter......」"
+msgstr "Ryuuji「En realidad da igual......」"
+
+msgid "Taiga「Nnn......」"
+msgstr "Taiga「Mnn......」"
+
+msgid "Ryuuji「Okay, you don't need one for this! Put＿water in the pot, set it on the burner,＿and wait for it to boil.」"
+msgstr "Ryuuji「¡Bien, para esto no hace falta! Pon＿agua en la olla, colócala en la hornilla＿y espera a que hierva.」"
+
+msgid "Taiga「Then add the salt and the spinach......」"
+msgstr "Taiga「Luego agrega la sal y la espinaca......」"
+
+msgid "Ryuuji「Once the stems are nice and tender,＿you're done. Move the pot into the sink＿and rinse them.」"
+msgstr "Ryuuji「Cuando los tallos estén bien tiernos,＿ya está. Lleva la olla al fregadero＿y enjuágalos.」"
+
+msgid "Taiga「Got it. I'll follow those steps first. Go＿watch TV or something.」"
+msgstr "Taiga「Entendido. Seguiré esos pasos primero.＿Ve a mirar la tele o algo.」"
+
+msgid "Ryuuji「......Are you sure?」"
+msgstr "Ryuuji「......¿Estás segura?」"
+
+msgid "Taiga「I'll be fine. Leave it to me! If anything＿happens, I'll call you right away.」"
+msgstr "Taiga「Estaré bien. ¡Déjamelo a mí! Si pasa＿cualquier cosa, te llamo enseguida.」"
+
+msgid "Ryuuji「Oh, okay......」"
+msgstr "Ryuuji「Ah, está bien......」"
+
+msgid "Taiga「......*Gasp*!」"
+msgstr "Taiga「......¡Ah!」"
+
+msgid "Ryuuji「What's the matter?」"
+msgstr "Ryuuji「¿Qué sucede?」"
+
+msgid "Taiga「It, it's nothing! Don't worry about it!」"
+msgstr "Taiga「¡N-No es nada! ¡No te preocupes!」"
+
+msgid "Ryuuji「I, I see......」"
+msgstr "Ryuuji「Y-Ya veo......」"
+
+msgid "Ryuuji「（Is she really going to be okay......? I still＿feel a little uneasy......）」"
+msgstr "Ryuuji「（¿De verdad va a estar bien......? Sigo＿sintiéndome algo intranquilo......）」"
+
+msgid "Taiga「Ouch!」"
+msgstr "Taiga「¡Ay!」"
+
+msgid "Ryuuji「Ohh!」"
+msgstr "Ryuuji「¡Ohh!」"
+
+msgid "Taiga「It's okay! Don't freak out over every＿little thing!」"
+msgstr "Taiga「¡No pasa nada! ¡No te alarmes＿por cualquier tontería!」"
+
+msgid "Ryuuji「But......」"
+msgstr "Ryuuji「Pero......」"
+
+msgid "Taiga「Enough! Just chill out!」"
+msgstr "Taiga「¡Basta! ¡Cálmate ya!」"
+
+msgid "Ryuuji「Alright......」"
+msgstr "Ryuuji「Está bien......」"
+
+msgid "Ryuuji「（Arrrgh, I'm gonna have a heart attack!）」"
+msgstr "Ryuuji「（¡Aaaagh, me va a dar un infarto!）」"
+
+msgid "Taiga「Annnd...... Done!」"
+msgstr "Taiga「Yyy...... ¡Listo!」"
+
+msgid "Ryuuji「Oh, well done! Did you burn yourself?」"
+msgstr "Ryuuji「¡Oh, bien hecho! ¿Te quemaste?」"
+
+msgid "Ryuuji「Correct. You seem to know what you're＿doing after all.」"
+msgstr "Ryuuji「Exacto. Parece que al final＿sí sabes lo que haces.」"
+
+msgid "Taiga「I can do anything if I try hard. I just＿never try. Now then, how should I＿serve it～? Fufu♪」"
+msgstr "Taiga「Puedo hacer lo que sea si me esfuerzo.＿Solo que nunca lo intento. Y bien,＿¿cómo lo sirvo～? Juju♪」"
+
+msgid "Ryuuji「（She's even humming...... Oh?）」"
+msgstr "Ryuuji「（Hasta está tarareando...... ¿Eh?）」"
+
+msgid "Ryuuji「（T-This is...... the sugar jar. And it's＿almost half-- no, MORE than＿half-empty...... but why is it......?）」"
+msgstr "Ryuuji「（E-Este es...... el frasco del azúcar.＿Y está casi medio-- no, MÁS de medio＿vacío...... pero ¿por qué está......?）」"
+
+msgid "Ryuuji「（No, this is Taiga we're talking about......＿There's no doubt.）」"
+msgstr "Ryuuji「（No, estamos hablando de Taiga......＿No hay duda alguna.）」"
+
+msgid "Taiga「Hey Ryuuji, am I cutting it small＿enough?」"
+msgstr "Taiga「Oye, Ryuuji, ¿lo estoy cortando＿lo bastante pequeño?」"
+
+msgid "Ryuuji「Oh, yeah, that's good......」"
+msgstr "Ryuuji「Ah, sí, así está bien......」"
+
+msgid "Ryuuji「（What do I do......? Should I point it＿out......? But if I do......）」"
+msgstr "Ryuuji「（¿Qué hago......? ¿Se lo digo......?＿Pero si lo hago......）」"
+
+msgid "Ryuuji「（Meanwhile, as I stood there＿conflicted......）」"
+msgstr "Ryuuji「（Mientras tanto, yo me quedaba＿ahí indeciso......）」"
+
+msgid "Yasuko「Goodness, did Taiga-chan make this＿for usss～?」"
+msgstr "Yasuko「¡Vaya! ¿Acaso Taiga-chan preparó＿esto para nosotrosss～?」"
+
+msgid "Ryuuji「（It was time to eat......）」"
+msgstr "Ryuuji「（Llegó la hora de comer......）」"
+
+msgid "Taiga「Yup. Well, just the boiled spinach.」"
+msgstr "Taiga「Sip. Bueno, solo la espinaca hervida.」"
+
+msgid "Yasuko「Still, well done! You're a good girl,＿Taiga-chan～ You'll make a good wife＿somedayyy.」"
+msgstr "Yasuko「¡Aun así, muy bien hecho! Eres una＿buena chica, Taiga-chan～ Serás una＿buena esposa algún díaaa.」"
+
+msgid "Taiga「Well, I have a long way to go.」"
+msgstr "Taiga「Bueno, aún me falta mucho.」"
+
+msgid "Ryuuji「（Dammit, I should have said something＿sooner! Before Yasuko came home, at＿least!）」"
+msgstr "Ryuuji「（¡Maldición, debí decir algo antes! ¡Al＿menos antes de que Yasuko volviera!）」"
+
+msgid "Yasuko「So Ryuu-chan taught youuu. In that＿case, Ryuu-chan should have the first＿biteee.」"
+msgstr "Yasuko「Así que Ryuu-chan te enseñóoo.＿En ese caso, Ryuu-chan debería＿dar el primer bocadooo.」"
+
+msgid "Ryuuji「O-Oh, yeah......」"
+msgstr "Ryuuji「A-Ah, sí......」"
+
+msgid "Taiga「Want soy sauce? Here.」"
+msgstr "Taiga「¿Quieres salsa de soya? Toma.」"
+
+msgid "Ryuuji「O-Okay......」"
+msgstr "Ryuuji「E-Está bien......」"
+
+msgid "Taiga「Ryuuji, what do you say?」"
+msgstr "Taiga「Ryuuji, ¿qué se dice?」"
+
+msgid "Ryuuji「Thanks for the food......」"
+msgstr "Ryuuji「Gracias por la comida......」"
+
+msgid "Ryuuji「（......Ngh!）」"
+msgstr "Ryuuji「（......¡Ngh!）」"
+
+msgid "Ryuuji「（UUURRRRRGGGGHHHH SWEET!＿Sweet, sweet, SWEET! I'm in sugary＿HELL! Tooth-rotting hell!!）」"
+msgstr "Ryuuji「（¡AAAARRRRGGGGHHH, QUÉ DULCE! ¡Dulce,＿dulce, DULCE! ¡Es un INFIERNO de azúcar!＿¡¡Para pudrir dientes!!）」"
+
+msgid "Taiga「......What do you think?」"
+msgstr "Taiga「......¿Qué te parece?」"
+
+msgid "Ryuuji「O-Oh...... It's boiled, all right.」"
+msgstr "Ryuuji「A-Ah...... Hervida sí que está.」"
+
+msgid "Taiga「......Whew～ That's a relief.」"
+msgstr "Taiga「......Uf～ Qué alivio.」"
+
+msgid "Ryuuji「（Look at that damn satisfied＿expression...... Goddammit! There's only＿one way out of this!）」"
+msgstr "Ryuuji「（Mira esa maldita cara de＿satisfacción...... ¡Maldición!＿¡Solo hay una salida para esto!）」"
+
+msgid "Ryuuji「Hey, can I eat the rest?」"
+msgstr "Ryuuji「Oye, ¿puedo comerme el resto?」"
+
+msgid "Taiga「Huh? Why? What about me and＿Yacchan?」"
+msgstr "Taiga「¿Eh? ¿Por qué? ¿Y qué hay＿de mí y de Yacchan?」"
+
+msgid "Yasuko「Mercy! Good for you, Ryuu-channn.」"
+msgstr "Yasuko「¡Vaya! Qué bien por ti, Ryuu-channn.」"
+
+msgid "Ryuuji「Guess you really can do whatever you＿put your mind to...... Mph.」"
+msgstr "Ryuuji「Supongo que en verdad puedes lograr＿lo que te propones...... Mph.」"
+
+msgid "Taiga「......Ryuuji, let me have a little taste.」"
+msgstr "Taiga「......Ryuuji, déjame probar un poco.」"
+
+msgid "Ryuuji「No way. This is mine.」"
+msgstr "Ryuuji「De ninguna manera. Esto es mío.」"
+
+msgid "Taiga「Ryuuji, you're sweating for some weird＿reason.」"
+msgstr "Taiga「Ryuuji, estás sudando por＿alguna extraña razón.」"
+
+msgid "Ryuuji「Oh, seriously......? Aah!」"
+msgstr "Ryuuji「Ah, ¿en serio......? ¡Aah!」"
+
+msgid "Ryuuji「What's with you? Let go! Don't twist my＿arm!」"
+msgstr "Ryuuji「¿Qué te pasa? ¡Suéltame! ¡No＿me tuerzas el brazo!」"
+
+msgid "Taiga「Shut up! Gimme!」"
+msgstr "Taiga「¡Cállate! ¡Dame!」"
+
+msgid "Yasuko「Goodness! Ufufu.」"
+msgstr "Yasuko「¡Cielos! Ufufu.」"
+
+msgid "Ryuuji「Wha--! Don't eat off my chopsticks!!」"
+msgstr "Ryuuji「¡Qu--! ¡¡No comas de mis palillos!!」"
+
+msgid "Taiga「*Nom*......」"
+msgstr "Taiga「*Ñam*......」"
+
+msgid "Ryuuji「......」"
+msgstr "Ryuuji「......」"
+
+msgid "Taiga「............Blegh.」"
+msgstr "Taiga「............Puaj.」"
+
+msgid "Ryuuji「T-Taiga......?」"
+msgstr "Ryuuji「¿T-Taiga......?」"
+
+msgid "Taiga「Bleh...... I, I saw hell. Ants were＿marching happily along.」"
+msgstr "Taiga「Puaj...... V-Vi el infierno. Había＿hormigas marchando felices en fila.」"
+
+msgid "Ryuuji「Oh good, you're back with us!」"
+msgstr "Ryuuji「¡Qué bien, regresaste con nosotros!」"
+
+msgid "Yasuko「W-What just happened? You okay～?」"
+msgstr "Yasuko「¿Q-Qué acaba de pasar? ¿Estás bien～?」"
+
+msgid "Taiga「Yeah...... I'm okay......」"
+msgstr "Taiga「Sí...... estoy bien......」"
+
+msgid "Ryuuji「......Wha--! Don't cry! It was an easy＿mistake for a beginner to make.」"
+msgstr "Ryuuji「......¡Qu--! ¡No llores! Es un error＿fácil de cometer para un principiante.」"
+
+msgid "Taiga「No, that isn't...... That's not it.」"
+msgstr "Taiga「No, no es...... No es por eso.」"
+
+msgid "Ryuuji「......Sugar and salt?」"
+msgstr "Ryuuji「......¿El azúcar y la sal?」"
+
+msgid "Taiga「Yeah, at school.」"
+msgstr "Taiga「Sí, en la escuela.」"
+
+msgid "Ryuuji「（At school......? What the? Now that she＿mentions it, I feel like there was......）」"
+msgstr "Ryuuji「（¿En la escuela......? ¿Qué? Ahora que＿lo menciona, siento que hubo......）」"
+
+msgid "Ryuuji「......It's no use.」"
+msgstr "Ryuuji「......No sirve de nada.」"
+
+msgid "Taiga「I see......」"
+msgstr "Taiga「Ya veo......」"
+
+msgid "Yasuko「Taiga-chan?」"
+msgstr "Yasuko「¿Taiga-chan?」"
+
+msgid "Taiga「Oh, uh, I'm okay. Thanks, Yacchan.」"
+msgstr "Taiga「Ah, eh, estoy bien. Gracias, Yacchan.」"
+
+msgid "Ryuuji「Sorry about this.」"
+msgstr "Ryuuji「Perdón por esto.」"
+
+msgid "Taiga「You don't need to apologize, but...... but＿I've made up my mind, you know.」"
+msgstr "Taiga「No tienes que disculparte, pero......＿pero ya tomé una decisión, ¿sabes?」"
+
+msgid "Ryuuji「About what? Becoming independent?」"
+msgstr "Ryuuji「¿Sobre qué? ¿Volverte independiente?」"
+
+msgid "Yasuko「W-Whaaat? Independence? What?＿Taiga-chan will be independent?＿Yacchan doesn't want thattt～」"
+msgstr "Yasuko「¡¿Q-Quéee?! ¿Independencia? ¿Qué?＿¿Taiga-chan se va a independizar?＿¡Yacchan no quiere esooo～!」"
+
+msgid "Taiga「Sorry, Yacchan. Let's save that＿conversation for later. I'm really sorry.」"
+msgstr "Taiga「Perdón, Yacchan. Dejemos esa charla＿para después. De verdad lo siento.」"
+
+msgid "Yasuko「Nnn, alright, yansuuu......」"
+msgstr "Yasuko「Mnn, está bien, yansuuu......」"
+
+msgid "Taiga「I've made up my mind about your＿memories, Ryuuji. I've decided I'm＿going to get them all back for you.」"
+msgstr "Taiga「Ya tomé una decisión sobre tus＿recuerdos, Ryuuji. Decidí que voy＿a hacer que los recuperes todos.」"
+
+msgid "Ryuuji「Oh, okay...... Wait, what? Why are you＿being so formal?」"
+msgstr "Ryuuji「Ah, está bien...... Espera, ¿qué?＿¿Por qué estás tan seria?」"
+
+msgid "Taiga「Up until now...... For example, going＿back to our earlier conversation about＿mixing up sugar and salt......」"
+msgstr "Taiga「Hasta ahora...... Por ejemplo, volviendo＿a lo que hablábamos antes sobre＿confundir el azúcar con la sal......」"
+
+msgid "Ryuuji「G-Going easy......? Huh?」"
+msgstr "Ryuuji「¿S-Ser blanda......? ¿Eh?」"
+
+msgid "Taiga「Now that's decided, there's only one＿thing to do, Ryuuji!」"
+msgstr "Taiga「Ahora que está decidido, ¡solo queda＿una cosa por hacer, Ryuuji!」"
+
+msgid "Ryuuji「W-What are you getting me into?」"
+msgstr "Ryuuji「¿E-En qué me estás metiendo?」"
+
+msgid "Taiga「Isn't it obvious? We're starting with＿food. Thanks for the food!」"
+msgstr "Taiga「¿No es obvio? Empezaremos por la＿comida. ¡Gracias por la comida!」"
+
+msgid "Ryuuji「Wha...... What the hell......?」"
+msgstr "Ryuuji「Qu...... ¿Qué demonios......?」"
+
+msgid "Yasuko「C-Can Yacchan have some toooo?」"
+msgstr "Yasuko「¿Y-Yacchan también puede comerrrr?」"
+
+msgid "Ryuuji「......Oh, don't hesitate. Eat up.」"
+msgstr "Ryuuji「......Ah, no te contengas. Adelante.」"
+
+msgid "Ryuuji「Then are you so hungry you can't wait＿to eat? Sorry, but Yasuko will be home＿any time now, so wait just a little」"
+msgstr "Ryuuji「¿Tanta hambre tienes que no puedes＿esperar? Perdón, Yasuko vuelve en＿cualquier momento; espera un poco」"
+
+msgid "Ryuuji「longer.」"
+msgstr "Ryuuji「más.」"
+
+msgid "Ryuuji「Yeah, I think I've gotten my domestic＿senses back completely. What a relief.＿Now you and Yasuko can continue to」"
+msgstr "Ryuuji「Sí, creo que recuperé por completo＿mi instinto hogareño. Qué alivio. Ahora＿tú y Yasuko podrán seguir」"
+
+msgid "Ryuuji「have decent lives.」"
+msgstr "Ryuuji「teniendo vidas decentes.」"
+
+msgid "Taiga「You were hospitalized, and to make＿matters worse, you got amnesia...... But＿it seems you've got the hang of things」"
+msgstr "Taiga「Estuviste hospitalizado y, para colmo,＿te dio amnesia...... Pero parece＿que ya dominas las cosas」"
+
+msgid "Taiga「again, so I think now's my chance.」"
+msgstr "Taiga「otra vez, así que creo que＿es mi oportunidad.」"
+
+msgid "Taiga「Most likely...... No, without a doubt. I＿mean, we're supposed to think alike,＿but I can't help but think that there's a」"
+msgstr "Taiga「Lo más seguro...... No, sin duda. Digo,＿se supone que pensamos igual, pero no＿puedo evitar pensar que hay」"
+
+msgid "Taiga「little inconsistency.」"
+msgstr "Taiga「una pequeña inconsistencia.」"
+
+msgid "Ryuuji「（So I said, but all that's left is the＿dishes...... Come to think of it, there's＿mustard spinach in the fridge. It could）」"
+msgstr "Ryuuji「（Eso dije, pero solo falta lavar los＿platos...... Pensándolo bien, hay＿espinaca mostaza en el refrigerador. Se）」"
+
+msgid "Ryuuji「（be boiled...... No, maybe fried eggs＿would be easier......）」"
+msgstr "Ryuuji「（podría hervir...... No, tal＿vez unos huevos fritos serían＿más fáciles......）」"
+
+msgid "Ryuuji「I don't understand it myself, but it's＿like deja vu from a previous＿spectacular disaster...... Never mind,」"
+msgstr "Ryuuji「Ni yo mismo lo entiendo, pero es como＿un deja vu de un desastre espectacular＿del pasado...... Olvídalo,」"
+
+msgid "Ryuuji「maybe not.」"
+msgstr "Ryuuji「tal vez no.」"
+
+msgid "Taiga「Yes, yes, we all know I'm a klutz, isn't＿that right? But you know, I think I'll＿just pretend I didn't hear that arbitrary」"
+msgstr "Taiga「Sí, sí, todos sabemos que soy torpe,＿¿no? Pero ¿sabes?, creo que fingiré＿que no oí esa arbitraria」"
+
+msgid "Taiga「condemnation......」"
+msgstr "Taiga「condena......」"
+
+msgid "Taiga「For example...... I think that weird＿uneasy feeling you had earlier＿probably came from an earlier memory」"
+msgstr "Taiga「Por ejemplo...... Creo que esa extraña＿inquietud que sentiste antes seguro＿vino de un recuerdo anterior」"
+
+msgid "Taiga「of when I nearly set your house on fire＿trying to help you.」"
+msgstr "Taiga「de cuando casi incendio tu casa＿tratando de ayudarte.」"
+
+msgid "Taiga「It really did. I thought since it was＿embarrassing for me, and traumatic＿for you, you'd be better off never」"
+msgstr "Taiga「Sí pasó. Pensé que, como era vergonzoso＿para mí y traumático para ti, sería＿mejor que nunca lo」"
+
+msgid "Taiga「remembering. Until now.」"
+msgstr "Taiga「recordaras. Hasta ahora.」"
+
+msgid "Ryuuji「Hmm...... Well, bits and pieces of a＿scene come to mind, but the memory＿itself...... I have an outline, but the」"
+msgstr "Ryuuji「Mmm...... Bueno, me vienen a la mente＿retazos de una escena, pero el recuerdo＿en sí...... Tengo la base, pero los」"
+
+msgid "Ryuuji「crucial details aren't there at all......＿Fuck.」"
+msgstr "Ryuuji「detalles cruciales no están por＿ningún lado...... Mierda.」"
+
+msgid "Taiga「I realized that for your true memory to＿start to come together, you would＿need those ones too. Even the boring」"
+msgstr "Taiga「Me di cuenta de que para reconstruir＿tus verdaderos recuerdos, también＿necesitas esos. Hasta los sucesos」"
+
+msgid "Taiga「events are probably necessary.」"
+msgstr "Taiga「aburridos seguro son necesarios.」"
+
+msgid "Ryuuji「（That's it...... I remember now! Last time＿Taiga tried to make fried eggs, she＿nearly burned my house down! That's）」"
+msgstr "Ryuuji「（Eso es...... ¡Ya lo recuerdo! ¡La vez＿pasada Taiga quiso hacer huevos fritos＿y casi quema mi casa! ¡Por eso es）」"
+
+msgid "Ryuuji「（why I've been feeling so uneasy!）」"
+msgstr "Ryuuji「（que me sentía tan intranquilo!）」"
+
+msgid "Ryuuji「T-Taiga, on second thought, let's go＿with the spinach! There's some in the＿fridge, and we need to use it before it」"
+msgstr "Ryuuji「T-Taiga, pensándolo mejor, ¡hagamos la＿espinaca! Hay en el refrigerador y＿tenemos que usarla antes de que se」"
+
+msgid "Ryuuji「spoils. Yep, let's do that!」"
+msgstr "Ryuuji「eche a perder. ¡Sí, hagamos eso!」"
+
+msgid "Ryuuji「No, no I'm not! Here's the spinach.＿First you rinse it off, then cut off the＿roots, but don't cut off too much...... Oh,」"
+msgstr "Ryuuji「¡No, claro que no! Toma la espinaca.＿Primero la enjuagas y cortas la raíz,＿pero no cortes demasiado...... Ah,」"
+
+msgid "Ryuuji「I shouldn't do it, should I?」"
+msgstr "Ryuuji「no debería hacerlo yo, ¿verdad?」"
+
+msgid "Ryuuji「Huh? What do you do next? All that's＿left is to boil it in salt water...... Oh yeah.＿When you go to put it in the hot water,」"
+msgstr "Ryuuji「¿Eh? ¿Qué sigue después? Solo falta＿hervirla en agua con sal...... Ah, sí.＿Cuando vayas a meterla al agua caliente,」"
+
+msgid "Ryuuji「hold it by the leaf and let the stem＿soak for a while.」"
+msgstr "Ryuuji「sujétala por la hoja y deja el＿tallo remojándose un rato.」"
+
+msgid "Taiga「It's nothing you should concern＿yourself with. So now what......? No,＿wait, uhh...... I drain it and cut it into」"
+msgstr "Taiga「No es algo de lo que debas preocuparte.＿¿Y ahora qué......? No, espera, eh......＿La escurro y la corto en」"
+
+msgid "Taiga「bite-sized pieces, right?」"
+msgstr "Taiga「trozos pequeños, ¿verdad?」"
+
+msgid "Ryuuji「Well, I mean, there are other side＿dishes, and eating your cooking for the＿first time...... yup, it's great! It's」"
+msgstr "Ryuuji「Bueno, digo, hay otros acompañamientos,＿y probar tu comida por primera vez......＿¡sip, está genial! ¡Está」"
+
+msgid "Ryuuji「delicious, Taiga!」"
+msgstr "Ryuuji「deliciosa, Taiga!」"
+
+msgid "Taiga「Hey Ryuuji, something like this＿happened in the past...... Umm, can you＿remember...... another time when sugar」"
+msgstr "Taiga「Oye, Ryuuji, algo así pasó en el＿pasado...... Ehm, ¿puedes recordar......＿otra vez en que el azúcar」"
+
+msgid "Taiga「and salt were switched?」"
+msgstr "Taiga「y la sal se confundieron?」"
+
+msgid "Taiga「To me...... Well, I thought since it was＿embarrassing for me, and hardly＿important to you, you'd be better off」"
+msgstr "Taiga「Para mí...... Bueno, pensé que como era＿vergonzoso para mí y casi sin＿importancia para ti, sería mejor que」"
+
+msgid "Taiga「never remembering. Until now.」"
+msgstr "Taiga「nunca lo recordaras. Hasta ahora.」"
+
+msgid "Taiga「But now I've decided to get all your＿memories back. The good ones, the＿painful ones, and the meaningless」"
+msgstr "Taiga「Pero ahora decidí hacer que recuperes＿todos tus recuerdos. Los buenos, los＿dolorosos y también los que no tienen」"
+
+msgid "Taiga「ones too. No more going easy on you.」"
+msgstr "Taiga「sentido. Ya no seré blanda contigo.」"

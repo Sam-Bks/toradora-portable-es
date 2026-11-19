@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+
+msgid "Minori「......」"
+msgstr "Minori「......」"
+
+msgid "Ryuuji「Oh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Minori「Haa!!」"
+msgstr "Minori「¡¡Haa!!」"
+
+msgid "Ryuuji「Oh?!」"
+msgstr "Ryuuji「¡¿Eh?!」"
+
+msgid "Ryuuji「......W-What are you doing, Kushieda?」"
+msgstr "Ryuuji「......¿Q-Qué estás haciendo, Kushieda?」"
+
+msgid "Minori「What does it look like, hm?」"
+msgstr "Minori「¿Qué te parece que hago, hm?」"
+
+msgid "Ryuuji「That pose...... It's called \"Y form,\" isn't＿it?」"
+msgstr "Ryuuji「Esa pose...... Se llama＿\"postura en Y\", ¿no?」"
+
+msgid "Minori「Yes, that's right!」"
+msgstr "Minori「¡Sí, así es!」"
+
+msgid "Ryuuji「......uhhh?」"
+msgstr "Ryuuji「......¿ehhh?」"
+
+msgid "Minori「Fufufu, this is your new motto,＿Takasu-kun!」"
+msgstr "Minori「Jujuju, ¡este es tu nuevo＿lema, Takasu-kun!」"
+
+msgid "Ryuuji「......Huh?」"
+msgstr "Ryuuji「......¿Eh?」"
+
+msgid "Minori「It gets its name from \"Do your best,＿young man! Y for victory!!\"」"
+msgstr "Minori「Viene de \"¡Da lo mejor de ti, young＿man! ¡¡La Y de la victoria!!\"」"
+
+msgid "Ryuuji「No, that's V...... Oh, Y for young?」"
+msgstr "Ryuuji「No, es V...... ¿Ah, la Y de young?」"
+
+msgid "Minori「Figured it out, huh!? Yes, exactly! V is＿BORING, that's why! It's hard to explain＿in passing!」"
+msgstr "Minori「¡¿Lo descubriste, eh?! ¡Sí, exacto!＿¡Es que la V es ABURRIDA! ¡Es difícil＿de explicar así de pasada!」"
+
+msgid "Ryuuji「O-Oh, thanks but no thanks. I have my＿own motto.」"
+msgstr "Ryuuji「A-Ah, gracias, pero paso.＿Ya tengo mi propio lema.」"
+
+msgid "Minori「Whew! I was expecting your joints to＿be worn out.」"
+msgstr "Minori「¡Uf! Esperaba que tus articulaciones＿estuvieran oxidadas.」"
+
+msgid "Ryuuji「I'm happy you're helping me stretch,＿but people are starting to stare.」"
+msgstr "Ryuuji「Me alegra que me ayudes a estirar, pero＿la gente nos está empezando a mirar.」"
+
+msgid "Minori「Just as planned!」"
+msgstr "Minori「¡Justo según el plan!」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Minori「Whoopsie! I gotta get goin'! Oh crap,＿crap, crappp!」"
+msgstr "Minori「¡Uy! ¡Me tengo que ir! ¡Ay,＿rayos, rayos, rayooos!」"
+
+msgid "Ryuuji「Wha, really!? Sorry for holding you up!」"
+msgstr "Ryuuji「¡¿En serio?! ¡Perdón por entretenerte!」"
+
+msgid "Minori「Está bien, no problem! Let us meet＿again!」"
+msgstr "Minori「¡Está bien, no problem!＿¡Volvamos a vernos!」"
+
+msgid "Ryuuji「Take careee!」"
+msgstr "Ryuuji「¡Cuídateee!」"
+
+msgid "Ryuuji「（......Oh, I should have asked her when＿she'll be back.）」"
+msgstr "Ryuuji「（......Ah, debí preguntarle＿cuándo volverá.）」"

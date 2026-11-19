@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+
+msgid "Sumire「............」"
+msgstr "Sumire「............」"
+
+msgid "Ryuuji「Umm, Kanou-senpai?」"
+msgstr "Ryuuji「Ehm, ¿Kanou-senpai?」"
+
+msgid "Sumire「Takasu, are you familiar with the＿phrase \"time is money\"?」"
+msgstr "Sumire「Takasu, ¿conoces la frase＿\"el tiempo es oro\"?」"
+
+msgid "Ryuuji「Well, vaguely.」"
+msgstr "Ryuuji「Bueno, vagamente.」"
+
+msgid "Ryuuji「Leave my face out of this.」"
+msgstr "Ryuuji「Deja mi cara fuera de esto.」"
+
+msgid "Sumire「There were no signs of you＿remembering anything, nor of your＿brain being stimulated.」"
+msgstr "Sumire「No hubo señales de que recordaras＿nada, ni de que tu cerebro recibiera＿algún estímulo.」"
+
+msgid "Ryuuji「Ugh......」"
+msgstr "Ryuuji「Ugh......」"
+
+msgid "Sumire「A complete waste of time.」"
+msgstr "Sumire「Una completa pérdida de tiempo.」"
+
+msgid "Ryuuji「Sure seems like it......」"
+msgstr "Ryuuji「Eso parece......」"
+
+msgid "Sumire「Argh, what a loss～ Here, I'll give you＿your phone back, so take it and leave.＿I'm busy here.」"
+msgstr "Sumire「Agh, qué pérdida～ Ten, te devuelvo＿tu teléfono, así que tómalo y vete.＿Estoy ocupada aquí.」"
+
+msgid "Ryuuji「O-Okay. Sorry for intruding.」"
+msgstr "Ryuuji「E-Está bien. Perdón por molestar.」"
+
+msgid "Sumire「Don't you forget our agreement on the＿morning of the 7th!」"
+msgstr "Sumire「¡No olvides nuestro acuerdo＿para la mañana del 7!」"
+
+msgid "Ryuuji「I won't!」"
+msgstr "Ryuuji「¡No lo olvidaré!」"
+
+msgid "Ryuuji「（I got kicked out...... For now, I guess I'll＿head back to Luxure and meet up with＿everyone else.）」"
+msgstr "Ryuuji「（Me echaron...... Por ahora, supongo＿que volveré a Luxure y me reuniré＿con los demás.）」"
+
+msgid "Sumire「Right now, I feel like I've lost a fortune＿here with you, and your boring＿conversation, and your pointless」"
+msgstr "Sumire「Ahora mismo siento que perdí una fortuna＿aquí contigo, con tu aburrida＿conversación, con tus inútiles」"
+
+msgid "Sumire「questions, and your dangerous face.」"
+msgstr "Sumire「preguntas y tu cara peligrosa.」"

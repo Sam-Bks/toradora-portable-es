@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+
+msgid "Inko-chan「BET, BETTER?」"
+msgstr "Inko-chan「¿ME, MEJOR?」"
+
+msgid "Ryuuji「......Yeah, I'm feeling a bit better.」"
+msgstr "Ryuuji「......Sí, me siento un poco mejor.」"
+
+msgid "Inko-chan「......DRUGS?」"
+msgstr "Inko-chan「......¿DROGAS?」"
+
+msgid "Ryuuji「Drugs......? You mean, like, sleeping＿pills?」"
+msgstr "Ryuuji「¿Drogas......? ¿Te refieres＿a pastillas para dormir?」"
+
+msgid "Inko-chan「BILL?」"
+msgstr "Inko-chan「¿BASTILLA?」"
+
+msgid "Ryuuji「Hm?」"
+msgstr "Ryuuji「¿Mmm?」"
+
+msgid "Inko-chan「......」"
+msgstr "Inko-chan「......」"
+
+msgid "Ryuuji「Oh, you're already asleep...... I envy＿your mad sleeping skills...... Good night,＿Inko-chan.」"
+msgstr "Ryuuji「Ah, ya te dormiste...... Envidio tu＿increíble facilidad para dormir......＿Buenas noches, Inko-chan.」"

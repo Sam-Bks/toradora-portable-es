@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+
+msgid "Taiga「......What are you doing here?」"
+msgstr "Taiga「......¿Qué haces aquí?」"
+
+msgid "Ryuuji「Waiting for you.」"
+msgstr "Ryuuji「Esperándote.」"
+
+msgid "Ryuuji「This isn't about breakfast.」"
+msgstr "Ryuuji「No se trata del desayuno.」"
+
+msgid "Taiga「Then what is it? School's about to＿start, so I don't have time to sit and＿talk with you.」"
+msgstr "Taiga「¿Entonces qué es? Las clases están por＿empezar, así que no tengo tiempo para＿sentarme a hablar contigo.」"
+
+msgid "Ryuuji「......It's about Kushieda.」"
+msgstr "Ryuuji「......Es sobre Kushieda.」"
+
+msgid "Taiga「About Minorin?」"
+msgstr "Taiga「¿Sobre Minorin?」"
+
+msgid "Ryuuji「Yeah.」"
+msgstr "Ryuuji「Sí.」"
+
+msgid "Taiga「What about her?」"
+msgstr "Taiga「¿Qué pasa con ella?」"
+
+msgid "Ryuuji「I don't like Kushieda anymore.」"
+msgstr "Ryuuji「Ya no me gusta Kushieda.」"
+
+msgid "Taiga「Wha-- What the hell are you saying!?」"
+msgstr "Taiga「¡¿Q-- Qué demonios estás diciendo?!」"
+
+msgid "Ryuuji「I may have had feelings for her in the＿past, but I don't feel that way right＿now.」"
+msgstr "Ryuuji「Puede que sintiera algo por ella＿en el pasado, pero ahora mismo＿ya no me siento así.」"
+
+msgid "Taiga「That was because you had amnesia,＿right!? ......Once you've remembered＿everything about Christmas......!」"
+msgstr "Taiga「¡Eso fue porque tenías amnesia,＿¿verdad?! ......¡Ahora que recordaste＿todo sobre Navidad......!」"
+
+msgid "Taiga「What's wrong with you? It's like you're＿saying it's Minorin's fault!」"
+msgstr "Taiga「¿Qué te pasa? ¡Es como si estuvieras＿diciendo que es culpa de Minorin!」"
+
+msgid "Ryuuji「I'm not. That's not it. The real issue is＿probably compatibility. It's not a＿matter of whose fault it is.」"
+msgstr "Ryuuji「No lo digo. No es eso. El verdadero＿problema quizá sea la compatibilidad. No＿es cuestión de quién tenga la culpa.」"
+
+msgid "Ryuuji「If it's possible to fall in love with＿someone, it's possible to fall out of＿love, too.」"
+msgstr "Ryuuji「Si es posible enamorarse de alguien,＿también es posible desenamorarse.」"
+
+msgid "Taiga「That might be true...... but--!」"
+msgstr "Taiga「Eso puede ser cierto...... ¡pero--!」"
+
+msgid "Ryuuji「You didn't think anything of Kitamura＿at first, right? Not nearly as much as＿you do now.」"
+msgstr "Ryuuji「Al principio no sentías nada＿por Kitamura, ¿verdad? Ni de＿lejos tanto como ahora.」"
+
+msgid "Taiga「............」"
+msgstr "Taiga「............」"
+
+msgid "Ryuuji「But you fell in love with him. The＿opposite has happened to me.」"
+msgstr "Ryuuji「Pero te enamoraste de él. A mí＿me ha pasado lo contrario.」"
+
+msgid "Taiga「......Then it's all been for nothing? You＿were so desperately passionate about＿her!」"
+msgstr "Taiga「......¿Entonces todo fue para＿nada? ¡Si estabas perdidamente＿enamorado de ella!」"
+
+msgid "Taiga「And now you're saying it's all been＿meaningless!?」"
+msgstr "Taiga「¡¿Y ahora dices que todo＿eso no tuvo sentido?!」"
+
+msgid "Ryuuji「..................」"
+msgstr "Ryuuji「..................」"
+
+msgid "Ryuuji「I want to continue being friends with＿Kushieda, same as always.」"
+msgstr "Ryuuji「Quiero seguir siendo amigo de＿Kushieda, igual que siempre.」"
+
+msgid "Taiga「Wh...... What the...... What......?」"
+msgstr "Taiga「¿Q...... Qué...... Qué......?」"
+
+msgid "Ryuuji「But don't worry! I'll still help you with＿Kitamura, like we promised.」"
+msgstr "Ryuuji「¡Pero no te preocupes! Seguiré＿ayudándote con Kitamura, como＿prometimos.」"
+
+msgid "Ryuuji「My feelings may be in the past, but＿yours for Kitamura......」"
+msgstr "Ryuuji「Mis sentimientos serán del pasado,＿pero los tuyos por Kitamura......」"
+
+msgid "Taiga「Screw that!!」"
+msgstr "Taiga「¡¡Al diablo con eso!!」"
+
+msgid "Ryuuji「Gurgh!」"
+msgstr "Ryuuji「¡Guh!」"
+
+msgid "Ryuuji「（Out of nowhere she threw a straight＿right punch to my stomach......!）」"
+msgstr "Ryuuji「（¡De la nada me lanzó un derechazo＿directo al estómago......!）」"
+
+msgid "Ryuuji「T-The hell are you doing......?」"
+msgstr "Ryuuji「¿Q-Qué demonios haces......?」"
+
+msgid "Taiga「I'm disgusted! Thoroughly disgusted! I＿never thought you were that kind of＿person!」"
+msgstr "Taiga「¡Qué asco! ¡Me das un asco terrible!＿¡Nunca pensé que fueras esa clase＿de persona!」"
+
+msgid "Ryuuji「Taiga...... you...... hit me full force......」"
+msgstr "Ryuuji「Taiga...... me...... golpeaste＿con toda tu fuerza......」"
+
+msgid "Taiga「Hmph! Just kick the bucket right＿there, why don't you!」"
+msgstr "Taiga「¡Jum! ¡¿Por qué no te mueres＿ahí mismo de una vez?!」"
+
+msgid "Taiga「Tch!」"
+msgstr "Taiga「¡Tch!」"
+
+msgid "Ryuuji「*Sigh*...... I practiced how I'd phrase it,＿but maybe it was too serious......」"
+msgstr "Ryuuji「*Suspiro*...... Practiqué cómo＿decirlo, pero quizá sonó demasiado＿serio......」"
+
+msgid "Ryuuji「But at least I said what I needed to......」"
+msgstr "Ryuuji「Pero al menos dije lo que＿tenía que decir......」"
+
+msgid "Ryuuji「（Still............ It hurts......）」"
+msgstr "Ryuuji「（Aun así............ Duele......）」"
+
+msgid "Taiga「Why? Don't tell me you're mad about＿me not coming over for breakfast＿again. I'll say it again - like I said」"
+msgstr "Taiga「¿Por qué? No me digas que estás molesto＿otra vez porque no voy a desayunar.＿Lo diré de nuevo: como」"
+
+msgid "Taiga「before, I'm doing what I want.」"
+msgstr "Taiga「dije antes, hago lo que quiero.」"
+
+msgid "Ryuuji「At the test of courage we did a while＿back, I talked with Kushieda the whole＿time, and in doing so I learned」"
+msgstr "Ryuuji「En la prueba de valor que hicimos hace＿un tiempo, hablé con Kushieda todo el＿rato, y al hacerlo aprendí」"
+
+msgid "Ryuuji「something.」"
+msgstr "Ryuuji「algo.」"
+
+msgid "Ryuuji「Kushieda is amazingly easy to talk to,＿and an incredibly nice person, but it's＿like...... I never felt all \"nervous\" around」"
+msgstr "Ryuuji「Es facilísimo hablar con Kushieda, y es＿muy buena persona, pero es como......＿nunca me puse \"nervioso\" con」"
+
+msgid "Ryuuji「her.」"
+msgstr "Ryuuji「ella.」"
+
+msgid "Taiga「Don't like Minorin!? Idiot! Talk to me＿after you've really thought it through!＿There's no way you don't like her」"
+msgstr "Taiga「¡¿Ya no te gusta Minorin?! ¡Idiota!＿¡Háblame cuando lo hayas pensado bien!＿¡Es imposible que hayas dejado de」"
+
+msgid "Taiga「anymore!」"
+msgstr "Taiga「quererla!」"
+
+msgid "Ryuuji「But love isn't dependent on memories.＿People change. Even if I liked Kushieda＿a year ago, she's changed now. Am I」"
+msgstr "Ryuuji「Pero el amor no depende de recuerdos.＿La gente cambia. Aunque Kushieda me＿gustara hace un año, ya cambió. ¿No」"
+
+msgid "Ryuuji「right?」"
+msgstr "Ryuuji「tengo razón?」"
+
+msgid "Ryuuji「I don't think it was meaningless. I＿thought of Kushieda in my own way......＿and did everything the best I could.」"
+msgstr "Ryuuji「No creo que no tuviera sentido. Pensé＿en Kushieda a mi manera...... e hice＿todo lo mejor que pude.」"
+
+msgid "Ryuuji「Besides......」"
+msgstr "Ryuuji「Además......」"

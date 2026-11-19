@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+
+msgid "Inko-chan「GOO」"
+msgstr "Inko-chan「BUE」"
+
+msgid "Inko-chan「GOOD, GOOD」"
+msgstr "Inko-chan「BUENAS, BUENAS」"
+
+msgid "Ryuuji「Hm......?」"
+msgstr "Ryuuji「¿Hm......?」"
+
+msgid "Inko-chan「GOOD, NIGHT」"
+msgstr "Inko-chan「BUENAS, NOCHES」"
+
+msgid "Inko-chan「......」"
+msgstr "Inko-chan「......」"
+
+msgid "Ryuuji「......Oh. It's asleep.」"
+msgstr "Ryuuji「......Ah. Está dormido.」"
+
+msgid "Ryuuji「......Guess it's my bedtime too.」"
+msgstr "Ryuuji「......Supongo que también debo dormir.」"

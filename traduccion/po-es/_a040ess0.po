@@ -1,0 +1,185 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「（......I had a dream.）」"
+msgstr "Ryuuji「（......Tuve un sueño.）」"
+
+msgid "Ryuuji「（It was a hellish nightmare, filled with all＿of the misery I had wished to avoid.）」"
+msgstr "Ryuuji「（Fue una pesadilla infernal, llena de＿toda la miseria que deseaba evitar.）」"
+
+msgid "Ryuuji「（......And yet, in a way, it was sweet.）」"
+msgstr "Ryuuji「（......Y aun así fue algo dulce.）」"
+
+msgid "Ryuuji「（..................）」"
+msgstr "Ryuuji「（..................）」"
+
+msgid "Ryuuji「（I seem to recall having had this dream＿before......）」"
+msgstr "Ryuuji「（Me parece recordar haber tenido＿este sueño antes......）」"
+
+msgid "???「......ji.」"
+msgstr "???「......ji.」"
+
+msgid "Ryuuji「（Puppies......）」"
+msgstr "Ryuuji「（Perritos......）」"
+
+msgid "???「Ryuu......」"
+msgstr "???「Ryuu......」"
+
+msgid "Ryuuji「（So many puppies......!?）」"
+msgstr "Ryuuji「（¡¿Tantos perritos......?!）」"
+
+msgid "???「WAKE UP, YOU MONGREL!!」"
+msgstr "???「¡¡DESPIERTA, PERRO!!」"
+
+msgid "Ryuuji「Ugggh!」"
+msgstr "Ryuuji「¡Ugggh!」"
+
+msgid "Ryuuji「Owwww. Damn you! You're worse than＿an alarm clock......」"
+msgstr "Ryuuji「Ayyyy. ¡Maldición! Eres peor＿que un despertador......」"
+
+msgid "Taiga「Food.」"
+msgstr "Taiga「Comida.」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Taiga「FOOOOOD! Make it quick!」"
+msgstr "Taiga「¡COMIIIIDA! ¡Hazla rápido!」"
+
+msgid "Ryuuji「*Yawn*...... What time is it......? Wait, it's＿only 5:30! ......Back to bed.」"
+msgstr "Ryuuji「*Bostezo*...... ¿Qué hora......? ¡Solo＿las 5:30! ......Me vuelvo a dormir.」"
+
+msgid "Ryuuji「Ugggh!!」"
+msgstr "Ryuuji「¡¡Ugggh!!」"
+
+msgid "Ryuuji「What is your problem!?」"
+msgstr "Ryuuji「¡¿Qué te pasa?!」"
+
+msgid "Taiga「Don't dawdle. Listen. I can't be＿compared to a Snorlax like you. I have＿things to do. Got it?」"
+msgstr "Taiga「No remolonees. Escucha. No puedes＿compararme con un Snorlax como tú. Tengo＿cosas que hacer. ¿Entendido?」"
+
+msgid "Ryuuji「If you're hungry, just eat whatever's in＿the fridge. Kelp rolls, chicken stir fry,＿black beans......」"
+msgstr "Ryuuji「Si tienes hambre, come lo que haya en＿el refrigerador. Rollos de alga, pollo＿salteado, frijoles negros......」"
+
+msgid "Taiga「That's the same stuff from yesterday.」"
+msgstr "Taiga「Eso es lo mismo de ayer.」"
+
+msgid "Ryuuji「Oh, I know. And there's plenty of it.」"
+msgstr "Ryuuji「Ah, lo sé. Y todavía queda bastante.」"
+
+msgid "Taiga「No way, it's old now. Hey, there's still＿mochi left over from New Year's,＿right? I wanna eat red bean soup.」"
+msgstr "Taiga「Ni hablar, ya está viejo. Oye, todavía＿queda mochi de Año Nuevo, ¿verdad?＿Quiero comer sopa de frijol rojo.」"
+
+msgid "Ryuuji「Denied.」"
+msgstr "Ryuuji「Denegado.」"
+
+msgid "Taiga「I want something sweet! Red bean＿soup, red bean soup, RED BEAN＿SOUP!」"
+msgstr "Taiga「¡Quiero algo dulce! Sopa de frijol＿rojo, sopa de frijol rojo, ¡¡SOPA＿DE FRIJOL ROJO!!」"
+
+msgid "Taiga「......You've been taking it easy for quite＿some time now.」"
+msgstr "Taiga「......Llevas bastante tiempo＿tomándotelo con calma.」"
+
+msgid "Ryuuji「......」"
+msgstr "Ryuuji「......」"
+
+msgid "Taiga「I was sure with your essential＿memories wiped you wouldn't give your＿master much trouble, but au contraire.」"
+msgstr "Taiga「Estaba segura de que sin tus recuerdos＿esenciales no le darías problemas a tu＿ama, pero todo lo contrario.」"
+
+msgid "Ryuuji「......」"
+msgstr "Ryuuji「......」"
+
+msgid "Taiga「You have the time to remember＿pointless trivia, but you don't have the＿time to make ME breakfast, is that it!?」"
+msgstr "Taiga「Tienes tiempo para recordar datos＿inútiles, pero no para prepararme＿a MÍ el desayuno, ¡¿es eso?!」"
+
+msgid "Ryuuji「ARGH! For crying out loud! I get it, I get＿it!」"
+msgstr "Ryuuji「¡ARGH! ¡Por el amor de Dios!＿¡Ya entendí, ya entendí!」"
+
+msgid "Ryuuji「......Here.」"
+msgstr "Ryuuji「......Aquí tienes.」"
+
+msgid "Taiga「Mmm, smells good～」"
+msgstr "Taiga「Mmm, huele bien～」"
+
+msgid "Ryuuji「It's hot, so don't burn your tongue.＿Blow on it.」"
+msgstr "Ryuuji「Está caliente, así que no te＿quemes la lengua. Sóplale.」"
+
+msgid "Taiga「I KNOW. Shut it.」"
+msgstr "Taiga「YA LO SÉ. Cállate.」"
+
+msgid "Ryuuji「Where are your manners?」"
+msgstr "Ryuuji「¿Dónde están tus modales?」"
+
+msgid "Taiga「Thanks for the food!」"
+msgstr "Taiga「¡Gracias por la comida!」"
+
+msgid "Taiga「Yum......!」"
+msgstr "Taiga「¡Qué rico......!」"
+
+msgid "Ryuuji「Of course it is. The key is the secret＿ingredient - a pinch of salt.」"
+msgstr "Ryuuji「Pues claro que sí. La clave es el＿ingrediente secreto: una pizca de sal.」"
+
+msgid "Taiga「You remember that stuff pretty well. I＿wish you'd made it when I asked you＿the first time.」"
+msgstr "Taiga「Recuerdas bastante bien esas cosas.＿Ojalá lo hubieras hecho cuando te＿lo pedí la primera vez.」"
+
+msgid "Ryuuji「Excuse me, Princess...... No, first of all,＿what's with you getting up on your own＿at this hour? Any special reason?」"
+msgstr "Ryuuji「Disculpe, Princesa...... No, antes que＿nada, ¿a qué viene levantarse sola a＿esta hora? ¿Alguna razón especial?」"
+
+msgid "Taiga「N-None of your...... HOT!」"
+msgstr "Taiga「N-No es tu...... ¡QUEMA!」"
+
+msgid "Ryuuji「Sheesh, I warned you! Have some＿water!」"
+msgstr "Ryuuji「¡Cielos, te lo advertí!＿¡Toma un poco de agua!」"
+
+msgid "Taiga「......I hab sobehin to hoo.」"
+msgstr "Taiga「......Tedgo adgo bue hazer.」"
+
+msgid "Ryuuji「Something you have to do? Do what?」"
+msgstr "Ryuuji「¿Algo que hacer? ¿Hacer qué?」"
+
+msgid "Taiga「Nuh, nub ub yoh bibniz.」"
+msgstr "Taiga「Do, do eb du asundo.」"
+
+msgid "Ryuuji「I'm sure it IS my business. You kicked＿me awake first thing in the morning＿and had me make you breakfast.」"
+msgstr "Ryuuji「Claro que SÍ es mi asunto. Me＿despertaste a patadas a primera hora＿y me hiciste prepararte el desayuno.」"
+
+msgid "Taiga「Shuh ub.」"
+msgstr "Taiga「Gállade.」"
+
+msgid "Ryuuji「......Maybe I'll go with you. I might＿remember something, after all.」"
+msgstr "Ryuuji「......Tal vez vaya contigo. Puede que＿recuerde algo, después de todo.」"
+
+msgid "Taiga「*Gasp*! N-No, you can't!! You just can't!!＿You stalker!! ......Owwwww!」"
+msgstr "Taiga「¡Ah! ¡¡N-No, no puedes!! ¡¡No puedes!!＿¡¡Acosador!! ......¡Ayyyyy!」"
+
+msgid "Ryuuji「......Have some water.」"
+msgstr "Ryuuji「......Toma un poco de agua.」"
+
+msgid "Taiga「Doh cub wid be.」"
+msgstr "Taiga「Do bedgas codbigo.」"
+
+msgid "Ryuuji「Okay, okay, I won't go with you.」"
+msgstr "Ryuuji「Bien, bien, no iré contigo.」"
+
+msgid "Ryuuji「Wait, where are your manners?」"
+msgstr "Ryuuji「Espera, ¿dónde están tus modales?」"
+
+msgid "Taiga「Thanks for the food!」"
+msgstr "Taiga「¡Gracias por la comida!」"
+
+msgid "Ryuuji「What is she hiding......?」"
+msgstr "Ryuuji「¿Qué estará ocultando......?」"
+
+msgid "Ryuuji「（Now that I ate breakfast, I don't feel＿like going back to bed......）」"
+msgstr "Ryuuji「（Ahora que ya desayuné, no tengo ganas＿de volver a la cama......）」"
+
+msgid "Ryuuji「（......And the TV shows won't be all that＿different from what was on yesterday.）」"
+msgstr "Ryuuji「（......Y los programas de tele no serán＿muy distintos a los de ayer.）」"
+
+msgid "Ryuuji「......Guess I'll go out.」"
+msgstr "Ryuuji「......Supongo que saldré.」"
+
+msgid "Ryuuji「Here's the deal. Traditional New Year's＿food lasts a long time so that＿househusbands can take a breather.」"
+msgstr "Ryuuji「Escucha. La comida tradicional de Año＿Nuevo dura mucho tiempo para que los＿amos de casa puedan tomar un respiro.」"
+
+msgid "Ryuuji「A three-day breather at that. If you＿can understand that, then do as you＿like. I'm going back to sleep.」"
+msgstr "Ryuuji「Un respiro de tres días, además.＿Si lo entiendes, haz lo que quieras.＿Me vuelvo a dormir.」"

@@ -1,0 +1,17 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「（Looks like Senpai isn't here yet......）」"
+msgstr "Ryuuji「（Parece que Senpai aún no llega......）」"
+
+msgid "Come back later"
+msgstr "Volver más tarde"
+
+msgid "This armband reminds me......"
+msgstr "Este brazalete me recuerda......"
+
+msgid "She might still be at home"
+msgstr "Puede que aún esté en casa"
+
+msgid "Ryuuji「（No choice but to come back later after＿I've killed some time......）」"
+msgstr "Ryuuji「（No me queda más que volver más tarde＿después de matar el tiempo......）」"

@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+
+msgid "Yasuko「Something smells good～」"
+msgstr "Yasuko「Algo huele bien～」"
+
+msgid "Ryuuji「Oh, shouldn't you be sleeping?」"
+msgstr "Ryuuji「Ah, ¿no deberías estar durmiendo?」"
+
+msgid "Yasuko「Yacchan was roused by that smell～＿What are you making, Ryuu-chan～?」"
+msgstr "Yasuko「Ese olor despertó a Yacchan～ ¿Qué＿estás preparando, Ryuu-chan～?」"
+
+msgid "Ryuuji「Rice cakes.」"
+msgstr "Ryuuji「Pasteles de arroz.」"
+
+msgid "Yasuko「Ohh～ New Year's tradition.」"
+msgstr "Yasuko「Ohh～ Tradición de Año Nuevo.」"
+
+msgid "Ryuuji「I'd prefer to pass on New Year's food＿for the sake of time and budget, but I＿at least want to have rice cakes.」"
+msgstr "Ryuuji「Por tiempo y presupuesto, preferiría＿evitar la comida de Año Nuevo, pero al＿menos quiero pasteles de arroz.」"
+
+msgid "Yasuko「Ehehe～ But what about this～ New☆＿Years☆ Food☆」"
+msgstr "Yasuko「Jejeje～ ¿Pero qué tal esto～?＿Comida☆ de Año☆ Nuevo☆」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Yasuko「Ta-daaa～～～!」"
+msgstr "Yasuko「¡Ta-daaa～～～!」"
+
+msgid "Ryuuji「W-What's this cornucopia of＿delicacies!? This must have cost a＿fortune!」"
+msgstr "Ryuuji「¡¿Q-Qué es este festín de manjares?!＿¡Esto debió haber costado una fortuna!」"
+
+msgid "Yasuko「Dunno. Yacchan didn't buy them～」"
+msgstr "Yasuko「No sé. Yacchan no los compró～」"
+
+msgid "Ryuuji「......Did you get these from a customer?」"
+msgstr "Ryuuji「......¿Te los dio algún cliente?」"
+
+msgid "Yasuko「Bingooo～ That's right! A customer＿brought them in last night～」"
+msgstr "Yasuko「Bingooo～ ¡Así es! Un cliente＿los trajo anoche～」"
+
+msgid "Ryuuji「You didn't buy them? Was it a gift?」"
+msgstr "Ryuuji「¿No los compraste? ¿Fue un regalo?」"
+
+msgid "Yasuko「Yup. From a customer at the bar～」"
+msgstr "Yasuko「Sip. De un cliente del bar～」"
+
+msgid "Ryuuji「A customer at the bar......」"
+msgstr "Ryuuji「Un cliente del bar......」"
+
+msgid "Ryuuji「Hey, I've wondered for a while, what do＿you do for a living?」"
+msgstr "Ryuuji「Oye, me lo he preguntado desde hace＿un tiempo, ¿a qué te dedicas?」"
+
+msgid "Yasuko「Whaaat? Don't you know,＿Ryuu-channn?」"
+msgstr "Yasuko「¿Quééé? ¿Acaso no lo sabes, Ryuu-channn?」"
+
+msgid "Ryuuji「You haven't told me, no.」"
+msgstr "Ryuuji「No me lo has dicho, no.」"
+
+msgid "Yasuko「Yacchan is the proprietress of a bar＿called \"Bishamontengoku\"～」"
+msgstr "Yasuko「Yacchan es la dueña de un bar＿llamado \"Bishamontengoku\"～」"
+
+msgid "Ryuuji「（Bishamontengoku......?　Proprietress......?）」"
+msgstr "Ryuuji「（¿Bishamontengoku......? ¿Dueña......?）」"
+
+msgid "Ryuuji「......Hmm, so in other words, you work at＿a hostess bar?」"
+msgstr "Ryuuji「......Mmm, así que, en otras palabras,＿¿trabajas en un bar de anfitrionas?」"
+
+msgid "Yasuko「Bullseye～」"
+msgstr "Yasuko「En el blanco～」"
+
+msgid "Ryuuji「Now I get it. So that's why you work the＿graveyard shift.」"
+msgstr "Ryuuji「Ahora entiendo. Así que por eso＿trabajas en el turno de noche.」"
+
+msgid "Taiga「New Year's rice cakes! That's like the＿best New Year's tradition!」"
+msgstr "Taiga「¡Pasteles de arroz de Año Nuevo! ¡Es＿como la mejor tradición de Año Nuevo!」"
+
+msgid "Ryuuji「Oh, Taiga, just in time.」"
+msgstr "Ryuuji「Ah, Taiga, justo a tiempo.」"
+
+msgid "Taiga「I could smell them from my house.」"
+msgstr "Taiga「Podía olerlos desde mi casa.」"
+
+msgid "Ryuuji「That nose isn't human.」"
+msgstr "Ryuuji「Ese olfato no es humano.」"
+
+msgid "Yasuko「Ryuu-chan, aren't they done yet～?」"
+msgstr "Yasuko「Ryuu-chan, ¿todavía no están listos～?」"
+
+msgid "Ryuuji「......Hm, alright, good as done. Let's eat.」"
+msgstr "Ryuuji「......Mm, bien, ya están. A comer.」"
+
+msgid "Yasuko「Once more, Ryuu-chan, Taiga-chan,＿Happy New Year.」"
+msgstr "Yasuko「Una vez más, Ryuu-chan, Taiga-chan,＿Feliz Año Nuevo.」"
+
+msgid "Taiga「Happy New Year.」"
+msgstr "Taiga「Feliz Año Nuevo.」"
+
+msgid "Ryuuji「Happy New Year.」"
+msgstr "Ryuuji「Feliz Año Nuevo.」"
+
+msgid "Yasuko「Let's all three of us get along this year,＿too, 'kay?」"
+msgstr "Yasuko「Llevémonos bien los tres＿este año también, ¿sí?」"
+
+msgid "Inko-chan「D, DO, DON'T FORGET」"
+msgstr "Inko-chan「N, NO, NO OLVIDEN」"
+
+msgid "Yasuko「S-Sorry. Um, let's all FOUR of us get＿along.」"
+msgstr "Yasuko「P-Perdón. Ehm, llevémonos＿bien los CUATRO.」"
+
+msgid "Taiga「Yacchan, let's leave the formalities at＿that and eat already. My stomach's＿growling～」"
+msgstr "Taiga「Yacchan, dejemos las formalidades＿hasta ahí y comamos ya. Me＿ruge el estómago～」"
+
+msgid "Yasuko「Okay. Thanks for the foooood～」"
+msgstr "Yasuko「Está bien. Gracias por la comidaaa～」"
+
+msgid "Taiga「Thanks for the food!」"
+msgstr "Taiga「¡Gracias por la comida!」"
+
+msgid "Ryuuji「Let's eat.」"
+msgstr "Ryuuji「A comer.」"
+
+msgid "Ryuuji「（What should I start with......?＿Kurikinton, kelp rolls, omelette＿rolls......?）」"
+msgstr "Ryuuji「（¿Con qué debería empezar......?＿¿Kurikinton, rollos de alga, rollos＿de omelette......?）」"
+
+msgid "Taiga「Taking the shrimp!」"
+msgstr "Taiga「¡Me pido el camarón!」"
+
+msgid "Yasuko「Yacchan will have the herring roe.」"
+msgstr "Yasuko「Yacchan comerá las huevas de arenque.」"
+
+msgid "Ryuuji「（Gah. First thing they take is the fancy＿stuff! MOTTAINAI!）」"
+msgstr "Ryuuji「（¡Agh! ¡Lo primero que agarran es＿lo más fino! ¡QUÉ DESPERDICIO!）」"
+
+msgid "Ryuuji「（......Doesn't feel right to go for the＿goods...... Alright, I'll savor my＿handmade rice cakes!）」"
+msgstr "Ryuuji「（......No se siente bien ir directo＿a lo fino...... ¡Bien, saborearé mis＿pasteles de arroz caseros!）」"
+
+msgid "Ryuuji「（Fufufu, I've outdone myself! They're＿perfect!）」"
+msgstr "Ryuuji「（¡Jujuju, me he superado!＿¡Están perfectos!）」"
+
+msgid "Taiga「Yacchan, this is SOOO good!」"
+msgstr "Taiga「¡Yacchan, esto está BUENÍÍÍSIMO!」"
+
+msgid "Yasuko「Yacchan wants some shrimp too～」"
+msgstr "Yasuko「Yacchan también quiere camarón～」"
+
+msgid "Ryuuji「......The shrimp is good, but wouldn't a＿rice cake go with it?」"
+msgstr "Ryuuji「......El camarón está bueno, ¿pero no＿iría bien con un pastel de arroz?」"
+
+msgid "Taiga「I'll have one later. Hey Yacchan, why is＿foie gras in here?」"
+msgstr "Taiga「Comeré uno más tarde. Oye, Yacchan,＿¿por qué hay foie gras aquí?」"
+
+msgid "Yasuko「Caviar is in here too～」"
+msgstr "Yasuko「También hay caviar aquí～」"
+
+msgid "Ryuuji「（T-They're so focused on the＿delicacies...... Have they no＿self-restraint? No shame?）」"
+msgstr "Ryuuji「（E-Están tan concentradas en los＿manjares...... ¿No tienen moderación?＿¿Ni vergüenza?）」"
+
+msgid "Taiga「Have New Year's traditions been＿getting more modern these days......?＿Oh, sorry, I ate the crab.」"
+msgstr "Taiga「¿Las tradiciones de Año Nuevo se han＿vuelto más modernas últimamente......?＿Ah, perdón, me comí el cangrejo.」"
+
+msgid "Yasuko「The abalone's gone toooo.」"
+msgstr "Yasuko「El abulón también se acabóóó.」"
+
+msgid "Ryuuji「（Oh! Now look what's happened...... I＿didn't get even one bite of that fancy＿stuff......）」"
+msgstr "Ryuuji「（¡Ah! Ahora mira lo que pasó......＿No pude probar ni un bocado de＿esas cosas finas......）」"
+
+msgid "Yasuko「Huh? What's wrong, Ryuu-chan?＿Aren't you going to grab anything?」"
+msgstr "Yasuko「¿Eh? ¿Qué pasa, Ryuu-chan?＿¿No vas a servirte nada?」"
+
+msgid "Taiga「Sulking because your rice cakes are＿getting overlooked? Don't worry. I'll＿definitely eat them.」"
+msgstr "Taiga「¿Haciendo pucheros porque ignoramos＿tus pasteles de arroz? No te preocupes.＿Sin duda me los comeré.」"
+
+msgid "Yasuko「Yup. Yacchan will eat Ryuu-chan's rice＿cakes, toooo.」"
+msgstr "Yasuko「Sip. Yacchan también comerá los pasteles＿de arroz de Ryuu-chan, sííí.」"
+
+msgid "Ryuuji「No, that's not it...... It's nothing......」"
+msgstr "Ryuuji「No, no es eso...... No es nada......」"
+
+msgid "Taiga「Mm, delicious.」"
+msgstr "Taiga「Mm, delicioso.」"
+
+msgid "Yasuko「Yup. Such a refined flavor～」"
+msgstr "Yasuko「Sip. Qué sabor tan refinado～」"
+
+msgid "Ryuuji「Yeah, thanks.」"
+msgstr "Ryuuji「Sí, gracias.」"
+
+msgid "Ryuuji「（......It's sad to be compared to that＿feast.）」"
+msgstr "Ryuuji「（......Es triste que lo comparen＿con ese banquete.）」"
+
+msgid "Taiga「Thanks for the food～」"
+msgstr "Taiga「Gracias por la comida～」"
+
+msgid "Yasuko「Thanks for the fooood...... *Yawnnn*......＿Getting sleepy with a full tummy.」"
+msgstr "Yasuko「Gracias por la comidaaa......＿*Bostezooo*...... Llenita y con sueño.」"
+
+msgid "Yasuko「Yacchan is falling into a food comaaa.＿Good nighttt～」"
+msgstr "Yasuko「Yacchan está cayendo en un coma＿de comidaaa. Buenas nocheees～」"
+
+msgid "Taiga「Good night, Yacchan.」"
+msgstr "Taiga「Buenas noches, Yacchan.」"
+
+msgid "Taiga「Ryuuji, what are you up to today?」"
+msgstr "Taiga「Ryuuji, ¿qué vas a hacer hoy?」"
+
+msgid "Ryuuji「I don't have any special plans...... Think＿I might just hang out for a while.」"
+msgstr "Ryuuji「No tengo ningún plan en especial......＿Creo que solo daré una vuelta un rato.」"
+
+msgid "Taiga「Okay. Don't get lost. See ya.」"
+msgstr "Taiga「Está bien. No te pierdas. Nos vemos.」"
+
+msgid "Ryuuji「Oh, okay.」"
+msgstr "Ryuuji「Ah, está bien.」"
+
+msgid "Ryuuji「（What nice weather...... Guess I'll clean＿up and head out.）」"
+msgstr "Ryuuji「（Qué buen clima...... Supongo que＿limpiaré y saldré un rato.）」"

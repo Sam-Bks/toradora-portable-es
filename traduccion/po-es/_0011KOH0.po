@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「......Gah!!」"
+msgstr "Ryuuji「......¡Gah!!」"
+
+msgid "???「Ack!」"
+msgstr "???「¡Ay!」"
+
+msgid "Ryuuji「Owwww......」"
+msgstr "Ryuuji「Ayyyy......」"
+
+msgid "???「Owww...... Jeez, don't suddenly jump out＿like that......」"
+msgstr "???「Ayyy...... Cielos, no salgas＿así de repente......」"
+
+msgid "???「......Aah!」"
+msgstr "???「......¡Aah!」"
+
+msgid "Ryuuji「......?」"
+msgstr "Ryuuji「¿......?」"
+
+msgid "???「I, I-I-I'm so sorry! A-A-Are you okay!?」"
+msgstr "???「¡L-L-L-Lo siento! ¡¿E-E-Estás bien?!」"
+
+msgid "Ryuuji「Uh...... yeah, I'm fine.」"
+msgstr "Ryuuji「Eh...... sí, estoy bien.」"
+
+msgid "Ryuuji「（You don't have to look so worried......＿Oh, I know......）」"
+msgstr "Ryuuji「（No te preocupes tanto......＿Ah, ya sé......）」"
+
+msgid "Ryuuji「（Smile～）」"
+msgstr "Ryuuji「（Sonrisa～）」"
+
+msgid "???「A-AAAAHHHHH!! I-I'm sorryyyy! T-This＿is all I have on me right now!」"
+msgstr "???「¡A-AAAAHHHHH!! ¡L-Lo sientoooo!＿¡E-Esto es todo lo que llevo＿encima ahora mismo!」"
+
+msgid "Ryuuji「......Huh?」"
+msgstr "Ryuuji「......¿Eh?」"
+
+msgid "???「Gah, so it's not enough!? I'm sorry, this＿really is all I have today......!!」"
+msgstr "???「¡¿Gah, no basta?! ¡Lo siento, de verdad＿es todo lo que tengo hoy......!!」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Ryuuji「（He's even pulling his pockets＿inside-out...... Is this some kind of＿misunderstanding?）」"
+msgstr "Ryuuji「（Hasta se da vuelta los bolsillos......＿¿Será algún tipo de malentendido?）」"
+
+msgid "Ryuuji「Hey......」"
+msgstr "Ryuuji「Oye......」"
+
+msgid "???「I-I honestly don't have any more......＿Someone's waiting for me, so please＿just give me a break!」"
+msgstr "???「D-De verdad no tengo más...... Alguien＿me está esperando, ¡así que por＿favor déjame en paz!」"
+
+msgid "Ryuuji「Just listen to me!」"
+msgstr "Ryuuji「¡Solo escúchame!」"
+
+msgid "???「AAAAHHH!! P-Please forgive me!」"
+msgstr "???「¡AAAAHHH!! ¡P-Por favor, perdóname!」"
+
+msgid "Ryuuji「I don't want anything from you. You＿can leave.」"
+msgstr "Ryuuji「No quiero nada de ti. Ya puedes irte.」"
+
+msgid "???「D-Did you say \"You can't live\"!?＿P-Please spare meee!」"
+msgstr "???「¡¿D-Dijiste \"Ya puedes morirte\"?! ¡P-Por＿favor, perdóname la vidaaa!」"
+
+msgid "Ryuuji「......Now you're going overboard.」"
+msgstr "Ryuuji「......Ya estás exagerando.」"
+
+msgid "???「......O-Ohh...... \"You can leave\"...... I, I can＿leave? Really?」"
+msgstr "???「......A-Ah...... \"Ya puedes irte\"......＿¿P-Puedo irme? ¿De verdad?」"
+
+msgid "Ryuuji「I've been trying to tell you. I didn't＿mean to stop you, I don't want your......＿Oh!」"
+msgstr "Ryuuji「Es lo que intentaba decirte. No quería＿detenerte, no quiero tu...... ¡Ah!」"
+
+msgid "???「Y-Yes!?」"
+msgstr "???「¡¿S-Sí?!」"
+
+msgid "Ryuuji「Do you know of me, perhaps?」"
+msgstr "Ryuuji「¿Acaso me conoces?」"
+
+msgid "???「Huh? Oh...... j-just a little......」"
+msgstr "???「¿Eh? Ah...... s-solo un poco......」"
+
+msgid "Ryuuji「I see...... May I ask your name?」"
+msgstr "Ryuuji「Ya veo...... ¿Cómo te llamas?」"
+
+msgid "???「Huh? M-My name? I really shouldn't......」"
+msgstr "???「¿Eh? ¿M-Mi nombre? No debería......」"
+
+msgid "Ryuuji「You don't have to tell me.」"
+msgstr "Ryuuji「No tienes que decírmelo.」"
+
+msgid "Kota「Eeeek! T-T-T-T-Tomiie Kota! Written＿with the kanji for \"abound,\" \"house,\"＿\"joy,\" and \"thick\"!」"
+msgstr "Kota「¡Hiii! ¡T-T-T-T-Tomiie Kota! ¡Se escribe＿con los kanji de \"abundar\", \"casa\",＿\"alegría\" y \"grueso\"!」"
+
+msgid "Ryuuji「Tomiie Kota, huh......」"
+msgstr "Ryuuji「Tomiie Kota, ¿eh?......」"
+
+msgid "Ryuuji「（Thinking back, it feels like...... like＿maybe I knew him......）」"
+msgstr "Ryuuji「（Pensándolo bien, siento como...... como＿si tal vez lo conociera......）」"
+
+msgid "Kota「Aaahhaaah...... aaaahhhaaahhh......」"
+msgstr "Kota「Aaahhaaah...... aaaahhhaaahhh......」"
+
+msgid "Ryuuji「（I ask for his name and he starts＿shaking...... Is it because of me? Do I＿scare him that much?）」"
+msgstr "Ryuuji「（Le pregunto su nombre y se pone＿a temblar...... ¿Es por mi culpa?＿¿Tanto miedo le doy?）」"
+
+msgid "Kota「P-Pardon me～ Are we done here?」"
+msgstr "Kota「D-Disculpa～ ¿Ya terminamos aquí?」"
+
+msgid "Ryuuji「......Yeah.」"
+msgstr "Ryuuji「......Sí.」"
+
+msgid "Kota「Um, I-I'm really sorry!」"
+msgstr "Kota「Eh, ¡d-de verdad lo siento!」"
+
+msgid "Ryuuji「......S-Seriously...... who the hell am I?」"
+msgstr "Ryuuji「......E-En serio...... ¿quién rayos soy?」"
+
+msgid "Ryuuji「（To be that scared of me...... even＿though we were just talking......）」"
+msgstr "Ryuuji「（Tenerme tanto miedo...... a pesar de＿que solo estábamos hablando......）」"
+
+msgid "Ryuuji「（Maybe I should pay a little more＿attention to people's feelings......）」"
+msgstr "Ryuuji「（Tal vez debería prestar más atención a＿los sentimientos de los demás......）」"

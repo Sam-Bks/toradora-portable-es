@@ -1,0 +1,206 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「Yeah, I agree.」"
+msgstr "Ryuuji「Sí, estoy de acuerdo.」"
+
+msgid "Kitamura「Where are you guys off to?」"
+msgstr "Kitamura「¿Adónde van?」"
+
+msgid "Ryuuji「Oh, we're gonna swing by a New Year's＿sale. Right, Taiga?」"
+msgstr "Ryuuji「Ah, vamos a pasar por una venta＿de Año Nuevo. ¿Verdad, Taiga?」"
+
+msgid "Taiga「Yeah.」"
+msgstr "Taiga「Sí.」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Ryuuji「（Why do I feel so uncomfortable......?）」"
+msgstr "Ryuuji「（¿Por qué me siento tan incómodo......?）」"
+
+msgid "Ryuuji「（That's it. Even though her beloved＿Kitamura is here, Taiga's awfully calm.＿As I recall, last time she was......）」"
+msgstr "Ryuuji「（Eso es. Aunque su querido Kitamura está＿aquí, Taiga está muy tranquila. Según＿recuerdo, la última vez estaba......）」"
+
+msgid "Kitamura「Takasu?」"
+msgstr "Kitamura「¿Takasu?」"
+
+msgid "Ryuuji「Uh, er, sorry. It's nothing.」"
+msgstr "Ryuuji「Eh, ehm, perdón. No es nada.」"
+
+msgid "Kitamura「Did you, perhaps, remember＿something?」"
+msgstr "Kitamura「¿Acaso recordaste algo?」"
+
+msgid "Ryuuji「Oh!? No, I didn't. Not yet.」"
+msgstr "Ryuuji「¡¿Eh?! No, no recordé nada. Todavía no.」"
+
+msgid "Ryuuji「（Even if I did, it's nothing I could tell＿Kitamura about.）」"
+msgstr "Ryuuji「（Aunque lo recordara, no es algo＿que pueda contarle a Kitamura.）」"
+
+msgid "Ryuuji「Kitamura...... Sorry for making you＿worry.」"
+msgstr "Ryuuji「Kitamura...... Perdón por＿hacerte preocupar.」"
+
+msgid "Kitamura「Don't feel bad. Worrying's the least I＿can do.」"
+msgstr "Kitamura「No te sientas mal. Preocuparme＿es lo menos que puedo hacer.」"
+
+msgid "Kitamura「Oh, I know! How about we try praying＿to the God of Heartbreak this time?」"
+msgstr "Kitamura「¡Ah, ya sé! ¿Qué tal si esta vez＿le rezamos al Dios del Desamor?」"
+
+msgid "Ryuuji「God of Heartbreak?」"
+msgstr "Ryuuji「¿Dios del Desamor?」"
+
+msgid "Kitamura「Now, pray to your heart's content!」"
+msgstr "Kitamura「¡Ahora, reza todo lo que quieras!」"
+
+msgid "Ryuuji「Huh? Pray? To you? What are you＿saying?」"
+msgstr "Ryuuji「¿Eh? ¿Rezar? ¿A ti? ¿Qué estás diciendo?」"
+
+msgid "Ryuuji「What do you mean, listening to＿prayers? What kind of＿circumstances......? Gah!」"
+msgstr "Ryuuji「¿A qué te refieres con escuchar＿plegarias? ¿Qué clase de＿circunstancias......? ¡Gah!」"
+
+msgid "Taiga「Ryuuji, don't go asking for every little＿personal detail!」"
+msgstr "Taiga「¡Ryuuji, no andes preguntando cada＿pequeño detalle personal!」"
+
+msgid "Ryuuji「Use your words next time instead of＿your foot!」"
+msgstr "Ryuuji「¡La próxima vez usa tus palabras＿en lugar de tu pie!」"
+
+msgid "Kitamura「Hm? What's wrong, guys?」"
+msgstr "Kitamura「¿Mm? ¿Qué pasa, chicos?」"
+
+msgid "Taiga「Nothing. Kitamura-kun, please＿continue.」"
+msgstr "Taiga「Nada. Kitamura-kun, por favor continúa.」"
+
+msgid "Ryuuji「......Please continue.」"
+msgstr "Ryuuji「......Por favor continúa.」"
+
+msgid "Ryuuji「\"The go-to romantic advisor\"? And it＿was that easy!?」"
+msgstr "Ryuuji「¿\"El consejero amoroso por excelencia\"?＿¡¿Y fue así de fácil?!」"
+
+msgid "Taiga「Christmas......」"
+msgstr "Taiga「Navidad......」"
+
+msgid "Ryuuji「To you? Aren't you a love expert or＿whatever? My problems aren't in your＿field of expertise.」"
+msgstr "Ryuuji「¿A ti? ¿No eres un experto en el＿amor o algo así? Mis problemas＿no son de tu especialidad.」"
+
+msgid "Kitamura「Believe, and you shall be saved. Now,＿go ahead and pray......」"
+msgstr "Kitamura「Cree y serás salvado. Ahora,＿adelante, reza......」"
+
+msgid "Ryuuji「Go ahead and pray, he says...... Ow!」"
+msgstr "Ryuuji「Adelante, reza, dice...... ¡Ay!」"
+
+msgid "Taiga「Are you just gonna waste＿Kitamura-kun's good will!?」"
+msgstr "Taiga「¡¿Vas a desperdiciar la buena＿voluntad de Kitamura-kun?!」"
+
+msgid "Ryuuji「Like I said, use your words before you＿use your foot!」"
+msgstr "Ryuuji「¡Como dije, usa tus palabras＿antes de usar tu pie!」"
+
+msgid "Kitamura「Hm? What's up? Done praying?」"
+msgstr "Kitamura「¿Mm? ¿Qué pasa? ¿Ya terminaste de rezar?」"
+
+msgid "Ryuuji「No, not yet. Uh, err......」"
+msgstr "Ryuuji「No, todavía no. Eh, ehm......」"
+
+msgid "Ryuuji「O God of Heartbreak, please help all of＿my memories return......」"
+msgstr "Ryuuji「Oh, Dios del Desamor, por favor haz que＿vuelvan todos mis recuerdos......」"
+
+msgid "Kitamura「Mm. I will grant your wish without fail.＿If you lose your way......」"
+msgstr "Kitamura「Mm. Concederé tu deseo sin falta.＿Si pierdes el camino......」"
+
+msgid "Ryuuji「If?」"
+msgstr "Ryuuji「¿Si?」"
+
+msgid "Kitamura「Go to a brothel!」"
+msgstr "Kitamura「¡Ve a un burdel!」"
+
+msgid "Ryuuji「Huh!? A brothel!?」"
+msgstr "Ryuuji「¡¿Eh?! ¡¿Un burdel?!」"
+
+msgid "Kitamura「Don't worry. That was just my closing＿speech.」"
+msgstr "Kitamura「No te preocupes. Solo era＿mi discurso de cierre.」"
+
+msgid "Ryuuji「*Sigh*......」"
+msgstr "Ryuuji「*Suspiro*......」"
+
+msgid "Kitamura「I can't guarantee how much of that the＿God of Heartbreak heard, but...... listen,＿Takasu.」"
+msgstr "Kitamura「No garantizo cuánto de eso habrá＿oído el Dios del Desamor, pero......＿escucha, Takasu.」"
+
+msgid "Ryuuji「What is it?」"
+msgstr "Ryuuji「¿Qué pasa?」"
+
+msgid "Kitamura「Please don't forget this. For the sake＿of curing your amnesia, I'm willing to＿assist you in anything.」"
+msgstr "Kitamura「Por favor no olvides esto. Para＿curar tu amnesia, estoy dispuesto＿a ayudarte en lo que sea.」"
+
+msgid "Ryuuji「Kitamura...... Sorry.」"
+msgstr "Ryuuji「Kitamura...... Perdón.」"
+
+msgid "Kitamura「Now then, I must be off. Next time＿you'd like to borrow the God of＿Heartbreak's power, just let me know.」"
+msgstr "Kitamura「Bueno, debo irme. La próxima vez que＿quieras pedir prestado el poder del＿Dios del Desamor, solo avísame.」"
+
+msgid "Ryuuji「Alright. Thanks.」"
+msgstr "Ryuuji「De acuerdo. Gracias.」"
+
+msgid "Kitamura「Later, Aisaka!」"
+msgstr "Kitamura「¡Nos vemos, Aisaka!」"
+
+msgid "Taiga「Okay. See ya.」"
+msgstr "Taiga「Sí. Nos vemos.」"
+
+msgid "Taiga「Kitamura-kun's planning to be the God＿of Heartbreak this year too, huh?」"
+msgstr "Taiga「Kitamura-kun planea ser el Dios del＿Desamor este año también, ¿eh?」"
+
+msgid "Ryuuji「Don't you think you should pray, too?」"
+msgstr "Ryuuji「¿No crees que tú también deberías rezar?」"
+
+msgid "Taiga「Oh, maybe so......」"
+msgstr "Taiga「Ah, tal vez sí......」"
+
+msgid "Ryuuji「Taiga?」"
+msgstr "Ryuuji「¿Taiga?」"
+
+msgid "Ryuuji「（What the? I feel uncomfortable＿again...... Have I always felt this way＿towards Kitamura?）」"
+msgstr "Ryuuji「（¿Qué pasa? Me siento incómodo otra＿vez...... ¿Siempre me sentí así＿con respecto a Kitamura?）」"
+
+msgid "Taiga「Now, let's finish our shopping and go＿straight home. Yacchan's probably＿starving.」"
+msgstr "Taiga「Ahora terminemos las compras y vámonos＿directo a casa. Seguro que Yacchan＿se muere de hambre.」"
+
+msgid "Ryuuji「......Yeah, you're right.」"
+msgstr "Ryuuji「......Sí, tienes razón.」"
+
+msgid "Ryuuji「（Will this sense of discomfort go away if＿my memories return?）」"
+msgstr "Ryuuji「（¿Se irá esta sensación de incomodidad＿si regresan mis recuerdos?）」"
+
+msgid "Kitamura「Oh, it's Takasu and Aisaka. We meet＿again so soon after yesterday. Our＿friendship's off to a great start this」"
+msgstr "Kitamura「Ah, Takasu y Aisaka. ¡Ya nos vemos＿de nuevo tras lo de ayer! Nuestra＿amistad empieza muy bien este」"
+
+msgid "Kitamura「year.」"
+msgstr "Kitamura「año.」"
+
+msgid "Kitamura「......I put in a generous offering＿yesterday at Hatsumode wishing for＿your memories to return, but it seems」"
+msgstr "Kitamura「......Ayer dejé una generosa ofrenda＿en el Hatsumode deseando que volvieran＿tus recuerdos, pero parece que」"
+
+msgid "Kitamura「it had no effect.」"
+msgstr "Kitamura「no surtió efecto.」"
+
+msgid "Kitamura「Ah, I'm sorry. I didn't give a proper＿explanation. Truth is, thanks to certain＿circumstances, autumn of last year I」"
+msgstr "Kitamura「Ah, perdón. No me expliqué bien. La＿verdad es que, por ciertas＿circunstancias, en otoño del año pasado」"
+
+msgid "Kitamura「began listening to everyone's prayers＿as the \"God of Heartbreak.\"」"
+msgstr "Kitamura「empecé a escuchar las plegarias de＿todos como el \"Dios del Desamor\".」"
+
+msgid "Kitamura「Really? Well, as the \"God of＿Heartbreak\" everyone tells me about＿their love life, so I've become the go-to」"
+msgstr "Kitamura「¿En serio? Como \"Dios del＿Desamor\", todos me cuentan su vida＿amorosa, así que acuden a mí como」"
+
+msgid "Kitamura「romantic advisor.」"
+msgstr "Kitamura「Como \"Dios del Desamor\", todos me＿cuentan su vida amorosa, así que acuden＿a mí como consejero amoroso.」"
+
+msgid "Kitamura「I'm fairly well-received. Before winter＿break, I dispensed my advice one by＿one to all the beleaguered little lambs」"
+msgstr "Kitamura「Tengo bastante buena acogida. Antes de＿las vacaciones de invierno, aconsejé uno＿a uno a los corderitos afligidos」"
+
+msgid "Kitamura「wanting to confess on Christmas.」"
+msgstr "Kitamura「que querían declararse en Navidad.」"
+
+msgid "Kitamura「I'm not sure I'm comparable to an＿actual god, but my reputation has shot＿up, at least. How about it? Feel like」"
+msgstr "Kitamura「No sé si soy comparable a un dios＿real, pero mi reputación subió＿mucho. ¿Qué dices? ¿Te dan ganas de」"
+
+msgid "Kitamura「praying?」"
+msgstr "Kitamura「rezar?」"

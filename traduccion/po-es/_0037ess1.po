@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+
+msgid "Inko-chan「GIVE......」"
+msgstr "Inko-chan「TOMA......」"
+
+msgid "Inko-chan「GIVE IT TO YOU」"
+msgstr "Inko-chan「TE LO DOY」"
+
+msgid "Ryuuji「（Oh! It's a sunflower seed-- Inko-chan's＿favorite food!）」"
+msgstr "Ryuuji「（¡Oh! ¡Es una semilla de girasol, la＿comida favorita de Inko-chan!）」"
+
+msgid "Inko-chan「DON......」"
+msgstr "Inko-chan「NO......」"
+
+msgid "Ryuuji「Hm?」"
+msgstr "Ryuuji「¿Hm?」"
+
+msgid "Inko-chan「DON'T GET」"
+msgstr "Inko-chan「NO ENTIENDAS」"
+
+msgid "Inko-chan「WRONG」"
+msgstr "Inko-chan「MAL」"
+
+msgid "Inko-chan「IDEA」"
+msgstr "Inko-chan「LA IDEA」"
+
+msgid "Ryuuji「Oh! Wow Inko-chan, you're a talented＿tsundere!」"
+msgstr "Ryuuji「¡Oh! Vaya, Inko-chan, ¡eres＿un tsundere muy talentoso!」"
+
+msgid "Ryuuji「......」"
+msgstr "Ryuuji「......」"
+
+msgid "Ryuuji「Come to think of it, I don't have all my＿memories back, so why do I remember＿an otaku word like \"tsundere\"......?」"
+msgstr "Ryuuji「Ahora que lo pienso, si aún no tengo＿todos mis recuerdos, ¿por qué recuerdo＿una palabra otaku como \"tsundere\"......?」"
+
+msgid "Inko-chan「DUNNO!」"
+msgstr "Inko-chan「¡NI IDEA!」"
+
+msgid "Ryuuji「......Bedtime.」"
+msgstr "Ryuuji「......Hora de dormir.」"

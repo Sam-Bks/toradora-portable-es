@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「Now then, cleaning's done......」"
+msgstr "Ryuuji「Bueno, ya terminé de limpiar......」"
+
+msgid "Ryuuji「Whew...... Thanks for the food.」"
+msgstr "Ryuuji「Uf...... Gracias por la comida.」"
+
+msgid "Ryuuji「（Eating food alone is drearier than I＿imagined...... Now then......）」"
+msgstr "Ryuuji「（Comer solo es más deprimente de lo＿que imaginaba...... Bueno......）」"
+
+msgid "Ryuuji「Inko-chan, want to have a little chat?」"
+msgstr "Ryuuji「Inko-chan, ¿quieres charlar un poco?」"
+
+msgid "Inko-chan「TSUUUN」"
+msgstr "Inko-chan「TSUUUN」"
+
+msgid "Ryuuji「......Huh? Are you mad about＿something?」"
+msgstr "Ryuuji「......¿Eh? ¿Estás enojado por algo?」"
+
+msgid "Inko-chan「TSUUUN」"
+msgstr "Inko-chan「TSUUUN」"
+
+msgid "Ryuuji「Is that, perhaps, \"tsun\" as in that＿\"tsundere\" thing......?」"
+msgstr "Ryuuji「¿Eso es acaso \"tsun\", como en＿eso de \"tsundere\"......?」"
+
+msgid "Then let's see \"dere\""
+msgstr "Entonces veamos el \"dere\""
+
+msgid "Leave it be"
+msgstr "Dejarlo así"
+
+msgid "Ryuuji「Alright, let's see Inko-chan's dere side!」"
+msgstr "Ryuuji「¡Veamos el lado dere de Inko-chan!」"
+
+msgid "Ryuuji「......No, it'd be bad if our Inko-chan got＿some weird character development. I'll＿leave it be.」"
+msgstr "Ryuuji「......No, sería malo que nuestro＿Inko-chan desarrollara una personalidad＿rara. Lo dejaré así.」"
+
+msgid "Ryuuji「Bedtime......」"
+msgstr "Ryuuji「Hora de dormir......」"

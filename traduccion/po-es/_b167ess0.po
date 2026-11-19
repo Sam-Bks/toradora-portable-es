@@ -1,0 +1,755 @@
+msgid ""
+msgstr ""
+
+msgid "Minori「The forest at night is REALLY＿atmospheric. It definitely reeks of＿jumpscares!」"
+msgstr "Minori「El bosque de noche SÍ que tiene＿ambiente. ¡Sin duda huele a sustos!」"
+
+msgid "Ryuuji「Reeks......? Kushieda, I thought you＿didn't have a sense for this stuff.」"
+msgstr "Ryuuji「¿Huele......? Kushieda, creí que no＿tenías sensibilidad para estas cosas.」"
+
+msgid "Minori「Ehehehe! Maybe I do.」"
+msgstr "Minori「¡Ejejeje! Tal vez sí.」"
+
+msgid "Ryuuji「Dunno. Is it?」"
+msgstr "Ryuuji「No sé. ¿Será?」"
+
+msgid "Minori「It so is! And if you're particularly quiet,＿you can hear...... \"splash... splash...\" they＿say!」"
+msgstr "Minori「¡Claro que sí! ¡Y si guardas mucho＿silencio, dicen que se oye......＿\"plash... plash...\"!」"
+
+msgid "Ryuuji「Gah......!」"
+msgstr "Ryuuji「¡Gah......!」"
+
+msgid "Minori「Huh?」"
+msgstr "Minori「¿Eh?」"
+
+msgid "Ryuuji「I felt something cold on the back of my＿neck just now.」"
+msgstr "Ryuuji「Acabo de sentir algo frío en la nuca.」"
+
+msgid "Minori「......Oh? Getting in the mood? That's＿great～ Was it a chill running down＿your spine?」"
+msgstr "Minori「......¿Ah? ¿Entrando en ambiente?＿¡Qué genial～! ¿Fue un escalofrío＿por la espalda?」"
+
+msgid "Ryuuji「No, I'm pretty sure it was my ne......＿*Gasp*!?」"
+msgstr "Ryuuji「No, estoy seguro de que＿fue mi cu...... ¡¿Ah?!」"
+
+msgid "Minori「What's wrong?」"
+msgstr "Minori「¿Qué pasa?」"
+
+msgid "Ryuuji「The back of my neck is kinda damp......」"
+msgstr "Ryuuji「Tengo la nuca un poco húmeda......」"
+
+msgid "Minori「Oh, you! I'm not falling for that one!」"
+msgstr "Minori「¡Ay, vamos! ¡No voy a caer en esa!」"
+
+msgid "Ryuuji「It's true!」"
+msgstr "Ryuuji「¡Es verdad!」"
+
+msgid "Minori「What? So you're saying......」"
+msgstr "Minori「¿Qué? Entonces quieres decir......」"
+
+msgid "Minori「Eeek!!」"
+msgstr "Minori「¡¡Ayy!!」"
+
+msgid "Ryuuji「What's wrong?」"
+msgstr "Ryuuji「¿Qué pasa?」"
+
+msgid "Minori「...I felt something chilly on the back of＿my neck just now...」"
+msgstr "Minori「...Acabo de sentir algo＿helado en la nuca...」"
+
+msgid "Ryuuji「See? Is yours damp now too?」"
+msgstr "Ryuuji「¿Ves? ¿La tuya también está húmeda?」"
+
+msgid "Minori「It is......」"
+msgstr "Minori「Sí, lo está......」"
+
+msgid "Ryuuji「Then......」"
+msgstr "Ryuuji「Entonces......」"
+
+msgid "Minori「W-Wait! It's too early to jump to＿conclusions!! We should calmly......」"
+msgstr "Minori「¡E-Espera! ¡Es muy pronto para＿sacar conclusiones!! Deberíamos＿actuar con calma......」"
+
+msgid "Minori「EEEEEEEEEK!」"
+msgstr "Minori「¡AAAAAAAAAY!」"
+
+msgid "Ryuuji「What happened!?」"
+msgstr "Ryuuji「¡¿Qué pasó?!」"
+
+msgid "Minori「S-Something touched my neck again!!」"
+msgstr "Minori「¡¡A-Algo me tocó el cuello otra vez!!」"
+
+msgid "Ryuuji「What!? What do we do!?」"
+msgstr "Ryuuji「¡¿Qué?! ¡¿Qué hacemos?!」"
+
+msgid "Minori「At times like these... times like these...!」"
+msgstr "Minori「¡En momentos así... momentos así...!」"
+
+msgid "Ryuuji「Whoa! I just felt it! So cold!」"
+msgstr "Ryuuji「¡Uah! ¡Acabo de sentirlo! ¡Qué frío!」"
+
+msgid "Minori「At last, that which I've longed to＿meet......?」"
+msgstr "Minori「¿Por fin aquello que tanto＿anhelaba conocer......?」"
+
+msgid "Ryuuji「Doesn't feel like it's longed for you,＿though.」"
+msgstr "Ryuuji「Aunque no parece que te＿haya anhelado a ti.」"
+
+msgid "Minori「Nnnnn～～～!!」"
+msgstr "Minori「¡¡Mmmmm～～～!!」"
+
+msgid "Ryuuji「Kushieda!?」"
+msgstr "Ryuuji「¡¿Kushieda?!」"
+
+msgid "Ryuuji「（What the? She's frozen stiff, pointing＿over my shoulder? Does that perhaps＿mean......）」"
+msgstr "Ryuuji「（¿Qué pasa? ¿Se quedó tiesa señalando＿sobre mi hombro? ¿Acaso eso significa＿que......）」"
+
+msgid "Ryuuji「（It's here? Behind me!?!）」"
+msgstr "Ryuuji「（¡¿Está aquí?! ¡¿Detrás de mí?!）」"
+
+msgid "Look"
+msgstr "Mirar"
+
+msgid "Don't look"
+msgstr "No mirar"
+
+msgid "Ryuuji「Dammit! I've gotta look!!」"
+msgstr "Ryuuji「¡Maldición! ¡Tengo que mirar!!」"
+
+msgid "Ryuuji「（I, I can't! I'm frozen stiff......!）」"
+msgstr "Ryuuji「（¡N-No puedo! ¡Estoy paralizado......!）」"
+
+msgid "Ryuuji「Ugh, I'm so lame! I'm gonna look!!」"
+msgstr "Ryuuji「¡Ugh, qué patético soy! ¡Voy a mirar!!」"
+
+msgid "Ryuuji「........................Huh?」"
+msgstr "Ryuuji「........................¿Eh?」"
+
+msgid "Ryuuji「（Nothing's there.）」"
+msgstr "Ryuuji「（No hay nada.）」"
+
+msgid "Minori「Fufufu...... You fell for it.」"
+msgstr "Minori「Jujuju...... Caíste redondito.」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Minori「Nyeh heh heh heh heh heh! Did you＿think it was the ghost?」"
+msgstr "Minori「¡Ñe je je je je je! ¿Pensaste＿que era el fantasma?」"
+
+msgid "Ryuuji「......Anyone would think that after＿looking at you.」"
+msgstr "Ryuuji「......Cualquiera pensaría eso al verte.」"
+
+msgid "Minori「Yep! I figured you would think that, so I＿put on a little act.」"
+msgstr "Minori「¡Sip! Supuse que pensarías eso, así＿que monté un pequeño espectáculo.」"
+
+msgid "Ryuuji「How could you! I was pretty damn＿scared just now!!」"
+msgstr "Ryuuji「¡Cómo pudiste! ¡Me diste un susto＿terrible ahora mismo!!」"
+
+msgid "Minori「Ehehe! Sorry, sorry. See, when＿someone's enjoying themselves, I can't＿help but join in and get carried away.」"
+msgstr "Minori「¡Ejeje! Perdón, perdón. Es que cuando＿alguien se divierte, no puedo evitar＿unirme y dejarme llevar.」"
+
+msgid "Ryuuji「When someone's enjoying themselves?」"
+msgstr "Ryuuji「¿Cuando alguien se divierte?」"
+
+msgid "Minori「Yep. See, the mastermind behind the＿\"wet neck\" thing is over in that bush.」"
+msgstr "Minori「Sip. Mira, la mente maestra＿detrás de lo de la \"nuca mojada\"＿está en ese arbusto.」"
+
+msgid "Ryuuji「Beg your pardon!?」"
+msgstr "Ryuuji「¡¿Cómo dices?!」"
+
+msgid "???「Aww man, you figured it out so soon?」"
+msgstr "???「Ay, hombre, ¿ya te diste＿cuenta tan pronto?」"
+
+msgid "Ryuuji「Noto!? I thought you weren't coming＿today!」"
+msgstr "Ryuuji「¡¿Noto?! ¡Creí que hoy no ibas a venir!」"
+
+msgid "Noto「Wellll～ You see～ Ami-chan said she＿wanted me to play the role of the＿monster.」"
+msgstr "Noto「Bueeeno～ Verás～ Ami-chan dijo que quería＿que hiciera el papel del monstruo.」"
+
+msgid "Ryuuji「Oh, so that's all it was...... You frickin'＿scared me.」"
+msgstr "Ryuuji「Ah, solo era eso...... Qué＿susto me diste, caramba.」"
+
+msgid "Noto「Takasu, you were freaking out～ Man,＿spooking the daylights out of someone＿is surprisingly fun.」"
+msgstr "Noto「Takasu, estabas muerto de miedo～ Vaya,＿pegarle un susto tremendo a alguien es＿sorprendentemente divertido.」"
+
+msgid "Noto「But Kushieda, how'd you know it was＿me?」"
+msgstr "Noto「Pero Kushieda, ¿cómo supiste que era yo?」"
+
+msgid "Minori「I wasn't sure exactly who it was. But I＿saw a piece of konjac get yanked up＿from behind Takasu-kun on a string.」"
+msgstr "Minori「No sabía bien quién era. Pero vi cómo＿alzaban con un hilo un trozo de konjac＿detrás de Takasu-kun.」"
+
+msgid "Minori「This kinetic vision I've honed through＿practice isn't just for show!」"
+msgstr "Minori「¡Esta agudeza visual que pulí con la＿práctica no es solo de adorno!」"
+
+msgid "Noto「Now I get it. Well, I got to scare Takasu,＿so I'm happy.」"
+msgstr "Noto「Ahora lo entiendo. Bueno, logré asustar＿a Takasu, así que estoy feliz.」"
+
+msgid "Noto「Well, I'm gonna go spook everyone else.＿See ya later～」"
+msgstr "Noto「Bueno, iré a asustar a los＿demás. ¡Nos vemos luego～!」"
+
+msgid "Ryuuji「So it was Noto......」"
+msgstr "Ryuuji「Así que era Noto......」"
+
+msgid "Minori「Ghosts aren't so easy to encounter,＿after all～」"
+msgstr "Minori「Después de todo, no es tan fácil＿toparse con fantasmas～」"
+
+msgid "Minori「I'll probably............ never encounter one.」"
+msgstr "Minori「Probablemente............＿nunca me tope con uno.」"
+
+msgid "Ryuuji「Kushieda......」"
+msgstr "Ryuuji「Kushieda......」"
+
+msgid "Ryuuji「......Don't say that. There might be＿ghosts out there who want to＿encounter you.」"
+msgstr "Ryuuji「......No digas eso. Puede que＿haya fantasmas ahí fuera que＿quieran toparse contigo.」"
+
+msgid "Minori「Maybe......」"
+msgstr "Minori「Tal vez......」"
+
+msgid "Ryuuji「There are. You can't assume you＿\"never will\" just because you \"haven't＿yet.\" In the same way......」"
+msgstr "Ryuuji「Los hay. No puedes asumir que \"nunca＿lo harás\" solo porque \"aún no\".＿Del mismo modo......」"
+
+msgid "Ryuuji「（I don't want you to think about it like＿that.）」"
+msgstr "Ryuuji「（No quiero que pienses así sobre esto.）」"
+
+msgid "Ryuuji「It'd be MOTTAINAI to give up.」"
+msgstr "Ryuuji「Rendirse: ¡QUÉ DESPERDICIO!」"
+
+msgid "Minori「I see. You're right. MOTTAINAI for＿sure. Ehehe!」"
+msgstr "Minori「Ya veo. Tienes razón. ¡QUÉ＿DESPERDICIO! ¡Ejeje!」"
+
+msgid "Ryuuji「（You can't see it, but ghosts - and love＿for you - both exist. So don't say such＿sad things, Kushieda.）」"
+msgstr "Ryuuji「（No puedes verlo, pero los fantasmas -y＿el amor por ti- existen. Así que no＿digas cosas tan tristes, Kushieda.）」"
+
+msgid "Minori「I feel like we've had this same...... Oh!」"
+msgstr "Minori「Siento que ya tuvimos esta＿misma...... ¡Ah!」"
+
+msgid "Ryuuji「What's wrong?」"
+msgstr "Ryuuji「¿Qué pasa?」"
+
+msgid "Minori「I-It's nothing.」"
+msgstr "Minori「N-No es nada.」"
+
+msgid "Ryuuji「Really......?」"
+msgstr "Ryuuji「¿En serio......?」"
+
+msgid "Ryuuji「Hm?」"
+msgstr "Ryuuji「¿Hm?」"
+
+msgid "Minori「What's the matter?」"
+msgstr "Minori「¿Qué ocurre?」"
+
+msgid "Ryuuji「Well...... Someone's standing by that＿tree over there.」"
+msgstr "Ryuuji「Bueno...... Hay alguien de pie＿junto a ese árbol de allá.」"
+
+msgid "Minori「Huh? Maybe it's Amin?」"
+msgstr "Minori「¿Eh? ¿Tal vez es Amin?」"
+
+msgid "Ryuuji「It's too tall to be Kawashima.＿Compared to the tree itself, it's＿approximately 3 meters tall...... Huh?」"
+msgstr "Ryuuji「Es demasiado alto para ser Kawashima.＿Comparado con el árbol, mide unos 3＿metros de altura...... ¿Eh?」"
+
+msgid "Minori「Hey, is that......」"
+msgstr "Minori「Oye, ¿eso es......」"
+
+msgid "Ryuuji「Y-Yeah...... It seems a bit strange......」"
+msgstr "Ryuuji「S-Sí...... Se ve un poco extraño......」"
+
+msgid "Minori「\"A bit\"......!?」"
+msgstr "Minori「¡¿\"Un poco\"......?!」"
+
+msgid "Ryuuji「WHOA!!」"
+msgstr "Ryuuji「¡¡UAH!!」"
+
+msgid "Minori「T-Takasu-kun! L-Look!!」"
+msgstr "Minori「¡T-Takasu-kun! ¡¡M-Mira!!」"
+
+msgid "Ryuuji「S-Something's pouring from its＿mouth!? It's bright red...... blood......!?」"
+msgstr "Ryuuji「¡¿L-Le brota algo de la boca?! ¡¿Es rojo＿brillante...... sangre......?!」"
+
+msgid "Minori「T-T-That's......」"
+msgstr "Minori「E-E-Eso es......」"
+
+msgid "We should get out of here"
+msgstr "Deberíamos salir de aquí"
+
+msgid "I've seen this before......"
+msgstr "Ya he visto esto antes......"
+
+msgid "Do we have a light source?"
+msgstr "¿Tenemos alguna fuente de luz?"
+
+msgid "Ryuuji「K-Kushieda, for now, we should......」"
+msgstr "Ryuuji「K-Kushieda, por ahora deberíamos......」"
+
+msgid "Ryuuji「AAAAAAAAAAHHH!」"
+msgstr "Ryuuji「¡AAAAAAAAAAHHH!」"
+
+msgid "Minori「GAAAAAAAAAHHHH!!」"
+msgstr "Minori「¡¡GAAAAAAAAAHHHH!!」"
+
+msgid "Ryuuji「Kushieda!?」"
+msgstr "Ryuuji「¡¿Kushieda?!」"
+
+msgid "Minori「NOOO～～～～～～!!」"
+msgstr "Minori「¡¡NOOO～～～～～～!!」"
+
+msgid "Ryuuji「W-Wait for me, Kushieda!!」"
+msgstr "Ryuuji「¡¡E-Espérame, Kushieda!!」"
+
+msgid "Ryuuji「I've seen this before......」"
+msgstr "Ryuuji「Ya he visto esto antes......」"
+
+msgid "Minori「Huh......?」"
+msgstr "Minori「¿Eh......?」"
+
+msgid "Ryuuji「In a movie......」"
+msgstr "Ryuuji「En una película......」"
+
+msgid "Ryuuji「AAAAAAAAAAHHH!」"
+msgstr "Ryuuji「¡AAAAAAAAAAHHH!」"
+
+msgid "Minori「GAAAAAAAAAHHHH!!」"
+msgstr "Minori「¡¡GAAAAAAAAAHHHH!!」"
+
+msgid "Ryuuji「Kushieda!?」"
+msgstr "Ryuuji「¡¿Kushieda?!」"
+
+msgid "Minori「NOOO～～～～～～!!」"
+msgstr "Minori「¡¡NOOO～～～～～～!!」"
+
+msgid "Ryuuji「W-Wait for me, Kushieda!!」"
+msgstr "Ryuuji「¡¡E-Espérame, Kushieda!!」"
+
+msgid "Ryuuji「Do we have a light source of some＿kind?」"
+msgstr "Ryuuji「¿Tenemos algún tipo de fuente de luz?」"
+
+msgid "Minori「W-What good is a light source!?」"
+msgstr "Minori「¡¿D-De qué sirve una fuente de luz?!」"
+
+msgid "Ryuuji「W-Well, because...... Oh, I brought that＿firework......」"
+msgstr "Ryuuji「B-Bueno, porque...... Ah, traje＿aquel fuego artificial......」"
+
+msgid "Ryuuji「AAAAAAAAAAHHH!」"
+msgstr "Ryuuji「¡AAAAAAAAAAHHH!」"
+
+msgid "Minori「GAAAAAAAAAHHHH!!」"
+msgstr "Minori「¡¡GAAAAAAAAAHHHH!!」"
+
+msgid "Ryuuji「Kushieda!?」"
+msgstr "Ryuuji「¡¿Kushieda?!」"
+
+msgid "Minori「NOOO～～～～～～!!」"
+msgstr "Minori「¡¡NOOO～～～～～～!!」"
+
+msgid "Ryuuji「W-Wait for me, Kushieda!!」"
+msgstr "Ryuuji「¡¡E-Espérame, Kushieda!!」"
+
+msgid "Minori「*Pant* *Pant* *Pant*......」"
+msgstr "Minori「*Jadeo* *Jadeo* *Jadeo*......」"
+
+msgid "Ryuuji「K-Kushieda...... You scared me half to＿death, taking off like that......」"
+msgstr "Ryuuji「K-Kushieda...... Casi me matas del susto＿saliendo corriendo así......」"
+
+msgid "Minori「I, I took off because you started＿screaming, bud!!」"
+msgstr "Minori「¡¡Y-Yo salí corriendo porque tú＿empezaste a gritar, amigo!!」"
+
+msgid "Ryuuji「B-But weren't you enjoying seeing me＿scared?」"
+msgstr "Ryuuji「¿P-Pero no estabas disfrutando＿verme asustado?」"
+
+msgid "Minori「Yeah, but...... I was, but......!」"
+msgstr "Minori「Sí, pero...... lo estaba, ¡pero......!」"
+
+msgid "Ryuuji「WHOOOA!? W-What is it now!?」"
+msgstr "Ryuuji「¡¿UAAAH?! ¡¿Q-Qué pasa ahora?!」"
+
+msgid "Minori「AAAAAAAAAAAGH!!」"
+msgstr "Minori「¡¡AAAAAAAAAAAGH!!」"
+
+msgid "Ryuuji「Kushieda! HEY! Where are you going!?」"
+msgstr "Ryuuji「¡Kushieda! ¡OYE! ¡¿A dónde vas?!」"
+
+msgid "Ryuuji「（Where the hell are you trying to go in＿the dark!?）」"
+msgstr "Ryuuji「（¡¿A dónde demonios intentas＿ir en la oscuridad?!）」"
+
+msgid "Ryuuji「*Pant* *Pant* *Pant*... Kushieda...＿where did you go?」"
+msgstr "Ryuuji「*Jadeo* *Jadeo* *Jadeo*... Kushieda...＿¿a dónde fuiste?」"
+
+msgid "???「Huh? Taka-chan?」"
+msgstr "???「¿Eh? ¿Taka-chan?」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Haruta「It IS you, Taka-chan! Whew～ What a＿relief～ Are you all alone too?」"
+msgstr "Haruta「¡SÍ eres tú, Taka-chan! Uf～ Qué alivio～＿¿Tú también estás solo?」"
+
+msgid "Ryuuji「Yeah. What happened to your partner?＿You were with Taiga, right?」"
+msgstr "Ryuuji「Sí. ¿Qué pasó con tu pareja?＿Ibas con Taiga, ¿verdad?」"
+
+msgid "Haruta「Well, ya see, we got separated.」"
+msgstr "Haruta「Bueno, verás, nos separamos.」"
+
+msgid "Ryuuji「What......?」"
+msgstr "Ryuuji「¿Qué......?」"
+
+msgid "Ryuuji「......Taiga and Kushieda met up?」"
+msgstr "Ryuuji「......¿Taiga y Kushieda se encontraron?」"
+
+msgid "Haruta「Yup. That's what she told me.」"
+msgstr "Haruta「Sip. Eso fue lo que me dijo.」"
+
+msgid "Ryuuji「I see...... I was looking for Kushieda, but＿if she's with Taiga, then she's okay.」"
+msgstr "Ryuuji「Ya veo...... Estaba buscando＿a Kushieda, pero si está con＿Taiga, entonces está bien.」"
+
+msgid "Haruta「For now, like, wanna keep going? For＿some reason, we still haven't reached＿the observatory, dude.」"
+msgstr "Haruta「Por ahora, ¿seguimos adelante? Por＿alguna razón, todavía no llegamos＿al observatorio, amigo.」"
+
+msgid "Haruta「Why's that?」"
+msgstr "Haruta「¿Y eso por qué?」"
+
+msgid "Haruta「Really? Hmmm～ Maybe it's because＿we took a shortcut off the main path.」"
+msgstr "Haruta「¿En serio? Mmmm～ Tal vez sea＿porque tomamos un atajo fuera＿del camino principal.」"
+
+msgid "Ryuuji「How could you do something so＿dangerous at night in the dark?」"
+msgstr "Ryuuji「¿Cómo pudiste hacer algo tan peligroso＿de noche y a oscuras?」"
+
+msgid "Ryuuji「There's no way Taiga would say you're＿\"So cool～①\".」"
+msgstr "Ryuuji「Ni en sueños Taiga te diría＿\"¡Qué genial～①!\".」"
+
+msgid "Haruta「Ohhh, I guess not.」"
+msgstr "Haruta「Ohhh, supongo que no.」"
+
+msgid "Haruta「Guess we don't have a choice at this＿point～ How about the two of us dudes＿hit up the observatory?」"
+msgstr "Haruta「Supongo que a estas alturas no＿hay opción～ ¿Qué tal si los dos＿vamos al observatorio?」"
+
+msgid "Ryuuji「I've already been there. If you wanna＿go, go by yourself.」"
+msgstr "Ryuuji「Yo ya estuve ahí. Si quieres＿ir, ve tú solo.」"
+
+msgid "Haruta「Whaaat～? That's so cold, bro! In that＿case I'm goin' back with you.」"
+msgstr "Haruta「¿Quéee～? ¡Qué frío eres, amigo!＿En ese caso vuelvo contigo.」"
+
+msgid "Ryuuji「Yeah? Then let's head for the＿rendezvous point.」"
+msgstr "Ryuuji「¿Sí? Entonces vamos al＿punto de encuentro.」"
+
+msgid "Haruta「Okie-dokie!」"
+msgstr "Haruta「¡Hecho!」"
+
+msgid "Minori「*Pant* *Pant* *Pant*......」"
+msgstr "Minori「*Jadeo* *Jadeo* *Jadeo*......」"
+
+msgid "Ryuuji「K-Kushieda...... You scared me half to＿death, taking off like that......」"
+msgstr "Ryuuji「K-Kushieda...... Casi me matas del susto＿saliendo corriendo así......」"
+
+msgid "Minori「I, I took off because you started＿screaming, bud!!」"
+msgstr "Minori「¡¡Y-Yo salí corriendo porque tú＿empezaste a gritar, amigo!!」"
+
+msgid "Ryuuji「I couldn't help it! I-It caught me off＿guard!」"
+msgstr "Ryuuji「¡No pude evitarlo! ¡M-Me＿tomó por sorpresa!」"
+
+msgid "Ryuuji「*Gasp*...... Was that an actual ghost?」"
+msgstr "Ryuuji「Ah...... ¿Eso era un fantasma de verdad?」"
+
+msgid "Minori「......」"
+msgstr "Minori「......」"
+
+msgid "Ryuuji「I saw something exactly like it in＿\"Official Record: Japan's Archipelago＿of Horror.\"」"
+msgstr "Ryuuji「Vi algo exactamente igual en \"Registro＿Oficial: El archipiélago del terror＿de Japón\".」"
+
+msgid "Minori「............No, that wasn't a ghost.」"
+msgstr "Minori「............No, eso no era un fantasma.」"
+
+msgid "Ryuuji「But it was clearly suspicious.」"
+msgstr "Ryuuji「Pero era claramente sospechoso.」"
+
+msgid "Minori「It just doesn't feel right.」"
+msgstr "Minori「Simplemente no me cuadra.」"
+
+msgid "Ryuuji「\"Doesn't feel right\"? But you haven't＿even seen a real one. How would you＿know if it \"felt right\"?」"
+msgstr "Ryuuji「¿\"No te cuadra\"? Pero ni siquiera＿has visto uno real. ¿Cómo sabrías＿si \"cuadra\"?」"
+
+msgid "Minori「............But it was just...... like...... I can't＿put it into words, but it was weird.」"
+msgstr "Minori「............Pero es que......＿como que...... No sabría explicarlo,＿pero era raro.」"
+
+msgid "Ryuuji「I'd say a ghost is pretty weird, yeah.」"
+msgstr "Ryuuji「Yo diría que un fantasma＿es bastante raro, sí.」"
+
+msgid "Minori「That's not what I meant. It's like...... It＿didn't feel supernatural, I guess......」"
+msgstr "Minori「No me refiero a eso. Es como＿que...... No se sentía sobrenatural,＿supongo......」"
+
+msgid "Ryuuji「But it's not every day something like＿that gushes blood. That's why it's gotta＿be a ghost!」"
+msgstr "Ryuuji「Pero no todos los días algo así＿escupe sangre. ¡Por eso tiene＿que ser un fantasma!」"
+
+msgid "Minori「Hmmm......」"
+msgstr "Minori「Mmmm......」"
+
+msgid "Ryuuji「......Shall we go back and have a second＿look at it?」"
+msgstr "Ryuuji「......¿Volvemos a echarle＿un segundo vistazo?」"
+
+msgid "Minori「Hmmm......」"
+msgstr "Minori「Mmmm......」"
+
+msgid "Ryuuji「..................」"
+msgstr "Ryuuji「..................」"
+
+msgid "Ryuuji「（......That's strange. Wasn't Kushieda＿interested in ghosts?）」"
+msgstr "Ryuuji「（......Qué extraño. ¿A Kushieda no＿le interesaban los fantasmas?）」"
+
+msgid "Minori「......Let's keep going. If we're late＿getting back, Taiga and the others will＿start to worry.」"
+msgstr "Minori「......Sigamos adelante. Si tardamos＿en volver, Taiga y los demás empezarán＿a preocuparse.」"
+
+msgid "Ryuuji「......You're right. Okay.」"
+msgstr "Ryuuji「......Tienes razón. Está bien.」"
+
+msgid "Minori「*Pant* *Pant* *Pant*......」"
+msgstr "Minori「*Jadeo* *Jadeo* *Jadeo*......」"
+
+msgid "Ryuuji「K-Kushieda...... You scared me half to＿death, taking off like that......」"
+msgstr "Ryuuji「K-Kushieda...... Casi me matas del susto＿saliendo corriendo así......」"
+
+msgid "Minori「I, I took off because you started＿screaming, bud!!」"
+msgstr "Minori「¡¡Y-Yo salí corriendo porque tú＿empezaste a gritar, amigo!!」"
+
+msgid "Ryuuji「I couldn't help it! I-It caught me off＿guard!」"
+msgstr "Ryuuji「¡No pude evitarlo! ¡M-Me＿tomó por sorpresa!」"
+
+msgid "Ryuuji「..................」"
+msgstr "Ryuuji「..................」"
+
+msgid "Minori「..................」"
+msgstr "Minori「..................」"
+
+msgid "Ryuuji「......Did you see that ghost just now?」"
+msgstr "Ryuuji「......¿Viste ese fantasma hace un rato?」"
+
+msgid "Minori「..................」"
+msgstr "Minori「..................」"
+
+msgid "Ryuuji「That HAD to be a ghost......」"
+msgstr "Ryuuji「Eso TENÍA que ser un fantasma......」"
+
+msgid "Minori「......I...... didn't see it.」"
+msgstr "Minori「......Yo...... no lo vi.」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Minori「There's no way...... that ghosts exist.」"
+msgstr "Minori「Es imposible...... que existan＿los fantasmas.」"
+
+msgid "Ryuuji「But you were scared too, right?」"
+msgstr "Ryuuji「Pero tú también te asustaste, ¿verdad?」"
+
+msgid "Minori「Was I......? It was dark, after all. Maybe＿you were seeing things.」"
+msgstr "Minori「¿Yo......? Estaba oscuro, después＿de todo. Tal vez viste cosas.」"
+
+msgid "Ryuuji「I should have lit the firework to check.」"
+msgstr "Ryuuji「Debí haber encendido el fuego＿artificial para comprobarlo.」"
+
+msgid "Minori「Haha! You brought a firework? That's＿funny......」"
+msgstr "Minori「¡Jaja! ¿Trajiste un fuego artificial?＿Qué gracioso......」"
+
+msgid "Minori「Tests of courage really are meant for＿the summer! Ending 'em with a shower＿of fireworks is just the best!」"
+msgstr "Minori「¡Las pruebas de valor son para el＿verano! ¡Terminarlas con una lluvia＿de fuegos artificiales es lo mejor!」"
+
+msgid "Ryuuji「......Kushieda? What's the matter with＿you?」"
+msgstr "Ryuuji「......¿Kushieda? ¿Qué te pasa?」"
+
+msgid "Minori「Nothing at all. C'mon, let's keep going!」"
+msgstr "Minori「Nada en absoluto. ¡Vamos, sigamos!」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Minori「Places like these really are creepy at＿night.」"
+msgstr "Minori「Lugares así sí que dan miedo de noche.」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Minori「I wonder why the people who claim to＿have seen the ghost even came to＿such a desolate place at all.」"
+msgstr "Minori「Me pregunto por qué quienes dicen haber＿visto al fantasma siquiera vinieron＿a un lugar tan desolado.」"
+
+msgid "Ryuuji「Good question......」"
+msgstr "Ryuuji「Buena pregunta......」"
+
+msgid "Ryuuji「（......Why is Kushieda pretending like＿there wasn't a ghost? I'm certain she＿saw it too......）」"
+msgstr "Ryuuji「（......¿Por qué Kushieda finge que no＿había ningún fantasma? Estoy seguro de＿que ella también lo vio......）」"
+
+msgid "Ryuuji「（Unable to see it, she must be＿distancing herself from it--）」"
+msgstr "Ryuuji「（Al no poder verlo, debe estar＿tomando distancia de ello--）」"
+
+msgid "Ryuuji「Oh..................」"
+msgstr "Ryuuji「Ah..................」"
+
+msgid "\"Actually, I've decided I don't need to＿see UFOs and ghosts after all.\""
+msgstr "\"La verdad, decidí que ya no necesito＿ver ovnis ni fantasmas.\""
+
+msgid "Ryuuji「......O......h......」"
+msgstr "Ryuuji「......A......h......」"
+
+msgid "Minori「Takasu-kun, are you okay!? Are you＿dizzy!?」"
+msgstr "Minori「¡Takasu-kun! ¿Estás bien?＿¡¿Estás mareado?!」"
+
+msgid "Ryuuji「Er......」"
+msgstr "Ryuuji「Eh......」"
+
+msgid "Ryuuji「Sorry, seems I got a little lightheaded＿there.」"
+msgstr "Ryuuji「Perdón, parece que me mareé un poco.」"
+
+msgid "Minori「Huh? Really!? Wanna sit down and＿take a break? You should rest!!」"
+msgstr "Minori「¿Eh? ¡¿En serio?! ¿Quieres＿sentarte a tomar un respiro?＿¡¡Deberías descansar!!」"
+
+msgid "Ryuuji「I'm...... fine now. Please don't worry.」"
+msgstr "Ryuuji「Ya...... estoy bien. No te preocupes.」"
+
+msgid "Minori「Really? But you should rest as soon as＿you can. Let's hurry back!」"
+msgstr "Minori「¿En serio? Pero descansa en cuanto＿puedas. ¡Apresurémonos a volver!」"
+
+msgid "Ryuuji「......Okay.」"
+msgstr "Ryuuji「......Está bien.」"
+
+msgid "Ryuuji「（I remember now, Taiga......）」"
+msgstr "Ryuuji「（Ya lo recuerdo, Taiga......）」"
+
+msgid "Ryuuji「（......I was rejected by Kushieda.）」"
+msgstr "Ryuuji「（......Kushieda me rechazó.）」"
+
+msgid "Kitamura「One, two, three...... Good, everyone's＿here! Glad to see everyone made their＿way back through the darkness!」"
+msgstr "Kitamura「Uno, dos, tres...... ¡Bien, están todos!＿¡Me alegra que todos lograran volver＿en medio de la oscuridad!」"
+
+msgid "Taiga「We have an extra though......」"
+msgstr "Taiga「Aunque nos sobra uno......」"
+
+msgid "Noto「Owww...... Tiger, it still hurts where you＿punched me.」"
+msgstr "Noto「Ayyy...... Tigre, todavía me＿duele donde me golpeaste.」"
+
+msgid "Taiga「Hmph! Be grateful that's all I did.」"
+msgstr "Taiga「¡Jum! Agradece que solo hice eso.」"
+
+msgid "Haruta「She's right～ Notocchi's lucky that's all＿she did～ Meanwhile, I'll be damaged＿goods for the rest of my life......」"
+msgstr "Haruta「Tiene razón～ Notocchi tuvo suerte de que＿solo fuera eso～ En cambio, yo seré＿mercancía dañada de por vida......」"
+
+msgid "Ryuuji「That sounds... interesting...」"
+msgstr "Ryuuji「Eso suena... interesante...」"
+
+msgid "Taiga「H-H-HEY! You stupid rotten hippie!＿Don't make it sound all WEIRD!」"
+msgstr "Taiga「¡O-O-OYE! ¡Hippie estúpido y podrido!＿¡No hagas que suene RARO!」"
+
+msgid "Ami「Wow, wouldn't have pegged Tiger as＿the deflowering type～ Isn't it kinda＿cruel to take someone's first time?」"
+msgstr "Ami「Vaya, no habría metido a Tigre en el＿grupo de las desfloradoras～ ¿No es＿cruel quitar la primera vez?」"
+
+msgid "Taiga「I don't want you pegging me at all!」"
+msgstr "Taiga「¡No quiero que me metas en nada!」"
+
+msgid "Ami「Whaaat? And what kind of \"pegging\"＿are YOU thinking about?」"
+msgstr "Ami「¿Quéee? ¿Y en qué clase de \"metida\"＿estás pensando TÚ?」"
+
+msgid "Taiga「Y-You DIRTY CHIHUAHUA!!」"
+msgstr "Taiga「¡¡C-CHIHUAHUA SUCIA!!」"
+
+msgid "Minori「Now now, calm down. We all got＿through a test of courage safely! We＿should be celebrating!」"
+msgstr "Minori「Ya, ya, cálmense. ¡Todos superamos＿la prueba de valor a salvo! ¡Deberíamos＿celebrarlo!」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Ryuuji「Kitamura!」"
+msgstr "Ryuuji「¡Kitamura!」"
+
+msgid "Kitamura「What is it?」"
+msgstr "Kitamura「¿Qué pasa?」"
+
+msgid "Ryuuji「Did you see anything weird during the＿test?」"
+msgstr "Ryuuji「¿Viste algo raro durante la prueba?」"
+
+msgid "Kitamura「Something weird? Like what?」"
+msgstr "Kitamura「¿Algo raro? ¿Como qué?」"
+
+msgid "Ryuuji「......Like a ghost.」"
+msgstr "Ryuuji「......Como un fantasma.」"
+
+msgid "Kitamura「A ghost!? ......No, I didn't see anything＿like that. All I saw was Noto's antics.」"
+msgstr "Kitamura「¡¿Un fantasma?! ......No, no＿vi nada por el estilo. Solo vi＿las payasadas de Noto.」"
+
+msgid "Noto「What? What did I do?」"
+msgstr "Noto「¿Qué? ¿Qué hice yo?」"
+
+msgid "Kitamura「Noto, did you encounter any real＿ghosts while you were doing your＿ghost act?」"
+msgstr "Kitamura「Noto, ¿te topaste con algún＿fantasma real mientras hacías＿tu acto de fantasma?」"
+
+msgid "Noto「What!? Ghosts? Yeah right!」"
+msgstr "Noto「¡¿Qué?! ¿Fantasmas? ¡Sí, claro!」"
+
+msgid "Haruta「Aww, me neither～ I wanted to meet＿that hottie, dude!」"
+msgstr "Haruta「Ayy, yo tampoco～ ¡Quería conocer＿a esa preciosura, amigo!」"
+
+msgid "Ryuuji「So no one else encountered it......」"
+msgstr "Ryuuji「Así que nadie más se lo topó......」"
+
+msgid "Kitamura「Was there something you wanted to＿tell us?」"
+msgstr "Kitamura「¿Había algo que nos quisieras contar?」"
+
+msgid "Ryuuji「Uh, not really.」"
+msgstr "Ryuuji「Eh, en realidad no.」"
+
+msgid "Kitamura「Really? Alright then, let's end it here.」"
+msgstr "Kitamura「¿Seguro? Bueno, entonces＿terminemos por hoy.」"
+
+msgid "Ryuuji「............Okay.」"
+msgstr "Ryuuji「............Está bien.」"
+
+msgid "Kitamura「Alright, we're done here! It's pretty＿late, so be careful on your way home,＿please!」"
+msgstr "Kitamura「¡Listo, terminamos! Ya es bastante＿tarde, así que tengan cuidado al＿volver a casa, ¡por favor!」"
+
+msgid "Noto「Awww. I wonder if I can take a bath＿tonight...... I should put some ice on this＿bruise.」"
+msgstr "Noto「Ayyy. Me pregunto si podré bañarme＿esta noche...... Debería ponerme＿hielo en este moretón.」"
+
+msgid "Haruta「So like, why'd we do this in the winter?＿Seriously, why?」"
+msgstr "Haruta「O sea, ¿por qué hicimos esto en＿invierno? En serio, ¿por qué?」"
+
+msgid "Taiga「Brrr～ Feels even colder standing still.＿Let's hurry home so I can get a hot＿drink.」"
+msgstr "Taiga「Brrr～ Se siente más frío sin movernos.＿Volvamos rápido a casa para tomar＿algo caliente.」"
+
+msgid "Minori「What's the matter, Taiga? If you're so＿cold, then I'mma just hug you!」"
+msgstr "Minori「¿Qué pasa, Taiga? ¡Si tienes tanto＿frío, entonces te voy a abrazar!」"
+
+msgid "Ami「See ya, Takasu-kun. Bye-bye.」"
+msgstr "Ami「Nos vemos, Takasu-kun. Adiós.」"
+
+msgid "Ryuuji「See you at school.」"
+msgstr "Ryuuji「Nos vemos en la escuela.」"
+
+msgid "Ami「..................Okay.」"
+msgstr "Ami「..................Está bien.」"
+
+msgid "Minori「I mean, isn't this exactly like those＿quiet, forested, mountain spirit＿haunted spots they write about in」"
+msgstr "Minori「O sea, ¿no es exactamente igual a esos＿lugares boscosos y tranquilos con＿espíritus de la montaña de los que」"
+
+msgid "Minori「magazines?」"
+msgstr "Minori「hablan las revistas?」"
+
+msgid "Noto「I was like \"no way, it's cold as balls\"～＿but then she said I'm the best at head＿games like this, so I just couldn't turn」"
+msgstr "Noto「Dije: \"ni hablar, hace un frío＿horrible\"～ Pero dijo que soy el mejor＿para estos juegos mentales y no pude」"
+
+msgid "Noto「her down, see?」"
+msgstr "Noto「rechazarla, ¿ves?」"
+
+msgid "Haruta「So I called her cell phone, and＿apparently she'd met up with＿Kushieda, so she told me to go it」"
+msgstr "Haruta「Así que la llamé al celular y parece＿que se había encontrado con Kushieda,＿así que me dijo que siguiera」"
+
+msgid "Haruta「alone～」"
+msgstr "Haruta「solo～」"
+
+msgid "Ryuuji「You haven't......? Come to think of it,＿you and Taiga were the first team to＿leave. So isn't it kinda weird that」"
+msgstr "Ryuuji「¿Aún no......? Ahora que lo pienso, tú＿y Taiga fueron los primeros en salir.＿¿No es un poco raro que」"
+
+msgid "Ryuuji「you've only gotten this far?」"
+msgstr "Ryuuji「solo hayan llegado hasta aquí?」"
+
+msgid "Ryuuji「It just is. If you guys were walking at a＿casual pace, by now one would think＿you should have arrived at the」"
+msgstr "Ryuuji「Claro que sí. Si caminaban a paso＿tranquilo, a estas alturas cualquiera＿pensaría que ya habrían llegado al」"
+
+msgid "Ryuuji「observatory and already be on the＿path back.」"
+msgstr "Ryuuji「observatorio y ya irían＿de camino de vuelta.」"
+
+msgid "Haruta「Whaaat? Don't all guys get curious?＿And wanna go on adventures? And＿wanna do something reckless so the」"
+msgstr "Haruta「¿Quéee? ¿No les da curiosidad a todos＿los chicos? ¿Y no quieren aventuras? ¿Y＿hacer algo temerario para que la」"
+
+msgid "Haruta「girl goes \"So cool～①\"?」"
+msgstr "Haruta「chica diga \"¡Qué genial～①!\"?」"

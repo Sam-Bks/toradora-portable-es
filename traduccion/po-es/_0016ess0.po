@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+
+msgid "Inko-chan「MEH」"
+msgstr "Inko-chan「MEH」"
+
+msgid "Ryuuji「Oh?!」"
+msgstr "Ryuuji「¡¿Eh?!」"
+
+msgid "Inko-chan「ME, ME, MEM. MEM, MEM......」"
+msgstr "Inko-chan「ME, ME, MEM. MEM, MEM......」"
+
+msgid "Ryuuji「Mem......? Are you perhaps concerned＿about my memory?」"
+msgstr "Ryuuji「¿Mem......? ¿Acaso te＿preocupa mi memoria?」"
+
+msgid "Inko-chan「MEM......」"
+msgstr "Inko-chan「MEM......」"
+
+msgid "Inko-chan「BER」"
+msgstr "Inko-chan「BRILLO」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Ryuuji「W-Well, whatever......」"
+msgstr "Ryuuji「B-Bueno, como sea......」"
+
+msgid "Ryuuji「（I know, why don't I try talking to＿Inko-chan? Maybe I'll get a hint to＿regaining more memories.）」"
+msgstr "Ryuuji「（Ya sé, ¿por qué no intento hablar con＿Inko-chan? Tal vez consiga una pista＿para recuperar más recuerdos.）」"
+
+msgid "Have a chat"
+msgstr "Charlar"
+
+msgid "Don't chat"
+msgstr "No charlar"
+
+msgid "Ryuuji「（Nah...... I'm exhausted. I'll go to bed.）」"
+msgstr "Ryuuji「（No...... Estoy agotado. Me acostaré.）」"
+
+msgid "Ryuuji「（I have a lot to do tomorrow......）」"
+msgstr "Ryuuji「（Mañana tengo mucho que hacer......）」"

@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Toradora! Portable ES\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Scene: _c056yas0\n"
+
+msgid "Yasuko「Whaaat~? What's with those clothes,＿Ryuu-channn?」"
+msgstr "Yasuko「¿Quéee~? ¿Y esa ropa,＿Ryuu-channn?」"
+
+msgid "Ryuuji「Oh, uhh, well...... Taiga told me to wear＿this.」"
+msgstr "Ryuuji「Ah, ehm, bueno...... Taiga me dijo que＿me pusiera esto.」"
+
+msgid "Yasuko「Well, well! Going to a partyyy?」"
+msgstr "Yasuko「¡Vaya, vaya! ¿Vas a una fiestaaa?」"
+
+msgid "Ryuuji「No, that's not it...... I'm just out and＿about.」"
+msgstr "Ryuuji「No, no es eso...... Solo＿salí a dar una vuelta.」"
+
+msgid "Yasuko「Don't be out too late, okayyy? You're＿still in high school, after all～」"
+msgstr "Yasuko「No regreses muy tarde, ¿síii? Sigues＿en preparatoria, después de todo～」"
+
+msgid "Ryuuji「Oh, I understand.」"
+msgstr "Ryuuji「Ah, entiendo.」"
+
+msgid "Yasuko「But, ufu! ① Ryuu-chan really does look＿good in that suittt. Got Yacchan's＿heart beating a little fasterrr～」"
+msgstr "Yasuko「Pero, ¡juju! ① A Ryuu-chan sí que le＿queda bien ese trajeee. Hiciste latir＿el corazón de Yacchan más rápidooo～」"
+
+msgid "Ryuuji「R-Really......? Hey, wait! Don't glomp me＿in the middle of the street!」"
+msgstr "Ryuuji「¿D-De verdad......? ¡Oye, espera! ¡No me＿abraces así en medio de la calle!」"
+
+msgid "Yasuko「If the customers saw, they'd get the＿wrong idea for suuure. Ehehe☆」"
+msgstr "Yasuko「Si nos vieran los clientes, seguro se＿harían una idea equivocadaaa. Ejeje☆」"
+
+msgid "Ryuuji「Then let go. And for that matter, go＿back inside. It's gotten pretty cold out.＿You could get sick.」"
+msgstr "Ryuuji「Entonces suéltame. Y ya de paso, entra.＿Ya hace bastante frío afuera. Podrías＿enfermarte.」"
+
+msgid "Yasuko「Gosh, Ryuu-chan's so sweeeet～ ① But＿Yacchan's just fine! Working hard＿tonight to protect our home～ YEAH～!」"
+msgstr "Yasuko「Ay, Ryuu-chan es tan dulceee～ ① ¡Pero＿Yacchan está muy bien! ¡Trabajando duro＿hoy para proteger nuestro hogar～ SÍ～!」"
+
+msgid "Yasuko「Yacchan doesn't remember that far＿back～」"
+msgstr "Yasuko「Yacchan no recuerda cosas de hace tanto～」"
+
+msgid "Ryuuji「I, I see......」"
+msgstr "Ryuuji「Y-Ya veo......」"
+
+msgid "Ryuuji「Hey, I know it's really late to ask this,＿but what's the relationship between＿you and me?」"
+msgstr "Ryuuji「Oye, sé que ya es muy tarde para＿preguntar esto, pero ¿qué relación＿hay entre tú y yo?」"
+
+msgid "Yasuko「Huh～? What do you mean \"what\"～?」"
+msgstr "Yasuko「¿Ehh～? ¿A qué te refieres con \"qué\"～?」"
+
+msgid "Ryuuji「Well, you see...... In short, how are the＿two of us connected?」"
+msgstr "Ryuuji「Bueno, verás...... En resumen, ¿cómo＿estamos conectados nosotros dos?」"
+
+msgid "Yasuko「Connected? Umm, umm...... Yeah, we're＿connected through our bodiesss.」"
+msgstr "Yasuko「¿Conectados? Ehm, ehm...... Sí, estamos＿conectados por nuestros cuerposss.」"
+
+msgid "Ryuuji「Wha!? R-Really!?」"
+msgstr "Ryuuji「¡¿Qué?! ¡¿D-De verdad?!」"
+
+msgid "Yasuko「Huh～? Is it that surprisinggg～?＿Seems pretty obviousss～」"
+msgstr "Yasuko「¿Ehh～? ¿Es tan sorprendenteee～?＿Parece bastante obviooo～」"
+
+msgid "Ryuuji「O-Obvious...... I, I see...... So I...... err,＿well......」"
+msgstr "Ryuuji「O-Obvio...... Y-Ya veo...... Entonces＿yo...... ehm, bueno......」"
+
+msgid "Ryuuji「（Crap, I can't remember AT ALL!）」"
+msgstr "Ryuuji「（¡Rayos, no recuerdo NADA DE NADA!）」"
+
+msgid "Yasuko「Yacchan has the bestest, happiest＿memories with you. Ufu☆」"
+msgstr "Yasuko「Yacchan tiene los mejores y más＿felices recuerdos contigo. Juju☆」"
+
+msgid "Ryuuji「I, I uh, don't remember. Sorry for, uh,＿not remembering......」"
+msgstr "Ryuuji「Y-Yo, ehm, no recuerdo. Perdón por,＿ehm, no recordar......」"
+
+msgid "Yasuko「Huh～? What are you saying,＿Ryuu-channn? That's nothing to＿apologize forrr.」"
+msgstr "Yasuko「¿Ehh～? ¿Qué estás diciendo,＿Ryuu-channn? No es nada por lo que＿debas disculparteee.」"
+
+msgid "Ryuuji「But! But still!」"
+msgstr "Ryuuji「¡Pero! ¡Aun así!」"
+
+msgid "Yasuko「Ryuu-chan is such a sweet boyyy～」"
+msgstr "Yasuko「Ryuu-chan es un chico tan lindooo～」"
+
+msgid "Yasuko「Oh dear, they're callinggg～ Sorry＿Ryuu-chan, but Yacchan has to go＿back to the bar.」"
+msgstr "Yasuko「Ay, me están llamandooo～ Perdón,＿Ryuu-chan, pero Yacchan tiene que＿volver al bar.」"
+
+msgid "Ryuuji「Oh, okay......」"
+msgstr "Ryuuji「Ah, está bien......」"
+
+msgid "Yasuko「Don't stay out too lateee～」"
+msgstr "Yasuko「No te quedes hasta muy tardeee～」"
+
+msgid "Ryuuji「（......A-Anyway, let me calm down a＿little...... Or just forget it! All of it!）」"
+msgstr "Ryuuji「（......C-Como sea, déjame calmarme un＿poco...... ¡O mejor olvídalo! ¡Todo!）」"
+
+msgid "Ryuuji「Don't overdo it...... Oh, that reminds me,＿I've been meaning to ask...... At lunch,＿you were saying we're a three-person」"
+msgstr "Ryuuji「No te excedas...... Ah, eso me recuerda＿que quería preguntarte...... En el＿almuerzo dijiste que somos una」"
+
+msgid "Ryuuji「family, right?」"
+msgstr "Ryuuji「familia de tres, ¿verdad?」"
+
+msgid "Yasuko「But see, that's not strange at all.＿Yacchan's allllways thought of＿Taiga-chan as part of our」"
+msgstr "Yasuko「Pero mira, eso no es nada raro.＿Yacchan siiiempre ha considerado a＿Taiga-chan parte de nuestra」"
+
+msgid "Yasuko「three-person familyyy.」"
+msgstr "Yasuko「familia de tresss.」"

@@ -1,0 +1,278 @@
+msgid ""
+msgstr ""
+
+msgid "Haruta「Whaaat～? Whatcha up to, guys?」"
+msgstr "Haruta「¿Quéee～? ¿Qué andan haciendo, chicos?」"
+
+msgid "Ryuuji「Oh, just running errands.」"
+msgstr "Ryuuji「Ah, solo haciendo unos mandados.」"
+
+msgid "Haruta「Don't tell me you guys are on a DATE?」"
+msgstr "Haruta「¿No me digan que están en una CITA?」"
+
+msgid "Taiga「Of course not. Let's go, Ryuuji. His＿stupid is contagious.」"
+msgstr "Taiga「Claro que no. Vámonos, Ryuuji.＿Su estupidez es contagiosa.」"
+
+msgid "Haruta「That ain't true, Tiger～ Wait, you're＿seriously LEAVIN'!? Wait, hold it, come＿on, HEY HEY!」"
+msgstr "Haruta「¡Eso no es cierto, Tigre～! Espera,＿¡¿de verdad SE VAN?! ¡Alto, oigan,＿vamos, OIGAN, OIGAN!」"
+
+msgid "Taiga「Argh, will you shut up already!?」"
+msgstr "Taiga「Agh, ¡¿quieres callarte de una vez?!」"
+
+msgid "Haruta「How could ya be so cruel to your＿precious classmate～?」"
+msgstr "Haruta「¿Cómo puedes ser tan cruel con tu＿preciado compañero de clase～?」"
+
+msgid "Taiga「Granted you're our classmate, but＿whether or not you're \"precious\" is＿another story.」"
+msgstr "Taiga「Eres nuestro compañero, de acuerdo,＿pero que seas \"preciado\" ya＿es otra historia.」"
+
+msgid "Haruta「Oohoo, you're intense as always～」"
+msgstr "Haruta「Ohooo, tan intensa como siempre～」"
+
+msgid "Ryuuji「Likewise, what are you doing around＿here, Haruta? School hasn't started＿yet.」"
+msgstr "Ryuuji「Lo mismo digo, ¿qué haces por＿aquí, Haruta? Las clases todavía＿no han empezado.」"
+
+msgid "Haruta「Whoa, even Taka-chan is intense. Ya＿really think I came here for fun?」"
+msgstr "Haruta「Uau, hasta Taka-chan está intenso. ¿De＿verdad creen que vine por gusto?」"
+
+msgid "Taiga「Regardless, you're so brainless you＿might as well never come back to＿school.」"
+msgstr "Taiga「Como sea, tienes tan poco cerebro＿que daría igual si no volvieras＿nunca a la escuela.」"
+
+msgid "Haruta「I know, right～ If I had to choose, I'd＿make every day...... umm, uhh......」"
+msgstr "Haruta「¿Verdad que sí～? Si pudiera＿elegir, haría que cada día fuera......＿ehm, ehh......」"
+
+msgid "Ryuuji「Sunday?」"
+msgstr "Ryuuji「¿Domingo?」"
+
+msgid "Haruta「Sunday? No, man, every day should be,＿like, a special celebration.」"
+msgstr "Haruta「¿Domingo? No, amigo, cada día debería＿ser, digamos, una celebración especial.」"
+
+msgid "Taiga「......A holiday?」"
+msgstr "Taiga「......¿Un día feriado?」"
+
+msgid "Haruta「Yeah, that! I was tryna say, I'd make＿every day a holiday!」"
+msgstr "Haruta「¡Sí, eso! ¡Quería decir que haría＿que cada día fuera feriado!」"
+
+msgid "Taiga「What a simpleton......」"
+msgstr "Taiga「Qué simplón......」"
+
+msgid "Haruta「Hehehe, I know, right～?」"
+msgstr "Haruta「Jejeje, ¿a que sí～?」"
+
+msgid "Ryuuji「......W-Well, whatever floats your boat, I＿guess.」"
+msgstr "Ryuuji「......B-Bueno, como tú＿prefieras, supongo.」"
+
+msgid "Haruta「Oh yeah, we were talking about what＿I'm doing～ Whaddya think I'm doing?」"
+msgstr "Haruta「Ah sí, hablábamos de qué ando haciendo～＿¿Qué creen que estoy haciendo?」"
+
+msgid "Taiga「I don't really care.」"
+msgstr "Taiga「La verdad me da igual.」"
+
+msgid "Ryuuji「Me either, actually......」"
+msgstr "Ryuuji「A mí también, la verdad......」"
+
+msgid "Haruta「TA-DAAA! This, man, this! This right＿here!」"
+msgstr "Haruta「¡TA-RAAÁN! ¡Esto, amigo,＿esto! ¡Esto de aquí!」"
+
+msgid "Ryuuji「A lottery ticket?」"
+msgstr "Ryuuji「¿Un boleto de lotería?」"
+
+msgid "Haruta「I found it in my house, so I thought I'd＿go find out if it's a winner～」"
+msgstr "Haruta「Lo encontré en mi casa, así que pensé＿en ir a ver si resultó ganador～」"
+
+msgid "Ryuuji「Don't they print the winning numbers＿in the newspaper?」"
+msgstr "Ryuuji「¿No publican los números ganadores＿en el periódico?」"
+
+msgid "Taiga「I think you could use your cell phone＿to find out, too.」"
+msgstr "Taiga「Creo que también podrías usar＿tu celular para averiguarlo.」"
+
+msgid "Haruta「Of course I know all that～ But hey～＿Ain't it kinda hard to find out on your＿own?」"
+msgstr "Haruta「Claro que sé todo eso～ Pero oye～ ¿No es＿algo difícil averiguarlo uno solo?」"
+
+msgid "Ryuuji「......You're talking about the winning＿numbers, right?」"
+msgstr "Ryuuji「......Hablas de los números＿ganadores, ¿cierto?」"
+
+msgid "Haruta「That's right～ That's what I been talkin'＿'bout this whole time.」"
+msgstr "Haruta「Exacto～ De eso he estado hablando＿todo este tiempo.」"
+
+msgid "Ryuuji「......Hey Haruta, if you don't mind, can I＿ask what's so difficult for you?」"
+msgstr "Ryuuji「......Oye, Haruta, si no te molesta,＿¿puedo preguntar qué te parece difícil?」"
+
+msgid "Haruta「Whaaat～? Well ya know～ It's like 1, 2,＿3, 4...... 6 digits long, ya know～?」"
+msgstr "Haruta「¿Quéee～? Pues ya sabes～ Tiene como 1,＿2, 3, 4...... 6 dígitos, ¿sabes～?」"
+
+msgid "Ryuuji「Yeah, it is.」"
+msgstr "Ryuuji「Sí, así es.」"
+
+msgid "Taiga「You're the one that's impossible.＿Impossibly slow, that is.」"
+msgstr "Taiga「El imposible eres tú. Imposiblemente＿lento, quiero decir.」"
+
+msgid "Ryuuji「......Normally you're supposed to look＿and see if the last three digits match,＿anyway.」"
+msgstr "Ryuuji「......De todas formas, normalmente＿solo tienes que ver si coinciden＿los últimos tres dígitos.」"
+
+msgid "Haruta「......Ohhhh! Damn, you're awesomely＿smart, man! That's perfect!」"
+msgstr "Haruta「......¡Ohhhh! ¡Caray, eres súper＿listo, amigo! ¡Eso es perfecto!」"
+
+msgid "Ryuuji「......」"
+msgstr "Ryuuji「......」"
+
+msgid "Taiga「......*Sigh*」"
+msgstr "Taiga「......*Suspiro*」"
+
+msgid "Ryuuji「Okay, but if you win we get 10＿percent.」"
+msgstr "Ryuuji「Está bien, pero si ganas nos＿toca el 10 por ciento.」"
+
+msgid "Haruta「Ya kiddin' me?」"
+msgstr "Haruta「¿Estás bromeando?」"
+
+msgid "Taiga「No, we get half.」"
+msgstr "Taiga「No, nos toca la mitad.」"
+
+msgid "Haruta「Ya serious?」"
+msgstr "Haruta「¿Hablas en serio?」"
+
+msgid "Haruta「Ummm...... Oh!? They do, man, they＿totally do!」"
+msgstr "Haruta「Ehhh...... ¡¿Eh?! ¡Sí coinciden,＿amigo, sí coinciden!」"
+
+msgid "Ryuuji「Seriously? Are you for real?」"
+msgstr "Ryuuji「¿En serio? ¿Hablas en serio?」"
+
+msgid "Haruta「Well, see for yourself!」"
+msgstr "Haruta「¡Bueno, míralo tú mismo!」"
+
+msgid "Taiga「......First prize!?」"
+msgstr "Taiga「......¡¿Primer premio?!」"
+
+msgid "Ryuuji「Wha......」"
+msgstr "Ryuuji「Qué......」"
+
+msgid "Haruta「Wait, are you kiddin' me!? This is crazy!＿Taka-chan, what's the other three＿numbers?」"
+msgstr "Haruta「Espera, ¡¿estás bromeando?! ¡Qué＿locura! Taka-chan, ¿cuáles son＿los otros tres números?」"
+
+msgid "Ryuuji「142.」"
+msgstr "Ryuuji「142.」"
+
+msgid "Haruta「......A-And the bonus number?」"
+msgstr "Haruta「......¿Y-Y el número adicional?」"
+
+msgid "Ryuuji「I-It's 3......」"
+msgstr "Ryuuji「E-Es el 3......」"
+
+msgid "Taiga「......」"
+msgstr "Taiga「......」"
+
+msgid "Haruta「......Oh my GOOOOOOD!! TWO HUNDRED＿MILLLL!!」"
+msgstr "Haruta「......¡¡Por DIOOOOOS!! ¡¡DOSCIENTOS＿MILLONEEEES!!」"
+
+msgid "Taiga「Huh?」"
+msgstr "Taiga「¿Eh?」"
+
+msgid "Ryuuji「You're joking, right?」"
+msgstr "Ryuuji「Estás bromeando, ¿verdad?」"
+
+msgid "Haruta「But look at this! 142611 (3)!」"
+msgstr "Haruta「¡Pero mira esto! ¡142611 (3)!」"
+
+msgid "Taiga「No joke......」"
+msgstr "Taiga「No es broma......」"
+
+msgid "Ryuuji「......I-It's true...... WHOAAA!!」"
+msgstr "Ryuuji「......E-Es verdad...... ¡¡UUUAAAU!!」"
+
+msgid "Haruta「YEAAAAAAAAAAH!!」"
+msgstr "Haruta「¡¡SÍIIIIIIIII!!」"
+
+msgid "Taiga「S-Second place is...... practically chump＿change.」"
+msgstr "Taiga「E-El segundo premio es......＿prácticamente una miseria.」"
+
+msgid "Haruta「But TWO HUNDRED MILLION! Whoaaa,＿what do I do? WHAT DO I DO!?」"
+msgstr "Haruta「¡Pero DOSCIENTOS MILLONES! Uaaau,＿¿qué hago? ¡¿QUÉ HAGO?!」"
+
+msgid "Ryuuji「That's incredible...... Lottery winners＿really do exist...... Wait, of course they＿do. What am I saying......?」"
+msgstr "Ryuuji「Es increíble...... Los ganadores de la＿lotería sí existen...... Espera, claro＿que sí. ¿Qué estoy diciendo......?」"
+
+msgid "Taiga「......」"
+msgstr "Taiga「......」"
+
+msgid "Haruta「Whoa～ I'm actually kinda scared right＿now! Did I just use up my whole life's＿worth of luck for this?」"
+msgstr "Haruta「Uau～ ¡La verdad me da algo de miedo＿ahora mismo! ¿Acabo de gastar la suerte＿de toda mi vida en esto?」"
+
+msgid "Ryuuji「But as long as you have two hundred＿million yen, the rest of your life＿shouldn't be too hard.」"
+msgstr "Ryuuji「Pero mientras tengas doscientos millones＿de yenes, el resto de tu vida no debería＿ser tan difícil.」"
+
+msgid "Haruta「Think so～? I'll be okay～? Even＿though I'm a moron～?」"
+msgstr "Haruta「¿Crees eso～? ¿Estaré bien～?＿¿Incluso siendo un tonto～?」"
+
+msgid "Ryuuji「F-For now, wouldn't it be better if you＿talked to your parents?」"
+msgstr "Ryuuji「P-Por ahora, ¿no sería mejor que＿hablaras con tus padres?」"
+
+msgid "Haruta「Y-You're right～ You're so right～ Yup,＿that's just what I'll do.」"
+msgstr "Haruta「T-Tienes razón～ Tienes toda la razón～＿Sip, eso mismo voy a hacer.」"
+
+msgid "Taiga「...I'm really sorry to interrupt your joy,＿but...」"
+msgstr "Taiga「...Siento mucho arruinarles＿la alegría, pero...」"
+
+msgid "Ryuuji「Oh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Haruta「W-What is it, Tiger～? That's a scary＿look on your face～」"
+msgstr "Haruta「¿Q-Qué pasa, Tigre～? Pones＿una cara que da miedo～」"
+
+msgid "Taiga「This lottery ticket? It's two years old.」"
+msgstr "Taiga「¿Este boleto de lotería? Tiene dos años.」"
+
+msgid "Haruta「Huh?」"
+msgstr "Haruta「¿Eh?」"
+
+msgid "Ryuuji「......Oh, on closer inspection, she's right.」"
+msgstr "Ryuuji「......Ah, viéndolo bien, tiene razón.」"
+
+msgid "Haruta「Huh? What? Say again? Then this＿is--?」"
+msgstr "Haruta「¿Eh? ¿Qué? ¿Cómo dices?＿¿Entonces esto es--?」"
+
+msgid "Haruta「......」"
+msgstr "Haruta「......」"
+
+msgid "Ryuuji「......」"
+msgstr "Ryuuji「......」"
+
+msgid "Taiga「......*Sigh*～」"
+msgstr "Taiga「......*Suspiro*～」"
+
+msgid "Ryuuji「Uh......」"
+msgstr "Ryuuji「Eh......」"
+
+msgid "Taiga「Ryuuji...... I'm sure even morons need＿alone time sometimes.」"
+msgstr "Taiga「Ryuuji...... Seguro hasta los tontos＿necesitan tiempo a solas a veces.」"
+
+msgid "Ryuuji「Y-You're probably right......」"
+msgstr "Ryuuji「P-Probablemente tengas razón......」"
+
+msgid "Haruta「If I tried to match up this huge long＿number, I'd mess up for sure～! 6 digits＿long? I'd forget 'em halfway!」"
+msgstr "Haruta「Si intentara comparar este número tan＿largo, ¡me equivocaría seguro～! ¿6＿dígitos? ¡Se me olvidan a la mitad!」"
+
+msgid "Haruta「Impossible～!」"
+msgstr "Haruta「¡Imposible～!」"
+
+msgid "Haruta「Wait right there, I'm loading the site on＿my phone～...... Okay, here, here it is!＿Say, Taka-chan, show me how to do」"
+msgstr "Haruta「Espera, cargo la página en mi＿celular～...... ¡Listo, aquí está!＿Oye, Taka-chan, enséñame a hacer」"
+
+msgid "Haruta「this～」"
+msgstr "Haruta「esto～」"
+
+msgid "Ryuuji「It was a joke, but let me show you......＿Anyway, look at the last three digits＿here. 611, okay? 611. Do they」"
+msgstr "Ryuuji「Era broma, pero te enseño...... En＿fin, mira los últimos tres dígitos＿de aquí. 611, ¿ves? 611. ¿Estos」"
+
+msgid "Ryuuji「match?」"
+msgstr "Ryuuji「coinciden?」"
+
+msgid "Taiga「Those winning numbers were for THIS＿year. And even if these were the right＿numbers back then, it's expired by」"
+msgstr "Taiga「Esos números ganadores son de ESTE año.＿Y aunque hubieran sido los correctos＿entonces, ya venció a estas」"
+
+msgid "Taiga「now. This may as well be scrap paper.」"
+msgstr "Taiga「alturas. Esto es prácticamente basura.」"
+
+msgid "Haruta「Aha, AHAHAHAHAHAHA! OF＿COURSE～! TOTALLY～! THERE'S NO＿WAY I'D WIN SO EASILY～!」"
+msgstr "Haruta「¡Aja, AJAJAJAJAJAJA! ¡POR SUPUESTO～!＿¡TOTALMENTE～! ¡NO HABÍA FORMA＿DE GANAR TAN FÁCIL～!」"
+
+msgid "Haruta「Ahahahahaha......」"
+msgstr "Haruta「Ajajajajaja......」"

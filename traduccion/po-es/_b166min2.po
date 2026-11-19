@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+
+msgid "Minori「Oops! I get the feeling I've been going＿on a tangent. Sorry!」"
+msgstr "Minori「¡Uy! Siento que me fui por＿las ramas. ¡Perdón!」"
+
+msgid "Ryuuji「Nah, you let me ask a bunch of stuff,＿so it's fine.」"
+msgstr "Ryuuji「No, me dejaste preguntar un montón＿de cosas, así que está bien.」"
+
+msgid "Minori「But you know, I get the sense that＿you're a good listener.」"
+msgstr "Minori「Pero sabes, me da la impresión de＿que sabes escuchar muy bien.」"
+
+msgid "Ryuuji「You think so? No one's ever told me＿that before.」"
+msgstr "Ryuuji「¿Tú crees? Nunca nadie me＿había dicho eso antes.」"
+
+msgid "Ryuuji「Don't you mean a reporter? There's no＿career in being a comedian.」"
+msgstr "Ryuuji「¿No querrás decir reportero? No＿hay futuro como comediante.」"
+
+msgid "Minori「See? Another superb response!」"
+msgstr "Minori「¿Ves? ¡Otra respuesta magnífica!」"
+
+msgid "Ryuuji「But I'm not too good at public＿speaking. At least a journalist wouldn't＿have to deal with that.」"
+msgstr "Ryuuji「Pero no se me da bien hablar en público.＿Al menos un periodista no tendría＿que lidiar con eso.」"
+
+msgid "Minori「Yeah, you're right. But I knew you'd say＿something like that.」"
+msgstr "Minori「Sí, tienes razón. Pero sabía＿que dirías algo así.」"
+
+msgid "Minori「Come on, it's time to go!」"
+msgstr "Minori「¡Vamos, es hora de irnos!」"
+
+msgid "Ryuuji「I guess so. Well then, let's head off.」"
+msgstr "Ryuuji「Supongo que sí. Bueno,＿pongámonos en marcha.」"
+
+msgid "Minori「Aye aye, sir!!」"
+msgstr "Minori「¡¡A la orden, señor!!」"
+
+msgid "Minori「When I talk, you're so, like, attentive or＿something that your responses are＿superb! And you're great at rebuffing」"
+msgstr "Minori「Cuando hablo, eres tan atento o algo＿así que tus respuestas son magníficas.＿Y eres genial frenando」"
+
+msgid "Minori「my jokes. You should become a＿comedian～」"
+msgstr "Minori「mis bromas. Deberías hacerte comediante～」"

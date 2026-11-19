@@ -1,0 +1,227 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「Three, two, one...... Fuck, that's heavy!」"
+msgstr "Ryuuji「Tres, dos, uno...... ¡Mierda, cómo pesa!」"
+
+msgid "Taiga「It stinks! *Sigh*...... We lost to a manhole＿cover......」"
+msgstr "Taiga「¡Apesta! *Suspiro*...... Perdimos contra＿una tapa de alcantarilla......」"
+
+msgid "Taiga「Nggh......」"
+msgstr "Taiga「Nggh......」"
+
+msgid "Ryuuji「Someone's bound to get upset about＿us opening this manhole......」"
+msgstr "Ryuuji「Seguro que alguien se molestará por＿abrir esta alcantarilla......」"
+
+msgid "Haruta「Whaaat～? The gang's all here? What's＿goin' on? Lemme join!」"
+msgstr "Haruta「¿Quéee～? ¿Están todos aquí? ¿Qué＿pasa? ¡Déjenme unirme!」"
+
+msgid "Ryuuji「Haruta......」"
+msgstr "Haruta「Haruta......」"
+
+msgid "Taiga「Oh great, another nuisance......」"
+msgstr "Taiga「Genial, otro estorbo......」"
+
+msgid "Haruta「Srsly, what? Whatcha guys lookin' all＿sad for～? C'mon now, don't be shy～」"
+msgstr "Haruta「En serio, ¿qué? ¿Por qué tienen esas＿caras tristes～? Vamos, no sean tímidos～」"
+
+msgid "Ryuuji「Okay, I won't be shy. You can go ahead＿and leave.」"
+msgstr "Ryuuji「Bien, no seré tímido. Ya puedes irte.」"
+
+msgid "Ryuuji「We don't need your help.」"
+msgstr "Ryuuji「No necesitamos tu ayuda.」"
+
+msgid "Haruta「Okay, Ami-chan! All I have to do is go＿inside, right?」"
+msgstr "Haruta「¡De acuerdo, Ami-chan! Solo＿tengo que entrar, ¿verdad?」"
+
+msgid "Taiga「StuChi, you need to help too!」"
+msgstr "Taiga「¡StuChi, tú también tienes que ayudar!」"
+
+msgid "Taiga「It reeks! *Sigh* We can't engrave this＿manhole cover after all......」"
+msgstr "Taiga「¡Apesta! *Suspiro* Después de＿todo, no podemos grabar esta tapa＿de alcantarilla......」"
+
+msgid "Ami「And whose fault do you suppose it is?＿Quit whining and get to moving! On the＿double!」"
+msgstr "Ami「¿Y de quién crees que es la culpa? ¡Deja＿de lloriquear y muévete! ¡Rápido!」"
+
+msgid "Taiga「Nggh......」"
+msgstr "Taiga「Nggh......」"
+
+msgid "Haruta「Whaaat～? The gang's all here? What's＿goin' on? Lemme join!」"
+msgstr "Haruta「¿Quéee～? ¿Están todos aquí? ¿Qué＿pasa? ¡Déjenme unirme!」"
+
+msgid "Ryuuji「Haruta......」"
+msgstr "Haruta「Haruta......」"
+
+msgid "Taiga「Oh great, another nuisance......」"
+msgstr "Taiga「Genial, otro estorbo......」"
+
+msgid "Haruta「Seriously, what? Whatcha guys lookin'＿all sad for～? C'mon now, don't be＿shy～」"
+msgstr "Haruta「En serio, ¿qué? ¿Por qué tienen esas＿caras tristes～? Vamos, no sean tímidos～」"
+
+msgid "Ryuuji「Okay, I won't be shy. You can go ahead＿and leave.」"
+msgstr "Ryuuji「Bien, no seré tímido. Ya puedes irte.」"
+
+msgid "Ryuuji「We don't need your help!」"
+msgstr "Ryuuji「¡No necesitamos tu ayuda!」"
+
+msgid "Haruta「Okay, Ami-chan! All I have to do is go＿inside, right?」"
+msgstr "Haruta「¡De acuerdo, Ami-chan! Solo＿tengo que entrar, ¿verdad?」"
+
+msgid "Taiga「StuChi, you need to help out too!」"
+msgstr "Taiga「¡StuChi, tú también tienes que ayudar!」"
+
+msgid "Ami「Excuse me? Reflect on your mistakes＿with your brain at full power before＿you speak.」"
+msgstr "Ami「¿Disculpa? Reflexiona sobre tus＿errores usando tu cerebro al＿máximo antes de hablar.」"
+
+msgid "Taiga「Tch......」"
+msgstr "Taiga「Tch......」"
+
+msgid "Ami「Omigod～ It's hilarious how much that＿all-fours pose suits you①」"
+msgstr "Ami「Por Dios～ Qué risa lo bien que te＿queda esa pose en cuatro patas①」"
+
+msgid "Taiga「What did you sayyy!?」"
+msgstr "Taiga「¡¿Qué dijisteee?!」"
+
+msgid "Ryuuji「Dammit Taiga, don't get distracted! It's＿slipping!」"
+msgstr "Ryuuji「¡Maldición, Taiga, no te distraigas!＿¡Se está resbalando!」"
+
+msgid "Taiga「Huh? Aaah!」"
+msgstr "Taiga「¿Eh? ¡Aaah!」"
+
+msgid "Haruta「......Whaa?」"
+msgstr "Haruta「......¿Qué?」"
+
+msgid "Haruta「GAHHH!!」"
+msgstr "Haruta「¡¡GAAAH!!」"
+
+msgid "Ryuuji「HARUTA!!」"
+msgstr "Ryuuji「¡¡HARUTA!!」"
+
+msgid "Ami「Ugh, that had to hurt......」"
+msgstr "Ami「Agh, eso tuvo que doler......」"
+
+msgid "Taiga「Crap...... Did he survive that?」"
+msgstr "Taiga「Rayos...... ¿Sobrevivió a eso?」"
+
+msgid "Haruta「Ugh... Uggghhh...... Stars...... I'm seeing＿stars...... Taka-chan, there are so many＿stars......」"
+msgstr "Haruta「Ugh... Uggghhh...... Estrellas......＿Veo estrellas...... Taka-chan, hay＿tantas estrellas......」"
+
+msgid "Ryuuji「Pull yourself together. It's only a＿scratch.」"
+msgstr "Ryuuji「Reacciona. Es solo un rasguño.」"
+
+msgid "Ryuuji「H-Haruta?」"
+msgstr "Ryuuji「¿H-Haruta?」"
+
+msgid "Haruta「Hey, Takasu. It's commonly said that＿the Big Bang created the universe, but＿what created the Big Bang, I wonder?」"
+msgstr "Haruta「Oye, Takasu. Se suele decir que el＿Big Bang creó el universo, pero ¿qué＿creó el Big Bang, me pregunto?」"
+
+msgid "Ryuuji「Come again?」"
+msgstr "Ryuuji「¿Cómo dices?」"
+
+msgid "Taiga「W-What do we do, StuChi?! The＿moron's a genius now!」"
+msgstr "Taiga「¡¿Q-Qué hacemos, StuChi?! ¡Ahora＿el idiota es un genio!」"
+
+msgid "Ami「Isn't this like, SUPER bad? Don't tell＿me he's fatally injured......」"
+msgstr "Ami「¿Esto no es como SÚPER grave? No me＿digas que está herido de muerte......」"
+
+msgid "Ryuuji「Haruta! Earth to Haruta!!」"
+msgstr "Ryuuji「¡Haruta! ¡¡Tierra llamando a Haruta!!」"
+
+msgid "Haruta「Th...... There's a hairy patch...... on one＿of Ami-chan's legs......」"
+msgstr "Haruta「Ha...... Hay una zona con vello......＿en una pierna de Ami-chan......」"
+
+msgid "Ami「Huh? Aaah, he's right!」"
+msgstr "Ami「¿Eh? ¡Aaah, tiene razón!」"
+
+msgid "Ryuuji「Thank god he's back to his senses!」"
+msgstr "Ryuuji「¡Gracias a Dios recuperó la cordura!」"
+
+msgid "Haruta「Ta...... Taka-chan? Where is my name?＿Who is this place?」"
+msgstr "Haruta「¿Ta...... Taka-chan? ¿Dónde está mi＿nombre? ¿Quién es este lugar?」"
+
+msgid "Ryuuji「This is the station square, and you're a＿moron. Don't worry, you'll be fine.」"
+msgstr "Ryuuji「Esta es la plaza de la estación,＿y tú eres un idiota. Tranquilo,＿estarás bien.」"
+
+msgid "Haruta「I see～ I get it～」"
+msgstr "Haruta「Ya veo～ Ya entiendo～」"
+
+msgid "Taiga「That's good...... The moron is stupid＿again, StuChi!」"
+msgstr "Taiga「Qué bien...... ¡El idiota volvió＿a ser estúpido, StuChi!」"
+
+msgid "Ami「Tiger, do you have a pair of tweezers＿on you? I can't let this patch exist～」"
+msgstr "Ami「Tigre, ¿traes unas pinzas contigo? No＿puedo dejar que esa zona exista～」"
+
+msgid "Ryuuji「Alright. Take care.」"
+msgstr "Ryuuji「Muy bien. Cuídate.」"
+
+msgid "Haruta「Yup, I'll join the birds!」"
+msgstr "Haruta「¡Sip, me uniré a los pájaros!」"
+
+msgid "Ami「It's a wonder Haruta-kun was able to＿make it to high school at all......」"
+msgstr "Ami「Es un milagro que Haruta-kun lograra＿llegar siquiera a la preparatoria......」"
+
+msgid "Taiga「I'm sure something like this must have＿happened before the entrance exam.」"
+msgstr "Taiga「Seguro algo así debió pasarle antes＿del examen de admisión.」"
+
+msgid "Ryuuji「Maybe so...... Now then, let's keep＿working.」"
+msgstr "Ryuuji「Tal vez sí...... En fin,＿sigamos trabajando.」"
+
+msgid "Ami「It's for the sake of Ami-chan's＿Operation Venus! Which means it's for＿Yuusaku's sake, right? Quit your」"
+msgstr "Ami「¡Es por la Operación Venus de Ami-chan!＿Lo que significa que es por el bien＿de Yuusaku, ¿no? ¡Deja de」"
+
+msgid "Ami「bitching and get to moving! Up and at＿'em!」"
+msgstr "Ami「quejarte y ponte en marcha!＿¡Vamos, a moverse!」"
+
+msgid "Haruta「Wooow, Taka-chan's harsh～! Hey now,＿whatcha doing opening a manhole＿cover? I'll help out, bro～ Lemme join」"
+msgstr "Haruta「¡Guaau, qué duro, Taka-chan～! Oye, ¿qué＿hacen abriendo una tapa de alcantarilla?＿¡Yo ayudo, amigo～ Déjenme unirme a」"
+
+msgid "Haruta「you.」"
+msgstr "Haruta「ustedes.」"
+
+msgid "Ami「Well, he's already caught us in the act,＿so why not? Haruta-kun, we're going＿to engrave this cover, so while Tiger」"
+msgstr "Ami「Bueno, ya nos atrapó en el acto, así que＿¿por qué no? Haruta-kun, grabaremos esta＿tapa, así que mientras Tigre」"
+
+msgid "Ami「and Takasu-kun hold it up, you go＿inside and get to work①」"
+msgstr "Ami「y Takasu-kun la sostienen, tú＿entra y ponte a trabajar①」"
+
+msgid "Ami「Ami-chan plus manhole? That would＿be the mismatch of the century! Aww,＿don't you worry, you look SUPER great」"
+msgstr "Ami「¿Ami-chan y una alcantarilla? ¡Eso sería＿la peor combinación del siglo! Aww, no＿te preocupes, te ves SÚPER bien」"
+
+msgid "Ami「on all fours, Tiger①」"
+msgstr "Ami「en cuatro patas, Tigre①」"
+
+msgid "Haruta「Wooow, Taka-chan's harsh～! Hey now,＿whatcha doing opening a manhole＿cover? I'll help out, bro～ Lemme join」"
+msgstr "Haruta「¡Guaau, qué duro, Taka-chan～! Oye, ¿qué＿hacen abriendo una tapa de alcantarilla?＿¡Yo ayudo, amigo～ Déjenme unirme a」"
+
+msgid "Haruta「you.」"
+msgstr "Haruta「ustedes.」"
+
+msgid "Ami「Well, he's already caught us in the act,＿so why not? Haruta-kun, we're going＿to engrave this cover, so while Tiger」"
+msgstr "Ami「Bueno, ya nos atrapó en el acto, así que＿¿por qué no? Haruta-kun, grabaremos esta＿tapa, así que mientras Tigre」"
+
+msgid "Ami「and Takasu-kun hold it up, you go＿inside and get to work①」"
+msgstr "Ami「y Takasu-kun la sostienen, tú＿entra y ponte a trabajar①」"
+
+msgid "Haruta「No...... Space is vast, infinitely so. When＿one reaches this profoundly deep＿conclusion, the life of a star is fleeting」"
+msgstr "Haruta「No...... El espacio es vasto, infinito.＿Al llegar a tan profunda conclusión, la＿vida de una estrella es fugaz」"
+
+msgid "Haruta「like the glow of a firefly in late＿autumn......」"
+msgstr "Haruta「como el brillo de una luciérnaga＿a fines de otoño......」"
+
+msgid "Haruta「Science has not been able to fully＿explain the story of the primordial＿universe, but one hypothesis holds」"
+msgstr "Haruta「La ciencia no ha podido explicar del＿todo la historia del universo＿primordial, pero una hipótesis sostiene」"
+
+msgid "Haruta「that the pre-Big Bang universe was＿inside infinitesimally tiny particles.」"
+msgstr "Haruta「que el universo previo al Big Bang＿estaba dentro de partículas＿infinitesimalmente diminutas.」"
+
+msgid "Haruta「Modern cosmic theory and atomic＿theory both arrive at one conclusion:＿infinitely small begets infinitely large,」"
+msgstr "Haruta「La cosmología y teoría atómica modernas＿concluyen lo mismo: lo infinitamente＿pequeño crea lo infinitamente grande,」"
+
+msgid "Haruta「but the, th...... Thhhh--」"
+msgstr "Haruta「pero el, e...... Eeeee--」"
+
+msgid "Haruta「Argh, my mind's all clear!! Sorry dudes,＿I'm gonna stop by the park. I get the＿feeling I could have a happy chat with」"
+msgstr "Haruta「¡¡Argh, tengo la mente despejada!!＿Perdón, amigos, pasaré por el parque.＿¡Siento que podría charlar feliz con」"
+
+msgid "Haruta「a little bluebird right now!」"
+msgstr "Haruta「un pajarito azul ahora mismo!」"

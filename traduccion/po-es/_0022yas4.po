@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+
+msgid "Yasuko「Hmm～ Ryuu-chan needs more＿practice～」"
+msgstr "Yasuko「Mmm～ A Ryuu-chan le falta más práctica～」"
+
+msgid "Ryuuji「More practice for what?」"
+msgstr "Ryuuji「¿Más práctica para qué?」"
+
+msgid "Yasuko「If you want to be popular with girls,＿you have to have charisma～ Keep＿trying～!」"
+msgstr "Yasuko「Si quieres ser popular con las＿chicas, tienes que tener carisma～＿¡Sigue intentándolo～!」"
+
+msgid "Ryuuji「Right, I'm sorry......」"
+msgstr "Ryuuji「Sí, lo siento......」"
+
+msgid "Ryuuji「（......Wait, I'm the customer, aren't I?）」"
+msgstr "Ryuuji「（......Espera, yo soy el cliente, ¿no?）」"
+
+msgid "Yasuko「Ah, gotta go. It's time to prepare for＿business hours!」"
+msgstr "Yasuko「Ah, tengo que irme. ¡Es hora＿de prepararse para abrir!」"
+
+msgid "Ryuuji「Oh, alright. Sorry to disturb you. I'm＿going home.」"
+msgstr "Ryuuji「Ah, está bien. Perdón por＿molestar. Me voy a casa.」"
+
+msgid "Yasuko「Yeah, see you at home, Ryuu-chan.＿Happy New Year～」"
+msgstr "Yasuko「Sí, nos vemos en casa, Ryuu-chan.＿¡Feliz Año Nuevo～!」"
+
+msgid "Ryuuji「Oh, you too, Yasuko.」"
+msgstr "Ryuuji「Ah, tú también, Yasuko.」"

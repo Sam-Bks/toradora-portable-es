@@ -1,0 +1,764 @@
+msgid ""
+msgstr ""
+
+msgid "Stare"
+msgstr "Mirar fijamente"
+
+msgid "Stare passionately"
+msgstr "Mirar con pasión"
+
+msgid "Stare calmly"
+msgstr "Mirar con calma"
+
+msgid "Stare blankly"
+msgstr "Mirar distraído"
+
+msgid "About Ami-chan"
+msgstr "Sobre Ami-chan"
+
+msgid "For a celebrity, you're not arrogant"
+msgstr "Para ser famosa, no eres arrogante"
+
+msgid "Ami is a cute name"
+msgstr "Ami es un lindo nombre"
+
+msgid "You have plenty of fanboys, right?"
+msgstr "Tienes muchos admiradores, ¿verdad?"
+
+msgid "About Modeling"
+msgstr "Sobre el modelaje"
+
+msgid "Seems you have tons of fans"
+msgstr "Parece que tienes muchísimos fans"
+
+msgid "How does it feel to be in magazines?"
+msgstr "¿Qué se siente salir en revistas?"
+
+msgid "Is it hard to balance school with work?"
+msgstr "¿Cuesta combinar escuela y trabajo?"
+
+msgid "About Her Face"
+msgstr "Sobre su cara"
+
+msgid "Your face is better-looking than most"
+msgstr "Tu cara es más linda que la mayoría"
+
+msgid "Do you have a special facial regimen?"
+msgstr "¿Tienes una rutina facial especial?"
+
+msgid "Do you wear makeup?"
+msgstr "¿Usas maquillaje?"
+
+msgid "About Her Figure"
+msgstr "Sobre su figura"
+
+msgid "You're stylish"
+msgstr "Tienes mucho estilo"
+
+msgid "Are you on a diet?"
+msgstr "¿Estás a dieta?"
+
+msgid "Girls are all so obsessed with their looks"
+msgstr "Las chicas se obsesionan con su físico"
+
+msgid "About Clothes"
+msgstr "Sobre su ropa"
+
+msgid "You've got great taste in clothes"
+msgstr "Tienes muy buen gusto para vestir"
+
+msgid "Could you pick out some clothes for me?"
+msgstr "¿Podrías elegir ropa para mí?"
+
+msgid "What's trendy this year?"
+msgstr "¿Qué está de moda este año?"
+
+msgid "--Let's Make Ami-chan Happy!--"
+msgstr "--¡Hagamos feliz a Ami-chan!--"
+
+msgid "Ami「You have such manly eyes, Ryuuji①」"
+msgstr "Ami「Tienes una mirada tan varonil, Ryuuji①」"
+
+msgid "Ryuuji「Do I?」"
+msgstr "Ryuuji「¿En serio?」"
+
+msgid "Ami「Yup, they kinda give me goosebumps.」"
+msgstr "Ami「Sip, como que me dan escalofríos.」"
+
+msgid "Ami「What's thiiis? Are you going to, like,＿confess your love?」"
+msgstr "Ami「¿Y estooo? ¿Acaso me vas a,＿o sea, confesar tu amor?」"
+
+msgid "Ryuuji「Love!?」"
+msgstr "Ryuuji「¡¿Amor?!」"
+
+msgid "Ami「You're nooot～? I got the wrong idea①」"
+msgstr "Ami「¿Nooo～? Me hice una idea equivocada①」"
+
+msgid "Ami「Those looks could kill, Ryuuji①」"
+msgstr "Ami「Esas miradas podrían matar, Ryuuji①」"
+
+msgid "Ryuuji「Uh, s-sorry...... Did I scare you?」"
+msgstr "Ryuuji「Eh, p-perdón...... ¿Te asusté?」"
+
+msgid "Ami「Fufu, that's not what I meant......」"
+msgstr "Ami「Juju, no me refería a eso......」"
+
+msgid "Ami「Close your eyes for me?」"
+msgstr "Ami「¿Cierras los ojos por mí?」"
+
+msgid "Ryuuji「Oh? A-Are you......? What!?」"
+msgstr "Ryuuji「¿Oh? ¿A-Acaso tú......? ¡¿Qué?!」"
+
+msgid "Ami「Fufu, you like, stuttered①」"
+msgstr "Ami「Juju, o sea, tartamudeaste①」"
+
+msgid "Ami「This might be, like, my first time seeing＿you make that expression, Ryuuji.」"
+msgstr "Ami「Puede que sea, o sea, la primera vez que＿te veo poner esa expresión, Ryuuji.」"
+
+msgid "Ryuuji「......Is it weird?」"
+msgstr "Ryuuji「......¿Es raro?」"
+
+msgid "Ami「Nooope. It's cool①」"
+msgstr "Ami「Para naaada. Se ve genial①」"
+
+msgid "Ami「......Ehehe. Just looking into your eyes＿like this makes me SUPER happy①」"
+msgstr "Ami「......Jejeje. Solo mirarte a los＿ojos así me hace SÚPER feliz①」"
+
+msgid "Ryuuji「......H-How should I respond to that?」"
+msgstr "Ryuuji「......¿C-Cómo debería responder a eso?」"
+
+msgid "Ami「You could say \"I'm happy too.\"」"
+msgstr "Ami「Podrías decir \"yo también estoy feliz\".」"
+
+msgid "Ami「What's wrong? I want to, like, talk＿about something.」"
+msgstr "Ami「¿Qué pasa? Quiero, o sea,＿hablar de algo.」"
+
+msgid "Ryuuji「Oh, okay then......」"
+msgstr "Ryuuji「Ah, está bien entonces......」"
+
+msgid "Ami「Whaaat～? Someone like me couldn't＿be, like, a celebrity～」"
+msgstr "Ami「¿Quééé～? Alguien como yo no podría＿ser, o sea, una celebridad～」"
+
+msgid "Ryuuji「You ARE quite famous, you know?」"
+msgstr "Ryuuji「Sí que ERES bastante famosa, ¿sabes?」"
+
+msgid "Ami「No I'm nooot①」"
+msgstr "Ami「Claro que nooo①」"
+
+msgid "Ami「That's because I'm with you, Ryuuji①」"
+msgstr "Ami「Eso es porque estoy contigo, Ryuuji①」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Ami「When I'm with you, I can really be＿myself①」"
+msgstr "Ami「Cuando estoy contigo, de verdad＿puedo ser yo misma①」"
+
+msgid "Ryuuji「O-Oh, I see......」"
+msgstr "Ryuuji「A-Ah, ya veo......」"
+
+msgid "Ami「\"Ami-chan,\" remember? Like, try again.」"
+msgstr "Ami「\"Ami-chan\", ¿sí? O sea, otra vez.」"
+
+msgid "Ryuuji「Uh...... Ami-chan.」"
+msgstr "Ryuuji「Eh...... Ami-chan.」"
+
+msgid "Ami「Oh my①」"
+msgstr "Ami「Ay, vaya①」"
+
+msgid "Ami「Only my name is cute～?」"
+msgstr "Ami「¿Solo mi nombre es lindo～?」"
+
+msgid "Ryuuji「N-No, that's not what I said.」"
+msgstr "Ryuuji「N-No, no dije eso.」"
+
+msgid "Ami「Fufu①」"
+msgstr "Ami「Juju①」"
+
+msgid "Ami「Thanks～ Hearing you say that makes＿me SUPER happy, Ryuuji.」"
+msgstr "Ami「Gracias～ Oírte decir eso me＿hace SÚPER feliz, Ryuuji.」"
+
+msgid "Ryuuji「O-Oh. I'm happy that you're happy.」"
+msgstr "Ryuuji「A-Ah. Me alegra que estés feliz.」"
+
+msgid "Ami「Ufufu.」"
+msgstr "Ami「Jujuju.」"
+
+msgid "Ami「That's not true, like, at all～ I'm, like,＿not popular at all～」"
+msgstr "Ami「Eso no es cierto, o sea, para nada～＿Yo, o sea, no soy nada popular～」"
+
+msgid "Ryuuji「Like hell you aren't.」"
+msgstr "Ryuuji「¡Cómo que no lo eres!」"
+
+msgid "Ami「Oh stop～ Silly Ryuuji, you're＿overestimating meee①」"
+msgstr "Ami「Ay, para～ Tonto Ryuuji, me＿estás sobrestimandooo①」"
+
+msgid "Ami「Even if I did have fanboys, there's like,＿only enough room in Ami-chan's heart＿for one.」"
+msgstr "Ami「Aunque tuviera admiradores, o＿sea, en el corazón de Ami-chan＿solo hay lugar para uno.」"
+
+msgid "Ryuuji「I, I see......」"
+msgstr "Ryuuji「Y-Ya veo......」"
+
+msgid "Ami「Ami-chan is a fashion model, so my＿fans are mostly girls. You don't have to＿worry①」"
+msgstr "Ami「Ami-chan es modelo de modas, así que＿mis fans son casi todas chicas. No＿tienes de qué preocuparte①」"
+
+msgid "Ryuuji「Worry? About what?」"
+msgstr "Ryuuji「¿Preocuparme? ¿De qué?」"
+
+msgid "Ami「You know what I meannn～」"
+msgstr "Ami「Ya sabes a qué me refierooo～」"
+
+msgid "Ami「You're my only real fan, Ryuuji①」"
+msgstr "Ami「Eres mi único fan de verdad, Ryuuji①」"
+
+msgid "Ryuuji「No, I'm not a \"fan\"......」"
+msgstr "Ryuuji「No, no soy un \"fan\"......」"
+
+msgid "Ami「If you're not a fan, then what?」"
+msgstr "Ami「Si no eres un fan, ¿entonces qué?」"
+
+msgid "Ryuuji「......I, I wonder. Haha.」"
+msgstr "Ryuuji「......M-Me lo pregunto. Jaja.」"
+
+msgid "Ami「I'm, like, SUPER embarrassed①」"
+msgstr "Ami「Estoy, o sea, SÚPER avergonzada①」"
+
+msgid "Ryuuji「More like SUPER happy to me.」"
+msgstr "Ryuuji「A mí me pareces más bien SÚPER feliz.」"
+
+msgid "Ami「Then I'm, like, happily embarrassed♪」"
+msgstr "Ami「O sea, feliz de estar avergonzada♪」"
+
+msgid "Ami「You won't know unless you tryyy. What＿if you were, like, scouted?」"
+msgstr "Ami「No lo sabrás si no lo intentaaas.＿¿Y si, o sea, te descubrieran?」"
+
+msgid "Ryuuji「W-What......?」"
+msgstr "Ryuuji「¿Q-Qué......?」"
+
+msgid "Ami「Ufu①」"
+msgstr "Ami「Juju①」"
+
+msgid "Ami「It's, like, a SUPER strange feeling to＿see myself on magazines in stores.」"
+msgstr "Ami「Es, o sea, una sensación SÚPER rara＿verme en las revistas de las tiendas.」"
+
+msgid "Ryuuji「Strange, huh...... Guess that's＿something I wouldn't know anything＿about.」"
+msgstr "Ryuuji「Rara, ¿eh?...... Supongo que eso es＿algo de lo que no sabría nada.」"
+
+msgid "Ami「Oh myyy, are you, like, worried about＿me? Thanks though～ I'm SUPER＿happy①」"
+msgstr "Ami「Ay, vayaaa, ¿o sea que te preocupas por＿mí? Gracias～ Estoy SÚPER feliz①」"
+
+msgid "Ryuuji「W-Well, don't wear yourself out.」"
+msgstr "Ryuuji「B-Bueno, no te agotes demasiado.」"
+
+msgid "Ami「Okaaay①」"
+msgstr "Ami「Está bieeen①」"
+
+msgid "Ami「Nooope, it's really not. I looove both＿school AND work.」"
+msgstr "Ami「Para naaada, de verdad. Me encaaantan＿la escuela Y el trabajo.」"
+
+msgid "Ryuuji「Don't overdo it.」"
+msgstr "Ryuuji「No te excedas.」"
+
+msgid "Ami「Fufu. Thanks, Ryuuji①」"
+msgstr "Ami「Juju. Gracias, Ryuuji①」"
+
+msgid "Ami「Whaaat～? Your flattery makes me＿SUPER happy①」"
+msgstr "Ami「¿Quééé～? Tus halagos me＿hacen SÚPER feliz①」"
+
+msgid "Ryuuji「It's not just flattery.」"
+msgstr "Ryuuji「No es solo un halago.」"
+
+msgid "Ami「I know, right～ You're not that kind of＿person. So I'm extra happy～①」"
+msgstr "Ami「Sí, ¿verdad～? Tú no eres de esos.＿Por eso estoy más feliz～①」"
+
+msgid "Ami「Ryuuji, do you like...... my face?」"
+msgstr "Ami「Ryuuji, ¿te gusta...... mi cara?」"
+
+msgid "Ryuuji「Oh!? Uh, err, well, that's...... I think it's＿pretty.」"
+msgstr "Ryuuji「¡¿Ah?! Eh, ehm, bueno, pues......＿Creo que es bonita.」"
+
+msgid "Ami「You like it?」"
+msgstr "Ami「¿Te gusta?」"
+
+msgid "Ryuuji「Uh...... Yeah......」"
+msgstr "Ryuuji「Eh...... Sí......」"
+
+msgid "Ami「Fufu.」"
+msgstr "Ami「Juju.」"
+
+msgid "Ami「Whaaat～? I don't do anything, like,＿special.」"
+msgstr "Ami「¿Quééé～? No hago, o sea, nada especial.」"
+
+msgid "Ryuuji「Really?」"
+msgstr "Ryuuji「¿En serio?」"
+
+msgid "Ami「Really really. If I did, I'd want to tell＿you①」"
+msgstr "Ami「Muy en serio. Si lo hiciera,＿te lo querría contar①」"
+
+msgid "Ami「All I have to do is apply my faaavorite＿person～①」"
+msgstr "Ami「Mi único tratamiento es mi＿personaaa favorita～①」"
+
+msgid "Ryuuji「Uh...... What?」"
+msgstr "Ryuuji「Eh...... ¿Qué?」"
+
+msgid "Ami「Ufu. Regimen in progress～①」"
+msgstr "Ami「Juju. Rutina en progreso～①」"
+
+msgid "Ami「Ryuuji, are you interested in＿cosmetics?」"
+msgstr "Ami「Ryuuji, ¿te interesan los cosméticos?」"
+
+msgid "Ryuuji「Me? No no, I was just a little curious.」"
+msgstr "Ryuuji「¿Yo? No, no, era solo curiosidad.」"
+
+msgid "Ami「Ah, I see～」"
+msgstr "Ami「Ah, ya veo～」"
+
+msgid "Ami「Wanna see?」"
+msgstr "Ami「¿Quieres ver?」"
+
+msgid "Ryuuji「I'm kinda interested.」"
+msgstr "Ryuuji「Como que me da curiosidad.」"
+
+msgid "Ami「Next time, then①」"
+msgstr "Ami「La próxima vez, entonces①」"
+
+msgid "Ami「For work, yeah, but I don't normally.＿Maybe I should?」"
+msgstr "Ami「Para el trabajo sí, pero normalmente＿no. ¿Debería hacerlo?」"
+
+msgid "Ryuuji「No, you're fine as is, you know?」"
+msgstr "Ryuuji「No, así estás bien, ¿sabes?」"
+
+msgid "Ami「Fufu, thanks①」"
+msgstr "Ami「Juju, gracias①」"
+
+msgid "Ami「Yaaay! A compliment from Ryuuji①」"
+msgstr "Ami「¡Yujuuu! Un cumplido de Ryuuji①」"
+
+msgid "Ryuuji「Oh, how straightforward of you.」"
+msgstr "Ryuuji「Oh, qué directa eres.」"
+
+msgid "Ami「Well, I know it's not just, like, flattery＿coming from you. Ufu.」"
+msgstr "Ami「Bueno, sé que viniendo de ti no es＿solo, o sea, un halago. Juju.」"
+
+msgid "Ami「Silly Ryuuji, you're like, so naughty.＿What are you, like, staring at?」"
+msgstr "Ami「Tonto Ryuuji, o sea, qué atrevido eres.＿¿Qué estás, o sea, mirando?」"
+
+msgid "Ryuuji「I, I'm not! Not really......!」"
+msgstr "Ryuuji「¡Y-Yo no! ¡En realidad no......!」"
+
+msgid "Ami「Ufu ① No need to freak out～」"
+msgstr "Ami「Juju ① No hace falta alterarse～」"
+
+msgid "Ami「You think so? I'm not really, like,＿conscious of it～」"
+msgstr "Ami「¿Tú crees? La verdad es que,＿o sea, no me doy cuenta～」"
+
+msgid "Ryuuji「I think your style screams \"model\".」"
+msgstr "Ryuuji「Creo que tu estilo grita \"modelo\".」"
+
+msgid "Ami「Thanks. Hearing you say that makes＿me a little more confident, Ryuuji.」"
+msgstr "Ami「Gracias. Oírte decir eso me da un＿poco más de confianza, Ryuuji.」"
+
+msgid "Ami「I, I don't think you should, like, have＿this conversation with a girl...... I'm＿sorry, okay?」"
+msgstr "Ami「Y-Yo creo que no deberías, o sea,＿tener esta conversación con una＿chica...... Lo siento, ¿sí?」"
+
+msgid "Ryuuji「Y-You're right. Sorry......」"
+msgstr "Ryuuji「T-Tienes razón. Perdón......」"
+
+msgid "Ami「That's because I want my faaavorite＿person to see all of me①」"
+msgstr "Ami「Es porque quiero que mi personaaa＿favorita me vea por completo①」"
+
+msgid "Ryuuji「I-Is that right?」"
+msgstr "Ryuuji「¿E-En serio?」"
+
+msgid "Ami「Yup, so be sure to look①」"
+msgstr "Ami「Sip, así que asegúrate de mirar①」"
+
+msgid "Ami「I don't want you to think I'm, like, fat,＿Ryuuji.」"
+msgstr "Ami「No quiero que pienses que estoy,＿o sea, gorda, Ryuuji.」"
+
+msgid "Ryuuji「You're not fat at all.」"
+msgstr "Ryuuji「No estás gorda para nada.」"
+
+msgid "Ami「Really? Like, that's good.」"
+msgstr "Ami「¿De verdad? O sea, qué bien.」"
+
+msgid "Ami「I got a compliment from Ryuuji～ Oh＿my～ I'm, like, SO happy～①」"
+msgstr "Ami「Recibí un cumplido de Ryuuji～ Ay,＿vaya～ Estoy, o sea, TAN feliz～①」"
+
+msgid "Ryuuji「Are you really that happy about it?」"
+msgstr "Ryuuji「¿De verdad te hace tan feliz?」"
+
+msgid "Ami「The whole reason I'm stylish is to hear＿you say I'm cute, Ryuuji.」"
+msgstr "Ami「Cuido mi estilo solo para oírte＿decir que soy linda, Ryuuji.」"
+
+msgid "Ryuuji「I, I see......」"
+msgstr "Ryuuji「Y-Ya veo......」"
+
+msgid "Ami「Ufu① Do you like this?」"
+msgstr "Ami「Juju① ¿Te gusta esto?」"
+
+msgid "Ryuuji「Oh, yeah.」"
+msgstr "Ryuuji「Ah, sí.」"
+
+msgid "Ami「Do you like Ami-chan?」"
+msgstr "Ami「¿Te gusta Ami-chan?」"
+
+msgid "Ryuuji「Oh...... Oh!?」"
+msgstr "Ryuuji「Ah...... ¡¿Ah?!」"
+
+msgid "Ami「Fufu.」"
+msgstr "Ami「Juju.」"
+
+msgid "Ami「I'm a model, so I have to hone my＿fashion sense.」"
+msgstr "Ami「Soy modelo, así que tengo que＿pulir mi sentido de la moda.」"
+
+msgid "Ryuuji「You're eager to learn, huh.」"
+msgstr "Ryuuji「Tienes ganas de aprender, ¿eh?」"
+
+msgid "Ami「Like, okay～! We could go, like, right＿now if you wanted～ But you might end＿up with my taste in clothes～」"
+msgstr "Ami「¡O sea, claro～! Podríamos ir, o sea,＿ahora mismo si quisieras～ Pero podrías＿terminar con mi gusto para vestir～」"
+
+msgid "Ryuuji「In that case, I'd feel kinda awkward......」"
+msgstr "Ryuuji「Entonces me sentiría incómodo......」"
+
+msgid "Ami「Ufu①」"
+msgstr "Ami「Juju①」"
+
+msgid "Ami「Let's see...... Is it okay if we get＿everything from a single brand～?」"
+msgstr "Ami「Veamos...... ¿Está bien si compramos＿todo de una sola marca～?」"
+
+msgid "Ryuuji「Thought you'd say that...... As long as＿it's a brand a high-schooler can afford.」"
+msgstr "Ryuuji「Sabía que dirías eso...... Que sea una＿marca al alcance de un estudiante.」"
+
+msgid "Ami「I'm, like, just kidding. I'll pick you out＿something cool AND affordable～＿Ufufu.」"
+msgstr "Ami「O sea, es broma. Te voy a elegir algo＿genial Y accesible～ Jujuju.」"
+
+msgid "Ami「Ryuuji is like, all the rage in my heart＿right now.」"
+msgstr "Ami「Ryuuji es, o sea, la gran tendencia＿en mi corazón ahora mismo.」"
+
+msgid "Ryuuji「That's not what I meant......」"
+msgstr "Ryuuji「No me refería a eso......」"
+
+msgid "Ami「Make Ami-chan your next fad, okay?」"
+msgstr "Ami「Que Ami-chan sea tu próxima moda, ¿sí?」"
+
+msgid "Ryuuji「......A-Alright.」"
+msgstr "Ryuuji「......E-Está bien.」"
+
+msgid "Ami「Hmmm...... Not sure. But the clothes I＿wore in last month's issue seem to＿have, like, caught on.」"
+msgstr "Ami「Mmm...... No estoy segura. Pero la ropa＿que usé en el número del mes pasado＿parece que, o sea, se volvió popular.」"
+
+msgid "Ryuuji「Wow. So you're a trendsetter?」"
+msgstr "Ryuuji「Guau. ¿Así que marcas tendencia?」"
+
+msgid "Ami「Oh my, I didn't mean it like that. I'm＿sure it's just, like, a coincidence.」"
+msgstr "Ami「Ay, no lo dije con esa intención. Seguro＿es solo, o sea, coincidencia.」"
+
+msgid "ANG_A1_LV1:"
+msgstr "ANG_A1_LV1:"
+
+msgid "ANG_A1_LV2:"
+msgstr "ANG_A1_LV2:"
+
+msgid "SAD_A1_LV1:"
+msgstr "SAD_A1_LV1:"
+
+msgid "SAD_A1_LV2:"
+msgstr "SAD_A1_LV2:"
+
+msgid "FUN_A1_LV1:"
+msgstr "FUN_A1_LV1:"
+
+msgid "FUN_A1_LV2:"
+msgstr "FUN_A1_LV2:"
+
+msgid "ANG_A2_LV1:"
+msgstr "ANG_A2_LV1:"
+
+msgid "ANG_A2_LV2:"
+msgstr "ANG_A2_LV2:"
+
+msgid "SAD_A2_LV1:"
+msgstr "SAD_A2_LV1:"
+
+msgid "SAD_A2_LV2:"
+msgstr "SAD_A2_LV2:"
+
+msgid "FUN_A2_LV2:"
+msgstr "FUN_A2_LV2:"
+
+msgid "HAP_A3_LV1:"
+msgstr "HAP_A3_LV1:"
+
+msgid "ANG_A3_LV1:"
+msgstr "ANG_A3_LV1:"
+
+msgid "ANG_A3_LV2:"
+msgstr "ANG_A3_LV2:"
+
+msgid "SAD_A3_LV1:"
+msgstr "SAD_A3_LV1:"
+
+msgid "SAD_A3_LV2:"
+msgstr "SAD_A3_LV2:"
+
+msgid "FUN_A3_LV2:"
+msgstr "FUN_A3_LV2:"
+
+msgid "ANG_B1_LV1:"
+msgstr "ANG_B1_LV1:"
+
+msgid "ANG_B1_LV2:"
+msgstr "ANG_B1_LV2:"
+
+msgid "SAD_B1_LV1:"
+msgstr "SAD_B1_LV1:"
+
+msgid "SAD_B1_LV2:"
+msgstr "SAD_B1_LV2:"
+
+msgid "FUN_B1_LV1:"
+msgstr "FUN_B1_LV1:"
+
+msgid "FUN_B1_LV2:"
+msgstr "FUN_B1_LV2:"
+
+msgid "ANG_B2_LV1:"
+msgstr "ANG_B2_LV1:"
+
+msgid "ANG_B2_LV2:"
+msgstr "ANG_B2_LV2:"
+
+msgid "SAD_B2_LV1:"
+msgstr "SAD_B2_LV1:"
+
+msgid "SAD_B2_LV2:"
+msgstr "SAD_B2_LV2:"
+
+msgid "FUN_B2_LV2:"
+msgstr "FUN_B2_LV2:"
+
+msgid "HAP_B3_LV1:"
+msgstr "HAP_B3_LV1:"
+
+msgid "ANG_B3_LV1:"
+msgstr "ANG_B3_LV1:"
+
+msgid "ANG_B3_LV2:"
+msgstr "ANG_B3_LV2:"
+
+msgid "SAD_B3_LV1:"
+msgstr "SAD_B3_LV1:"
+
+msgid "SAD_B3_LV2:"
+msgstr "SAD_B3_LV2:"
+
+msgid "FUN_B3_LV2:"
+msgstr "FUN_B3_LV2:"
+
+msgid "ANG_C1_LV1:"
+msgstr "ANG_C1_LV1:"
+
+msgid "ANG_C1_LV2:"
+msgstr "ANG_C1_LV2:"
+
+msgid "SAD_C1_LV1:"
+msgstr "SAD_C1_LV1:"
+
+msgid "SAD_C1_LV2:"
+msgstr "SAD_C1_LV2:"
+
+msgid "FUN_C1_LV1:"
+msgstr "FUN_C1_LV1:"
+
+msgid "FUN_C1_LV2:"
+msgstr "FUN_C1_LV2:"
+
+msgid "ANG_C2_LV1:"
+msgstr "ANG_C2_LV1:"
+
+msgid "ANG_C2_LV2:"
+msgstr "ANG_C2_LV2:"
+
+msgid "SAD_C2_LV1:"
+msgstr "SAD_C2_LV1:"
+
+msgid "SAD_C2_LV2:"
+msgstr "SAD_C2_LV2:"
+
+msgid "FUN_C2_LV2:"
+msgstr "FUN_C2_LV2:"
+
+msgid "HAP_C3_LV1:"
+msgstr "HAP_C3_LV1:"
+
+msgid "ANG_C3_LV1:"
+msgstr "ANG_C3_LV1:"
+
+msgid "ANG_C3_LV2:"
+msgstr "ANG_C3_LV2:"
+
+msgid "SAD_C3_LV1:"
+msgstr "SAD_C3_LV1:"
+
+msgid "SAD_C3_LV2:"
+msgstr "SAD_C3_LV2:"
+
+msgid "FUN_C3_LV2:"
+msgstr "FUN_C3_LV2:"
+
+msgid "ANG_D1_LV1:"
+msgstr "ANG_D1_LV1:"
+
+msgid "ANG_D1_LV2:"
+msgstr "ANG_D1_LV2:"
+
+msgid "SAD_D1_LV1:"
+msgstr "SAD_D1_LV1:"
+
+msgid "SAD_D1_LV2:"
+msgstr "SAD_D1_LV2:"
+
+msgid "FUN_D1_LV1:"
+msgstr "FUN_D1_LV1:"
+
+msgid "FUN_D1_LV2:"
+msgstr "FUN_D1_LV2:"
+
+msgid "ANG_D2_LV1:"
+msgstr "ANG_D2_LV1:"
+
+msgid "ANG_D2_LV2:"
+msgstr "ANG_D2_LV2:"
+
+msgid "SAD_D2_LV1:"
+msgstr "SAD_D2_LV1:"
+
+msgid "SAD_D2_LV2:"
+msgstr "SAD_D2_LV2:"
+
+msgid "FUN_D2_LV2:"
+msgstr "FUN_D2_LV2:"
+
+msgid "HAP_D3_LV1:"
+msgstr "HAP_D3_LV1:"
+
+msgid "ANG_D3_LV1:"
+msgstr "ANG_D3_LV1:"
+
+msgid "ANG_D3_LV2:"
+msgstr "ANG_D3_LV2:"
+
+msgid "SAD_D3_LV1:"
+msgstr "SAD_D3_LV1:"
+
+msgid "SAD_D3_LV2:"
+msgstr "SAD_D3_LV2:"
+
+msgid "FUN_D3_LV2:"
+msgstr "FUN_D3_LV2:"
+
+msgid "ANG_E1_LV1:"
+msgstr "ANG_E1_LV1:"
+
+msgid "ANG_E1_LV2:"
+msgstr "ANG_E1_LV2:"
+
+msgid "SAD_E1_LV1:"
+msgstr "SAD_E1_LV1:"
+
+msgid "SAD_E1_LV2:"
+msgstr "SAD_E1_LV2:"
+
+msgid "FUN_E1_LV2:"
+msgstr "FUN_E1_LV2:"
+
+msgid "HAP_E2_LV1:"
+msgstr "HAP_E2_LV1:"
+
+msgid "HAP_E2_LV2:"
+msgstr "HAP_E2_LV2:"
+
+msgid "ANG_E2_LV1:"
+msgstr "ANG_E2_LV1:"
+
+msgid "ANG_E2_LV2:"
+msgstr "ANG_E2_LV2:"
+
+msgid "SAD_E2_LV2:"
+msgstr "SAD_E2_LV2:"
+
+msgid "FUN_E2_LV1:"
+msgstr "FUN_E2_LV1:"
+
+msgid "FUN_E2_LV2:"
+msgstr "FUN_E2_LV2:"
+
+msgid "HAP_E3_LV1:"
+msgstr "HAP_E3_LV1:"
+
+msgid "ANG_E3_LV1:"
+msgstr "ANG_E3_LV1:"
+
+msgid "ANG_E3_LV2:"
+msgstr "ANG_E3_LV2:"
+
+msgid "SAD_E3_LV1:"
+msgstr "SAD_E3_LV1:"
+
+msgid "SAD_E3_LV2:"
+msgstr "SAD_E3_LV2:"
+
+msgid "FUN_E3_LV2:"
+msgstr "FUN_E3_LV2:"
+
+msgid "ANG_F1_LV1:"
+msgstr "ANG_F1_LV1:"
+
+msgid "ANG_F1_LV2:"
+msgstr "ANG_F1_LV2:"
+
+msgid "SAD_F1_LV1:"
+msgstr "SAD_F1_LV1:"
+
+msgid "SAD_F1_LV2:"
+msgstr "SAD_F1_LV2:"
+
+msgid "FUN_F1_LV2:"
+msgstr "FUN_F1_LV2:"
+
+msgid "ANG_F2_LV1:"
+msgstr "ANG_F2_LV1:"
+
+msgid "ANG_F2_LV2:"
+msgstr "ANG_F2_LV2:"
+
+msgid "SAD_F2_LV1:"
+msgstr "SAD_F2_LV1:"
+
+msgid "SAD_F2_LV2:"
+msgstr "SAD_F2_LV2:"
+
+msgid "FUN_F2_LV1:"
+msgstr "FUN_F2_LV1:"
+
+msgid "FUN_F2_LV2:"
+msgstr "FUN_F2_LV2:"
+
+msgid "HAP_F3_LV1:"
+msgstr "HAP_F3_LV1:"
+
+msgid "ANG_F3_LV1:"
+msgstr "ANG_F3_LV1:"
+
+msgid "ANG_F3_LV2:"
+msgstr "ANG_F3_LV2:"
+
+msgid "SAD_F3_LV1:"
+msgstr "SAD_F3_LV1:"
+
+msgid "SAD_F3_LV2:"
+msgstr "SAD_F3_LV2:"
+
+msgid "FUN_F3_LV2:"
+msgstr "FUN_F3_LV2:"

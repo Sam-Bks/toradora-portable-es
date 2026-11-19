@@ -1,0 +1,263 @@
+msgid ""
+msgstr ""
+
+msgid "Ami「Hmm, she really isn't coming outside～」"
+msgstr "Ami「Mmm, de verdad no sale～」"
+
+msgid "Ryuuji「Well yeah, I guess she really doesn't＿want people to find out she's back＿from America.」"
+msgstr "Ryuuji「Pues sí, supongo que no quiere＿que la gente se entere de que＿volvió de Estados Unidos.」"
+
+msgid "Taiga「In that case, we'll have to get into her＿house.」"
+msgstr "Taiga「En ese caso, tendremos＿que entrar a su casa.」"
+
+msgid "Ryuuji「Wait! Everything will get complicated if＿you do that.」"
+msgstr "Ryuuji「¡Espera! Todo se complicará＿si haces eso.」"
+
+msgid "Ami「Takasu-kun, did you memorize the＿script I wrote you?」"
+msgstr "Ami「Takasu-kun, ¿memorizaste el＿guion que te escribí?」"
+
+msgid "Ryuuji「Oh, for the most part, yeah.」"
+msgstr "Ryuuji「Ah, en su mayor parte, sí.」"
+
+msgid "Ami「Counting on you. You're the only one＿who can have a decent conversation＿with that wicked, bossy tomboy.」"
+msgstr "Ami「Cuento contigo. Eres el único capaz＿de tener una charla decente con esa＿marimacho malvada y mandona.」"
+
+msgid "Ami「Go and coax out that villain. If it really＿gets out of hand, use your last resort①」"
+msgstr "Ami「Ve y haz salir a esa villana.＿Si la cosa se sale de control,＿usa tu último recurso①」"
+
+msgid "Ryuuji「My last resort?」"
+msgstr "Ryuuji「¿Mi último recurso?」"
+
+msgid "Ami「Seduce her with your testosterone at＿full-throttle! Unbutton your shirt and＿flash her your belly button if you like!」"
+msgstr "Ami「¡Sedúcela con tu testosterona a toda＿marcha! ¡Desabróchate la camisa y＿enséñale el ombligo si quieres!」"
+
+msgid "Ryuuji「Stop it. I'm not like Kitamura in the＿least! Sheesh. Don't put pressure on＿me. It'll just make me extra nervous.」"
+msgstr "Ryuuji「Para. ¡No me parezco a Kitamura en lo＿más mínimo! Caray, no me presiones, que＿solo me pondrás más nervioso.」"
+
+msgid "Ami「It feels like this really is the home＿stretch. I'm so excited～ ① Aren't you,＿Tiger?」"
+msgstr "Ami「Se siente como si ya fuera＿la recta final. ¡Qué emoción～!＿① ¿No crees, Tigre?」"
+
+msgid "Taiga「............」"
+msgstr "Taiga「............」"
+
+msgid "Ami「What? You sure clammed up. It's too＿late to say \"I don't want her and＿Yuusaku together after all\"......」"
+msgstr "Ami「¿Qué? Qué callada te quedaste. Ya es＿tarde para decir: \"Después de todo no＿quiero que esté con Yuusaku\"......」"
+
+msgid "Taiga「Ryuuji!!」"
+msgstr "Taiga「¡¡Ryuuji!!」"
+
+msgid "Ryuuji「Oh!?」"
+msgstr "Ryuuji「¡¿Ah?!」"
+
+msgid "Taiga「The true battle begins now. Keep calm＿and carry on.」"
+msgstr "Taiga「La verdadera batalla empieza ahora.＿Mantén la calma y sigue adelante.」"
+
+msgid "Ryuuji「Oh, okay.」"
+msgstr "Ryuuji「Ah, está bien.」"
+
+msgid "Ryuuji「（Taiga...... is acting kinda weird......）」"
+msgstr "Ryuuji「（Taiga...... actúa algo rara......）」"
+
+msgid "Sumire「Sorry you had to come all this way.＿There's no need to apologize for＿yesterday.」"
+msgstr "Sumire「Perdón por hacerte venir hasta＿aquí. No hace falta que te disculpes＿por lo de ayer.」"
+
+msgid "Ryuuji「Taiga did cause trouble by lashing out＿at you...... And there's something I want＿to bring to your attention.」"
+msgstr "Ryuuji「Taiga sí causó problemas al lanzarse＿contra ti...... Y hay algo sobre＿lo que quiero advertirte.」"
+
+msgid "Sumire「Fufu.」"
+msgstr "Sumire「Juju.」"
+
+msgid "Ryuuji「W-What?」"
+msgstr "Ryuuji「¿Q-Qué?」"
+
+msgid "Ryuuji「Uh......」"
+msgstr "Ryuuji「Eh......」"
+
+msgid "Sumire「I'm kidding. Sorry for interrupting you.＿Please continue.」"
+msgstr "Sumire「Es broma. Perdón por interrumpirte.＿Por favor, continúa.」"
+
+msgid "Ryuuji「......It's about your little sister.」"
+msgstr "Ryuuji「......Es sobre tu hermana menor.」"
+
+msgid "Sumire「About Sakura?」"
+msgstr "Sumire「¿Sobre Sakura?」"
+
+msgid "Ryuuji「Apparently she's going to Luxure with＿Tomiie Kota tomorrow, or so I hear.」"
+msgstr "Ryuuji「Al parecer mañana irá a Luxure con＿Tomiie Kota, o eso escuché.」"
+
+msgid "Sumire「Luxure, huh? That's fine for high＿school students, isn't it? What's the＿issue?」"
+msgstr "Sumire「Luxure, ¿eh? Está bien para unos＿estudiantes de preparatoria, ¿no?＿¿Cuál es el problema?」"
+
+msgid "Ryuuji「Specifically, it's the planetarium. I don't＿think you know about it since you've＿been in America, but it's dangerous.」"
+msgstr "Ryuuji「En concreto, es el planetario. No creo＿que lo conozcas por haber estado en＿Estados Unidos, pero es peligroso.」"
+
+msgid "Sumire「......Dangerous?」"
+msgstr "Sumire「......¿Peligroso?」"
+
+msgid "Ryuuji「（Alright, she's taking the bait. All＿according to Kawashima's script.）」"
+msgstr "Ryuuji「（Bien, mordió el anzuelo. Todo＿según el guion de Kawashima.）」"
+
+msgid "Sumire「............」"
+msgstr "Sumire「............」"
+
+msgid "Ryuuji「Two people pressed together in a＿loveseat, with the mood music playing,＿and the soothing aroma......」"
+msgstr "Ryuuji「Dos personas muy juntas en un sofá＿doble, con música ambiental sonando＿y un aroma relajante......」"
+
+msgid "Sumire「......What are you getting at?」"
+msgstr "Sumire「......¿A dónde quieres llegar?」"
+
+msgid "Ryuuji「（......Blatant lies.）」"
+msgstr "Ryuuji「（......Mentiras descaradas.）」"
+
+msgid "Ryuuji「And Tomiie invited your little sister＿there...... Do you see what that means?」"
+msgstr "Ryuuji「Y Tomiie invitó ahí a tu hermana＿menor...... ¿Entiendes lo que significa?」"
+
+msgid "Ryuuji「Sakura-san is only a freshman, so I＿thought it might be best to let you＿know just in case, senpai......」"
+msgstr "Ryuuji「Sakura-san solo es de primer año,＿así que pensé que sería mejor avisarte＿por si acaso, senpai......」"
+
+msgid "Sumire「What's the big deal?」"
+msgstr "Sumire「¿Y qué tiene de malo?」"
+
+msgid "Ryuuji「......What!?」"
+msgstr "Ryuuji「......¡¿Qué?!」"
+
+msgid "Sumire「I shot myself in the foot last time I＿worried myself over something like＿that. I learned my lesson.」"
+msgstr "Sumire「La última vez que me preocupé por＿algo así, me salió el tiro por la＿culata. Aprendí la lección.」"
+
+msgid "Sumire「Besides, Sakura isn't a child anymore.＿If I didn't trust my sister to make her＿own decisions, I could never have left.」"
+msgstr "Sumire「Además, Sakura ya no es una niña. Si＿no confiara en que toma sus propias＿decisiones, nunca me habría ido.」"
+
+msgid "Sumire「I appreciate your suspicion, but that's＿how I feel about it.」"
+msgstr "Sumire「Aprecio tus reservas, pero＿así es como lo veo.」"
+
+msgid "Ryuuji「（T-This is bad...... Extremely bad! There's＿nothing about THIS in the script!）」"
+msgstr "Ryuuji「（E-Esto es malo...... ¡Muy malo! ¡No＿hay nada sobre ESTO en el guion!）」"
+
+msgid "Sumire「By the way, Takasu, how's your health?」"
+msgstr "Sumire「Por cierto, Takasu, ¿cómo va tu salud?」"
+
+msgid "Ryuuji「Huh? Uh, my memory still hasn't＿returned, but physically I'm just fine......」"
+msgstr "Ryuuji「¿Eh? Bueno, mi memoria aún no vuelve,＿pero físicamente estoy muy bien......」"
+
+msgid "Ryuuji「Best of friends? How so?」"
+msgstr "Ryuuji「¿Mejores amigos? ¿En qué sentido?」"
+
+msgid "Ryuuji「......I feel queasy just thinking about＿that.」"
+msgstr "Ryuuji「......Me dan náuseas solo＿de pensar en eso.」"
+
+msgid "Sumire「Now then. Are we done here?」"
+msgstr "Sumire「Bien. ¿Ya terminamos aquí?」"
+
+msgid "Ryuuji「Ngh...... Uggh......」"
+msgstr "Ryuuji「Ngh...... Uggh......」"
+
+msgid "Sumire「What are you doing there with your＿shirt buttons?」"
+msgstr "Sumire「¿Qué haces ahí con los＿botones de tu camisa?」"
+
+msgid "Ryuuji「（I, I CAN'T! I mean, how could I possibly＿seduce Kanou-senpai?!）」"
+msgstr "Ryuuji「（¡N-NO PUEDO! O sea, ¡¿cómo diablos＿podría seducir a Kanou-senpai?!）」"
+
+msgid "Sumire「You've been looking a little under the＿weather for a while now. Do you have＿food poisoning?」"
+msgstr "Sumire「Llevas un rato con algo de mala＿cara. ¿Acaso te dio una intoxicación＿alimentaria?」"
+
+msgid "Ryuuji「P-Please, Kanou-senpai, go with me to＿the planetarium tomorrow!」"
+msgstr "Ryuuji「¡P-Por favor, Kanou-senpai, ve＿conmigo al planetario mañana!」"
+
+msgid "Sumire「Why are you so fixated on it?」"
+msgstr "Sumire「¿Por qué estás tan obsesionado con eso?」"
+
+msgid "Ryuuji「Well, you see...... Oh!」"
+msgstr "Ryuuji「Bueno, verás...... ¡Ah!」"
+
+msgid "Ryuuji「I happen to have two tickets, so if I'm＿going I may as well take someone＿who's familiar with space, like you.」"
+msgstr "Ryuuji「Resulta que tengo dos entradas, así＿que si voy, mejor llevo a alguien que＿sepa del espacio, como tú.」"
+
+msgid "Ryuuji「Never mind about your sister! Please＿spend the day with me! Think of it as＿community service! Just go with it!」"
+msgstr "Ryuuji「¡Olvida a tu hermana! ¡Por favor pasa el＿día conmigo! ¡Piensa que es servicio＿comunitario! ¡Sígueme la corriente!」"
+
+msgid "Sumire「............」"
+msgstr "Sumire「............」"
+
+msgid "Sumire「What the hell are you plotting?」"
+msgstr "Sumire「¿Qué demonios estás tramando?」"
+
+msgid "Ryuuji「......!」"
+msgstr "Ryuuji「......!」"
+
+msgid "Sumire「......Alright, fine.」"
+msgstr "Sumire「......De acuerdo, está bien.」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Ryuuji「D-Date!?」"
+msgstr "Ryuuji「¡¿C-Cita?!」"
+
+msgid "Sumire「It's not? Then what is my role? Escort,＿nurse, role model, crossing guard, tour＿guide......?」"
+msgstr "Sumire「¿No lo es? ¿Cuál es mi papel entonces?＿¿Escolta, enfermera, modelo a seguir,＿guardia escolar, guía turística......?」"
+
+msgid "Ryuuji「It's a date!」"
+msgstr "Ryuuji「¡Es una cita!」"
+
+msgid "Sumire「Then I look forward to tomorrow. I'll be＿sure to treat you right.」"
+msgstr "Sumire「Entonces esperaré mañana con ganas.＿Me aseguraré de tratarte bien.」"
+
+msgid "Ryuuji「S-See you then......」"
+msgstr "Ryuuji「N-Nos vemos entonces......」"
+
+msgid "Ryuuji「（T-That went well, somehow......）」"
+msgstr "Ryuuji「（S-Salió bien, de algún modo......）」"
+
+msgid "Ryuuji「Basically, all I have to do is get Kanou＿Sumire to worry about her sister's＿innocence enough to go after her,」"
+msgstr "Ryuuji「Básicamente, solo tengo que lograr que＿Kanou Sumire tema por la inocencia de＿su hermana y vaya tras ella,」"
+
+msgid "Ryuuji「right?」"
+msgstr "Ryuuji「¿verdad?」"
+
+msgid "Sumire「Well, I was thinking that phrase＿reminds me of a malevolent whisper to＿a governor.」"
+msgstr "Sumire「Bueno, pensaba que esa frase＿me recuerda a un susurro malévolo＿a un gobernador.」"
+
+msgid "Sumire「Like something Stephen King would＿write.」"
+msgstr "Sumire「Como algo que escribiría Stephen King.」"
+
+msgid "Ryuuji「Yes. As you can imagine, the＿planetarium is dark. In addition, it's＿furnished with loveseats.」"
+msgstr "Ryuuji「Sí. Como imaginarás, el planetario＿es oscuro. Además, está equipado＿con sofás dobles.」"
+
+msgid "Ryuuji「It all sets a certain mood.」"
+msgstr "Ryuuji「Todo crea cierto ambiente.」"
+
+msgid "Ryuuji「W-What I'm getting at is, it's said that＿any couple who goes to that＿planetarium is guaranteed......」"
+msgstr "Ryuuji「A-A lo que voy es que se dice que＿toda pareja que va a ese planetario＿tiene asegurado......」"
+
+msgid "Ryuuji「......to \"go all the way\" that same night.」"
+msgstr "Ryuuji「......\"llegar hasta el final\"＿esa misma noche.」"
+
+msgid "Sumire「I see. Based on what I saw yesterday, it＿would seem you're still best of friends＿with Aisaka.」"
+msgstr "Sumire「Ya veo. Por lo que vi ayer,＿parece que tú y Aisaka siguen＿siendo mejores amigos.」"
+
+msgid "Sumire「Even without your memories.」"
+msgstr "Sumire「Incluso sin tus recuerdos.」"
+
+msgid "Sumire「You two have quite the chemistry. I'm＿sure no matter how much amnesia you＿get......」"
+msgstr "Sumire「Ustedes dos tienen mucha química.＿Seguro que sin importar cuánta＿amnesia tengas......」"
+
+msgid "Sumire「......Your relationship will stay in an＿endless loop.」"
+msgstr "Sumire「......Su relación seguirá＿en un bucle sin fin.」"
+
+msgid "Ryuuji「（No, we're not! S-Since it's come to this,＿I'll take my chances and, just as＿Kawashima said......）」"
+msgstr "Ryuuji「（¡No lo somos! Y-Ya que llegamos＿a esto, me arriesgaré y, tal como＿dijo Kawashima......）」"
+
+msgid "Ryuuji「（I'll try Operation Bare Temptation......!）」"
+msgstr "Ryuuji「（¡Intentaré la Operación Tentación＿al Desnudo......!）」"
+
+msgid "Ryuuji「I, I haven't been able to remember＿much, so I was thinking maybe......」"
+msgstr "Ryuuji「N-No he podido recordar mucho, así que＿estaba pensando que tal vez......」"
+
+msgid "Ryuuji「Maybe it's not enough to just hang＿around the same people all the time～」"
+msgstr "Ryuuji「Tal vez no baste con pasar el rato con＿las mismas personas todo el tiempo～」"
+
+msgid "Sumire「I'm the former Oohashi student council＿president, after all. I couldn't turn＿down someone in need.」"
+msgstr "Sumire「Después de todo, fui presidenta del＿consejo estudiantil de Oohashi. No＿podría rechazar a alguien en apuros.」"
+
+msgid "Sumire「Alright, I'll go on a date with you＿tomorrow.」"
+msgstr "Sumire「Está bien, tendré una＿cita contigo mañana.」"

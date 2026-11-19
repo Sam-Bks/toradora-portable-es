@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+
+msgid "Taiga「......Were you always like this?」"
+msgstr "Taiga「......¿Siempre fuiste así?」"
+
+msgid "Ryuuji「What are you talking about?」"
+msgstr "Ryuuji「¿De qué estás hablando?」"
+
+msgid "Taiga「You're like, a sweet-talker, or maybe a＿playboy.」"
+msgstr "Taiga「Eres como un adulador,＿o tal vez un galán.」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Ryuuji「I don't recall charming anyone.」"
+msgstr "Ryuuji「No recuerdo haber encantado a nadie.」"
+
+msgid "Taiga「Yeah, you're definitely a playboy!＿Playboy! Prayboy, p-playtoy! ......Killjoy!＿Filthy, ever-horny dog!」"
+msgstr "Taiga「¡Sí, sin duda eres un galán! ¡Galán!＿¡Truhán, b-bribón! ......¡Patán! ¡Perro＿sucio y calenturiento!」"
+
+msgid "Ryuuji「What are you pouting for? Don't tell＿me you like m...... Guh!」"
+msgstr "Ryuuji「¿Por qué haces pucheros? No me＿digas que te gus...... ¡Guh!」"
+
+msgid "Taiga「What did you just S-A-Y?」"
+msgstr "Taiga「¿Qué acabas de D-E-C-I-R?」"
+
+msgid "Ryuuji「It, it was just a joke......」"
+msgstr "Ryuuji「S-Solo era una broma......」"
+
+msgid "Ryuuji「I'm sorry!」"
+msgstr "Ryuuji「¡Lo siento!」"
+
+msgid "Taiga「That's probably just StuChi. Go answer＿it.」"
+msgstr "Taiga「Seguro que solo es StuChi. Ve a atender.」"
+
+msgid "Ryuuji「Jeez......」"
+msgstr "Ryuuji「Caray......」"
+
+msgid "Ryuuji「Hello?」"
+msgstr "Ryuuji「¿Hola?」"
+
+msgid "Ami「Takasu-kun, thanks for waiting～ Your＿Ami-chan is here①」"
+msgstr "Ami「Takasu-kun, gracias por esperar～＿Tu Ami-chan ya llegó①」"
+
+msgid "Ryuuji「You're not \"my Ami-chan.\" Creepy. Wait＿there, we'll be right down.」"
+msgstr "Ryuuji「No eres \"mi Ami-chan\". Das miedo.＿Espera ahí, ya bajamos.」"
+
+msgid "Taiga「Maybe I should buy a collar for you.」"
+msgstr "Taiga「Tal vez debería comprarte un collar.」"
+
+msgid "Ryuuji「......Did you say something?」"
+msgstr "Ryuuji「......¿Dijiste algo?」"
+
+msgid "Taiga「Even though you have such a＿dangerous face with looks that could＿kill, somehow you managed to charm」"
+msgstr "Taiga「Aunque tienes una cara tan peligrosa＿con mirada que mata, de algún modo＿lograste encantar a」"
+
+msgid "Taiga「Minorin and StuChi......」"
+msgstr "Taiga「Minorin y a StuChi......」"
+
+msgid "Taiga「Don't even joke about that! Apologize＿for giving me these goosebumps! Next＿time you screw around, I'm gonna tear」"
+msgstr "Taiga「¡Ni bromees con eso! ¡Discúlpate por＿ponerme la piel de gallina! La próxima＿vez que hagas el tonto, ¡te voy a rajar」"
+
+msgid "Taiga「your mouth open!!」"
+msgstr "Taiga「la boca!!」"

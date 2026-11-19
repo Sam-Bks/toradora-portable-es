@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+
+msgid "Haruta「Oho, that's Taka-chan over there!＿Happy New Year and stuff～」"
+msgstr "Haruta「¡Oho, si es Taka-chan el que está allá!＿Feliz Año Nuevo y todo eso～」"
+
+msgid "Ryuuji「（Haruta...... That reminds me, I still＿haven't told him about my amnesia......）」"
+msgstr "Ryuuji「（Haruta...... Eso me recuerda que aún no＿le he contado de mi amnesia......）」"
+
+msgid "Ryuuji「（But if I tell him flat-out, he might not＿believe me so readily...... Hmmm......）」"
+msgstr "Ryuuji「（Si se lo digo sin rodeos, quizá no me＿crea tan fácilmente...... Mmmm......）」"
+
+msgid "Haruta「Cat got your tongue～?」"
+msgstr "Haruta「¿Te comió la lengua el ratón～?」"
+
+msgid "Ryuuji「Ah, no...... I was just wondering, how do＿you write \"Haruta\" in kanji?」"
+msgstr "Ryuuji「Ah, no...... Solo me preguntaba cómo＿se escribe \"Haruta\" en kanji.」"
+
+msgid "Haruta「\"Spring\" and \"rice field,\" ya know?」"
+msgstr "Haruta「\"Primavera\" y \"arrozal\", ¿sabes?」"
+
+msgid "Ryuuji「Ohh, I see. I totally forgot.」"
+msgstr "Ryuuji「Ahh, ya veo. Se me olvidó por completo.」"
+
+msgid "Ryuuji「（After that, maybe he'll have a few＿questions for me.）」"
+msgstr "Ryuuji「（Después de eso, tal vez me＿haga algunas preguntas.）」"
+
+msgid "Haruta「I feel ya, bro～ Happens all the time～!＿I'm always forgettin' people's kanji, or＿even their names～」"
+msgstr "Haruta「Te entiendo, amigo～ ¡Pasa todo el＿tiempo～！ Siempre olvido los kanji de＿la gente, o hasta sus nombres～」"
+
+msgid "Ryuuji「（He brushed it off casually......）」"
+msgstr "Ryuuji「（Lo dejó pasar como si nada......）」"
+
+msgid "???「Oh, if it isn't Takasu and Haruta. What＿a coincidence～!」"
+msgstr "???「Ah, pero si son Takasu y Haruta.＿¡Qué coincidencia～!」"
+
+msgid "Haruta「Happeh noo yaah.」"
+msgstr "Haruta「Felí año nueeevo.」"
+
+msgid "Kitamura「Happy New Year. What are you two up＿to?」"
+msgstr "Kitamura「Feliz Año Nuevo. ¿Qué andan＿haciendo ustedes dos?」"
+
+msgid "Ryuuji「Oh, we just ran into each other......＿What about you guys?」"
+msgstr "Ryuuji「Ah, nos acabamos de encontrar......＿¿Y ustedes?」"
+
+msgid "Noto「Same for us.」"
+msgstr "Noto「Nosotros igual.」"
+
+msgid "Haruta「Isn't that crazy? Maybe we're like, soul＿mates～?」"
+msgstr "Haruta「¿No es una locura? ¿Tal vez＿somos como almas gemelas～?」"
+
+msgid "Ryuuji「（That'd be kinda depressing......）」"
+msgstr "Ryuuji「（Eso sería un poco deprimente......）」"
+
+msgid "Noto「Me and Kitamura were just talking＿about going to celebrate Hatsumode.＿Wanna come with?」"
+msgstr "Noto「Kitamura y yo hablábamos de ir a＿celebrar el Hatsumode. ¿Quieren venir?」"
+
+msgid "Haruta「Hatsumode!? Pick me pick me pick＿meee～!」"
+msgstr "Haruta「¡¿Hatsumode?! ¡Elígeme,＿elígeme, elígemeee～!」"
+
+msgid "Kitamura「What about you, Takasu?」"
+msgstr "Kitamura「¿Y tú qué dices, Takasu?」"
+
+msgid "Ryuuji「（I already celebrated Hatsumode with＿Taiga, but I can't exactly refuse......）」"
+msgstr "Ryuuji「（Ya celebré el Hatsumode con Taiga,＿pero tampoco puedo negarme......）」"
+
+msgid "Ryuuji「Alright, count me in.」"
+msgstr "Ryuuji「Está bien, cuenten conmigo.」"
+
+msgid "Noto「Alright, it's a plan.」"
+msgstr "Noto「Bien, está decidido.」"

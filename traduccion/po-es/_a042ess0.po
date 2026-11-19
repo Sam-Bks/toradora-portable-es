@@ -1,0 +1,647 @@
+msgid ""
+msgstr ""
+
+msgid "Sakura「We made it～ Over here!」"
+msgstr "Sakura「¡Llegamos～! ¡Por aquí!」"
+
+msgid "Ryuuji「Oh!?」"
+msgstr "Ryuuji「¡¿Eh?!」"
+
+msgid "Sakura「Is something the matter?」"
+msgstr "Sakura「¿Pasa algo?」"
+
+msgid "Ryuuji「This is your house......!?」"
+msgstr "Ryuuji「¡¿Esta es tu casa......?!」"
+
+msgid "Sakura「Yes, that's right. This is Super＿Kanou-Mart.」"
+msgstr "Sakura「Sí, así es. Este es el Super Kanou-Mart.」"
+
+msgid "Ryuuji「（Kanou-Mart...... Super Kanou-Mart......!）」"
+msgstr "Ryuuji「（Kanou-Mart...... ¡Super＿Kanou-Mart......!）」"
+
+msgid "Ryuuji「（I remember!）」"
+msgstr "Ryuuji「（¡Lo recuerdo!）」"
+
+msgid "Ryuuji「I always shop here! ......Aww, I forgot to＿read the flyer for the New Year's＿specials! Me, of all people!」"
+msgstr "Ryuuji「¡Siempre compro aquí! ......Ay, ¡se＿me olvidó leer el folleto de las ofertas＿de Año Nuevo! ¡Justo a mí!」"
+
+msgid "Sakura「I, I see.」"
+msgstr "Sakura「Y-Ya veo.」"
+
+msgid "Ryuuji「Oh yeah, Taiga woke me up, so my daily＿routine got all out of whack...... Damn it＿Taiga......」"
+msgstr "Ryuuji「Ah, claro, Taiga me despertó y＿me desajustó toda la rutina......＿Maldita sea, Taiga......」"
+
+msgid "Ryuuji「Never mind that! What's today's＿featured product!?」"
+msgstr "Ryuuji「¡No importa eso! ¡¿Cuál es el＿producto destacado de hoy?!」"
+
+msgid "Sakura「A m-mystery grab bag.」"
+msgstr "Sakura「U-Una bolsa sorpresa.」"
+
+msgid "Ryuuji「ARRRGH, that annual event!」"
+msgstr "Ryuuji「¡AAAAGH, ese evento anual!」"
+
+msgid "Sakura「Yes, th-th-th-that's right.」"
+msgstr "Sakura「Sí, a-a-a-así es.」"
+
+msgid "Ryuuji「I remember...... I remember＿Kanou-Mart...... the New Year's Mystery＿Bag......」"
+msgstr "Ryuuji「Lo recuerdo...... Recuerdo el＿Kanou-Mart...... la Bolsa Sorpresa＿de Año Nuevo......」"
+
+msgid "Ryuuji「I'm getting in line!」"
+msgstr "Ryuuji「¡Voy a hacer fila!」"
+
+msgid "Sakura「What about your clothes,＿Takasu-senpai!?」"
+msgstr "Sakura「¡¿Y tu ropa, Takasu-senpai?!」"
+
+msgid "Ryuuji「Ohh!!」"
+msgstr "Ryuuji「¡¡Ohh!!」"
+
+msgid "Ryuuji「Argh............」"
+msgstr "Ryuuji「Agh............」"
+
+msgid "Sakura「But tomorrow we're having an＿All-You-Can-Carry New Year's special＿on vegetables.」"
+msgstr "Sakura「Pero mañana tendremos una oferta＿de Año Nuevo en verduras: todo＿lo que puedas cargar.」"
+
+msgid "Ryuuji「..................」"
+msgstr "Ryuuji「..................」"
+
+msgid "Sakura「Oh, and the day after that, tuna is＿scheduled to go on sale! ......Please＿cheer up.」"
+msgstr "Sakura「¡Ah, y pasado mañana está previsto＿que el atún esté en oferta! ......Por＿favor, anímate.」"
+
+msgid "Ryuuji「......Thank...... you......」"
+msgstr "Ryuuji「......Muchas...... gracias......」"
+
+msgid "Sakura「Come on, we've gotta get your clothes＿washed. Please head on upstairs.」"
+msgstr "Sakura「Vamos, tenemos que lavar tu ropa.＿Por favor, sube al segundo piso.」"
+
+msgid "Sakura「I'll bring you a change of clothes.」"
+msgstr "Sakura「Te traeré una muda de ropa.」"
+
+msgid "Ryuuji「Oh, okay. Thanks for everything.」"
+msgstr "Ryuuji「Ah, está bien. Gracias por todo.」"
+
+msgid "Ryuuji「（It's not my place to say this, but......＿Should she really be letting a man into＿her house this easily?）」"
+msgstr "Ryuuji「（No me corresponde decirlo, pero......＿¿De verdad debería dejar entrar a un＿hombre a su casa tan fácilmente?）」"
+
+msgid "???「Sakura, you home?」"
+msgstr "???「Sakura, ¿estás en casa?」"
+
+msgid "Ryuuji「（Wha-- A family member!? CRAP! If they＿see me sitting here alone and covered＿in blood......）」"
+msgstr "Ryuuji「（¿Qué--? ¿Un familiar?! ¡RAYOS!＿Si me ven aquí sentado, solo y＿cubierto de sangre......）」"
+
+msgid "Ryuuji「（ARRRGH, this won't look good at all!＿It'll lead to a weird misunderstanding!＿At the very least, it'll scare them.）」"
+msgstr "Ryuuji「（¡AAAAGH, esto no se verá nada bien!＿¡Provocará un malentendido raro! Por＿lo menos, los va a asustar.）」"
+
+msgid "Ryuuji「（Rrrgh, I have no choice!）」"
+msgstr "Ryuuji「（Grr, ¡no tengo opción!）」"
+
+msgid "???「Sakura? You there?」"
+msgstr "???「¿Sakura? ¿Estás ahí?」"
+
+msgid "Ryuuji「（W-Without thinking I ended up hiding＿in the closet......）」"
+msgstr "Ryuuji「（S-Sin pensarlo terminé escondiéndome＿en el armario......）」"
+
+msgid "Ryuuji「（......Nnn!?）」"
+msgstr "Ryuuji「（......¡¿Mmm?!）」"
+
+msgid "Ryuuji「（Wait, I know that person...... but from＿where?）」"
+msgstr "Ryuuji「（Espera, conozco a esa persona......＿pero ¿de dónde?）」"
+
+msgid "???「......Hm?」"
+msgstr "???「......¿Mm?」"
+
+msgid "Ryuuji「（Maybe I can remember something......＿Come on, remember!）」"
+msgstr "Ryuuji「（Quizá pueda recordar algo......＿¡Vamos, recuerda!）」"
+
+msgid "???「Who's there?!」"
+msgstr "???「¡¿Quién anda ahí?!」"
+
+msgid "Ryuuji「Oh?!」"
+msgstr "Ryuuji「¡¿Ah?!」"
+
+msgid "???「Bastard, what are you doing h......!? It's＿you!」"
+msgstr "???「Imbécil, ¡¿qué haces＿aq......?! ¡Eres tú!」"
+
+msgid "Ryuuji「I-It's me!」"
+msgstr "Ryuuji「¡S-Soy yo!」"
+
+msgid "???「Takasu! Why are you in Sakura's＿room!?」"
+msgstr "???「¡Takasu! ¡¿Por qué estás en＿el cuarto de Sakura?!」"
+
+msgid "Ryuuji「（See, I DID know her!）」"
+msgstr "Ryuuji「（¿Ves? ¡SÍ la conocía!）」"
+
+msgid "???「Also...... what's with the blood?」"
+msgstr "???「Además...... ¿y esa sangre?」"
+
+msgid "Ryuuji「Well, you see......」"
+msgstr "Ryuuji「Bueno, verás......」"
+
+msgid "???「Takasu, you wouldn't happen to have＿done something to Sakura to get＿revenge on me, would you?」"
+msgstr "???「Takasu, no le habrás hecho algo a Sakura＿para vengarte de mí, ¿verdad?」"
+
+msgid "Ryuuji「I, I would never!!」"
+msgstr "Ryuuji「¡¡Yo jamás haría algo así!!」"
+
+msgid "???「Thought so. I don't think you guys＿would stoop to something so low,＿but......」"
+msgstr "???「Eso pensé. No creo que ustedes＿cayeran tan bajo, pero......」"
+
+msgid "Ryuuji「W-Wait! I wouldn't know what to \"get＿revenge\" for in the first place!」"
+msgstr "Ryuuji「¡E-Espera! Para empezar, ¡ni sabría＿de qué tendría que \"vengarme\"!」"
+
+msgid "???「You wouldn't know? Surely you would.＿You were there.」"
+msgstr "???「¿Que no sabrías? Claro que＿sí. Tú estuviste allí.」"
+
+msgid "Ryuuji「（Get revenge? There? This really isn't＿making any sense.）」"
+msgstr "Ryuuji「（¿Vengarme? ¿Allí? Esto de verdad＿no tiene ningún sentido.）」"
+
+msgid "???「......You're making quite a face. Did you＿forget about me since I last saw you?」"
+msgstr "???「......Qué cara pones. ¿Ya te＿olvidaste de mí desde la última＿vez que nos vimos?」"
+
+msgid "Yeah...... I forgot you"
+msgstr "Sí...... Te olvidé"
+
+msgid "I think I saw you in the Student Council Activity Journal"
+msgstr "Creo que te vi en el Diario de actividades del consejo estudiantil"
+
+msgid "Did you make the Big Bro Notebook......?"
+msgstr "¿Tú hiciste el Cuaderno del Hermano Mayor......?"
+
+msgid "Ryuuji「Yeah...... I forgot you.」"
+msgstr "Ryuuji「Sí...... Te olvidé.」"
+
+msgid "???「......Excuse me?」"
+msgstr "???「......¿Disculpa?」"
+
+msgid "Ryuuji「You're what they call a perfect＿stranger.」"
+msgstr "Ryuuji「Eres lo que se llama una＿completa desconocida.」"
+
+msgid "???「Just a minute. Are you saying this is＿your first time meeting me? We've run＿into each other several times before.」"
+msgstr "???「Un momento. ¿Dices que es la primera＿vez que me ves? Ya nos hemos topado＿varias veces antes.」"
+
+msgid "Ryuuji「No, it's just...... My memory of the past＿has been wiped clean.」"
+msgstr "Ryuuji「No, es solo que...... Mi memoria del＿pasado se borró por completo.」"
+
+msgid "???「Are you just being sarcastic because＿you don't want to remember my face?」"
+msgstr "???「¿Solo estás siendo sarcástico porque＿no quieres recordar mi cara?」"
+
+msgid "Ryuuji「You're overthinking it! Let me ask you＿something. We've met before, right?」"
+msgstr "Ryuuji「¡Lo estás pensando de más! Déjame＿preguntarte algo. Ya nos conocemos, ¿no?」"
+
+msgid "???「Yeah, we have.」"
+msgstr "???「Sí, ya nos conocemos.」"
+
+msgid "Ryuuji「I'm sorry, but could you tell me your＿name?」"
+msgstr "Ryuuji「Perdona, pero ¿podrías＿decirme tu nombre?」"
+
+msgid "???「My name?」"
+msgstr "???「¿Mi nombre?」"
+
+msgid "Ryuuji「There's a chance it will help me.＿Please.」"
+msgstr "Ryuuji「Puede que eso me ayude. Por favor.」"
+
+msgid "Sumire「I'm Kanou Sumire...... That good＿enough?」"
+msgstr "Sumire「Soy Kanou Sumire...... ¿Con eso basta?」"
+
+msgid "Ryuuji「Kanou Sumire......」"
+msgstr "Ryuuji「Kanou Sumire......」"
+
+msgid "Ryuuji「（......It's no use, I can't remember a＿thing...... But why do I feel so strangely＿uneasy?）」"
+msgstr "Ryuuji「（......No sirve, no puedo recordar＿nada...... Pero ¿por qué siento una＿inquietud tan extraña?）」"
+
+msgid "Ryuuji「（Sumire...... Kanou Sumire...... Who IS＿she?）」"
+msgstr "Ryuuji「（Sumire...... Kanou Sumire......＿¿Quién ES ella?）」"
+
+msgid "Sumire「......Hey, Takasu. Seriously, what's with＿you?」"
+msgstr "Sumire「......Oye, Takasu. En＿serio, ¿qué te pasa?」"
+
+msgid "Ryuuji「Well, you see......」"
+msgstr "Ryuuji「Bueno, verás......」"
+
+msgid "???「Of course it was.」"
+msgstr "???「Por supuesto que sí.」"
+
+msgid "Ryuuji「......Oh! I remember! You're Kanou＿Sumire!」"
+msgstr "Ryuuji「......¡Ah! ¡Ya recuerdo!＿¡Eres Kanou Sumire!」"
+
+msgid "Sumire「You're a pretty rude guy, pointing at＿an upperclassman out of the blue and＿then not using an honorific.」"
+msgstr "Sumire「Eres bastante grosero, señalando＿a una alumna mayor de la nada y＿sin usar ningún honorífico.」"
+
+msgid "Ryuuji「That's right, you're Kanou Sumire!＿......So, what were you to me?」"
+msgstr "Ryuuji「¡Así es, eres Kanou Sumire!＿......Entonces, ¿qué eras para mí?」"
+
+msgid "Sumire「Excuse me?」"
+msgstr "Sumire「¿Disculpa?」"
+
+msgid "Ryuuji「Kanou...... Sumire? Kanou, Kanou......」"
+msgstr "Ryuuji「¿Kanou...... Sumire? Kanou, Kanou......」"
+
+msgid "Ryuuji「（......It's no use. I can't remember＿anything beyond her name...... But why＿do I feel strangely uneasy?）」"
+msgstr "Ryuuji「（......No sirve. No logro recordar nada＿más allá de su nombre...... Pero ¿por＿qué siento una extraña inquietud?）」"
+
+msgid "Ryuuji「（Sumire...... Kanou Sumire...... Who are＿you?）」"
+msgstr "Ryuuji「（Sumire...... Kanou Sumire......＿¿Quién eres tú?）」"
+
+msgid "Sumire「What's wrong, Takasu? Don't tell me＿you hit your head earlier.」"
+msgstr "Sumire「¿Qué pasa, Takasu? No me digas que＿te golpeaste la cabeza hace rato.」"
+
+msgid "Ryuuji「......Kanou...... Kanou-Mart...... Mystery＿bag...... N-No, not that!」"
+msgstr "Ryuuji「......Kanou...... Kanou-Mart...... Bolsa＿sorpresa...... ¡N-No, eso no!」"
+
+msgid "Sumire「Alright, stay right there. I'll land a blow＿on the other side!」"
+msgstr "Sumire「Muy bien, quédate ahí quieto. ¡Te＿daré un golpe del otro lado!」"
+
+msgid "Ryuuji「No no, that's dangerous!」"
+msgstr "Ryuuji「¡No, no, eso es peligroso!」"
+
+msgid "Sumire「Good, you seem to be thinking clearly.」"
+msgstr "Sumire「Bien, parece que piensas con claridad.」"
+
+msgid "Ryuuji「I can think just fine! But I'm 100%＿serious. I can't remember who you are＿right now.」"
+msgstr "Ryuuji「¡Puedo pensar muy bien! Pero hablo＿100% en serio. Ahora mismo no＿recuerdo quién eres.」"
+
+msgid "Sumire「......Takasu? Seriously, what happened＿to you?」"
+msgstr "Sumire「......¿Takasu? En serio, ¿qué te pasó?」"
+
+msgid "Ryuuji「Well, you see......」"
+msgstr "Ryuuji「Bueno, verás......」"
+
+msgid "Ryuuji「Did you...... make the Big Bro＿Notebook......?」"
+msgstr "Ryuuji「¿Tú...... hiciste el Cuaderno＿del Hermano Mayor......?」"
+
+msgid "???「............」"
+msgstr "???「............」"
+
+msgid "Ryuuji「Big Bro......? Huh?」"
+msgstr "Ryuuji「¿Hermano Mayor......? ¿Eh?」"
+
+msgid "Ryuuji「（No, the person before me is without a＿doubt female.）」"
+msgstr "Ryuuji「（No, la persona frente a＿mí es sin duda mujer.）」"
+
+msgid "Ryuuji「......Does that mean you're a drag＿queen?」"
+msgstr "Ryuuji「......¿Eso significa que eres travesti?」"
+
+msgid "???「Care to find out? Alright, give me your＿hand.」"
+msgstr "???「¿Quieres averiguarlo? Muy＿bien, dame la mano.」"
+
+msgid "Ryuuji「Wha, whoaa!」"
+msgstr "Ryuuji「¡Q-Qué, uaaah!」"
+
+msgid "???「Now tell me, which do you want to＿touch? Upper body or lower body?」"
+msgstr "???「Ahora dime, ¿qué quieres tocar? ¿La＿parte de arriba o la de abajo?」"
+
+msgid "Ryuuji「I, I didn't mean to--」"
+msgstr "Ryuuji「Y-Yo no quería--」"
+
+msgid "???「It's possible my upper body is just＿padding. As I thought, it'll be easier to＿tell from my lower body.」"
+msgstr "???「Es posible que arriba solo lleve＿relleno. Pensándolo bien, será más＿fácil comprobarlo por abajo.」"
+
+msgid "Ryuuji「I take it back!」"
+msgstr "Ryuuji「¡Retiro lo dicho!」"
+
+msgid "???「Heh. That was quite an insult, Takasu.＿You could get the same message＿across if you just said you hated me.」"
+msgstr "???「Je. Eso fue todo un insulto, Takasu.＿Habrías dado el mismo mensaje con＿solo decir que me odias.」"
+
+msgid "Ryuuji「So you're saying the two of us don't＿get along?」"
+msgstr "Ryuuji「¿Entonces dices que nosotros＿dos no nos llevamos bien?」"
+
+msgid "???「Who knows. It's doubtful whether or＿not we had such a thing as a \"bad＿relationship\".」"
+msgstr "???「Quién sabe. Es dudoso que tuviéramos＿algo así como una \"mala relación\".」"
+
+msgid "Ryuuji「Please don't just brush this off. I＿seriously can't even remember your＿name!」"
+msgstr "Ryuuji「Por favor, no le restes importancia.＿¡En serio ni siquiera recuerdo＿tu nombre!」"
+
+msgid "Sumire「......I'm Kanou Sumire.」"
+msgstr "Sumire「......Soy Kanou Sumire.」"
+
+msgid "Ryuuji「Kanou Sumire?」"
+msgstr "Ryuuji「¿Kanou Sumire?」"
+
+msgid "Sumire「Yep. That's my name.」"
+msgstr "Sumire「Sip. Ese es mi nombre.」"
+
+msgid "Ryuuji「Kanou Sumire......」"
+msgstr "Ryuuji「Kanou Sumire......」"
+
+msgid "Sumire「Hey, Takasu. Seriously, what happened＿to you?」"
+msgstr "Sumire「Oye, Takasu. En serio, ¿qué te pasó?」"
+
+msgid "Ryuuji「Well, you see......」"
+msgstr "Ryuuji「Bueno, verás......」"
+
+msgid "Ryuuji「I have amnesia.」"
+msgstr "Ryuuji「Tengo amnesia.」"
+
+msgid "Sumire「I see.」"
+msgstr "Sumire「Ya veo.」"
+
+msgid "Ryuuji「..................」"
+msgstr "Ryuuji「..................」"
+
+msgid "Sumire「..................」"
+msgstr "Sumire「..................」"
+
+msgid "Ryuuji「No questions? Nothing?」"
+msgstr "Ryuuji「¿Ninguna pregunta? ¿Nada?」"
+
+msgid "Sumire「What do you want me to ask?」"
+msgstr "Sumire「¿Qué quieres que pregunte?」"
+
+msgid "Sumire「I already knew you were out of sorts.＿Amnesia would explain everything. I'm＿not surprised.」"
+msgstr "Sumire「Ya sabía que estabas desorientado.＿La amnesia lo explicaría todo.＿No me sorprende.」"
+
+msgid "Ryuuji「O-Oh really.」"
+msgstr "Ryuuji「A-Ah, en serio.」"
+
+msgid "Sumire「I see, so you have no memory......」"
+msgstr "Sumire「Ya veo, así que no tienes memoria......」"
+
+msgid "Sakura「B-Big sis!!」"
+msgstr "Sakura「¡¡H-Hermana!!」"
+
+msgid "Sumire「......Sakura, I'd like you to explain why＿Takasu is here.」"
+msgstr "Sumire「......Sakura, quisiera que me expliques＿por qué Takasu está aquí.」"
+
+msgid "Sakura「Oh, umm, he helped me at the station＿square, then headbutt, then＿nosebleed.」"
+msgstr "Sakura「Ah, ehm, me ayudó en la plaza＿de la estación, luego cabezazo,＿luego sangrado de nariz.」"
+
+msgid "Sumire「Use complete sentences!」"
+msgstr "Sumire「¡Usa oraciones completas!」"
+
+msgid "Sakura「Eeek!」"
+msgstr "Sakura「¡Iiik!」"
+
+msgid "Ryuuji「Uh, err--」"
+msgstr "Ryuuji「Eh, ehm--」"
+
+msgid "Sumire「Sorry, Takasu. I'll handle this......＿Sakura, I told you over and over, \"Don't＿tell anyone I'm coming home.\"」"
+msgstr "Sumire「Perdón, Takasu. Yo me encargo......＿Sakura, te repetí mil veces: \"No le＿digas a nadie que vuelvo a casa\".」"
+
+msgid "Ryuuji「（\"Coming home\"? That reminds me,＿earlier she said \"since I last saw you\"......）」"
+msgstr "Ryuuji「（¿\"Vuelvo a casa\"? Ahora que＿lo pienso, antes dijo \"desde＿la última vez\"......）」"
+
+msgid "Sakura「B-B-B-B-But I didn't tell anyone you＿were here!」"
+msgstr "Sakura「¡P-P-P-P-Pero no le dije a＿nadie que estabas aquí!」"
+
+msgid "Sumire「This isn't about whether you said＿anything, motherfucker! Are those tits＿cutting off circulation to your brain!?」"
+msgstr "Sumire「¡No se trata de si dijiste algo o no,＿maldita sea! ¡¿Esas tetas te cortan＿la circulación al cerebro?!」"
+
+msgid "Sakura「Eeeeek!」"
+msgstr "Sakura「¡Iiiiik!」"
+
+msgid "Ryuuji「H-Hold it! HOLD IT! C-Can I change＿clothes at least!?」"
+msgstr "Ryuuji「¡E-Esperen! ¡ESPEREN! ¡¿P-Puedo＿cambiarme de ropa al menos?!」"
+
+msgid "Sumire「Oh yeah. Sorry, Takasu. Sakura, let's＿take this conversation outside.」"
+msgstr "Sumire「Ah, claro. Perdón, Takasu. Sakura,＿sigamos esta charla afuera.」"
+
+msgid "Sakura「Okayyy......」"
+msgstr "Sakura「Está bieeen......」"
+
+msgid "Ryuuji「Are they going to be okay......?」"
+msgstr "Ryuuji「¿Estarán bien......?」"
+
+msgid "Ryuuji「（I have no choice but to count on the＿younger sister to vouch for me......＿Guess I'll change into this sweatshirt.）」"
+msgstr "Ryuuji「（No me queda más que confiar en que la＿hermana menor interceda por mí......＿Supongo que me pondré esta sudadera.）」"
+
+msgid "Ryuuji「Dang, I got blood everywhere, huh......」"
+msgstr "Ryuuji「Rayos, manché todo de sangre, eh......」"
+
+msgid "???「STOP! Don't touch me! If I catch any＿more of your misfortune, I'm sure to＿die!」"
+msgstr "???「¡ALTO! ¡No me toques! ¡Si se me＿pega un poco más de tu mala suerte,＿seguro que me muero!」"
+
+msgid "???「I'm not touching you! But we should do＿something about your clothes.」"
+msgstr "???「¡No te estoy tocando! Pero deberíamos＿hacer algo con tu ropa.」"
+
+msgid "Ryuuji「What the?」"
+msgstr "Ryuuji「¿Pero qué?」"
+
+msgid "Ryuuji「Ugh, Taiga......!」"
+msgstr "Ryuuji「¡Ugh, Taiga......!」"
+
+msgid "Taiga「............Eek!」"
+msgstr "Taiga「............¡Iik!」"
+
+msgid "Kota「Aisaka-senpai, what's wr......」"
+msgstr "Kota「Aisaka-senpai, ¿qué pa......」"
+
+msgid "Taiga「NOOOOOOOOOOOOOOOOOOOO!!!!」"
+msgstr "Taiga「¡¡¡¡NOOOOOOOOOOOOOOOOOOOO!!!!」"
+
+msgid "Ryuuji「Owwwww! Stop throwing things, Taiga!＿Ooh, this is nice canned crab...... Aah,＿stop! If you throw that apple, it'll hurt!」"
+msgstr "Ryuuji「¡Auuuuch! ¡Deja de lanzar cosas, Taiga!＿Oh, buen cangrejo enlatado...... ¡Aah,＿para! ¡Esa manzana va a doler!」"
+
+msgid "Taiga「Hurry......」"
+msgstr "Taiga「Apúrate......」"
+
+msgid "Ryuuji「Hurry?」"
+msgstr "Ryuuji「¿Apúrate?」"
+
+msgid "Taiga「Get rid of those disgusting raisins, on＿the double!!」"
+msgstr "Taiga「¡¡Deshazte de esas pasas asquerosas,＿ahora mismo!!」"
+
+msgid "Ryuuji「R-Raisins......?」"
+msgstr "Ryuuji「¿P-Pasas......?」"
+
+msgid "Kota「Whoa, you have some dark nipples......」"
+msgstr "Kota「Vaya, tienes los pezones oscuros......」"
+
+msgid "Ryuuji「Wha-?! Bring me that sweatshirt!」"
+msgstr "Ryuuji「¡¿Qué-?! ¡Tráeme esa sudadera!」"
+
+msgid "Taiga「No way! I'm not coming near you!」"
+msgstr "Taiga「¡Ni hablar! ¡No me pienso acercar a ti!」"
+
+msgid "Ryuuji「Nngh......」"
+msgstr "Ryuuji「Nngh......」"
+
+msgid "Taiga「I was only just able to forget them, and＿now I end up seeing those wilted＿raisins again...... I want amnesia now!」"
+msgstr "Taiga「Apenas había podido olvidarlas, y ahora＿vuelvo a ver esas pasas arrugadas......＿¡Ahora yo quiero amnesia!」"
+
+msgid "Ryuuji「（Don't talk about my body like that!＿Guess I have no choice but to put this＿bloody thing back on......）」"
+msgstr "Ryuuji「（¡No hables así de mi cuerpo! No me＿queda más que volver a ponerme esta＿cosa ensangrentada......）」"
+
+msgid "Ryuuji「（I thought they were average...... Are＿they really that dark......?）」"
+msgstr "Ryuuji「（Yo creía que eran normales...... ¿De＿verdad son tan oscuros......?）」"
+
+msgid "Sumire「What's all the racket......? Oh, Kota!＿And...... Aisaka!?」"
+msgstr "Sumire「¿Qué es todo este alboroto......?＿¡Ah, Kota! Y...... ¡¿Aisaka?!」"
+
+msgid "Kota「Prez!?」"
+msgstr "Kota「¡¿Presidenta?!」"
+
+msgid "Taiga「It's you! Why......?」"
+msgstr "Taiga「¡Eres tú! ¿Por qué......?」"
+
+msgid "Sumire「Why are there so many unexpected＿visitors today? Why is Aisaka of all＿people in Sakura's room?」"
+msgstr "Sumire「¿Por qué hay tantas visitas inesperadas＿hoy? ¿Por qué justo Aisaka está en＿el cuarto de Sakura?」"
+
+msgid "Ryuuji「Wait wait, you know Taiga too?」"
+msgstr "Ryuuji「Espera, espera, ¿conoces＿a Taiga también?」"
+
+msgid "Taiga「............」"
+msgstr "Taiga「............」"
+
+msgid "Sumire「Aisaka. Kota. Long time no see.」"
+msgstr "Sumire「Aisaka. Kota. Cuánto tiempo.」"
+
+msgid "Taiga「Why are YOU here?」"
+msgstr "Taiga「¿Por qué estás TÚ aquí?」"
+
+msgid "Ryuuji「What do you mean, why? Isn't this＿where she lives?」"
+msgstr "Ryuuji「¿Cómo que por qué? ¿No es＿aquí donde vive ella?」"
+
+msgid "Taiga「Quiet, Ryuuji!」"
+msgstr "Taiga「¡Cállate, Ryuuji!」"
+
+msgid "Sumire「One of our relatives is getting married＿soon. I'm back from America＿temporarily to attend the wedding.」"
+msgstr "Sumire「Un familiar nuestro se casa pronto.＿Volví de Estados Unidos temporalmente＿para asistir a la boda.」"
+
+msgid "Ryuuji「America?」"
+msgstr "Ryuuji「¿Estados Unidos?」"
+
+msgid "Sumire「Yeah. I was once student council＿president at Oohashi High School, but＿now I'm studying abroad in America.」"
+msgstr "Sumire「Sí. Antes fui presidenta del consejo＿estudiantil en la Preparatoria Oohashi,＿pero ahora estudio en Estados Unidos.」"
+
+msgid "Sumire「Now it's your turn, Aisaka. I'd like you＿to explain why you're here. You too,＿Kota.」"
+msgstr "Sumire「Ahora te toca, Aisaka. Quisiera＿que expliques por qué estás aquí.＿Tú también, Kota.」"
+
+msgid "Kota「I'm sorry, Prez. The truth is, I spilled＿my juice on Aisaka-senpai.」"
+msgstr "Kota「Lo siento, Presidenta. La verdad es que＿derramé mi jugo sobre Aisaka-senpai.」"
+
+msgid "Ryuuji「Why does this sound familiar?」"
+msgstr "Ryuuji「¿Por qué me suena familiar esto?」"
+
+msgid "Sumire「Obviously.」"
+msgstr "Sumire「Obviamente.」"
+
+msgid "Kota「So I grabbed the last one.」"
+msgstr "Kota「Así que agarré la última.」"
+
+msgid "Taiga「I was half a second faster than you!」"
+msgstr "Taiga「¡Yo fui medio segundo más rápida que tú!」"
+
+msgid "Kota「......And so, in the heat of the struggle,＿the juice box in the mystery bag burst＿out.」"
+msgstr "Kota「......Y así, en el forcejeo,＿la cajita de jugo de la bolsa＿sorpresa salió disparada.」"
+
+msgid "Taiga「The juice flew up and got stabbed by＿that nail hanging from the ceiling!」"
+msgstr "Taiga「¡La caja de jugo voló hacia＿arriba y se clavó en ese clavo＿que colgaba del techo!」"
+
+msgid "Kota「It wasn't a nail, it was a hook for a＿display sign.」"
+msgstr "Kota「No era un clavo, era un gancho＿para un cartel de exhibición.」"
+
+msgid "Taiga「Who cares! So the juice box ripped＿open and the contents poured out......＿Can you believe it? Isn't it crazy!?」"
+msgstr "Taiga「¡Qué importa! Así que la caja se rompió＿y se derramó todo...... ¿Puedes creerlo?＿¡¿No es una locura?!」"
+
+msgid "Sumire「With Kota's powers of misfortune, it's＿not impossible.」"
+msgstr "Sumire「Con los poderes de mala suerte＿de Kota, no es imposible.」"
+
+msgid "Taiga「How horrific...... No one should get＿anywhere near this guy......」"
+msgstr "Taiga「Qué horror...... Nadie debería acercarse＿ni un poco a este tipo......」"
+
+msgid "Kota「So Aisaka-senpai's expensive clothes＿got stained, and I begged Sakura-chan＿to let me wash them here.」"
+msgstr "Kota「Así que la ropa cara de Aisaka-senpai＿se manchó, y le rogué a Sakura-chan＿que me dejara lavarla aquí.」"
+
+msgid "Sumire「*Sigh*...... Okay. Aisaka, since Takasu's＿clothes are in the washing machine, I'll＿do yours by hand. Take it off.」"
+msgstr "Sumire「*Suspiro*...... Bien. Aisaka, como la＿ropa de Takasu está en la lavadora, la＿tuya la lavo a mano. Quítatela.」"
+
+msgid "Taiga「......N-No way.」"
+msgstr "Taiga「......N-Ni hablar.」"
+
+msgid "Ryuuji「Hey, she's doing you a favor.」"
+msgstr "Ryuuji「Oye, te está haciendo un favor.」"
+
+msgid "Taiga「I don't need help from the likes of you.＿If I'd known you were back, I never＿would have come here!」"
+msgstr "Taiga「No necesito ayuda de alguien como＿tú. ¡Si hubiera sabido que volviste,＿jamás habría venido aquí!」"
+
+msgid "Sumire「I see. I'm not going to force you. If you＿want to leave, then leave.」"
+msgstr "Sumire「Ya veo. No voy a obligarte.＿Si te quieres ir, vete.」"
+
+msgid "Taiga「Y-You don't have to tell me! Sorry for＿intruding!!」"
+msgstr "Taiga「¡N-No hace falta que me lo digas!＿¡¡Perdón por molestar!!」"
+
+msgid "Ryuuji「Hey, are you really going home in that?＿TAIGA!」"
+msgstr "Ryuuji「Oye, ¿de verdad te vas a＿ir a casa así? ¡TAIGA!」"
+
+msgid "Sumire「Wait, Takasu. Take the stuff she forgot＿with you.」"
+msgstr "Sumire「Espera, Takasu. Llévate＿las cosas que olvidó.」"
+
+msgid "Sumire「The stuff from our mystery bag.」"
+msgstr "Sumire「Las cosas de nuestra bolsa sorpresa.」"
+
+msgid "Ryuuji「Come to think of it, what would Taiga＿want with a mystery bag?」"
+msgstr "Ryuuji「Ahora que lo pienso, ¿para qué querría＿Taiga una bolsa sorpresa?」"
+
+msgid "Sumire「Our mystery bag is marketed towards＿housewives. Does Taiga enjoy＿cooking?」"
+msgstr "Sumire「Nuestra bolsa sorpresa está＿pensada para amas de casa. ¿A＿Taiga le gusta cocinar?」"
+
+msgid "Ryuuji「No, not at all.」"
+msgstr "Ryuuji「No, para nada.」"
+
+msgid "Sumire「I see. Well, pose your question to her＿instead.」"
+msgstr "Sumire「Ya veo. Bueno, mejor hazle＿esa pregunta a ella.」"
+
+msgid "Ryuuji「（Housewives...... Househusband? Was it＿for me? ......No, there's no way Taiga of＿all people would...... right?）」"
+msgstr "Ryuuji「（Amas de casa...... ¿Amo de casa? ¿Era＿para mí? ......No, imposible que justo＿Taiga hiciera eso...... ¿verdad?）」"
+
+msgid "Ryuuji「Carefully selected organic fruits and＿veggies, a kilo of premium domestic＿beef, and other useful household」"
+msgstr "Ryuuji「¡Frutas y verduras orgánicas selectas,＿un kilo de carne nacional de primera＿y otros artículos útiles」"
+
+msgid "Ryuuji「items!」"
+msgstr "Ryuuji「para el hogar!」"
+
+msgid "Ryuuji「An estimated ¥20,000 value for only＿¥3000! They sell out in three minutes!!」"
+msgstr "Ryuuji「¡Un valor estimado de ¥20,000 por solo＿¥3000! ¡¡Se agotan en tres minutos!!」"
+
+msgid "Sakura「The store is about to open, and other＿customers are already waiting in＿line......」"
+msgstr "Sakura「La tienda está por abrir, y ya hay otros＿clientes haciendo fila......」"
+
+msgid "Sakura「At this point, I don't think you would be＿able to buy one.」"
+msgstr "Sakura「A estas alturas, no creo que＿pudieras comprar una.」"
+
+msgid "Ryuuji「（......This bedroom gives quite a different＿impression from Taiga's, even though＿both rooms are equally girly.）」"
+msgstr "Ryuuji「（......Este cuarto da una impresión＿muy distinta al de Taiga, aunque ambos＿son igual de femeninos.）」"
+
+msgid "Ryuuji「（It kinda smells good in here, too.）」"
+msgstr "Ryuuji「（Además, aquí huele bastante bien.）」"
+
+msgid "Ryuuji「（No, I can't! She's doing this out of the＿kindness of her heart, so I can't start＿getting weird ideas!）」"
+msgstr "Ryuuji「（¡No, no puedo! Ella hace esto por＿pura amabilidad, ¡así que no puedo＿ponerme a pensar cosas raras!）」"
+
+msgid "Ryuuji「（......But she sure is taking her sweet＿time...... Please, PLEASE come back＿soon.）」"
+msgstr "Ryuuji「（......Pero vaya que se está tomando＿su tiempo...... Por favor, POR＿FAVOR vuelve pronto.）」"
+
+msgid "Ryuuji「Kanou-Mart, Kanou...... I feel like I saw＿you in the Student Council Activity＿Journal that Kitamura lent me...... I'm」"
+msgstr "Ryuuji「Kanou-Mart, Kanou...... Creo que te vi＿en el Diario de actividades del consejo＿que me prestó Kitamura...... Estoy」"
+
+msgid "Ryuuji「sure your name was written in there......」"
+msgstr "Ryuuji「seguro de que tu nombre estaba ahí......」"
+
+msgid "Ryuuji「（......It's no use. She's female, and yet I＿can't remember anything more than＿\"she's Big Bro\"...... But why do I feel）」"
+msgstr "Ryuuji「（......No sirve. Es mujer, y aun así no＿recuerdo nada más que \"es el Hermano＿Mayor\"...... Pero ¿por qué siento）」"
+
+msgid "Ryuuji「（strangely uneasy?）」"
+msgstr "Ryuuji「（una extraña inquietud?）」"
+
+msgid "Ryuuji「Well, after a revelation like that, I've＿gotten \"Amnesiaaa!?\" or \"Holy shit,＿man!\" or \"Let me hit you!\"」"
+msgstr "Ryuuji「Bueno, tras una revelación así, me＿han dicho \"¡¿Amnesiaaa?!\", \"¡Mierda,＿amigo!\" o \"¡Déjame golpearte!\"」"
+
+msgid "Ryuuji「But I guess silence is a reaction in and＿of itself.」"
+msgstr "Ryuuji「Pero supongo que el silencio ya＿es una reacción en sí misma.」"
+
+msgid "Sakura「Sorry for making you wait so long.＿Kota-ku-- I mean, a friend asked for a＿favor all of a sudden.」"
+msgstr "Sakura「Perdón por hacerte esperar tanto.＿Kota-ku-- digo, un amigo me pidió＿un favor de repente.」"
+
+msgid "Sakura「This is my father's sweatshirt,＿buuuuaaaah!」"
+msgstr "Sakura「Esta es la sudadera de＿mi padre, ¡buaaaah!」"
+
+msgid "Kota「I was in line here at Kanou-Mart＿because my parents asked me to buy＿one of those New Year's mystery bags.」"
+msgstr "Kota「Hacía fila aquí en Kanou-Mart porque mis＿padres me pidieron comprar una de esas＿bolsas sorpresa de Año Nuevo.」"
+
+msgid "Kota「Sakura-chan said she'd set one aside＿for me, but that's not right.」"
+msgstr "Kota「Sakura-chan dijo que me apartaría＿una, pero eso no está bien.」"
+
+msgid "Ryuuji「Oh yeah, the stuff she was throwing......＿Oh, the apple's not bruised, and the＿carrot's fine......」"
+msgstr "Ryuuji「Ah, cierto, lo que estuvo lanzando......＿Oh, la manzana no se magulló y la＿zanahoria está bien......」"
+
+msgid "Ryuuji「The canned goods are unharmed, of＿course...... M-Meat?」"
+msgstr "Ryuuji「Las latas están intactas, por＿supuesto...... ¿C-Carne?」"

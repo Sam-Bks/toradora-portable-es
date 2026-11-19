@@ -1,0 +1,455 @@
+msgid ""
+msgstr ""
+
+msgid "Kitamura「Last night, I was too excited to realize＿it, but......」"
+msgstr "Kitamura「Anoche estaba tan emocionado＿que no lo noté, pero......」"
+
+msgid "Kitamura「By the way, I managed to think of a＿reason for your rejection...... but that's＿not what I wanted to talk about.」"
+msgstr "Kitamura「Por cierto, se me ocurrió una＿razón para tu rechazo...... Pero＿no quería hablar de eso.」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Kitamura「Look, Takasu...... Do you understand＿why I wanted to meet with you?」"
+msgstr "Kitamura「Mira, Takasu...... ¿Entiendes＿por qué quería verte?」"
+
+msgid "Ryuuji「No......」"
+msgstr "Ryuuji「No......」"
+
+msgid "Ryuuji「\"Listen up,\" is that it?」"
+msgstr "Ryuuji「¿\"Escucha bien\", es eso?」"
+
+msgid "Kitamura「Yes, precisely, Takasu. Over the phone,＿when I told you Kushi...... I mean, the＿softball team's schedule......」"
+msgstr "Kitamura「Exacto, Takasu. Cuando te dije por＿teléfono el horario de Kushi...... digo,＿del equipo de sóftbol......」"
+
+msgid "Kitamura「Today, you were in the middle of＿deciding that you needed to do＿something, am I correct?」"
+msgstr "Kitamura「Hoy estabas decidiendo que tenías＿que hacer algo, ¿me equivoco?」"
+
+msgid "Ryuuji「......Yeah. I didn't talk to you about it,＿but I'm actually pretty committed to it.」"
+msgstr "Ryuuji「......Sí. No te lo conté, pero＿la verdad estoy muy decidido.」"
+
+msgid "Kitamura「Wait a minute...... Now I see what's＿going on.」"
+msgstr "Kitamura「Un momento...... Ahora＿entiendo lo que pasa.」"
+
+msgid "Ryuuji「What do you mean?」"
+msgstr "Ryuuji「¿A qué te refieres?」"
+
+msgid "Ryuuji「......Damn, how much of my mind can＿you read?」"
+msgstr "Ryuuji「......Rayos, ¿hasta dónde＿puedes leerme la mente?」"
+
+msgid "Kitamura「This \"God of Heartbreak\" title isn't just＿for show. Hahaha......」"
+msgstr "Kitamura「No me llaman \"Dios del Desamor\"＿por nada. Jajaja......」"
+
+msgid "Kitamura「Now then. It's time to discuss the main＿issue that I wanted to bring to your＿attention......」"
+msgstr "Kitamura「Bueno, es hora de hablar del asunto＿principal que quería mencionarte......」"
+
+msgid "Kitamura「Takasu, you're serious, and sincere as＿fuck. So I conclude that you might be＿obsessed with your past feelings.」"
+msgstr "Kitamura「Takasu, eres serio y muy sincero. Por＿eso creo que podrías estar obsesionado＿con lo que sentías antes.」"
+
+msgid "Ryuuji「Well......」"
+msgstr "Ryuuji「Bueno......」"
+
+msgid "Ryuuji「......Pfft.」"
+msgstr "Ryuuji「......Pfft.」"
+
+msgid "Kitamura「Hmm? This is no laughing matter......」"
+msgstr "Kitamura「¿Hmm? Esto no es para reírse......」"
+
+msgid "Ryuuji「No, I appreciate any suggestions from＿the God of Heartbreak. I'm all ears.」"
+msgstr "Ryuuji「No, agradezco los consejos del Dios＿del Desamor. Soy todo oídos.」"
+
+msgid "Ryuuji「Well...... I guess, when I opened my eyes＿this morning, it all became clear to me＿and stuff......」"
+msgstr "Ryuuji「Bueno...... Supongo que al＿despertar esta mañana lo vi＿todo claro y eso......」"
+
+msgid "Ryuuji「Wait, what are you making me say!? It's＿too embarrassing to talk about!」"
+msgstr "Ryuuji「Espera, ¡¿qué me haces decir?! ¡Me＿da mucha vergüenza hablar de eso!」"
+
+msgid "Kitamura「Oh, calm down, Takasu...... Hmm, I feel＿somewhat relieved.」"
+msgstr "Kitamura「Ah, cálmate, Takasu...... Hmm,＿me siento algo aliviado.」"
+
+msgid "Ryuuji「As expected, you're overthinking it......＿Eh, well, it might have occurred to me＿that this is a good opportunity.」"
+msgstr "Ryuuji「Como esperaba, le das demasiadas＿vueltas...... Eh, bueno, quizá pensé＿que era una buena oportunidad.」"
+
+msgid "Kitamura「That's good then...... Well then, allow me＿to add to the unsolicited, unnecessary＿comments.」"
+msgstr "Kitamura「Entonces está bien...... Permíteme＿añadir unos comentarios innecesarios＿que nadie pidió.」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Kitamura「Have I conveyed precisely what I＿wanted to?」"
+msgstr "Kitamura「¿Expresé con precisión lo que quería?」"
+
+msgid "Ryuuji「Probably.」"
+msgstr "Ryuuji「Supongo.」"
+
+msgid "Kitamura「Good...... Based on that, I'm going to ask＿this, hypocrite that I am.」"
+msgstr "Kitamura「Bien...... Sabiendo eso, te preguntaré＿esto, hipócrita que soy.」"
+
+msgid "Please answer my prayers"
+msgstr "Por favor, escucha mis plegarias"
+
+msgid "Please let me forget"
+msgstr "Por favor, déjame olvidar"
+
+msgid "Just hit me"
+msgstr "Solo golpéame"
+
+msgid "Ryuuji「Well...... I mean, will you answer my＿prayers?」"
+msgstr "Ryuuji「Bueno...... O sea, ¿escucharás＿mis plegarias?」"
+
+msgid "Kitamura「......I see. Alright, you got it.」"
+msgstr "Kitamura「......Ya veo. Bien, cuenta conmigo.」"
+
+msgid "Ryuuji「Wait. Don't you think you're＿contradicting what you said earlier?」"
+msgstr "Ryuuji「Espera. ¿No crees que contradices＿lo que dijiste antes?」"
+
+msgid "Ryuuji「......I'm not sure I could be as＿straightforward as you about＿embarrassing stuff.」"
+msgstr "Ryuuji「......No sé si podría hablar＿de cosas vergonzosas con tanta＿franqueza como tú.」"
+
+msgid "Ryuuji「But talking like that...... Oh, forget it.」"
+msgstr "Ryuuji「Pero hablar así...... Ah, olvídalo.」"
+
+msgid "Kitamura「Haha...... Alright, as promised, I'll give＿you a revelation just this once.」"
+msgstr "Kitamura「Jajaja...... Bien, como prometí, te daré＿una revelación solo por esta vez.」"
+
+msgid "Kitamura「It's okay! Believe and it will happen! Go＿forth without hesitation! So--」"
+msgstr "Kitamura「¡Está bien! ¡Cree y se cumplirá!＿¡Avanza sin dudar! Así que--」"
+
+msgid "Ryuuji「Hold it! Not here! That's enough......」"
+msgstr "Ryuuji「¡Espera! ¡Aquí no! Basta ya......」"
+
+msgid "Kitamura「......Oh, you're right! The dignity of every＿Oohashi student will get called into＿question. How rude of me. Hahaha!」"
+msgstr "Kitamura「......¡Ah, tienes razón! Quedaría＿en duda la dignidad de todos en Oohashi.＿Qué grosero. ¡Jajaja!」"
+
+msgid "Ryuuji「And you're the student council＿president, for that matter.」"
+msgstr "Ryuuji「Y eres el presidente del consejo＿estudiantil, además.」"
+
+msgid "Kitamura「Mm, indeed. But still, take it easy. You＿and Ai-- I mean, your prayers have＿been heard.」"
+msgstr "Kitamura「Mmm, cierto. Aun así, tranquilo.＿Tú y Ai-- digo, tus plegarias＿han sido escuchadas.」"
+
+msgid "Kitamura「Hopefully, they really will be granted.」"
+msgstr "Kitamura「Espero que de verdad se cumplan.」"
+
+msgid "Ryuuji「That's not something a god should say.」"
+msgstr "Ryuuji「Eso no debería decirlo un dios.」"
+
+msgid "Ryuuji「Haha, well, isn't that convenient......＿Still, thanks.」"
+msgstr "Ryuuji「Jajaja, bueno, qué conveniente......＿Aun así, gracias.」"
+
+msgid "Ryuuji「Kitamura......」"
+msgstr "Ryuuji「Kitamura......」"
+
+msgid "Kitamura「Don't be afraid of the outcome! I don't＿want you to have any regrets!」"
+msgstr "Kitamura「¡No temas el resultado! ¡No＿quiero que te arrepientas!」"
+
+msgid "Ryuuji「Kitamura...... I told you to keep your＿voice down.」"
+msgstr "Ryuuji「Kitamura...... Te dije＿que bajaras la voz.」"
+
+msgid "Kitamura「......Oh, shit!」"
+msgstr "Kitamura「......¡Ah, mierda!」"
+
+msgid "Ryuuji「......I'd prefer if you let me forget.」"
+msgstr "Ryuuji「......Preferiría que me dejaras olvidar.」"
+
+msgid "Kitamura「............」"
+msgstr "Kitamura「............」"
+
+msgid "Kitamura「I...... I think you're wrong, Takasu.」"
+msgstr "Kitamura「Yo...... Creo que te equivocas, Takasu.」"
+
+msgid "Ryuuji「......Really?」"
+msgstr "Ryuuji「......¿En serio?」"
+
+msgid "Kitamura「Yeah. In any case, I think that attitude＿goes against reason. You can't change＿the past, after all.」"
+msgstr "Kitamura「Sí. En todo caso, esa actitud me＿parece ilógica. Al fin y al cabo,＿no puedes cambiar el pasado.」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Ryuuji「What about them......?」"
+msgstr "Ryuuji「¿Y los demás......?」"
+
+msgid "Kitamura「Every time she meets you, every time＿you happen to cross her mind, it's a＿fact she is forced to accept.」"
+msgstr "Kitamura「Cada vez que te ve o que piensa＿en ti, es un hecho que se ve＿obligada a aceptar.」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Kitamura「That's why I think you have to＿remember it, accept it, and overcome＿it.」"
+msgstr "Kitamura「Por eso creo que tienes que recordarlo,＿aceptarlo y superarlo.」"
+
+msgid "Ryuuji「......Yeah, it's a completely sound＿argument.」"
+msgstr "Ryuuji「......Sí, es un argumento＿completamente válido.」"
+
+msgid "Kitamura「Takasu, I think you need to prepare＿your heart first.」"
+msgstr "Kitamura「Takasu, creo que primero debes＿preparar tu corazón.」"
+
+msgid "Ryuuji「............Yeah.」"
+msgstr "Ryuuji「............Sí.」"
+
+msgid "Ryuuji「No, I'd rather you just hit me, please.」"
+msgstr "Ryuuji「No, prefiero que me golpees, por favor.」"
+
+msgid "Kitamura「......Well, according to what I said＿warranted a punch from me, you don't＿qualify.」"
+msgstr "Kitamura「......Bueno, según lo que dije＿que merecía un golpe de mi parte,＿tú no lo mereces.」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "\"Crush it to pieces and, hmmm,＿sprinkle them in a river, perhaps?\""
+msgstr "\"Hazlo pedazos y, hmmm, ¿por qué no los＿esparces en un río?\""
+
+msgid "\"Get going, you lazy dog!\""
+msgstr "\"¡Muévete, perro flojo!\""
+
+msgid "\"Taiga probably really regrets it, after＿all.\""
+msgstr "\"Después de todo, seguro que Taiga lo＿lamenta mucho.\""
+
+msgid "\"Listen, Takasu-kun. Taiga really＿regrets what happened.\""
+msgstr "\"Escucha, Takasu-kun. Taiga lamenta＿mucho lo que pasó.\""
+
+msgid "\"I guess it's not possible to prepare for＿something you don't even remember.＿But I remember, so I need to.\""
+msgstr "\"Supongo que no puedes prepararte para＿algo que ni recuerdas. Pero yo sí lo＿recuerdo, así que debo hacerlo.\""
+
+msgid "\"If...... if you never remember, it'll be like＿it never happened, Takasu-kun.\""
+msgstr "\"Si...... si nunca lo recuerdas, será＿como si nunca hubiera pasado,＿Takasu-kun.\""
+
+msgid "\"She overlooks her own feelings and＿feigns ignorance. Arrrgh, she really＿grinds my gears, you know.\""
+msgstr "\"Ignora sus propios sentimientos y se＿hace la que no sabe. Argh, de verdad que＿me saca de quicio.\""
+
+msgid "Kitamura「......It would seem I was right.」"
+msgstr "Kitamura「......Parece que tenía razón.」"
+
+msgid "Kitamura「Take your time and start from the＿beginning.」"
+msgstr "Kitamura「Tómate tu tiempo y empieza＿por el principio.」"
+
+msgid "Ryuuji「That's why you should hit me for＿saying all this. If you don't, I won't get it＿through my head and stuff......」"
+msgstr "Ryuuji「Por eso debes golpearme por decir＿todo esto. Si no lo haces, no me entrará＿en la cabeza y eso......」"
+
+msgid "Kitamura「Alright. You've conveyed your feelings＿most precisely.」"
+msgstr "Kitamura「Bien. Expresaste tus sentimientos＿con total precisión.」"
+
+msgid "Ryuuji「Hey Kitamura...... I've gone and made＿this pretty inconvenient with my＿selfishness, huh?」"
+msgstr "Ryuuji「Oye, Kitamura...... He complicado＿todo con mi egoísmo, ¿no?」"
+
+msgid "Kitamura「I don't think so. I think that's just proof＿of your sincerity in your own way......＿Alright, let's head out.」"
+msgstr "Kitamura「No lo creo. Eso demuestra tu sinceridad,＿a tu manera...... Bien, salgamos.」"
+
+msgid "Kitamura「......Are you prepared?」"
+msgstr "Kitamura「......¿Estás preparado?」"
+
+msgid "Ryuuji「No need to go easy on me, please.」"
+msgstr "Ryuuji「No te contengas, por favor.」"
+
+msgid "Kitamura「Alright...... Then grit your teeth!」"
+msgstr "Kitamura「Bien...... ¡Entonces aprieta＿los dientes!」"
+
+msgid "Ryuuji「Owwww...... You really didn't go easy on＿me......」"
+msgstr "Ryuuji「Ayyyy...... De verdad que＿no te contuviste......」"
+
+msgid "Kitamura「That's my sincerity.」"
+msgstr "Kitamura「Esa es mi sinceridad.」"
+
+msgid "Ryuuji「Oh...... thanks.」"
+msgstr "Ryuuji「Ah...... gracias.」"
+
+msgid "Kitamura「And on top of all that, you stay positive＿and try to make progress on your own＿two feet.」"
+msgstr "Kitamura「Y encima de todo, sigues siendo＿positivo e intentas avanzar por＿tus propios medios.」"
+
+msgid "Ryuuji「You're exaggerating.」"
+msgstr "Ryuuji「Exageras.」"
+
+msgid "Kitamura「Don't be afraid of the outcome! When＿it's all over, I'll happily let you punch＿me! Now go! Run! Takasu Ryuuji!!」"
+msgstr "Kitamura「¡No temas el resultado! ¡Al acabar,＿me dejaré golpear con gusto! ¡Ve!＿¡Corre! ¡Takasu Ryuuji!!」"
+
+msgid "Kitamura「After a while I thought it over calmly,＿and then in light of recent＿developments surrounding you, the」"
+msgstr "Kitamura「Luego lo pensé con calma y, a la luz de＿lo que te ha pasado últimamente, el」"
+
+msgid "Kitamura「current state of things finally dawned＿on me.」"
+msgstr "Kitamura「estado actual de las cosas＿por fin me quedó claro.」"
+
+msgid "Kitamura「Well, that was just my introduction, so＿pay it no mind. Like how the Power＿Rangers must decide on their poses」"
+msgstr "Kitamura「Bueno, era solo mi introducción,＿ignórala. Como los Power Rangers,＿que eligen sus poses」"
+
+msgid "Kitamura「before they battle the enemy.」"
+msgstr "Kitamura「antes de luchar contra el enemigo.」"
+
+msgid "Ryuuji「Last night, Haruta may have been＿listening in while in that predicament,＿but even still, in that state I doubt he」"
+msgstr "Ryuuji「Anoche quizá Haruta nos escuchaba,＿aun en esa situación, pero dudo que＿en ese estado」"
+
+msgid "Ryuuji「understood even half of it...... And it's＿getting complicated.」"
+msgstr "Ryuuji「entendiera ni la mitad......＿Y se está complicando.」"
+
+msgid "Kitamura「Basically, you're committed to Aisaka＿and Kushieda's situation. Now you're＿the only one who can take action to」"
+msgstr "Kitamura「Básicamente, estás decidido a resolver＿lo de Aisaka y Kushieda. Solo tú puedes＿actuar ahora para」"
+
+msgid "Kitamura「overcome the circumstances......＿Correct?」"
+msgstr "Kitamura「superar la situación...... ¿Cierto?」"
+
+msgid "Kitamura「Just hear me all the way out...... So, you＿said last night that your feelings＿haven't caught up, right? If so, those」"
+msgstr "Kitamura「Escúchame hasta el final...... Anoche＿dijiste que tus sentimientos seguían＿rezagados, ¿no? Si es así, esas」"
+
+msgid "Kitamura「emotions are already in the past.」"
+msgstr "Kitamura「emociones ya quedaron en el pasado.」"
+
+msgid "Kitamura「That's why I believe that trying to get＿them back at this point is impossible.＿What's important is how you feel right」"
+msgstr "Kitamura「Por eso creo que ya es imposible＿recuperarlas. Lo importante es lo que＿sientes justo」"
+
+msgid "Kitamura「now.」"
+msgstr "Kitamura「ahora.」"
+
+msgid "Ryuuji「Sorry, my bad. Truth is, Kawashima＿told me the exact same thing. It's＿funny to see just how similar your」"
+msgstr "Ryuuji「Perdón, fue mi culpa. La verdad,＿Kawashima me dijo lo mismo. Me da risa＿ver lo parecidas que son sus」"
+
+msgid "Ryuuji「thought processes are.」"
+msgstr "Ryuuji「formas de pensar.」"
+
+msgid "Kitamura「Oh, really now...... Man, I was thinking＿for just a moment that I was imparting＿something meaningful, but for you it's」"
+msgstr "Kitamura「Ah, ¿en serio......? Vaya, por un＿momento creí que decía algo importante,＿pero para ti es」"
+
+msgid "Kitamura「like a re-run.」"
+msgstr "Kitamura「como una repetición.」"
+
+msgid "Kitamura「Haha! Alright then...... Well? Is your＿heart full of feelings for someone right＿now? Mind, I won't ask who that」"
+msgstr "Kitamura「¡Jajaja! Bien...... ¿Y? ¿Tu corazón＿rebosa amor por alguien ahora? No＿preguntaré quién es ese」"
+
+msgid "Kitamura「someone is, so please answer.」"
+msgstr "Kitamura「alguien, así que responde, por favor.」"
+
+msgid "Kitamura「Knowing you, it's conceivable you'd＿rather confess your feelings than＿stand by and watch the girls hurt each」"
+msgstr "Kitamura「Conociéndote, quizá prefieras confesar＿lo que sientes antes que ver a las＿chicas herirse unas」"
+
+msgid "Kitamura「other, I think.」"
+msgstr "Kitamura「a otras, creo yo.」"
+
+msgid "Kitamura「Takasu, knowing you this would never＿happen, but if you were to rebound＿onto one after being rejected by the」"
+msgstr "Kitamura「Takasu, sé que tú nunca lo harías,＿pero si recurrieras a una por despecho＿tras el rechazo de la」"
+
+msgid "Kitamura「other, I'd have to punch you.」"
+msgstr "Kitamura「otra, tendría que golpearte.」"
+
+msgid "Kitamura「On the other hand, if you were to say \"I＿already know how things will work out＿with her,\" I'd have to punch you for」"
+msgstr "Kitamura「Por otro lado, si dijeras \"Ya sé＿cómo me irá con ella\", también＿tendría que golpearte por」"
+
+msgid "Kitamura「that too. You'd be lying to yourself.」"
+msgstr "Kitamura「eso. Te estarías mintiendo a ti mismo.」"
+
+msgid "Kitamura「The other day, a certain person......＿Well, I'm sure you can figure out who.＿They told me you pray that you'll be」"
+msgstr "Kitamura「El otro día, cierta persona......＿Bueno, seguro sabes quién. Me＿dijo que rezas para」"
+
+msgid "Kitamura「able to regain your former passion.＿What say you?」"
+msgstr "Kitamura「poder recuperar tu antigua＿pasión. ¿Qué dices?」"
+
+msgid "Kitamura「Maybe I am. I don't think so. After all,＿Takasu, you really are sincere. No＿matter what you do, your former......」"
+msgstr "Kitamura「Quizá sí. No lo creo. Después de todo,＿Takasu, eres muy sincero. Hagas lo que＿hagas, tus antiguos......」"
+
+msgid "Kitamura「Argh, I'm gonna just go ahead and say＿it.」"
+msgstr "Kitamura「Argh, lo diré de una vez.」"
+
+msgid "Kitamura「Either way, I think it goes against＿reason not to try and remember the＿feelings you once had for Kushieda」"
+msgstr "Kitamura「En fin, creo que es ilógico no intentar＿recordar lo que sentías por Kushieda」"
+
+msgid "Kitamura「and and the pain of heartbreak......＿Well? Am I wrong?」"
+msgstr "Kitamura「y el dolor del desamor......＿Bueno, ¿me equivoco?」"
+
+msgid "Kitamura「I can understand feeling awkward, but＿it's nothing to be ashamed of. The＿Takasu Ryuuji I know is just that」"
+msgstr "Kitamura「Entiendo que te incomode, pero no＿es vergonzoso. El Takasu Ryuuji que＿conozco es así de」"
+
+msgid "Kitamura「sincere.」"
+msgstr "Kitamura「sincero.」"
+
+msgid "Kitamura「The one who said that just now wasn't＿the God of Heartbreak. It was Takasu＿Ryuuji's best friend Kitamura Yuusaku,」"
+msgstr "Kitamura「Eso no lo dijo el Dios del Desamor,＿sino Kitamura Yuusaku, el mejor amigo＿de Takasu Ryuuji,」"
+
+msgid "Kitamura「so it's fine.」"
+msgstr "Kitamura「así que está bien.」"
+
+msgid "Kitamura「......Alright, I will undertake your former＿wounds. That pain has surely been＿reborn in my heart. So it's okay! Don't」"
+msgstr "Kitamura「......Bien, asumiré tus viejas heridas.＿Ese dolor ha renacido en mi corazón.＿¡Así que está bien! ¡No」"
+
+msgid "Kitamura「hesitate to go settle things!」"
+msgstr "Kitamura「dudes en ir a resolver las cosas!」"
+
+msgid "Kitamura「I suggest talking to Aisaka, since she＿questioned Kushieda's true intentions,＿so she might have had a change of」"
+msgstr "Kitamura「Sugiero hablar con Aisaka, pues dudó＿de las verdaderas intenciones de＿Kushieda y quizá haya cambiado de」"
+
+msgid "Kitamura「heart.」"
+msgstr "Kitamura「opinión.」"
+
+msgid "Ryuuji「Even if I did remember, by this point......＿Isn't it better not to remember the＿pain of rejection? Losing my nerve」"
+msgstr "Ryuuji「Aunque lo recordara ahora...... ¿No es＿mejor no recordar el dolor del rechazo?＿Perder el valor」"
+
+msgid "Ryuuji「wouldn't help anything.」"
+msgstr "Ryuuji「no ayudaría en nada.」"
+
+msgid "Kitamura「Takasu...... Even after amnesia took＿everything away, you were able to＿recall the truth of the past, but you」"
+msgstr "Kitamura「Takasu...... Aunque la amnesia te＿lo quitó todo, pudiste recordar＿la verdad del pasado, pero」"
+
+msgid "Kitamura「said your emotions haven't caught up.」"
+msgstr "Kitamura「dijiste que tus emociones＿siguen rezagadas.」"
+
+msgid "Kitamura「Basically, let me say this: I'm certain＿there's something bordering the＿amnesia that's cutting off your」"
+msgstr "Kitamura「Básicamente, déjame decirte esto:＿seguro hay algo ligado a la amnesia＿que está bloqueando tus」"
+
+msgid "Kitamura「emotions. But what about all the＿people around you?」"
+msgstr "Kitamura「emociones. ¿Pero qué hay de＿todos los que te rodean?」"
+
+msgid "Kitamura「For example...... Argh, I'm gonna just go＿ahead and say it. To Kushieda,＿regardless of the reason she rejected」"
+msgstr "Kitamura「Por ejemplo...... Argh, lo diré de＿una vez. Para Kushieda, sea cual＿sea el motivo de su rechazo」"
+
+msgid "Kitamura「you, it's still an unchangeable fact.」"
+msgstr "Kitamura「hacia ti, sigue siendo＿un hecho inalterable.」"
+
+msgid "Kitamura「Because you had amnesia, you've been＿a little confused, but I think what I'm＿telling you right now is simply the right」"
+msgstr "Kitamura「Por la amnesia estás algo confundido,＿pero creo que lo que te digo ahora＿es simplemente lo」"
+
+msgid "Kitamura「thing to do. What do you think?」"
+msgstr "Kitamura「correcto. ¿Qué te parece?」"
+
+msgid "Kitamura「You can't bear to see the girls hurt＿each other. I feel the same way. But＿don't you think jumping the gun would」"
+msgstr "Kitamura「No soportas ver a las chicas hacerse＿daño. A mí me pasa lo mismo. ¿Pero no＿crees que precipitarte」"
+
+msgid "Kitamura「only make things worse?」"
+msgstr "Kitamura「solo empeoraría las cosas?」"
+
+msgid "\"You don't know the first thing about＿this let-who-have-what thing you're＿talking about, you petulant child! As if\""
+msgstr "\"¡No sabes nada de lo que dices sobre＿quién se queda con quién, niña＿caprichosa! ¡Como si\""
+
+msgid "you could!」"
+msgstr "pudieras!」"
+
+msgid "Ryuuji「Oh, uh, sorry...... I ended up really deep＿in thought for some reason. No, I'm not＿sure if you were. I'm not sure, but,」"
+msgstr "Ryuuji「Ah, eh, perdón...... Me quedé muy＿pensativo, no sé por qué. No, no sé si＿tenías razón. No lo sé, pero,」"
+
+msgid "Ryuuji「y'know......」"
+msgstr "Ryuuji「ya sabes......」"
+
+msgid "Ryuuji「......Might be a little...... no, really＿arrogant of me, but...... I think in the＿end, no matter what happens, or with」"
+msgstr "Ryuuji「......Quizá sea algo...... no, muy＿arrogante de mi parte, pero...... Creo＿que, pase lo que pase, o con」"
+
+msgid "Ryuuji「whom, I'll just get another helping of＿that same pain.」"
+msgstr "Ryuuji「quien sea, volveré a sentir＿ese mismo dolor.」"
+
+msgid "Ryuuji「Of course, I know it hurt in its own way,＿but...... I only remembered what took＿place back then, not the pain that」"
+msgstr "Ryuuji「Claro que sé que dolió a su manera,＿pero...... Solo recordé lo de entonces,＿no el dolor que」"
+
+msgid "Ryuuji「came along with it.」"
+msgstr "Ryuuji「lo acompañó.」"
+
+msgid "Kitamura「Takasu, you're truly one hell of a guy.＿Turning to face the past that you had＿put behind you, considering the」"
+msgstr "Kitamura「Takasu, eres un tipo increíble.＿Afrontas el pasado que dejaste＿atrás y piensas en los」"
+
+msgid "Kitamura「feelings of the people you don't＿know......」"
+msgstr "Kitamura「sentimientos de las personas＿que no conoces......」"
+
+msgid "Kitamura「......Anyway! Takasu, you've suffered＿more than your fair share of pain.＿Don't hesitate, follow your heart, and」"
+msgstr "Kitamura「......¡En fin! Takasu, has sufrido＿más de lo que mereces. No dudes,＿sigue a tu corazón y」"
+
+msgid "Kitamura「settle this once and for all!」"
+msgstr "Kitamura「¡resuelve esto de una vez por todas!」"
+
+msgid "Kitamura「I suggest talking to Aisaka! She＿questioned Kushieda's true intentions,＿so she might have had a change of」"
+msgstr "Kitamura「¡Sugiero hablar con Aisaka! ¡Dudó de＿las verdaderas intenciones de Kushieda,＿así que quizá haya cambiado de」"
+
+msgid "Kitamura「heart!」"
+msgstr "Kitamura「opinión!」"

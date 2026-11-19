@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+
+msgid "Minori「Oh man, talking to you is fun,＿Takasu-kun! You lost your memory,＿but not your sense of humor!」"
+msgstr "Minori「¡Vaya, hablar contigo es divertido,＿Takasu-kun! ¡Perdiste la memoria,＿pero no el sentido del humor!」"
+
+msgid "Ryuuji「（Was our conversation that funny? I'm＿glad she's enjoying it though......）」"
+msgstr "Ryuuji「（¿Tan graciosa fue nuestra charla?＿Aunque me alegra que la disfrute......）」"
+
+msgid "Minori「Oh, I know! You just reminded me......」"
+msgstr "Minori「¡Ah, ya sé! Me acabas de recordar......」"
+
+msgid "Minori「You can have this photo.」"
+msgstr "Minori「Puedes quedarte con esta foto.」"
+
+msgid "Ryuuji「Photo......? O-Oh!」"
+msgstr "Ryuuji「¿Foto......? ¡A-Ah!」"
+
+msgid "Ryuuji「（That monster is running!　......Wait,＿that's me!）」"
+msgstr "Ryuuji「（¡Ese monstruo está＿corriendo!　......¡Espera, ese soy yo!）」"
+
+msgid "Ryuuji「（Kushieda is there too...... Maybe it's＿from the sports festival or＿something......?）」"
+msgstr "Ryuuji「（Kushieda también está ahí......＿¿Tal vez sea del festival deportivo＿o algo así......?）」"
+
+msgid "Minori「Does this photo remind you of＿anything?」"
+msgstr "Minori「¿Esta foto te recuerda algo?」"
+
+msgid "Ryuuji「......Sorry, no.」"
+msgstr "Ryuuji「......Lo siento, no.」"
+
+msgid "Minori「Oh, no worries. This photo is from the＿Culture Festival, bud.」"
+msgstr "Minori「Ah, no pasa nada. Esta foto es＿del Festival Cultural, amigo.」"
+
+msgid "Ryuuji「Culture Festival?」"
+msgstr "Ryuuji「¿Festival Cultural?」"
+
+msgid "Minori「Yup. It's just one scene from that＿event.」"
+msgstr "Minori「Sip. Es solo una escena de ese evento.」"
+
+msgid "Ryuuji「......Man, I look terrifying, don't I?」"
+msgstr "Ryuuji「......Caray, me veo aterrador, ¿no?」"
+
+msgid "Minori「No you don't! The Takasu-kun in this＿picture was giving it his best. I don't＿see anything terrifying about that.」"
+msgstr "Minori「¡Claro que no! El Takasu-kun de esta＿foto estaba dando lo mejor de sí. No＿veo nada de aterrador en eso.」"
+
+msgid "Ryuuji「O-Oh...... Thanks.」"
+msgstr "Ryuuji「A-Ah...... Gracias.」"
+
+msgid "Minori「......Whoops, I got a little too serious＿there. Hehehe.」"
+msgstr "Minori「......Uy, me puse demasiado＿seria. Jejeje.」"
+
+msgid "Ryuuji「But why do you have this photo?」"
+msgstr "Ryuuji「¿Pero por qué tienes esta foto?」"
+
+msgid "Minori「Well, I collect pictures of me, ya know.」"
+msgstr "Minori「Bueno, colecciono fotos mías, ¿sabes?」"
+
+msgid "Ryuuji「I mean, why do you have it right now?」"
+msgstr "Ryuuji「Digo que por qué la llevas ahora.」"
+
+msgid "Minori「Ohhh, my bad. I thought it would be＿good to have on hand when I tell＿Grandma about my classmates, see.」"
+msgstr "Minori「Ahhh, perdón. Pensé que sería bueno＿tenerla a mano para contarle a mi abuela＿sobre mis compañeros, ¿ves?」"
+
+msgid "Ryuuji「Wha...... You were going to show this＿pic to your granny, Kushieda?」"
+msgstr "Ryuuji「Qué...... ¿Ibas a mostrarle esta＿foto a tu abuelita, Kushieda?」"
+
+msgid "Minori「That was the plan, but I'll give it to you,＿Takasu-kun. It might give you an＿opportunity to remember something!」"
+msgstr "Minori「Ese era el plan, pero te la doy a＿ti, Takasu-kun. ¡Quizá te dé la＿oportunidad de recordar algo!」"
+
+msgid "Ryuuji「......I'm grateful, then.」"
+msgstr "Ryuuji「......Te lo agradezco, entonces.」"
+
+msgid "Minori「Yup yup. Nooow then, reckon I should＿get moving～」"
+msgstr "Minori「Sip, sip. Bueeeno, creo que＿ya debería irme yendo～」"
+
+msgid "Ryuuji「Okay. Sorry for holding you up.」"
+msgstr "Ryuuji「Está bien. Perdón por entretenerte.」"
+
+msgid "Minori「Don't you worry. Let us meet again,＿Takasu-kun.」"
+msgstr "Minori「No te preocupes. Volvamos＿a vernos, Takasu-kun.」"
+
+msgid "Ryuuji「Take care.」"
+msgstr "Ryuuji「Cuídate.」"
+
+msgid "Minori「Will dooo!」"
+msgstr "Minori「¡Eso harééé!」"
+
+msgid "Ryuuji「（......Oh, I should have asked her when＿she'll be back.）」"
+msgstr "Ryuuji「（......Ah, debí preguntarle＿cuándo volverá.）」"

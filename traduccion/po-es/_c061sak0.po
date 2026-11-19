@@ -1,0 +1,212 @@
+msgid ""
+msgstr ""
+
+msgid "Kota「Sakura-chaaan!」"
+msgstr "Kota「¡Sakura-chaaan!」"
+
+msgid "Sakura「Oh, Kota-kuuun～!」"
+msgstr "Sakura「¡Oh, Kota-kuuun～!」"
+
+msgid "Ryuuji「（Oh, it's those two......）」"
+msgstr "Ryuuji「（Ah, son ellos dos......）」"
+
+msgid "Kota「Thanks for waiting, Sakura-chan.」"
+msgstr "Kota「Gracias por esperar, Sakura-chan.」"
+
+msgid "Sakura「Nah, I hardly waited at all. You're 10＿minutes early.」"
+msgstr "Sakura「Para nada, casi ni esperé. Llegaste＿10 minutos antes.」"
+
+msgid "Kota「I had to run an errand, so I left the＿house a little earlier. I'm glad I made it＿here.」"
+msgstr "Kota「Tenía que hacer un recado, así＿que salí de casa un poco antes.＿Qué bien que llegué.」"
+
+msgid "Sakura「Ahaha! Kota-kun, you're such a＿worrywart～」"
+msgstr "Sakura「¡Ajaja! Kota-kun, siempre＿te preocupas de más～」"
+
+msgid "Kota「Well, Luxure is super popular these＿days! We're crazy lucky to have gotten＿free tickets!」"
+msgstr "Kota「¡Es que Luxure es superpopular＿últimamente! ¡Qué suerte tuvimos＿de conseguir entradas gratis!」"
+
+msgid "Kota「When that occurred to me, I thought＿some bad luck was sure to follow.」"
+msgstr "Kota「Cuando se me ocurrió eso, pensé que＿seguro vendría algo de mala suerte.」"
+
+msgid "Kota「No, don't make this any worse......」"
+msgstr "Kota「No, no empeores esto......」"
+
+msgid "Sakura「It's okay, Kota-kun! I'm here with you.＿Plus, our destination is in sight!」"
+msgstr "Sakura「¡Está bien, Kota-kun! Estoy contigo.＿¡Además, ya vemos nuestro destino!」"
+
+msgid "Kota「Y-You're right...... Aah, t-then did you＿forget anything!? I've already checked＿about 20 times so I think I'm okay!」"
+msgstr "Kota「T-Tienes razón...... ¡Aaah! ¡¿E-Entonces＿olvidaste algo?! Yo ya revisé unas 20＿veces, ¡así que creo que estoy bien!」"
+
+msgid "Kota「B-But......」"
+msgstr "Kota「P-Pero......」"
+
+msgid "Sakura「Hey Kota-kun, you're a little more＿paranoid than usual today. What＿happened?」"
+msgstr "Sakura「Oye, Kota-kun, hoy estás un poco más＿paranoico de lo normal. ¿Qué pasó?」"
+
+msgid "Kota「Well...... never mind......」"
+msgstr "Kota「Bueno...... no importa......」"
+
+msgid "Sakura「......Hmm?」"
+msgstr "Sakura「......¿Mmm?」"
+
+msgid "Kota「S-Sakura-chan...... Can you promise not＿to laugh if I tell you?」"
+msgstr "Kota「S-Sakura-chan...... ¿Prometes＿no reírte si te lo digo?」"
+
+msgid "Sakura「What is it?」"
+msgstr "Sakura「¿Qué pasa?」"
+
+msgid "Sakura「K-Kota-kun......」"
+msgstr "Sakura「K-Kota-kun......」"
+
+msgid "Kota「Umm...... When I pictured you in a＿swimsuit, I just couldn't calm down......＿D-Do you hate me?」"
+msgstr "Kota「Ehm...... Cuando te imaginé＿en traje de baño, no pude calmarme......＿¿M-Me odias?」"
+
+msgid "Kota「S-Sakura-chan......」"
+msgstr "Kota「S-Sakura-chan......」"
+
+msgid "Sakura「We're the same. My heart was＿pounding like crazy, too.」"
+msgstr "Sakura「Estamos igual. A mí también me＿latía el corazón como loco.」"
+
+msgid "Kota「I, I see...... Sorry, I know I have to be the＿dominant one.」"
+msgstr "Kota「Y-Ya veo...... Perdón, sé que tengo＿que ser el que tome la iniciativa.」"
+
+msgid "Sakura「No no, I'm the one who invited you, so＿it's okay, Kota-kun.」"
+msgstr "Sakura「No, no, yo fui quien te invitó, así＿que no pasa nada, Kota-kun.」"
+
+msgid "Kota「Sakura-chan......」"
+msgstr "Kota「Sakura-chan......」"
+
+msgid "Sakura「Kota-kun......」"
+msgstr "Sakura「Kota-kun......」"
+
+msgid "Kota「Sakura-chan, Sakura-chaaan......」"
+msgstr "Kota「Sakura-chan, Sakura-chaaan......」"
+
+msgid "Sakura「Kota-kun, Kota-kuuun～......」"
+msgstr "Sakura「Kota-kun, Kota-kuuun～......」"
+
+msgid "Ryuuji「（......!）」"
+msgstr "Ryuuji「（......!）」"
+
+msgid "Ryuuji「（W-Why the hell...... am I eavesdropping＿on other people getting frisky!?）」"
+msgstr "Ryuuji「（¡¿P-Por qué diablos...... estoy＿escuchando a otros poniéndose＿cariñosos?!）」"
+
+msgid "Ryuuji「（S-Still......）」"
+msgstr "Ryuuji「（A-Aun así......）」"
+
+msgid "Kota「Ahahahahaha! Take that!」"
+msgstr "Kota「¡Ajajajajaja! ¡Toma eso!」"
+
+msgid "Sakura「Ufufufufu! Nooo～!」"
+msgstr "Sakura「¡Ujujujuju! ¡Nooo～!」"
+
+msgid "Kota「Ahaha～」"
+msgstr "Kota「Ajaja～」"
+
+msgid "Sakura「Ufufu～」"
+msgstr "Sakura「Ujuju～」"
+
+msgid "Kota「Hah, hah!」"
+msgstr "Kota「¡Ja, ja!」"
+
+msgid "Sakura「Ufu, ufu!」"
+msgstr "Sakura「¡Uju, uju!」"
+
+msgid "Ryuuji「（A pool date... What an enviable＿situation for a healthy teenage guy like＿me... Ohh!）」"
+msgstr "Ryuuji「（Una cita en la piscina... Qué situación＿tan envidiable para un adolescente＿sano como yo... ¡Ohh!）」"
+
+msgid "Ryuuji「（Crap, I gotta cool off. I'll go check＿what's on sale at that supermarket......）」"
+msgstr "Ryuuji「（Rayos, debo calmarme. Iré＿a ver qué hay en oferta en＿ese supermercado......）」"
+
+msgid "Ryuuji「（I can see it -- Super Kanou-Mart's＿first-rate variety!）」"
+msgstr "Ryuuji「（¡Lo veo: la variedad de primera＿del Super Kanou-Mart!）」"
+
+msgid "Ryuuji「（As expected, it's impressively＿packed...... Wait, what?）」"
+msgstr "Ryuuji「（Como era de esperar, está repleto......＿Espera, ¿qué?）」"
+
+msgid "Ryuuji「（Why is he working? What about the＿date......?）」"
+msgstr "Ryuuji「（¿Por qué está trabajando?＿¿Y la cita......?）」"
+
+msgid "Sakura「I'm sorry, Kota-kun. I'll definitely pay＿you for your work.」"
+msgstr "Sakura「Lo siento, Kota-kun. Definitivamente＿te pagaré por tu trabajo.」"
+
+msgid "Kota「Oh, it's fine! This is nothing! Let's＿hurry, restock the store, and get out of＿here.」"
+msgstr "Kota「¡Oh, no pasa nada! ¡Esto no es＿nada! Apresurémonos a surtir la＿tienda y salgamos de aquí.」"
+
+msgid "Kota「Maybe...... my overexcitement caused＿it? Aww, I can't believe this is the＿shape my bad luck took......」"
+msgstr "Kota「¿Será que...... mi exceso de emoción lo＿causó? Ay, no puedo creer que así se＿manifestara mi mala suerte......」"
+
+msgid "Sakura「That's not true, Kota-kun!」"
+msgstr "Sakura「¡Eso no es cierto, Kota-kun!」"
+
+msgid "Kota「S-Sakura-chan?」"
+msgstr "Kota「¿S-Sakura-chan?」"
+
+msgid "Kota「Oh, ohhh...... S-Sakura-chan......」"
+msgstr "Kota「Oh, ohhh...... S-Sakura-chan......」"
+
+msgid "Sakura「Thanks, Kota-kun①」"
+msgstr "Sakura「Gracias, Kota-kun①」"
+
+msgid "Kota「Aww, Sakura-chan......＿Sakura-chaaan......」"
+msgstr "Kota「Ay, Sakura-chan......＿Sakura-chaaan......」"
+
+msgid "Sakura「Kota-kun, Kota-kuuun～......」"
+msgstr "Sakura「Kota-kun, Kota-kuuun～......」"
+
+msgid "Kota「Ahahahaha☆」"
+msgstr "Kota「Ajajajaja☆」"
+
+msgid "Sakura「Ufufufufu①」"
+msgstr "Sakura「Ujujujuju①」"
+
+msgid "Ryuuji「（......Do your job.）」"
+msgstr "Ryuuji「（......Haz tu trabajo.）」"
+
+msgid "Sakura「But since Luxure happens to be in the＿same town, I only got them because＿they were being handed out in the」"
+msgstr "Sakura「Pero como Luxure está en la misma＿ciudad, solo las conseguí porque＿las estaban repartiendo en el」"
+
+msgid "Sakura「neighborhood.」"
+msgstr "Sakura「vecindario.」"
+
+msgid "Sakura「Ahahaha! Kota-kun, you're＿overthinking it～! I live right there. If I＿forgot anything, I could just go back」"
+msgstr "Sakura「¡Ajaja! ¡Kota-kun, piensas demasiado～!＿Vivo ahí mismo. Si olvidara algo,＿podría volver」"
+
+msgid "Sakura「for it～」"
+msgstr "Sakura「a buscarlo～」"
+
+msgid "Kota「Truth is...... I got so horny thinking＿about going to the pool with you that＿my heart started racing, and it caused」"
+msgstr "Kota「La verdad...... ¡Me excité tanto al＿pensar en ir contigo a la piscina que＿el corazón se me aceleró y eso causó」"
+
+msgid "Kota「even more bad luck......!」"
+msgstr "Kota「aún más mala suerte......!」"
+
+msgid "Sakura「No, it's the same for me. Swimsuits are＿embarrassing for sure, but I had these＿naughty thoughts wanting you to see」"
+msgstr "Sakura「No, a mí me pasó igual. Los trajes de＿baño dan vergüenza, claro, pero tuve＿esos pensamientos atrevidos queriendo」"
+
+msgid "Sakura「me in one...... It's true!」"
+msgstr "Sakura「que me vieras en uno...... ¡Es verdad!」"
+
+msgid "Ryuuji「（W-What am I fantasizing about!? Some＿guy's girlfriend's swimsuit!? Although,＿a school swimsuit...... Well, that's just）」"
+msgstr "Ryuuji「（¡¿C-Con qué estoy fantaseando?! ¡¿El＿traje de baño de la novia de otro?!＿Aunque un traje escolar...... Bueno, es）」"
+
+msgid "Ryuuji「（my best guess...... Wait, that's not it!）」"
+msgstr "Ryuuji「（solo una suposición......＿¡Espera, no es eso!）」"
+
+msgid "Ryuuji「（This isn't cooling me off -- rather, I'm＿getting worked up! I remember now.＿This is the rumored number-one local）」"
+msgstr "Ryuuji「（Esto no me calma, ¡al contrario, me＿excita más! Ya lo recuerdo. ¡Esta es＿la famosa tienda número uno del）」"
+
+msgid "Ryuuji「（shop!）」"
+msgstr "Ryuuji「（barrio!）」"
+
+msgid "Sakura「But I wonder how the store got this＿packed all of a sudden. Dad even had＿to call me directly to ask for help.」"
+msgstr "Sakura「Pero me pregunto cómo se llenó así la＿tienda de repente. Papá hasta tuvo que＿llamarme directamente para pedir ayuda.」"
+
+msgid "Sakura「That's not normal at all.」"
+msgstr "Sakura「Eso no es nada normal.」"
+
+msgid "Sakura「Just look. We're thriving! If you caused＿this, it means you gave us mega-lucky＿prosperity in business! Like a lucky」"
+msgstr "Sakura「¡Mira cómo prosperamos! Si fue por ti,＿¡nos trajiste muchísima suerte en el＿negocio! ¡Como un」"
+
+msgid "Sakura「cat～!!」"
+msgstr "Sakura「gato de la suerte～!!」"

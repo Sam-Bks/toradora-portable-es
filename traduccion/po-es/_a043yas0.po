@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+
+msgid "???「RYUU-CHAAAAAN!!」"
+msgstr "???「¡RYUU-CHAAAAAN!!」"
+
+msgid "Ryuuji「（Oh!?）」"
+msgstr "Ryuuji「（¡¿Eh?!）」"
+
+msgid "Ryuuji「Wait, you're getting the wrong idea＿here.」"
+msgstr "Ryuuji「Espera, te estás haciendo＿una idea equivocada.」"
+
+msgid "Yasuko「But～ But～～」"
+msgstr "Yasuko「Pero～ Pero～～」"
+
+msgid "Ryuuji「D-Don't cry! Rest assured it was only a＿nosebleed. I only bled from my nose,＿and I didn't upset anyone!」"
+msgstr "Ryuuji「¡N-No llores! Tranquila, solo fue un＿sangrado de nariz. ¡Solo me sangró la＿nariz y no hice enojar a nadie!」"
+
+msgid "Yasuko「R-Really?」"
+msgstr "Yasuko「¿D-De verdad?」"
+
+msgid "Ryuuji「Yes, really. I'm still alive, aren't I?」"
+msgstr "Ryuuji「Sí, de verdad. Sigo vivo, ¿no?」"
+
+msgid "Yasuko「R-Reallyyy? What a relief～ Goodness,＿what a frighttt. Thought the fortune＿slip had come trueee.」"
+msgstr "Yasuko「¿D-De verdaddd? Qué alivio～ Cielos,＿qué sustooo. Pensé que el papel de＿la fortuna se había cumplidooo.」"
+
+msgid "Ryuuji「Fortune slip?」"
+msgstr "Ryuuji「¿Papel de la fortuna?」"
+
+msgid "Ryuuji「Ohh! G-Great misfortune......」"
+msgstr "Ryuuji「¡Ohh! G-Gran infortunio......」"
+
+msgid "Yasuko「......But, myaha～☆」"
+msgstr "Yasuko「......Pero, miajá～☆」"
+
+msgid "Ryuuji「No, not \"myaha\"! Why are you carrying＿this around? You tie bad fortune slips＿to trees at the shrine.」"
+msgstr "Ryuuji「¡No, nada de \"miajá\"! ¿Por qué llevas＿esto contigo? Los papeles de mala suerte＿se atan a los árboles del santuario.」"
+
+msgid "Yasuko「So Yacchan thought she must be lucky＿after all ① Ryuu-chan's alive and＿kicking, after all.」"
+msgstr "Yasuko「Así que Yacchan pensó que al final＿sí tenía suerte ① Ryuu-chan sigue vivo＿y coleando, después de todo.」"
+
+msgid "Ryuuji「Don't just go along with it......」"
+msgstr "Ryuuji「No lo dejes pasar así como así......」"
+
+msgid "Ryuuji「It's not amazing, it's horrible! Go attach＿it somewhere right now!」"
+msgstr "Ryuuji「¡No es increíble, es horrible! ¡Ve a＿atarlo en algún lado ahora mismo!」"
+
+msgid "Yasuko「It's only naturalll. Taiga-chan is an＿equally important member of＿Ryuu-chan and Yacchan's love nest☆」"
+msgstr "Yasuko「Es lo naturalll. Taiga-chan es un＿miembro igual de importante del nido＿de amor de Ryuu-chan y Yacchan☆」"
+
+msgid "Ryuuji「Is that all it takes to be a member......?」"
+msgstr "Ryuuji「¿Eso basta para ser miembro......?」"
+
+msgid "Yasuko「It would be great if we got even MORE＿memberrrs～ Yacchan is SUPER＿exciteddd～」"
+msgstr "Yasuko「Sería genial si tuviéramos aún＿MÁS miembrosss～ Yacchan está＿SÚPER emocionadaaa～」"
+
+msgid "Ryuuji「More? How would we get MORE?」"
+msgstr "Ryuuji「¿Más? ¿Cómo tendríamos MÁS?」"
+
+msgid "Yasuko「Well, obviously...... Ufufu①」"
+msgstr "Yasuko「Pues, obviamente...... Jejeje①」"
+
+msgid "Ryuuji「（J-Just now, an intense shiver ran＿down my spine......!!）」"
+msgstr "Ryuuji「（¡A-Ahora mismo, un escalofrío intenso＿me recorrió toda la espalda......!!）」"
+
+msgid "Yasuko「You know, this fortune slip does have＿one good thing written on it. Here,＿look.」"
+msgstr "Yasuko「¿Sabes?, este papel de la fortuna sí＿tiene algo bueno escrito. Toma, mira.」"
+
+msgid "Ryuuji「Hm? \"Marriage\"?」"
+msgstr "Ryuuji「¿Mm? ¿\"Matrimonio\"?」"
+
+msgid "Yasuko「\"Marriage: You will likely be blessed＿with children.\" ① Yacchan can't wait,＿gansu♪」"
+msgstr "Yasuko「\"Matrimonio: Es muy probable que seas＿bendecido con hijos.\" ① Yacchan ya＿no puede esperar, gansu♪」"
+
+msgid "Ryuuji「......\"Blessed with children\" means...... I'm＿begging you, go put that up!!」"
+msgstr "Ryuuji「......\"Bendecido con hijos\"＿significa...... ¡Te lo ruego,＿ve a atar eso!!」"
+
+msgid "Yasuko「Myaha ☆ Can't tie things very well with＿the less dominant hand, sorry～＿Bye-byeee!」"
+msgstr "Yasuko「Miajá ☆ No sé atar muy bien＿las cosas con la mano menos＿hábil, perdón～ ¡Adióooos!」"
+
+msgid "Ryuuji「（Children...... Lots of puppies......?）」"
+msgstr "Ryuuji「（Hijos...... ¿Muchos perritos......?）」"
+
+msgid "Ryuuji「（Ugh, I just remembered that nightmare＿from this morning......）」"
+msgstr "Ryuuji「（Ugh, acabo de recordar esa pesadilla＿de esta mañana......）」"
+
+msgid "Yasuko「W-What happened to your＿clooothes～? You're covered in＿b-blood...... Was it the mafia? They cut」"
+msgstr "Yasuko「¿Q-Qué le pasó a tu rooopa～? Estás＿cubierto de s-sangre...... ¿Fue＿la mafia? ¿Te cortaron」"
+
+msgid "Yasuko「off a finger? It's gone for good?」"
+msgstr "Yasuko「un dedo? ¿Lo perdiste para siempre?」"
+
+msgid "Yasuko「Umm, well～ Yacchan just got back＿from going to celebrate Hatsumode＿with the hostess girrrls. We drew」"
+msgstr "Yasuko「Ehm, bueno～ Yacchan acaba de volver＿de celebrar el Hatsumode con las＿chicasss del bar. Sacamos」"
+
+msgid "Yasuko「fortune slips～ Look, lookkk!」"
+msgstr "Yasuko「papeles de la fortuna～ ¡Mira, miraaa!」"
+
+msgid "Yasuko「\"Desire: wishing is useless. Travel:＿your socks will get holes. Strife: cry＿and apologize. Study: you'll forget」"
+msgstr "Yasuko「\"Deseo: desear es inútil. Viaje: tus＿calcetines se romperán. Disputa: llora＿y discúlpate. Estudio: lo olvidarás」"
+
+msgid "Yasuko「everything. Disease: communicate with＿the dead.」"
+msgstr "Yasuko「todo. Enfermedad: comunícate＿con los muertos.」"
+
+msgid "Yasuko「Right. Yacchan thought so too, but the＿hostess girls said \"This is so rare! It's＿even more valuable than Great」"
+msgstr "Yasuko「Cierto. Yacchan pensó lo mismo, pero＿las chicas del bar dijeron: \"¡Es＿tan raro! ¡Vale incluso más que Gran」"
+
+msgid "Yasuko「Fortune!\"」"
+msgstr "Yasuko「Fortuna!\"」"
+
+msgid "Yasuko「Besides! \"If on the off chance you draw＿Great Misfortune, please attach it＿using your less dominant hand\" was」"
+msgstr "Yasuko「¡Además! \"Si por remota casualidad sacas＿Gran Infortunio, por favor átalo con＿tu mano menos hábil\" estaba」"
+
+msgid "Yasuko「written on the notice board. Isn't that＿amazing～? It was an off chanceee!」"
+msgstr "Yasuko「escrito en el tablero de avisos.＿¿No es increíble～? ¡Fue una＿remota casualidaddd!」"
+
+msgid "Yasuko「Whaaat～? This fortune slip is a＿keepsake from standing in line and＿praying for Ryuu-chan and Yacchan」"
+msgstr "Yasuko「¿Quéee～? Este papel de la fortuna＿es un recuerdo de hacer fila y＿rezar por Ryuu-chan y Yacchan」"
+
+msgid "Yasuko「and Inko-chan and Taiga-chan.」"
+msgstr "Yasuko「e Inko-chan y Taiga-chan.」"
+
+msgid "Ryuuji「Now it's even worse! ......Wait, I can＿understand praying for me and＿Inko-chan, but why was Taiga part of」"
+msgstr "Ryuuji「¡Ahora es aún peor! ......Espera,＿entiendo que reces por mí e Inko-chan,＿pero ¿por qué Taiga era parte de」"
+
+msgid "Ryuuji「that?」"
+msgstr "Ryuuji「eso?」"

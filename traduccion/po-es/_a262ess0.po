@@ -1,0 +1,314 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「Hello, this is Dragon.」"
+msgstr "Ryuuji「Hola, aquí Dragón.」"
+
+msgid "Ami「Hello. This is Venus. What's the sitch,＿Dragon?」"
+msgstr "Ami「Hola. Aquí Venus. ¿Cuál＿es el reporte, Dragón?」"
+
+msgid "Ryuuji「Things are going smoothly, Venus......＿Wait, is there a meaning to my＿codename?」"
+msgstr "Ryuuji「Todo marcha sobre ruedas, Venus......＿Espera, ¿mi nombre en clave tiene＿algún significado?」"
+
+msgid "Ami「It fits the mood...... Ah, Tiger spotted, 3＿o'clock～」"
+msgstr "Ami「Va con el ambiente...... Ah,＿Tigre avistado, a las 3～」"
+
+msgid "Ryuuji「Hm......?」"
+msgstr "Ryuuji「¿Mmm......?」"
+
+msgid "Kitamura「There's still some time before the＿show starts. Did we get here a little too＿early, perhaps?」"
+msgstr "Kitamura「Todavía falta tiempo para que empiece＿la función. ¿Habremos llegado demasiado＿temprano, quizá?」"
+
+msgid "Taiga「N-Not at all. I, I think we're right on＿time!」"
+msgstr "Taiga「P-Para nada. ¡Y-Yo creo que＿llegamos justo a tiempo!」"
+
+msgid "Kitamura「It's just like the rumors said. This＿lobby has a great atmosphere to it.」"
+msgstr "Kitamura「Es tal como decían los rumores. Este＿vestíbulo tiene un gran ambiente.」"
+
+msgid "Taiga「Y-Yeah, it's questionable to say the＿least! I'm glad I came too!」"
+msgstr "Taiga「¡S-Sí, es cuestionable por decir lo＿menos! ¡También me alegra haber venido!」"
+
+msgid "Taiga「I know of a great place to sit! I'll guide＿you there!」"
+msgstr "Taiga「¡Conozco un gran lugar para sentarse!＿¡Te guiaré hasta allá!」"
+
+msgid "Kitamura「What? Have you been here before,＿Aisaka?」"
+msgstr "Kitamura「¿Qué? ¿Ya habías venido antes, Aisaka?」"
+
+msgid "Taiga「Uhh......」"
+msgstr "Taiga「Ehh......」"
+
+msgid "Kitamura「No matter. If you know where to sit,＿then by all means, show me the way.」"
+msgstr "Kitamura「No importa. Si sabes dónde＿sentarnos, entonces adelante,＿muéstrame el camino.」"
+
+msgid "Taiga「L-Leave it to me!」"
+msgstr "Taiga「¡D-Déjamelo a mí!」"
+
+msgid "Ryuuji「Seems like it's going well......」"
+msgstr "Ryuuji「Parece que va bien......」"
+
+msgid "Kota「Sakura-chan, hurry, hurry～」"
+msgstr "Kota「Sakura-chan, rápido, rápido～」"
+
+msgid "Sakura「Grr! Kota-kun, wait for meee～」"
+msgstr "Sakura「¡Grr! ¡Kota-kun, espérameee～」"
+
+msgid "Ryuuji「Oh, the decoys are here.」"
+msgstr "Ryuuji「Ah, llegaron los señuelos.」"
+
+msgid "Sakura「I'm just glad we're on time! I'm a little＿sweaty.」"
+msgstr "Sakura「¡Qué alivio que llegamos＿a tiempo! Sudé un poco.」"
+
+msgid "Kota「Sorry, that plush toy I won was slowing＿you down......」"
+msgstr "Kota「Perdón, ese peluche que gané＿te estaba retrasando......」"
+
+msgid "Sakura「No, the way you handled the crane was＿amazing, Kota-kun! I'll cherish this＿rabbit you gave me.」"
+msgstr "Sakura「¡No, cómo manejaste la garra fue＿increíble, Kota-kun! Cuidaré mucho＿este conejo que me diste.」"
+
+msgid "Kota「Ehehe, okay...... Hey, Sakura-chan.」"
+msgstr "Kota「Jejeje, claro...... Oye, Sakura-chan.」"
+
+msgid "Sakura「What is it?」"
+msgstr "Sakura「¿Qué pasa?」"
+
+msgid "Kota「......Let's hold hands.」"
+msgstr "Kota「......Tomémonos de la mano.」"
+
+msgid "Sakura「......! O-Okay......」"
+msgstr "Sakura「......! E-Está bien......」"
+
+msgid "Ami「Tiger's in position. Third seat from the＿front. She's as stiff as always. Things＿look SUPER risky.」"
+msgstr "Ami「Tigre está en posición. Tercer asiento＿desde el frente. Está tan tiesa como＿siempre. Esto se ve SÚPER arriesgado.」"
+
+msgid "Ryuuji「As long as everything's going as＿planned...... By the way, Kawashima-- er,＿Venus, where are you?」"
+msgstr "Ryuuji「Mientras todo marche según el plan......＿Por cierto, Kawashima-- digo, Venus,＿¿dónde estás?」"
+
+msgid "Ami「In the VIP room ① The view is epic!＿The people below look like ants from＿here!」"
+msgstr "Ami「En la sala VIP ① ¡La vista es＿épica! ¡La gente de abajo parece＿hormigas desde aquí!」"
+
+msgid "Ryuuji「I see......」"
+msgstr "Ryuuji「Ya veo......」"
+
+msgid "Sumire「HEY! Takasu!」"
+msgstr "Sumire「¡OYE! ¡Takasu!」"
+
+msgid "Ryuuji「Oh, hey!」"
+msgstr "Ryuuji「¡Ah, hola!」"
+
+msgid "Sumire「That Kota bastard...... Showing off their＿fuckin' hand-holding.」"
+msgstr "Sumire「Ese desgraciado de Kota......＿Presumiendo que van tomados＿de la maldita mano.」"
+
+msgid "Ryuuji「So you ARE concerned about them,＿huh?」"
+msgstr "Ryuuji「Así que SÍ te preocupan, ¿eh?」"
+
+msgid "Sumire「Did you say something?」"
+msgstr "Sumire「¿Dijiste algo?」"
+
+msgid "Ryuuji「......Nothing at all.」"
+msgstr "Ryuuji「......Nada de nada.」"
+
+msgid "Ryuuji「Where would you like to sit?」"
+msgstr "Ryuuji「¿Dónde te gustaría sentarte?」"
+
+msgid "Sumire「I don't really care where we sit...... What＿strangely indecent seating, these＿\"loveseats.\"」"
+msgstr "Sumire「No me importa dónde sentarnos......＿Qué asientos tan extrañamente＿indecentes, estos \"sofás dobles\".」"
+
+msgid "Ryuuji「That's the point......」"
+msgstr "Ryuuji「Esa es la idea......」"
+
+msgid "Ryuuji「Ohh! That seat looks good, third from＿the front! From that angle, we can＿keep an eye on Tomii...... Ugghh!!」"
+msgstr "Ryuuji「¡Ohh! ¡Ese asiento se ve bien, tercero＿desde el frente! Desde ese ángulo＿podemos vigilar a Tomii...... ¡¡Uggg!!」"
+
+msgid "Sumire「Hm? What's wrong?」"
+msgstr "Sumire「¿Mmm? ¿Qué pasa?」"
+
+msgid "Ryuuji「（K-Kitamura stood up instead of Taiga!＿What the hell is Taiga doing!? And＿Kitamura, he's walking this way......!）」"
+msgstr "Ryuuji「（¡K-Kitamura se levantó en vez de Taiga!＿¡¿Qué diablos hace Taiga?! ¡Y Kitamura＿viene hacia acá......!）」"
+
+msgid "Ryuuji「（It's from Kawashima...... Please help me!）」"
+msgstr "Ryuuji「（Es de Kawashima......＿¡Por favor, ayúdame!）」"
+
+msgid "Ryuuji「O-OKAY!」"
+msgstr "Ryuuji「¡E-ESTÁ BIEN!」"
+
+msgid "Ryuuji「（Crap, Kitamura's coming......!）」"
+msgstr "Ryuuji「（¡Rayos, viene Kitamura......!）」"
+
+msgid "Ryuuji「Senpai, never mind about that seat!＿Let's sit here! Please sit down, right＿now!」"
+msgstr "Ryuuji「¡Senpai, olvida ese asiento!＿¡Sentémonos aquí! ¡Por favor,＿siéntate ahora mismo!」"
+
+msgid "Sumire「Whoa! That hurt!」"
+msgstr "Sumire「¡Uah! ¡Eso dolió!」"
+
+msgid "Ryuuji「Put these sunglasses on and chill out＿here for a bit, please! I...... I'm gonna＿buy some, uh, juice!」"
+msgstr "Ryuuji「¡Ponte estos lentes de sol y quédate＿aquí un momento, por favor! Yo......＿¡voy a comprar algo de, ehm, jugo!」"
+
+msgid "Sumire「Hey, Takasu!」"
+msgstr "Sumire「¡Oye, Takasu!」"
+
+msgid "Ryuuji「Whew......」"
+msgstr "Ryuuji「Uff......」"
+
+msgid "Ryuuji「（Arrrgh, all I could think of was to get＿Senpai to that specific seat...... I'm such＿a moron!）」"
+msgstr "Ryuuji「（Aaaagh, lo único en que pensé fue＿en llevar a Senpai a ese asiento en＿concreto...... ¡Soy un idiota!）」"
+
+msgid "Ryuuji「......Hm?」"
+msgstr "Ryuuji「......¿Mmm?」"
+
+msgid "Kitamura「......」"
+msgstr "Kitamura「......」"
+
+msgid "Sumire「......」"
+msgstr "Sumire「......」"
+
+msgid "Ryuuji「（They're......）」"
+msgstr "Ryuuji「（Ellos......）」"
+
+msgid "Kitamura「Prez--」"
+msgstr "Kitamura「Presidenta--」"
+
+msgid "Sumire「You're the Prez, not me. Long time no＿see.」"
+msgstr "Sumire「Tú eres el Presidente, no yo.＿Cuánto tiempo sin vernos.」"
+
+msgid "Kitamura「......Yeah. You look well, Prez.」"
+msgstr "Kitamura「......Sí. Te ves bien, Presidenta.」"
+
+msgid "Sumire「Like I said, I'm not the Prez.」"
+msgstr "Sumire「Ya te dije que no soy la Presidenta.」"
+
+msgid "Kitamura「............」"
+msgstr "Kitamura「............」"
+
+msgid "Ryuuji「（Kitamura......）」"
+msgstr "Ryuuji「（Kitamura......）」"
+
+msgid "Ryuuji「（Did it...... work out after all?）」"
+msgstr "Ryuuji「（¿Al final...... sí funcionó?）」"
+
+msgid "Loudspeaker「Thank you for waiting. The show will＿now begin. Everyone, please take your＿seats and look at the screen.」"
+msgstr "Altavoz「Gracias por esperar. La función está＿por comenzar. Por favor, tomen asiento＿y miren hacia la pantalla.」"
+
+msgid "Ryuuji「Whew...... What a relief......」"
+msgstr "Ryuuji「Uff...... Qué alivio......」"
+
+msgid "Ryuuji「（For now, I'll go take my time＿stargazing, I guess......）」"
+msgstr "Ryuuji「（Por ahora, supongo que iré a ver＿las estrellas con calma......）」"
+
+msgid "???「Is anyone sitting here?」"
+msgstr "???「¿Está ocupado este asiento?」"
+
+msgid "Ryuuji「No, go ahead...... Whaa?!」"
+msgstr "Ryuuji「No, adelante...... ¡¿Quéé?!」"
+
+msgid "Sumire「I'll go ahead, then.」"
+msgstr "Sumire「Con permiso, entonces.」"
+
+msgid "Ryuuji「W-Why?」"
+msgstr "Ryuuji「¿P-Por qué?」"
+
+msgid "Ryuuji「That's not important! Kitamura......」"
+msgstr "Ryuuji「¡Eso no importa! Kitamura......」"
+
+msgid "Sumire「......Went back to sit with Aisaka. I've＿figured out what you fuckers were up＿to, stupid.」"
+msgstr "Sumire「......Volvió a sentarse con＿Aisaka. Ya descubrí qué demonios＿tramaban, imbécil.」"
+
+msgid "Ryuuji「T-That's......」"
+msgstr "Ryuuji「E-Eso es......」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Sumire「Let's go. Follow me.」"
+msgstr "Sumire「Vámonos. Sígueme.」"
+
+msgid "Ryuuji「Uh, wait......」"
+msgstr "Ryuuji「Eh, espera......」"
+
+msgid "Ryuuji「I just gotta call Kawashima...... Wait, my＿cell phone got taken away!」"
+msgstr "Ryuuji「Solo tengo que llamar a Kawashima......＿¡Espera, me quitó el teléfono!」"
+
+msgid "Ryuuji「......At this point, I have no choice but to＿go after Senpai......!」"
+msgstr "Ryuuji「......A estas alturas, ¡no me queda otra＿opción que ir tras Senpai......!」"
+
+msgid "Ryuuji「Senpai! Kanou-senpai, where are you!?」"
+msgstr "Ryuuji「¡Senpai! Kanou-senpai, ¡¿dónde estás?!」"
+
+msgid "Ryuuji「She's not here...... Shit, where did she＿go?」"
+msgstr "Ryuuji「No está aquí...... Maldición,＿¿a dónde se fue?」"
+
+msgid "Ryuuji「（Where else is Kanou Sumire likely to＿go......?）」"
+msgstr "Ryuuji「（¿A qué otro lugar podría haber＿ido Kanou Sumire......?）」"
+
+msgid "Ryuuji「......Only one place comes to mind.」"
+msgstr "Ryuuji「......Solo se me ocurre un lugar.」"
+
+msgid "Kitamura「I feel bad that Takasu's stuck in bed,＿but I'm glad I got to come here with＿you, Aisaka. Coming here with another」"
+msgstr "Kitamura「Me da pena que Takasu esté en cama, pero＿me alegra poder venir contigo, Aisaka.＿Venir aquí con otro」"
+
+msgid "Kitamura「guy is a little weird.」"
+msgstr "Kitamura「chico resulta un poco raro.」"
+
+msgid "Kitamura「Ha ha ha. It's just like you to agree with＿me. Now then, it would appear we can＿sit and wait inside rather than out」"
+msgstr "Kitamura「Ja, ja, ja. Es tan propio de ti darme la＿razón. Bueno, podemos sentarnos a＿esperar adentro en vez de aquí」"
+
+msgid "Kitamura「here in the lobby. Let's go.」"
+msgstr "Kitamura「en el vestíbulo. Vamos.」"
+
+msgid "Kota「We made it......! Ack, sorry, looks like I＿was 10 minutes off about the start＿time.」"
+msgstr "Kota「¡Llegamos......! Ay, perdón, parece＿que me equivoqué por 10 minutos＿con la hora de inicio.」"
+
+msgid "Kota「We could have taken our time walking＿here with no problem.」"
+msgstr "Kota「Pudimos venir caminando con＿calma sin ningún problema.」"
+
+msgid "Sumire「I thought you were in the restroom.＿What the hell are you muttering about＿over here? We're going inside.」"
+msgstr "Sumire「Pensé que estabas en el baño.＿¿Qué diablos estás murmurando＿por aquí? Vamos adentro.」"
+
+msgid "Sumire「Look, Sakura and Kota are here too!」"
+msgstr "Sumire「¡Mira, también están Sakura y Kota!」"
+
+msgid "Ryuuji「（According to the plan, Taiga will＿casually get up and leave Kitamura＿sitting alone...... and I'll put Kanou）」"
+msgstr "Ryuuji「（Según el plan, Taiga se levantará con＿naturalidad y dejará a Kitamura sentado＿solo...... ¡y pondré a Kanou）」"
+
+msgid "Ryuuji「（Sumire in her place!）」"
+msgstr "Ryuuji「（Sumire en su lugar!）」"
+
+msgid "Sumire「Damn you Takasu, it's common sense＿to turn your phone off in a place like＿this! I'm confiscating that, so fuckin'」"
+msgstr "Sumire「Maldito Takasu, ¡apagar el teléfono aquí＿es de sentido común! Te lo confisco,＿¡así que, maldición,」"
+
+msgid "Sumire「hand it over!!」"
+msgstr "Sumire「dámelo!!」"
+
+msgid "Ryuuji「（That was bad...... As long as＿Kanou-senpai wears those sunglasses,＿Kitamura shouldn't recognize her......）」"
+msgstr "Ryuuji「（Eso estuvo mal...... Mientras＿Kanou-senpai use esos lentes de sol,＿Kitamura no debería reconocerla......）」"
+
+msgid "Ryuuji「（Wait.）」"
+msgstr "Ryuuji「（Espera.）」"
+
+msgid "Ryuuji「（......Was there really any need to have＿Kanou-senpai wear the sunglasses? I＿totally could have just let Kitamura run）」"
+msgstr "Ryuuji「（......¿De verdad hacía falta que＿Kanou-senpai usara los lentes de sol?＿Bien pude dejar que Kitamura se topara）」"
+
+msgid "Ryuuji「（into her by chance...... right?）」"
+msgstr "Ryuuji「（con ella por casualidad...... ¿verdad?）」"
+
+msgid "Sumire「You know why. I told you I would＿\"volunteer to help you get your＿memory back\" so I'm spending time」"
+msgstr "Sumire「Sabes por qué. Dije que me \"ofrecería a＿ayudarte a recuperar la memoria\", así＿que paso el rato」"
+
+msgid "Sumire「with you.」"
+msgstr "Sumire「contigo.」"
+
+msgid "Sumire「I'm sure you were planning to do＿something stupid like try to hook me＿up with Kitamura. You guys are so」"
+msgstr "Sumire「Seguro planeabas hacer una estupidez＿como tratar de juntarme con Kitamura.＿Ustedes son tan」"
+
+msgid "Sumire「meddlesome.」"
+msgstr "Sumire「entrometidos.」"
+
+msgid "Sumire「Listen, Takasu. I know the show has＿only just started, but would you step＿outside? I'd like to have a nice long」"
+msgstr "Sumire「Escucha, Takasu. Sé que la función＿apenas empezó, pero ¿saldrías un＿momento? Me gustaría tener una larga」"
+
+msgid "Sumire「talk with you.」"
+msgstr "Sumire「charla contigo.」"
+
+msgid "Ryuuji「（I've completely lost sight of her...... I＿searched inside Luxure to no avail......＿Is this what they call \"catch me if you）」"
+msgstr "Ryuuji「（La perdí por completo de vista......＿Busqué dentro de Luxure sin éxito......＿¿A esto le llaman \"atrápame si）」"
+
+msgid "Ryuuji「（can\"?）」"
+msgstr "Ryuuji「（puedes\"?）」"

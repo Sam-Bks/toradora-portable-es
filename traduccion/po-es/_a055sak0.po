@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+
+msgid "Ami「Hmmm? Look, look. Isn't that the＿younger of the Kanou sisters walking＿over there?」"
+msgstr "Ami「¿Mmmm? Miren, miren. ¿Esa que va＿caminando por allá no es la menor＿de las hermanas Kanou?」"
+
+msgid "Ryuuji「Oh, it really is.」"
+msgstr "Ryuuji「Ah, es verdad.」"
+
+msgid "Taiga「......She looks weird. Did she always＿have that dark aura hovering over＿her?」"
+msgstr "Taiga「......Se ve rara. ¿Siempre ha tenido esa＿aura oscura flotando sobre ella?」"
+
+msgid "Ryuuji「No, if anything her aura used to be＿bright pink...... Hmm? Tomiie should've＿invited her to Luxure, right?」"
+msgstr "Ryuuji「No, al contrario, antes su aura era rosa＿brillante...... ¿Mmm? Tomiie ya debió＿haberla invitado a Luxure, ¿no?」"
+
+msgid "Ami「Don't. Tell. Me. That Misfortune＿Incarnate failed to ask her out on a＿date!? Ami-chan worked hard for this!」"
+msgstr "Ami「No. Me. Digas. ¡¿Que esa Desgracia＿Encarnada no logró invitarla a una＿cita?! ¡Ami-chan se esforzó para esto!」"
+
+msgid "Ryuuji「That can't be......」"
+msgstr "Ryuuji「No puede ser......」"
+
+msgid "Taiga「Yeah, but it's Tomiie Kota.」"
+msgstr "Taiga「Sí, pero es Tomiie Kota.」"
+
+msgid "Ryuuji「I'm gonna go ask her. You guys wait＿here.」"
+msgstr "Ryuuji「Voy a preguntarle. Ustedes esperen aquí.」"
+
+msgid "Ryuuji「Heeey, Kanou!」"
+msgstr "Ryuuji「¡Oyeee, Kanou!」"
+
+msgid "Sakura「Takasu-senpai......」"
+msgstr "Sakura「Takasu-senpai......」"
+
+msgid "Ryuuji「W-What's got you looking so sullen?」"
+msgstr "Ryuuji「¿P-Por qué te ves tan sombría?」"
+
+msgid "Sakura「......Do I really look sullen?」"
+msgstr "Sakura「......¿De verdad me veo sombría?」"
+
+msgid "Ryuuji「Yeah, incredibly. Did something bad＿happen?」"
+msgstr "Ryuuji「Sí, muchísimo. ¿Pasó algo malo?」"
+
+msgid "Sakura「No, not at all.」"
+msgstr "Sakura「No, para nada.」"
+
+msgid "Ryuuji「Then what's wrong?」"
+msgstr "Ryuuji「¿Entonces qué pasa?」"
+
+msgid "Sakura「......I'm happy.」"
+msgstr "Sakura「......Estoy feliz.」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Sakura「So when Kota-kun said he had tickets,＿I was overjoyed.」"
+msgstr "Sakura「Así que cuando Kota-kun dijo que tenía＿entradas, me alegré muchísimo.」"
+
+msgid "Ryuuji「Then why on earth do you look so＿sullen?」"
+msgstr "Ryuuji「¿Entonces por qué demonios＿te ves tan sombría?」"
+
+msgid "Sakura「Well......! If I get my hopes up, Kota-kun＿might cancel the date again.」"
+msgstr "Sakura「¡Bueno......! Si me ilusiono, Kota-kun＿podría cancelar la cita otra vez.」"
+
+msgid "Ryuuji「......What do you mean?」"
+msgstr "Ryuuji「......¿A qué te refieres?」"
+
+msgid "Sakura「Kota-kun is convinced that whenever＿something good happens to him,＿something bad will happen soon after.」"
+msgstr "Sakura「Kota-kun está convencido de que cada＿vez que le pasa algo bueno, enseguida＿le pasará algo malo.」"
+
+msgid "Sakura「So, just before our first date, he told＿me \"Never mind, I can't go.\"」"
+msgstr "Sakura「Por eso, justo antes de nuestra＿primera cita, me dijo: \"Olvídalo,＿no puedo ir\".」"
+
+msgid "Ryuuji「T-That's terrible......」"
+msgstr "Ryuuji「E-Eso es terrible......」"
+
+msgid "Sakura「If I get my hopes up too much, it's＿possible Kota-kun might get worried＿again.」"
+msgstr "Sakura「Si me ilusiono demasiado, es posible＿que Kota-kun se vuelva a preocupar.」"
+
+msgid "Ryuuji「So you're forcing yourself to pretend＿to be miserable.」"
+msgstr "Ryuuji「Así que te fuerzas a fingir＿que estás desdichada.」"
+
+msgid "Sakura「Yes......」"
+msgstr "Sakura「Sí......」"
+
+msgid "Ryuuji「You guys have some issues......」"
+msgstr "Ryuuji「Ustedes sí que tienen problemas......」"
+
+msgid "Sakura「No we don't. If it means I get to go to＿the planetarium with Kota-kun, this is＿no big deal.」"
+msgstr "Sakura「Claro que no. Si significa poder＿ir al planetario con Kota-kun,＿esto no es gran cosa.」"
+
+msgid "Ryuuji「Alright. I hope you have fun on your＿date.」"
+msgstr "Ryuuji「De acuerdo. Espero que se＿diviertan en su cita.」"
+
+msgid "Sakura「Me too!」"
+msgstr "Sakura「¡Yo también!」"
+
+msgid "Sakura「I...... I can't wait.」"
+msgstr "Sakura「N...... No puedo esperar.」"
+
+msgid "Ryuuji「I bet.」"
+msgstr "Ryuuji「Me imagino.」"
+
+msgid "Sakura「If you'll excuse me.」"
+msgstr "Sakura「Con permiso.」"
+
+msgid "Ryuuji「（......Even when she's pretending to be＿sullen, she's got a subtle skip to her＿step......）」"
+msgstr "Ryuuji「（......Incluso fingiendo estar＿sombría, da ligeros saltitos＿al caminar......）」"
+
+msgid "Ami「So how'd it go?」"
+msgstr "Ami「¿Y bien, cómo te fue?」"
+
+msgid "Ryuuji「Fine. Everything seems to be going＿according to plan.」"
+msgstr "Ryuuji「Bien. Todo parece ir de＿acuerdo con el plan.」"
+
+msgid "Taiga「Really? Then what was that dreary＿expression all about?」"
+msgstr "Taiga「¿En serio? ¿Entonces a qué venía＿esa expresión tan lúgubre?」"
+
+msgid "Ryuuji「She's fine. Just leave her be, please.」"
+msgstr "Ryuuji「Está bien. Déjenla tranquila, por favor.」"
+
+msgid "Ryuuji「（Argh, my chest hurts...... Sorry for＿using you, Kanou, Tomiie!）」"
+msgstr "Ryuuji「（Ay, me duele el pecho...... ¡Perdón＿por usarlos, Kanou, Tomiie!）」"
+
+msgid "Sakura「Kota-kun invited me to go to the＿planetarium at Luxure. I've always＿wanted to go there. But it's so popular」"
+msgstr "Sakura「Kota-kun me invitó al planetario＿de Luxure. Siempre he querido＿ir ahí. Pero es tan popular」"
+
+msgid "Sakura「that I'd given up.」"
+msgstr "Sakura「que ya me había rendido.」"

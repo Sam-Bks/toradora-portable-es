@@ -1,0 +1,179 @@
+msgid ""
+msgstr ""
+
+msgid "Yuri「Please, I beg you, this year............」"
+msgstr "Yuri「Por favor, te lo ruego,＿este año............」"
+
+msgid "Ryuuji「......Sensei?」"
+msgstr "Ryuuji「......¿Sensei?」"
+
+msgid "Ryuuji「（As I recall, she's...... Koigakubo＿Yuri-san......）」"
+msgstr "Ryuuji「（Si mal no recuerdo, es......＿Koigakubo Yuri-san......）」"
+
+msgid "Ryuuji「（*Gasp*! I, I remember...... She's my＿homeroom teacher!）」"
+msgstr "Ryuuji「（¡Ah! ¡L-Lo recuerdo......＿Es mi profesora titular!）」"
+
+msgid "Ryuuji「（Still...... Isn't it bad that I only＿remembered her after seeing her＿desperation......? O-Oh well......）」"
+msgstr "Ryuuji「（Aun así...... ¿No está mal que solo la＿recordara al ver su desesperación......?＿B-Bueno, qué más da......）」"
+
+msgid "Ryuuji「U-Umm...... S-Sensei?」"
+msgstr "Ryuuji「E-Ehm...... ¿S-Sensei?」"
+
+msgid "Yuri「......*Gasp*! Aaah! Oh, it's just you,＿Takasu-kun.」"
+msgstr "Yuri「......¡Ah! ¡Aaah! Ah, solo＿eres tú, Takasu-kun.」"
+
+msgid "Ryuuji「Sensei, was that some kind of joke?」"
+msgstr "Ryuuji「Sensei, ¿eso fue algún tipo de broma?」"
+
+msgid "Yuri「Joke?」"
+msgstr "Yuri「¿Broma?」"
+
+msgid "Ryuuji「Yeah. Just now, it looked like you were＿praying on your way to a bar.」"
+msgstr "Ryuuji「Sí. Hace un momento, parecía que＿iba rezando camino a un bar.」"
+
+msgid "Yuri「......Aaaahh!! M-Me, of all people! I'm＿such an abomination!」"
+msgstr "Yuri「......¡Aaaahh!! ¡Y-Yo, precisamente!＿¡Soy una abominación!」"
+
+msgid "Ryuuji「Sensei?」"
+msgstr "Ryuuji「¿Sensei?」"
+
+msgid "Yuri「Please, Takasu-kun, pretend you didn't＿see that!」"
+msgstr "Yuri「¡Por favor, Takasu-kun, haz＿como que no viste eso!」"
+
+msgid "Ryuuji「Yeah, I'd prefer if I hadn't seen that,＿either.」"
+msgstr "Ryuuji「Sí, yo también hubiera＿preferido no ver eso.」"
+
+msgid "Ryuuji「I kinda get the feeling you'll need more＿than straw to help you.」"
+msgstr "Ryuuji「Me da la impresión de que va a necesitar＿más que paja para salvarse.」"
+
+msgid "Ryuuji「Yeah, I know.」"
+msgstr "Ryuuji「Sí, lo sé.」"
+
+msgid "Yuri「......It's no use. No matter how I try to＿retain my dignity, I just end up digging＿my own grave.」"
+msgstr "Yuri「......No sirve de nada. Por más que＿intente conservar mi dignidad, termino＿cavando mi propia tumba.」"
+
+msgid "Ryuuji「Yeah, that seems to be the case......＿Wait, are you sure you're okay? You＿look kinda unsteady.」"
+msgstr "Ryuuji「Sí, eso parece...... Espere, ¿segura que＿está bien? Se ve algo inestable.」"
+
+msgid "Yuri「I'm okay. I'm a little tired from all this＿walking, but I'm alright.」"
+msgstr "Yuri「Estoy bien. Un poco cansada de tanto＿caminar, pero estoy bien.」"
+
+msgid "Ryuuji「Oh, okay then......」"
+msgstr "Ryuuji「Ah, entonces está bien......」"
+
+msgid "Ryuuji「（The look in her eyes is more painful,＿and that's coming from me.）」"
+msgstr "Ryuuji「（Su mirada da aún más pena,＿y eso que lo digo yo.）」"
+
+msgid "Yuri「I mustn't give in here. I have to stick to＿my New Year's resolutions.」"
+msgstr "Yuri「No debo rendirme aquí. Tengo que cumplir＿mis propósitos de Año Nuevo.」"
+
+msgid "Ryuuji「Resolutions?」"
+msgstr "Ryuuji「¿Propósitos?」"
+
+msgid "Yuri「Yes. Listen, Takasu-kun, people should＿always stick to their word, no matter＿what obstacles they must overcome.」"
+msgstr "Yuri「Sí. Escucha, Takasu-kun, la gente＿siempre debe cumplir su palabra, sin＿importar qué obstáculos deba superar.」"
+
+msgid "Ryuuji「I don't know.」"
+msgstr "Ryuuji「No lo sé.」"
+
+msgid "Yuri「Shinto prayer. Reaching out to God. In＿simpler terms, faith. Why? Because＿condos and men are both up to fate.」"
+msgstr "Yuri「Rezo sintoísta. Acudir a Dios. O sea,＿fe. ¿Por qué? Porque departamentos y＿hombres son cuestión del destino.」"
+
+msgid "Yuri「Instead of leaving it to aforesaid＿intangible luck, you should lean on no＿fewer than eight million gods.」"
+msgstr "Yuri「En vez de dejarlo a esa intangible＿suerte, hay que apoyarse en nada menos＿que ocho millones de dioses.」"
+
+msgid "Ryuuji「Oh, is that so?」"
+msgstr "Ryuuji「Ah, ¿es así?」"
+
+msgid "Ryuuji「Yeah, I think you've worked hard＿enough.」"
+msgstr "Ryuuji「Sí, creo que ya se ha＿esforzado bastante.」"
+
+msgid "Ryuuji「By the way, did you know that my mom＿Yasuko runs this bar?」"
+msgstr "Ryuuji「Por cierto, ¿sabía que mi mamá,＿Yasuko, dirige este bar?」"
+
+msgid "Yuri「O-Oh really, I didn't...... Arrrgh, how＿could I let myself be seen like this......?＿Waaaah!」"
+msgstr "Yuri「E-En serio, no lo sabía...... ¡Aaaagh!,＿¿cómo pude dejar que me vieran＿así......? ¡Buuuuaaa!」"
+
+msgid "Ryuuji「Umm, just a thought, but have you＿considered focusing that take-charge＿attitude on something more specific?」"
+msgstr "Ryuuji「Ehm, es solo una idea, pero ¿ha＿pensado en enfocar esa actitud decidida＿en algo más concreto?」"
+
+msgid "Yuri「More specific, you say?」"
+msgstr "Yuri「¿Más concreto, dices?」"
+
+msgid "Ryuuji「Excuse me! I'm sorry! That was rude of＿me just now!」"
+msgstr "Ryuuji「¡Disculpe! ¡Lo siento! ¡Fui muy＿grosero hace un momento!」"
+
+msgid "Yuri「Specific...... Natural talent...... *Gasp* Do＿you mean THAT!?」"
+msgstr "Yuri「Concreto...... Talento natural......＿¡Ah! ¡¿Te refieres a ESO?!」"
+
+msgid "Ryuuji「\"That\" what?」"
+msgstr "Ryuuji「¿\"Eso\" qué?」"
+
+msgid "Ryuuji「What are you talking about?」"
+msgstr "Ryuuji「¿De qué está hablando?」"
+
+msgid "Ryuuji「S-Sensei?」"
+msgstr "Ryuuji「¿S-Sensei?」"
+
+msgid "Yuri「And before I can be blessed with＿fertility and childbirth, I need a partner＿first. This will serve my aim!」"
+msgstr "Yuri「Y antes de ser bendecida con fertilidad＿y un parto, primero necesito pareja.＿¡Esto servirá a mi propósito!」"
+
+msgid "Yuri「Thank you, Takasu-kun! Goodbye!」"
+msgstr "Yuri「¡Gracias, Takasu-kun! ¡Adiós!」"
+
+msgid "Ryuuji「Uh...... S-Sensei......」"
+msgstr "Ryuuji「Eh...... S-Sensei......」"
+
+msgid "Yuri「Aaaah, what an abomination, what a＿fiasco......! I got all wobbly just from＿seeing the name \"Bishamon\"...... A」"
+msgstr "Yuri「¡Aaaah, qué abominación, qué＿fiasco......! Me mareé con solo ver＿el nombre \"Bishamon\"...... Una」"
+
+msgid "Yuri「drowning woman will clutch at straw,＿as they say.」"
+msgstr "Yuri「mujer que se ahoga se agarra hasta＿de la paja, como dicen.」"
+
+msgid "Yuri「By the way, the word for straw in＿Japanese is \"wara\". As for drinking＿straws, it's the same in English:」"
+msgstr "Yuri「Por cierto, la palabra para paja en＿japonés es \"wara\". En cuanto a las＿pajillas para beber, en inglés es igual:」"
+
+msgid "Yuri「\"straw\".」"
+msgstr "Yuri「\"straw\".」"
+
+msgid "Yuri「New Year's morning, I made a promise＿to myself. Having a condo is important,＿but at the same time, I will find」"
+msgstr "Yuri「En la mañana de Año Nuevo, me hice una＿promesa. Tener un departamento es＿importante, pero a la vez, encontraré a」"
+
+msgid "Yuri「someone to spend the rest of my life＿with.」"
+msgstr "Yuri「alguien con quien pasar＿el resto de mi vida.」"
+
+msgid "Yuri「As the old saying goes, she who chases＿two hares will catch neither. However,＿as soon as you give up the chase, it's」"
+msgstr "Yuri「Como dice el viejo refrán, quien dos＿liebres persigue, ninguna caza. Pero en＿cuanto abandonas la persecución, es」"
+
+msgid "Yuri「game over.」"
+msgstr "Yuri「el fin del juego.」"
+
+msgid "Yuri「Fortunately, Mercury's retrograde has＿ended with the past year. All that's left＿is to do my best. So, what should I do」"
+msgstr "Yuri「Por suerte, Mercurio retrógrado terminó＿con el año pasado. Solo queda hacer mi＿mejor esfuerzo. Entonces, ¿qué debo」"
+
+msgid "Yuri「first? Do you know the answer,＿Takasu-kun?」"
+msgstr "Yuri「hacer primero? ¿Sabes la＿respuesta, Takasu-kun?」"
+
+msgid "Yuri「And so, I'm going to visit all the＿marriage shrines in town and pray my＿butt off. I've done my best, and now I'll」"
+msgstr "Yuri「Así que visitaré todos los santuarios＿de matrimonio de la ciudad y rezaré sin＿parar. Ya hice mi parte, y ahora」"
+
+msgid "Yuri「let the heavens do the rest.」"
+msgstr "Yuri「dejaré que el cielo haga el resto.」"
+
+msgid "Yuri「I think so too, but I'm still so anxious......＿So I've been going around to all the＿shrines and temples and churches,」"
+msgstr "Yuri「También lo creo, pero sigo ansiosa......＿Así que he estado yendo a todos los＿santuarios, templos e iglesias,」"
+
+msgid "Yuri「and now I've ended up in front of this＿bar.」"
+msgstr "Yuri「y ahora he terminado frente a este bar.」"
+
+msgid "Yuri「But could someone in the education＿field really do it? No, I mustn't speak of＿it. That's right, I should try every」"
+msgstr "Yuri「Pero ¿alguien del ámbito educativo＿podría hacerlo? No, no debo hablar de＿eso. ¡Es cierto, debería probar cada」"
+
+msgid "Yuri「option! Right!?」"
+msgstr "Yuri「opción! ¡¿Verdad?!」"
+
+msgid "Yuri「No, a few buildings down, there was an＿awe-inspiring shrine that I haven't＿been to yet. Frankly, it's a shrine for」"
+msgstr "Yuri「No, unos edificios más allá había un＿santuario imponente al que aún no he＿ido. Francamente, es un santuario para」"
+
+msgid "Yuri「prayers of fertility and childbirth. I＿have no other choice but to go.」"
+msgstr "Yuri「rezar por la fertilidad y el parto.＿No me queda más opción que ir.」"

@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+
+msgid "Yasuko「Geez～ Silly Ryuu-chan, you're not＿alloweddd to make fun of grown-ups～」"
+msgstr "Yasuko「Vayaaa～ Tontito Ryuu-chan, no tienes＿permitidooo burlarte de los adultos～」"
+
+msgid "Ryuuji「Oh? I, I didn't mean to......」"
+msgstr "Ryuuji「¿Eh? N-No era mi intención......」"
+
+msgid "Yasuko「Reallyyy～? You got Yacchan's heart＿poundinggg.」"
+msgstr "Yasuko「¿De verdaaad～? Hiciste que el corazón＿de Yacchan latiera con fuerzaaa.」"
+
+msgid "Ryuuji「Your heart's pounding?」"
+msgstr "Ryuuji「¿Te late con fuerza el corazón?」"
+
+msgid "Yasuko「Yup. Just touch Yacchan's chest and＿see for yourselfff～」"
+msgstr "Yasuko「Sip. Toca el pecho de Yacchan＿y compruébalo tú mismooo～」"
+
+msgid "Ryuuji「Wh-what are you saying!?」"
+msgstr "Ryuuji「¡¿Q-Qué estás diciendo?!」"
+
+msgid "Yasuko「Ryuu-chan, are you being shyyy? How＿cuuute～①」"
+msgstr "Yasuko「Ryuu-chan, ¿te da vergüenzaaa?＿Qué lindooo～①」"
+
+msgid "Ryuuji「......Don't tease me.」"
+msgstr "Ryuuji「......No te burles de mí.」"
+
+msgid "Yasuko「Ehehe. It's payback for teasing a＿grown-up～☆」"
+msgstr "Yasuko「Ejeje. Es la revancha por＿burlarte de una adulta～☆」"

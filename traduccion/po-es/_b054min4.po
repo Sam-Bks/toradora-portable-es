@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+
+msgid "Minori「Nnnn...」"
+msgstr "Minori「Mmmm...」"
+
+msgid "Ryuuji「What's with the stretching all of a＿sudden?」"
+msgstr "Ryuuji「¿Y ese estiramiento tan de repente?」"
+
+msgid "Minori「Wellll～ Staying still doesn't suit me, I＿guess. My body's gotten all stiff from＿sitting for too long.」"
+msgstr "Minori「Bueeenooo～ Quedarme quieta no va＿conmigo, supongo. Se me entumeció el＿cuerpo por estar sentada tanto rato.」"
+
+msgid "Minori「I'm gonna check out the other pools,＿bud.」"
+msgstr "Minori「Iré a echar un vistazo a las＿otras piscinas, amigo.」"
+
+msgid "Ryuuji「Alright. Sorry for making you put up＿with me.」"
+msgstr "Ryuuji「De acuerdo. Perdón por＿hacerte aguantarme.」"
+
+msgid "Minori「Nonsense. Laters!」"
+msgstr "Minori「Para nada. ¡Nos vemos!」"
+
+msgid "Ryuuji「Bye.」"
+msgstr "Ryuuji「Adiós.」"
+
+msgid "Ryuuji「Kushieda Minori......」"
+msgstr "Ryuuji「Kushieda Minori......」"

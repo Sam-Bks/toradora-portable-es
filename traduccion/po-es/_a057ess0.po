@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+
+msgid "Taiga「......I should head home now. I won't＿forgive you if you oversleep tomorrow.」"
+msgstr "Taiga「......Debería irme a casa ya. No te＿perdonaré si te quedas dormido mañana.」"
+
+msgid "Ryuuji「That's what I should be saying. Good＿night.」"
+msgstr "Ryuuji「Eso debería decirlo yo. Buenas noches.」"
+
+msgid "Taiga「Night.」"
+msgstr "Taiga「Buenas noches.」"
+
+msgid "Ryuuji「Now then......」"
+msgstr "Ryuuji「Bueno......」"
+
+msgid "Ryuuji「（This is bad, I can't sleep at all...... Am I＿that nervous?）」"
+msgstr "Ryuuji「（Qué mal, no puedo dormir nada......＿¿Tan nervioso estoy?）」"
+
+msgid "Ryuuji「How are you, Inko-chan? It's almost＿your bedtime.」"
+msgstr "Ryuuji「¿Cómo estás, Inko-chan? Ya casi＿es hora de que duermas.」"
+
+msgid "Inko-chan「RE, RELA, RELALA, LA?」"
+msgstr "Inko-chan「¿RE, RELA, RELALA, LA?」"
+
+msgid "Ryuuji「Hmm? What are you trying to say,＿Inko-chan?」"
+msgstr "Ryuuji「¿Mmm? ¿Qué intentas decir, Inko-chan?」"
+
+msgid "Inko-chan「RE, RELAX!」"
+msgstr "Inko-chan「¡RE, RELÁJATE!」"
+
+msgid "Ryuuji「O-Oh! Sorry for worrying you,＿Inko-chan.」"
+msgstr "Ryuuji「¡A-Ah! Perdón por preocuparte,＿Inko-chan.」"
+
+msgid "Inko-chan「LACK? LAXED?」"
+msgstr "Inko-chan「¿LAJA? ¿LAJADO?」"
+
+msgid "Ryuuji「Are you asking if I'm relaxed? It's a＿little too soon...... but I should try......」"
+msgstr "Ryuuji「¿Preguntas si estoy relajado?＿Es un poco pronto...... pero＿debería intentarlo......」"
+
+msgid "Shall we have a little chat?"
+msgstr "¿Charlamos un poco?"
+
+msgid "There's no need to worry"
+msgstr "No hay de qué preocuparse"
+
+msgid "Ryuuji「Shall we have a little chat?」"
+msgstr "Ryuuji「¿Charlamos un poco?」"
+
+msgid "Inko-chan「CH, CHAT」"
+msgstr "Inko-chan「CH, CHARLA」"
+
+msgid "Ryuuji「There's no need to worry, Inko-chan.」"
+msgstr "Ryuuji「No hay de qué preocuparse, Inko-chan.」"
+
+msgid "Inko-chan「SLEEP THEN」"
+msgstr "Inko-chan「DUERME ENTONCES」"
+
+msgid "Ryuuji「Hm?」"
+msgstr "Ryuuji「¿Mmm?」"
+
+msgid "Inko-chan「......」"
+msgstr "Inko-chan「......」"
+
+msgid "Ryuuji「I envy your mad sleeping skills...... Good＿night, Inko-chan.」"
+msgstr "Ryuuji「Envidio tu increíble facilidad para＿dormir...... Buenas noches, Inko-chan.」"

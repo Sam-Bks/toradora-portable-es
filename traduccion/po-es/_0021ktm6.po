@@ -1,0 +1,455 @@
+msgid ""
+msgstr ""
+
+msgid "???「Oh, it's Takasu. Need to do something＿at school?」"
+msgstr "???「Ah, eres tú, Takasu. ¿Tienes algo＿que hacer en la escuela?」"
+
+msgid "???「......What's wrong?」"
+msgstr "???「......¿Qué pasa?」"
+
+msgid "Ryuuji「Oh, uh, nothing really...... Likewise, what＿are you doing here on New Year's Eve?」"
+msgstr "Ryuuji「Ah, eh, nada en realidad...... ¿Y tú qué＿haces aquí en víspera de Año Nuevo?」"
+
+msgid "???「Oh, I'm about to clean the student＿council room. In fact, I'm currently＿recruiting for talented volunteer staff.」"
+msgstr "???「Ah, estoy por limpiar el salón del＿consejo estudiantil. De hecho, ahora＿estoy reclutando voluntarios talentosos.」"
+
+msgid "Ryuuji「O-Oh...... That's a good idea.」"
+msgstr "Ryuuji「A-Ah...... Es una buena idea.」"
+
+msgid "???「I'd feel much better if you'd help me,＿Takasu. You're a pro at cleaning, after＿all.」"
+msgstr "???「Me quedaría mucho más tranquilo si me＿ayudaras, Takasu. Después de todo, eres＿un profesional de la limpieza.」"
+
+msgid "Ryuuji「Where's the student council＿president?」"
+msgstr "Ryuuji「¿Dónde está el presidente＿del consejo estudiantil?」"
+
+msgid "???「......I'm standing right here.」"
+msgstr "???「......Lo tienes justo enfrente.」"
+
+msgid "Ryuuji「......」"
+msgstr "Ryuuji「......」"
+
+msgid "???「Hey Takasu...... Don't you think our＿conversations have been off since＿yesterday?」"
+msgstr "???「Oye, Takasu...... ¿No crees que＿nuestras conversaciones han sido＿raras desde ayer?」"
+
+msgid "???「You should already know this stuff, yet＿you act like it's your first time hearing＿it.」"
+msgstr "???「Ya deberías saber estas cosas,＿pero actúas como si fuera la primera＿vez que las escuchas.」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "???「I'd like you to explain yourself.」"
+msgstr "???「Quisiera que me dieras una explicación.」"
+
+msgid "Ryuuji「......The truth is...... I have amnesia.」"
+msgstr "Ryuuji「......La verdad...... tengo amnesia.」"
+
+msgid "???「Amnesia!?　Is that true!?」"
+msgstr "???「¡¿Amnesia?!　¡¿Es verdad?!」"
+
+msgid "Ryuuji「Yeah, it's true...... This whole time I've＿just been trying to act like nothing's＿wrong.」"
+msgstr "Ryuuji「Sí, es verdad...... Todo este tiempo＿solo he estado intentando actuar＿como si no pasara nada.」"
+
+msgid "???「I see...... I had a feeling something was＿wrong. That explains it.」"
+msgstr "???「Ya veo...... Presentía que algo＿andaba mal. Eso lo explica.」"
+
+msgid "Ryuuji「Kitamura, huh...... Yeah, I feel like that＿name is definitely familiar.」"
+msgstr "Ryuuji「Kitamura, ¿eh?...... Sí, ese nombre＿me suena muy familiar.」"
+
+msgid "Kitamura「When did you lose your memory?」"
+msgstr "Kitamura「¿Cuándo perdiste la memoria?」"
+
+msgid "Ryuuji「When I woke up in the hospital, I was＿like a blank slate.」"
+msgstr "Ryuuji「Cuando desperté en el hospital, mi mente＿estaba completamente en blanco.」"
+
+msgid "Kitamura「Have you remembered a few things?」"
+msgstr "Kitamura「¿Has recordado algunas cosas?」"
+
+msgid "Ryuuji「Barely...... Oh, but second-nature stuff＿like cooking and cleaning came back＿to me naturally.」"
+msgstr "Ryuuji「Apenas...... Ah, pero cosas instintivas＿como cocinar y limpiar me salieron＿con naturalidad.」"
+
+msgid "Kitamura「Interesting. How fitting of you.」"
+msgstr "Kitamura「Interesante. Qué propio de ti.」"
+
+msgid "Ryuuji「That's what Taiga said.」"
+msgstr "Ryuuji「Eso mismo dijo Taiga.」"
+
+msgid "Kitamura「......You were suffering through this,＿and I didn't notice at all. Sorry, Takasu.」"
+msgstr "Kitamura「......Sufrías por esto y no me＿di cuenta. Perdón, Takasu.」"
+
+msgid "Ryuuji「W-What are you saying? You don't＿have to apologize.」"
+msgstr "Ryuuji「¿Q-Qué dices? No tienes＿por qué disculparte.」"
+
+msgid "Kitamura「No, I've failed as your best friend. My＿apologies.」"
+msgstr "Kitamura「No, te he fallado como mejor＿amigo. Te pido disculpas.」"
+
+msgid "Ryuuji「Like I said, quit apologizing. I kept the＿truth from you all this time. Doesn't＿that make me just as guilty?」"
+msgstr "Ryuuji「Como te dije, deja de disculparte. Te＿oculté la verdad todo este tiempo. ¿Eso＿no me hace igual de culpable?」"
+
+msgid "Ryuuji「What about the cleaning?」"
+msgstr "Ryuuji「¿Y qué hay de la limpieza?」"
+
+msgid "Kitamura「It hasn't started yet.」"
+msgstr "Kitamura「Aún no ha empezado.」"
+
+msgid "Ryuuji「Then please do. Sorry.」"
+msgstr "Ryuuji「Entonces sí, por favor. Perdón.」"
+
+msgid "Kitamura「Likewise.」"
+msgstr "Kitamura「Igualmente.」"
+
+msgid "Kitamura「As you can see, this is the school＿campus. So, does it look familiar?」"
+msgstr "Kitamura「Como puedes ver, este es el patio de＿la escuela. ¿Te resulta familiar?」"
+
+msgid "Ryuuji「Maybe, maybe not.」"
+msgstr "Ryuuji「Tal vez sí, tal vez no.」"
+
+msgid "Kitamura「Well, the school campus doesn't really＿have any unique features, I suppose.」"
+msgstr "Kitamura「Bueno, el patio de la escuela no tiene＿nada que destaque, supongo.」"
+
+msgid "Ryuuji「Spending every day running around＿and breaking a sweat...... Was I a jock,＿Kitamura?」"
+msgstr "Ryuuji「Pasar todos los días corriendo＿de acá para allá y sudando......＿¿Era deportista, Kitamura?」"
+
+msgid "Kitamura「Nah, you aren't in any clubs. As for me,＿I belong to the softball club.」"
+msgstr "Kitamura「No, no estás en ningún club. En cuanto＿a mí, pertenezco al club de sóftbol.」"
+
+msgid "Ryuuji「I see...... Oh yeah, isn't Kushieda in＿softball too?」"
+msgstr "Ryuuji「Ya veo...... Ah, cierto, ¿Kushieda＿no está en sóftbol también?」"
+
+msgid "Kitamura「Yeah, she is...... You remembered, huh?」"
+msgstr "Kitamura「Sí, así es...... Lo recordaste, ¿eh?」"
+
+msgid "Ryuuji「Nah, someone told me earlier...... Sorry.」"
+msgstr "Ryuuji「No, me lo contaron antes...... Perdón.」"
+
+msgid "Kitamura「No need to apologize. This is just your＿usual morning hangout. It's not a place＿of special sentiment to you.」"
+msgstr "Kitamura「No hace falta disculparse. Aquí solo＿pasas el rato por las mañanas. No es un＿lugar con valor sentimental para ti.」"
+
+msgid "Kitamura「This is our class, 2-C.」"
+msgstr "Kitamura「Este es nuestro salón, 2-C.」"
+
+msgid "Ryuuji「I see......」"
+msgstr "Ryuuji「Ya veo......」"
+
+msgid "Kitamura「Just seeing the classroom isn't doing＿much for your memories, huh.」"
+msgstr "Kitamura「Solo ver el salón de clases no ayuda＿mucho a tus recuerdos, ¿eh?」"
+
+msgid "Ryuuji「What are our classmates like?」"
+msgstr "Ryuuji「¿Cómo son nuestros compañeros de clase?」"
+
+msgid "Kitamura「Everyone gets along. I'm fond of how＿lively and cheerful the class can be.」"
+msgstr "Kitamura「Todos se llevan bien. Me gusta lo＿animada y alegre que es la clase.」"
+
+msgid "Ryuuji「Do I fit in with the rest of the class? Or＿am I...... bullied and ostracized?」"
+msgstr "Ryuuji「¿Encajo con el resto de la clase? ¿O＿acaso...... me molestan y me excluyen?」"
+
+msgid "Kitamura「Haha, nonsense! You're blessed with＿many friends and have enjoyed a fun＿high school life alongside them.」"
+msgstr "Kitamura「¡Jaja, qué tontería! Tienes la suerte de＿tener muchos amigos y has disfrutado de＿una divertida vida escolar con ellos.」"
+
+msgid "Ryuuji「Oh, that's a relief.」"
+msgstr "Ryuuji「Ah, qué alivio.」"
+
+msgid "Kitamura「......So, this is our classroom.」"
+msgstr "Kitamura「......Así que este es nuestro salón.」"
+
+msgid "Ryuuji「Kitamura, shouldn't you be going to＿the student council room?」"
+msgstr "Ryuuji「Kitamura, ¿no deberías ir al salón＿del consejo estudiantil?」"
+
+msgid "Kitamura「Yeah, you're right. Everyone should be＿there right about now.」"
+msgstr "Kitamura「Sí, tienes razón. Todos deberían estar＿allá más o menos a esta hora.」"
+
+msgid "Ryuuji「Mind if I help clean too? I want to＿thank you for showing me around.」"
+msgstr "Ryuuji「¿Puedo ayudar a limpiar? Quiero＿agradecerte que me mostraras la escuela.」"
+
+msgid "Kitamura「That'd be a huge help. Truth is, I have＿to organize the paperwork, so I'm＿desperate for any help you can give.」"
+msgstr "Kitamura「Sería de gran ayuda. La verdad es que＿debo organizar el papeleo, así que me＿urge cualquier ayuda que puedas darme.」"
+
+msgid "Kitamura「Alright, the student council room is＿this way. Please follow me.」"
+msgstr "Kitamura「Bien, el salón del consejo estudiantil＿es por aquí. Sígueme, por favor.」"
+
+msgid "Sakura「Oh, good morning,＿Kitamura-senpa......aaaahh!」"
+msgstr "Sakura「Ah, buenos días,＿Kitamura-senpa...... ¡aaaahh!」"
+
+msgid "Kota「W-Why is Takasu-senpai here!?」"
+msgstr "Kota「¡¿P-Por qué está aquí Takasu-senpai?!」"
+
+msgid "Ryuuji「（Oh, it's Tomiie Kota and...... a girl he＿called Sakura.）」"
+msgstr "Ryuuji「（Ah, son Tomiie Kota y...... una＿chica a la que llamó Sakura.）」"
+
+msgid "Kitamura「Mm, I was thinking of having Takasu＿help us clean.」"
+msgstr "Kitamura「Mm, estaba pensando en pedirle a Takasu＿que nos ayudara a limpiar.」"
+
+msgid "Ryuuji「Kitamura, it's just as you described.＿This looks like a challenge!」"
+msgstr "Ryuuji「Kitamura, es tal como lo describiste.＿¡Esto parece todo un reto!」"
+
+msgid "Sakura「Eeek!」"
+msgstr "Sakura「¡Iiiik!」"
+
+msgid "???「Oh, good morning,＿Kitamura-senpa......aaaahh!」"
+msgstr "???「Ah, buenos días,＿Kitamura-senpa...... ¡aaaahh!」"
+
+msgid "Kota「W-Why is Takasu-senpai here!?」"
+msgstr "Kota「¡¿P-Por qué está aquí Takasu-senpai?!」"
+
+msgid "Ryuuji「（Oh, it's Tomiie Kota.）」"
+msgstr "Ryuuji「（Ah, es Tomiie Kota.）」"
+
+msgid "Kitamura「Mm, I was thinking of having Takasu＿help us clean.」"
+msgstr "Kitamura「Mm, estaba pensando en pedirle a Takasu＿que nos ayudara a limpiar.」"
+
+msgid "Ryuuji「Kitamura, it's just as you described.＿This looks like a challenge!」"
+msgstr "Ryuuji「Kitamura, es tal como lo describiste.＿¡Esto parece todo un reto!」"
+
+msgid "???「Eeek!」"
+msgstr "???「¡Iiiik!」"
+
+msgid "Kota「Ch-ch-ch-challenge!?」"
+msgstr "Kota「¡¿R-R-R-Reto?!」"
+
+msgid "Kota「Sakura-chan, back up!」"
+msgstr "Kota「¡Sakura-chan, retrocede!」"
+
+msgid "Sakura「O-Okay!」"
+msgstr "Sakura「¡E-Está bien!」"
+
+msgid "Kitamura「Seems you've caused another weird＿misunderstanding, Takasu.」"
+msgstr "Kitamura「Parece que has causado otro extraño＿malentendido, Takasu.」"
+
+msgid "Kota「W-W-We can do the cleaning ourselves!＿W-We don't need to trouble＿Takasu-senpai.」"
+msgstr "Kota「¡N-N-Nosotros podemos limpiar＿solos! N-No hace falta molestar＿a Takasu-senpai.」"
+
+msgid "Ryuuji「No, leave this to me. You guys go work＿on something else, please.」"
+msgstr "Ryuuji「No, déjenme esto a mí. Ustedes vayan＿a ocuparse de otra cosa, por favor.」"
+
+msgid "Kitamura「Okay...... Then why don't we organize＿the files?」"
+msgstr "Kitamura「Está bien...... ¿Entonces por qué＿no organizamos los archivos?」"
+
+msgid "Sakura「O-Okay. That's some time-consuming＿work right there!」"
+msgstr "Sakura「E-Está bien. ¡Ese sí que es un trabajo＿que toma mucho tiempo!」"
+
+msgid "Kota「T-Then let's take it to another room so＿we don't interrupt the cleaning!」"
+msgstr "Kota「¡E-Entonces llevémoslo a otro salón＿para no interrumpir la limpieza!」"
+
+msgid "Kitamura「Good idea. All this dust would get in＿the way of our work.」"
+msgstr "Kitamura「Buena idea. Todo este polvo estorbaría＿en nuestro trabajo.」"
+
+msgid "Kitamura「So, Takasu, shall I leave the cleaning to＿you?」"
+msgstr "Kitamura「Entonces, Takasu, ¿te dejo＿la limpieza a ti?」"
+
+msgid "Ryuuji「Oh yeah, leave it to me.」"
+msgstr "Ryuuji「Ah, sí, déjamelo a mí.」"
+
+msgid "Kota「I, I'm sorry, senpai.」"
+msgstr "Kota「L-Lo siento, senpai.」"
+
+msgid "Sakura「W-We'll be going now!」"
+msgstr "Sakura「¡Y-Ya nos vamos!」"
+
+msgid "Ryuuji「......Kitamura, did I do something to＿those two?」"
+msgstr "Ryuuji「......Kitamura, ¿les hice＿algo a esos dos?」"
+
+msgid "Ryuuji「......Well, I guess I can understand that.」"
+msgstr "Ryuuji「......Bueno, supongo que lo entiendo.」"
+
+msgid "Kitamura「Alright, we're counting on you and＿your cleaning skills.」"
+msgstr "Kitamura「Muy bien, contamos contigo y con＿tus habilidades de limpieza.」"
+
+msgid "Ryuuji「You got it.」"
+msgstr "Ryuuji「Cuenta con ello.」"
+
+msgid "Ryuuji「（Ohh, somehow my motivation is......＿overflowing!）」"
+msgstr "Ryuuji「（¡Oh, por alguna razón mi motivación＿está...... desbordándose!）」"
+
+msgid "Or so I thought......"
+msgstr "O eso pensé......"
+
+msgid "Clean vigorously"
+msgstr "Limpiar con entusiasmo"
+
+msgid "Ryuuji「（......Or so I thought, but...... hmm?）」"
+msgstr "Ryuuji「（......O eso pensé, pero...... ¿mm?）」"
+
+msgid "Ryuuji「（At this critical moment, I just can't get＿motivated......）」"
+msgstr "Ryuuji「（En este momento crítico, simplemente＿no logro motivarme......）」"
+
+msgid "Kitamura「Hm? What's up, Takasu?」"
+msgstr "Kitamura「¿Eh? ¿Qué pasa, Takasu?」"
+
+msgid "Ryuuji「Oh, it's just...... I know I agreed to do＿this...... but for some reason I can't＿motivate myself......」"
+msgstr "Ryuuji「Ah, es solo que...... Sé que acepté＿hacer esto...... pero por alguna razón＿no logro motivarme......」"
+
+msgid "Ryuuji「It's okay. I'm sorry too.」"
+msgstr "Ryuuji「Está bien. Yo también lo siento.」"
+
+msgid "Kitamura「Go home and take it easy. Let's hang＿out when you feel better.」"
+msgstr "Kitamura「Ve a casa y descansa. Salgamos a pasar＿el rato cuando te sientas mejor.」"
+
+msgid "Ryuuji「Oh, okay.」"
+msgstr "Ryuuji「Ah, está bien.」"
+
+msgid "Ryuuji「（Alright! I'll make it spotless in here!）」"
+msgstr "Ryuuji「（¡Bien! ¡Dejaré este lugar impecable!）」"
+
+msgid "Ryuuji「（Oho, is this......?）」"
+msgstr "Ryuuji「（Oh, ¿esto es......?）」"
+
+msgid "Ryuuji「（\"Student Council Activity Journal\"......?＿Does it really belong in the trash......?）」"
+msgstr "Ryuuji「（¿\"Diario de actividades del consejo＿estudiantil\"......? ¿Es basura......?）」"
+
+msgid "Kitamura「Hm? What's up, Takasu?」"
+msgstr "Kitamura「¿Eh? ¿Qué pasa, Takasu?」"
+
+msgid "Ryuuji「Err, well, to be honest, I pulled this out＿of the trash can......」"
+msgstr "Ryuuji「Ehm, bueno, la verdad es que saqué＿esto del bote de basura......」"
+
+msgid "Kitamura「Come again? This is absolutely not to＿be tossed out!」"
+msgstr "Kitamura「¿Cómo dices? ¡Esto de ninguna manera＿se debe tirar a la basura!」"
+
+msgid "Ryuuji「Well, a normal person would come to＿that conclusion.」"
+msgstr "Ryuuji「Bueno, una persona normal llegaría＿a esa conclusión.」"
+
+msgid "Kitamura「I'm sure it just happened to slide off＿the desk and into the trash. I'm＿grateful, Takasu!」"
+msgstr "Kitamura「Seguro simplemente se resbaló del＿escritorio y cayó a la basura.＿¡Te lo agradezco, Takasu!」"
+
+msgid "Ryuuji「No, no, don't worry about it.」"
+msgstr "Ryuuji「No, no, no te preocupes por eso.」"
+
+msgid "Ryuuji「But I wasn't in the student council,＿right? I don't think this will help......」"
+msgstr "Ryuuji「Yo no estaba en el consejo estudiantil,＿¿no? No creo que ayude......」"
+
+msgid "Kitamura「There's no harm in trying, so just take＿it! You can return it once your amnesia＿is gone.」"
+msgstr "Kitamura「¡No pierdes nada con intentarlo, así＿que llévatelo! Puedes devolverlo cuando＿se te pase la amnesia.」"
+
+msgid "Ryuuji「Okay, I understand...... Then I'll borrow＿it for a while.」"
+msgstr "Ryuuji「Está bien, entiendo...... Entonces＿lo tomaré prestado por un tiempo.」"
+
+msgid "Kitamura「Alright, I'll go back to the other room.＿Let me know when you're done.」"
+msgstr "Kitamura「Muy bien, volveré al otro salón.＿Avísame cuando termines.」"
+
+msgid "Ryuuji「Sure.」"
+msgstr "Ryuuji「Claro.」"
+
+msgid "Ryuuji「（Oho, is this......?）」"
+msgstr "Ryuuji「（Oh, ¿esto es......?）」"
+
+msgid "Ryuuji「（\"Cheering For Your Lobe\"......? This CD＿sure has a dubious title.）」"
+msgstr "Ryuuji「（¿\"Cheering For Your Lobe\"......?＿Qué título tan raro para un CD.）」"
+
+msgid "Sakura「Uh, th-that......」"
+msgstr "Sakura「Eh, e-eso......」"
+
+msgid "Ryuuji「Oh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Sakura「Eeek! I'm sorry! I-It's all my fault! Please＿don't blame Kota-kun!」"
+msgstr "Sakura「¡Iiiik! ¡Lo siento! ¡T-Todo es culpa＿mía! ¡Por favor, no culpes a Kota-kun!」"
+
+msgid "Ryuuji「......Huh?」"
+msgstr "Ryuuji「......¿Eh?」"
+
+msgid "Sakura「Kitamura-senpai did ask Kota-kun to＿print the label, but I was the one who＿typed it up! I made that typo......」"
+msgstr "Sakura「¡Kitamura-senpai sí le pidió a Kota-kun＿que imprimiera la etiqueta, pero yo la＿escribí! Fue mi error al teclear......」"
+
+msgid "Ryuuji「Aha, now I get it......」"
+msgstr "Ryuuji「Ajá, ahora entiendo......」"
+
+msgid "Sakura「Eeeeek! I'm sorry! I'm sorry!」"
+msgstr "Sakura「¡Iiiiiik! ¡Lo siento! ¡Lo siento!」"
+
+msgid "Ryuuji「You meant to type V but hit B, right?＿So it should be \"Cheering For Your＿Love\"......」"
+msgstr "Ryuuji「Querías escribir V, no B, ¿verdad?＿Así que sería \"Cheering For＿Your Love\"......」"
+
+msgid "Sakura「Y-Yeah. Umm, I, I'll let you keep it, so＿please forgive meee!」"
+msgstr "Sakura「S-Sí. Ehm, t-te dejo que te lo quedes,＿¡así que por favor perdónameee!」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Sakura「The only mistake is on the label. The＿sound quality is perfect! I checked!!」"
+msgstr "Sakura「Solo está mal la etiqueta. ¡El sonido＿es perfecto! ¡¡Lo revisé!!」"
+
+msgid "Ryuuji「\"Checked\"......? What was recorded?」"
+msgstr "Ryuuji「¿Lo \"revisaste\"......? ¿Qué se grabó?」"
+
+msgid "Sakura「I-It's the student council's lunchtime＿broadcast! Kitamura-senpai's the host!＿H-Honest!!」"
+msgstr "Sakura「¡E-Es la transmisión del almuerzo del＿consejo estudiantil! ¡Kitamura-senpai＿es el locutor! ¡¡D-De verdad!!」"
+
+msgid "Ryuuji「O-Oh, really...... Then I'll take it.」"
+msgstr "Ryuuji「A-Ah, ¿sí?...... Entonces me lo llevo.」"
+
+msgid "Ryuuji「Thanks.」"
+msgstr "Ryuuji「Gracias.」"
+
+msgid "Sakura「E-Eeeeeeek!」"
+msgstr "Sakura「¡I-Iiiiiiik!」"
+
+msgid "Ryuuji「I was just trying to smile at you......」"
+msgstr "Ryuuji「Solo intentaba sonreírte......」"
+
+msgid "Ryuuji「（Hmmm?）」"
+msgstr "Ryuuji「（¿Mmmm?）」"
+
+msgid "Ryuuji「（Empty plastic bottles, left here with＿the intention of being tossed out＿together. What fatal carelessness.）」"
+msgstr "Ryuuji「（Botellas de plástico vacías, dejadas＿aquí con la intención de tirarlas todas＿juntas. Qué descuido tan fatal.）」"
+
+msgid "Ryuuji「（Couldn't find anything......）」"
+msgstr "Ryuuji「（No pude encontrar nada......）」"
+
+msgid "Ryuuji「（Guess I'll leave it at that.）」"
+msgstr "Ryuuji「（Supongo que lo dejaré así.）」"
+
+msgid "Ryuuji「Kitamuraaa! I'm done cleaning!」"
+msgstr "Ryuuji「¡Kitamuraaa! ¡Terminé de limpiar!」"
+
+msgid "Ryuuji「（We definitely saw each other＿yesterday...... I'm certain I know him......＿But the name just isn't coming back to）」"
+msgstr "Ryuuji「（Definitivamente nos vimos ayer......＿Estoy seguro de conocerlo...... Pero su＿nombre simplemente no me viene a）」"
+
+msgid "Ryuuji「（me.）」"
+msgstr "Ryuuji「（la mente.）」"
+
+msgid "???「In this kind of situation, it was always＿Prez who took charge and directed us.」"
+msgstr "???「En casos así, la presidenta siempre＿tomaba el mando y nos dirigía.」"
+
+msgid "???「So when I realized that this time I'll＿have to get my act together, I got fired＿up.」"
+msgstr "???「Así que cuando me di cuenta de＿que esta vez tendría que ponerme＿serio, me entusiasmé.」"
+
+msgid "???「Okay then, allow me to introduce＿myself. My name is Kitamura Yuusaku.」"
+msgstr "???「Bien, permíteme presentarme.＿Me llamo Kitamura Yuusaku.」"
+
+msgid "???「I'm your classmate, and the student＿council president at this high school.」"
+msgstr "???「Soy tu compañero y el presidente del＿consejo estudiantil de la preparatoria.」"
+
+msgid "Kitamura「That makes me feel better...... It's the＿least I can do, but would you like me to＿show you around the school?」"
+msgstr "Kitamura「Eso me hace sentir mejor...... Es lo＿menos que puedo hacer, pero ¿te gustaría＿que te mostrara la escuela?」"
+
+msgid "Kitamura「It might help you remember＿something.」"
+msgstr "Kitamura「Tal vez te ayude a recordar algo.」"
+
+msgid "Kitamura「Don't worry about it. You've always＿been prone to misunderstandings.」"
+msgstr "Kitamura「No te preocupes por eso. Siempre has＿sido propenso a los malentendidos.」"
+
+msgid "Kitamura「If you continue to interact with them,＿bit by bit, you can clear it up.」"
+msgstr "Kitamura「Si sigues tratando con ellos, poco＿a poco podrás aclararlo.」"
+
+msgid "Kitamura「I see. For you to be unmotivated about＿cleaning is serious indeed. You must＿not be back to normal yet.」"
+msgstr "Kitamura「Ya veo. Que no tengas motivación para＿limpiar sí que es grave. Seguro aún＿no has vuelto a la normalidad.」"
+
+msgid "Kitamura「I'm sorry I didn't notice.」"
+msgstr "Kitamura「Lamento no haberme dado cuenta.」"
+
+msgid "Kitamura「I know! Why don't you take it home and＿have a closer look at it, Takasu?＿Maybe it'll help you remember」"
+msgstr "Kitamura「¡Ya sé! Llévatelo a casa＿y míralo bien, Takasu.」"
+
+msgid "Kitamura「something.」"
+msgstr "Kitamura「Tal vez te ayude a recordar algo.」"
+
+msgid "Kitamura「From my understanding, memories are＿not as straightforward as you'd think.」"
+msgstr "Kitamura「Por lo que sé, los recuerdos no son＿tan simples como uno pensaría.」"
+
+msgid "Kitamura「Even seemingly unrelated stuff can＿have a chance of triggering memory＿circuits.」"
+msgstr "Kitamura「Incluso cosas que parecen no tener＿relación pueden llegar a activar＿los circuitos de la memoria.」"
+
+msgid "Ryuuji「（This is the kind of thing you should＿throw out frequently! It's the number＿one rule to keeping a room clean!）」"
+msgstr "Ryuuji「（¡Este es el tipo de cosas que deberían＿tirarse a menudo! ¡Es la regla número＿uno para mantener limpio un salón!）」"
+
+msgid "Ryuuji「（......Guess I'll throw them away.）」"
+msgstr "Ryuuji「（......Supongo que las tiraré.）」"

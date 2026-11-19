@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+
+msgid "???「Really...... I understand. I feel the same＿way......」"
+msgstr "???「De verdad...... Lo entiendo.＿Siento lo mismo......」"
+
+msgid "???「GROSS...... GROOOOSS!」"
+msgstr "???「ASCO...... ¡ASCOOO!」"
+
+msgid "Ryuuji「Hm? Those voices......」"
+msgstr "Ryuuji「¿Hm? Esas voces......」"
+
+msgid "Ryuuji「（Sensei...... and Inko-chan!）」"
+msgstr "Ryuuji「（¡Sensei...... e Inko-chan!）」"
+
+msgid "Ryuuji「（Inko-chan! Next to it is＿Koigakubo-san...... right?）」"
+msgstr "Ryuuji「（¡Inko-chan! Y a su lado está＿Koigakubo-san...... ¿verdad?）」"
+
+msgid "Yuri「I know what it feels like, when you＿can't take it anymore and want to just＿fly away～」"
+msgstr "Yuri「Sé lo que se siente＿cuando ya no aguantas más＿y solo quieres salir volando～」"
+
+msgid "Inko-chan「JUST, ST, STAGGER?」"
+msgstr "Inko-chan「¿SOLO, TA, TAMBALEA?」"
+
+msgid "Yuri「Yup...... Maybe I'm already staggering＿under the weight of life......」"
+msgstr "Yuri「Sí...... Quizá ya me estoy tambaleando＿bajo el peso de la vida......」"
+
+msgid "Inko-chan「DIZZY?」"
+msgstr "Inko-chan「¿MAREADA?」"
+
+msgid "Yuri「Yeah...... Looking at my students,＿sometimes I feel dizzy. Their lives are＿all so bright...... Then I start thinking.」"
+msgstr "Yuri「Sí...... Al ver a mis alumnos, a veces＿me mareo. Sus vidas brillan tanto......＿Y entonces me pongo a pensar.」"
+
+msgid "Yuri「I think, \"Surely my life must have been＿as bright as theirs at some point.\"」"
+msgstr "Yuri「Pienso: \"Seguro que mi vida también＿fue tan brillante como la suya＿en algún momento\".」"
+
+msgid "Inko-chan「DOOM, GOO, GLOOM」"
+msgstr "Inko-chan「SOM, SOM, SOMBRÍA」"
+
+msgid "Yuri「I'm sorry. I AM gloomy, aren't I? I'm no＿good like this......」"
+msgstr "Yuri「Lo siento. SÍ soy sombría, ¿verdad?＿No sirvo así......」"
+
+msgid "Inko-chan「CR, CRY!」"
+msgstr "Inko-chan「¡LL, LLORAR!」"
+
+msgid "Yuri「......*Gasp*! Did you say \"cry\"? You're＿crying for me?」"
+msgstr "Yuri「......¡Ah! ¿Dijiste \"llorar\"?＿¿Estás llorando por mí?」"
+
+msgid "Yuri「......No, how could I say that......? I'm＿already 30.」"
+msgstr "Yuri「......No, ¿cómo puedo decir eso......?＿Ya tengo 30 años.」"
+
+msgid "Inko-chan「SAY, PAIN, FUL?」"
+msgstr "Inko-chan「¿DI, DO, DOLOROSO?」"
+
+msgid "Yuri「No, no, I'm okay! Talking with you has＿been just so...... I know! Want to come＿home with me?」"
+msgstr "Yuri「¡No, no, estoy bien! Hablar contigo＿ha sido tan...... ¡Ya sé! ¿Quieres＿venir a casa conmigo?」"
+
+msgid "Ryuuji「H-Hold it right there!」"
+msgstr "Ryuuji「¡E-Espere un momento!」"
+
+msgid "Yuri「Wha......? Ah, Takasu-kun!」"
+msgstr "Yuri「¿Qué......? ¡Ah, Takasu-kun!」"
+
+msgid "Ryuuji「That parakeet, Inko-chan, belongs to＿my family.」"
+msgstr "Ryuuji「Ese periquito, Inko-chan,＿pertenece a mi familia.」"
+
+msgid "Yuri「R-Really?」"
+msgstr "Yuri「¿E-En serio?」"
+
+msgid "Inko-chan「RE, REALLY......」"
+msgstr "Inko-chan「EN, EN SERIO......」"
+
+msgid "Ryuuji「I've been searching for it nonstop＿since this morning. Thank you so much＿for looking after it.」"
+msgstr "Ryuuji「Lo he estado buscando sin parar＿desde esta mañana. Muchas gracias＿por cuidarlo.」"
+
+msgid "Yuri「I wasn't looking after the little thing. I＿was just talking to it.」"
+msgstr "Yuri「No estaba cuidando al pequeñín.＿Solo estaba hablando con él.」"
+
+msgid "Ryuuji「Oh, I see...... Err, can I have it back,＿then?」"
+msgstr "Ryuuji「Ah, ya veo...... Ehm, ¿entonces＿puedo llevármelo de vuelta?」"
+
+msgid "Yuri「But...... the little one has gotten＿attached to me.」"
+msgstr "Yuri「Pero...... el pequeñín ya＿se encariñó conmigo.」"
+
+msgid "Ryuuji「Well, uhh......」"
+msgstr "Ryuuji「Bueno, ehh......」"
+
+msgid "Yuri「I understand its suffering, and it can＿understand mine......」"
+msgstr "Yuri「Entiendo su sufrimiento, y él＿puede entender el mío......」"
+
+msgid "Ryuuji「（What on earth is she saying......? I give＿up. She's not going to give it back......）」"
+msgstr "Ryuuji「（¿Pero qué está diciendo......? Me＿rindo. No me lo va a devolver......）」"

@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+
+msgid "Inko-chan「RU, RUN, RUN」"
+msgstr "Inko-chan「CO, CORR, CORRE」"
+
+msgid "Ryuuji「Oh, what's wrong? I won't run away＿from you.」"
+msgstr "Ryuuji「Eh, ¿qué pasa? No voy a＿salir corriendo de ti.」"
+
+msgid "Inko-chan「RUNNY, NOSE!」"
+msgstr "Inko-chan「¡MOCO, CORRE!」"
+
+msgid "Ryuuji「Runny nose? Have you caught a cold?」"
+msgstr "Ryuuji「¿Mocos? ¿Te resfriaste?」"
+
+msgid "Inko-chan「NOPE」"
+msgstr "Inko-chan「NOP」"
+
+msgid "Inko-chan「......」"
+msgstr "Inko-chan「......」"
+
+msgid "Ryuuji「Were you screwing with me......? Oh＿well. Good night, Inko-chan.」"
+msgstr "Ryuuji「¿Me estabas tomando el pelo......?＿En fin. Buenas noches, Inko-chan.」"
+
+msgid "Ryuuji「（Whew...... I'm so tired and sleepy all of a＿sudden......）」"
+msgstr "Ryuuji「（Uf...... De repente tengo mucho＿sueño y cansancio......）」"

@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+
+msgid "Inko-chan「TAKE, TAKE IT」"
+msgstr "Inko-chan「TOMA, TÓMALO」"
+
+msgid "Ryuuji「Oh? What do you want me to take?」"
+msgstr "Ryuuji「¿Eh? ¿Qué quieres que tome?」"
+
+msgid "Ryuuji「Hmm? It's one of your favorite＿sunflower seeds. Why would you drop＿this on purpose......? Here.」"
+msgstr "Ryuuji「¿Mmm? Es una de tus semillas de girasol＿favoritas. ¿Por qué tirarías esto＿a propósito......? Toma.」"
+
+msgid "Inko-chan「TAKE IT, TAKE IT!」"
+msgstr "Inko-chan「¡TÓMALO, TÓMALO!」"
+
+msgid "Ryuuji「......You want me to take this? Feels＿really condescending somehow, but......＿Thanks, Inko-chan.」"
+msgstr "Ryuuji「......¿Quieres que lo tome? De algún＿modo se siente muy condescendiente,＿pero...... Gracias, Inko-chan.」"
+
+msgid "Inko-chan「GOO, GOOD......」"
+msgstr "Inko-chan「BIE, BIEN......」"
+
+msgid "Inko-chan「......」"
+msgstr "Inko-chan「......」"
+
+msgid "Ryuuji「Who died and made you king......? Good＿night, Inko-chan.」"
+msgstr "Ryuuji「¿Y desde cuándo eres el rey......?＿Buenas noches, Inko-chan.」"
+
+msgid "Ryuuji「（Now then...... For now I'll at least＿prepare some space for me to sleep＿in......）」"
+msgstr "Ryuuji「（Bueno...... Por ahora al menos＿haré algo de espacio para poder＿dormir......）」"

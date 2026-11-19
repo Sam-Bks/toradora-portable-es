@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「（Hmmm...... Can't find it......）」"
+msgstr "Ryuuji「（Mmmm...... No lo encuentro......）」"
+
+msgid "???「Really...... I understand. I feel the same＿way......」"
+msgstr "???「De verdad...... Lo entiendo.＿Siento lo mismo......」"
+
+msgid "???「FEEL...... FEEELLL!」"
+msgstr "???「SIENTO...... ¡SIENTOOO!」"
+
+msgid "Ryuuji「Hm? Those voices......」"
+msgstr "Ryuuji「¿Hm? Esas voces......」"
+
+msgid "Ryuuji「（It's Sensei...... and Inko-chan! Why would＿Inko-chan be here......?）」"
+msgstr "Ryuuji「（Es Sensei...... ¡e Inko-chan! ¿Por＿qué estaría Inko-chan aquí......?）」"
+
+msgid "Ryuuji「（Why is Inko-chan with Koigakubo-san?＿Why is Inko-chan even here in the first＿place......?）」"
+msgstr "Ryuuji「（¿Por qué está Inko-chan con＿Koigakubo-san? ¿Para empezar, por＿qué está Inko-chan aquí......?）」"
+
+msgid "Yuri「I know what it feels like, when you＿can't take it anymore and want to just＿fly away～」"
+msgstr "Yuri「Sé lo que se siente＿cuando ya no aguantas más＿y solo quieres salir volando～」"
+
+msgid "Inko-chan「WH, WHE, WHERE?」"
+msgstr "Inko-chan「¿DÓ, DÓN, DÓNDE?」"
+
+msgid "Yuri「Where, indeed...... I wonder where I'm＿headed......」"
+msgstr "Yuri「Dónde, es verdad...... Me pregunto＿hacia dónde voy......」"
+
+msgid "Inko-chan「GO, GO...... GO, GO!」"
+msgstr "Inko-chan「VAMOS, VAMOS...... ¡VAMOS, VAMOS!」"
+
+msgid "Yuri「What? Are you angry......? My, I'm sorry!＿You're right, how silly of me, going on＿and on about myself......」"
+msgstr "Yuri「¿Qué? ¿Te enojaste......? ¡Ay, perdón!＿Tienes razón, qué tonta soy hablando＿sin parar de mí misma......」"
+
+msgid "Yuri「But...... Maybe what I need right now is＿someone like you who will scold me......＿Thank you. Thank you so much.」"
+msgstr "Yuri「Pero...... Quizá lo que necesito ahora＿es alguien como tú que me regañe......＿Gracias. Muchas gracias.」"
+
+msgid "Yuri「I know! Want to come home with me?＿I'm sure the two of us would get along.」"
+msgstr "Yuri「¡Ya sé! ¿Quieres venir a casa conmigo?＿Seguro que nos llevaríamos bien.」"
+
+msgid "Ryuuji「H-Hold it right there!」"
+msgstr "Ryuuji「¡E-Espere un momento!」"
+
+msgid "Yuri「Wha......? Ah, Takasu-kun!」"
+msgstr "Yuri「¿Qué......? ¡Ah, Takasu-kun!」"
+
+msgid "Ryuuji「That parakeet, Inko-chan, belongs to＿my family.」"
+msgstr "Ryuuji「Ese periquito, Inko-chan,＿pertenece a mi familia.」"
+
+msgid "Yuri「Really?」"
+msgstr "Yuri「¿En serio?」"
+
+msgid "Inko-chan「RE, REALLY......」"
+msgstr "Inko-chan「EN, EN SERIO......」"
+
+msgid "Ryuuji「I have no idea why Inko-chan's here＿and not in our house where it should＿be...... It probably escaped its cage.」"
+msgstr "Ryuuji「No sé por qué Inko-chan está aquí y no＿en casa donde debería estar...... Seguro＿que se escapó de su jaula.」"
+
+msgid "Ryuuji「Anyway, thank you so much for looking＿after it.」"
+msgstr "Ryuuji「En fin, muchas gracias＿por haberlo cuidado.」"
+
+msgid "Yuri「I wasn't looking after the little thing. I＿was just talking to it.」"
+msgstr "Yuri「No estaba cuidando al pequeñín.＿Solo estaba hablando con él.」"
+
+msgid "Ryuuji「Oh, I see...... Err, can I have it back,＿then?」"
+msgstr "Ryuuji「Ah, ya veo...... Ehm, ¿entonces＿puedo llevármelo de vuelta?」"
+
+msgid "Yuri「Well...... The little one scolded me.」"
+msgstr "Yuri「Bueno...... El pequeñín me regañó.」"
+
+msgid "Ryuuji「Well, uhh......」"
+msgstr "Ryuuji「Bueno, ehh......」"
+
+msgid "Yuri「We get along just great. I need the＿little one, and I can watch over it＿warmly......」"
+msgstr "Yuri「Nos llevamos de maravilla. Necesito＿al pequeñín, y puedo cuidarlo con＿mucho cariño......」"
+
+msgid "Ryuuji「（What on earth is she saying......? I give＿up. She's not going to give it back......）」"
+msgstr "Ryuuji「（¿Pero qué está diciendo......? Me＿rindo. No me lo va a devolver......）」"
+
+msgid "Yuri「I should have had some destination in＿mind, but by the time I realized that, I＿was already in my thirties...... Where do」"
+msgstr "Yuri「Debí haber tenido algún destino en＿mente, pero cuando me di cuenta, ya＿estaba en los treinta...... ¿Adónde」"
+
+msgid "Yuri「you think my life is going?」"
+msgstr "Yuri「crees que va mi vida?」"

@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+
+msgid "Yasuko「You're such a sweet talker,＿Ryuu-chan～ I think you'd fit right in＿here.」"
+msgstr "Yasuko「Qué bien hablas, Ryuu-chan～ Creo que＿encajarías perfectamente aquí.」"
+
+msgid "Ryuuji「But I'm a guy......」"
+msgstr "Ryuuji「Pero soy un chico......」"
+
+msgid "Yasuko「Oh, that's true. What a pity～」"
+msgstr "Yasuko「Ah, es cierto. Qué lástima～」"
+
+msgid "Ryuuji「A pity......?」"
+msgstr "Ryuuji「¿Una lástima......?」"
+
+msgid "Yasuko「Oh, yeah! As a reward for your good＿work, Ryuu-chan can have this～」"
+msgstr "Yasuko「¡Ah, cierto! Como premio por tu buen＿trabajo, Ryuu-chan puede quedarse esto～」"
+
+msgid "Ryuuji「What's this...... Gold......?」"
+msgstr "Ryuuji「¿Qué es esto......? ¿Oro......?」"
+
+msgid "Ryuuji「Whoa!? I-It's a gold tooth!」"
+msgstr "Ryuuji「¡¿Eh?! ¡E-Es un diente de oro!」"
+
+msgid "Yasuko「Heehee, that's right～」"
+msgstr "Yasuko「Jiji, así es～」"
+
+msgid "Ryuuji「Does this bar give out free gold teeth＿to customers?」"
+msgstr "Ryuuji「¿Este bar les regala dientes＿de oro a los clientes?」"
+
+msgid "Yasuko「Nooo. This gold tooth is a precious＿treasure～」"
+msgstr "Yasuko「Nooo. Este diente de oro es＿un tesoro muy valioso～」"
+
+msgid "Ryuuji「Precious treasure?」"
+msgstr "Ryuuji「¿Un tesoro valioso?」"
+
+msgid "Yasuko「Yep. It's so precious that only＿Ryuu-chan can have it.」"
+msgstr "Yasuko「Sip. Es tan valioso que solo＿Ryuu-chan puede tenerlo.」"
+
+msgid "Ryuuji「Are you sure about this......?」"
+msgstr "Ryuuji「¿Estás segura de esto......?」"
+
+msgid "Yasuko「It's OK, gansu. Because it's just as＿precious to Ryuu-chan.」"
+msgstr "Yasuko「Está bien, gansu. Porque es igual＿de valioso para Ryuu-chan.」"
+
+msgid "Ryuuji「Precious to me......? Whose tooth was＿this?」"
+msgstr "Ryuuji「¿Valioso para mí......? ¿De＿quién era este diente?」"
+
+msgid "Yasuko「Hint #1～! A very, very important＿person to both of us～!」"
+msgstr "Yasuko「¡Pista #1～! ¡Alguien muy, muy＿importante para los dos～!」"
+
+msgid "Ryuuji「Do I have to guess......? Anyway, it＿seems important, so I'll take care of it.」"
+msgstr "Ryuuji「¿Debo adivinar......? En fin, parece＿importante, así que lo cuidaré.」"
+
+msgid "Yasuko「That's it? What's your answer?」"
+msgstr "Yasuko「¿Eso es todo? ¿Cuál es tu respuesta?」"
+
+msgid "Ryuuji「I don't know.」"
+msgstr "Ryuuji「No lo sé.」"
+
+msgid "Yasuko「Then hint #2～! ......Umm, umm...... Huh?」"
+msgstr "Yasuko「¡Pista #2～! ......Ehm, ehm...... ¿Eh?」"
+
+msgid "Ryuuji「Why not just tell me directly?」"
+msgstr "Ryuuji「¿Por qué no me lo dices directamente?」"
+
+msgid "Yasuko「Whaa～～? That'd be boring...... Ah,＿gotta go. It's time to prepare for＿business hours!」"
+msgstr "Yasuko「¿Quéee～～? Eso sería aburrido......＿Ah, tengo que irme. ¡Es hora de＿prepararse para abrir!」"
+
+msgid "Ryuuji「Oh, alright. Sorry to disturb you. I'm＿going home.」"
+msgstr "Ryuuji「Ah, está bien. Perdón por＿molestar. Me voy a casa.」"
+
+msgid "Yasuko「Yeah, see you at home, Ryuu-chan.＿Happy New Year～」"
+msgstr "Yasuko「Sí, nos vemos en casa, Ryuu-chan.＿¡Feliz Año Nuevo～!」"
+
+msgid "Ryuuji「Oh, you too, Yasuko.」"
+msgstr "Ryuuji「Ah, tú también, Yasuko.」"

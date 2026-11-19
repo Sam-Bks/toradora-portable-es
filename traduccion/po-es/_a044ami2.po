@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+
+msgid "Ami「Oh no!」"
+msgstr "Ami「¡Oh, no!」"
+
+msgid "Ryuuji「What's the matter?」"
+msgstr "Ryuuji「¿Qué pasa?」"
+
+msgid "Ami「It's almost time to head to the gym. I＿gotta go.」"
+msgstr "Ami「Ya casi es hora de ir al gimnasio.＿Me tengo que ir.」"
+
+msgid "Ryuuji「Alright. Take care on your way home.」"
+msgstr "Ryuuji「Está bien. Cuídate de regreso a casa.」"
+
+msgid "Ami「Make sure you decide on your answer＿by tomorrow, okay?」"
+msgstr "Ami「Asegúrate de decidir tu respuesta＿para mañana, ¿sí?」"
+
+msgid "Ryuuji「Yeah, I will.」"
+msgstr "Ryuuji「Sí, lo haré.」"
+
+msgid "Ami「See ya～」"
+msgstr "Ami「Nos vemos～」"
+
+msgid "Ryuuji「（I'll think it over carefully on the way＿home......）」"
+msgstr "Ryuuji「（Lo pensaré con cuidado de＿camino a casa......）」"

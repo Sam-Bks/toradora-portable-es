@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+
+msgid "Sakura「P-Please...... Just stop this!」"
+msgstr "Sakura「P-Por favor...... ¡Basta ya!」"
+
+msgid "Kota「Huh......?」"
+msgstr "Kota「¿Eh......?」"
+
+msgid "Sakura「P-Please, j-just stop t-teasing me!」"
+msgstr "Sakura「¡P-Por favor, d-deja de＿b-burlarte de mí!」"
+
+msgid "Kota「............」"
+msgstr "Kota「............」"
+
+msgid "Sakura「............」"
+msgstr "Sakura「............」"
+
+msgid "Sakura「......I'm waiting here to meet up with＿Kota-kun.」"
+msgstr "Sakura「......Estoy esperando aquí a Kota-kun.」"
+
+msgid "Kota「Then why don't we do it over the＿phone?」"
+msgstr "Kota「¿Y si lo hacemos por teléfono?」"
+
+msgid "Sakura「He hasn't been answering...... I even＿tried calling the house phone.」"
+msgstr "Sakura「No contesta...... Hasta intenté＿llamar a su casa.」"
+
+msgid "Kota「Is he waiting for me to come back......? I＿know he's there. Please, come see for＿yourself.」"
+msgstr "Kota「¿Espera a que vuelva......?＿Sé que está ahí. Por favor,＿ven a verlo tú misma.」"
+
+msgid "Sakura「......Looks like my cell phone just died.」"
+msgstr "Sakura「......Parece que mi teléfono＿se quedó sin batería.」"
+
+msgid "Kota「Then let's use that pay phone over＿there.」"
+msgstr "Kota「Usemos ese teléfono público de allí.」"
+
+msgid "Sakura「............」"
+msgstr "Sakura「............」"
+
+msgid "Sakura「Stop--! Wait--! Please don't push me!」"
+msgstr "Sakura「¡Basta--! ¡Espera--! ¡Por＿favor, no me empujes!」"
+
+msgid "Sakura「I, I, I understand, so stop pushing me!」"
+msgstr "Sakura「¡Y-Y-Ya entendí, así que＿deja de empujarme!」"
+
+msgid "Woman「Eek! A kidnapping!?」"
+msgstr "Mujer「¡Hiii! ¡¿Un secuestro?!」"
+
+msgid "Kota「J-Just a lover's spat!」"
+msgstr "Kota「¡S-Solo es una pelea de novios!」"
+
+msgid "Sakura「Y-You mentioned things only the two＿of us would know, but it's possible you＿got Kota-kun to tell you...... I, I just can't」"
+msgstr "Sakura「M-Mencionaste cosas que solo sabemos＿los dos, pero quizá Kota-kun te las＿contó...... Y-Yo no puedo」"
+
+msgid "Sakura「see this as anything more than a＿p-prank!」"
+msgstr "Sakura「ver esto más que como una b-broma!」"
+
+msgid "Kota「T-Then...... Will you at least meet with＿Takasu-senpai......? Um, I know I look＿like him, but he's at my house, so I can」"
+msgstr "Kota「E-Entonces...... ¿Verías al menos a＿Takasu-senpai......? Ehm, parezco él,＿pero está en mi casa, así que puedo」"
+
+msgid "Kota「ask him to come outside.」"
+msgstr "Kota「pedirle que salga.」"
+
+msgid "Kota「I'm...... I'm happy that you would wait so＿long for the normal me, but I'm＿begging you, listen to me! Argh! Come」"
+msgstr "Kota「Me...... Me alegra que esperes tanto＿al yo de siempre, pero te lo suplico,＿¡escúchame! ¡Argh! ¡Vamos,」"
+
+msgid "Kota「on, let's go!」"
+msgstr "Kota「ven conmigo!」"
+
+msgid "Kota「I'm begging you, try calling him! We'll＿ask him to meet up with us and we can＿all talk about this! I'm sure you'll」"
+msgstr "Kota「¡Te lo suplico, intenta llamarlo!＿¡Le pediremos que venga y lo hablaremos＿entre todos! ¡Seguro que」"
+
+msgid "Kota「believe me!」"
+msgstr "Kota「me creerás!」"

@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+
+msgid "Inko-chan「O, OKAY! OKAY!」"
+msgstr "Inko-chan「¡B, BIEN! ¡BIEN!」"
+
+msgid "Ryuuji「\"Okay\" what? You're the one getting＿worked up here, Inko-chan.」"
+msgstr "Ryuuji「¿\"Bien\" qué? Tú eres quien se está＿alterando aquí, Inko-chan.」"
+
+msgid "Inko-chan「CAN'T, TAKE, IT!」"
+msgstr "Inko-chan「¡NO, PUEDO, MÁS!」"
+
+msgid "Ryuuji「What's wrong......? Did I really get you＿that excited?」"
+msgstr "Ryuuji「¿Qué pasa......? ¿De verdad＿te emocioné tanto?」"
+
+msgid "Inko-chan「LET, ME! SLEEP!」"
+msgstr "Inko-chan「¡DÉ, JAME! ¡DORMIR!」"
+
+msgid "Ryuuji「O-Oh...... Sorry, Inko-chan. Good night.」"
+msgstr "Ryuuji「A-Ah...... Perdón, Inko-chan.＿Buenas noches.」"
+
+msgid "Ryuuji「*Sigh*...... I need to sleep too, even if it＿means forcing myself......」"
+msgstr "Ryuuji「*Suspiro*...... Yo también tengo que＿dormir, aunque sea a la fuerza......」"

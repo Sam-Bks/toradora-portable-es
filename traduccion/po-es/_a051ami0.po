@@ -1,0 +1,461 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「Oh!?」"
+msgstr "Ryuuji「¡¿Eh?!」"
+
+msgid "???「Guess whooo～①」"
+msgstr "???「¡Adivina quién soyyy～!①」"
+
+msgid "Ryuuji「......Look here, weren't we supposed to＿meet in front of Sudoh-Bucks?」"
+msgstr "Ryuuji「......Oye, ¿no se suponía que nos＿veríamos frente a Sudoh-Bucks?」"
+
+msgid "Ami「Boooo! You should have let Ami-chan＿startle you more than that. Boooring.」"
+msgstr "Ami「¡Buuuu! Debiste dejar que Ami-chan te＿asustara más que eso. Qué aburridooo.」"
+
+msgid "Ami「I just couldn't wait so, like, here I am①」"
+msgstr "Ami「Es que no podía esperar＿y, pues, aquí estoy①」"
+
+msgid "Ryuuji「Stop being creepy. Jeez, you're peppy＿first thing in the morning.」"
+msgstr "Ryuuji「Deja de dar miedo. Caray, qué animada＿estás a primera hora de la mañana.」"
+
+msgid "Ryuuji「She certainly did keep her arrival a＿secret, so she probably doesn't intend＿to stay for long.」"
+msgstr "Ryuuji「Es cierto que mantuvo su llegada en＿secreto, así que probablemente no＿piense quedarse mucho tiempo.」"
+
+msgid "Ami「Now you get it～」"
+msgstr "Ami「Ahora sí entiendes～」"
+
+msgid "Ami「Whaaat～? For a man, you're a hassle＿and a worrywart. You don't know＿anything, so don't run your mouth!」"
+msgstr "Ami「¿Quéee～? Para ser hombre, eres muy＿complicado y aprensivo. ¡No sabes nada,＿así que no abras la boca!」"
+
+msgid "Ryuuji「（Up to them, huh...... Yasuko said＿something similar, but...... Kitamura,＿what matters is, how do you feel?）」"
+msgstr "Ryuuji「（Depende de ellos, ¿eh......? Yasuko＿dijo algo parecido, pero...... Kitamura,＿¿qué es lo que tú sientes?）」"
+
+msgid "Ami「So? You thought it over last night,＿right?」"
+msgstr "Ami「¿Y bien? Lo estuviste pensando＿anoche, ¿verdad?」"
+
+msgid "Ryuuji「Y-Yeah.」"
+msgstr "Ryuuji「S-Sí.」"
+
+msgid "Ryuuji「（I can't possibly tell her I passed out......＿No, that was my own way of thinking!）」"
+msgstr "Ryuuji「（No puedo decirle que me quedé＿dormido...... ¡No, esa fue mi＿propia forma de pensar!）」"
+
+msgid "Ami「Well? Gonna help with Ami-chan's＿plan? Yes or no?」"
+msgstr "Ami「¿Y? ¿Vas a ayudar con el plan＿de Ami-chan? ¿Sí o no?」"
+
+msgid "Ryuuji「（Kitamura, what do you want to do?＿Kitamura...... Hmm?）」"
+msgstr "Ryuuji「（Kitamura, ¿qué es lo que quieres＿hacer? Kitamura...... ¿Mmm?）」"
+
+msgid "Ryuuji「（I just had a fleeting thought......＿Something golden with a weird sparkle.＿It was......）」"
+msgstr "Ryuuji「（Acabo de tener un pensamiento＿fugaz...... Algo dorado con un＿brillo raro. Era......）」"
+
+msgid "J-Just a dizzy spell......?"
+msgstr "¿S-Solo un mareo......?"
+
+msgid "Yasuko's beloved golden front tooth!"
+msgstr "¡El amado diente de oro de Yasuko!"
+
+msgid "Blond Kitamura?"
+msgstr "¿Kitamura rubio?"
+
+msgid "Ryuuji「（Ugh...... Everything's going hazy. It's......）」"
+msgstr "Ryuuji「（Ugh...... Todo se está poniendo＿borroso. Es......）」"
+
+msgid "Ami「What's wrong? Takasu-kun, are you＿dizzy?」"
+msgstr "Ami「¿Qué pasa? Takasu-kun, ¿estás mareado?」"
+
+msgid "Ryuuji「（It's a dizzy spell...... Is it a side effect＿from the amnesia? In that case......）」"
+msgstr "Ryuuji「（Es un mareo...... ¿Será un＿efecto secundario de la amnesia?＿En ese caso......）」"
+
+msgid "Ryuuji「Sorry, Kawashima, but I gotta back out.」"
+msgstr "Ryuuji「Perdón, Kawashima, pero＿tengo que retirarme.」"
+
+msgid "Ryuuji「You came of your own accord...... No,＿but seriously, I'm not feeling too well.」"
+msgstr "Ryuuji「Viniste por tu propia cuenta...... No,＿en serio, no me siento muy bien.」"
+
+msgid "Ami「UNBELIEVABLE. God, you're such a＿baby!!」"
+msgstr "Ami「INCREÍBLE. ¡Por Dios,＿eres todo un bebé!!」"
+
+msgid "Ryuuji「Just listen. I've been doing some＿thinking.」"
+msgstr "Ryuuji「Solo escucha. He estado＿pensando un poco.」"
+
+msgid "Ami「Whaaaaat～? Takasu-kun, you're like,＿so heartless! Are you saying you're＿gonna just, like, abandon Yuusaku?」"
+msgstr "Ami「¿Quéeee～? ¡Takasu-kun, eres tan＿desalmado! ¿Estás diciendo que vas＿a abandonar a Yuusaku así como así?」"
+
+msgid "Ryuuji「You can think I'm a monster if you＿want. This is what friendship means to＿me.」"
+msgstr "Ryuuji「Puedes pensar que soy un monstruo＿si quieres. Esto es lo que significa＿la amistad para mí.」"
+
+msgid "Ami「Wooow, like, I really pity Yuusaku for＿having such a worthless impotent＿bastard for a friend～」"
+msgstr "Ami「Guaaau, me da mucha lástima Yuusaku＿por tener de amigo a un miserable＿impotente bueno para nada～」"
+
+msgid "Ryuuji「I am not impotent!」"
+msgstr "Ryuuji「¡No soy impotente!」"
+
+msgid "Ami「......Whatever. Seriously, I didn't expect＿you to be so coldhearted, Takasu-kun.」"
+msgstr "Ami「......Como sea. En serio, no esperaba＿que fueras tan insensible, Takasu-kun.」"
+
+msgid "Ryuuji「S-Say what you want...... Hey, where are＿you going?」"
+msgstr "Ryuuji「D-Di lo que quieras......＿Oye, ¿a dónde vas?」"
+
+msgid "Ami「Home. Buzz off and don't follow me.」"
+msgstr "Ami「A casa. Piérdete y no me sigas.」"
+
+msgid "Ryuuji「What's with her all of a sudden......?＿Save your breath, I ain't gonna follow＿you.」"
+msgstr "Ryuuji「¿Qué le pasa de repente......? Ahórrate＿el aliento, no te voy a seguir.」"
+
+msgid "Ryuuji「（I can't even follow her line of＿thinking......）」"
+msgstr "Ryuuji「（Ni siquiera logro seguir su＿forma de pensar......）」"
+
+msgid "Ryuuji「（Kitamura...... The rest is up to you.）」"
+msgstr "Ryuuji「（Kitamura...... El resto depende de ti.）」"
+
+msgid "Ryuuji「......The gold tooth.」"
+msgstr "Ryuuji「......El diente de oro.」"
+
+msgid "Ami「Did you say something?」"
+msgstr "Ami「¿Dijiste algo?」"
+
+msgid "Ryuuji「That's it! The gold tooth! ......Sorry,＿better count me out.」"
+msgstr "Ryuuji「¡Eso es! ¡El diente de oro! ......Lo＿siento, mejor no cuentes conmigo.」"
+
+msgid "Ryuuji「Kawashima, look at this.」"
+msgstr "Ryuuji「Kawashima, mira esto.」"
+
+msgid "Ami「What's that? It's sparkly...... Solid gold?＿Pretty......」"
+msgstr "Ami「¿Qué es eso? Brilla...... ¿Oro＿macizo? Qué lindo......」"
+
+msgid "Ami「Wait, nasty!! That's a gold tooth! Don't＿make me touch that!」"
+msgstr "Ami「¡Espera, qué asco!! ¡Es un diente＿de oro! ¡No me hagas tocar eso!」"
+
+msgid "Ryuuji「I got this from Yasuko, see. Apparently＿this was my father's tooth.」"
+msgstr "Ryuuji「Esto me lo dio Yasuko, ¿ves? Al parecer＿era el diente de mi padre.」"
+
+msgid "Ami「......What?」"
+msgstr "Ami「......¿Qué?」"
+
+msgid "Ryuuji「My old man had gold teeth, wore white＿suits with open collars, and had a gold＿chain with a pouch.」"
+msgstr "Ryuuji「Mi padre tenía dientes de oro, usaba＿trajes blancos de cuello abierto y＿llevaba una cadena de oro con bolsita.」"
+
+msgid "Ami「Sorry, but let me be frank. How utterly＿LAME!!」"
+msgstr "Ami「Perdón, pero seré franca.＿¡Qué cosa tan PATÉTICA!!」"
+
+msgid "Ami「Well, isn't your dad just lovely......」"
+msgstr "Ami「Vaya, pero qué encantador＿es tu papá......」"
+
+msgid "Ami「............」"
+msgstr "Ami「............」"
+
+msgid "Ryuuji「I think this really is up to Kitamura. It's＿something only the two of them can＿truly understand.」"
+msgstr "Ryuuji「Creo que esto en verdad depende de＿Kitamura. Es algo que solo ellos dos＿pueden entender de verdad.」"
+
+msgid "Ami「............」"
+msgstr "Ami「............」"
+
+msgid "Ryuuji「Sorry, Kawashima.」"
+msgstr "Ryuuji「Lo siento, Kawashima.」"
+
+msgid "Ami「BORING!! Maybe I overestimated you,＿Takasu-kun.」"
+msgstr "Ami「¡¡ABURRIDO!! Tal vez te sobreestimé,＿Takasu-kun.」"
+
+msgid "Ryuuji「So be it.」"
+msgstr "Ryuuji「Que así sea.」"
+
+msgid "Ami「......But I don't really hate that way of＿thinking.」"
+msgstr "Ami「......Pero no me desagrada＿esa forma de pensar.」"
+
+msgid "Ryuuji「Oh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Ryuuji「I'm not useless.」"
+msgstr "Ryuuji「No soy un inútil.」"
+
+msgid "Ami「Listen, Takasu-kun.」"
+msgstr "Ami「Escucha, Takasu-kun.」"
+
+msgid "Ami「Even I understand that you can't turn＿back time.」"
+msgstr "Ami「Hasta yo entiendo que no se puede＿retroceder el tiempo.」"
+
+msgid "Ami「I just wanted to keep the hope alive.＿\"Maybe I can find a place to belong＿with Takasu-kun.\"」"
+msgstr "Ami「Solo quería mantener viva la esperanza.＿\"Tal vez pueda encontrar un lugar al que＿pertenecer junto a Takasu-kun.\"」"
+
+msgid "Ryuuji「......What?」"
+msgstr "Ryuuji「......¿Qué?」"
+
+msgid "Ami「What would you do if I said that?」"
+msgstr "Ami「¿Qué harías si te dijera eso?」"
+
+msgid "Ryuuji「......I don't know what you mean.」"
+msgstr "Ryuuji「......No sé a qué te refieres.」"
+
+msgid "Ami「Thought so. Useless guy for sure～」"
+msgstr "Ami「Lo sabía. Qué chico más inútil～」"
+
+msgid "Ryuuji「Where are you going?」"
+msgstr "Ryuuji「¿A dónde vas?」"
+
+msgid "Ami「Home. See you～」"
+msgstr "Ami「A casa. Nos vemos～」"
+
+msgid "Ryuuji「Uh......」"
+msgstr "Ryuuji「Eh......」"
+
+msgid "Ryuuji「（She's gone...... It's for the best,＿right......?）」"
+msgstr "Ryuuji「（Se fue...... Es lo mejor,＿¿verdad......?）」"
+
+msgid "Ryuuji「（Kitamura......）」"
+msgstr "Ryuuji「（Kitamura......）」"
+
+msgid "Ryuuji「Blond Kitamura...... That reminds me, I＿saw him go blond just recently......」"
+msgstr "Ryuuji「Kitamura rubio...... Eso me＿recuerda que lo vi teñirse de＿rubio hace poco......」"
+
+msgid "Ryuuji「No, I've seen blond Kitamura before＿that, too......」"
+msgstr "Ryuuji「No, también había visto a Kitamura＿rubio antes de eso......」"
+
+msgid "Ryuuji「I don't know why blond Kitamura just＿sprang to mind...... Pretty sure he has＿black hair......」"
+msgstr "Ryuuji「No sé por qué me vino a la mente＿Kitamura rubio...... Estoy casi seguro＿de que tiene el pelo negro......」"
+
+msgid "Ryuuji「No, it was a while back. I saw blond＿Kitamura in the past......」"
+msgstr "Ryuuji「No, fue hace tiempo. Vi a Kitamura＿rubio en el pasado......」"
+
+msgid "Ami「Takasu-kun? What's wrong?」"
+msgstr "Ami「¿Takasu-kun? ¿Qué pasa?」"
+
+msgid "Ryuuji「\"GET BLACK! For Men\"?」"
+msgstr "Ryuuji「¿\"GET BLACK! Para Hombres\"?」"
+
+msgid "Ami「W-What are you......? *Gasp*! Don't tell＿me......」"
+msgstr "Ami「¿Q-Qué estás......? ¡Ah!＿No me digas......」"
+
+msgid "Ryuuji「He dropped in at my place, and when＿Yasuko tried to dye his hair back, he＿went on a rampage and left......!」"
+msgstr "Ryuuji「Pasó por mi casa y, cuando Yasuko＿intentó teñirle el pelo de nuevo, ¡se＿puso como loco y se fue......!」"
+
+msgid "Kitamura「......Prez! I LOVE YOUUUUUUUUU!!」"
+msgstr "Kitamura「......¡Presidenta! ¡¡TE AMOOOOOOOOO!!」"
+
+msgid "Ryuuji「He...... Kitamura loved her that much......!」"
+msgstr "Ryuuji「Él...... ¡Kitamura la amaba tanto......!」"
+
+msgid "Ami「You remembered?」"
+msgstr "Ami「¿Lo recordaste?」"
+
+msgid "Ryuuji「That's true, but...... I nearly overlooked＿this chance he has with Kanou Sumire＿back in town.」"
+msgstr "Ryuuji「Es verdad, pero...... Casi paso por＿alto esta oportunidad que tiene ahora＿que Kanou Sumire volvió.」"
+
+msgid "Ami「Ufu, so you're interested in hooking up＿Yuusaku and Kanou Sumire?」"
+msgstr "Ami「Juju, ¿así que te interesa emparejar＿a Yuusaku y a Kanou Sumire?」"
+
+msgid "Ami「Now you're talking! ① Ami-chan's＿Operation Codename Venus①」"
+msgstr "Ami「¡Así se habla! ① La operación de＿Ami-chan: Nombre en clave Venus①」"
+
+msgid "Ryuuji「......Beg your pardon?」"
+msgstr "Ryuuji「......¿Cómo dijiste?」"
+
+msgid "Ryuuji「No thanks. But I'll give it my all for＿Kitamura's sake.」"
+msgstr "Ryuuji「No, gracias. Pero daré todo de＿mí por el bien de Kitamura.」"
+
+msgid "Ami「I knew you would. No trickery befalls＿Ami-chan's eyes ① Now then, first of＿all......」"
+msgstr "Ami「Sabía que lo harías. Nada engaña＿a los ojos de Ami-chan ① Bueno,＿antes que nada......」"
+
+msgid "Ami「......Are you saying you haven't＿remembered what happened after＿Yuusaku confessed?」"
+msgstr "Ami「......¿Quieres decir que no has＿recordado lo que pasó después de＿que Yuusaku se declarara?」"
+
+msgid "Ryuuji「After he confessed? Did something＿happen......? That reminds me, how＿exactly is she involved with them?」"
+msgstr "Ryuuji「¿Después de declararse? ¿Pasó＿algo......? Ahora que lo pienso, ¿cómo＿es que ella está involucrada con ellos?」"
+
+msgid "Ami「......Ufufu①」"
+msgstr "Ami「......Jujuju①」"
+
+msgid "Ryuuji「Not this again.」"
+msgstr "Ryuuji「Otra vez con eso no.」"
+
+msgid "Ami「Okay, since you insist, let's invite Tiger.」"
+msgstr "Ami「Bien, ya que insistes,＿invitemos a Tigre.」"
+
+msgid "Ryuuji「No, never mind. I've got a bad feeling＿about that.」"
+msgstr "Ryuuji「No, olvídalo. Tengo un mal＿presentimiento sobre eso.」"
+
+msgid "Ryuuji「Mm......」"
+msgstr "Ryuuji「Mm......」"
+
+msgid "Ami「'Kay? ① It's a plan～! Oh my, like, things＿just got interesting～!」"
+msgstr "Ami「¿Sí? ① ¡Hecho～! ¡Cielos, esto se＿puso de lo más interesante～!」"
+
+msgid "Ryuuji「......I have no life......」"
+msgstr "Ryuuji「......No tengo vida......」"
+
+msgid "Ryuuji「（......It's no use. I can't get motivated at＿all.）」"
+msgstr "Ryuuji「（......No sirve de nada. No logro＿motivarme en absoluto.）」"
+
+msgid "Ryuuji「（I'm sure Kitamura is fine......）」"
+msgstr "Ryuuji「（Seguro que Kitamura está bien......）」"
+
+msgid "Inko-chan「............」"
+msgstr "Inko-chan「............」"
+
+msgid "Ryuuji「Hey, Inko-chan...... This is an important＿decision, right?」"
+msgstr "Ryuuji「Oye, Inko-chan...... Esta es una＿decisión importante, ¿verdad?」"
+
+msgid "Inko-chan「I...... IM, IMP......」"
+msgstr "Inko-chan「I...... IM, IMP......」"
+
+msgid "Ryuuji「I, I knew it! I knew you'd understand,＿Inko-chan!」"
+msgstr "Ryuuji「¡L-Lo sabía! ¡Sabía que me＿entenderías, Inko-chan!」"
+
+msgid "Inko-chan「IMPO...... TENT!!」"
+msgstr "Inko-chan「¡¡IMPO...... TENTE!!」"
+
+msgid "Ryuuji「I'M NOT IMPOTENT!!」"
+msgstr "Ryuuji「¡¡NO SOY IMPOTENTE!!」"
+
+msgid "Ryuuji「......*Sigh*」"
+msgstr "Ryuuji「......*Suspiro*」"
+
+msgid "Ryuuji「I'm worthless, huh......?」"
+msgstr "Ryuuji「No sirvo para nada, ¿eh......?」"
+
+msgid "Ryuuji「I hope Kitamura can work things out＿on his own, but......」"
+msgstr "Ryuuji「Espero que Kitamura pueda resolverlo＿por su cuenta, pero......」"
+
+msgid "Inko-chan「HE, HE...... HELL ON......」"
+msgstr "Inko-chan「IN, IN...... INFIERNO EN......」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Inko-chan「......EARTH......」"
+msgstr "Inko-chan「......LA TIERRA......」"
+
+msgid "Ryuuji「What!?」"
+msgstr "Ryuuji「¡¿Qué?!」"
+
+msgid "Ryuuji「\"Hell on earth\"...... For me or for＿Kitamura?」"
+msgstr "Ryuuji「¿\"Infierno en la tierra\"......＿Para mí o para Kitamura?」"
+
+msgid "Ryuuji「Wait, don't just go to sleep and leave＿me with that mysteriously ominous＿prediction, Inko-chan!」"
+msgstr "Ryuuji「Espera, ¡no te duermas dejándome＿con esa predicción misteriosamente＿siniestra, Inko-chan!」"
+
+msgid "Ryuuji「......L-Let's just pretend we didn't hear＿that.」"
+msgstr "Ryuuji「......H-Hagamos como que＿no escuchamos eso.」"
+
+msgid "Ryuuji「（I want you to be happy, Kitamura......!）」"
+msgstr "Ryuuji「（¡Deseo que seas feliz, Kitamura......!）」"
+
+msgid "Ami「Of course I am. We don't know when＿Kanou Sumire will go back to America,＿do we?」"
+msgstr "Ami「Claro que sí. No sabemos cuándo＿volverá Kanou Sumire a Estados＿Unidos, ¿o sí?」"
+
+msgid "Ami「This isn't the time to be dragging my＿feet.」"
+msgstr "Ami「No es momento de quedarse＿de brazos cruzados.」"
+
+msgid "Ryuuji「Wait. This means, even if things go＿well, they'll soon be an ocean apart＿again.」"
+msgstr "Ryuuji「Espera. Eso significa que, incluso si＿todo sale bien, pronto volverán a estar＿a un océano de distancia.」"
+
+msgid "Ryuuji「How can you hook them up knowing＿that?」"
+msgstr "Ryuuji「¿Cómo puedes juntarlos sabiendo eso?」"
+
+msgid "Ami「Their parting was such sweet sorrow,＿so there's nothing wrong with giving＿them a second chance!」"
+msgstr "Ami「Su despedida fue agridulce, ¡así＿que no tiene nada de malo darles＿una segunda oportunidad!」"
+
+msgid "Ami「Where it goes from there is up to＿them, right?」"
+msgstr "Ami「Lo que pase después depende＿de ellos, ¿no?」"
+
+msgid "Ami「Excuse you!? You made the lovely＿Ami-chan come get you first thing in＿the morning. Don't - tell - me, you're」"
+msgstr "Ami「¡¿Disculpa?! Hiciste que la linda＿Ami-chan viniera a buscarte a primera＿hora. ¿No - me - digas - que」"
+
+msgid "Ami「going to refuse?」"
+msgstr "Ami「vas a negarte?」"
+
+msgid "Ryuuji「Like you said, since I lost my memory＿on top of going into a coma, I'm not＿really up to speed on the situation」"
+msgstr "Ryuuji「Como dijiste, ya que perdí la memoria＿además de entrar en coma, no estoy muy＿al tanto de cómo está la situación」"
+
+msgid "Ryuuji「here.」"
+msgstr "Ryuuji「aquí.」"
+
+msgid "Ryuuji「I don't think a guy like me having a say＿in someone else's love affairs is really＿going to help. No progress would be」"
+msgstr "Ryuuji「No creo que alguien como yo opinando＿sobre los amores ajenos ayude mucho.＿De ningún modo se lograría」"
+
+msgid "Ryuuji「made. Therefore, regardless of my＿health, I want no part in your plan.」"
+msgstr "Ryuuji「avanzar. Por lo tanto, sin＿importar mi salud, no quiero＿participar en tu plan.」"
+
+msgid "Ryuuji「......Anyway, I'm deathly curious about＿what happened between Kitamura,＿Taiga and Kanou Sumire, but I think」"
+msgstr "Ryuuji「......En fin, me muero de curiosidad＿por saber qué pasó entre Kitamura, Taiga＿y Kanou Sumire, pero creo que」"
+
+msgid "Ryuuji「not doing anything would be in＿Kitamura's best interests.」"
+msgstr "Ryuuji「no hacer nada sería lo＿mejor para Kitamura.」"
+
+msgid "Ami「What are you saying? You made＿Ami-chan come get you first thing in＿the morning, and now you're going to」"
+msgstr "Ami「¿Qué estás diciendo? Hiciste que＿Ami-chan viniera a buscarte a primera＿hora de la mañana, ¿y ahora te vas a」"
+
+msgid "Ami「refuse? Unbelievable!」"
+msgstr "Ami「negar? ¡Increíble!」"
+
+msgid "Ryuuji「That's right, frighteningly lame! With＿looks that would make you think if you＿called him \"lame\" to his face, you'd get」"
+msgstr "Ryuuji「Así es, ¡espantosamente patético! Con＿una pinta que te hace pensar que si le＿dices \"patético\" en la cara, ¡te」"
+
+msgid "Ryuuji「shanked!」"
+msgstr "Ryuuji「apuñala!」"
+
+msgid "Ryuuji「But Yasuko loves that man even now.＿I'm sure that no matter what anyone＿said, she just couldn't stop loving my」"
+msgstr "Ryuuji「Pero Yasuko ama a ese hombre incluso＿ahora. Seguro que sin importar lo que＿dijeran, no podría dejar de amar a mi」"
+
+msgid "Ryuuji「tacky old man.」"
+msgstr "Ryuuji「padre de tan mal gusto.」"
+
+msgid "Ryuuji「Kitamura knows that Kanou Sumire is＿back, so if he doesn't want to have any＿regrets, he'll take action himself. It's」"
+msgstr "Ryuuji「Kitamura sabe que Kanou Sumire volvió,＿así que si no quiere arrepentirse,＿actuará por sí mismo.」"
+
+msgid "Ryuuji「not for us to meddle in.」"
+msgstr "Ryuuji「No nos corresponde entrometernos.」"
+
+msgid "Ami「B-U-T! This isn't what Ami-chan is＿looking for right now. Awwww, just＿when I thought I'd found something」"
+msgstr "Ami「¡P-E-R-O! Esto no es lo que busca＿Ami-chan ahora. Aaaah, justo cuando＿creía haber encontrado algo」"
+
+msgid "Ami「fun to do. You useless man～」"
+msgstr "Ami「divertido que hacer. Eres un inútil～」"
+
+msgid "Ryuuji「Feels like Kitamura used it at some＿point...... The bathroom was a disaster＿after that......」"
+msgstr "Ryuuji「Parece que Kitamura lo usó alguna＿vez...... El baño quedó hecho un＿desastre después de eso......」"
+
+msgid "Ryuuji「But why would Kitamura go to my＿place with \"GET BLACK! For Men\"?」"
+msgstr "Ryuuji「¿Pero por qué iría Kitamura a mi casa＿con \"GET BLACK! Para Hombres\"?」"
+
+msgid "Ryuuji「......That's right! When I think of him＿bleaching his hair out of nowhere......」"
+msgstr "Ryuuji「......¡Es cierto! Ahora que＿recuerdo cuando se decoloró＿el pelo de la nada......」"
+
+msgid "Ryuuji「I remember he rebelled, quit the＿student council, ran away from＿home......」"
+msgstr "Ryuuji「Recuerdo que se rebeló, renunció＿al consejo estudiantil, se escapó＿de casa......」"
+
+msgid "Ryuuji「Y-Yeah. I remember, I really remember＿it! Kitamura was so in love with Kanou＿Sumire......」"
+msgstr "Ryuuji「S-Sí. ¡Lo recuerdo, de verdad lo＿recuerdo! Kitamura estaba tan enamorado＿de Kanou Sumire......」"
+
+msgid "Ryuuji「Kawashima, why wouldn't you tell me＿about something this important?!」"
+msgstr "Ryuuji「Kawashima, ¡¿por qué no me contaste＿algo tan importante?!」"
+
+msgid "Ami「I did tell you! He confessed, and was＿rejected, in front of the whole school.」"
+msgstr "Ami「¡Sí te lo conté! Se declaró y fue＿rechazado frente a toda la escuela.」"
+
+msgid "Ami「Shouldn't that tell you just how blindly＿in love Yuusaku was with that woman?」"
+msgstr "Ami「¿No debería bastar eso para que＿veas lo ciegamente enamorado que＿estaba Yuusaku de esa mujer?」"
+
+msgid "Ryuuji「Oh yeah. That was my first time seeing＿him sulk like that. That's how much＿Kanou Sumire means to him.」"
+msgstr "Ryuuji「Ah, sí. Fue la primera vez que lo vi＿tan decaído. Eso es lo mucho que＿significa Kanou Sumire para él.」"
+
+msgid "Ryuuji「I'd support him to my dying day.」"
+msgstr "Ryuuji「Lo apoyaría hasta el día de mi muerte.」"
+
+msgid "Ami「Ami-chan the goddess of love will aid＿Yuusaku's love with her＿compassionate heart.①」"
+msgstr "Ami「Ami-chan, la diosa del amor,＿ayudará a Yuusaku en el amor＿con su corazón compasivo.①」"
+
+msgid "Ami「I hereby appoint Takasu-kun as the＿Honorary ① Riding ① Shell.」"
+msgstr "Ami「Por la presente nombro a Takasu-kun＿Concha ① de Transporte ① Honoraria.」"
+
+msgid "Ryuuji「Wait, aren't we going to invite Taiga?＿Ever since yesterday, she seems to be＿at a standstill.」"
+msgstr "Ryuuji「Espera, ¿no vamos a invitar＿a Taiga? Desde ayer parece＿que se quedó estancada.」"
+
+msgid "Ryuuji「It's not like her.」"
+msgstr "Ryuuji「No es propio de ella.」"
+
+msgid "Ami「Why? Yuusaku and that woman are at＿the root of Tiger's problems, right?＿Try talking to her.」"
+msgstr "Ami「¿Por qué? Yuusaku y esa mujer son＿la raíz de los problemas de Tigre,＿¿no? Intenta hablar con ella.」"
+
+msgid "Ami「If Tiger says she'll help, I won't stop＿her. Though she'll just get in the damn＿way.」"
+msgstr "Ami「Si Tigre dice que ayudará, no＿la detendré. Aunque solo va a＿ser un maldito estorbo.」"

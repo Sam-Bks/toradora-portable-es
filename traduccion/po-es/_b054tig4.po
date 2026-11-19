@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+
+msgid "Taiga「Look, are you out of things to talk＿about?」"
+msgstr "Taiga「Oye, ¿ya te quedaste sin＿temas de conversación?」"
+
+msgid "Ryuuji「Like what?」"
+msgstr "Ryuuji「¿Como qué?」"
+
+msgid "Taiga「*Sigh* I was wrong to even attempt＿interspecies communication.」"
+msgstr "Taiga「*Suspiro* Fue un error siquiera intentar＿comunicarme entre especies.」"
+
+msgid "Taiga「I promised Minorin we'd go have＿dessert together. Sooo, bye.」"
+msgstr "Taiga「Le prometí a Minorin que iríamos a comer＿postre juntas. Así queee, adiós.」"
+
+msgid "Ryuuji「Oh, okay.」"
+msgstr "Ryuuji「Ah, está bien.」"
+
+msgid "Ryuuji「（Out of nowhere, she's back to being＿rude.）」"
+msgstr "Ryuuji「（De la nada, volvió a ser grosera.）」"
+
+msgid "Ryuuji「（As per my original plan, I think I'll kick＿back for a while.）」"
+msgstr "Ryuuji「（Según mi plan original, creo＿que me relajaré un rato.）」"
+
+msgid "Ryuuji「（Does that mean she's back to normal?＿Though I'm not too crazy about judging＿Taiga's well-being based on her）」"
+msgstr "Ryuuji「（¿Eso significa que volvió a la＿normalidad? Aunque no me entusiasma＿juzgar el bienestar de Taiga según su）」"
+
+msgid "Ryuuji「（rudeness level......）」"
+msgstr "Ryuuji「（nivel de grosería......）」"

@@ -1,0 +1,845 @@
+msgid ""
+msgstr ""
+
+msgid "Stare"
+msgstr "Mirar fijamente"
+
+msgid "Stare passionately"
+msgstr "Mirar con pasión"
+
+msgid "Stare calmly"
+msgstr "Mirar con calma"
+
+msgid "Stare blankly"
+msgstr "Mirar distraído"
+
+msgid "About Swimsuits"
+msgstr "Sobre los trajes de baño"
+
+msgid "Doesn't leave much to the imagination..."
+msgstr "No deja mucho a la imaginación..."
+
+msgid "School-issued swimsuits aren't bad"
+msgstr "Los trajes de baño escolares están bien"
+
+msgid "Women buy an awful lot of swimsuits"
+msgstr "Ellas compran tantos trajes de baño"
+
+msgid "About Show Business"
+msgstr "Sobre el espectáculo"
+
+msgid "Must be hard having an actress for a mom"
+msgstr "Debe ser duro tener una madre actriz"
+
+msgid "Seems you could do more than just model"
+msgstr "Podrías hacer más que solo modelar"
+
+msgid "About Sports"
+msgstr "Sobre los deportes"
+
+msgid "Do you go to the gym often?"
+msgstr "¿Vas a menudo al gimnasio?"
+
+msgid "Doesn't all that working out tone your abs?"
+msgstr "¿Tanto ejercicio no te marca el abdomen?"
+
+msgid "I bet you'd look good playing any sport"
+msgstr "Te verías bien en cualquier deporte"
+
+msgid "About Her Figure"
+msgstr "Sobre su figura"
+
+msgid "Must be hard to maintain your figure"
+msgstr "Debe costar mantener esa figura"
+
+msgid "Ever have trouble with those long legs?"
+msgstr "¿Te dan problemas esas piernas largas?"
+
+msgid "Do you have an ideal body type?"
+msgstr "¿Tienes un tipo de cuerpo ideal?"
+
+msgid "About Food"
+msgstr "Sobre la comida"
+
+msgid "You're super careful about what you eat"
+msgstr "Cuidas muchísimo lo que comes"
+
+msgid "You didn't finish your lunch"
+msgstr "No te terminaste el almuerzo"
+
+msgid "Lunch was delicious"
+msgstr "El almuerzo estuvo delicioso"
+
+msgid "About Show Business"
+msgstr "Sobre el espectáculo"
+
+msgid "Must be hard having an actress for a mom"
+msgstr "Debe ser duro tener una madre actriz"
+
+msgid "Seems you could do more than just model"
+msgstr "Podrías hacer más que solo modelar"
+
+msgid "You could do impressions professionally"
+msgstr "Podrías dedicarte a hacer imitaciones"
+
+msgid "--Let's Have a Fun Chat with Ami!--"
+msgstr "--¡Una charla divertida con Ami!--"
+
+msgid "Ami「Uh, that's irritating.」"
+msgstr "Ami「Eh, qué irritante.」"
+
+msgid "Ryuuji「I'm irritating......?」"
+msgstr "Ryuuji「¿Soy irritante......?」"
+
+msgid "Ami「Excuse me? What's your problem?」"
+msgstr "Ami「¿Perdón? ¿Cuál es tu problema?」"
+
+msgid "Ryuuji「What do you mean, problem?」"
+msgstr "Ryuuji「¿Cómo que cuál es mi problema?」"
+
+msgid "Ami「ANNOYING.」"
+msgstr "Ami「MOLESTO.」"
+
+msgid "Ami「Is there a meaning behind that?」"
+msgstr "Ami「¿Eso tiene algún significado?」"
+
+msgid "Ryuuji「No, I didn't mean it like that......」"
+msgstr "Ryuuji「No, no era con esa intención......」"
+
+msgid "Ami「Okay, moving on.」"
+msgstr "Ami「Bien, sigamos.」"
+
+msgid "Ryuuji「Ummm......」"
+msgstr "Ryuuji「Mmm......」"
+
+msgid "Ami「What? What are you trying to say?」"
+msgstr "Ami「¿Qué? ¿Qué intentas decir?」"
+
+msgid "Ryuuji「Huh? Uh, well......」"
+msgstr "Ryuuji「¿Eh? Ah, bueno......」"
+
+msgid "Ami「......Okay, I'm sick of this.」"
+msgstr "Ami「......Bien, ya me harté de esto.」"
+
+msgid "Ryuuji「Ummm......」"
+msgstr "Ryuuji「Mmm......」"
+
+msgid "Ami「Go make that face in a mirror. It's＿seriously unbelievable.」"
+msgstr "Ami「Ve a poner esa cara frente a un espejo.＿En serio, es increíble.」"
+
+msgid "Ryuuji「Do you gotta be so harsh about it!?」"
+msgstr "Ryuuji「¡¿Tienes que ser tan dura con eso?!」"
+
+msgid "Ami「Look, I can't believe I'm asking this, but＿do you seriously think you look cool?」"
+msgstr "Ami「No puedo creer que pregunte esto, pero＿¿en serio crees que te ves genial?」"
+
+msgid "Ryuuji「N-No I don't!」"
+msgstr "Ryuuji「¡N-No lo creo!」"
+
+msgid "Ami「Shall we sneak out, just the two of us?」"
+msgstr "Ami「¿Nos escapamos los dos solos?」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Ami「Kidding.」"
+msgstr "Ami「Es broma.」"
+
+msgid "Ami「In that case, feel free to get serious.」"
+msgstr "Ami「En ese caso, adelante, ponte serio.」"
+
+msgid "Ryuuji「Serious about what?」"
+msgstr "Ryuuji「¿Serio con qué?」"
+
+msgid "Ami「Gee, I wonder.」"
+msgstr "Ami「Vaya, me pregunto qué será.」"
+
+msgid "Ami「Oh, not good.」"
+msgstr "Ami「Uy, qué mal.」"
+
+msgid "Ryuuji「Is my face really that bad......?」"
+msgstr "Ryuuji「¿De verdad se ve tan mal mi cara......?」"
+
+msgid "Ami「Not that...... Oh, never mind.」"
+msgstr "Ami「No es eso...... Ay, olvídalo.」"
+
+msgid "Ami「So Ami-chan's beauty has made you＿lost for words?」"
+msgstr "Ami「¿Así que la belleza de Ami-chan＿te dejó sin palabras?」"
+
+msgid "Ryuuji「Oh, jesus......」"
+msgstr "Ryuuji「Ay, por Dios......」"
+
+msgid "Ami「I'm fine with that. Ufu, evil little＿Ami-chan①」"
+msgstr "Ami「Por mí está bien. Juju, pequeña＿y malvada Ami-chan①」"
+
+msgid "Ryuuji「......Evil indeed.」"
+msgstr "Ryuuji「......Malvada de verdad.」"
+
+msgid "Ami「Aha～! So I've caught your attention?＿Which part are you especially＿interested in～?」"
+msgstr "Ami「¡Ajá～! ¿Así que llamé tu atención? ¿Qué＿parte te interesa en especial～?」"
+
+msgid "Ryuuji「None.」"
+msgstr "Ryuuji「Ninguna.」"
+
+msgid "Ami「Fufu♪」"
+msgstr "Ami「Juju♪」"
+
+msgid "Ami「I don't care as long as it looks good.」"
+msgstr "Ami「No me importa mientras se vea bien.」"
+
+msgid "Ryuuji「Well, as long as you're okay with it...... I＿guess?」"
+msgstr "Ryuuji「Bueno, si a ti te parece＿bien...... ¿supongo?」"
+
+msgid "Ami「Ugh, you're the worst. Of course a＿perverted freak would come here.」"
+msgstr "Ami「Agh, eres lo peor. Claro que un＿degenerado pervertido vendría aquí.」"
+
+msgid "Ryuuji「Not like that! I meant using them would＿save money!」"
+msgstr "Ryuuji「¡No es así! ¡Decía que usarlos＿ahorraría dinero!」"
+
+msgid "Ami「Hmmmm.....」"
+msgstr "Ami「Mmmmm.....」"
+
+msgid "Ryuuji「N-No, you idiot! I meant using them＿would be a cheaper alternative!」"
+msgstr "Ryuuji「¡N-No, tonta! ¡Decía que usarlos sería＿una alternativa más barata!」"
+
+msgid "Ami「There's no way I'm buying that excuse!」"
+msgstr "Ami「¡Ni loca me voy a creer esa excusa!」"
+
+msgid "Ryuuji「I'm telling the truth! Arrrgh, forget it!＿Forget I said anything! I said nothing!＿This conversation is over!」"
+msgstr "Ryuuji「¡Digo la verdad! ¡Aaagh, olvídalo!＿¡Olvida lo que dije! ¡No dije nada!＿¡Se acabó esta conversación!」"
+
+msgid "Ami「Wow, so that's what you're into?」"
+msgstr "Ami「Vaya, ¿así que eso es lo que te gusta?」"
+
+msgid "Ryuuji「\"Into\"......? Aagh! N-Not like that! I meant＿using your school swimsuit would save＿money!」"
+msgstr "Ryuuji「¿\"Me gusta\"......? ¡Aagh! ¡N-No es＿eso! ¡Decía que usar tu traje de baño＿escolar ahorraría dinero!」"
+
+msgid "Ami「Hmmm...... Well, let's just go with that,＿then.」"
+msgstr "Ami「Mmm...... Bueno, hagamos＿como que sí, entonces.」"
+
+msgid "Ami「This, coming from the guy with zero＿fashion sense......」"
+msgstr "Ami「Y esto viene del chico con cero＿sentido de la moda......」"
+
+msgid "Ryuuji「What?」"
+msgstr "Ryuuji「¿Qué?」"
+
+msgid "Ami「God you're annoying. Keep talking like＿that and you'll never be popular with＿girls.」"
+msgstr "Ami「Dios, qué molesto eres. Si sigues＿hablando así nunca serás popular＿con las chicas.」"
+
+msgid "Ryuuji「Ugh....」"
+msgstr "Ryuuji「Agh....」"
+
+msgid "Ami「Hmmm. Keeping tabs on Ami-chan's＿swimsuits, are we?」"
+msgstr "Ami「Mmm. ¿Llevando la cuenta de los＿trajes de baño de Ami-chan?」"
+
+msgid "Ryuuji「No, that's not it! I meant in general!」"
+msgstr "Ryuuji「¡No, no es eso! ¡Lo decía en general!」"
+
+msgid "Ami「That's just how girls are.」"
+msgstr "Ami「Así somos las chicas.」"
+
+msgid "Ryuuji「Just how they are, huh......?」"
+msgstr "Ryuuji「Así son, ¿eh......?」"
+
+msgid "Ami「Who cares? It's fun to show off, you＿know?」"
+msgstr "Ami「¿Qué importa? Es divertido＿presumir, ¿sabes?」"
+
+msgid "Ryuuji「......I'll keep my mouth shut.」"
+msgstr "Ryuuji「......Mejor me quedo callado.」"
+
+msgid "Ami「What's this all of a sudden? Gonna ask＿me to get you an autograph?」"
+msgstr "Ami「¿Y eso tan de repente? ¿Me vas a pedir＿que te consiga un autógrafo?」"
+
+msgid "Ryuuji「No, of course not.」"
+msgstr "Ryuuji「No, claro que no.」"
+
+msgid "Ami「What, do you pity me? I put up with it＿all the time as it is.」"
+msgstr "Ami「¿Qué, te doy lástima? De por sí＿ya aguanto eso todo el tiempo.」"
+
+msgid "Ryuuji「That's not what I meant!」"
+msgstr "Ryuuji「¡No me refería a eso!」"
+
+msgid "Ami「So you're interested in show business＿too?」"
+msgstr "Ami「¿Así que a ti también te interesa＿el mundo del espectáculo?」"
+
+msgid "Ryuuji「Somewhat.」"
+msgstr "Ryuuji「Algo.」"
+
+msgid "Ami「It's pretty average.」"
+msgstr "Ami「Es bastante normal.」"
+
+msgid "Ryuuji「Oh.」"
+msgstr "Ryuuji「Ah.」"
+
+msgid "Ami「My mom works full-time. Your mom＿works full-time. What's the difference?」"
+msgstr "Ami「Mi mamá trabaja a tiempo completo. La＿tuya también. ¿Qué diferencia hay?」"
+
+msgid "Ryuuji「......Fair enough.」"
+msgstr "Ryuuji「......Tienes razón.」"
+
+msgid "Ami「I guess～ Ami-chan's just so cute～ The＿world can't help itself～」"
+msgstr "Ami「Supongo～ Es que Ami-chan es tan linda～＿El mundo no puede evitarlo～」"
+
+msgid "Ryuuji「Yeah, in your case that might actually＿be true.」"
+msgstr "Ryuuji「Sí, en tu caso puede que＿hasta sea verdad.」"
+
+msgid "Ami「What? Want me to become a gravure＿idol or something?」"
+msgstr "Ami「¿Qué? ¿Quieres que me haga idol＿de gravure o algo así?」"
+
+msgid "Ryuuji「T-That's not really what I meant.」"
+msgstr "Ryuuji「N-No era realmente lo que quería decir.」"
+
+msgid "Ami「Hmmm......」"
+msgstr "Ami「Mmm......」"
+
+msgid "Ami「Maybe someday.」"
+msgstr "Ami「Tal vez algún día.」"
+
+msgid "Ryuuji「Well, keep working hard.」"
+msgstr "Ryuuji「Bueno, sigue esforzándote.」"
+
+msgid "Ami「Hmm, I wonder～ Think I should?」"
+msgstr "Ami「Mmm, quién sabe～ ¿Crees que debería?」"
+
+msgid "Ryuuji「Don't ask me.」"
+msgstr "Ryuuji「No me preguntes a mí.」"
+
+msgid "Ami「Huh? What are you talking about?」"
+msgstr "Ami「¿Eh? ¿De qué estás hablando?」"
+
+msgid "Ryuuji「Well, I do have your impressions DVD.」"
+msgstr "Ryuuji「Bueno, sí tengo tu DVD de imitaciones.」"
+
+msgid "Ami「No way...... Why do you have that!?」"
+msgstr "Ami「No puede ser...... ¡¿Por qué lo tienes?!」"
+
+msgid "Ryuuji「......Dunno...... Why DO I have this?」"
+msgstr "Ryuuji「......No sé...... ¿Por qué TENGO esto?」"
+
+msgid "Ami「Ugh, you're the worst............」"
+msgstr "Ami「Agh, eres lo peor............」"
+
+msgid "Ami「Excuse me!? Hell to the no! Why would＿you even suggest such a thing!? I can't＿begin to believe this!」"
+msgstr "Ami「¡¿Perdón?! ¡Ni de broma! ¡¿Por qué＿siquiera sugerirías algo así?! ¡No＿me lo puedo ni creer!」"
+
+msgid "Ryuuji「Well, I have your impressions DVD, so I＿thought......」"
+msgstr "Ryuuji「Bueno, tengo tu DVD de imitaciones,＿así que pensé......」"
+
+msgid "Ami「HEY! Why do you have that!? What the＿hell? I don't get it at all!」"
+msgstr "Ami「¡OYE! ¡¿Por qué tienes eso?! ¡¿Qué＿diablos?! ¡No entiendo nada!」"
+
+msgid "Ryuuji「......Why, indeed...... I'm not sure myself.」"
+msgstr "Ryuuji「......Por qué...... Ni yo estoy seguro.」"
+
+msgid "Ami「Excuse me!? What was that!? You're＿the worst! Hell to the no!」"
+msgstr "Ami「¡¿Perdón?! ¡¿Qué fue eso?! ¡Eres＿lo peor! ¡Ni de broma!」"
+
+msgid "Ryuuji「I didn't realize you hated it so much......」"
+msgstr "Ryuuji「No sabía que lo odiabas tanto......」"
+
+msgid "Ami「Ami-chan, do impressions? That'd be＿SO, like, surreal.」"
+msgstr "Ami「¿Ami-chan haciendo imitaciones? Eso＿sería, o sea, TAN surrealista.」"
+
+msgid "Ryuuji「Really? But this DVD of your＿impressions seems pretty legit.」"
+msgstr "Ryuuji「¿En serio? Pero este DVD de tus＿imitaciones parece bastante auténtico.」"
+
+msgid "Ami「......Don't tell me...... You watched that?」"
+msgstr "Ami「......No me digas...... ¿Viste eso?」"
+
+msgid "Ryuuji「No, I haven't watched it. I just have it.」"
+msgstr "Ryuuji「No, no lo he visto. Solo lo tengo.」"
+
+msgid "Ami「Hmmm...... I don't know and don't care＿why you have that, but if you ever＿watch it, I will never forgive you.」"
+msgstr "Ami「Mmm...... No sé ni me importa por qué＿tienes eso, pero si alguna vez lo ves,＿no te lo perdonaré jamás.」"
+
+msgid "Ryuuji「O-Okay.」"
+msgstr "Ryuuji「E-Está bien.」"
+
+msgid "Ami「Of course! How else would I maintain＿this nice body? Exercise is crucial, you＿know.」"
+msgstr "Ami「¡Claro! ¿Si no cómo mantendría＿este lindo cuerpo? El ejercicio＿es crucial, ¿sabes?」"
+
+msgid "Ryuuji「Sounds pretty intense.」"
+msgstr "Ryuuji「Suena bastante intenso.」"
+
+msgid "Ami「This is more than enough to maintain＿Ami-chan's cutesy-cuteness!」"
+msgstr "Ami「¡Esto es más que suficiente para＿mantener la lindura de Ami-chan!」"
+
+msgid "Ryuuji「I, I see......」"
+msgstr "Ryuuji「Y-Ya veo......」"
+
+msgid "Ami「Ufu ① Ami-chan's cuteness doesn't＿come cheap, you know.」"
+msgstr "Ami「Juju ① La lindura de Ami-chan＿no sale barata, ¿sabes?」"
+
+msgid "Ryuuji「Oh really......」"
+msgstr "Ryuuji「Ah, en serio......」"
+
+msgid "Ami「Really①」"
+msgstr "Ami「En serio①」"
+
+msgid "Ami「Girls do plenty of stuff for the sake of＿being girly.」"
+msgstr "Ami「Las chicas hacen muchas cosas＿con tal de ser femeninas.」"
+
+msgid "Ryuuji「Can't be easy being female......」"
+msgstr "Ryuuji「No debe ser fácil ser mujer......」"
+
+msgid "Ami「If that's how you feel, then you better＿appreciate it more.」"
+msgstr "Ami「Si eso piensas, más te＿vale apreciarlo más.」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Ami「Takasu-kun, are you curious about the＿gym?」"
+msgstr "Ami「Takasu-kun, ¿te da curiosidad＿el gimnasio?」"
+
+msgid "Ryuuji「Somewhat, but the membership fees,＿not so much.」"
+msgstr "Ryuuji「Algo, pero las mensualidades, no tanto.」"
+
+msgid "Ami「It ain't cheap, that's for sure.」"
+msgstr "Ami「Barato no es, eso seguro.」"
+
+msgid "Ami「Huh? What are you talking about?」"
+msgstr "Ami「¿Eh? ¿De qué estás hablando?」"
+
+msgid "Ryuuji「Well, I've just always wondered......」"
+msgstr "Ryuuji「Bueno, siempre me pregunté......」"
+
+msgid "Ami「Can you imagine a model with a＿six-pack!?」"
+msgstr "Ami「¡¿Te imaginas a una modelo con＿abdominales marcados?!」"
+
+msgid "Ryuuji「I, I guess not.」"
+msgstr "Ryuuji「S-Supongo que no.」"
+
+msgid "Ami「Do you like girls with washboard abs?」"
+msgstr "Ami「¿Te gustan chicas de abdomen marcado?」"
+
+msgid "Ryuuji「That's not what I meant!」"
+msgstr "Ryuuji「¡No me refería a eso!」"
+
+msgid "Ami「Isn't it, like, a little LATE to be saying＿that?」"
+msgstr "Ami「¿No es, o sea, un poco＿TARDE para decir eso?」"
+
+msgid "Ryuuji「I'm actually complimenting you for＿once.」"
+msgstr "Ryuuji「De hecho te estoy elogiando por una vez.」"
+
+msgid "Ami「Like I said, it's a little late for that.＿Don't make me repeat myself.」"
+msgstr "Ami「Como dije, ya es un poco tarde para＿eso. No me hagas repetirlo.」"
+
+msgid "Ami「Ugh, contrived compliments really piss＿me off! Can you not!?」"
+msgstr "Ami「Agh, ¡los cumplidos forzados me molestan＿muchísimo! ¡¿Puedes parar?!」"
+
+msgid "Ryuuji「What's your problem!? I'm seriously＿complimenting you here!」"
+msgstr "Ryuuji「¡¿Cuál es tu problema?! ¡Te estoy＿haciendo un cumplido en serio!」"
+
+msgid "Ami「Well, it's CREEPY!」"
+msgstr "Ami「¡Pues da ESCALOFRÍOS!」"
+
+msgid "Ryuuji「Creepy......!? Ugh, I give up.」"
+msgstr "Ryuuji「¿Escalofríos......?! Agh, me rindo.」"
+
+msgid "Ami「It'll cost you 3,000 yen every time you＿ogle me.」"
+msgstr "Ami「Te costará 3,000 yenes cada vez＿que me comas con la mirada.」"
+
+msgid "Ryuuji「Don't charge me!」"
+msgstr "Ryuuji「¡No me cobres!」"
+
+msgid "Ami「Naturally.」"
+msgstr "Ami「Por supuesto.」"
+
+msgid "Ryuuji「R-Right...... Is that so......?」"
+msgstr "Ryuuji「C-Claro...... ¿En serio......?」"
+
+msgid "Ami「You may have just noticed, but I＿already knew①」"
+msgstr "Ami「Puede que te acabes de dar cuenta,＿pero yo ya lo sabía①」"
+
+msgid "Ryuuji「Oh, right.」"
+msgstr "Ryuuji「Ah, cierto.」"
+
+msgid "Ryuuji「I am deeply grateful I was born male......」"
+msgstr "Ryuuji「Agradezco haber nacido hombre......」"
+
+msgid "Ami「Are you perhaps transfixed by＿Ami-chan's proportions? Oh my,＿Ami-chan's so evil①」"
+msgstr "Ami「¿Acaso quedaste hipnotizado por las＿proporciones de Ami-chan? Ay, vaya,＿Ami-chan es tan malvada①」"
+
+msgid "Ryuuji「I wouldn't brag about that......」"
+msgstr "Ryuuji「Yo no presumiría de eso......」"
+
+msgid "Ami「Are you...... concerned, perhaps?」"
+msgstr "Ami「¿Acaso...... te preocupa?」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Ami「About other men staring.」"
+msgstr "Ami「Que otros hombres me miren.」"
+
+msgid "Ryuuji「Not really, no.」"
+msgstr "Ryuuji「En realidad, no.」"
+
+msgid "Ami「Hmmm...」"
+msgstr "Ami「Mmm...」"
+
+msgid "Ami「It has its ups and downs.」"
+msgstr "Ami「Tiene sus pros y sus contras.」"
+
+msgid "Ryuuji「Oh really......」"
+msgstr "Ryuuji「Ah, en serio......」"
+
+msgid "Ami「As if.」"
+msgstr "Ami「Como si fuera cierto.」"
+
+msgid "Ryuuji「Well, I think there's gotta be a few＿instances......」"
+msgstr "Ryuuji「Bueno, creo que debe haber＿algunos casos......」"
+
+msgid "Ami「Excuse me!? The only one I can think＿of is when SOMEONE asks me stupid＿questions about it.」"
+msgstr "Ami「¡¿Perdón?! El único que se me ocurre＿es cuando ALGUIEN me hace preguntas＿estúpidas al respecto.」"
+
+msgid "Ryuuji「Gee, sorry.」"
+msgstr "Ryuuji「Vaya, perdón.」"
+
+msgid "Ami「What do you think?」"
+msgstr "Ami「¿Tú qué crees?」"
+
+msgid "Ryuuji「......Probably not.」"
+msgstr "Ryuuji「......Probablemente no.」"
+
+msgid "Ami「This one.」"
+msgstr "Ami「Este.」"
+
+msgid "Ryuuji「I see......」"
+msgstr "Ryuuji「Ya veo......」"
+
+msgid "Ami「As if. If I did, I'd have attained it ages＿ago.」"
+msgstr "Ami「Claro que no. Si lo tuviera, ya＿lo habría logrado hace siglos.」"
+
+msgid "Ryuuji「Oh, I see.」"
+msgstr "Ryuuji「Ah, ya veo.」"
+
+msgid "Ami「Don't tell me you think Ami-chan's＿ideal is to look like that Palmtop Tiger.」"
+msgstr "Ami「No me digas que crees que Ami-chan＿quiere verse como ese Tigre Compacto.」"
+
+msgid "Ryuuji「No......」"
+msgstr "Ryuuji「No......」"
+
+msgid "Ami「Why would you ask me that?」"
+msgstr "Ami「¿Por qué me preguntas eso?」"
+
+msgid "Ryuuji「Uhh, I don't have any important reason＿for it.」"
+msgstr "Ryuuji「Eh, no tengo ninguna razón importante＿para preguntarlo.」"
+
+msgid "Ami「If you can't reach your goal, it's all for＿nothing.」"
+msgstr "Ami「Si no puedes alcanzar tu＿meta, no sirve de nada.」"
+
+msgid "Ryuuji「......So in other words you've already＿attained your ideal body type.」"
+msgstr "Ryuuji「......Así que, en otras palabras, ya＿alcanzaste tu tipo de cuerpo ideal.」"
+
+msgid "Ami「Obviously! In beauty, there can be no＿compromises and no exceptions.」"
+msgstr "Ami「¡Obvio! En la belleza no puede haber＿concesiones ni excepciones.」"
+
+msgid "Ryuuji「I bet it's tough.」"
+msgstr "Ryuuji「Seguro es duro.」"
+
+msgid "Ami「Fufu, you finally noticed?」"
+msgstr "Ami「Juju, ¿por fin te diste cuenta?」"
+
+msgid "Ryuuji「I beg your pardon.」"
+msgstr "Ryuuji「Disculpa.」"
+
+msgid "Ami「I guess. I'm a model, so it's only natural.」"
+msgstr "Ami「Supongo. Soy modelo, es lo normal.」"
+
+msgid "Ryuuji「I see.」"
+msgstr "Ryuuji「Ya veo.」"
+
+msgid "Ami「Wanna give it a try? It might clear up＿that skin.」"
+msgstr "Ami「¿Quieres probar? Tal vez＿te mejore esa piel.」"
+
+msgid "Ryuuji「I'll pass.」"
+msgstr "Ryuuji「Paso.」"
+
+msgid "Ami「Yeah, yeah, \"MOTTAINAI\" or whatever.」"
+msgstr "Ami「Sí, sí, \"¡QUÉ DESPERDICIO!\" o algo así.」"
+
+msgid "Ryuuji「If you understand that much, then＿don't make me repeat myself.」"
+msgstr "Ryuuji「Si ya lo entiendes, entonces＿no me hagas repetirlo.」"
+
+msgid "Ami「It was too greasy!」"
+msgstr "Ami「¡Estaba demasiado grasoso!」"
+
+msgid "Ryuuji「But they used a healthier oil.」"
+msgstr "Ryuuji「Pero usaron un aceite más saludable.」"
+
+msgid "Ami「Healthy oil and greasy are two＿separate issues!」"
+msgstr "Ami「¡Aceite saludable y grasoso＿son dos cosas distintas!」"
+
+msgid "Ryuuji「......Well, I'll give you that.」"
+msgstr "Ryuuji「......Bueno, te doy la razón en eso.」"
+
+msgid "Ami「Who are you, my mother?」"
+msgstr "Ami「¿Quién eres, mi madre?」"
+
+msgid "Ryuuji「I can't help it if I'm concerned.」"
+msgstr "Ryuuji「No puedo evitar preocuparme.」"
+
+msgid "Ami「Whaaat? I would have liked a menu＿with more variety.」"
+msgstr "Ami「¿Quéee? Me habría gustado un＿menú con más variedad.」"
+
+msgid "Ryuuji「You've got some refined tastes.」"
+msgstr "Ryuuji「Tienes gustos bastante refinados.」"
+
+msgid "Ami「And where were the low-calorie menu＿options!? This is a gym!」"
+msgstr "Ami「¡¿Y dónde estaban las opciones bajas＿en calorías?! ¡Esto es un gimnasio!」"
+
+msgid "Ryuuji「Don't ask me......」"
+msgstr "Ryuuji「No me preguntes a mí......」"
+
+msgid "Ami「That? Not really.」"
+msgstr "Ami「¿Eso? No mucho.」"
+
+msgid "Ryuuji「Come on, it was pretty damn good!」"
+msgstr "Ryuuji「¡Vamos, estaba buenísimo!」"
+
+msgid "Ami「It was alright.」"
+msgstr "Ami「Estuvo pasable.」"
+
+msgid "Ryuuji「Just alright?」"
+msgstr "Ryuuji「¿Solo pasable?」"
+
+msgid "Ami「You could make it yourself, couldn't＿you?」"
+msgstr "Ami「Tú mismo podrías prepararlo, ¿no?」"
+
+msgid "Ryuuji「Maybe?」"
+msgstr "Ryuuji「¿Tal vez?」"
+
+msgid "Ami「You should give it a shot.」"
+msgstr "Ami「Deberías intentarlo.」"
+
+msgid "HAP_A1_LV1:"
+msgstr "HAP_A1_LV1:"
+
+msgid "HAP_A1_LV2:"
+msgstr "HAP_A1_LV2:"
+
+msgid "FUN_A1_LV2:"
+msgstr "FUN_A1_LV2:"
+
+msgid "HAP_A2_LV1:"
+msgstr "HAP_A2_LV1:"
+
+msgid "HAP_A2_LV2:"
+msgstr "HAP_A2_LV2:"
+
+msgid "SAD_A2_LV2:"
+msgstr "SAD_A2_LV2:"
+
+msgid "FUN_A2_LV1:"
+msgstr "FUN_A2_LV1:"
+
+msgid "FUN_A2_LV2:"
+msgstr "FUN_A2_LV2:"
+
+msgid "ANG_A3_LV1:"
+msgstr "ANG_A3_LV1:"
+
+msgid "ANG_A3_LV2:"
+msgstr "ANG_A3_LV2:"
+
+msgid "SAD_A3_LV2:"
+msgstr "SAD_A3_LV2:"
+
+msgid "FUN_A3_LV2:"
+msgstr "FUN_A3_LV2:"
+
+msgid "ANG_B1_LV1:"
+msgstr "ANG_B1_LV1:"
+
+msgid "ANG_B1_LV2:"
+msgstr "ANG_B1_LV2:"
+
+msgid "SAD_B1_LV1:"
+msgstr "SAD_B1_LV1:"
+
+msgid "SAD_B1_LV2:"
+msgstr "SAD_B1_LV2:"
+
+msgid "FUN_B1_LV2:"
+msgstr "FUN_B1_LV2:"
+
+msgid "HAP_B2_LV1:"
+msgstr "HAP_B2_LV1:"
+
+msgid "HAP_B2_LV2:"
+msgstr "HAP_B2_LV2:"
+
+msgid "SAD_B2_LV2:"
+msgstr "SAD_B2_LV2:"
+
+msgid "FUN_B2_LV1:"
+msgstr "FUN_B2_LV1:"
+
+msgid "FUN_B2_LV2:"
+msgstr "FUN_B2_LV2:"
+
+msgid "HAP_B3_LV1:"
+msgstr "HAP_B3_LV1:"
+
+msgid "HAP_B3_LV2:"
+msgstr "HAP_B3_LV2:"
+
+msgid "FUN_B3_LV2:"
+msgstr "FUN_B3_LV2:"
+
+msgid "HAP_C1_LV1:"
+msgstr "HAP_C1_LV1:"
+
+msgid "HAP_C1_LV2:"
+msgstr "HAP_C1_LV2:"
+
+msgid "FUN_C1_LV2:"
+msgstr "FUN_C1_LV2:"
+
+msgid "ANG_C2_LV1:"
+msgstr "ANG_C2_LV1:"
+
+msgid "ANG_C2_LV2:"
+msgstr "ANG_C2_LV2:"
+
+msgid "SAD_C2_LV2:"
+msgstr "SAD_C2_LV2:"
+
+msgid "FUN_C2_LV2:"
+msgstr "FUN_C2_LV2:"
+
+msgid "HAP_C3_LV1:"
+msgstr "HAP_C3_LV1:"
+
+msgid "HAP_C3_LV2:"
+msgstr "HAP_C3_LV2:"
+
+msgid "SAD_C3_LV2:"
+msgstr "SAD_C3_LV2:"
+
+msgid "FUN_C3_LV1:"
+msgstr "FUN_C3_LV1:"
+
+msgid "FUN_C3_LV2:"
+msgstr "FUN_C3_LV2:"
+
+msgid "ANG_D1_LV1:"
+msgstr "ANG_D1_LV1:"
+
+msgid "ANG_D1_LV2:"
+msgstr "ANG_D1_LV2:"
+
+msgid "SAD_D1_LV2:"
+msgstr "SAD_D1_LV2:"
+
+msgid "FUN_D1_LV2:"
+msgstr "FUN_D1_LV2:"
+
+msgid "HAP_D2_LV1:"
+msgstr "HAP_D2_LV1:"
+
+msgid "HAP_D2_LV2:"
+msgstr "HAP_D2_LV2:"
+
+msgid "SAD_D2_LV2:"
+msgstr "SAD_D2_LV2:"
+
+msgid "FUN_D2_LV1:"
+msgstr "FUN_D2_LV1:"
+
+msgid "FUN_D2_LV2:"
+msgstr "FUN_D2_LV2:"
+
+msgid "HAP_D3_LV1:"
+msgstr "HAP_D3_LV1:"
+
+msgid "HAP_D3_LV2:"
+msgstr "HAP_D3_LV2:"
+
+msgid "FUN_D3_LV2:"
+msgstr "FUN_D3_LV2:"
+
+msgid "ANG_E1_LV1:"
+msgstr "ANG_E1_LV1:"
+
+msgid "ANG_E1_LV2:"
+msgstr "ANG_E1_LV2:"
+
+msgid "SAD_E1_LV2:"
+msgstr "SAD_E1_LV2:"
+
+msgid "FUN_E1_LV2:"
+msgstr "FUN_E1_LV2:"
+
+msgid "HAP_E2_LV1:"
+msgstr "HAP_E2_LV1:"
+
+msgid "HAP_E2_LV2:"
+msgstr "HAP_E2_LV2:"
+
+msgid "SAD_E2_LV2:"
+msgstr "SAD_E2_LV2:"
+
+msgid "FUN_E2_LV1:"
+msgstr "FUN_E2_LV1:"
+
+msgid "FUN_E2_LV2:"
+msgstr "FUN_E2_LV2:"
+
+msgid "HAP_E3_LV1:"
+msgstr "HAP_E3_LV1:"
+
+msgid "HAP_E3_LV2:"
+msgstr "HAP_E3_LV2:"
+
+msgid "FUN_E3_LV2:"
+msgstr "FUN_E3_LV2:"
+
+msgid "ANG_F1_LV1:"
+msgstr "ANG_F1_LV1:"
+
+msgid "ANG_F1_LV2:"
+msgstr "ANG_F1_LV2:"
+
+msgid "SAD_F1_LV2:"
+msgstr "SAD_F1_LV2:"
+
+msgid "FUN_F1_LV2:"
+msgstr "FUN_F1_LV2:"
+
+msgid "HAP_F2_LV1:"
+msgstr "HAP_F2_LV1:"
+
+msgid "HAP_F2_LV2:"
+msgstr "HAP_F2_LV2:"
+
+msgid "SAD_F2_LV2:"
+msgstr "SAD_F2_LV2:"
+
+msgid "FUN_F2_LV1:"
+msgstr "FUN_F2_LV1:"
+
+msgid "FUN_F2_LV2:"
+msgstr "FUN_F2_LV2:"
+
+msgid "HAP_F3_LV1:"
+msgstr "HAP_F3_LV1:"
+
+msgid "HAP_F3_LV2:"
+msgstr "HAP_F3_LV2:"
+
+msgid "FUN_F3_LV2:"
+msgstr "FUN_F3_LV2:"
+
+msgid "Ami「EXCUSE MEEE!? You like school＿swimsuits!? How much of a pedo are＿you!? Don't get any closer, you dirty」"
+msgstr "Ami「¡¿PERDÓÓÓN?! ¡¿Te gustan los＿trajes de baño escolares?! ¡¿Qué＿tan pedófilo eres?!」"
+
+msgid "Ami「bastard! Gross!」"
+msgstr "Ami「¡No te acerques, sucio desgraciado!＿¡Qué asco!」"
+
+msgid "Ami「Well, yeah. Keeping oneself under 10%＿body fat is no average task. But the＿truly amazing girls are the ones who」"
+msgstr "Ami「Bueno, sí. Mantenerse por debajo del 10%＿de grasa corporal no es tarea fácil.＿Pero las chicas increíbles de verdad son」"
+
+msgid "Ami「make it look easy.」"
+msgstr "Ami「las que hacen que parezca sencillo.」"

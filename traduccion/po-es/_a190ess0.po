@@ -1,0 +1,245 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Yasuko「Ryuu-chaaan......?」"
+msgstr "Yasuko「¿Ryuu-chaaan......?」"
+
+msgid "Ryuuji「Oh, yeah. Morning, Yasuko.」"
+msgstr "Ryuuji「Ah, sí. Buenos días, Yasuko.」"
+
+msgid "Yasuko「Whatcha doin' with all those chopped＿radishes?」"
+msgstr "Yasuko「¿Qué haces con todos esos＿rábanos picados?」"
+
+msgid "Yasuko「Yup...... It's quiet, after allll.」"
+msgstr "Yasuko「Sip...... Después de todo,＿hay mucho silenciooo.」"
+
+msgid "Ryuuji「What the? Isn't that a good thing? Go＿back to sleep.」"
+msgstr "Ryuuji「¿Y qué? ¿No es algo bueno?＿Vuelve a dormir.」"
+
+msgid "Yasuko「Hey Ryuu-chan, where's＿Taiga-channn?」"
+msgstr "Yasuko「Oye, Ryuu-chan, ¿dónde＿está Taiga-channn?」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Yasuko「Buuut...... It's been three days since she＿last came for food, you know?＿Ryuu-chan, aren't you lonelyyy?」"
+msgstr "Yasuko「Perooo...... Ya pasaron tres días desde＿la última vez que vino a comer, ¿sabes?＿Ryuu-chan, ¿no te sientes solooo?」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Ryuuji「This......? This is nothing.」"
+msgstr "Ryuuji「¿Esto......? Esto no es nada.」"
+
+msgid "Yasuko「Hm～? It's not not nothing.」"
+msgstr "Yasuko「¿Mm～? No es que no sea nada.」"
+
+msgid "Ryuuji「Enough, now go back to sleep already.＿Don't worry about Taiga.」"
+msgstr "Ryuuji「Ya basta, vuelve a dormir de una＿vez. No te preocupes por Taiga.」"
+
+msgid "Yasuko「Oh? Can Ryuu-chan be trusted?」"
+msgstr "Yasuko「¿Ah? ¿Se puede confiar en Ryuu-chan?」"
+
+msgid "Ryuuji「Yeah. Tonight she'll be over for dinner,＿and everything will be back to normal.」"
+msgstr "Ryuuji「Sí. Esta noche vendrá a cenar, y＿todo volverá a la normalidad.」"
+
+msgid "Yasuko「......Got it～ Be sure to make lots of＿Taiga-chan's favorite foods tonight,＿Ryuu-chan♪」"
+msgstr "Yasuko「......Entendido～ Asegúrate de preparar＿muchos de los platos favoritos de＿Taiga-chan esta noche, Ryuu-chan♪」"
+
+msgid "Ryuuji「Oh, okay.」"
+msgstr "Ryuuji「Ah, está bien.」"
+
+msgid "Ryuuji「（......I need to talk to her face to face.＿Thinking by myself doesn't solve＿anything.）」"
+msgstr "Ryuuji「（......Tengo que hablar con＿ella cara a cara. Pensar yo＿solo no resuelve nada.）」"
+
+msgid "Ryuuji「（When Kitamura said he could＿understand Taiga better, why did I get＿so pissed off......?）」"
+msgstr "Ryuuji「（Cuando Kitamura dijo que él podía＿entender mejor a Taiga, ¿por qué＿me molesté tanto......?）」"
+
+msgid "Ryuuji「（What was Taiga thinking, trying to＿support Kitamura's one-sided＿feelings......?）」"
+msgstr "Ryuuji「（¿Qué estaba pensando Taiga al tratar＿de apoyar los sentimientos no＿correspondidos de Kitamura......?）」"
+
+msgid "Ryuuji「（Taiga......）」"
+msgstr "Ryuuji「（Taiga......）」"
+
+msgid "Yuri「......*Sigh*...... Well, whatever.＿Kitamura-kun, if you would.」"
+msgstr "Yuri「......*Suspiro*...... Bueno, como＿sea. Kitamura-kun, adelante.」"
+
+msgid "Kitamura「Let's give this semester our all!＿Everyone, stand! Bow!」"
+msgstr "Kitamura「¡Demos lo mejor este semestre!＿¡Todos, de pie! ¡Saluden!」"
+
+msgid "Haruta「Awoooo! The Master's commands are＿electrifying～!!」"
+msgstr "Haruta「¡Auuuu! ¡¡Las órdenes del Maestro＿son electrizantes～!!」"
+
+msgid "Yuri「Good grief......」"
+msgstr "Yuri「Qué barbaridad......」"
+
+msgid "Ryuuji「（Alright, now......!）」"
+msgstr "Ryuuji「（¡Muy bien, ahora......!）」"
+
+msgid "Ryuuji「Taiga!」"
+msgstr "Ryuuji「¡Taiga!」"
+
+msgid "Taiga「............」"
+msgstr "Taiga「............」"
+
+msgid "Ryuuji「H-Hey! Don't ignore me! I went to the＿trouble of......! Taiga!」"
+msgstr "Ryuuji「¡O-Oye! ¡No me ignores! ¡Me tomé＿la molestia de......! ¡Taiga!」"
+
+msgid "Ryuuji「（Fuck, she left......）」"
+msgstr "Ryuuji「（Mierda, se fue......）」"
+
+msgid "Minori「Takasu-kun.」"
+msgstr "Minori「Takasu-kun.」"
+
+msgid "Ryuuji「......Oh, it's Kushieda.」"
+msgstr "Ryuuji「......Ah, es Kushieda.」"
+
+msgid "Minori「Oho, openly disheartened, are we?＿Mayhaps be you not satisfied with＿Kushieda, good sir?」"
+msgstr "Minori「Oh, ¿tan abiertamente desanimado?＿¿Acaso no os satisface la presencia＿de Kushieda, buen caballero?」"
+
+msgid "Ryuuji「I'm not really dissatisfied or anything.」"
+msgstr "Ryuuji「Tampoco es que esté insatisfecho.」"
+
+msgid "Minori「............」"
+msgstr "Minori「............」"
+
+msgid "Ryuuji「W-What is it?」"
+msgstr "Ryuuji「¿Q-Qué pasa?」"
+
+msgid "Minori「Nothing. I was just wondering how your＿memory's doing.」"
+msgstr "Minori「Nada. Solo me preguntaba＿cómo va tu memoria.」"
+
+msgid "Ryuuji「Just so-so. I've remembered about＿Kitamura, and Kanou-senpai...... and＿Taiga.」"
+msgstr "Ryuuji「Más o menos. Ya me acordé de Kitamura,＿de Kanou-senpai...... y de Taiga.」"
+
+msgid "Minori「That so......? I see.」"
+msgstr "Minori「¿En serio......? Ya veo.」"
+
+msgid "Ryuuji「......That's all you have to say?」"
+msgstr "Ryuuji「......¿Eso es todo lo que vas a decir?」"
+
+msgid "Minori「Did something happen between you＿and Taiga? That girl's clearly acting＿weird, right?」"
+msgstr "Minori「¿Pasó algo entre tú y Taiga? Es evidente＿que esa chica actúa raro, ¿verdad?」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Ryuuji「Well, I have something to ask the＿All-Knowing Kushieda.」"
+msgstr "Ryuuji「Bueno, tengo algo que preguntarle＿a la omnisciente Kushieda.」"
+
+msgid "Minori「Very well.」"
+msgstr "Minori「Adelante.」"
+
+msgid "Ryuuji「Taiga likes Kitamura, right?」"
+msgstr "Ryuuji「A Taiga le gusta Kitamura, ¿verdad?」"
+
+msgid "Minori「............」"
+msgstr "Minori「............」"
+
+msgid "Ryuuji「Am I wrong?」"
+msgstr "Ryuuji「¿Me equivoco?」"
+
+msgid "Minori「That thing in your hands is a lunch＿box, right? For Taiga?」"
+msgstr "Minori「Eso que tienes en las manos es una caja＿de almuerzo, ¿no? ¿Para Taiga?」"
+
+msgid "Ryuuji「Uh, yeah. She hasn't been eating at my＿house lately.」"
+msgstr "Ryuuji「Eh, sí. Últimamente no ha estado＿comiendo en mi casa.」"
+
+msgid "Minori「Gotcha. That's pretty serious, then.」"
+msgstr "Minori「Entiendo. Entonces es bastante serio.」"
+
+msgid "Ryuuji「Yeah. I thought I'd be able to have a＿talk with her, but......」"
+msgstr "Ryuuji「Sí. Pensé que podría hablar un＿poco con ella, pero......」"
+
+msgid "Ryuuji「Why? Because if she doesn't balance＿her diet with something healthy now＿and then, she'll get pimples and stuff.」"
+msgstr "Ryuuji「¿Por qué? Porque si no equilibra su＿dieta con algo sano de vez en cuando,＿le van a salir granos y esas cosas.」"
+
+msgid "Minori「That's all?」"
+msgstr "Minori「¿Eso es todo?」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Minori「You know the real reason, don't you?」"
+msgstr "Minori「Tú sabes el verdadero motivo, ¿no?」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Minori「Whatevers. Now's not the time to make＿jokes. Welp, this girl's gotta get to＿practice!」"
+msgstr "Minori「Como sea. No es momento para hacer＿bromas. ¡Bueno, esta chica se＿va al entrenamiento!」"
+
+msgid "Ryuuji「Right after the opening ceremony?＿Damn, girl.」"
+msgstr "Ryuuji「¿Justo después de la ceremonia＿de apertura? Caray contigo.」"
+
+msgid "Minori「No biggie. The real problem is＿complacency, dude. Laters～!」"
+msgstr "Minori「No pasa nada. El verdadero problema es＿el conformismo, amigo. ¡Nos vemos～!」"
+
+msgid "Ryuuji「Damn it Kushieda, you didn't answer＿my question......」"
+msgstr "Ryuuji「Maldita sea, Kushieda, no respondiste＿mi pregunta......」"
+
+msgid "Ryuuji「Huh......? *Gasp*!! Well, half of this is for＿miso soup, and the other half...... for＿tonight's stew? Yeah, for dinner.」"
+msgstr "Ryuuji「¿Eh......? ¡¡Ah!! Bueno, la mitad es＿para sopa de miso, y el resto......＿¿para el guiso de hoy? Sí, para la cena.」"
+
+msgid "Ryuuji「Yasuko, you're early today.」"
+msgstr "Ryuuji「Yasuko, hoy madrugaste.」"
+
+msgid "Yasuko「When Yacchan doesn't hear＿Taiga-chan's voice at this time of day,＿Yacchan feels all weirddd, or like, the」"
+msgstr "Yasuko「Cuando Yacchan no escucha la voz de＿Taiga-chan a esta hora, Yacchan se＿siente muy raraaa, o como que el」"
+
+msgid "Yasuko「internal block gets messed uppp......」"
+msgstr "Yasuko「meloj interno se descomponeee......」"
+
+msgid "Ryuuji「Internal CLOCK. Taiga doesn't have to＿eat at our house every day, right?＿Maybe she misses convenience store」"
+msgstr "Ryuuji「RELOJ interno. Taiga no tiene que comer＿aquí a diario, ¿no? Quizá lo que extrañe＿de la tienda de conveniencia sea」"
+
+msgid "Ryuuji「food.」"
+msgstr "Ryuuji「la comida.」"
+
+msgid "Yasuko「Maybe Taiga-chan doesn't like＿Ryuu-chan and Yacchan anymoreee?＿When Taiga-chan's not around,」"
+msgstr "Yasuko「¿Será que a Taiga-chan ya no le＿caen bien Ryuu-chan ni Yacchaaan?＿Cuando Taiga-chan no está,」"
+
+msgid "Yasuko「Yacchan feels, feels lonely...... Waaah～!」"
+msgstr "Yasuko「Yacchan se siente, se siente＿sola...... ¡Buaaa～!」"
+
+msgid "Ryuuji「At your age, you shouldn't cry over＿that stuff...... Today's the opening＿ceremony, so I'll see her at school」"
+msgstr "Ryuuji「A tu edad no deberías llorar por＿eso...... Hoy es la ceremonia de＿apertura, así que la veré en la escuela」"
+
+msgid "Ryuuji「anyway.」"
+msgstr "Ryuuji「de todos modos.」"
+
+msgid "Yasuko「Oh yeah, today's the opening＿ceremonyyy. Come straight home～!＿But...... why are you making a boxed」"
+msgstr "Yasuko「Ah, hoy es la ceremonia de aperturaaa.＿¡Vuelve directo a casa～! Pero...... ¿por＿qué preparas una caja de」"
+
+msgid "Yasuko「lunch then?」"
+msgstr "Yasuko「almuerzo entonces?」"
+
+msgid "Yuri「Okay, this concludes homeroom for＿today. Everyone, you can't stay in the＿winter break mood forever, you know?」"
+msgstr "Yuri「Bien, con esto termina la tutoría de＿hoy. No pueden seguir en modo vacaciones＿de invierno siempre, ¿eh?」"
+
+msgid "Yuri「You'll be third-years soon, so......」"
+msgstr "Yuri「Pronto pasarán a tercer＿año, así que......」"
+
+msgid "Haruta「YAY～ It's been a while since we all＿went to karaoke. KA-RA-O-KE! These＿fugly old uniforms really look great on」"
+msgstr "Haruta「¡YUPIII～! Hacía tiempo que no íbamos al＿karaoke. ¡KA-RA-O-KE! Estos feos＿uniformes viejos les quedan genial a」"
+
+msgid "Haruta「everyone～ So lovely!」"
+msgstr "Haruta「todos～ ¡Qué encanto!」"
+
+msgid "Minori「Bulls-eye. I, Minorin, can read Taiga's＿mind perfectly. But as you might＿expect, I can't predict the color of her」"
+msgstr "Minori「En el blanco. Yo, Minorin, puedo leer＿la mente de Taiga a la perfección. Pero＿claro, no puedo predecir el color」"
+
+msgid "Minori「underwear or anything, see.」"
+msgstr "Minori「de su ropa interior ni nada, ¿ves?」"
+
+msgid "Minori「Rather than who Taiga likes, maybe＿you should think about the feelings＿behind why you want to give her that」"
+msgstr "Minori「En vez de pensar en quién le gusta a＿Taiga, quizá deberías pensar en los＿sentimientos detrás de querer darle esa」"
+
+msgid "Minori「boxed lunch, hm?」"
+msgstr "Minori「caja de almuerzo, ¿no?」"

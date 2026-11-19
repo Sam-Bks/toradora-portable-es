@@ -1,0 +1,191 @@
+msgid ""
+msgstr ""
+
+msgid "Taiga「There's Kitamura-kun! Look, sitting by＿the window in Sudoh-Bucks.」"
+msgstr "Taiga「¡Ahí está Kitamura-kun! Mira, sentado＿junto a la ventana en Sudoh-Bucks.」"
+
+msgid "Ami「Whoa, Yuusaku looks so depressed＿and gloomy!!」"
+msgstr "Ami「¡¡Uau, Yuusaku se ve tan＿deprimido y sombrío!!」"
+
+msgid "Ryuuji「Yeah, it's unmistakably gloomy, even at＿a distance......」"
+msgstr "Ryuuji「Sí, se nota sombrío sin lugar a dudas,＿incluso a lo lejos......」"
+
+msgid "Taiga「Kitamura-kun looks like the spirit's＿been drained right out of him...... Poor＿guy.」"
+msgstr "Taiga「Parece que a Kitamura-kun le hubieran＿absorbido el alma...... Pobre.」"
+
+msgid "Ami「Well, it's all up to Takasu-kun now♪」"
+msgstr "Ami「Bueno, ahora todo depende de Takasu-kun♪」"
+
+msgid "Ryuuji「Huh? Aren't you going, Kawashima?」"
+msgstr "Ryuuji「¿Eh? ¿Tú no vas, Kawashima?」"
+
+msgid "Ami「Are you joking? It'd be SUPER weird＿for Ami-chan to invite him. And Tiger＿can't do it either.」"
+msgstr "Ami「¿Bromeas? Sería SÚPER raro que＿Ami-chan lo invitara. Y Tigre＿tampoco puede hacerlo.」"
+
+msgid "Ryuuji「Fine, guess I have to.」"
+msgstr "Ryuuji「Bien, supongo que tendré que ir yo.」"
+
+msgid "Ami「Please and thanks.」"
+msgstr "Ami「Por favor y gracias.」"
+
+msgid "Taiga「Look at Kitamura-kun's listless＿expression. Ryuuji, don't dawdle. Get in＿there and do something!」"
+msgstr "Taiga「Mira la cara de desgano de Kitamura-kun.＿Ryuuji, no pierdas el tiempo. ¡Entra＿y haz algo!」"
+
+msgid "Ryuuji「What a pair of slave drivers......」"
+msgstr "Ryuuji「Vaya par de explotadoras......」"
+
+msgid "Ryuuji「Kitamura!」"
+msgstr "Ryuuji「¡Kitamura!」"
+
+msgid "Kitamura「............」"
+msgstr "Kitamura「............」"
+
+msgid "Ryuuji「KI・TA・MU・RA!!」"
+msgstr "Ryuuji「¡¡KI・TA・MU・RA!!」"
+
+msgid "Kitamura「Huh......? Oh, Takasu......!」"
+msgstr "Kitamura「¿Eh......? ¡Oh, Takasu......!」"
+
+msgid "Ryuuji「Oh...... Morvening. How've you been,＿Kitamura?」"
+msgstr "Ryuuji「Ah...... Buenos díanoches. ¿Cómo＿has estado, Kitamura?」"
+
+msgid "Kitamura「Ha ha ha! I just saw you yesterday,＿didn't I? I'm just dandy!! Need proof?」"
+msgstr "Kitamura「¡Ja, ja, ja! Si te vi ayer mismo,＿¿no? ¡¡Estoy de maravilla!!＿¿Quieres pruebas?」"
+
+msgid "Ryuuji「Keep your clothes on. As long as＿you're okay, I'm happy. Are you free＿tomorrow? I'd like to see you.」"
+msgstr "Ryuuji「No te quites la ropa. Con tal de＿que estés bien, me alegro. ¿Estás＿libre mañana? Quisiera verte.」"
+
+msgid "Kitamura「Why so formal?」"
+msgstr "Kitamura「¿Por qué tanta formalidad?」"
+
+msgid "Ryuuji「Have you heard of Luxure's＿planetarium?」"
+msgstr "Ryuuji「¿Has oído hablar del planetario＿de Luxure?」"
+
+msgid "Kitamura「Isn't Luxure the number one hottest＿date spot right now......?」"
+msgstr "Kitamura「¿No es Luxure el lugar de citas número＿uno más popular ahora mismo......?」"
+
+msgid "Kitamura「*Gasp* Are you asking me out? Stop＿right there, Takasu. I'm not mentally＿prepared for this.」"
+msgstr "Kitamura「¡Ah! ¿Me estás invitando a salir?＿Detente ahí, Takasu. No estoy preparado＿mentalmente para esto.」"
+
+msgid "Ryuuji「Dumbass! I'm only inviting you because＿I thought you might be lonely. Nothing＿more.」"
+msgstr "Ryuuji「¡Idiota! Solo te invito porque pensé que＿podrías sentirte solo. Nada más.」"
+
+msgid "Kitamura「Planetarium......? Space...... Frontier......＿America......?」"
+msgstr "Kitamura「¿Planetario......? ¿Espacio......＿Frontera...... Estados Unidos......?」"
+
+msgid "Ryuuji「No no! Just because it's about space＿doesn't mean it has anything to do with＿Kanou Sumire in the slightest!」"
+msgstr "Ryuuji「¡No, no! ¡Que sea sobre el espacio＿no significa que tenga algo que ver＿con Kanou Sumire ni por asomo!」"
+
+msgid "Kitamura「......Takasu, why are you doing this?」"
+msgstr "Kitamura「......Takasu, ¿por qué haces esto?」"
+
+msgid "Ryuuji「*Gasp*!!」"
+msgstr "Ryuuji「¡¡Ah!!」"
+
+msgid "Kitamura「How do you know about space's＿relation to the Prez if you have＿amnesia? Did Ami and Aisaka tell you?」"
+msgstr "Kitamura「¿Cómo sabes la relación del espacio＿con la presidenta si tienes amnesia?＿¿Te lo contaron Ami y Aisaka?」"
+
+msgid "Ryuuji「I, I haven't been told anything. Nothing＿at all. It was just a figure of speech.」"
+msgstr "Ryuuji「N-No me han dicho nada. Nada de nada.＿Solo era una forma de hablar.」"
+
+msgid "Kitamura「Your eyes are all over the place,＿Takasu. Look straight into my eyes.」"
+msgstr "Kitamura「Tienes la mirada por todos lados,＿Takasu. Mírame directo a los ojos.」"
+
+msgid "Ryuuji「（For Kitamura's sake, I can't screw up＿here......!）」"
+msgstr "Ryuuji「（¡Por el bien de Kitamura, no puedo＿arruinarlo aquí......!）」"
+
+msgid "Ryuuji「K-Kitamura! Likewise, YOU look into＿MY eyes!」"
+msgstr "Ryuuji「¡K-Kitamura! ¡TÚ también＿mírame a MIS ojos!」"
+
+msgid "Kitamura「Mm...... When I look right into them,＿they're so piercing......」"
+msgstr "Kitamura「Mm...... Cuando los miro directamente,＿son tan penetrantes......」"
+
+msgid "Ryuuji「Listen, I...... want......」"
+msgstr "Ryuuji「Escucha, yo...... quiero......」"
+
+msgid "Kitamura「......?」"
+msgstr "Kitamura「......?」"
+
+msgid "Ryuuji「I! WANT! TO GO TO THE COUPLES'＿PLANETARIUM WITH YOUUU!!」"
+msgstr "Ryuuji「¡YO! ¡QUIERO! ¡¡IR AL PLANETARIO＿PARA PAREJAS CONTIGOOO!!」"
+
+msgid "Kitamura「............」"
+msgstr "Kitamura「............」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Ryuuji「......Huh? Did I just......?」"
+msgstr "Ryuuji「......¿Eh? ¿Acabo de......?」"
+
+msgid "Kitamura「Takasu, I've always thought you were a＿manly guy, but to this extent......」"
+msgstr "Kitamura「Takasu, siempre pensé que eras muy＿hombre, pero llegar a este punto......」"
+
+msgid "Ryuuji「Hold on, Kitamura.」"
+msgstr "Ryuuji「Espera, Kitamura.」"
+
+msgid "Kitamura「When you put it like that, no＿self-respecting man could run away.＿Let's go to Luxure tomorrow.」"
+msgstr "Kitamura「Si lo dices así, ningún hombre＿que se respete podría huir.＿Vamos mañana a Luxure.」"
+
+msgid "Ryuuji「O-Okay! Yes please.」"
+msgstr "Ryuuji「¡E-Está bien! Sí, por favor.」"
+
+msgid "Kitamura「Goodbye, Takasu. See you tomorrow.」"
+msgstr "Kitamura「Adiós, Takasu. Nos vemos mañana.」"
+
+msgid "Ryuuji「Oh, see ya.」"
+msgstr "Ryuuji「Ah, nos vemos.」"
+
+msgid "Ryuuji「Did it...... go well? It must have......」"
+msgstr "Ryuuji「¿Salió...... bien? Seguro que sí......」"
+
+msgid "Ryuuji「（*Sigh*...... Just when I try to catch a＿break, I get this itching feeling......）」"
+msgstr "Ryuuji「（*Suspiro*...... Justo cuando＿intento relajarme un poco, me＿entra esta comezón......）」"
+
+msgid "I need to go to the bathroom"
+msgstr "Tengo que ir al baño"
+
+msgid "I need to clean something"
+msgstr "Tengo que limpiar algo"
+
+msgid "Ryuuji「（......I need to go to the bathroom...... Be＿right back......）」"
+msgstr "Ryuuji「（......Tengo que ir al baño......＿Vuelvo enseguida......）」"
+
+msgid "Ryuuji「（Now I really wanna clean something......＿It's fine if I do it on the down-low so I＿won't bother anyone......）」"
+msgstr "Ryuuji「（De verdad quiero limpiar algo......＿No pasa nada si lo hago en secreto para＿no molestar a nadie......）」"
+
+msgid "Ryuuji「（Oho......）」"
+msgstr "Ryuuji「（Oho......）」"
+
+msgid "Ryuuji「（A sports magazine. Someone must've＿left it here after they were done＿reading it.）」"
+msgstr "Ryuuji「（Una revista deportiva. Alguien＿la habrá dejado aquí después＿de terminar de leerla.）」"
+
+msgid "Ryuuji「（Magazines can be turned into cleaning＿tools. Throwing it away is MOTTAINAI!＿Pick it up!）」"
+msgstr "Ryuuji「（Las revistas sirven para limpiar.＿¿Tirarla? ¡QUÉ DESPERDICIO! ¡Recógela!）」"
+
+msgid "Ryuuji「（Couldn't find anything......）」"
+msgstr "Ryuuji「（No pude encontrar nada......）」"
+
+msgid "Kitamura「Y-Yo, good morning! No, it's not really＿morning anymore, is it? Is it too early＿to say \"good evening\"?」"
+msgstr "Kitamura「¡H-Hola, buenos días! No, ya no es＿de mañana, ¿verdad? ¿Es muy temprano＿para decir \"buenas noches\"?」"
+
+msgid "Kitamura「Repeat after me: \"Morvening!!\"」"
+msgstr "Kitamura「Repite conmigo: \"¡¡Buenos díanoches!!\"」"
+
+msgid "Kitamura「I thought something was strange when＿you invited me to the planetarium in＿the first place.」"
+msgstr "Kitamura「Ya me parecía raro desde el principio＿que me invitaras al planetario.」"
+
+msgid "Kitamura「It's not somewhere two guys would go.＿What are you thinking?」"
+msgstr "Kitamura「No es un lugar al que irían dos＿chicos. ¿Qué estás pensando?」"
+
+msgid "Ryuuji「Don't look at me so suspiciously. I'm＿inviting you with no ill intent. I mean,＿aren't you curious?」"
+msgstr "Ryuuji「No me mires con tanta sospecha.＿Te invito sin malas intenciones.＿Digo, ¿no te da curiosidad?」"
+
+msgid "Ryuuji「You know, the foam seats, the soothing＿aroma...... what was after that?」"
+msgstr "Ryuuji「Ya sabes, los asientos de espuma, el＿aroma relajante...... ¿qué seguía?」"
+
+msgid "Ryuuji「（Just as I expected of Sudoh-Bucks! It's＿nice and clean, just as a restaurant＿should be. There wasn't much to clean）」"
+msgstr "Ryuuji「（¡Como esperaba de Sudoh-Bucks! Está＿limpio, como debe estar un restaurante.＿No había mucho que limpiar）」"
+
+msgid "Ryuuji「（here.）」"
+msgstr "Ryuuji「（aquí.）」"

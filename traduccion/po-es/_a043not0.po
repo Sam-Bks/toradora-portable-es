@@ -1,0 +1,179 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「（After all that, what was the point of＿coming all the way to Kanou-Mart......?）」"
+msgstr "Ryuuji「（Al final, ¿de qué sirvió venir＿hasta Kanou-Mart......?）」"
+
+msgid "???「YAAAY, it's TAKA-CHAN～!」"
+msgstr "???「¡BIEEEEN, es TAKA-CHAN～!」"
+
+msgid "Noto「What's with the gloomy face so soon＿into the new yea...... AAAH!!」"
+msgstr "Noto「¿A qué viene esa cara tan triste apenas＿empezando el añ...... ¡¡AAAH!!」"
+
+msgid "Ryuuji「It was just a nosebleed.」"
+msgstr "Ryuuji「Solo me sangró la nariz.」"
+
+msgid "Noto「A nosebleed? How could your nose＿bleed this much, Takasu?」"
+msgstr "Noto「¿Te sangró la nariz? ¿Cómo pudo＿sangrarte tanto, Takasu?」"
+
+msgid "Ryuuji「Well, a lot of stuff happened...... It's a＿long story.」"
+msgstr "Ryuuji「Bueno, pasaron muchas cosas......＿Es una larga historia.」"
+
+msgid "Noto「I see. For someone going through＿amnesia like you, stopping a nosebleed＿must present its own challenges, huh.」"
+msgstr "Noto「Ya veo. Para alguien con amnesia como＿tú, detener un sangrado de nariz debe＿ser todo un reto, ¿eh?」"
+
+msgid "Ryuuji「You sure are in a good mood, Noto.＿Thought you were Haruta for a second＿there.」"
+msgstr "Ryuuji「Vaya que estás de buen humor, Noto. Por＿un segundo pensé que eras Haruta.」"
+
+msgid "Noto「Aha☆ You can tell, huh!?」"
+msgstr "Noto「Ajá☆ ¡¿Se nota, eh?!」"
+
+msgid "Ryuuji「......Someone this cheerful is hard to＿miss.」"
+msgstr "Ryuuji「......Es difícil no notar＿a alguien tan alegre.」"
+
+msgid "Ryuuji「......Like this?」"
+msgstr "Ryuuji「......¿Así?」"
+
+msgid "Noto「......Sorry, you can just forget it.」"
+msgstr "Noto「......Perdón, mejor olvídalo.」"
+
+msgid "Ryuuji「So, what's got you smiling?」"
+msgstr "Ryuuji「Y bien, ¿qué te tiene sonriendo?」"
+
+msgid "Noto「Thanks for asking. TA-DA! Get a load of＿these!」"
+msgstr "Noto「Gracias por preguntar. ¡TARÁN!＿¡Échale un vistazo a esto!」"
+
+msgid "Ryuuji「Hmm? Tickets for......? Not movies,＿apparently.」"
+msgstr "Ryuuji「¿Mmm? ¿Entradas para......? Al＿parecer, no son de cine.」"
+
+msgid "Noto「You're hopeless, Takasu. If you're＿trying to snag a lady, you gotta＿research the trendy new date spots.」"
+msgstr "Noto「No tienes remedio, Takasu. Si quieres＿conquistar a una chica, debes investigar＿los nuevos lugares de moda para citas.」"
+
+msgid "Ryuuji「Date spots?」"
+msgstr "Ryuuji「¿Lugares para citas?」"
+
+msgid "Ryuuji「\"Luxure\"? I don't have the slightest＿idea what you're talking about.」"
+msgstr "Ryuuji「¿\"Luxure\"? No tengo la menor＿idea de qué estás hablando.」"
+
+msgid "Ryuuji「Wow, sounds like this new place is＿classy.」"
+msgstr "Ryuuji「Vaya, suena a que ese lugar＿nuevo tiene mucha clase.」"
+
+msgid "Noto「\"Classy\"! That word alone just isn't＿enough to describe it. Damn you,＿Taka-chan☆」"
+msgstr "Noto「¡\"Mucha clase\"! Esa palabra＿no basta para describirlo. Maldito＿seas, Taka-chan☆」"
+
+msgid "Ryuuji「Are you sure Haruta isn't possessing＿you......?」"
+msgstr "Ryuuji「¿Seguro que Haruta no te＿está poseyendo......?」"
+
+msgid "Noto「So! The most popular place is the＿planetarium! These very tickets!」"
+msgstr "Noto「¡Y bien! ¡El lugar más popular es el＿planetario! ¡Justo estas entradas!」"
+
+msgid "Ryuuji「That's...... sort of dull.」"
+msgstr "Ryuuji「Eso es...... un poco aburrido.」"
+
+msgid "Noto「No no, you can't underestimate the＿planetarium these days.」"
+msgstr "Noto「No, no, no puedes subestimar a los＿planetarios de hoy en día.」"
+
+msgid "Ryuuji「But isn't the planetarium the place＿where you stare at the ceiling and let＿the voiceover put you to sleep?」"
+msgstr "Ryuuji「¿Pero el planetario no es ese lugar＿donde miras el techo y dejas que＿la narración te duerma?」"
+
+msgid "Noto「WROOOONG!! NOT AT ALL, NO WAY,＿LEARN 2 READ!!」"
+msgstr "Noto「¡¡ERROOOOR!! ¡PARA NADA, NI＿HABLAR, APRENDE A LEER!!」"
+
+msgid "Ryuuji「That so?」"
+msgstr "Ryuuji「¿En serio?」"
+
+msgid "Noto「Dimly lit, with mood music, foam seats＿that softly contour to your body, and＿that soothing aroma......」"
+msgstr "Noto「Luz tenue, música ambiental, asientos de＿espuma que se amoldan suavemente a tu＿cuerpo, y ese aroma relajante......」"
+
+msgid "Ryuuji「Oh.」"
+msgstr "Ryuuji「Ah.」"
+
+msgid "Ryuuji「Now I get it......」"
+msgstr "Ryuuji「Ahora lo entiendo......」"
+
+msgid "Noto「It's so popular that the waiting list is＿crazy, but admission is no hassle with＿these tickets～ Maaan, I can't wait①」"
+msgstr "Noto「Es tan popular que la lista de espera es＿una locura, pero con estas entradas＿entras sin líos～ ¡Aaaah, qué ganas!①」"
+
+msgid "Ryuuji「......Hey, I've been wondering about this＿for a while now - can I ask you＿something? I just can't remember.」"
+msgstr "Ryuuji「......Oye, llevo rato pensando en＿esto: ¿puedo preguntarte algo? Es＿que no consigo recordarlo.」"
+
+msgid "Noto「Hmm? What?」"
+msgstr "Noto「¿Mmm? ¿Qué pasa?」"
+
+msgid "Ryuuji「Noto...... Do you have a girlfriend?」"
+msgstr "Ryuuji「Noto...... ¿Tienes novia?」"
+
+msgid "Noto「............」"
+msgstr "Noto「............」"
+
+msgid "Ryuuji「Hm?」"
+msgstr "Ryuuji「¿Mm?」"
+
+msgid "Noto「............」"
+msgstr "Noto「............」"
+
+msgid "Ryuuji「......Noto?」"
+msgstr "Ryuuji「......¿Noto?」"
+
+msgid "Noto「......You can have them, Takasu.」"
+msgstr "Noto「......Quédatelas tú, Takasu.」"
+
+msgid "Ryuuji「What the? That's not why I asked at all.」"
+msgstr "Ryuuji「¿Qué? Para nada lo pregunté por eso.」"
+
+msgid "Noto「It's fine, please accept them. Don't be＿shy now.」"
+msgstr "Noto「Está bien, por favor acéptalas.＿No te pongas tímido ahora.」"
+
+msgid "Ryuuji「My bad. I'm sorry.」"
+msgstr "Ryuuji「Disculpa. Lo siento.」"
+
+msgid "Ryuuji「Cheer up! The new year has barely＿even begun. We're still at the start of＿our lives.」"
+msgstr "Ryuuji「¡Ánimo! El año nuevo apenas ha＿comenzado. Todavía estamos al＿inicio de nuestras vidas.」"
+
+msgid "Noto「\"We\"? Good one, Takasu! No matter＿what you say, Tiger's cute, and you get＿along with Ami-chan.」"
+msgstr "Noto「¿\"Estamos\"? ¡Buena esa, Takasu! Digas＿lo que digas, Tigre es linda, y te＿llevas bien con Ami-chan.」"
+
+msgid "Noto「Someone, someone like you...... should＿fool around with women as much as＿you can!!」"
+msgstr "Noto「Alguien, alguien como tú......＿¡debería divertirse con las mujeres＿todo lo que pueda!!」"
+
+msgid "Ryuuji「Noto!」"
+msgstr "Ryuuji「¡Noto!」"
+
+msgid "Noto「If you know any nice girls, introduce＿me to them......」"
+msgstr "Noto「Si conoces a alguna chica linda,＿preséntamela......」"
+
+msgid "Ryuuji「Oh, okay......」"
+msgstr "Ryuuji「Ah, está bien......」"
+
+msgid "Ryuuji「（He went and gave me...... the pair of＿planetarium tickets......）」"
+msgstr "Ryuuji「（Me terminó dando...... el par de＿entradas para el planetario......）」"
+
+msgid "Noto「This overflowing joy isn't easily hidden,＿yup yup. Happiness begets happiness,＿as they say.」"
+msgstr "Noto「Esta alegría desbordante no se oculta＿fácil, sip, sip. La dicha atrae＿a la dicha, como dicen.」"
+
+msgid "Noto「Come on, don't look so gloomy, Takasu.＿Try on a smile.」"
+msgstr "Noto「Vamos, no pongas esa cara triste,＿Takasu. Intenta sonreír.」"
+
+msgid "Noto「Yeah! You know, that new \"Luxure\"＿place past the train station? These＿tickets are for the planetarium there.」"
+msgstr "Noto「¡Sí! ¿Conoces ese lugar nuevo llamado＿\"Luxure\" pasando la estación? Estas＿entradas son para el planetario de ahí.」"
+
+msgid "Noto「I won them in the raffle outside of the＿station square mall, bro～」"
+msgstr "Noto「Me las gané en la rifa afuera＿del centro comercial de la plaza＿de la estación, amigo～」"
+
+msgid "Noto「I hear it's amazing. It has a pool where＿you can adore her swimsuit, a gym＿where you can help her work out...」"
+msgstr "Noto「Dicen que es increíble. Tiene piscina＿para admirar su traje de baño, gimnasio＿para ayudarla a entrenar...」"
+
+msgid "Noto「And \"I'm scared of heights①\" makes＿close contact a sure bet at the ferris＿wheel!」"
+msgstr "Noto「¡Y un \"Me dan miedo las alturas①\"＿asegura el contacto cercano en＿la rueda de la fortuna!」"
+
+msgid "Noto「And what's more, it comes with a＿loveseat to bring you both close!」"
+msgstr "Noto「¡Y además, incluye un sofá para＿dos para acercarlos más!」"
+
+msgid "Noto「If you talk about love while gazing at＿the twinkling stars, your relationship＿will plunge deeper, you know?」"
+msgstr "Noto「Si hablan de amor mientras contemplan＿las estrellas titilantes, su relación＿se hará más profunda, ¿sabes?」"
+
+msgid "Noto「I'm single anyway...... I must be as＿stupid as Haruta to get so cheerful＿without having found Mrs. Right......」"
+msgstr "Noto「Igual estoy soltero...... Debo ser tan＿tonto como Haruta por alegrarme sin＿encontrar a la indicada......」"
+
+msgid "Noto「Deep down, I know it.」"
+msgstr "Noto「En el fondo, lo sé.」"

@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+
+msgid "Taiga「*Gasp*...... *Gasp*......」"
+msgstr "Taiga「*Jadeo*...... *Jadeo*......」"
+
+msgid "Ryuuji「I finally...... *Gasp*...... caught up to＿you......」"
+msgstr "Ryuuji「Por fin...... *Jadeo*......＿te alcancé......」"
+
+msgid "Taiga「Argh, what is with you?! Why are you＿following me?!」"
+msgstr "Taiga「¡Argh! ¡¿Qué te pasa?! ¡¿Por＿qué me estás siguiendo?!」"
+
+msgid "Ryuuji「You're the one that ran off!」"
+msgstr "Ryuuji「¡Tú fuiste la que salió corriendo!」"
+
+msgid "Taiga「I'm going home.」"
+msgstr "Taiga「Me voy a casa.」"
+
+msgid "Ryuuji「Going home......? This conversation isn't＿over!」"
+msgstr "Ryuuji「¿A casa......? ¡Esta conversación＿no ha terminado!」"
+
+msgid "Taiga「If you keep this up, I'll yell for help!」"
+msgstr "Taiga「¡Si sigues así, gritaré pidiendo ayuda!」"
+
+msgid "Ryuuji「Wait a minute, calm down.」"
+msgstr "Ryuuji「Espera un momento, cálmate.」"
+
+msgid "Taiga「I'm always calm. Anyway, I'm done for＿today, so I'm going home.」"
+msgstr "Taiga「Siempre estoy calmada. Como sea, ya＿terminé por hoy, así que me voy a casa.」"
+
+msgid "Ryuuji「Taiga, what about dinner? Eat at my＿place.」"
+msgstr "Ryuuji「Taiga, ¿qué hay de la cena?＿Come en mi casa.」"
+
+msgid "Taiga「I'm not hungry.」"
+msgstr "Taiga「No tengo hambre.」"
+
+msgid "Ryuuji「Taiga......」"
+msgstr "Ryuuji「Taiga......」"

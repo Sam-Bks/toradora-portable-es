@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+
+msgid "???「HEEEY, TAKASU! AISAKA!」"
+msgstr "???「¡EEEY, TAKASU! ¡AISAKA!」"
+
+msgid "Ryuuji「Oh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Taiga「Isn't that Kitamura-kun?」"
+msgstr "Taiga「¿Ese no es Kitamura-kun?」"
+
+msgid "Ryuuji「......Oh, there he is.」"
+msgstr "Ryuuji「......Ah, ahí está.」"
+
+msgid "Kitamura「HEEEY!」"
+msgstr "Kitamura「¡EEEY!」"
+
+msgid "Ryuuji「......OHH!」"
+msgstr "Ryuuji「......¡OOOH!」"
+
+msgid "Kitamura「'Sup, Takasu, Aisaka.」"
+msgstr "Kitamura「¿Qué tal, Takasu, Aisaka?」"
+
+msgid "Ryuuji「Oh, are you training first thing in the＿new year?」"
+msgstr "Ryuuji「Ah, ¿entrenando apenas＿empieza el año nuevo?」"
+
+msgid "Kitamura「Well, nothing as serious as that, but my＿free time runs out tomorrow. I thought＿I'd do some running as a warmup.」"
+msgstr "Kitamura「Bueno, nada tan serio, pero mi tiempo＿libre se acaba mañana. Pensé en salir＿a correr un poco para calentar.」"
+
+msgid "Taiga「Wow, I should expect as much from the＿boys' softball captain.」"
+msgstr "Taiga「Vaya, no esperaba menos del capitán＿de sóftbol masculino.」"
+
+msgid "Ryuuji「Totally different from Taiga, who's just＿been lounging around this whole time.」"
+msgstr "Ryuuji「Totalmente distinto a Taiga,＿que se ha pasado todo este＿tiempo holgazaneando.」"
+
+msgid "Taiga「W-What the!?」"
+msgstr "Taiga「¡¿P-Pero qué?!」"
+
+msgid "Kitamura「Hahaha! Doing nothing for the holidays＿is appealing in its own way, though.」"
+msgstr "Kitamura「¡Jajaja! Aunque no hacer nada en＿vacaciones tiene su encanto.」"
+
+msgid "Taiga「Uh, yeah, that's right!」"
+msgstr "Taiga「Eh, sí, ¡así es!」"
+
+msgid "Ryuuji「Don't compare yourself to someone＿who's busy year-round like Kitamura.」"
+msgstr "Ryuuji「No te compares con alguien que está＿ocupado todo el año como Kitamura.」"
+
+msgid "Taiga「Wha......! Wait, you remembered that＿too?」"
+msgstr "Taiga「¡¿Qué......?! Espera, ¿también＿recordaste eso?」"
+
+msgid "Ryuuji「Oh...... Come to think of it, yeah.」"
+msgstr "Ryuuji「Ah...... Ahora que lo pienso, sí.」"
+
+msgid "Kitamura「Oh, seems your memories are steadily＿returning, hm? That's great to hear.」"
+msgstr "Kitamura「Vaya, parece que tus recuerdos vuelven＿poco a poco, ¿eh? Qué buena noticia.」"
+
+msgid "Ryuuji「Yeah, well, little by little...... At the very＿least, I wanted to work on getting them＿back over winter break.」"
+msgstr "Ryuuji「Sí, bueno, poco a poco...... Al menos＿quería esforzarme por recuperarlos en＿las vacaciones de invierno.」"
+
+msgid "Kitamura「I'd like it if there was a way for you to＿get them all back at once, though.」"
+msgstr "Kitamura「Ojalá hubiera una forma de que los＿recuperaras todos de golpe.」"
+
+msgid "Ryuuji「Sounds too good to be true.」"
+msgstr "Ryuuji「Suena demasiado bueno para ser verdad.」"
+
+msgid "Ryuuji「A trigger, huh......?」"
+msgstr "Ryuuji「Un detonante, ¿eh......?」"
+
+msgid "Taiga「Maybe they'll all flood back once I beat＿you to a crimson pulp.」"
+msgstr "Taiga「Quizá vuelvan de golpe cuando te muela＿a golpes hasta dejarte rojo.」"
+
+msgid "Ryuuji「I'm against violence! Why are you＿always like this?」"
+msgstr "Ryuuji「¡Estoy en contra de la violencia!＿¿Por qué siempre eres así?」"
+
+msgid "Kitamura「Haha, that's just like you, Aisaka.＿Though, it might not be such a bad＿idea after all.」"
+msgstr "Kitamura「Jaja, típico de ti, Aisaka. Aunque＿puede que después de todo no＿sea tan mala idea.」"
+
+msgid "Taiga「You think so too?」"
+msgstr "Taiga「¿Tú también lo crees?」"
+
+msgid "Ryuuji「K-Kitamura! What the hell are YOU＿suggesting!?」"
+msgstr "Ryuuji「¡K-Kitamura! ¡¿Qué demonios＿estás sugiriendo TÚ?!」"
+
+msgid "Kitamura「Now hold on. I'm not saying we should＿beat you up on the spot. Not at all.」"
+msgstr "Kitamura「Calma, calma. No digo que debamos＿golpearte aquí mismo. Para nada.」"
+
+msgid "Kitamura「The part that isn't bad is \"turning you＿crimson.\"」"
+msgstr "Kitamura「Lo que no es mala idea＿es \"dejarte rojo\".」"
+
+msgid "Ryuuji「Oh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Kitamura「How about we get your body working＿so hard that you get red in the face?」"
+msgstr "Kitamura「¿Qué tal si haces trabajar tu cuerpo＿hasta ponerte rojo del esfuerzo?」"
+
+msgid "Taiga「Sports?」"
+msgstr "Taiga「¿Deportes?」"
+
+msgid "Kitamura「Precisely.」"
+msgstr "Kitamura「Exactamente.」"
+
+msgid "Ryuuji「Now I get it...... I haven't tried that yet.」"
+msgstr "Ryuuji「Ya entiendo...... Aún no he probado eso.」"
+
+msgid "Kitamura「If you happen to be free after this,＿would you care to stop by the batting＿center? I'll accompany you if you do.」"
+msgstr "Kitamura「Si estás libre después de esto,＿¿quieres pasar por el centro de＿bateo? Si vas, te acompaño.」"
+
+msgid "Ryuuji「Let's see. What should we do, Tai...... uh.」"
+msgstr "Ryuuji「A ver. ¿Qué hacemos, Tai...... eh?」"
+
+msgid "Taiga「......Taiuh?」"
+msgstr "Taiga「......¿Taieh?」"
+
+msgid "Ryuuji「Uhh, well, errr...... My bad, Kitamura, I've＿got an errand to run after this.」"
+msgstr "Ryuuji「Eh, bueno, ehm...... Perdón, Kitamura,＿tengo un recado que hacer después.」"
+
+msgid "Taiga「You don't have to worry about me, you＿know.」"
+msgstr "Taiga「No tienes que preocuparte＿por mí, ¿sabes?」"
+
+msgid "Ryuuji「No, we haven't had lunch yet.」"
+msgstr "Ryuuji「No, aún no hemos almorzado.」"
+
+msgid "Kitamura「Let's do it next time, then.」"
+msgstr "Kitamura「Hagámoslo la próxima vez, entonces.」"
+
+msgid "Ryuuji「Sure.」"
+msgstr "Ryuuji「Claro.」"
+
+msgid "Kitamura「See you around.」"
+msgstr "Kitamura「Nos vemos luego.」"
+
+msgid "Ryuuji「Oh, see ya.」"
+msgstr "Ryuuji「Ah, nos vemos.」"
+
+msgid "Taiga「Oh, bye-bye!」"
+msgstr "Taiga「¡Ah, adiós!」"
+
+msgid "Taiga「......You should have gone with him.」"
+msgstr "Taiga「......Debiste haber ido con él.」"
+
+msgid "Ryuuji「Nah. Well...... No, it's fine.」"
+msgstr "Ryuuji「No. Bueno...... No, así está bien.」"
+
+msgid "Kitamura「No, didn't you know? You might not＿know the cause behind your amnesia,＿but if you were to determine it, it could」"
+msgstr "Kitamura「No, ¿no lo sabías? Puede que no sepas＿la causa de tu amnesia, pero si la＿descubrieras, eso podría」"
+
+msgid "Kitamura「trigger all your memories to return.」"
+msgstr "Kitamura「detonar el regreso de＿todos tus recuerdos.」"
+
+msgid "Ryuuji「（I turned Kitamura down because I＿remembered what a demonic teacher＿he is...... It's probably best not to say）」"
+msgstr "Ryuuji「（Rechacé a Kitamura porque recordé＿lo demoníaco que es como＿instructor...... Mejor no decirle）」"
+
+msgid "Ryuuji「（that to Taiga......）」"
+msgstr "Ryuuji「（eso a Taiga......）」"

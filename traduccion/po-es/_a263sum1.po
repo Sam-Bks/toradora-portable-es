@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+
+msgid "Sumire「Takasu!」"
+msgstr "Sumire「¡Takasu!」"
+
+msgid "Ryuuji「Y-Yes!?」"
+msgstr "Ryuuji「¡¿S-Sí?!」"
+
+msgid "Sumire「You've grown on me.」"
+msgstr "Sumire「Me empezaste a caer bien.」"
+
+msgid "Ryuuji「......Huh?」"
+msgstr "Ryuuji「......¿Eh?」"
+
+msgid "Sumire「This peerlessly keen judgment of mine＿was flawless. Good. I'll let you have this.」"
+msgstr "Sumire「Este juicio mío tan agudo fue impecable.＿Bien. Te daré esto.」"
+
+msgid "Ryuuji「What is this?」"
+msgstr "Ryuuji「¿Qué es esto?」"
+
+msgid "Sumire「Fufu, it's a secret. I can only say that＿it's deeply involved with our school's＿student council.」"
+msgstr "Sumire「Juju, es un secreto. Solo puedo decir＿que tiene mucho que ver con el consejo＿estudiantil de nuestra escuela.」"
+
+msgid "Ryuuji「And yet you're giving it to me? You＿know I'm not in student council, right?」"
+msgstr "Ryuuji「¿Y aun así me lo das? Sabes que no estoy＿en el consejo estudiantil, ¿no?」"
+
+msgid "Sumire「I'm personally giving it to you. Take it.」"
+msgstr "Sumire「Te lo doy personalmente. Tómalo.」"
+
+msgid "Ryuuji「Uh, okay......」"
+msgstr "Ryuuji「Eh, está bien......」"
+
+msgid "Sumire「Whoops, I've nearly run out of time.＿How was our chat? Think it might have＿helped you remember something?」"
+msgstr "Sumire「Uy, ya casi se me acaba el tiempo. ¿Qué＿tal nuestra charla? ¿Crees que te haya＿ayudado a recordar algo?」"
+
+msgid "Ryuuji「You put in a lot of effort to help me,＿but no, not especially......」"
+msgstr "Ryuuji「Te esforzaste mucho por ayudarme,＿pero no, nada en especial......」"
+
+msgid "Ryuuji「Uh...... Thank you.」"
+msgstr "Ryuuji「Eh...... Gracias.」"
+
+msgid "Sumire「I'm going back to my room. Don't forget＿our agreement on the morning of the＿7th. See ya.」"
+msgstr "Sumire「Regreso a mi habitación. No olvides＿nuestro acuerdo para la mañana＿del 7. Nos vemos.」"
+
+msgid "Ryuuji「Okay. I'll go back to Luxure. I'm＿concerned about Taiga and Kitamura.」"
+msgstr "Ryuuji「Bien. Volveré a Luxure. Me preocupan＿Taiga y Kitamura.」"
+
+msgid "Sumire「Concerned, huh?」"
+msgstr "Sumire「¿Te preocupan, eh?」"
+
+msgid "Ryuuji「Can you NOT take that the wrong＿way? More importantly, give me back＿my cell phone already.」"
+msgstr "Ryuuji「¿Puedes NO malinterpretarlo? Y lo más＿importante: devuélveme ya mi teléfono.」"
+
+msgid "Sumire「What, you remembered that? How dull.」"
+msgstr "Sumire「¿Qué, de eso sí te acordaste?＿Qué aburrido.」"
+
+msgid "Sumire「No.」"
+msgstr "Sumire「No.」"
+
+msgid "Ryuuji「......Alright then.」"
+msgstr "Ryuuji「......Está bien entonces.」"
+
+msgid "Sumire「I see. But it's not a big deal, is it? Even＿if you don't cure your amnesia, I think＿you're the kind of man who will know」"
+msgstr "Sumire「Ya veo. Pero no es para tanto, ¿no?＿Aunque no cures tu amnesia, creo que＿eres el tipo de hombre que sabrá」"
+
+msgid "Sumire「which path to take.」"
+msgstr "Sumire「qué camino tomar.」"
+
+msgid "Ryuuji「Forgetting memories and forgetting＿things are two separate issues...... Want＿me to give Kitamura a message or」"
+msgstr "Ryuuji「Perder recuerdos y olvidar cosas son＿temas distintos...... ¿Quieres que le dé＿algún mensaje a Kitamura o」"
+
+msgid "Ryuuji「anything?」"
+msgstr "Ryuuji「algo así?」"
+
+msgid "Ryuuji「（I'm happy with this outcome......＿Actually, I'm sure this would have＿happened no matter what. Just like）」"
+msgstr "Ryuuji「（Estoy contento con este resultado......＿De hecho, seguro habría pasado de＿todos modos. Tal como）」"
+
+msgid "Ryuuji「（she said......）」"
+msgstr "Ryuuji「（ella dijo......）」"

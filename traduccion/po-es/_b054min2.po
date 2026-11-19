@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+
+msgid "Minori「Whoops! Takasu-kun, alas, I must take＿my leave of you.」"
+msgstr "Minori「¡Uy! Takasu-kun, por desgracia, debo＿retirarme de vuestra presencia.」"
+
+msgid "Ryuuji「Oh, really?」"
+msgstr "Ryuuji「Ah, ¿en serio?」"
+
+msgid "Minori「Verily I promised unto Taiga we would＿partake in dessert. Oh, wouldst you＿join us, Sir Takasu?」"
+msgstr "Minori「En verdad prometí a Taiga que＿degustaríamos un postre. Oh, ¿nos＿acompañaríais, Sir Takasu?」"
+
+msgid "Ryuuji「Nah, I'll relax here a little longer.」"
+msgstr "Ryuuji「Nah, descansaré aquí un rato más.」"
+
+msgid "Minori「Alrighty. See ya laters!」"
+msgstr "Minori「¡Muy bien! ¡Nos vemos luego!」"
+
+msgid "Ryuuji「Bye.」"
+msgstr "Ryuuji「Adiós.」"
+
+msgid "Ryuuji「（......She's just so easy to talk to.）」"
+msgstr "Ryuuji「（......Es tan fácil hablar con ella.）」"
+
+msgid "Ryuuji「Kushieda Minori......」"
+msgstr "Ryuuji「Kushieda Minori......」"

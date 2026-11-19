@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+
+msgid "Ami「..................」"
+msgstr "Ami「..................」"
+
+msgid "Ryuuji「Kawashima? What's wrong?」"
+msgstr "Ryuuji「¿Kawashima? ¿Qué pasa?」"
+
+msgid "Ami「Oh......」"
+msgstr "Ami「Ah......」"
+
+msgid "Ryuuji「\"Oh\"?」"
+msgstr "Ryuuji「¿\"Ah\"?」"
+
+msgid "Ami「N-Nothing!!」"
+msgstr "Ami「¡¡N-Nada!!」"
+
+msgid "Ryuuji「It sure doesn't seem like nothing. Your＿face is red. Do you have a fever? Let's＿see......」"
+msgstr "Ryuuji「Pues no parece que no sea nada.＿Tienes la cara roja. ¿Tienes＿fiebre? A ver......」"
+
+msgid "Ami「Aaahh!」"
+msgstr "Ami「¡Aaahh!」"
+
+msgid "Ryuuji「......Don't freak out. I'm just checking if＿you have a fever.」"
+msgstr "Ryuuji「......No te alteres. Solo estoy＿viendo si tienes fiebre.」"
+
+msgid "Ami「S-Shut it! I didn't scream! And I don't＿have a fever!!」"
+msgstr "Ami「¡C-Cállate! ¡No grité!＿¡¡Y no tengo fiebre!!」"
+
+msgid "Ryuuji「What's the matter with you,＿Kawashima?」"
+msgstr "Ryuuji「¿Qué te pasa, Kawashima?」"
+
+msgid "Ami「........................」"
+msgstr "Ami「........................」"
+
+msgid "Ryuuji「Kawashima?」"
+msgstr "Ryuuji「¿Kawashima?」"
+
+msgid "Ami「......Forget it. When I'm with you...... I＿start feeling restless.」"
+msgstr "Ami「......Olvídalo. Cuando estoy＿contigo...... me empiezo＿a sentir inquieta.」"
+
+msgid "Ryuuji「Huh!?」"
+msgstr "Ryuuji「¡¿Eh?!」"
+
+msgid "Ryuuji「（\"Restless\"? I thought we were talking＿just fine for a while there. I just don't＿get her.）」"
+msgstr "Ryuuji「（¿\"Inquieta\"? Pensé que estábamos＿hablando bastante bien hace un rato.＿Simplemente no la entiendo.）」"
+
+msgid "Ryuuji「（Guess I have no choice but to check＿out the sauna.）」"
+msgstr "Ryuuji「（Supongo que no me queda otra＿que ir a ver la sauna.）」"
+
+msgid "Ryuuji「（Wow, so this is what a cold sauna's like.）」"
+msgstr "Ryuuji「（Vaya, así que así es una sauna fría.）」"
+
+msgid "Ryuuji「（A guy could really lose track of time in＿here......）」"
+msgstr "Ryuuji「（Uno de verdad podría perder la noción＿del tiempo aquí dentro......）」"
+
+msgid "Ryuuji「*Yawn*......」"
+msgstr "Ryuuji「*Bostezo*......」"
+
+msgid "Ryuuji「........................................................................」"
+msgstr "Ryuuji「....................................＿....................................」"
+
+msgid "Ryuuji「（......Huh? Crap, I totally passed out.）」"
+msgstr "Ryuuji「（......¿Eh? Rayos, me quedé＿totalmente dormido.）」"
+
+msgid "Ami「I'm going to find Maya-chan and＿Nanako-chan. I think their＿aromatherapy massages should be」"
+msgstr "Ami「Voy a buscar a Maya-chan y a＿Nanako-chan. Creo que sus masajes de＿aromaterapia ya deben estar」"
+
+msgid "Ami「ending right about now. Bye.」"
+msgstr "Ami「terminando ahora. Adiós.」"

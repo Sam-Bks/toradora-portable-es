@@ -1,0 +1,335 @@
+msgid ""
+msgstr ""
+
+msgid "Ryuuji「Yo.」"
+msgstr "Ryuuji「Hola.」"
+
+msgid "Ami「......What is it?」"
+msgstr "Ami「......¿Qué quieres?」"
+
+msgid "Ryuuji「Well...... That's a ton of luggage. Where＿are you going?」"
+msgstr "Ryuuji「Bueno...... Llevas mucho＿equipaje. ¿A dónde vas?」"
+
+msgid "Ami「A photo shoot in Hawaii.」"
+msgstr "Ami「A una sesión de fotos en Hawái.」"
+
+msgid "Ryuuji「I see.」"
+msgstr "Ryuuji「Ya veo.」"
+
+msgid "Ami「............」"
+msgstr "Ami「............」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Ami「......What?」"
+msgstr "Ami「......¿Qué?」"
+
+msgid "Ryuuji「Uh, well...... That reminds me, what＿happened yesterday?」"
+msgstr "Ryuuji「Eh, bueno...... Por cierto,＿¿qué pasó ayer?」"
+
+msgid "Ami「Nothing much happened at all.」"
+msgstr "Ami「No pasó gran cosa.」"
+
+msgid "Ryuuji「There's no way \"nothing much\"＿happened. That was a huge fight.」"
+msgstr "Ryuuji「¿Cómo que \"no pasó gran cosa\"?＿Fue una pelea tremenda.」"
+
+msgid "Ami「Three people had a little quarrel,＿things got REALLY awkward, then we＿all left.」"
+msgstr "Ami「Tres personas discutieron un＿poco, todo se puso MUY incómodo＿y luego nos fuimos.」"
+
+msgid "Ryuuji「What? Didn't you go back to stop＿them?」"
+msgstr "Ryuuji「¿Qué? ¿No volviste para detenerlas?」"
+
+msgid "Ryuuji「Yeah, I'm truly grateful about that. You＿saved our asses.」"
+msgstr "Ryuuji「Sí, te lo agradezco mucho.＿Nos salvaste el pellejo.」"
+
+msgid "Ami「......Sheesh.」"
+msgstr "Ami「......Cielos.」"
+
+msgid "Ryuuji「Look, I understand you're still pissed＿about that fight, but don't take it out＿on me.」"
+msgstr "Ryuuji「Mira, entiendo que sigas enojada por la＿pelea, pero no te desquites conmigo.」"
+
+msgid "Ami「I have no desire to see your face, yet＿here you are.」"
+msgstr "Ami「No tengo ganas de verte la＿cara, pero aquí estás.」"
+
+msgid "Ryuuji「......Wait a second. Was it something I＿did?」"
+msgstr "Ryuuji「......Espera un segundo.＿¿Hice algo malo?」"
+
+msgid "Ami「............Not really.」"
+msgstr "Ami「............En realidad no.」"
+
+msgid "Ami「And that is?」"
+msgstr "Ami「¿Y qué es?」"
+
+msgid "Ryuuji「You're the one who told me to settle it.＿Just so you know, I'm going to settle it＿right now.」"
+msgstr "Ryuuji「Tú me dijiste que lo resolviera.＿Para que lo sepas, voy a hacerlo＿ahora mismo.」"
+
+msgid "Ami「......Oh I see. Choosing me is quite the＿unexpected turn of events～」"
+msgstr "Ami「......Ah, ya veo. Que me elijas a＿mí sí que es un giro inesperado～」"
+
+msgid "Ryuuji「Oh jesus.」"
+msgstr "Ryuuji「Ay, por Dios.」"
+
+msgid "Ami「What?」"
+msgstr "Ami「¿Qué?」"
+
+msgid "Ryuuji「Heh...... What if I said you're right?」"
+msgstr "Ryuuji「Je...... ¿Y si te dijera＿que tienes razón?」"
+
+msgid "Ami「Leap into your arms, cancel the shoot,＿and then perhaps we'd make out to＿our hearts' content?」"
+msgstr "Ami「¿Me lanzaría a tus brazos, cancelaría＿la sesión y quizá nos besaríamos＿hasta cansarnos?」"
+
+msgid "Ami「............」"
+msgstr "Ami「............」"
+
+msgid "Ryuuji「Uhh...... err......」"
+msgstr "Ryuuji「Ehh...... ehm......」"
+
+msgid "Ryuuji「Jeez, sorry.」"
+msgstr "Ryuuji「Cielos, perdón.」"
+
+msgid "Ami「Don't be, Takasu-kun. If anyone should＿be sorry, it's me......」"
+msgstr "Ami「No te disculpes, Takasu-kun. Si alguien＿debe hacerlo, soy yo......」"
+
+msgid "Ryuuji「Villain?」"
+msgstr "Ryuuji「¿Villana?」"
+
+msgid "Ami「......Did you hear about why Minori-chan＿came back from her grandma's house＿so soon?」"
+msgstr "Ami「......¿Oíste por qué Minori-chan volvió＿tan pronto de casa de su abuela?」"
+
+msgid "Ryuuji「Well...... She was busy with work and＿practice and stuff.」"
+msgstr "Ryuuji「Bueno...... Tenía trabajo, entrenamiento＿y esas cosas.」"
+
+msgid "Ami「So she didn't tell anyone after all......＿Yeah, so, I gave it a nudge......」"
+msgstr "Ami「Así que no se lo contó a nadie......＿Sí, bueno, yo le di un empujoncito......」"
+
+msgid "\"Wow, so you were a little worried～?＿Were you thinking that amnesia might＿have been your fault～?\""
+msgstr "\"Vaya, ¿estabas algo preocupada～?＿¿Pensabas que la amnesia podía haber＿sido culpa tuya～?\""
+
+msgid "\"Excuse me? What are you talking＿about?\""
+msgstr "\"¿Disculpa? ¿De qué estás hablando?\""
+
+msgid "\"......What do you mean?\""
+msgstr "\"......¿A qué te refieres?\""
+
+msgid "Ami「......Then, bam, Minori-chan turned＿white as a ghost.」"
+msgstr "Ami「......Y entonces, de golpe, Minori-chan＿se puso blanca como un fantasma.」"
+
+msgid "Ami「My face, however, flushed red. We tore＿into each other...... while Miss Shorty＿stood there flustered.」"
+msgstr "Ami「Yo, en cambio, me puse roja. Nos＿atacamos sin piedad...... y la＿enana no sabía qué hacer.」"
+
+msgid "Ami「......Then, when I went into the other＿room to \"cool down,\" I came across a＿burglar.」"
+msgstr "Ami「......Luego fui al otro cuarto para＿\"calmarme\" y me encontré con un ladrón.」"
+
+msgid "Ryuuji「I'm not a burglar.」"
+msgstr "Ryuuji「No soy un ladrón.」"
+
+msgid "Ami「Minori-chan dropped everything to＿come home for your sake, Takasu-kun.」"
+msgstr "Ami「Minori-chan dejó todo para volver＿por ti, Takasu-kun.」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Ami「Oh, but that's not all. Damn, I wasn't＿expecting that girl to be such a pain.」"
+msgstr "Ami「Ah, pero eso no es todo. Maldición,＿no creí que esa chica fuera＿tan complicada.」"
+
+msgid "Ryuuji「I know she's not that simple-minded.」"
+msgstr "Ryuuji「Sé que no es tan ingenua.」"
+
+msgid "Ryuuji「You ain't all that villainous. Plus, I don't＿think you did anything bad, personally.」"
+msgstr "Ryuuji「No eres tan malvada. Además, yo no＿creo que hayas hecho nada malo.」"
+
+msgid "Ami「But I did.」"
+msgstr "Ami「Pero sí lo hice.」"
+
+msgid "Ryuuji「Did what?」"
+msgstr "Ryuuji「¿Hiciste qué?」"
+
+msgid "Ami「A long time ago...... Then my wish came＿true, in a sense.」"
+msgstr "Ami「Hace mucho tiempo...... Luego mi deseo＿se cumplió, en cierto sentido.」"
+
+msgid "Ryuuji「......You lost me.」"
+msgstr "Ryuuji「......Me perdí.」"
+
+msgid "Ami「So that's that. Goodbye, Takasu-kun.」"
+msgstr "Ami「Así que eso es todo. Adiós, Takasu-kun.」"
+
+msgid "Ryuuji「Oh? What's the matter......? Ohh, wait, is＿it time to catch the train?」"
+msgstr "Ryuuji「¿Eh? ¿Qué pasa......? Ah, espera,＿¿ya es hora de tomar el tren?」"
+
+msgid "Ami「............」"
+msgstr "Ami「............」"
+
+msgid "Ryuuji「......Kawashima?」"
+msgstr "Ryuuji「......¿Kawashima?」"
+
+msgid "Ami「Goodbye.」"
+msgstr "Ami「Adiós.」"
+
+msgid "Ryuuji「......Uh, wait a second!」"
+msgstr "Ryuuji「......¡Eh, espera un segundo!」"
+
+msgid "Ami「Let me go. If you bruise my arm before＿the shoot, I'll make you pay.」"
+msgstr "Ami「Suéltame. Si me dejas un moretón antes＿de la sesión, me lo vas a pagar.」"
+
+msgid "Ryuuji「Then turn around.」"
+msgstr "Ryuuji「Entonces date la vuelta.」"
+
+msgid "Ami「No way.」"
+msgstr "Ami「Ni lo sueñes.」"
+
+msgid "Ryuuji「Why not?」"
+msgstr "Ryuuji「¿Por qué no?」"
+
+msgid "Ami「I don't want to see your face. Plus, it's＿nearly time for the train, so I gotta go.」"
+msgstr "Ami「No quiero verte la cara. Además, ya casi＿sale el tren, así que debo irme.」"
+
+msgid "Ryuuji「Kawashima, you kinda sound like＿you're gonna leave forever.」"
+msgstr "Ryuuji「Kawashima, suena como si＿te fueras para siempre.」"
+
+msgid "Ami「............」"
+msgstr "Ami「............」"
+
+msgid "Ryuuji「......Don't tell me - was that your plan?」"
+msgstr "Ryuuji「......No me digas, ¿ese era tu plan?」"
+
+msgid "Ami「What if I said you were right?」"
+msgstr "Ami「¿Y si te dijera que tienes razón?」"
+
+msgid "Ami「..................」"
+msgstr "Ami「..................」"
+
+msgid "Ryuuji「Say something.」"
+msgstr "Ryuuji「Di algo.」"
+
+msgid "Ami「......You're really, truly, SUPER＿annoying.」"
+msgstr "Ami「......Eres muy, pero MUY molesto.」"
+
+msgid "Ryuuji「Say it to my face.」"
+msgstr "Ryuuji「Dímelo a la cara.」"
+
+msgid "Ami「What? Takasu-kun, are you into that?＿Oh god, that's SO unbecoming of you.」"
+msgstr "Ami「¿Qué? Takasu-kun, ¿te gusta eso? Ay,＿por Dios, no te queda NADA bien.」"
+
+msgid "Ryuuji「I'm saying if you're going to insult me,＿do it to my face.」"
+msgstr "Ryuuji「Digo que, si vas a insultarme,＿lo hagas a la cara.」"
+
+msgid "Ami「Listen, this is just one of the tools of＿my trade. What you're asking is a tall＿order.」"
+msgstr "Ami「Mira, esto es una de mis herramientas＿de trabajo. Lo que me pides no＿es nada fácil.」"
+
+msgid "Ryuuji「I don't recall ordering it. And I know it＿has nothing to do with being a model.」"
+msgstr "Ryuuji「No recuerdo haberte pedido nada.＿Y sé que esto no tiene que ver＿con ser modelo.」"
+
+msgid "Ami「......!」"
+msgstr "Ami「......!」"
+
+msgid "Ami「............」"
+msgstr "Ami「............」"
+
+msgid "Ryuuji「......Say something.」"
+msgstr "Ryuuji「......Di algo.」"
+
+msgid "Ryuuji「............」"
+msgstr "Ryuuji「............」"
+
+msgid "Ami「I'll buy you chocolate-covered＿macadamia nuts.」"
+msgstr "Ami「Te compraré nueces de macadamia＿cubiertas de chocolate.」"
+
+msgid "Ryuuji「......I'll pass on those. You better come＿home. And you better make up with＿Kushieda.」"
+msgstr "Ryuuji「......No, gracias. Más te vale volver.＿Y reconciliarte con Kushieda.」"
+
+msgid "Ami「Making up might be complicated...... Oh,＿but if you treat me for two weeks, I＿might be able to manage it～」"
+msgstr "Ami「Reconciliarnos puede ser difícil......＿Ah, pero si me invitas dos semanas,＿quizá pueda～」"
+
+msgid "Ryuuji「......One thing per day, alright?」"
+msgstr "Ryuuji「......Una cosa al día, ¿de acuerdo?」"
+
+msgid "Ami「With all that sugar, there's no way I＿could drink more than that～」"
+msgstr "Ami「Con tanta azúcar, no podría＿beber más que eso～」"
+
+msgid "Ryuuji「Good...... Then I'll let you go just this＿once. But if you don't come home, I'll＿drag you back at any cost.」"
+msgstr "Ryuuji「Bien...... Te dejaré ir solo esta vez.＿Pero si no vuelves, te traeré a la＿fuerza, cueste lo que cueste.」"
+
+msgid "Ami「You're so persistent...... Well, it really is＿time to catch the train. See you at＿school.」"
+msgstr "Ami「Qué insistente eres...... Bueno,＿ya es hora de tomar el tren. Nos＿vemos en la escuela.」"
+
+msgid "Ryuuji「Okay. Take care.」"
+msgstr "Ryuuji「Está bien. Cuídate.」"
+
+msgid "Ami「I will............ Thanks.」"
+msgstr "Ami「Lo haré............ Gracias.」"
+
+msgid "Ryuuji「（What the......? She really hid her face＿from me as she left......）」"
+msgstr "Ryuuji「（¿Pero qué......? Se fue ocultándome＿la cara de verdad......）」"
+
+msgid "Ami「Don't talk to me like that. Shouldn't＿you be SUPER grateful that I didn't＿bring those two into the room we were」"
+msgstr "Ami「No me hables así. ¿No deberías＿agradecerme MUCHO que no llevara a＿esas dos al cuarto donde estábamos」"
+
+msgid "Ami「in?」"
+msgstr "Ami「metidos?」"
+
+msgid "Ryuuji「I really don't get you...... Oh, if it's＿because I haven't done anything, I＿definitely still plan to take action.」"
+msgstr "Ryuuji「No te entiendo...... Ah, si＿es porque no he hecho nada,＿sigo decidido a actuar.」"
+
+msgid "Ryuuji「Starting now, for that matter.」"
+msgstr "Ryuuji「De hecho, voy a empezar ahora.」"
+
+msgid "Ami「Then tomorrow we'd go on a date＿somewhere, and the day after that＿we'd walk arm in arm to and from」"
+msgstr "Ami「Mañana iríamos de cita a algún＿sitio y pasado iríamos del brazo＿de ida y vuelta a la」"
+
+msgid "Ami「school, rubbing it RIGHT in the faces＿of midget-Tiger and Minori-chan......」"
+msgstr "Ami「escuela, restregándoselo en la cara a＿la enana Tigre y a Minori-chan......」"
+
+msgid "Ami「Rumors would spread at school......＿They'd publish stuff like \"Local Lover＿Revealed\" in the magazines...... I'd quit」"
+msgstr "Ami「Habría rumores en la escuela......＿Las revistas dirían \"Novio local al＿descubierto\"...... Dejaría」"
+
+msgid "Ami「being a model and have you take＿responsibility...... Then make my＿comeback as a model housewife......」"
+msgstr "Ami「de ser modelo y te haría asumir la＿responsabilidad...... Luego volvería＿como modelo y ama de casa......」"
+
+msgid "Ami「......Then after letting you hear that＿delusion, I'd say \"I wasn't being serious.＿Are you retarded?\" and laugh at you.」"
+msgstr "Ami「......Tras contarte esa fantasía,＿diría \"No hablaba en serio. ¿Eres＿idiota?\" y me reiría de ti.」"
+
+msgid "Ami「There, that's Ami-chan's answer.＿Satisfied?」"
+msgstr "Ami「Esa es la respuesta de Ami-chan.＿¿Satisfecho?」"
+
+msgid "Ami「Oh, that's right! You'll never make it up＿to me for playing the villain last night!＿You might as well get down on your」"
+msgstr "Ami「¡Ah, es cierto! ¡Jamás me＿compensarás por hacer de villana＿anoche! Ya puedes ponerte de」"
+
+msgid "Ami「knees and worship me.」"
+msgstr "Ami「rodillas y adorarme.」"
+
+msgid "\"Oh my, playing the fool again, are＿we～? You sure about that～? You'll＿end up filled with regret again, you\""
+msgstr "\"Vaya, ¿otra vez haciéndote la tonta～?＿¿Estás segura～? Acabarás arrepintiéndote＿de nuevo, ¿lo\""
+
+msgid "know?」"
+msgstr "sabes?」"
+
+msgid "Ami「At first, it was just to make her＿remember awkward stuff to shut her＿up, or so I thought. But then I got extra」"
+msgstr "Ami「Al principio solo quería recordarle＿cosas incómodas para callarla. O＿eso creía. Pero luego me puse más」"
+
+msgid "Ami「pissed off, you know......」"
+msgstr "Ami「furiosa, ¿sabes......?」"
+
+msgid "Ami「......Well, that's why the villainous＿Ami-chan put on that outstanding＿performance, so I hope you never」"
+msgstr "Ami「......Bueno, por eso la malvada Ami-chan＿dio esa magnífica actuación, así que＿espero que nunca la」"
+
+msgid "Ami「forget it.」"
+msgstr "Ami「olvides.」"
+
+msgid "Ami「I'm not gonna explain it～...... It's just,＿even if my wish finally did come true, it＿didn't help me in the slightest. So it」"
+msgstr "Ami「No lo explicaré～...... Es que, aunque＿mi deseo por fin se cumplió, no me＿sirvió de nada. Así que me lo」"
+
+msgid "Ami「serves me right. I accept it as＿punishment for my wrongdoings.」"
+msgstr "Ami「merezco. Lo acepto como castigo＿por lo que hice mal.」"
+
+msgid "Ryuuji「I'd go looking for you, bring you back,＿and treat you to stuff from the school＿vending machines for a week. Taking」"
+msgstr "Ryuuji「Iría a buscarte, te traería y te＿invitaría cosas de las máquinas＿de la escuela una semana. Me」"
+
+msgid "Ryuuji「turns with Haruta, that is.」"
+msgstr "Ryuuji「turnaría con Haruta, claro.」"
+
+msgid "Ami「............I've...... gone into work mode now,＿so I'm just a fine piece of merchandise.＿Once school starts, I'll be back to」"
+msgstr "Ami「............Ya...... estoy en modo＿laboral; solo soy una bonita mercancía.＿Al volver a clases, volveré a la」"
+
+msgid "Ami「normal, so wait a while...... Now let go.」"
+msgstr "Ami「normalidad, así que espera un＿poco...... Ahora suéltame.」"

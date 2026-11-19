@@ -1,0 +1,1028 @@
+msgid ""
+msgstr ""
+
+msgid "Stare"
+msgstr "Mirar fijamente"
+
+msgid "Stare passionately"
+msgstr "Mirar con pasión"
+
+msgid "Stare calmly"
+msgstr "Mirar con calma"
+
+msgid "Stare blankly"
+msgstr "Mirar distraído"
+
+msgid "About Sumire"
+msgstr "Sobre Sumire"
+
+msgid "How can I improve my grades?"
+msgstr "¿Cómo puedo mejorar mis notas?"
+
+msgid "Is there anything you're not good at?"
+msgstr "¿Hay algo en lo que no seas buena?"
+
+msgid "Being ladylike appears to suit you"
+msgstr "Ser femenina parece sentarte bien"
+
+msgid "About Student Council"
+msgstr "Sobre el Consejo Estudiantil"
+
+msgid "How does one get into student council?"
+msgstr "¿Cómo se entra al consejo estudiantil?"
+
+msgid "I imagine it's overwhelming"
+msgstr "Imagino que es abrumador"
+
+msgid "Oh yeah, the Culture Festival was awesome"
+msgstr "Ah, sí, el Festival Cultural fue genial"
+
+msgid "About Sakura"
+msgstr "Sobre Sakura"
+
+msgid "Seems you acknowledge her relationship"
+msgstr "Parece que apruebas su relación"
+
+msgid "You're strict with your little sister"
+msgstr "Eres estricta con tu hermana menor"
+
+msgid "She seems to be skittish about things"
+msgstr "Parece muy asustadiza con las cosas"
+
+msgid "About Kitamura"
+msgstr "Sobre Kitamura"
+
+msgid "How did you like the planetarium?"
+msgstr "¿Qué te pareció el planetario?"
+
+msgid "He works hard as Student Council President"
+msgstr "Trabaja duro como Presidente del Consejo"
+
+msgid "Can I ask for more details about him?"
+msgstr "¿Puedo pedir más detalles sobre él?"
+
+msgid "About the Future"
+msgstr "Sobre el futuro"
+
+msgid "What interests you about space, Senpai?"
+msgstr "¿Qué te interesa del espacio, Senpai?"
+
+msgid "Do you see Kitamura in your future......?"
+msgstr "¿Ves a Kitamura en tu futuro......?"
+
+msgid "Thinking about my future, I draw a blank"
+msgstr "Al pensar en mi futuro, me quedo en blanco"
+
+msgid "--Let's Try Talking to Sumire!--"
+msgstr "--¡Intentemos hablar con Sumire!--"
+
+msgid "Sumire「Nice! You've got a good look in your＿eye!」"
+msgstr "Sumire「¡Bien! ¡Tienes una buena mirada!」"
+
+msgid "Ryuuji「Oh, is that how it comes across?」"
+msgstr "Ryuuji「Ah, ¿eso es lo que parece?」"
+
+msgid "Sumire「Passionless bastards give up in the＿middle of whatever they do. Keep up＿that look, Takasu!」"
+msgstr "Sumire「Los imbéciles sin pasión se rinden＿a medias en todo lo que hacen. ¡Mantén＿esa mirada, Takasu!」"
+
+msgid "Ryuuji「O-Okay.」"
+msgstr "Ryuuji「E-Está bien.」"
+
+msgid "Sumire「Fufufu, looks like you've got yourself＿something good there.」"
+msgstr "Sumire「Jujuju, parece que tienes＿algo bueno ahí.」"
+
+msgid "Ryuuji「How so?」"
+msgstr "Ryuuji「¿En qué sentido?」"
+
+msgid "Sumire「Eyes are the window to the soul, for＿the most part.」"
+msgstr "Sumire「Los ojos son el espejo del＿alma, por lo general.」"
+
+msgid "Sumire「......You pickin' a fight?」"
+msgstr "Sumire「......¿Buscas pelea?」"
+
+msgid "Ryuuji「No, that's not what I--」"
+msgstr "Ryuuji「No, no es eso lo que--」"
+
+msgid "Sumire「Then what?」"
+msgstr "Sumire「¿Entonces qué?」"
+
+msgid "Ryuuji「I wanted to try to be as strong as you,＿Senpai......」"
+msgstr "Ryuuji「Quería intentar ser tan fuerte＿como tú, Senpai......」"
+
+msgid "Sumire「Strength comes from more than mere＿looks, you fool.」"
+msgstr "Sumire「La fuerza no viene solo de＿la apariencia, tonto.」"
+
+msgid "Sumire「Hmph.」"
+msgstr "Sumire「Jum.」"
+
+msgid "Ryuuji「W-What is it?」"
+msgstr "Ryuuji「¿Q-Qué pasa?」"
+
+msgid "Sumire「You've got a bad attitude. Even when＿you glare, it's barely lukewarm. I'm＿gonna knock you back into shape.」"
+msgstr "Sumire「Tienes mala actitud. Hasta cuando＿fulminas con la mirada, eres tibio.＿Te voy a enderezar a golpes.」"
+
+msgid "Ryuuji「But I wasn't...... Excuse my rudeness.」"
+msgstr "Ryuuji「Pero yo no...... Disculpa mi grosería.」"
+
+msgid "Sumire「Shall I bring you a mirror?」"
+msgstr "Sumire「¿Te traigo un espejo?」"
+
+msgid "Ryuuji「Come again?」"
+msgstr "Ryuuji「¿Cómo dices?」"
+
+msgid "Sumire「You should carefully observe how＿atrocious your eyes are.」"
+msgstr "Sumire「Deberías observar con atención＿lo atroces que son tus ojos.」"
+
+msgid "Ryuuji「......I apologize.」"
+msgstr "Ryuuji「......Pido disculpas.」"
+
+msgid "Sumire「If you don't feel like talking, I'm not＿gonna drag this out.」"
+msgstr "Sumire「Si no tienes ganas de hablar,＿no voy a alargar esto.」"
+
+msgid "Ryuuji「I, I do feel like it! I do!」"
+msgstr "Ryuuji「¡S-Sí tengo ganas! ¡Claro que sí!」"
+
+msgid "Ryuuji「Sorry, I'll put more effort into it this＿time.」"
+msgstr "Ryuuji「Perdón, esta vez me esforzaré más.」"
+
+msgid "Sumire「Hmph.」"
+msgstr "Sumire「Jum.」"
+
+msgid "Sumire「Hey, wouldn't it be better if you helped＿your brain more seriously? You＿scatterbrained fuckin' scaredy-face!」"
+msgstr "Sumire「Oye, ¿y si te tomaras en serio eso＿de ejercitar el cerebro? ¡Maldito＿despistado con cara de miedoso!」"
+
+msgid "Ryuuji「Helped it how? Can you give me an＿example?」"
+msgstr "Ryuuji「¿Ayudarlo cómo? ¿Puedes＿darme un ejemplo?」"
+
+msgid "Sumire「Thinking about it yourself is part of＿helping yourself. Good lord, this＿doesn't bode well for you.」"
+msgstr "Sumire「Pensar por ti mismo es parte de＿ayudarte. Dios mío, esto no augura＿nada bueno para ti.」"
+
+msgid "Ryuuji「That's not it!」"
+msgstr "Ryuuji「¡No es eso!」"
+
+msgid "Sumire「It's strange. The more familiar your＿out-and-out heinous face becomes, the＿more idiotic you look.」"
+msgstr "Sumire「Es extraño. Mientras más familiar＿se vuelve tu horrenda cara,＿más idiota te ves.」"
+
+msgid "Ryuuji「Gee, thanks......」"
+msgstr "Ryuuji「Vaya, gracias......」"
+
+msgid "Ryuuji「Oh, yeah, you're right.」"
+msgstr "Ryuuji「Ah, sí, tienes razón.」"
+
+msgid "Ryuuji「I... see...」"
+msgstr "Ryuuji「Ya... veo...」"
+
+msgid "Ryuuji「I feel like I've heard that somewhere＿before...... Thomas Edison, I believe?」"
+msgstr "Ryuuji「Siento que he oído eso en alguna parte＿antes...... ¿Thomas Edison, creo?」"
+
+msgid "Ryuuji「......Oh, you mean the \"Big Bro＿Notebook\"!」"
+msgstr "Ryuuji「......Ah, ¡te refieres al \"Cuaderno＿del Hermano Mayor\"!」"
+
+msgid "Sumire「......」"
+msgstr "Sumire「......」"
+
+msgid "Ryuuji「Senpai?」"
+msgstr "Ryuuji「¿Senpai?」"
+
+msgid "Sumire「Tch. You went and reminded me of＿something unpleasant. Why would you＿do that?」"
+msgstr "Sumire「Tch. Fuiste a recordarme algo＿desagradable. ¿Por qué hiciste eso?」"
+
+msgid "Ryuuji「I, I'm sorry.」"
+msgstr "Ryuuji「L-Lo siento.」"
+
+msgid "Ryuuji「T-That's not my intention here! I was＿just wondering.」"
+msgstr "Ryuuji「¡E-Esa no es mi intención!＿Solo tenía curiosidad.」"
+
+msgid "Sumire「Heh, of course not. However, that＿question is boundlessly unpleasant.」"
+msgstr "Sumire「Je, por supuesto que no. Sin＿embargo, esa pregunta es sumamente＿desagradable.」"
+
+msgid "Sumire「There is. But I'm not stupid enough to＿go around telling people my＿weaknesses.」"
+msgstr "Sumire「Sí hay. Pero no soy tan tonta＿como para andar contándole a＿la gente mis debilidades.」"
+
+msgid "Ryuuji「Wow, that's kinda surprising...... I'm a＿little curious.」"
+msgstr "Ryuuji「Guau, eso sorprende un poco......＿Me da algo de curiosidad.」"
+
+msgid "Ryuuji「I'm sorry, please forget I ever asked.」"
+msgstr "Ryuuji「Lo siento, olvida que pregunté.」"
+
+msgid "Sumire「You have no right to say that to me.」"
+msgstr "Sumire「No tienes derecho a decirme eso.」"
+
+msgid "Ryuuji「......I'm sorry.」"
+msgstr "Ryuuji「......Lo siento.」"
+
+msgid "Sumire「That's an interesting thing to say.＿Alright, I'll try to be your type.」"
+msgstr "Sumire「Qué cosa más interesante dices. Bien,＿intentaré ser de tu tipo.」"
+
+msgid "Ryuuji「What!?」"
+msgstr "Ryuuji「¡¿Qué?!」"
+
+msgid "Ryuuji「......You're fine the way you are, Senpai.」"
+msgstr "Ryuuji「......Estás bien tal como eres, Senpai.」"
+
+msgid "Sumire「Hmph.」"
+msgstr "Sumire「Jum.」"
+
+msgid "Sumire「If I changed like that at this point, the＿student council guys would be scared＿to death.」"
+msgstr "Sumire「Si cambiara así a estas alturas,＿los del consejo estudiantil se＿morirían de miedo.」"
+
+msgid "Ryuuji「......I could easily picture that.」"
+msgstr "Ryuuji「......Me lo imagino perfectamente.」"
+
+msgid "Sumire「Well, since I was born female, I＿suppose that's not so bad.」"
+msgstr "Sumire「Bueno, ya que nací mujer, supongo＿que no está tan mal.」"
+
+msgid "Ryuuji「You don't care for it?」"
+msgstr "Ryuuji「¿No te agrada?」"
+
+msgid "Sumire「I might tear my hair out from stress.」"
+msgstr "Sumire「Podría arrancarme el pelo del estrés.」"
+
+msgid "Sumire「Maybe that's a good thing. Next time I＿come home, I'll try to think of how to＿surprise people.」"
+msgstr "Sumire「Tal vez sea algo bueno. La próxima＿vez que vuelva a casa, pensaré en＿cómo sorprender a la gente.」"
+
+msgid "Ryuuji「Surprise people?」"
+msgstr "Ryuuji「¿Sorprender a la gente?」"
+
+msgid "Sumire「Yeah. When Kota sees me acting＿ladylike, I imagine he'll tremble like he's＿seen a ghost.」"
+msgstr "Sumire「Sí. Cuando Kota me vea actuando como＿una dama, imagino que temblará como＿si hubiera visto un fantasma.」"
+
+msgid "Sumire「What, so you wanted to join!? Why＿didn't you say so!? You're so aloof!」"
+msgstr "Sumire「¡¿Qué, así que querías unirte?!＿¡¿Por qué no lo dijiste?! ¡Eres＿tan distante!」"
+
+msgid "Ryuuji「I don't exactly want to join, per se......」"
+msgstr "Ryuuji「No es que quiera unirme......」"
+
+msgid "Ryuuji「No no no, please wait! Please rethink＿this!」"
+msgstr "Ryuuji「¡No, no, no, espera por favor!＿¡Reconsidéralo, por favor!」"
+
+msgid "Sumire「If you ask nicely, your homeroom＿teacher could recommend you for a＿position.」"
+msgstr "Sumire「Si lo pides amablemente, tu＿profesor titular podría recomendarte＿para un puesto.」"
+
+msgid "Ryuuji「Oh, I get it. It's not much different from＿joining a club, then.」"
+msgstr "Ryuuji「Ah, ya entiendo. No es muy distinto＿a unirse a un club, entonces.」"
+
+msgid "Sumire「Also, you can mug someone important.」"
+msgstr "Sumire「También puedes asaltar a alguien clave.」"
+
+msgid "Ryuuji「Mug them!?」"
+msgstr "Ryuuji「¡¿Asaltarlo?!」"
+
+msgid "Sumire「Fufufu......」"
+msgstr "Sumire「Jujuju......」"
+
+msgid "Ryuuji「I misspoke.」"
+msgstr "Ryuuji「Me expresé mal.」"
+
+msgid "Sumire「Well, I know it's just a figure of speech,＿but I still don't like it.」"
+msgstr "Sumire「Bueno, sé que es solo una forma de＿hablar, pero aun así no me gusta.」"
+
+msgid "Ryuuji「I'm sorry!」"
+msgstr "Ryuuji「¡Lo siento!」"
+
+msgid "Sumire「It likens student council to a zombie＿horde. A herd of conformist corpses＿that do nothing but work.」"
+msgstr "Sumire「Compara al consejo estudiantil con una＿horda de zombis. Un rebaño de cadáveres＿conformistas que solo trabajan.」"
+
+msgid "Ryuuji「Uh, well......」"
+msgstr "Ryuuji「Eh, bueno......」"
+
+msgid "Ryuuji「Please have mercy on me.」"
+msgstr "Ryuuji「Por favor, ten piedad de mí.」"
+
+msgid "Sumire「I don't believe \"a picture's worth a＿thousand words.\" I think you＿understand that though, Takasu.」"
+msgstr "Sumire「No creo que \"una imagen valga más＿que mil palabras\". Aunque creo que＿tú ya lo entiendes, Takasu.」"
+
+msgid "Ryuuji「......Excuse me.」"
+msgstr "Ryuuji「......Disculpa.」"
+
+msgid "Ryuuji「Umm...... I'll stick to \"no comment\" for＿now, if you don't mind.」"
+msgstr "Ryuuji「Ehm...... Prefiero \"sin comentarios\"＿por ahora, si no te importa.」"
+
+msgid "Sumire「Just the Culture Festival? I don't＿recall a single event where I half-assed＿the work, regardless of its size.」"
+msgstr "Sumire「¿Solo el Festival Cultural? No recuerdo＿ni un evento donde trabajara a medias,＿sin importar su tamaño.」"
+
+msgid "Ryuuji「I-Is that so? I'm sorry.」"
+msgstr "Ryuuji「¿E-Es así? Lo siento.」"
+
+msgid "Ryuuji「That look...... You're serious, aren't＿you?」"
+msgstr "Ryuuji「Esa mirada...... Lo dices＿en serio, ¿verdad?」"
+
+msgid "Sumire「Yeah. I'm always serious.」"
+msgstr "Sumire「Sí. Siempre hablo en serio.」"
+
+msgid "Sumire「I was more appalled than impressed＿with your success with Aisaka that＿day.」"
+msgstr "Sumire「Me quedé más espantada que impresionada＿con tu éxito con Aisaka ese día.」"
+
+msgid "Ryuuji「Huh? Did I do something bad?」"
+msgstr "Ryuuji「¿Eh? ¿Hice algo malo?」"
+
+msgid "Sumire「Just remembering it disheartens me.」"
+msgstr "Sumire「Solo recordarlo me desanima.」"
+
+msgid "Ryuuji「Were you that busy?」"
+msgstr "Ryuuji「¿Estabas tan ocupada?」"
+
+msgid "Sumire「Of course I was. Other than that, it was＿epic, though.」"
+msgstr "Sumire「Por supuesto que sí. Aparte de＿eso, fue épico, la verdad.」"
+
+msgid "Sumire「Come to think of it, didn't your class＿take home the most victories?」"
+msgstr "Sumire「Ahora que lo pienso, ¿no fue tu clase＿la que se llevó más victorias?」"
+
+msgid "Ryuuji「Did we? I remember we put on a pro＿wrestling show.」"
+msgstr "Ryuuji「¿En serio? Recuerdo que montamos＿un show de lucha libre.」"
+
+msgid "Sumire「Oh, it was a big hit. Added some＿excitement to the festival. Good work,＿Takasu the Delinquent Minion of Evil.」"
+msgstr "Sumire「Oh, fue un gran éxito. Le dio emoción＿al festival. Buen trabajo, Takasu, el＿Secuaz Delincuente del Mal.」"
+
+msgid "Ryuuji「I'm not crazy about that title......」"
+msgstr "Ryuuji「No me entusiasma mucho ese título......」"
+
+msgid "Ryuuji「Really?」"
+msgstr "Ryuuji「¿De verdad?」"
+
+msgid "Sumire「Well, all I did was force Kota to be＿Sakura's tutor. I wasn't sure how it＿would turn out!」"
+msgstr "Sumire「Bueno, lo único que hice fue obligar＿a Kota a ser tutor de Sakura. ¡No estaba＿segura de cómo saldría!」"
+
+msgid "Sumire「Well, I did worry about her getting＿together with that Department of＿Miseries, though.」"
+msgstr "Sumire「Aunque sí me preocupaba que saliera con＿ese Departamento de Desgracias.」"
+
+msgid "Ryuuji「Taiga was calling Tomiie \"Misfortune＿Incarnate.\"」"
+msgstr "Ryuuji「Taiga llamaba a Tomiie \"Desgracia＿Encarnada\".」"
+
+msgid "Ryuuji「Now I understand......」"
+msgstr "Ryuuji「Ahora lo entiendo......」"
+
+msgid "Sumire「You think I'm doing it for the fun of it?」"
+msgstr "Sumire「¿Crees que lo hago por diversión?」"
+
+msgid "Ryuuji「No, I don't. I'm just a little curious.」"
+msgstr "Ryuuji「No, claro que no. Solo tengo curiosidad.」"
+
+msgid "Ryuuji「I doubt it's something that can be＿considered \"communication,\" but......＿yeah.」"
+msgstr "Ryuuji「Dudo que pueda considerarse＿\"comunicación\", pero...... sí.」"
+
+msgid "Sumire「If you can understand that, then kindly＿stop nosing into other people's family＿affairs.」"
+msgstr "Sumire「Si puedes entender eso, entonces haz＿el favor de dejar de meter las narices＿en asuntos familiares ajenos.」"
+
+msgid "Ryuuji「Struggled?」"
+msgstr "Ryuuji「¿Se esforzó mucho?」"
+
+msgid "Ryuuji「I never knew that...... She must have a＿strong will.」"
+msgstr "Ryuuji「No lo sabía...... Debe de tener＿una voluntad muy fuerte.」"
+
+msgid "Ryuuji「......Let's not be unreasonable, please.」"
+msgstr "Ryuuji「......No seamos irrazonables, por favor.」"
+
+msgid "Sumire「\"Skittish,\" indeed. How dare you＿oversimplify her with such a flippant＿word.」"
+msgstr "Sumire「\"Asustadiza\", claro. ¿Cómo te atreves a＿reducirla a una palabra tan frívola?」"
+
+msgid "Ryuuji「No, uh, that wasn't what I--」"
+msgstr "Ryuuji「No, eh, no era eso lo que--」"
+
+msgid "Ryuuji「No, that's not necessary! By all means,＿tell Tomiie about......!」"
+msgstr "Ryuuji「¡No, no hace falta! ¡Por favor,＿cuéntale a Tomiie sobre......!」"
+
+msgid "Ryuuji「I think she means well......」"
+msgstr "Ryuuji「Creo que tiene buenas intenciones......」"
+
+msgid "Sumire「Please keep that in mind.」"
+msgstr "Sumire「Por favor, tenlo presente.」"
+
+msgid "Sumire「Even so, she has really grown up.＿Makes me feel lonely at times.」"
+msgstr "Sumire「Aun así, sí que ha crecido. A veces＿hasta me hace sentir sola.」"
+
+msgid "Ryuuji「You sound like you're her father.」"
+msgstr "Ryuuji「Suenas como si fueras su padre.」"
+
+msgid "Sumire「You're right, I do.」"
+msgstr "Sumire「Tienes razón, así sueno.」"
+
+msgid "Ryuuji「......You're not even denying the \"father\"＿part.」"
+msgstr "Ryuuji「......Ni siquiera niegas＿la parte de \"padre\".」"
+
+msgid "Sumire「Skittish? In what way?」"
+msgstr "Sumire「¿Asustadiza? ¿En qué sentido?」"
+
+msgid "Ryuuji「Well, I know she's clumsy, but she＿should probably keep her guard up a＿little more......」"
+msgstr "Ryuuji「Bueno, sé que es torpe, pero＿quizá debería estar un poco＿más en guardia......」"
+
+msgid "Sumire「Guard? From what?」"
+msgstr "Sumire「¿En guardia? ¿De qué?」"
+
+msgid "Ryuuji「......Are you even listening?」"
+msgstr "Ryuuji「......¿Siquiera estás escuchando?」"
+
+msgid "Sumire「As if I had a choice? I couldn't sit still＿in there. Talking to Kitamura at a place＿like that was basically torture.」"
+msgstr "Sumire「¿Como si tuviera opción? No podía＿quedarme quieta ahí. Hablar con Kitamura＿en un lugar así era casi una tortura.」"
+
+msgid "Ryuuji「I thought it would liven things up for＿you......」"
+msgstr "Ryuuji「Pensé que les animaría el ambiente......」"
+
+msgid "Sumire「Mind your own business.」"
+msgstr "Sumire「Ocúpate de tus asuntos.」"
+
+msgid "Sumire「I don't care about the planetarium.＿Takasu, I believe in \"an eye for an eye.\"＿Remember that.」"
+msgstr "Sumire「No me importa el planetario.＿Takasu, yo creo en el \"ojo＿por ojo\". Recuérdalo.」"
+
+msgid "Ryuuji「I, I'd just like to say that I had the best＿of intentions.」"
+msgstr "Ryuuji「S-Solo me gustaría decir que tenía＿las mejores intenciones.」"
+
+msgid "Ryuuji「Uhhh...... you look serious though......」"
+msgstr "Ryuuji「Ehhh...... pero te ves muy seria......」"
+
+msgid "Sumire「How could I say for sure? We left＿before the show even started.」"
+msgstr "Sumire「¿Cómo podría asegurarlo? Nos fuimos＿antes de que empezara la función.」"
+
+msgid "Ryuuji「I mean like, the atmosphere, or how＿you felt about running into Kitamura＿there......」"
+msgstr "Ryuuji「Me refiero al ambiente, o a cómo＿te sentiste al encontrarte con＿Kitamura allí......」"
+
+msgid "Sumire「Whatever.」"
+msgstr "Sumire「Como sea.」"
+
+msgid "Ryuuji「Okay then.」"
+msgstr "Ryuuji「Está bien, pues.」"
+
+msgid "Sumire「One thing's for certain: it was not an＿appropriate place for me and Kitamura＿to meet.」"
+msgstr "Sumire「Una cosa es segura: no era un＿lugar apropiado para que Kitamura＿y yo nos viéramos.」"
+
+msgid "Ryuuji「......I'm sorry.」"
+msgstr "Ryuuji「......Lo siento.」"
+
+msgid "Sumire「At this point, I'd feel bad if you＿apologized.」"
+msgstr "Sumire「A estas alturas, me sentiría＿mal si te disculparas.」"
+
+msgid "Sumire「I can at least understand how a place＿like that would be popular.」"
+msgstr "Sumire「Al menos puedo entender por qué＿un lugar así sería popular.」"
+
+msgid "Ryuuji「......It would appear you didn't care for＿it.」"
+msgstr "Ryuuji「......Al parecer no fue＿mucho de tu agrado.」"
+
+msgid "Sumire「I can't really deny that. But it probably＿isn't too bad under different＿circumstances.」"
+msgstr "Sumire「No puedo negarlo. Pero probablemente＿no esté tan mal en otras circunstancias.」"
+
+msgid "Sumire「Hahaha, of course he does! Naturally,＿it's because I predicted he would!」"
+msgstr "Sumire「¡Jajaja, claro que sí! ¡Naturalmente,＿es porque yo predije que lo haría!」"
+
+msgid "Ryuuji「Did you give any advice?」"
+msgstr "Ryuuji「¿Le diste algún consejo?」"
+
+msgid "Sumire「Advice? I can give some to you.」"
+msgstr "Sumire「¿Consejos? Puedo darte algunos a ti.」"
+
+msgid "Ryuuji「Huh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Sumire「You should find something you can＿fully devote yourself to. Like with＿Kitamura and student council.」"
+msgstr "Sumire「Deberías encontrar algo a lo que＿dedicarte por completo. Como Kitamura＿con el consejo estudiantil.」"
+
+msgid "Ryuuji「O-Okay.」"
+msgstr "Ryuuji「E-Está bien.」"
+
+msgid "Sumire「Well, I told him to impress me.」"
+msgstr "Sumire「Bueno, le dije que me impresionara.」"
+
+msgid "Ryuuji「Did you give any advice?」"
+msgstr "Ryuuji「¿Le diste algún consejo?」"
+
+msgid "Sumire「No need for that. That guy won't need＿any help to surpass me.」"
+msgstr "Sumire「No hace falta. Ese chico no necesitará＿ninguna ayuda para superarme.」"
+
+msgid "Sumire「Of course you can't. You tryin' to rip＿open old wounds?」"
+msgstr "Sumire「Claro que no puedes. ¿Intentas＿abrir viejas heridas?」"
+
+msgid "Ryuuji「I'm sorry for being so insensitive.」"
+msgstr "Ryuuji「Perdón por ser tan insensible.」"
+
+msgid "Sumire「It's like you're a third-rate tabloid＿journalist.」"
+msgstr "Sumire「Pareces un periodista sensacionalista＿de tercera.」"
+
+msgid "Ryuuji「Ugh......」"
+msgstr "Ryuuji「Ugh......」"
+
+msgid "Ryuuji「No thank you! I'm sorry!」"
+msgstr "Ryuuji「¡No, gracias! ¡Lo siento!」"
+
+msgid "Sumire「............」"
+msgstr "Sumire「............」"
+
+msgid "Ryuuji「Um, Senpai?」"
+msgstr "Ryuuji「Ehm, ¿Senpai?」"
+
+msgid "Sumire「As they say in Germany, \"Having no＿answer is, in itself, an answer.\"」"
+msgstr "Sumire「Como dicen en Alemania: \"No responder＿es, en sí mismo, una respuesta\".」"
+
+msgid "Ryuuji「I understand. I won't ask further.」"
+msgstr "Ryuuji「Entiendo. No preguntaré más.」"
+
+msgid "Sumire「Dumbass! There's dreams and hopes＿and romance in space, dammit!! Want＿to come with?」"
+msgstr "Sumire「¡Idiota! ¡¡En el espacio hay sueños,＿esperanzas y romance, demonios!!＿¿Quieres venir conmigo?」"
+
+msgid "Ryuuji「Huh!? Me?」"
+msgstr "Ryuuji「¡¿Eh?! ¿Yo?」"
+
+msgid "Sumire「There's so much that I wouldn't know＿where to begin. Go see the vast beauty＿of space for yourself!」"
+msgstr "Sumire「Hay tanto que no sabría ni por dónde＿empezar. ¡Ve a ver la inmensa belleza＿del espacio por ti mismo!」"
+
+msgid "Sumire「Everything.」"
+msgstr "Sumire「Todo.」"
+
+msgid "Ryuuji「Everything?」"
+msgstr "Ryuuji「¿Todo?」"
+
+msgid "Sumire「As for that persistence of yours, I'm＿beyond amazed. It's even admirable.」"
+msgstr "Sumire「En cuanto a esa insistencia tuya, me＿deja sin palabras. Es hasta admirable.」"
+
+msgid "Ryuuji「......Thank you.」"
+msgstr "Ryuuji「......Gracias.」"
+
+msgid "Sumire「That's a mature response.」"
+msgstr "Sumire「Esa es una respuesta madura.」"
+
+msgid "Sumire「Tell Kitamura I said \"choose your＿friends better.\"」"
+msgstr "Sumire「Dile a Kitamura de mi parte que＿\"elija mejor a sus amigos\".」"
+
+msgid "Ryuuji「......I apologize.」"
+msgstr "Ryuuji「......Pido disculpas.」"
+
+msgid "Sumire「Good lord, Takasu, you're quite the＿sticky bastard. Jesus. If I hung you＿over a trash can, you'd catch flies.」"
+msgstr "Sumire「Dios mío, Takasu, pero qué tipo tan＿pegajoso eres. Si te colgara sobre un＿bote de basura, atraparías moscas.」"
+
+msgid "Ryuuji「Did you really just say that?」"
+msgstr "Ryuuji「¿De verdad acabas de decir eso?」"
+
+msgid "Sumire「I acknowledge your actions were for＿the sake of your best friend, but I'm＿not a prize to be won.」"
+msgstr "Sumire「Reconozco que tus actos fueron por el＿bien de tu mejor amigo, pero no soy＿un premio que se pueda ganar.」"
+
+msgid "Ryuuji「I'd say I'm the latter...... although I can't＿be sure, what with my amnesia and all.」"
+msgstr "Ryuuji「Diría que soy de los segundos...... pero＿mi amnesia no me deja asegurarlo.」"
+
+msgid "Sumire「In that case, excuses are worthless.＿Think about it in the tub or something.」"
+msgstr "Sumire「En ese caso, las excusas no sirven.＿Piénsalo en la bañera o algo así.」"
+
+msgid "Sumire「Oh, I see. With no hopes or dreams to＿speak of, you just dilly-dally, daydream,＿dilly-dally, daydream every day.」"
+msgstr "Sumire「Ah, ya veo. Sin sueños ni esperanzas,＿solo vagas, sueñas despierto, vagas y＿sueñas despierto todos los días.」"
+
+msgid "Ryuuji「I didn't say that.」"
+msgstr "Ryuuji「Yo no dije eso.」"
+
+msgid "Sumire「Aww, but youth is too precious to be＿wasted. Tell me, where did I tell you to＿put your time to good use?」"
+msgstr "Sumire「Ay, pero la juventud es demasiado＿valiosa para desperdiciarla. Dime, ¿en＿qué te dije que aprovecharas tu tiempo?」"
+
+msgid "Ryuuji「......Student council?」"
+msgstr "Ryuuji「......¿El consejo estudiantil?」"
+
+msgid "Sumire「Hmph.」"
+msgstr "Sumire「Jum.」"
+
+msgid "Sumire「Once you reach your senior year, the＿classes are divided between arts and＿sciences. Have you decided on one?」"
+msgstr "Sumire「Al llegar al último año, las clases＿se dividen entre letras y ciencias.＿¿Ya elegiste una?」"
+
+msgid "Ryuuji「I decided on science...... I believe...... My＿memory's a little too ambiguous.」"
+msgstr "Ryuuji「Elegí ciencias...... creo...... Mi＿memoria está un poco difusa.」"
+
+msgid "Sumire「What's wrong with that?」"
+msgstr "Sumire「¿Qué tiene eso de malo?」"
+
+msgid "Ryuuji「Nothing, I guess?」"
+msgstr "Ryuuji「¿Nada, supongo?」"
+
+msgid "Sumire「Discovering your dream quickly＿doesn't guarantee that you'll be happy.」"
+msgstr "Sumire「Descubrir tu sueño rápido no garantiza＿que vayas a ser feliz.」"
+
+msgid "Sumire「No need to rush. You've got your whole＿life ahead of you. Take your time, and＿BOOM!」"
+msgstr "Sumire「No hay prisa. Tienes toda la vida por＿delante. Tómate tu tiempo, y ¡BUM!」"
+
+msgid "Ryuuji「\"Boom,\" huh.」"
+msgstr "Ryuuji「\"Bum\", ¿eh?」"
+
+msgid "HAP_A1_LV2:"
+msgstr "HAP_A1_LV2:"
+
+msgid "ANG_A1_LV1:"
+msgstr "ANG_A1_LV1:"
+
+msgid "ANG_A1_LV2:"
+msgstr "ANG_A1_LV2:"
+
+msgid "SAD_A1_LV1:"
+msgstr "SAD_A1_LV1:"
+
+msgid "SAD_A1_LV2:"
+msgstr "SAD_A1_LV2:"
+
+msgid "FUN_A1_LV2:"
+msgstr "FUN_A1_LV2:"
+
+msgid "HAP_A2_LV1:"
+msgstr "HAP_A2_LV1:"
+
+msgid "HAP_A2_LV2:"
+msgstr "HAP_A2_LV2:"
+
+msgid "SAD_A2_LV2:"
+msgstr "SAD_A2_LV2:"
+
+msgid "FUN_A2_LV1:"
+msgstr "FUN_A2_LV1:"
+
+msgid "FUN_A2_LV2:"
+msgstr "FUN_A2_LV2:"
+
+msgid "HAP_A3_LV1:"
+msgstr "HAP_A3_LV1:"
+
+msgid "HAP_A3_LV2:"
+msgstr "HAP_A3_LV2:"
+
+msgid "FUN_A3_LV2:"
+msgstr "FUN_A3_LV2:"
+
+msgid "HAP_B1_LV2:"
+msgstr "HAP_B1_LV2:"
+
+msgid "ANG_B1_LV1:"
+msgstr "ANG_B1_LV1:"
+
+msgid "ANG_B1_LV2:"
+msgstr "ANG_B1_LV2:"
+
+msgid "SAD_B1_LV1:"
+msgstr "SAD_B1_LV1:"
+
+msgid "SAD_B1_LV2:"
+msgstr "SAD_B1_LV2:"
+
+msgid "FUN_B1_LV2:"
+msgstr "FUN_B1_LV2:"
+
+msgid "HAP_B2_LV1:"
+msgstr "HAP_B2_LV1:"
+
+msgid "HAP_B2_LV2:"
+msgstr "HAP_B2_LV2:"
+
+msgid "SAD_B2_LV2:"
+msgstr "SAD_B2_LV2:"
+
+msgid "FUN_B2_LV1:"
+msgstr "FUN_B2_LV1:"
+
+msgid "FUN_B2_LV2:"
+msgstr "FUN_B2_LV2:"
+
+msgid "HAP_B3_LV1:"
+msgstr "HAP_B3_LV1:"
+
+msgid "HAP_B3_LV2:"
+msgstr "HAP_B3_LV2:"
+
+msgid "FUN_B3_LV2:"
+msgstr "FUN_B3_LV2:"
+
+msgid "HAP_C1_LV2:"
+msgstr "HAP_C1_LV2:"
+
+msgid "ANG_C1_LV1:"
+msgstr "ANG_C1_LV1:"
+
+msgid "ANG_C1_LV2:"
+msgstr "ANG_C1_LV2:"
+
+msgid "SAD_C1_LV1:"
+msgstr "SAD_C1_LV1:"
+
+msgid "SAD_C1_LV2:"
+msgstr "SAD_C1_LV2:"
+
+msgid "FUN_C1_LV2:"
+msgstr "FUN_C1_LV2:"
+
+msgid "HAP_C2_LV1:"
+msgstr "HAP_C2_LV1:"
+
+msgid "HAP_C2_LV2:"
+msgstr "HAP_C2_LV2:"
+
+msgid "//SAD_C2_LV2:"
+msgstr "//SAD_C2_LV2:"
+
+msgid "FUN_C2_LV1:"
+msgstr "FUN_C2_LV1:"
+
+msgid "FUN_C2_LV2:"
+msgstr "FUN_C2_LV2:"
+
+msgid "HAP_C3_LV1:"
+msgstr "HAP_C3_LV1:"
+
+msgid "HAP_C3_LV2:"
+msgstr "HAP_C3_LV2:"
+
+msgid "FUN_C3_LV2:"
+msgstr "FUN_C3_LV2:"
+
+msgid "HAP_D1_LV2:"
+msgstr "HAP_D1_LV2:"
+
+msgid "ANG_D1_LV1:"
+msgstr "ANG_D1_LV1:"
+
+msgid "ANG_D1_LV2:"
+msgstr "ANG_D1_LV2:"
+
+msgid "SAD_D1_LV1:"
+msgstr "SAD_D1_LV1:"
+
+msgid "SAD_D1_LV2:"
+msgstr "SAD_D1_LV2:"
+
+msgid "FUN_D1_LV2:"
+msgstr "FUN_D1_LV2:"
+
+msgid "HAP_D2_LV1:"
+msgstr "HAP_D2_LV1:"
+
+msgid "HAP_D2_LV2:"
+msgstr "HAP_D2_LV2:"
+
+msgid "SAD_D2_LV2:"
+msgstr "SAD_D2_LV2:"
+
+msgid "FUN_D2_LV1:"
+msgstr "FUN_D2_LV1:"
+
+msgid "FUN_D2_LV2:"
+msgstr "FUN_D2_LV2:"
+
+msgid "HAP_D3_LV1:"
+msgstr "HAP_D3_LV1:"
+
+msgid "HAP_D3_LV2:"
+msgstr "HAP_D3_LV2:"
+
+msgid "FUN_D3_LV2:"
+msgstr "FUN_D3_LV2:"
+
+msgid "HAP_E1_LV1:"
+msgstr "HAP_E1_LV1:"
+
+msgid "HAP_E1_LV2:"
+msgstr "HAP_E1_LV2:"
+
+msgid "FUN_E1_LV2:"
+msgstr "FUN_E1_LV2:"
+
+msgid "HAP_E2_LV2:"
+msgstr "HAP_E2_LV2:"
+
+msgid "ANG_E2_LV1:"
+msgstr "ANG_E2_LV1:"
+
+msgid "ANG_E2_LV2:"
+msgstr "ANG_E2_LV2:"
+
+msgid "SAD_E2_LV1:"
+msgstr "SAD_E2_LV1:"
+
+msgid "SAD_E2_LV2:"
+msgstr "SAD_E2_LV2:"
+
+msgid "FUN_E2_LV2:"
+msgstr "FUN_E2_LV2:"
+
+msgid "HAP_E3_LV1:"
+msgstr "HAP_E3_LV1:"
+
+msgid "HAP_E3_LV2:"
+msgstr "HAP_E3_LV2:"
+
+msgid "SAD_E3_LV2:"
+msgstr "SAD_E3_LV2:"
+
+msgid "FUN_E3_LV1:"
+msgstr "FUN_E3_LV1:"
+
+msgid "FUN_E3_LV2:"
+msgstr "FUN_E3_LV2:"
+
+msgid "HAP_F1_LV2:"
+msgstr "HAP_F1_LV2:"
+
+msgid "ANG_F1_LV1:"
+msgstr "ANG_F1_LV1:"
+
+msgid "ANG_F1_LV2:"
+msgstr "ANG_F1_LV2:"
+
+msgid "SAD_F1_LV1:"
+msgstr "SAD_F1_LV1:"
+
+msgid "SAD_F1_LV2:"
+msgstr "SAD_F1_LV2:"
+
+msgid "FUN_F1_LV2:"
+msgstr "FUN_F1_LV2:"
+
+msgid "HAP_F2_LV1:"
+msgstr "HAP_F2_LV1:"
+
+msgid "HAP_F2_LV2:"
+msgstr "HAP_F2_LV2:"
+
+msgid "SAD_F2_LV2:"
+msgstr "SAD_F2_LV2:"
+
+msgid "FUN_F2_LV1:"
+msgstr "FUN_F2_LV1:"
+
+msgid "FUN_F2_LV2:"
+msgstr "FUN_F2_LV2:"
+
+msgid "HAP_F3_LV1:"
+msgstr "HAP_F3_LV1:"
+
+msgid "HAP_F3_LV2:"
+msgstr "HAP_F3_LV2:"
+
+msgid "FUN_F3_LV2:"
+msgstr "FUN_F3_LV2:"
+
+msgid "Sumire「Unfortunately, I don't have time to＿spare. I doubt you do, either. I don't＿want to waste any more time. What do」"
+msgstr "Sumire「Por desgracia, no me sobra tiempo.＿A ti tampoco, supongo. No quiero＿perder más tiempo. ¿Qué」"
+
+msgid "Sumire「you think?」"
+msgstr "Sumire「opinas?」"
+
+msgid "Sumire「You're making that stupid loopy face＿because talking with me is boring you,＿huh...... Sorry, guess I couldn't help you」"
+msgstr "Sumire「Pones esa cara de bobo porque hablar＿conmigo te aburre, ¿eh?...... Perdón,＿supongo que no pude ayudarte」"
+
+msgid "Sumire「after all.」"
+msgstr "Sumire「después de todo.」"
+
+msgid "Sumire「I can appreciate your decision to try to＿look me straight in the face when you＿talk to me, but don't forget we're short」"
+msgstr "Sumire「Valoro tu decisión de intentar mirarme＿directo a la cara cuando me hablas, pero＿no olvides que vamos cortos」"
+
+msgid "Sumire「on time here.」"
+msgstr "Sumire「de tiempo.」"
+
+msgid "Sumire「What a shame. If I were still an active＿member, I would have dragged you off＿to the student council room and had」"
+msgstr "Sumire「Qué lástima. ¡Si aún fuera miembro＿activo, te habría arrastrado al salón＿del consejo estudiantil y te habría」"
+
+msgid "Sumire「you indoctrinated strictly and severely!」"
+msgstr "Sumire「adoctrinado con rigor y severidad!」"
+
+msgid "Sumire「Ha ha ha, don't look so scared. The＿first rule of good grades is: put effort＿into it. The second rule of good grades」"
+msgstr "Sumire「Jajaja, no te asustes. La primera regla＿para las buenas notas es: esforzarse. La＿segunda regla para las buenas notas」"
+
+msgid "Sumire「is: put effort into it. Nothing more to it.」"
+msgstr "Sumire「es: esforzarse. No tiene más ciencia.」"
+
+msgid "Sumire「Grades aren't something you can＿improve so easily. It takes 1%＿inspiration and 99% perspiration. Also,」"
+msgstr "Sumire「Las notas no son algo que mejores tan＿fácilmente. Hace falta 1% de inspiración＿y 99% de transpiración. Además,」"
+
+msgid "Sumire「a little luck couldn't hurt.」"
+msgstr "Sumire「un poco de suerte nunca viene mal.」"
+
+msgid "Sumire「Oh, so you knew. Well, nothing＿ventured, nothing maintained. First,＿use the notebook I gave you for」"
+msgstr "Sumire「Ah, así que lo sabías. Bueno, quien＿nada arriesga, nada mantiene. Primero,＿usa el cuaderno que te di para」"
+
+msgid "Sumire「thorough preparation and review.」"
+msgstr "Sumire「preparar y repasar todo a fondo.」"
+
+msgid "Sumire「How will hearing my response to that＿help you? Are you harassing me?＿Going to use my weakness in some」"
+msgstr "Sumire「¿De qué te sirve mi respuesta?＿¿Me estás acosando? ¿Usarás＿mi debilidad para un」"
+
+msgid "Sumire「future blackmail, perhaps?」"
+msgstr "Sumire「chantaje futuro, tal vez?」"
+
+msgid "Sumire「Then you tell me your weakness first,＿Takasu. Once I poke around all over＿and confirm it is in fact your weakness,」"
+msgstr "Sumire「Dime primero tu debilidad, Takasu.＿Cuando investigue a fondo y confirme＿que de verdad lo es,」"
+
+msgid "Sumire「I'll tell you mine.」"
+msgstr "Sumire「te diré la mía.」"
+
+msgid "Sumire「I'll give up on going back to America. In＿exchange, you'll take care of me for＿eternity. You'll be stuck with me 24/7」"
+msgstr "Sumire「Renunciaré a volver a Estados Unidos.＿A cambio, me cuidarás por toda la＿eternidad. Estarás pegado a mí 24/7」"
+
+msgid "Sumire「until we die - forced together until the＿grave.」"
+msgstr "Sumire「hasta que muramos; unidos a＿la fuerza hasta la tumba.」"
+
+msgid "Sumire「It's not too late. There's always plenty＿of documents to process, piles of＿problems and oodles of chores. I'll put」"
+msgstr "Sumire「No es demasiado tarde. Siempre sobran＿documentos por procesar, montones de＿problemas y miles de tareas. Hablaré」"
+
+msgid "Sumire「in a good word for you, so look forward＿to it.」"
+msgstr "Sumire「bien de ti, así que espéralo con ganas.」"
+
+msgid "Sumire「I concede that it's busy, but I don't＿care for the term \"overwhelming.\" Have＿some respect for the people running」"
+msgstr "Sumire「Admito que hay mucho trabajo, pero＿no me gusta lo de \"abrumador\". Respeta＿a quienes dirigen」"
+
+msgid "Sumire「things.」"
+msgstr "Sumire「las cosas.」"
+
+msgid "Sumire「In other words, I would have been＿killed many times over. Alright, you＿give dying a try. The afterlife is a nice」"
+msgstr "Sumire「En otras palabras, me habrían matado＿muchas veces. Muy bien, prueba tú a＿morir. El más allá es un buen」"
+
+msgid "Sumire「place. Now, cross over, Takasu.」"
+msgstr "Sumire「lugar. Ahora cruza al otro lado, Takasu.」"
+
+msgid "Sumire「No, don't sweat it. There are some＿things you can't know just from＿appearances. In that case, shall I」"
+msgstr "Sumire「No, no te preocupes. Hay cosas que＿no se pueden saber solo por las＿apariencias. En ese caso, ¿te」"
+
+msgid "Sumire「provide a venue in which you can＿discuss your personal experience?」"
+msgstr "Sumire「brindo un espacio donde puedas hablar＿de tu experiencia personal?」"
+
+msgid "Sumire「We struggled to make a hit Culture＿Festival worthy of our awesome＿reputation. If it's a flop next year, I'll」"
+msgstr "Sumire「Nos esforzamos por hacer un Festival＿Cultural digno de nuestra gran fama.＿Si fracasa el próximo año, voy a」"
+
+msgid "Sumire「take all the current student council＿members and hogtie 'em.」"
+msgstr "Sumire「atar de pies y manos al consejo actual.」"
+
+msgid "Sumire「You guys fuckin' went and snagged＿victory at both the Beauty Contest and＿the Mr. Lucky Man Race. Well, it」"
+msgstr "Sumire「Demonios, ustedes fueron y se llevaron＿la victoria en el Concurso de Belleza y＿en la Carrera de Mr. Lucky Man. Bueno,」"
+
+msgid "Sumire「generated more buzz for the festival,＿at least.」"
+msgstr "Sumire「generó más revuelo para＿el festival, al menos.」"
+
+msgid "Sumire「Ah ha ha! I wasn't expecting you to say＿something like that. It's no＿exaggeration to say I'm the only reason」"
+msgstr "Sumire「¡Ajaja! No esperaba que dijeras＿eso. No exagero al decir que soy＿la única razón por la que」"
+
+msgid "Sumire「Sakura and Kota are together.」"
+msgstr "Sumire「Sakura y Kota están juntos.」"
+
+msgid "Sumire「Actually, no one could have predicted＿what a good pair they'd make. Plus,＿Sakura's become fairly intellectually」"
+msgstr "Sumire「De hecho, nadie habría predicho la buena＿pareja que harían. Además, en lo＿intelectual Sakura se ha vuelto bastante」"
+
+msgid "Sumire「mature. It's not for me to stick my nose＿into.」"
+msgstr "Sumire「madura. No es asunto mío meter＿las narices en eso.」"
+
+msgid "Sumire「She gets spoiled, so it's necessary for＿someone to keep her in check. She＿isn't such a wimp that she'll turn」"
+msgstr "Sumire「Se vuelve consentida, así que alguien＿debe controlarla. No es tan débil＿como para volverse」"
+
+msgid "Sumire「cynical from it.」"
+msgstr "Sumire「cínica por eso.」"
+
+msgid "Sumire「Hmph. Some forms of communication＿can be specially tailored for just one＿other person to understand. Isn't that」"
+msgstr "Sumire「Jum. Hay formas de comunicación＿pensadas para que solo otra persona＿las entienda. ¿No es así」"
+
+msgid "Sumire「true for you and Aisaka?」"
+msgstr "Sumire「entre Aisaka y tú?」"
+
+msgid "Sumire「Do you feel sympathy for her? If she＿seriously hated it, she wouldn't have＿struggled to follow after me all the way」"
+msgstr "Sumire「¿Sientes lástima por ella? Si de verdad＿lo odiara, no se habría esforzado＿tanto por seguirme hasta」"
+
+msgid "Sumire「to the same high school. Mind your＿own business.」"
+msgstr "Sumire「la misma preparatoria. Ocúpate＿de tus propios asuntos.」"
+
+msgid "Sumire「Yeah. As you can imagine, no one＿would call her academically gifted by＿any standard, but after a year's worth」"
+msgstr "Sumire「Sí. Como imaginarás, nadie diría que es＿brillante en lo académico bajo ningún＿criterio, pero tras un año entero」"
+
+msgid "Sumire「of hard work, she made it into Oohashi＿High School.」"
+msgstr "Sumire「de duro trabajo, logró entrar＿a la Preparatoria Oohashi.」"
+
+msgid "Sumire「She probably did some pervy things＿again. I know she's bad, but I wonder＿about the guys who react to every」"
+msgstr "Sumire「Seguro hizo algo pervertido otra vez.＿Sé que es terrible, pero ¿qué les pasa＿a los chicos que reaccionan a cada」"
+
+msgid "Sumire「little thing.」"
+msgstr "Sumire「pequeña cosa?」"
+
+msgid "Sumire「I've been her sister for long enough,＿don't you think? Shall I talk about my＿hardships for the rest of our」"
+msgstr "Sumire「Ya he sido su hermana por bastante＿tiempo, ¿no crees? ¿Te hablo de mis＿penurias durante el resto de nuestra」"
+
+msgid "Sumire「conversation? It all started when I was＿1 year old.」"
+msgstr "Sumire「conversación? Todo empezó＿cuando tenía 1 año.」"
+
+msgid "Sumire「You think so too......? Well, you're＿exactly right. She does make an effort＿to compensate for her scatterbrained」"
+msgstr "Sumire「¿Tú también lo crees......? Bueno,＿tienes toda la razón. Se esfuerza＿por compensar su lado」"
+
+msgid "Sumire「side, but it bothers her that she's so＿often idle.」"
+msgstr "Sumire「despistado, pero le molesta pasar＿tanto tiempo sin hacer nada.」"
+
+msgid "Sumire「Naturally. Otherwise, you wouldn't be＿here right now. Don't worry, I'm just＿saying I'll repay you accordingly - with」"
+msgstr "Sumire「Por supuesto. Si no, no estarías＿aquí. No te preocupes, te lo pagaré＿como corresponde: con」"
+
+msgid "Sumire「the best of intentions. Fufufu.」"
+msgstr "Sumire「las mejores intenciones. Jujuju.」"
+
+msgid "Sumire「You really should pursue it. With the＿power of your glare, I'm certain you'll＿spook the timid celebrities into」"
+msgstr "Sumire「En serio deberías dedicarte a ello. Con＿el poder de tu mirada, seguro asustarás＿a las celebridades tímidas para que」"
+
+msgid "Sumire「revealing their private lives. I'll ask＿around for you.」"
+msgstr "Sumire「revelen sus vidas privadas. Preguntaré＿por ahí para ayudarte.」"
+
+msgid "Sumire「Yeah. Space is full of mysteries, like a＿jack-in-the-box. The more I study it,＿the more I realize just how tiny」"
+msgstr "Sumire「Sí. El espacio es una caja de sorpresas＿llena de misterios. Cuanto más lo＿estudio, más veo lo diminuta」"
+
+msgid "Sumire「humanity's existence is.」"
+msgstr "Sumire「que es la existencia humana.」"
+
+msgid "Sumire「There's a big difference between those＿who think before they act and those＿who go on their gut instinct. So, which」"
+msgstr "Sumire「Hay gran diferencia entre quien piensa＿antes de actuar y quien sigue su＿instinto. Así que, ¿de cuáles」"
+
+msgid "Sumire「one are you?」"
+msgstr "Sumire「eres tú?」"
+
+msgid "Sumire「Rather than remember, think it over＿as you are now. Put the distant future＿on the back burner and think seriously」"
+msgstr "Sumire「Más que recordar, piénsalo tal como＿eres ahora. Deja el futuro lejano＿de lado y piensa en serio」"
+
+msgid "Sumire「about short-term goals.」"
+msgstr "Sumire「en tus metas a corto plazo.」"

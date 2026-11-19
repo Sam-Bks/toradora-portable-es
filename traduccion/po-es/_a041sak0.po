@@ -1,0 +1,311 @@
+msgid ""
+msgstr ""
+
+msgid "???「Aaah!」"
+msgstr "???「¡Aaah!」"
+
+msgid "Ryuuji「（What the? ......Coins?）」"
+msgstr "Ryuuji「（¿Pero qué? ......¿Monedas?）」"
+
+msgid "???「I, I'm sorry! I wasn't paying attention. I'll＿pick them up now!」"
+msgstr "???「¡L-Lo siento! No estaba prestando＿atención. ¡Las recogeré ahora mismo!」"
+
+msgid "Ryuuji「（Another person loudly begging my＿forgiveness...... Oh, there's a 5 yen coin＿on my foot......）」"
+msgstr "Ryuuji「（Otra persona pidiéndome perdón＿a gritos...... Ah, hay una moneda＿de 5 yenes en mi pie......）」"
+
+msgid "Ryuuji「There's one over here too.」"
+msgstr "Ryuuji「Aquí hay otra también.」"
+
+msgid "???「Thank you very...... eeek!」"
+msgstr "???「Muchas gra...... ¡iiik!」"
+
+msgid "Ryuuji「（Don't look at me like that! ......Wait, this＿girl's familiar...... Oh yeah, she was＿called Sakura-chan.）」"
+msgstr "Ryuuji「（¡No me mires así! ......Espera,＿esta chica me suena...... Ah, sí,＿se llamaba Sakura-chan.）」"
+
+msgid "Sakura「I'm s-s-s-sorry! Please forgive meee!」"
+msgstr "Sakura「¡L-L-L-Lo siento! ¡Por＿favor, perdónameee!」"
+
+msgid "Ryuuji「Forget about it. More importantly, let's＿hurry and pick them up. I'll help.」"
+msgstr "Ryuuji「Olvídalo. Más bien, apresurémonos＿a recogerlas. Te ayudaré.」"
+
+msgid "Sakura「O-O-Oh, okay......」"
+msgstr "Sakura「A-A-Ah, está bien......」"
+
+msgid "Ryuuji「（What the? Even her hands are＿shaking.）」"
+msgstr "Ryuuji「（¿Qué pasa? Hasta le tiemblan＿las manos.）」"
+
+msgid "Ryuuji「Umm......」"
+msgstr "Ryuuji「Ehm......」"
+
+msgid "Sakura「Eeeek!」"
+msgstr "Sakura「¡Iiik!」"
+
+msgid "Ryuuji「......Can you stop making me feel bad?」"
+msgstr "Ryuuji「......¿Puedes no hacerme sentir mal?」"
+
+msgid "Sakura「I'm sorry, I really shouldn't ask you to＿pick them up for me, Takasu-senpai. I'll＿do it myself!」"
+msgstr "Sakura「Lo siento, no debería pedirte＿que las recojas por mí, Takasu-senpai.＿¡Lo haré yo misma!」"
+
+msgid "Ryuuji「What, you know me?」"
+msgstr "Ryuuji「¿Eh, me conoces?」"
+
+msgid "Sakura「Y-Yes. I'm a first year at Oohashi High＿School...... You probably don't know me,＿right?」"
+msgstr "Sakura「S-Sí. Soy de primer año en la＿Preparatoria Oohashi...... Seguro＿no me conoces, ¿verdad?」"
+
+msgid "Ryuuji「Er, your name is......」"
+msgstr "Ryuuji「Ehm, tu nombre es......」"
+
+msgid "Sakura「O-Oh, I'm Kanou Sakura.」"
+msgstr "Sakura「A-Ah, soy Kanou Sakura.」"
+
+msgid "Ryuuji「I see...... but as for anything beyond＿that...... Sorry, I don't remember.」"
+msgstr "Ryuuji「Ya veo...... pero aparte de eso......＿Perdón, no lo recuerdo.」"
+
+msgid "Ryuuji「（Don't look at me like that!）」"
+msgstr "Ryuuji「（¡No me mires así!）」"
+
+msgid "???「I'm s-s-s-sorry! Please forgive meee!」"
+msgstr "???「¡L-L-L-Lo siento! ¡Por＿favor, perdónameee!」"
+
+msgid "Ryuuji「Forget about it. More importantly, let's＿hurry and pick them up. I'll help.」"
+msgstr "Ryuuji「Olvídalo. Más bien, apresurémonos＿a recogerlas. Te ayudaré.」"
+
+msgid "???「O-O-Oh, okay......」"
+msgstr "???「A-A-Ah, está bien......」"
+
+msgid "Ryuuji「（What the? Even her hands are＿shaking.）」"
+msgstr "Ryuuji「（¿Qué pasa? Hasta le tiemblan＿las manos.）」"
+
+msgid "Ryuuji「Umm......」"
+msgstr "Ryuuji「Ehm......」"
+
+msgid "???「Eeek!」"
+msgstr "???「¡Iiik!」"
+
+msgid "Ryuuji「......Can you stop making me feel bad?」"
+msgstr "Ryuuji「......¿Puedes no hacerme sentir mal?」"
+
+msgid "???「I'm sorry, I really shouldn't ask you to＿pick them up for me, Takasu-senpai. I'll＿do it myself!」"
+msgstr "???「Lo siento, no debería pedirte＿que las recojas por mí, Takasu-senpai.＿¡Lo haré yo misma!」"
+
+msgid "Ryuuji「What, you know me?」"
+msgstr "Ryuuji「¿Eh, me conoces?」"
+
+msgid "???「Y-Yes. I'm a first year at Oohashi High＿School.」"
+msgstr "???「S-Sí. Soy de primer año en＿la Preparatoria Oohashi.」"
+
+msgid "Ryuuji「Oh, I see. What's your name?」"
+msgstr "Ryuuji「Ah, ya veo. ¿Cómo te llamas?」"
+
+msgid "Sakura「I, I'm Kanou Sakura...... You probably＿haven't heard of me, right?」"
+msgstr "Sakura「S-Soy Kanou Sakura...... Seguro no＿has oído hablar de mí, ¿verdad?」"
+
+msgid "Ryuuji「Right.」"
+msgstr "Ryuuji「Cierto.」"
+
+msgid "Sakura「That's okay. Compared to an older＿sister like that, people say I don't really＿stand out much.」"
+msgstr "Sakura「No pasa nada. Comparada con una hermana＿mayor así, dicen que no suelo llamar＿mucho la atención.」"
+
+msgid "Ryuuji「To be fair, there's a lot of people I don't＿know right now.」"
+msgstr "Ryuuji「A decir verdad, ahora mismo hay＿mucha gente que no conozco.」"
+
+msgid "Sakura「What?」"
+msgstr "Sakura「¿Qué?」"
+
+msgid "Ryuuji「So uh...... How come you know my＿name?」"
+msgstr "Ryuuji「Y ehm...... ¿Cómo es que＿sabes mi nombre?」"
+
+msgid "Ryuuji「......」"
+msgstr "Ryuuji「......」"
+
+msgid "Sakura「I'm sorry, it just slipped out...... I mean--!」"
+msgstr "Sakura「Lo siento, se me escapó...... ¡Digo--!」"
+
+msgid "Ryuuji「......Excuse me.」"
+msgstr "Ryuuji「......Disculpa.」"
+
+msgid "Sakura「I-I-I-I'm sorry! Please don't glare at me＿like that! S-Spare meeee!」"
+msgstr "Sakura「¡L-L-L-Lo siento! ¡Por favor, no＿me mires así! ¡P-Perdónameeee!」"
+
+msgid "Ryuuji「That's not it......」"
+msgstr "Ryuuji「No es eso......」"
+
+msgid "Sakura「Aaaaahhh! Please forgive me! I'm sor......＿Aah!!」"
+msgstr "Sakura「¡Aaaaahhh! ¡Por favor, perdóname!＿Lo sien...... ¡¡Aah!!」"
+
+msgid "Ryuuji「Hey, look out!」"
+msgstr "Ryuuji「¡Oye, cuidado!」"
+
+msgid "Ryuuji「Ugh!!」"
+msgstr "Ryuuji「¡¡Ugh!!」"
+
+msgid "Sakura「Owwie...... Oh, I'm sorryyy!」"
+msgstr "Sakura「Ayyy...... ¡Ah, lo sientooo!」"
+
+msgid "Ryuuji「Th-That was a pretty good headbutt......」"
+msgstr "Ryuuji「Q-Qué buen cabezazo fue ese......」"
+
+msgid "Sakura「AAAAAAAHHHHH!!」"
+msgstr "Sakura「¡¡AAAAAAAHHHHH!!」"
+
+msgid "Ryuuji「What is it now!?」"
+msgstr "Ryuuji「¡¿Y ahora qué pasa?!」"
+
+msgid "Sakura「Blood! Nosebleed!」"
+msgstr "Sakura「¡Sangre! ¡Te sangra la nariz!」"
+
+msgid "Ryuuji「Nosebleed? ......Oh.」"
+msgstr "Ryuuji「¿La nariz? ......Ah.」"
+
+msgid "Sakura「I'm so sorry! What have I done? I'm＿sorry, I'm sorry!」"
+msgstr "Sakura「¡Lo siento muchísimo! ¿Qué hice?＿¡Lo siento, lo siento!」"
+
+msgid "Ryuuji「You've done nothing but apologize for＿a while now.」"
+msgstr "Ryuuji「Llevas rato sin hacer otra＿cosa que disculparte.」"
+
+msgid "Sakura「I'm s...... Ack!」"
+msgstr "Sakura「Lo s...... ¡Ah!」"
+
+msgid "Ryuuji「What a wonderful habit.」"
+msgstr "Ryuuji「Qué maravillosa costumbre.」"
+
+msgid "Sakura「......You're not mad?」"
+msgstr "Sakura「......¿No estás enojado?」"
+
+msgid "Ryuuji「It wasn't on purpose, and the＿nosebleed isn't a big deal either.」"
+msgstr "Ryuuji「No fue a propósito, y que me sangre＿la nariz tampoco es gran cosa.」"
+
+msgid "Sakura「......」"
+msgstr "Sakura「......」"
+
+msgid "Sakura「Ah, I have tissues. I'll wipe it for you.」"
+msgstr "Sakura「Ah, tengo pañuelos. Te lo limpio.」"
+
+msgid "Ryuuji「Oh, thank y...... Ohh!」"
+msgstr "Ryuuji「Ah, grac...... ¡Ohh!」"
+
+msgid "Ryuuji「（Wait a second! Her boobs are in my＿face!!）」"
+msgstr "Ryuuji「（¡Un segundo! ¡¡Sus pechos＿están en mi cara!!）」"
+
+msgid "Sakura「Takasu-senpai? What's wrong?」"
+msgstr "Sakura「¿Takasu-senpai? ¿Qué pasa?」"
+
+msgid "Ryuuji「Sorry, s-step back a bit......」"
+msgstr "Ryuuji「Perdón, a-aléjate un poco......」"
+
+msgid "Sakura「No sudden movements! Leave it to me.」"
+msgstr "Sakura「¡No te muevas de golpe! Déjamelo a mí.」"
+
+msgid "Ryuuji「Mmph!!」"
+msgstr "Ryuuji「¡¡Mmph!!」"
+
+msgid "Sakura「Aaah! W-What do I do? It's bleeding＿harder......」"
+msgstr "Sakura「¡Aaah! ¿Q-Qué hago? Está sangrando＿más fuerte......」"
+
+msgid "Ryuuji「L-Let go......」"
+msgstr "Ryuuji「S-Suéltame......」"
+
+msgid "Sakura「I'll pinch your nose, so please look＿down! Big Sis told me that's how to＿stop a nosebleed.」"
+msgstr "Sakura「Te apretaré la nariz, ¡así que mira＿abajo! Mi hermana me dijo que así＿se detiene el sangrado.」"
+
+msgid "Ryuuji「（C-Crap, those rolling hills are even＿closer now......!）」"
+msgstr "Ryuuji「（¡M-Maldición, esas suaves colinas＿están aún más cerca ahora......!）」"
+
+msgid "Ryuuji「Gah!!」"
+msgstr "Ryuuji「¡¡Gah!!」"
+
+msgid "Sakura「Aaah! Why, why!?」"
+msgstr "Sakura「¡Aaah! ¡¿Por qué, por qué?!」"
+
+msgid "Ryuuji「Please get off me, I'm beggin' you!」"
+msgstr "Ryuuji「¡Por favor suéltame, te lo ruego!」"
+
+msgid "Sakura「O-Okay!」"
+msgstr "Sakura「¡E-Está bien!」"
+
+msgid "Ryuuji「（Phew, it stopped...... right?）」"
+msgstr "Ryuuji「（Uff, se detuvo...... ¿verdad?）」"
+
+msgid "Sakura「This is the first time something my＿sister told me was wrong......」"
+msgstr "Sakura「Es la primera vez que algo que me＿dijo mi hermana estaba mal......」"
+
+msgid "Ryuuji「Did you say something?」"
+msgstr "Ryuuji「¿Dijiste algo?」"
+
+msgid "Sakura「No, nothing. Are you okaaaaahh......!?」"
+msgstr "Sakura「No, nada. ¡¿Estás bieeeeennnn......?!」"
+
+msgid "Ryuuji「What is it now!?」"
+msgstr "Ryuuji「¡¿Y ahora qué pasa?!」"
+
+msgid "Sakura「T-This is bad! Your clothes are＿covered in blood, senpai!」"
+msgstr "Sakura「¡E-Esto es malo! ¡Tu ropa está＿cubierta de sangre, senpai!」"
+
+msgid "Ryuuji「......Oh! This isn't good. Bloodstains＿become difficult to clean if you don't＿treat them quickly!」"
+msgstr "Ryuuji「......¡Ah! Esto no está bien. ¡Las＿manchas de sangre son difíciles de＿quitar si no se tratan rápido!」"
+
+msgid "Sakura「My house is right around the corner.＿Please stop by. I'll wash it for you.」"
+msgstr "Sakura「Mi casa está justo a la vuelta＿de la esquina. Por favor, pasa.＿La lavaré por ti.」"
+
+msgid "Ryuuji「Really?」"
+msgstr "Ryuuji「¿En serio?」"
+
+msgid "Ryuuji「（......! Wait. No matter the amount of＿blood, under no circumstances can I＿go home with a girl I just met.）」"
+msgstr "Ryuuji「（......! Espera. Por mucha sangre que＿haya, de ningún modo puedo ir a casa de＿una chica que acabo de conocer.）」"
+
+msgid "Sakura「It's my fault this happened, so please＿let me fix it.」"
+msgstr "Sakura「Es mi culpa que pasara esto, así que＿por favor déjame arreglarlo.」"
+
+msgid "Ryuuji「But......」"
+msgstr "Ryuuji「Pero......」"
+
+msgid "Ryuuji「（How long would it take to get back＿home from here......? Aww crap, it would＿take too long!）」"
+msgstr "Ryuuji「（¿Cuánto tardaría en volver＿a casa desde aquí......? ¡Rayos,＿tardaría demasiado!）」"
+
+msgid "Ryuuji「......Sorry about all this. Are you sure＿it's okay with you?」"
+msgstr "Ryuuji「......Perdón por todo esto.＿¿De verdad no te molesta?」"
+
+msgid "Sakura「Of course! ......Oh, but please don't tell＿anyone about what you see in my＿house.」"
+msgstr "Sakura「¡Por supuesto! ......Ah, pero＿por favor, no le digas a nadie＿lo que veas en mi casa.」"
+
+msgid "Ryuuji「......What do you mean?」"
+msgstr "Ryuuji「......¿Qué quieres decir?」"
+
+msgid "Sakura「Can you not ask questions and just＿promise me?」"
+msgstr "Sakura「¿Puedes no hacer preguntas＿y solo prometérmelo?」"
+
+msgid "Ryuuji「A-Alright. As it stands, I don't need to＿tell anyone.」"
+msgstr "Ryuuji「E-Está bien. De todos modos, no tengo＿por qué decírselo a nadie.」"
+
+msgid "Sakura「Thank you very much!」"
+msgstr "Sakura「¡Muchas gracias!」"
+
+msgid "Ryuuji「Alright, then let's......」"
+msgstr "Ryuuji「Bien, entonces......」"
+
+msgid "Sakura「Oh, I gotta pick up the money.」"
+msgstr "Sakura「Ah, tengo que recoger el dinero.」"
+
+msgid "Ryuuji「Oh yeah. Let's get it done fast.」"
+msgstr "Ryuuji「Ah, es cierto. Hagámoslo rápido.」"
+
+msgid "Sakura「Aah!」"
+msgstr "Sakura「¡Aah!」"
+
+msgid "Ryuuji「It's fine, I'll do it!」"
+msgstr "Ryuuji「Está bien, ¡yo lo hago!」"
+
+msgid "Sakura「I, I'm sorryyy～!」"
+msgstr "Sakura「¡L-Lo sientooo～!」"
+
+msgid "Sakura「From the executive committee for that＿last party...... And everyone says to stay＿away from the delinquent Takasu......」"
+msgstr "Sakura「Del comité ejecutivo de aquella última＿fiesta...... Y todos dicen que nos＿alejemos del delincuente Takasu......」"
+
+msgid "Sakura「*Gasp*!!」"
+msgstr "Sakura「¡¡Ah!!」"
+
+msgid "Ryuuji「（Protein is the main component of a＿bloodstain, so if I apply an alkaline＿solution right away......）」"
+msgstr "Ryuuji「（El componente principal de una mancha＿de sangre es proteína; si aplico una＿solución alcalina enseguida......）」"
+
+msgid "Ryuuji「（Then if I wash it with detergent, the＿stains should come out easily......!）」"
+msgstr "Ryuuji「（Luego, si la lavo con detergente, ¡las＿manchas deberían salir fácil......!）」"

@@ -1,0 +1,296 @@
+msgid ""
+msgstr ""
+
+msgid "Taiga「Argh! Thanks to you dragging your＿feet, we're going to be late.」"
+msgstr "Taiga「¡Agh! Por culpa de tu lentitud,＿vamos a llegar tarde.」"
+
+msgid "Ryuuji「Which one of us was glued to the TV?」"
+msgstr "Ryuuji「¿Quién estaba pegado a la tele?」"
+
+msgid "Taiga「Whatever, let's go. We'll have to hurry＿if we want to get there before＿midnight!」"
+msgstr "Taiga「Como sea, vámonos. ¡Hay que＿darnos prisa si queremos llegar＿antes de medianoche!」"
+
+msgid "Ryuuji「Hey, don't run! It's your fault if you fall.」"
+msgstr "Ryuuji「¡No corras! Si caes, será culpa tuya.」"
+
+msgid "Taiga「Ack!!」"
+msgstr "Taiga「¡¡Ay!!」"
+
+msgid "Ryuuji「I told you so......」"
+msgstr "Ryuuji「Te lo dije......」"
+
+msgid "Ryuuji「There's a ton of people here......」"
+msgstr "Ryuuji「Hay un montón de gente aquí......」"
+
+msgid "Taiga「And a ton of food stalls!」"
+msgstr "Taiga「¡Y un montón de puestos de comida!」"
+
+msgid "Ryuuji「Oh, are you already hungry again?」"
+msgstr "Ryuuji「Oh, ¿ya tienes hambre otra vez?」"
+
+msgid "Taiga「I have a little room for yakisoba. And＿takoyaki. And crepes......」"
+msgstr "Taiga「Tengo un huequito para yakisoba.＿Y takoyaki. Y crepes......」"
+
+msgid "Ryuuji「Exactly how big is your stomach?」"
+msgstr "Ryuuji「¿De qué tamaño es tu estómago?」"
+
+msgid "Taiga「Oh, shut up. I have a separate stomach＿for special occasions. Look, let's get＿takoyaki first!」"
+msgstr "Taiga「Ay, cállate. Tengo otro estómago＿para ocasiones especiales. Mira,＿¡compremos takoyaki primero!」"
+
+msgid "Taiga「Ryuuji, what next?」"
+msgstr "Taiga「Ryuuji, ¿qué sigue?」"
+
+msgid "Ryuuji「Calm down a little. The sauce is＿dripping on your clothes.」"
+msgstr "Ryuuji「Cálmate un poco. Te está goteando＿salsa en la ropa.」"
+
+msgid "Taiga「It's fine! So what's next? Something＿sweet? Crepes? Candy apples? Mmm,＿and you can't forget imagawayaki!」"
+msgstr "Taiga「¡No importa! ¿Qué sigue? ¿Algo dulce?＿¿Crepes? ¿Manzanas acarameladas? Mmm,＿¡y no puede faltar el imagawayaki!」"
+
+msgid "Ryuuji「Taiga, this isn't just a festival. We came＿here to celebrate Hatsumode.」"
+msgstr "Ryuuji「Taiga, esto no es solo un festival.＿Vinimos aquí a celebrar el Hatsumode.」"
+
+msgid "Taiga「Same thing. I wish Yacchan was here＿with us.」"
+msgstr "Taiga「Es lo mismo. Ojalá Yacchan estuviera＿aquí con nosotros.」"
+
+msgid "Ryuuji「Oh, Yasuko's still at work, huh......」"
+msgstr "Ryuuji「Ah, Yasuko sigue trabajando, eh......」"
+
+msgid "Taiga「Oh, baked potatoes! Let's get some.」"
+msgstr "Taiga「¡Oh, papas asadas! Vamos a comprar.」"
+
+msgid "Ryuuji「She's not listening...... Weren't we＿getting dessert?」"
+msgstr "Ryuuji「No me escucha...... ¿No íbamos＿a comprar un postre?」"
+
+msgid "Taiga「Get the phrase \"once in a lifetime＿opportunity\" in that brain. Hey mister!＿One pie...... I mean, one please!」"
+msgstr "Taiga「Métete la frase \"oportunidad única en la＿vida\" en ese cerebro. ¡Oiga, señor! Una＿tarta...... ¡digo, una por favor!」"
+
+msgid "Ryuuji「......Good grief.」"
+msgstr "Ryuuji「......Cielos.」"
+
+msgid "Taiga「Whew......」"
+msgstr "Taiga「Uf......」"
+
+msgid "Taiga「Yup, that hit the spot!!」"
+msgstr "Taiga「¡¡Sí, eso me cayó de maravilla!!」"
+
+msgid "Ryuuji「You and your damn \"see-food\" diet......」"
+msgstr "Ryuuji「Tu maldita dieta de \"ver y comer\"......」"
+
+msgid "Taiga「Yeah, my stomach hurts a little.」"
+msgstr "Taiga「Sí, me duele un poco el estómago.」"
+
+msgid "Ryuuji「Of course it would.」"
+msgstr "Ryuuji「Cómo no te va a doler.」"
+
+msgid "Patron「Hey guys, the New Year is only a＿minute away!」"
+msgstr "Visitante「¡Oigan, falta solo un minuto＿para el Año Nuevo!」"
+
+msgid "Patron「Let's do a countdown!」"
+msgstr "Visitante「¡Hagamos la cuenta regresiva!」"
+
+msgid "Taiga「Hear that, Ryuuji? One minute left.」"
+msgstr "Taiga「¿Oíste eso, Ryuuji? Falta un minuto.」"
+
+msgid "Ryuuji「Oh, it's true. It's already 11:59.」"
+msgstr "Ryuuji「Ah, es verdad. Ya son las 11:59.」"
+
+msgid "Taiga「Why didn't you tell me you had a＿watch? I was about to miss the big＿moment.」"
+msgstr "Taiga「¿Por qué no me dijiste que tenías reloj?＿Casi me pierdo el gran momento.」"
+
+msgid "Ryuuji「You wouldn't miss it with everyone＿cheering.」"
+msgstr "Ryuuji「No te lo perderías con todo＿el mundo festejando.」"
+
+msgid "Taiga「That's just retarded. How many＿seconds left?」"
+msgstr "Taiga「Eso es una estupidez. ¿Cuántos＿segundos faltan?」"
+
+msgid "Ryuuji「Let's see...... 30 seconds.」"
+msgstr "Ryuuji「A ver...... 30 segundos.」"
+
+msgid "Taiga「Hey, Ryuuji......」"
+msgstr "Taiga「Oye, Ryuuji......」"
+
+msgid "Ryuuji「Hm?」"
+msgstr "Ryuuji「¿Mmm?」"
+
+msgid "Taiga「Are you happy to be spending New＿Year's with someone like me?」"
+msgstr "Taiga「¿Te alegra pasar el Año Nuevo＿con alguien como yo?」"
+
+msgid "Ryuuji「Now you ask me?」"
+msgstr "Ryuuji「¿Ahora me lo preguntas?」"
+
+msgid "Taiga「As long as you're okay with it......」"
+msgstr "Taiga「Mientras a ti te parezca bien......」"
+
+msgid "Ryuuji「......15 seconds left.」"
+msgstr "Ryuuji「......Faltan 15 segundos.」"
+
+msgid "Taiga「Really?」"
+msgstr "Taiga「¿En serio?」"
+
+msgid "Ryuuji「10, 9, 8, 7, 6......」"
+msgstr "Ryuuji「10, 9, 8, 7, 6......」"
+
+msgid "Both「5, 4, 3, 2, 1......」"
+msgstr "Ambos「5, 4, 3, 2, 1......」"
+
+msgid "Taiga「Ooh, fireworks?」"
+msgstr "Taiga「Oh, ¿fuegos artificiales?」"
+
+msgid "Ryuuji「Oh?」"
+msgstr "Ryuuji「¿Eh?」"
+
+msgid "Taiga「Can you see them?」"
+msgstr "Taiga「¿Puedes verlos?」"
+
+msgid "Ryuuji「Nope...... I wonder where they're coming＿from.」"
+msgstr "Ryuuji「No...... Me pregunto de dónde salen.」"
+
+msgid "Taiga「Oh......」"
+msgstr "Taiga「Ah......」"
+
+msgid "Taiga「Happy New Year, Ryuuji.」"
+msgstr "Taiga「Feliz Año Nuevo, Ryuuji.」"
+
+msgid "Ryuuji「Oh...... Happy New Year, Taiga.」"
+msgstr "Ryuuji「Ah...... Feliz Año Nuevo, Taiga.」"
+
+msgid "Taiga「This line is so SLOW～!」"
+msgstr "Taiga「¡Esta fila avanza muy LENTO～!」"
+
+msgid "Ryuuji「It's almost our turn, so hang in there.」"
+msgstr "Ryuuji「Ya casi nos toca, así que aguanta.」"
+
+msgid "Taiga「But we'll be in this line for another half＿an hour - and it's freezing!」"
+msgstr "Taiga「Pero seguiremos en esta fila otra media＿hora, ¡y hace un frío horrible!」"
+
+msgid "Ryuuji「It is Hatsumode, after all. At the＿busiest shrines you'd have to wait 3 or＿4 hours.」"
+msgstr "Ryuuji「Es el Hatsumode, después de todo.＿En los santuarios más concurridos＿hay que esperar 3 o 4 horas.」"
+
+msgid "Taiga「ARGH! It's taking forever because of all＿the greedy people!」"
+msgstr "Taiga「¡AGH! ¡Tarda una eternidad por culpa＿de toda la gente codiciosa!」"
+
+msgid "Ryuuji「Greedy people?」"
+msgstr "Ryuuji「¿Gente codiciosa?」"
+
+msgid "Taiga「You know, the kinda people who make＿an offering of a mere ¥5, and then＿make a ton of wishes!」"
+msgstr "Taiga「Ya sabes, el tipo de gente que da＿una ofrenda de apenas ¥5, ¡y luego＿pide un montón de deseos!」"
+
+msgid "Ryuuji「......Maybe she's talking about me. I＿can't remember too well.」"
+msgstr "Ryuuji「......Tal vez habla de mí. No＿puedo recordarlo muy bien.」"
+
+msgid "Taiga「Ugh. I'd hate to be next to such a＿senseless person.」"
+msgstr "Taiga「Agh. Odiaría estar junto a una＿persona tan insensata.」"
+
+msgid "Ryuuji「Don't say that. I'm only going to make＿one wish.」"
+msgstr "Ryuuji「No digas eso. Solo voy a pedir un deseo.」"
+
+msgid "Taiga「Be generous with your offering, too.」"
+msgstr "Taiga「Sé generoso con tu ofrenda también.」"
+
+msgid "Ryuuji「Oh? What's wrong with ¥5?」"
+msgstr "Ryuuji「¿Eh? ¿Qué tiene de malo dar ¥5?」"
+
+msgid "Taiga「If you're asking for your memories＿back, don't be stingy.」"
+msgstr "Taiga「Si vas a pedir recuperar tus＿recuerdos, no seas tacaño.」"
+
+msgid "Ryuuji「No, the amount doesn't really matter＿here, you know?」"
+msgstr "Ryuuji「No, la cantidad aquí no＿importa tanto, ¿sabes?」"
+
+msgid "Taiga「Whoa～ Maybe you should ask for them＿to fix that super-stingy attitude of＿yours instead?」"
+msgstr "Taiga「Vaya～ ¿Mejor no pides que te arreglen＿esa actitud tan tacaña tuya?」"
+
+msgid "Ryuuji「Listen here......」"
+msgstr "Ryuuji「Escucha......」"
+
+msgid "Taiga「Hey, it's our turn. Put in at least ¥50.」"
+msgstr "Taiga「Oye, es nuestro turno. Pon al menos ¥50.」"
+
+msgid "Ryuuji「Alright, fine.」"
+msgstr "Ryuuji「Bien, está bien.」"
+
+msgid "Ryuuji「（I wish for my memories to return...... I＿even put in ¥100, so please help＿me......）」"
+msgstr "Ryuuji「（Deseo que vuelvan mis recuerdos......＿Hasta puse ¥100, así que por favor＿ayúdame......）」"
+
+msgid "Taiga「......」"
+msgstr "Taiga「......」"
+
+msgid "Ryuuji「（Well, Taiga's sure taking a while......＿Just a little more......）」"
+msgstr "Ryuuji「（Vaya, Taiga sí que tarda......＿Un poco más......）」"
+
+msgid "Taiga「Gah! Hey......」"
+msgstr "Taiga「¡Ah! Oye......」"
+
+msgid "Ryuuji「（Huh?）」"
+msgstr "Ryuuji「（¿Eh?）」"
+
+msgid "Ryuuji「......What the? Taiga, where'd you go?＿TAIGA?」"
+msgstr "Ryuuji「......¿Pero qué? Taiga, ¿adónde＿fuiste? ¿TAIGA?」"
+
+msgid "Ryuuji「（Is she seriously...... in this huge crowd!?）」"
+msgstr "Ryuuji「（¡¿En serio...... entre tanta gente?!）」"
+
+msgid "Ryuuji「TAIGAAA! HEEEY!」"
+msgstr "Ryuuji「¡TAIGAAA! ¡OOOYE!」"
+
+msgid "Ryuuji「（She's gone...... Where the hell did she＿run off to!?）」"
+msgstr "Ryuuji「（Se fue...... ¡¿Adónde diablos＿se habrá metido?!）」"
+
+msgid "Ryuuji「（She's not here...... Fuck! I left my cell＿phone at home!）」"
+msgstr "Ryuuji「（No está aquí...... ¡Maldición!＿¡Dejé mi teléfono en casa!）」"
+
+msgid "Ryuuji「（............）」"
+msgstr "Ryuuji「（............）」"
+
+msgid "Ryuuji「（......While I'm here......）」"
+msgstr "Ryuuji「（......Ya que estoy aquí......）」"
+
+msgid "Ryuuji「（Forget about the memories and the＿mold. I wish to find Taiga! I beg of you!＿I'll put in another ¥100! Understand?!）」"
+msgstr "Ryuuji「（Olvídate de los recuerdos y el moho.＿¡Deseo encontrar a Taiga! ¡Te lo ruego!＿¡Pondré otros ¥100! ¡¿Entendido?!）」"
+
+msgid "Ryuuji「......Alright.」"
+msgstr "Ryuuji「......Bien.」"
+
+msgid "Ryuuji「TAIGAAA! WHERE ARE YOUUU?」"
+msgstr "Ryuuji「¡TAIGAAA! ¿DÓNDE ESTÁAAAS?」"
+
+msgid "Taiga「RYUUUJIIII!」"
+msgstr "Taiga「¡RYUUUJIIII!」"
+
+msgid "Ryuuji「Oh, I was looking for you!」"
+msgstr "Ryuuji「¡Oh, te estaba buscando!」"
+
+msgid "Taiga「That's my line! Why didn't you answer＿your phone?!」"
+msgstr "Taiga「¡Esa es mi frase! ¡¿Por qué no＿contestaste el teléfono?!」"
+
+msgid "Ryuuji「Sorry, I don't have it on me.」"
+msgstr "Ryuuji「Perdón, no lo traigo encima.」"
+
+msgid "Taiga「I looked everywhere!」"
+msgstr "Taiga「¡Busqué por todas partes!」"
+
+msgid "Ryuuji「Same here.」"
+msgstr "Ryuuji「Yo también.」"
+
+msgid "Taiga「I'm tired.」"
+msgstr "Taiga「Estoy cansada.」"
+
+msgid "Ryuuji「Me too.」"
+msgstr "Ryuuji「Yo también.」"
+
+msgid "Taiga「My feet hurt. I can't walk.」"
+msgstr "Taiga「Me duelen los pies. No puedo caminar.」"
+
+msgid "Ryuuji「Okay. Let's take a break.」"
+msgstr "Ryuuji「Está bien. Descansemos un poco.」"
+
+msgid "Taiga「............」"
+msgstr "Taiga「............」"
+
+msgid "Ryuuji「（Good grief...... Guess I'll try to make it＿up to her......）」"
+msgstr "Ryuuji「（Qué remedio...... Supongo que intentaré＿compensárselo......）」"
+
+msgid "Ryuuji「（Err...... I still wish for the memories＿thing, but if possible I also wish for＿mold to stop growing in the bathroom.）」"
+msgstr "Ryuuji「（Ehm...... Aún deseo lo de mis＿recuerdos, pero si es posible también＿que deje de salir moho en el baño.）」"
+
+msgid "Ryuuji「（That's worth another ¥5...... And also,＿uh......）」"
+msgstr "Ryuuji「（Eso vale otros ¥5......＿Y además, ehm......）」"
