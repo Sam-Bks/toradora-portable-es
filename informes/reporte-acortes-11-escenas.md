@@ -480,7 +480,7 @@ image_block_title.dat, image_title.dat, first_title.dat, second_title.dat) — e
 ninguno estaba como texto plano. Por eso la hipótesis era textura; Codex demostró
 que es texto en `first.dat → text.dat → utf16.txt.gz` (un contenedor comprimido que
 no se había descomprimido). Paquete en `investigacion-menu-titulo/` (EBOOT.BIN,
-BOOT.BIN, GIM del título, GPDA del título, seekmap.txt, repo taiga-aisaka).
+BOOT.BIN, GIM del título, GPDA del título, seekmap.txt).
 
 **Estado:** el menú de título ya NO es un misterio — se sabe dónde vive, cómo se
 modifica y que cabe (3,015 B en hueco de 4,096 B). **Pendiente:** aplicar la

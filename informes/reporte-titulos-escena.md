@@ -471,6 +471,6 @@ Script: `verificar-v6.py`. Extrae resource.dat y first.dat del ISO v6 y verifica
 ## 9. Pendientes
 
 - **Playtest visual de v6 por Sam** (iPhone/PC): confirmar que "Regreso a casa" se ve al empezar la escena, que "TODOS" aparece en diálogos y que los headers del System Menu se ven en español.
-- **Issue de GitHub a los autores EN** (xyzz/taiga-aisaka): aún pendiente de redactar (cuenta Sam-Bks). El cambio de avatar de esa cuenta quedó diferido ("lo hago luego", Sam).
+- **Issue de GitHub a los autores EN:** respondido el 19 nov 2026 — se negaron y pidieron no ser mencionados ni asociados al proyecto. En consecuencia, el repo no acredita ni enlaza su trabajo; solo indica que se parte de la ISO con el parche en inglés v1.10. El cambio de avatar de esa cuenta quedó diferido ("lo hago luego", Sam).
 - **Manual impreso:** PARKED (no comprar; solo si aparece un escaneo digital).
 - **Documentación final** (`documentacion-proceso.md`): cerrar con historial de versiones al final del proyecto (incluir los 40 acortamientos de títulos y el acortamiento de _b045not0 en el reporte de recortes).

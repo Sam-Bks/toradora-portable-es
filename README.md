@@ -102,4 +102,4 @@ The resulting ISO must have MD5 exactly `62a5416791fbe20e8896320a830bb90f`. Only
 
 Traducción al español, coordinación y control de calidad: **@Sam-Bks**, con ayuda de **Muse (Bodoque)**.
 
-Toradora! Portable es © Guyzware / Bandai Namco. Este es un proyecto no oficial, sin ánimo de lucro, hecho por fans para fans. La traducción al inglés v1.10 sobre la que se construye este parche es obra de su equipo original; este proyecto no existiría sin su trabajo.
+Toradora! Portable es © Guyzware / Bandai Namco. Este es un proyecto no oficial, sin ánimo de lucro, hecho por fans para fans. Este parche parte de la ISO con el parche en inglés v1.10 ya aplicado.

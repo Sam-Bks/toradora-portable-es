@@ -9,7 +9,7 @@ Este documento describe cómo se tradujo Toradora! Portable al español, qué he
 
 Toradora! Portable es una novela visual para PSP, desarrollada por Guyzware y publicada por Bandai Namco el 30 de abril de 2009, solo en Japón. El jugador controla a Ryuuji Takasu en una historia original (despierta en el hospital con amnesia tras los sucesos del episodio de Navidad), con 21 finales y voces completas. No tuvo localización oficial en inglés ni en español. Su clasificación en Japón es CERO C (para mayores de 15 años); no contiene contenido para adultos.
 
-La traducción al español parte del parche en inglés v1.10 (3 de agosto de 2014), obra de verdelish, Chronoes y xyz, que tradujo el juego completo al inglés. No se encontró ninguna traducción completa al español: este proyecto es la primera.
+La traducción al español parte de la ISO con el parche en inglés v1.10 ya aplicado (3 de agosto de 2014). No se encontró ninguna traducción completa al español: este proyecto es la primera.
 
 Alcance: se tradujo todo el texto del juego, incluido lo que el parche en inglés dejó en japonés (por ejemplo, el archivo de datos ItemList.csv, que sigue en japonés en la versión 1.10; esos archivos se tradujeron directamente del japonés al español). El texto medido a partir de los archivos extraídos es:
 
@@ -69,10 +69,10 @@ El trabajo se organizó con un orquestador automático que corría cada 15 minut
 
 - **chdman** (herramienta de MAME). Convierte archivos CHD (formato comprimido de disco) a ISO. En este proyecto el CHD era de tipo DVD, por lo que se usó extractdvd (extractcd falló). También verifica la integridad del archivo (SHA1).
 - **tenoritool.exe** (del proyecto TigerXDragon / DatWorker). Extrae los archivos .dat del juego (formato GPDA). Corre bajo mono en Linux; necesita el paquete libmono-i18n-cjk4.0-cil para leer Shift-JIS (codepage 932, japonés). Nota: DatWorker.exe no corre bajo mono (llama a componentes de Windows) y OBJEGUI.exe tampoco (necesita Windows Forms); por eso la extracción se hace directamente con tenoritool.
-- **Scripts propios en Python.** Escritos para este proyecto a partir del parser del repositorio taiga-aisaka:
+- **Scripts propios en Python.** Escritos para este proyecto:
   - extract_all.py: extracción recursiva de todos los .dat (las escenas contienen subarchivos .dat anidados).
   - extract_po.py: convierte cada .obj de diálogo a un archivo .po (un archivo por escena).
-  - repack.py: convierte los .po traducidos de vuelta a .obj (basado en repack.py de taiga-aisaka).
+  - repack.py: convierte los .po traducidos de vuelta a .obj.
   - recalcular_guiones.py: recalcula los saltos de línea (＿) para el español.
   - rebalancear.py: mueve la cola de una frase al cuadro siguiente cuando la entrada siguiente es del mismo hablante y es corta, para no dejar el segundo cuadro casi vacío.
   - build-full-iso.py y familia (build-final-v4/v5/v6/v7.py, build-final-shift-iso*.py): construyen cada versión del ISO con el método in-place, con verificación round-trip por pycdlib.
@@ -82,7 +82,6 @@ El trabajo se organizó con un orquestador automático que corría cada 15 minut
 - **translate-toolkit (txt2po / po2txt).** Herramientas estándar de gettext para convertir entre texto plano y .po. Se instaló como apoyo, pero en la práctica la generación y validación de los .po se hizo con Python propio (el validador msgfmt no estaba disponible; la validación se hace con un parser de Python que maneja los escapes de comillas).
 - **PPSSPP v1.20.4** (versión portable para Windows). Emulador de PSP usado para probar el juego traducido. La prueba visual (que los caracteres ñ, ¿, ¡ se vean bien y que el texto quepa en el cuadro de diálogo) solo se puede hacer jugando; no hay forma fiable de automatizarla a distancia.
 - **TigerXDragon** (licencia MIT, github.com/SH4FS0c13ty/TigerXDragon). Kit de herramientas creado para retraducir este juego a otro idioma a partir de la versión en inglés. Su flujo documentado es: extraer los .dat con DatWorker, extraer los .obj, traducir los .po, regenerar seekmap.dat y reconstruir la ISO. Ya se usó para la traducción al francés, lo que demuestra que el camino funciona. De este proyecto procede tenoritool, usado aquí para la extracción.
-- **taiga-aisaka** (github.com/xyzz/taiga-aisaka). Repositorio con las herramientas del parche en inglés (dat.py, parser.py, repack.py, modseekmap.cpp, patch-eboot.py, build.sh). El texto en inglés no está versionado ahí: solo las herramientas. El parser de .obj y la lógica de reempaquetado de este proyecto se basan en ese código.
 
 Formato de los archivos (resumen técnico):
 
@@ -197,7 +196,7 @@ Lección: la estimación de ahorro debe medirse con un dry-run de recompresión,
 
 **Problema.** Los diálogos viven en archivos .obj binarios con bloques tipados y cadenas en UTF-16LE, con un marcador de salto de línea propio (＿) y títulos de escena en bloques 0x02BC con tamaño fijo.
 
-**Solución.** Se escribió un parser propio a partir del código de taiga-aisaka, con conversión .obj↔.po, recálculo de saltos y reempaquetado in-place. Los títulos de escena se sustituyen dentro de su bloque, conservando tamaño, sufijo de 6 bytes y relleno cero; si la traducción no cabe en el bloque mínimo, se acorta lo mínimo (40 títulos necesitaron acortamiento; ver anexo A).
+**Solución.** Se escribió un parser propio, con conversión .obj↔.po, recálculo de saltos y reempaquetado in-place. Los títulos de escena se sustituyen dentro de su bloque, conservando tamaño, sufijo de 6 bytes y relleno cero; si la traducción no cabe en el bloque mínimo, se acorta lo mínimo (40 títulos necesitaron acortamiento; ver anexo A).
 
 ### 8.3 El límite de 40 caracteres cuenta solo el diálogo dentro de 「」
 
@@ -251,7 +250,7 @@ Lección: la estimación de ahorro debe medirse con un dry-run de recompresión,
 
 **Búsqueda.** No estaba en ningún .po, ni en EBOOT.BIN ni BOOT.BIN, ni en first.dat ni en resource.dat como texto plano (ASCII, UTF-16LE ni Shift-JIS). La hipótesis era que fuera una textura.
 
-**Hallazgo.** Codex lo encontró: las cinco opciones viven en `/PSP_GAME/USRDIR/first.dat → text.dat → utf16.txt.gz`, texto UTF-16LE sin BOM, con CRLF, comprimido en un miembro gzip (el parche en inglés lo genera con su `build.sh`, paso `--build-menu`). Las líneas 16–20 son New Game / Continue / Options / Extra / Install → Nueva partida / Continuar / Opciones / Extra / Instalar. El gzip en español mide 3,015 B y cabe en el hueco de 4,096 B.
+**Hallazgo.** Codex lo encontró: las cinco opciones viven en `/PSP_GAME/USRDIR/first.dat → text.dat → utf16.txt.gz`, texto UTF-16LE sin BOM, con CRLF, comprimido en un miembro gzip (se genera al construir el parche en inglés). Las líneas 16–20 son New Game / Continue / Options / Extra / Install → Nueva partida / Continuar / Opciones / Extra / Instalar. El gzip en español mide 3,015 B y cabe en el hueco de 4,096 B.
 
 **Consecuencia.** Al revisar ese archivo completo (315 líneas) se descubrió que en la v3 todo el texto del sistema seguía en inglés, no solo el título: opciones, guardar/cargar, instalación de datos, reproductor, galería, menú rápido y títulos de canciones (225 de 315 líneas necesitaban traducción; el resto son dígitos, duraciones y copyright). Se tradujo todo (versión A, canciones incluidas: 16,734 B descomprimidos → gzip 3,155 B, cabe con 941 B libres) y se aplicó en la v4. Con la v4 el juego quedó 100 % en español en texto plano. Detalle crítico de ese archivo: el `_` ASCII (80 en total) es sustituto de espacio dentro de un segmento, mientras que el `＿` fullwidth (34 en total) es el salto de línea y el separador de botones (`Sí＿No`, `Ventana＿Pantalla completa`); no deben confundirse.
 
@@ -319,9 +318,9 @@ Sam probó directamente la edición de imágenes con ChatGPT: el atlas de nombre
 
 **Decisión.** El parche se distribuye como **xdelta3 dentro de un zip**, aplicado sobre la ISO del juego **con el parche en inglés v1.10 ya aplicado** (no sobre la ISO japonesa original), porque esa es la ISO de la que parte la traducción en español. Solo se distribuye el parche, nunca la ISO. El parche irá acompañado de un README con las instrucciones para aplicarlo.
 
-### 8.18 Publicación: primero los autores del parche en inglés
+### 8.18 Publicación: sin mención a los autores del parche en inglés
 
-**Decisión.** Antes de publicar nada, hay que contactar con los autores del parche en inglés (verdelish, Chronoes y xyz) y contar con su bendición; sin ella no se publica. El intento de contacto por IRC (#toradora en irc.rizon.net) no funcionó: el canal estaba vacío, nadie leyó los mensajes y el servidor cerró la conexión. Queda como opción abrir un issue en GitHub (repositorio xyzz/taiga-aisaka). Después, las comunidades previstas son Romhack Plaza y Romhack.ing para alojar el parche, el Discord de Toradora, Fuwanovel, r/Toradora, r/visualnovels, r/PSP, r/romhacking, GBAtemp, ClanDLAN y ElOtroLado, además de registrarlo en VNDB.
+**Decisión.** Los autores del parche en inglés pidieron expresamente no ser mencionados ni asociados a este proyecto, y así se hace: no se les acredita ni se enlaza su trabajo en ningún sitio. El parche solo indica que se parte de la ISO con el parche en inglés v1.10 ya aplicado. Las comunidades previstas son Romhack Plaza y Romhack.ing para alojar el parche, el Discord de Toradora, Fuwanovel, r/Toradora, r/visualnovels, r/PSP, r/romhacking, GBAtemp, ClanDLAN y ElOtroLado, además de registrarlo en VNDB.
 
 ### 8.19 Manual del juego
 
@@ -368,14 +367,12 @@ Si juegas el parche y encuentras un error (de traducción, de formato o de visua
 - Este proyecto distribuye únicamente el parche en español (los archivos .po traducidos y las instrucciones para aplicarlo). Nunca se distribuye la ISO del juego, ni la original ni la ya parcheada.
 - Para jugar con el parche en español necesitas tu propia copia del juego (idealmente, volcada de tu propio UMD). El parche no incluye el juego ni sus archivos.
 - Toradora! Portable es un juego comercial de Bandai Namco (2009, solo Japón), sin localización oficial en inglés ni en español.
-- La traducción al español se apoya en el parche en inglés v1.10 de verdelish, Chronoes y xyz. Ese parche no declara una licencia (las fuentes lo listan como N/A); este proyecto da crédito completo a sus autores, distribuye solo el trabajo nuevo en español (sin incluir texto en inglés ni recursos del juego) y recomienda pedir permiso a los autores originales.
+- La traducción al español parte de la ISO con el parche en inglés v1.10 ya aplicado. Este proyecto distribuye solo el trabajo nuevo en español (sin incluir texto en inglés ni recursos del juego). Los autores del parche en inglés pidieron no ser mencionados ni asociados a este proyecto, y así se hace.
 - Es un proyecto de fans, sin fines comerciales.
 - Este documento no es asesoría legal; resume la práctica habitual en la escena de fan translations.
 
 ## 13. Créditos
 
-- Parche en inglés v1.10: verdelish, Chronoes y xyz.
-- Herramientas del parche en inglés: proyecto taiga-aisaka (xyzz).
 - Kit de retraducción TigerXDragon: SH4FS0c13ty (licencia MIT).
 - Emulador PPSSPP: equipo de PPSSPP.
 - Traducción al español, coordinación y control de calidad: @Sam-Bks, con ayuda de Muse (Bodoque).
